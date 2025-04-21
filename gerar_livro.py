@@ -47,9 +47,8 @@ try:
         model="gpt-4-turbo", # You might use "gpt-4-turbo-preview" or other available models
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7,
-        max_tokens=4096, # Adjusted to a more common token limit for chat models, 16000 is very large
-        # If your draft is very long, you might need to split it or use a model with a larger context window like gpt-4-turbo
-    )
+        max_tokens=4096,
+)
 
     # Access the content from the response object (Updated syntax)
     texto_formatado = response.choices[0].message.content
