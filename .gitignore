@@ -1,0 +1,35 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente (nunca versionar API keys)
+.env
+
+# Arquivos temporários ou sensíveis
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Arquivos de saída do livro
+Livro_Final_Formatado.docx
+
+# IDEs e ferramentas (VSCode, PyCharm etc.)
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testes e cache
+.pytest_cache/
+.cache/
+dist/
+build/
+
+# Arquivos Office gerados ou temporários
+~$*.docx
