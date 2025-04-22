@@ -1,16 +1,13 @@
-# --- Using Google's Gemini API (gemini-1.5-pro) --- # Changed comment
+# --- Using Google's Gemini API (gemini-1.5-pro) ---
 
-# from openai import OpenAI # No longer needed
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.shared import Pt, Inches
 from docx.styles.style import _ParagraphStyle # Para checagem de tipo
-from docx.oxml.shared import OxmlElement # Para adicionar estilo se não existir
-from docx.shared import RGBColor # Para definir cor de fonte (exemplo, não usado por padrão)
+from docx.shared import RGBColor
 
 from dotenv import load_dotenv
 import os
-# import tiktoken # tiktoken is for OpenAI models - consider Google's token counting if needed
 import re
 import logging
 from tqdm import tqdm
@@ -22,210 +19,192 @@ import google.generativeai as genai
 
 # === SETUP LOGGING ===
 log_dir = "logs"
-if not os.path.exists(log_dir):
-    os.makedirs(log_dir)
-
-# Ensure logs directory exists
-# CHANGED Log filename to indicate PRO model
+if not os.path.exists(log_dir): os.makedirs(log_dir)
 log_filepath = os.path.join(log_dir, "book_processor_ocr_pro.log")
-
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(module)s - %(funcName)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_filepath, encoding='utf-8'), # Ensure UTF-8 for logs
-        logging.StreamHandler()
-    ]
+    handlers=[ logging.FileHandler(log_filepath, encoding='utf-8'), logging.StreamHandler()]
 )
 logger = logging.getLogger(__name__)
 
-# === CARREGA VARIÁVEIS DE AMBIENTE DO .env ===
+# === CARREGA VARIÁVEIS DE AMBIENTE ===
 load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # === CONFIGURAÇÕES ===
-INPUT_TXT = "rascunho.txt" # Input name kept the same, assuming same source
-TEMPLATE_DOCX = "Estrutura.docx" # Template pode conter estilos pré-definidos
-# CHANGED Output filename to indicate PRO model
+INPUT_TXT = "rascunho.txt"
+TEMPLATE_DOCX = "Estrutura.docx"
 OUTPUT_DOCX = "Livro_Final_Formatado_Gemini_OCR_Corrigido_Pro_v1.docx"
-
-# Model name for Gemini
-# ============================================
-# CHANGED MODEL NAME TO GEMINI 1.5 PRO
 MODEL_NAME = "gemini-1.5-pro"
-# ============================================
-
-# MAX_CHUNK_TOKENS: Max tokens for the INPUT chunk (approximate for chunking logic).
-# Gemini 1.5 Pro also has a large context window (often 1M+ tokens). 10000 is safe.
-MAX_CHUNK_TOKENS = 10000 # Mantido, seguro para Pro
-
-# MAX_OUTPUT_TOKENS: Max tokens the model will GENERATE per chunk.
-# Gemini 1.5 Pro supports large outputs. 4096 is safe.
-MAX_OUTPUT_TOKENS = 4096 # Mantido, seguro para Pro
-
-# Temperature can be kept, or adjusted if needed for Pro's behavior
-TEMPERATURE = 0.6 # Mantido, pode ser ajustado
-
-# Nomes dos estilos do Word a serem usados (devem existir no TEMPLATE_DOCX)
+# !!!!! IMPORTANTE: AJUSTE CONFORME NECESSÁRIO APÓS TESTAR A NOVA LÓGICA !!!!!
+# Pode tentar aumentar um pouco (ex: 4000) se a subdivisão funcionar bem,
+# mas mantenha um valor seguro abaixo de MAX_OUTPUT_TOKENS.
+MAX_CHUNK_TOKENS = 1000 # Mantenha baixo inicialmente para forçar subdivisão
+# !!!!! ------------------------------------------------------------- !!!!!
+MAX_OUTPUT_TOKENS = 8192 # Limite da API para a resposta
+TEMPERATURE = 0.6
 NORMAL_STYLE_NAME = "Normal"
-CHAPTER_STYLE_NAME = "Heading 1"
-
-# Padrões Regex para identificar inícios de capítulo
+CHAPTER_STYLE_NAME = "Heading 1" # Ou o nome real do seu estilo de capítulo
 CHAPTER_PATTERNS = [
-    r'^\s*Capítulo \w+',
-    r'^\s*CAPÍTULO \w+',
-    r'^\s*Capítulo \d+',
-    r'^\s*CHAPTER \w+',
-    r'^\s*Chapter \d+',
-    r'^\s*LIVRO \w+',
-    r'^\s*PARTE \w+',
+    r'^\s*Capítulo \w+', r'^\s*CAPÍTULO \w+', r'^\s*Capítulo \d+',
+    r'^\s*CHAPTER \w+', r'^\s*Chapter \d+', r'^\s*LIVRO \w+', r'^\s*PARTE \w+',
 ]
-
-# Padrões Regex para identificar outras quebras (ex: quebra de cena)
-OTHER_BREAK_PATTERNS = [
-    r'^\s*\*\*\*\s*$',
-    r'^\s*---+\s*$',
-]
-
-# Marcador de quebra de página explícito no texto de entrada
+OTHER_BREAK_PATTERNS = [r'^\s*\*\*\*\s*$', r'^\s*---+\s*$']
 PAGE_BREAK_MARKER = "===QUEBRA_DE_PAGINA==="
+AI_FAILURE_MARKER = "*** FALHA NA IA - TEXTO ORIGINAL ABAIXO ***"
+FORMATTING_ERROR_MARKER = "*** ERRO DE FORMATAÇÃO - TEXTO ORIGINAL ABAIXO ***"
 
-# --- Fim das Configurações ---
+# --- Validação API Key ---
+if not GOOGLE_API_KEY: logger.error("GOOGLE_API_KEY não encontrada."); exit(1)
 
-# --- Validação da API Key ---
-if not GOOGLE_API_KEY:
-    logger.error("Google API key (GOOGLE_API_KEY) não encontrada no arquivo .env ou variáveis de ambiente.")
-    exit(1)
-
-# --- Setup Gemini API Client ---
+# --- Setup Gemini Client ---
 try:
     genai.configure(api_key=GOOGLE_API_KEY)
-    # Instantiates the model using the updated MODEL_NAME variable
     gemini_model = genai.GenerativeModel(MODEL_NAME)
-    logger.info(f"Modelo Gemini '{MODEL_NAME}' inicializado com sucesso.")
-except Exception as e:
-    logger.error(f"Falha ao inicializar o cliente ou modelo Gemini ({MODEL_NAME}): {e}")
-    exit(1)
+    logger.info(f"Modelo Gemini '{MODEL_NAME}' inicializado.")
+except Exception as e: logger.error(f"Falha ao inicializar modelo Gemini ({MODEL_NAME}): {e}"); exit(1)
 
 # --- Funções Auxiliares ---
 
-# (Funções count_tokens_approx, create_chunks, format_with_ai, apply_formatting
-# permanecem EXATAMENTE as mesmas da versão anterior, pois a lógica delas
-# não muda com a troca do modelo, apenas o 'gemini_model' passado para
-# 'format_with_ai' será a instância do gemini-1.5-pro)
-
 def count_tokens_approx(text):
-    """
-    Aproxima a contagem de tokens usando contagem de caracteres.
-    NOTA: Esta é uma aproximação rápida para a lógica de chunking.
-    A contagem real de tokens pode diferir significativamente.
-    """
-    if not text:
-        return 0
-    # Aproximação: 1 token ≈ 4 caracteres para scripts latinos (ajuste se necessário)
+    """Estima a contagem de tokens (aproximadamente 4 caracteres por token)."""
+    if not text: return 0
+    # Uma estimativa muito básica. Para maior precisão, use a API count_tokens do Gemini.
     return len(text) // 4
 
+# --- FUNÇÃO create_chunks ATUALIZADA ---
 def create_chunks(text, max_tokens):
-    """
-    Divide o texto em chunks respeitando parágrafos, capítulos e outras quebras.
-    Retorna uma lista de chunks, cada um com texto <= max_tokens (aproximado).
-    Tenta evitar dividir no meio de parágrafos ou frases, se possível.
-    """
-    logger.info(f"Iniciando criação de chunks. Máximo de tokens (aprox.) por chunk: {max_tokens}")
+    """Divide o texto em chunks, subdividindo parágrafos grandes."""
+    logger.info(f"Iniciando criação de chunks. Máx tokens (aprox): {max_tokens}")
     chunks = []
     current_chunk = ""
     current_chunk_tokens = 0
 
-    # Compila os padrões regex para eficiência
-    all_break_patterns = CHAPTER_PATTERNS + OTHER_BREAK_PATTERNS
-    break_regex = re.compile('|'.join(f"({p})" for p in all_break_patterns), re.IGNORECASE | re.MULTILINE)
-    full_line_break_regex = re.compile(r'|'.join(all_break_patterns), re.IGNORECASE)
+    # Inicialmente, divide por blocos maiores (parágrafos separados por linha dupla)
+    # Remove espaços em branco extras de cada bloco e ignora blocos vazios
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    logger.info(f"Texto dividido inicialmente em {len(paragraphs)} blocos não vazios ('\\n\\n').")
 
-    # Divide por quebras de linha DUPLAS primeiro, mantendo quebras simples dentro dos parágrafos
-    paragraphs = text.split("\n\n")
-    logger.info(f"Texto dividido inicialmente em {len(paragraphs)} blocos (baseado em '\\n\\n').")
+    for i, paragraph_text in enumerate(paragraphs):
+        paragraph_tokens = count_tokens_approx(paragraph_text)
+        # Adiciona tokens para a separação \n\n que será reintroduzida ao juntar
+        tokens_with_separator = paragraph_tokens + (count_tokens_approx("\n\n") if current_chunk else 0)
 
-    processed_paragraphs = []
-    temp_para = ""
-    for para in paragraphs:
-        stripped_para = para.strip()
-        if not stripped_para: # Ignora blocos completamente vazios
-             if temp_para: # Se havia algo antes, fecha o parágrafo acumulado
-                 processed_paragraphs.append(temp_para)
-                 temp_para = ""
-             continue
-
-        # Lógica Simplificada: Trata cada bloco de \n\n como um parágrafo potencial
-        if temp_para:
-             processed_paragraphs.append(temp_para) # Salva o parágrafo anterior
-        temp_para = para # Começa/atualiza o parágrafo atual
-
-    if temp_para: # Salva o último parágrafo acumulado
-        processed_paragraphs.append(temp_para)
-
-    logger.info(f"Texto reprocessado em {len(processed_paragraphs)} parágrafos lógicos.")
-
-
-    for i, paragraph in enumerate(processed_paragraphs):
-        # Usa a contagem aproximada de tokens
-        paragraph_tokens = count_tokens_approx(paragraph) # Contamos o parágrafo inteiro como veio
-
-        tokens_with_separator = paragraph_tokens + (1 if current_chunk else 0)
-
-        # Verifica se adicionar o parágrafo excede o limite do chunk atual
+        # --- LÓGICA DE COMBINAÇÃO ---
+        # Se o chunk atual + o novo parágrafo (com separador) exceder o limite
         if current_chunk_tokens > 0 and (current_chunk_tokens + tokens_with_separator > max_tokens):
-            chunks.append(current_chunk.strip())
-            logger.debug(f"Chunk {len(chunks)} salvo (limite atingido). Tokens (aprox.): {current_chunk_tokens}")
-            current_chunk = ""
-            current_chunk_tokens = 0
-
-        # Lida com parágrafos individuais que excedem o limite
-        if paragraph_tokens > max_tokens:
-            logger.warning(
-                f"Parágrafo {i+1} ({paragraph_tokens} tokens aprox.) excede limite de {max_tokens} tokens por chunk. "
-                f"O parágrafo será adicionado como um chunk único, potencialmente excedendo o limite."
-            )
-            if current_chunk.strip():
-                 chunks.append(current_chunk.strip())
-                 logger.debug(f"Chunk {len(chunks)} salvo (antes do parágrafo longo). Tokens (aprox.): {current_chunk_tokens}")
-
-            chunks.append(paragraph.strip()) # Adiciona o parágrafo grande como está
-            logger.debug(f"Chunk {len(chunks)} salvo (contendo parágrafo longo único). Tokens (aprox.): {paragraph_tokens}")
-            current_chunk = ""
-            current_chunk_tokens = 0
-            continue # Pula para o próximo parágrafo
-
-        # Lógica para adicionar parágrafo normal
-        paragraph_clean_for_check = paragraph.strip() # Para checar marcadores
-        is_break_marker = full_line_break_regex.match(paragraph_clean_for_check) is not None
-
-        if is_break_marker and current_chunk.strip():
-            chunks.append(current_chunk.strip())
-            logger.debug(f"Chunk {len(chunks)} salvo (antes do marcador de quebra '{paragraph_clean_for_check[:30]}...'). Tokens (aprox.): {current_chunk_tokens}")
-            current_chunk = paragraph + "\n\n" # Adiciona marcador ao novo chunk
-            current_chunk_tokens = tokens_with_separator
-        else:
+            # Salva o chunk atual antes de iniciar um novo
+            chunks.append(current_chunk)
+            logger.debug(f"Chunk {len(chunks)} salvo (limite atingido ao tentar adicionar Parágrafo {i+1}). Tokens: {current_chunk_tokens}")
+            current_chunk = paragraph_text # Começa novo chunk com o parágrafo atual
+            current_chunk_tokens = paragraph_tokens
+        # Se o chunk atual + o novo parágrafo couberem
+        elif current_chunk_tokens + tokens_with_separator <= max_tokens:
+             # Adiciona o parágrafo ao chunk atual (com separador se não for o primeiro)
             separator = "\n\n" if current_chunk else ""
-            current_chunk += separator + paragraph
-            current_chunk_tokens += tokens_with_separator
+            current_chunk += separator + paragraph_text
+            current_chunk_tokens += tokens_with_separator # Atualiza contagem
 
-    if current_chunk.strip():
-        chunks.append(current_chunk.strip())
-        logger.debug(f"Chunk final {len(chunks)} salvo. Tokens (aprox.): {current_chunk_tokens}")
+        # --- LÓGICA DE SUBDIVISÃO ---
+        # Se o parágrafo ATUAL SOZINHO já excede o limite (mesmo começando um chunk novo)
+        # Esta condição é verificada DEPOIS da tentativa de adição,
+        # garantindo que parágrafos grandes sejam tratados mesmo se forem os primeiros
+        # de um chunk.
+        if paragraph_tokens > max_tokens:
+            logger.warning(f"Parágrafo {i+1} ({paragraph_tokens} tk) excede limite {max_tokens}. Iniciando SUBDIVISÃO.")
 
-    logger.info(f"✅ Chunking concluído. Criados {len(chunks)} chunks.")
+            # Se havia algo no 'current_chunk' ANTES deste parágrafo grande, salva.
+            # Isso pode acontecer se o parágrafo anterior coube, mas este não.
+            # Nota: A lógica anterior já pode ter iniciado o current_chunk com este parágrafo.
+            # Precisamos verificar se o current_chunk contém APENAS este parágrafo grande
+            # ou se continha algo antes. Se continha algo antes, o current_chunk
+            # (sem este parágrafo) precisa ser salvo.
+
+            # Se current_chunk NÃO é IGUAL ao parágrafo problemático, significa
+            # que havia conteúdo anterior que precisa ser salvo.
+            if current_chunk != paragraph_text and current_chunk.strip():
+                 # Remove o parágrafo grande que foi adicionado na etapa anterior
+                 # (se foi adicionado) para salvar o que veio antes.
+                 if current_chunk.endswith("\n\n" + paragraph_text):
+                     chunk_to_save = current_chunk[:-len("\n\n" + paragraph_text)]
+                     chunks.append(chunk_to_save)
+                     logger.debug(f"Chunk {len(chunks)} salvo (antes do parág. longo subdividido). Tokens: {count_tokens_approx(chunk_to_save)}")
+                 elif current_chunk == paragraph_text:
+                      # Se o current_chunk É o parágrafo grande, não há nada antes para salvar.
+                      pass
+                 else:
+                      # Caso inesperado, logar. Pode indicar erro na lógica.
+                      logger.warning(f"Lógica de salvamento pré-subdivisão encontrou estado inesperado. Current Chunk: '{current_chunk[:50]}...', Parágrafo: '{paragraph_text[:50]}...'")
+
+
+            # --- Início da Subdivisão do Parágrafo Grande ---
+            sub_chunks_added_count = 0
+            # Tenta dividir por linhas '\n' dentro do parágrafo grande.
+            # Filtra linhas vazias que podem existir.
+            lines = [line for line in paragraph_text.split('\n') if line.strip()]
+            current_sub_chunk = ""
+            current_sub_chunk_tokens = 0
+
+            for line_num, line in enumerate(lines):
+                line_tokens = count_tokens_approx(line)
+                # Tokens com separador '\n' (exceto para a primeira linha do sub-chunk)
+                tokens_with_line_separator = line_tokens + (count_tokens_approx("\n") if current_sub_chunk else 0)
+
+                # Se adicionar a linha estourar o limite do sub-chunk atual
+                if current_sub_chunk_tokens > 0 and (current_sub_chunk_tokens + tokens_with_line_separator > max_tokens):
+                    chunks.append(current_sub_chunk) # Salva o sub-chunk completo
+                    sub_chunks_added_count += 1
+                    logger.debug(f"Sub-chunk {len(chunks)} salvo (parág. longo {i+1}). Tokens: {current_sub_chunk_tokens}")
+                    current_sub_chunk = line # Começa novo sub-chunk com a linha atual
+                    current_sub_chunk_tokens = line_tokens
+                # Se a linha SOZINHA estoura o limite (caso extremo)
+                elif line_tokens > max_tokens:
+                     # Salva o sub-chunk anterior se houver
+                    if current_sub_chunk:
+                        chunks.append(current_sub_chunk)
+                        sub_chunks_added_count += 1
+                        logger.debug(f"Sub-chunk {len(chunks)} salvo (antes linha longa, parág. {i+1}). Tokens: {current_sub_chunk_tokens}")
+                    # Adiciona a linha longa como um chunk próprio
+                    chunks.append(line)
+                    sub_chunks_added_count += 1
+                    logger.warning(f"  -> Linha {line_num+1} dentro do parág. {i+1} ({line_tokens} tk) excede limite {max_tokens}. Adicionando como sub-chunk único.")
+                    current_sub_chunk = "" # Reseta para próximo sub-chunk
+                    current_sub_chunk_tokens = 0
+                # Se a linha cabe no sub-chunk atual
+                else:
+                    line_separator = "\n" if current_sub_chunk else ""
+                    current_sub_chunk += line_separator + line
+                    current_sub_chunk_tokens = count_tokens_approx(current_sub_chunk) # Recalcula tokens
+
+            # Salva o último sub-chunk restante da divisão por linhas
+            if current_sub_chunk:
+                chunks.append(current_sub_chunk)
+                sub_chunks_added_count += 1
+                logger.debug(f"Último sub-chunk {len(chunks)} salvo (parág. longo {i+1}). Tokens: {current_sub_chunk_tokens}")
+
+            if sub_chunks_added_count == 0:
+                 logger.warning(f"Parágrafo {i+1} excedeu limite, mas nenhuma subdivisão por linha foi feita (talvez uma única linha longa?). Adicionando original como chunk.")
+                 chunks.append(paragraph_text) # Fallback: adiciona o parágrafo original se a subdivisão falhou
+
+            # --- Fim da Subdivisão ---
+            current_chunk = "" # Reseta o chunk principal após processar o parágrafo subdividido
+            current_chunk_tokens = 0
+            # continue # Não precisa de continue aqui, o loop for principal continuará
+
+    # Salva o último chunk restante que pode não ter atingido o limite
+    if current_chunk:
+        chunks.append(current_chunk)
+        logger.debug(f"Chunk final {len(chunks)} salvo. Tokens: {current_chunk_tokens}")
+
+    logger.info(f"✅ Chunking concluído. {len(chunks)} chunks.")
     return chunks
+# --- FIM DA FUNÇÃO create_chunks ATUALIZADA ---
+
 
 def format_with_ai(model, chunk, is_first_chunk=False):
-    """
-    Processa um chunk de texto com a API Gemini para correção e formatação,
-    com foco especial na correção de erros comuns de OCR em português.
-    Retorna o texto formatado ou None se ocorrer um erro irrecuperável.
-    (Esta função usa o 'model' que agora será gemini-1.5-pro)
-    """
+    # (Função format_with_ai permanece igual à versão anterior que corrigiu o acesso ao texto)
     context_start = "Você está formatando o início de um livro." if is_first_chunk else "Você está continuando a formatação de um texto de livro existente."
-
-    # O Prompt detalhado para OCR permanece o mesmo, é adequado para o Pro
     chunk_prompt = f"""
     {context_start} Você é um editor literário proficiente em português do Brasil. Sua tarefa é corrigir e formatar o fragmento de texto a seguir como parte de um livro.
 
@@ -269,9 +248,7 @@ def format_with_ai(model, chunk, is_first_chunk=False):
     {chunk}
     \"\"\"
     """
-
-    logger.debug(f"Enviando chunk (Primeiro: {is_first_chunk}) para a API Gemini ({model.model_name}) com instruções de OCR...") # Log model name
-
+    logger.debug(f"Enviando chunk (Primeiro: {is_first_chunk}) para API ({model.model_name}). Tam Aprox: {count_tokens_approx(chunk)} tk") # Log tamanho
     max_retries = 5
     for attempt in range(max_retries):
         try:
@@ -279,257 +256,419 @@ def format_with_ai(model, chunk, is_first_chunk=False):
                 chunk_prompt,
                 generation_config=genai.GenerationConfig(
                     temperature=TEMPERATURE,
-                    max_output_tokens=MAX_OUTPUT_TOKENS
+                    max_output_tokens=MAX_OUTPUT_TOKENS # Garante que o limite de SAÍDA está definido
                 ),
+                # Adicione safety_settings se necessário para evitar bloqueios,
+                # mas pode permitir conteúdo indesejado. EX:
+                # safety_settings={
+                #     'HATE': 'BLOCK_NONE',
+                #     'HARASSMENT': 'BLOCK_NONE',
+                #     'SEXUAL' : 'BLOCK_NONE',
+                #     'DANGEROUS' : 'BLOCK_NONE'
+                # }
             )
+            finish_reason = "UNKNOWN"; safety_ratings = "UNKNOWN"; block_reason = "N/A"; formatted_text = ""
 
-            if not response.candidates:
-                block_reason = "Não especificado"
-                if hasattr(response, 'prompt_feedback') and response.prompt_feedback and hasattr(response.prompt_feedback, 'block_reason'):
-                     block_reason = response.prompt_feedback.block_reason.name
-                logger.error(f"API bloqueou o prompt no chunk (Tentativa {attempt + 1}/{max_retries}). Razão: {block_reason}")
-                logger.error(f"Conteúdo do chunk problemático (primeiros 500 chars): {chunk[:500]}")
-                return None
-
-            if hasattr(response.candidates[0].content.parts[0], 'text'):
-                formatted_text = response.text.strip()
+            # Verifica se houve bloqueio antes de tentar acessar 'candidates'
+            if hasattr(response, 'prompt_feedback') and response.prompt_feedback and hasattr(response.prompt_feedback, 'block_reason'):
+                  block_reason = response.prompt_feedback.block_reason.name
+                  logger.error(f"API bloqueou prompt (Tentativa {attempt + 1}/{max_retries}). Razão: {block_reason}. Chunk: {chunk[:200]}...")
+                  # Não retorna None imediatamente, continua para o próximo retry
+            # Verifica se a resposta foi efetivamente vazia ou não tem candidatos
+            elif not response.candidates:
+                 logger.error(f"API retornou sem candidatos (Tentativa {attempt + 1}/{max_retries}). Resposta: {response}. Chunk: {chunk[:200]}...")
+                 # Não retorna None imediatamente, continua para o próximo retry
             else:
-                logger.warning(f"Resposta da API para chunk {attempt+1} não continha 'text'. Resposta: {response.candidates[0].content.parts[0]}")
-                formatted_text = ""
+                # Se chegou aqui, há candidatos, tenta processar
+                try:
+                    candidate = response.candidates[0] # Assume o primeiro candidato é o melhor
+                    finish_reason = candidate.finish_reason.name if hasattr(candidate.finish_reason, 'name') else "FINISH_REASON_UNKNOWN"
+                    safety_ratings = [(r.category.name, r.probability.name) for r in candidate.safety_ratings] if candidate.safety_ratings else "N/A"
+                    logger.debug(f"Chunk processado (Tentativa {attempt + 1}). Finish: {finish_reason}. Safety: {safety_ratings}")
 
-            logger.debug(f"Chunk processado com sucesso pela API ({model.model_name}).")
-            return formatted_text
+                    if finish_reason == "MAX_TOKENS": logger.warning(f"API TRUNCOU resposta (MAX_OUTPUT_TOKENS: {MAX_OUTPUT_TOKENS}). Final pode faltar. Chunk Input Aprox: {count_tokens_approx(chunk)} tk")
+                    if finish_reason == "SAFETY": logger.warning(f"API interrompeu resposta (SAFETY). Conteúdo pode estar incompleto.")
+                    if finish_reason == "RECITATION": logger.warning(f"API interrompeu resposta (RECITATION).") # Novo finish_reason
+                    if finish_reason == "OTHER": logger.warning(f"API interrompeu resposta (OTHER REASON).")
 
-        except Exception as e:
-            logger.warning(f"Erro na API ({model.model_name}) ao processar chunk (Tentativa {attempt + 1}/{max_retries}): {e}")
+                    # Tenta obter o texto via response.text primeiro (mais comum e direto)
+                    if hasattr(response, 'text') and response.text:
+                        formatted_text = response.text.strip()
+                        logger.debug(f"Texto API (via response.text, 100 chars): '{formatted_text[:100]}...'")
+                        return formatted_text # SUCESSO
+
+                    # Fallback: Tenta juntar as partes do conteúdo do candidato (menos comum)
+                    elif hasattr(candidate, 'content') and hasattr(candidate.content, 'parts'):
+                        logger.debug("response.text não encontrado ou vazio. Tentando juntar partes do candidato.")
+                        text_parts = [part.text for part in candidate.content.parts if hasattr(part, 'text')]
+                        if text_parts:
+                            formatted_text = "".join(text_parts).strip()
+                            logger.debug(f"Texto API (via parts, 100 chars): '{formatted_text[:100]}...'")
+                            return formatted_text # SUCESSO via parts
+                        else:
+                            logger.warning(f"Resposta API sem 'text' em response ou nas partes (Tentativa {attempt+1}). Content: {candidate.content}")
+                    else:
+                         logger.warning(f"Resposta API sem 'text' e sem 'content.parts' utilizáveis (Tentativa {attempt+1}). Candidate: {candidate}")
+
+
+                except AttributeError as ae:
+                    logger.error(f"Erro de Atributo ao acessar resposta API (Tentativa {attempt+1}): {ae} - Resposta: {response}")
+                except IndexError:
+                     logger.error(f"Erro de Índice: Sem candidatos na resposta (Tentativa {attempt+1}). Resposta: {response}")
+                except Exception as e_details:
+                    logger.error(f"Erro Genérico ao extrair detalhes/texto API (Tentativa {attempt+1}): {e_details} - Resposta: {response}")
+
+            # Se chegou aqui (erro, bloqueio, sem texto), espera e tenta novamente
             if attempt < max_retries - 1:
-                wait_time = (2 ** attempt) + (os.urandom(1)[0] / 255.0) # Exponential backoff com jitter
-                logger.info(f"Tentando novamente em {wait_time:.2f} segundos...")
+                wait_time = (2 ** attempt) + (os.urandom(1)[0] / 255.0) # Backoff exponencial com jitter
+                logger.info(f"Tentando novamente em {wait_time:.2f} seg...")
                 time.sleep(wait_time)
             else:
-                logger.error(f"Falha ao processar chunk após {max_retries} tentativas.")
-                logger.error(f"Conteúdo do chunk com falha (primeiros 500 chars): {chunk[:500]}...")
-                return None
+                 logger.error(f"Falha ao processar chunk após {max_retries} tentativas (vazio/bloqueado/erro extração).")
+                 return None # Retorna None após todas as tentativas falharem
+
+        except Exception as e:
+            logger.warning(f"Erro chamada API ({model.model_name}) (Tentativa {attempt + 1}/{max_retries}): {e}")
+            if attempt < max_retries - 1:
+                wait_time = (2 ** attempt) + (os.urandom(1)[0] / 255.0)
+                logger.info(f"Tentando novamente em {wait_time:.2f} seg...")
+                time.sleep(wait_time)
+            else:
+                logger.error(f"Falha ao processar chunk após {max_retries} tentativas (erro chamada API). Chunk: {chunk[:200]}...")
+                return None # Retorna None após todas as tentativas falharem
+
+    logger.error(f"Loop de tentativas concluído sem sucesso explícito ou erro capturado.") # Segurança
+    return None
 
 
 def apply_formatting(doc, formatted_text, normal_style_name, chapter_style_name):
-    """
-    Aplica formatação ao documento Word usando estilos (com fallback para formatação direta).
-    (Função inalterada)
-    """
-    if not formatted_text:
-        logger.warning("Texto formatado vazio recebido para um chunk. Pulando inserção.")
+    """Aplica formatação ao documento Word usando estilos (com fallback)."""
+    if not formatted_text or not formatted_text.strip():
+        logger.warning("Texto formatado vazio ou apenas espaços recebido. Pulando inserção.")
         return
 
+    # Cache dos estilos para evitar buscas repetidas
     normal_style = None
     chapter_style = None
     try:
-        normal_style = doc.styles[normal_style_name]
-        if not isinstance(normal_style, _ParagraphStyle):
-             logger.warning(f"Estilo '{normal_style_name}' encontrado, mas não é um estilo de parágrafo. Usando fallback.")
-             normal_style = None
-    except KeyError:
-        logger.warning(f"Estilo '{normal_style_name}' não encontrado no documento. Usando fallback de formatação direta para texto normal.")
+        style_candidate = doc.styles[normal_style_name]
+        if isinstance(style_candidate, _ParagraphStyle): normal_style = style_candidate
+        else: logger.warning(f"'{normal_style_name}' existe mas NÃO é estilo de parágrafo. Usando fallback.")
+    except KeyError: logger.warning(f"Estilo '{normal_style_name}' NÃO encontrado. Usando fallback.")
 
     try:
-        chapter_style = doc.styles[chapter_style_name]
-        if not isinstance(chapter_style, _ParagraphStyle):
-             logger.warning(f"Estilo '{chapter_style_name}' encontrado, mas não é um estilo de parágrafo. Usando fallback.")
-             chapter_style = None
-    except KeyError:
-        logger.warning(f"Estilo '{chapter_style_name}' não encontrado no documento. Usando fallback de formatação direta para títulos de capítulo.")
-
+        style_candidate = doc.styles[chapter_style_name]
+        if isinstance(style_candidate, _ParagraphStyle): chapter_style = style_candidate
+        else: logger.warning(f"'{chapter_style_name}' existe mas NÃO é estilo de parágrafo. Usando fallback.")
+    except KeyError: logger.warning(f"Estilo '{chapter_style_name}' NÃO encontrado. Usando fallback.")
 
     chapter_regex = re.compile('|'.join(CHAPTER_PATTERNS), re.IGNORECASE)
+    # Divide o texto processado pelo marcador de quebra de página
     parts = formatted_text.split(PAGE_BREAK_MARKER)
-    content_added_in_this_run = any(p.text.strip() for p in doc.paragraphs)
+    # Verifica se já existe algum conteúdo no documento antes de adicionar quebras
+    content_present_before = any(p.text.strip() for p in doc.paragraphs)
 
     for part_index, part in enumerate(parts):
         part_clean = part.strip()
-        if not part_clean:
-            if part_index > 0 or content_added_in_this_run:
-                doc.add_page_break()
-                logger.debug("Quebra de página explícita (de marcador) adicionada.")
-            continue
 
-        if part_index > 0 or content_added_in_this_run:
-             doc.add_page_break()
-             logger.debug("Quebra de página (antes da parte de texto) adicionada.")
+        # Adiciona quebra de página ANTES de cada parte (exceto a primeira se o doc estiver vazio)
+        # Garante que não adicione quebra dupla se a última ação foi adicionar uma.
+        if part_index > 0 or content_present_before:
+             # Verifica se o último parágrafo não é já uma quebra de página "invisível"
+             last_para_is_page_break = False
+             if doc.paragraphs:
+                 last_p = doc.paragraphs[-1]
+                 # Um parágrafo vazio com um run contendo '\f' é como o add_page_break() funciona
+                 if not last_p.text.strip() and any(run.text == '\f' for run in last_p.runs):
+                     last_para_is_page_break = True
 
+             if not last_para_is_page_break:
+                  doc.add_page_break()
+                  logger.debug(f"Quebra de página adicionada antes da parte {part_index + 1}.")
+                  content_present_before = True # Agora temos conteúdo (a quebra)
+
+        if not part_clean: continue # Pula partes vazias
+
+        # Divide a parte atual em parágrafos (separados por \n\n na saída da IA)
         paragraphs_in_part = part_clean.split("\n\n")
         for paragraph_text in paragraphs_in_part:
             paragraph_text_clean = paragraph_text.strip()
-            if not paragraph_text_clean:
-                continue
+            if not paragraph_text_clean: continue # Pula parágrafos vazios
 
             is_chapter = chapter_regex.match(paragraph_text_clean) is not None
+            is_ai_failure_marker = paragraph_text_clean.startswith(AI_FAILURE_MARKER)
+            is_formatting_error_marker = paragraph_text_clean.startswith(FORMATTING_ERROR_MARKER)
+
+            # Adiciona o parágrafo ao documento
             p = doc.add_paragraph()
             run = p.add_run(paragraph_text_clean)
-            content_added_in_this_run = True
+            content_present_before = True # Marcamos que adicionamos conteúdo
 
-            if is_chapter:
+            # Aplica Estilos ou formatação fallback
+            if is_chapter and not is_ai_failure_marker and not is_formatting_error_marker:
                 if chapter_style:
                     p.style = chapter_style
-                    logger.debug(f"Aplicado estilo '{chapter_style.name}' ao título: '{paragraph_text_clean[:50]}...'")
-                else:
+                    logger.debug(f"Aplicado estilo '{chapter_style.name}' ao capítulo: '{paragraph_text_clean[:50]}...'")
+                else: # Fallback formatação capítulo
                     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
                     run.font.size = Pt(14)
                     run.bold = True
-                    logger.debug(f"Aplicada formatação direta (fallback) ao título: '{paragraph_text_clean[:50]}...'")
+                    logger.debug(f"Aplicada formatação fallback de capítulo a: '{paragraph_text_clean[:50]}...'")
+            elif is_ai_failure_marker or is_formatting_error_marker:
+                 # Formatação especial para marcadores de erro
+                 if normal_style: p.style = normal_style # Usa base normal se disponível
+                 run.font.italic = True
+                 run.font.color.rgb = RGBColor(0xFF, 0x00, 0x00) # Vermelho
+                 p.alignment = WD_ALIGN_PARAGRAPH.LEFT # Alinha à esquerda para destaque
+                 logger.debug(f"Aplicada formatação de ERRO a: '{paragraph_text_clean[:50]}...'")
             else:
+                # Parágrafo normal
                 if normal_style:
                     p.style = normal_style
-                    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-                    logger.debug(f"Aplicado estilo '{normal_style.name}' ao texto: '{paragraph_text_clean[:50]}...'")
-                else:
+                    # Garante justificado se o estilo Normal não for (opcional)
+                    # p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                    # logger.debug(f"Aplicado estilo '{normal_style.name}' a: '{paragraph_text_clean[:50]}...'")
+                else: # Fallback formatação normal
                     p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
                     run.font.size = Pt(12)
                     run.bold = False
-                    logger.debug(f"Aplicada formatação direta (fallback) ao texto: '{paragraph_text_clean[:50]}...'")
+                    logger.debug(f"Aplicada formatação fallback normal a: '{paragraph_text_clean[:50]}...'")
 
 
 def main():
-    """Função principal para orquestrar o processo."""
     logger.info("========================================================")
-    # Log agora reflete o MODEL_NAME atualizado (gemini-1.5-pro)
-    logger.info(f"Iniciando processamento do livro (com foco em OCR) com Gemini ({MODEL_NAME})")
+    logger.info(f"Iniciando processamento (OCR) com Gemini ({MODEL_NAME})")
     logger.info("========================================================")
-
     start_time = time.time()
-
-    # Define backup filename usando o OUTPUT_DOCX atualizado
     backup_timestamp = time.strftime("%Y%m%d_%H%M%S")
-    BACKUP_DOCX = f"backup_{os.path.splitext(OUTPUT_DOCX)[0]}_{backup_timestamp}.docx"
+    # Garante que o nome do backup não contenha caracteres inválidos (ex: ':')
+    backup_timestamp_safe = backup_timestamp.replace(":", "-")
+    base_output_name = os.path.splitext(OUTPUT_DOCX)[0]
+    BACKUP_DOCX = f"backup_{base_output_name}_{backup_timestamp_safe}.docx"
+
 
     # === PASSO 1 – Lê o texto bruto ===
     try:
-        with open(INPUT_TXT, "r", encoding="utf-8") as f:
-            texto_original = f.read()
-        logger.info(f"Arquivo de entrada '{INPUT_TXT}' carregado ({len(texto_original)} caracteres).")
-    except FileNotFoundError:
-        logger.error(f"Erro Fatal: Arquivo de entrada '{INPUT_TXT}' não encontrado.")
-        return
-    except Exception as e:
-        logger.error(f"Erro Fatal ao ler o arquivo '{INPUT_TXT}': {e}")
-        return
+        with open(INPUT_TXT, "r", encoding="utf-8") as f: texto_original = f.read()
+        logger.info(f"Entrada '{INPUT_TXT}' carregada ({len(texto_original)} chars).")
+    except FileNotFoundError: logger.error(f"Fatal: Entrada '{INPUT_TXT}' não encontrada."); return
+    except Exception as e: logger.error(f"Fatal ao ler '{INPUT_TXT}': {e}"); return
 
-    # === PASSO 2 – Divide o texto em chunks ===
-    logger.info(f"Dividindo o texto em chunks (máx. {MAX_CHUNK_TOKENS} tokens aprox.)...")
+    # === PASSO 2 – Divide o texto em chunks (usando a nova função) ===
+    logger.info(f"Dividindo texto (máx. {MAX_CHUNK_TOKENS} tk aprox.)...")
     text_chunks = create_chunks(texto_original, MAX_CHUNK_TOKENS)
-    if not text_chunks:
-        logger.error("Nenhum chunk de texto foi gerado. Verifique o arquivo de entrada.")
-        return
+    if not text_chunks: logger.error("Nenhum chunk gerado. Verifique o texto de entrada e a lógica de chunking."); return
     logger.info(f"Texto dividido em {len(text_chunks)} chunks.")
 
     # === PASSO 3 – Carrega o template ou cria novo documento ===
     doc = None
+    template_used = False
     try:
-        if os.path.exists(OUTPUT_DOCX): # Usa o nome de arquivo de saída atualizado
+        # --- Backup ---
+        if os.path.exists(OUTPUT_DOCX):
             try:
                 shutil.copy2(OUTPUT_DOCX, BACKUP_DOCX)
                 logger.info(f"Backup do arquivo anterior criado: {BACKUP_DOCX}")
             except Exception as e:
-                logger.warning(f"Não foi possível criar backup de '{OUTPUT_DOCX}': {e}")
+                logger.warning(f"Falha ao criar backup de '{OUTPUT_DOCX}': {e}. O arquivo existente será sobrescrito se o processo falhar.")
 
+        # --- Carrega Template ---
         doc = Document(TEMPLATE_DOCX)
         logger.info(f"Template '{TEMPLATE_DOCX}' carregado.")
+        template_used = True
 
-        # === PASSO 4 – Limpa o corpo do documento ===
-        if hasattr(doc, '_body') and doc._body is not None:
-            for para in reversed(doc.paragraphs):
-                p_element = para._element
-                p_element.getparent().remove(p_element)
-            for table in reversed(doc.tables):
-                 t_element = table._element
-                 t_element.getparent().remove(t_element)
-            logger.info("Conteúdo principal do template limpo (parágrafos e tabelas).")
-        else:
-            logger.warning("Não foi possível acessar/limpar o corpo do documento do template de forma robusta.")
+        # === PASSO 4 – Limpa o corpo do documento (APENAS SE USOU TEMPLATE) ===
+        try:
+            # Acessa o corpo do documento de forma segura
+            body_element = doc._body._body
+            # Remove todos os parágrafos e tabelas existentes no corpo
+            for child in reversed(body_element):
+                body_element.remove(child)
+            logger.info("Conteúdo principal do template limpo (parágrafos/tabelas).")
+        except Exception as clean_err:
+             logger.error(f"Erro durante limpeza do template: {clean_err}")
+             logger.warning("Continuando apesar do erro na limpeza. Conteúdo do template pode permanecer.")
 
     except FileNotFoundError:
-        logger.warning(f"Template '{TEMPLATE_DOCX}' não encontrado.")
-        logger.info("Criando um novo documento Word com configurações padrão.")
+        logger.warning(f"Template '{TEMPLATE_DOCX}' não encontrado. Criando novo documento A5.")
         doc = Document()
+        # Configurações de página e margens para A5 (aproximado)
         try:
             section = doc.sections[0]
-            section.page_height = Inches(8.27)
-            section.page_width = Inches(5.83)
+            section.page_height = Inches(8.27) # A5 Altura
+            section.page_width = Inches(5.83)  # A5 Largura
             section.left_margin = Inches(0.8)
             section.right_margin = Inches(0.6)
             section.top_margin = Inches(0.7)
             section.bottom_margin = Inches(0.7)
-            logger.info("Configurações de página (A5 aprox.) e margens aplicadas ao novo documento.")
+            logger.info("Novo documento criado com configurações de página (A5) e margens.")
+
+            # Cria estilos básicos se não existirem (Normal e Heading 1 base)
+            styles = doc.styles
+            if NORMAL_STYLE_NAME not in styles:
+                 style = styles.add_style(NORMAL_STYLE_NAME, 1) # WD_STYLE_TYPE.PARAGRAPH = 1
+                 style.font.name = 'Times New Roman'
+                 style.font.size = Pt(12)
+                 style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                 style.paragraph_format.space_after = Pt(6)
+                 logger.info(f"Estilo '{NORMAL_STYLE_NAME}' criado.")
+            else:
+                 logger.info(f"Estilo '{NORMAL_STYLE_NAME}' já existe no novo documento (padrão).")
+
+            # Tenta criar estilo de capítulo baseado no Heading 1 se existir
+            if CHAPTER_STYLE_NAME not in styles:
+                 try:
+                     base_style = styles['Heading 1']
+                     style = styles.add_style(CHAPTER_STYLE_NAME, 1) # WD_STYLE_TYPE.PARAGRAPH = 1
+                     style.base_style = base_style # Herda do Heading 1
+                     style.font.name = 'Times New Roman' # Pode sobrescrever se necessário
+                     style.font.size = Pt(14)
+                     style.font.bold = True
+                     style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                     style.paragraph_format.space_before = Pt(12)
+                     style.paragraph_format.space_after = Pt(12)
+                     logger.info(f"Estilo '{CHAPTER_STYLE_NAME}' criado (baseado em Heading 1).")
+                 except KeyError:
+                     # Se nem 'Heading 1' existir, cria um estilo de capítulo básico
+                     style = styles.add_style(CHAPTER_STYLE_NAME, 1)
+                     style.font.name = 'Times New Roman'
+                     style.font.size = Pt(14); style.font.bold = True
+                     style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                     style.paragraph_format.space_before = Pt(12); style.paragraph_format.space_after = Pt(12)
+                     logger.warning(f"Estilo base 'Heading 1' não encontrado. Estilo '{CHAPTER_STYLE_NAME}' criado sem herança.")
+            else:
+                 logger.info(f"Estilo '{CHAPTER_STYLE_NAME}' já existe no novo documento.")
+
         except Exception as e:
-             logger.warning(f"Não foi possível aplicar configurações de página ao novo documento: {e}")
+            logger.warning(f"Falha ao aplicar configs/estilos ao novo doc: {e}")
+
     except Exception as e:
-        logger.error(f"Erro ao carregar ou processar o template '{TEMPLATE_DOCX}': {e}")
-        return
+        logger.error(f"Erro crítico ao carregar template ou criar novo documento: {e}"); return
+
 
     # === PASSO 5 – Processa e insere cada chunk ===
-    logger.info(f"Iniciando processamento de {len(text_chunks)} chunks com a API Gemini ({MODEL_NAME})...") # Reflete modelo Pro
+    logger.info(f"Iniciando processamento de {len(text_chunks)} chunks com API ({MODEL_NAME})...")
     processed_chunks_count = 0
     failed_chunks_count = 0
-
+    total_chunks_processed_or_failed = 0 # Contador para salvar progresso
     progress_bar = tqdm(enumerate(text_chunks), total=len(text_chunks), desc="Processando Chunks", unit="chunk")
 
     for i, chunk in progress_bar:
         chunk_start_time = time.time()
-        progress_bar.set_description(f"Processando Chunk {i+1}/{len(text_chunks)} ({MODEL_NAME})") # Reflete modelo Pro
+        progress_bar.set_description(f"Processando Chunk {i+1}/{len(text_chunks)}")
+        formatted_chunk = None
+        try:
+            # Passa False para is_first_chunk se já adicionamos conteúdo (mesmo que seja fallback)
+            formatted_chunk = format_with_ai(gemini_model, chunk, is_first_chunk=(total_chunks_processed_or_failed == 0))
+        except Exception as api_err:
+            logger.error(f"Erro INESPERADO na chamada format_with_ai para chunk {i+1}: {api_err}")
+            # Considera como falha da API para fins de fallback
+            formatted_chunk = None
 
-        # 'gemini_model' agora é a instância do gemini-1.5-pro
-        formatted_chunk = format_with_ai(gemini_model, chunk, is_first_chunk=(i == 0))
-
-        if formatted_chunk is not None:
-            apply_formatting(doc, formatted_chunk, NORMAL_STYLE_NAME, CHAPTER_STYLE_NAME)
-            processed_chunks_count += 1
-            logger.debug(f"Chunk {i+1} processado e adicionado em {time.time() - chunk_start_time:.2f}s.")
+        # ---- LÓGICA DE FALLBACK ----
+        if formatted_chunk and formatted_chunk.strip():
+            try:
+                # Tenta aplicar formatação ao texto da IA
+                apply_formatting(doc, formatted_chunk, NORMAL_STYLE_NAME, CHAPTER_STYLE_NAME)
+                processed_chunks_count += 1
+                total_chunks_processed_or_failed += 1
+            except Exception as format_err:
+                # Se falhar AQUI (raro, mas possível), loga o erro e tenta o fallback com texto original
+                logger.error(f"Erro RARO na função apply_formatting para chunk {i+1} (texto da IA): {format_err}. Usando fallback com texto original.")
+                failed_chunks_count += 1
+                total_chunks_processed_or_failed += 1
+                try:
+                    # Tenta aplicar formatação ao texto ORIGINAL + marcador de erro de formatação
+                    apply_formatting(doc, f"{FORMATTING_ERROR_MARKER}\n\n{chunk}", NORMAL_STYLE_NAME, CHAPTER_STYLE_NAME)
+                    logger.warning(f"Chunk {i+1} adicionado como original devido a erro na formatação pós-IA.")
+                except Exception as fallback_format_err:
+                    # Se o fallback falhar TAMBÉM, loga erro crítico
+                    logger.critical(f"Falha CRÍTICA ao aplicar fallback para chunk {i+1} (erro formatação pós-IA): {fallback_format_err}. CONTEÚDO PERDIDO.")
+                    # Não incrementa total_chunks_processed_or_failed aqui, pois foi perdido
         else:
-            failed_chunks_count += 1
-            logger.error(f"Chunk {i + 1} falhou no processamento pela API ({MODEL_NAME}) e foi pulado.")
+            # Se a API falhou (retornou None) ou retornou vazio, usa o fallback diretamente
+            if formatted_chunk is None:
+                logger.warning(f"Chunk {i+1} falhou na API após retentativas. Usando fallback com texto original.")
+            else: # formatted_chunk era "" ou só espaços
+                logger.warning(f"Chunk {i+1} retornou vazio da API. Usando fallback com texto original.")
 
+            failed_chunks_count += 1
+            total_chunks_processed_or_failed += 1
+            try:
+                # Tenta aplicar formatação ao texto ORIGINAL + marcador de falha da IA
+                apply_formatting(doc, f"{AI_FAILURE_MARKER}\n\n{chunk}", NORMAL_STYLE_NAME, CHAPTER_STYLE_NAME)
+            except Exception as fallback_format_err:
+                 # Se o fallback falhar, loga erro crítico
+                logger.critical(f"Falha CRÍTICA ao aplicar fallback para chunk {i+1} (falha API): {fallback_format_err}. CONTEÚDO PERDIDO.")
+                # Decrementa o contador, pois o chunk foi perdido
+                total_chunks_processed_or_failed -= 1
+        # ---- FIM FALLBACK ----
+
+        chunk_end_time = time.time()
+        logger.debug(f"Chunk {i+1} processado em {chunk_end_time - chunk_start_time:.2f} seg.")
 
         # === PASSO 5.1 – Salva progresso periodicamente ===
-        if (i + 1) % 5 == 0 or (i + 1) == len(text_chunks):
-            # Usa o nome de arquivo de saída atualizado
-            temp_save_path = f"{OUTPUT_DOCX}.temp"
+        # Salva a cada 5 chunks processados (OK ou Falha com fallback) OU no último chunk
+        if total_chunks_processed_or_failed > 0 and \
+           (total_chunks_processed_or_failed % 5 == 0 or (i + 1) == len(text_chunks)):
+            temp_save_path = f"{OUTPUT_DOCX}.temp_save" # Nome temporário diferente
             try:
                 doc.save(temp_save_path)
+                # Usa replace para atomicidade (reduz chance de corromper em falha)
+                # No Windows, os.replace pode falhar se o destino existir, então removemos primeiro.
+                if os.path.exists(OUTPUT_DOCX):
+                    os.remove(OUTPUT_DOCX)
                 shutil.move(temp_save_path, OUTPUT_DOCX)
-                logger.info(f"Progresso salvo ({i + 1}/{len(text_chunks)} chunks processados). Arquivo: {OUTPUT_DOCX}")
+                logger.info(f"Progresso salvo ({total_chunks_processed_or_failed} chunks no doc). Arquivo: {OUTPUT_DOCX}")
             except Exception as e:
-                logger.error(f"Erro ao salvar progresso parcial em '{OUTPUT_DOCX}': {e}")
+                logger.error(f"Erro ao salvar progresso parcial (chunk {i+1}): {e}")
+                # Tenta remover o .temp_save se ele existir para evitar confusão
                 if os.path.exists(temp_save_path):
-                    logger.warning(f"Arquivo temporário de salvamento parcial '{temp_save_path}' mantido.")
+                    try: os.remove(temp_save_path)
+                    except Exception: pass
+                logger.warning(f"O arquivo '{OUTPUT_DOCX}' pode não conter o progresso do último lote salvo.")
+
 
     # === PASSO 6 – Conclusão e Salvamento Final ===
-    final_temp_path = f"{OUTPUT_DOCX}.temp" # Usa nome de arquivo atualizado
-    if os.path.exists(final_temp_path):
-        try:
-            shutil.move(final_temp_path, OUTPUT_DOCX)
-            logger.info(f"Arquivo temporário final movido para '{OUTPUT_DOCX}'.")
-        except Exception as e:
-            logger.error(f"Erro ao mover arquivo temporário final para '{OUTPUT_DOCX}': {e}. O arquivo pode estar em '{final_temp_path}'.")
+    # Garante um salvamento final após o loop, mesmo que o último chunk não tenha disparado o save periódico
+    final_temp_path = f"{OUTPUT_DOCX}.final_temp"
+    try:
+        doc.save(final_temp_path)
+        if os.path.exists(OUTPUT_DOCX):
+             os.remove(OUTPUT_DOCX)
+        shutil.move(final_temp_path, OUTPUT_DOCX)
+        logger.info(f"Salvamento final concluído: {OUTPUT_DOCX}")
+    except Exception as e:
+        logger.error(f"Erro no salvamento final: {e}")
+        # Informa o usuário sobre o arquivo temporário se ele existir
+        if os.path.exists(final_temp_path):
+             logger.warning(f"ATENÇÃO: O salvamento final falhou, mas o arquivo temporário '{final_temp_path}' PODE conter a versão completa.")
+        else:
+             logger.warning(f"ATENÇÃO: O salvamento final falhou e o arquivo temporário não foi encontrado. '{OUTPUT_DOCX}' pode estar incompleto.")
 
-    end_time = time.time()
-    total_time = end_time - start_time
-
+    end_time = time.time(); total_time = end_time - start_time
     logger.info("========================================================")
     logger.info("✅ Processamento Concluído!")
-    logger.info(f"Modelo Utilizado: {MODEL_NAME}") # Adiciona info do modelo usado
-    logger.info(f"Tempo total: {total_time:.2f} segundos ({total_time/60:.2f} minutos).")
-    logger.info(f"Chunks processados com sucesso: {processed_chunks_count}")
-    logger.info(f"Chunks com falha (pulados ou com placeholder): {failed_chunks_count}")
-    logger.info(f"Livro final gerado: {OUTPUT_DOCX}") # Reflete nome atualizado
-    if os.path.exists(BACKUP_DOCX): # Reflete nome atualizado
-        logger.info(f"Backup do arquivo anterior (se existia): {BACKUP_DOCX}")
-    logger.info(f"Log detalhado disponível em: {log_filepath}") # Reflete nome atualizado
+    logger.info(f"Modelo: {MODEL_NAME}")
+    logger.info(f"Tempo total: {total_time:.2f} seg ({total_time/60:.2f} min).")
+    logger.info(f"Chunks enviados para API: {len(text_chunks)}")
+    logger.info(f"Chunks processados OK pela IA (sem fallback): {processed_chunks_count}")
+    logger.info(f"Chunks com falha na IA ou formatação (usado fallback): {failed_chunks_count}")
+    # Verifica quantos chunks realmente estão no documento
+    final_chunks_in_doc = processed_chunks_count + failed_chunks_count
+    logger.info(f"Total de chunks (originais ou processados) incluídos no documento: {final_chunks_in_doc}")
+    if final_chunks_in_doc < len(text_chunks):
+        logger.error(f"ATENÇÃO: {len(text_chunks) - final_chunks_in_doc} chunks podem ter sido PERDIDOS devido a erros críticos no fallback ou salvamento. Verifique logs CRITICAL.")
+    logger.info(f"Livro final salvo em: {OUTPUT_DOCX}")
+    if os.path.exists(BACKUP_DOCX): logger.info(f"Backup do arquivo anterior (se existia): {BACKUP_DOCX}")
+    logger.info(f"Log detalhado salvo em: {log_filepath}")
     logger.info("========================================================")
-
 
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        logger.warning("Processo interrompido pelo usuário (Ctrl+C). O último progresso salvo pode estar disponível.")
+        logger.warning("Processo interrompido manualmente (Ctrl+C). O último salvamento pode estar incompleto.")
     except Exception as e:
+        # Loga a exceção completa com traceback no arquivo
         logger.exception(f"Erro fatal inesperado durante a execução: {e}")

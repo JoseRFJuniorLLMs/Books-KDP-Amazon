@@ -58,7 +58,7 @@ MAX_CHUNK_TOKENS = 10000 # Pode precisar reduzir se prompts mais longos causarem
 
 # MAX_OUTPUT_TOKENS: Max tokens the model will GENERATE per chunk.
 # Gemini 1.5 Flash supports up to 8192. 4096 is safe.
-MAX_OUTPUT_TOKENS = 4096
+MAX_OUTPUT_TOKENS = 8192
 
 TEMPERATURE = 0.6 # Pode ser útil reduzir um pouco a temperatura para tarefas de correção mais focadas
 
