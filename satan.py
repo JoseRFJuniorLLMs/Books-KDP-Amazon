@@ -56,8 +56,26 @@ TOKEN_FILENAME = 'token.json' # Arquivo para armazenar tokens do usuário
 # --- !!! DEFINA OS ESCOPOS NECESSÁRIOS E AUTORIZADOS AQUI !!! ---
 # Adicionado escopo do Gmail para leitura
 SCOPES = [
-    'https://www.googleapis.com/auth/calendar.events.readonly', # Ler Agenda
-    'https://www.googleapis.com/auth/gmail.readonly'           # Ler Gmail
+    # Controle TOTAL da Agenda (Ver, Editar, Apagar TUDO) - RISCO ALTO
+    'https://www.googleapis.com/auth/calendar',
+
+    # Controle TOTAL do Gmail (Ler, Enviar, Apagar TUDO) - RISCO EXTREMO
+    'https://mail.google.com/',
+
+    # Controle TOTAL do Drive (Ver, Editar, Criar, Apagar TUDO) - RISCO EXTREMO
+    'https://www.googleapis.com/auth/drive',
+
+    # Controle da conta YouTube (Gerenciar playlists, etc - sem upload direto) - RISCO ALTO
+    'https://www.googleapis.com/auth/youtube',
+
+    # Upload de vídeos no YouTube - RISCO ALTO
+    'https://www.googleapis.com/auth/youtube.upload',
+
+    # Escopos básicos ainda úteis/necessários
+    'https://www.googleapis.com/auth/userinfo.email',
+    'https://www.googleapis.com/auth/userinfo.profile',
+    'openid'
+
 ]
 # ------------------------------------------------------------------
 
