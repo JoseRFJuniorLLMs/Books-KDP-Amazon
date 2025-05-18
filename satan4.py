@@ -65,7 +65,7 @@ USER_NAME = "Junior"  # Nome do usuário para notificações e prompts
 # === CONFIGURAÇÕES ===
 MODEL_NAME = "models/gemini-2.5-pro-preview-03-25"
 TEMPERATURE = 0.3
-TTS_VOICE_GOOGLE = "pt-BR-Wavenet-A"
+TTS_VOICE_GOOGLE = "pt-BR-Chirp3-HD-Sulafat"#"pt-BR-Chirp-HD-F" #"pt-BR-Wavenet-A" "pt-BR-Neural2-A"
 CREDENTIALS_FILENAME = 'credentials.json'
 TOKEN_FILENAME = 'token.json'
 SCOPES = [
@@ -750,7 +750,7 @@ def falar(texto):
 
 
 # --- Função de Verificação Periódica de E-mails (para Thread) ---
-def periodic_email_check(interval_seconds=300):  # 300 segundos = 5 minutos
+def periodic_email_check(interval_seconds=60):  # 300 segundos = 5 minutos
     global last_checked_time, google_auth_ready, USER_NAME
     print(f"[Thread E-mail] Iniciada. Verificando e-mails a cada {interval_seconds} segundos.")
     while not stop_email_check_thread.is_set():

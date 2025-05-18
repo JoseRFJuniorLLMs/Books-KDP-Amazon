@@ -11,7 +11,7 @@ try:
 
     voice = texttospeech.VoiceSelectionParams(
         language_code="pt-BR",
-        name="pt-BR-Wavenet-A" # Você pode tentar outras vozes como "pt-BR-Standard-A"
+        name="pt-BR-Chirp3-HD-Sulafat" # Você pode tentar outras vozes como "pt-BR-Standard-A"
     )
     print(f"Parâmetros de voz definidos para: {voice.name}")
 
