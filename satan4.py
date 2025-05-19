@@ -65,7 +65,7 @@ USER_NAME = "Junior"  # Nome do usuário para notificações e prompts
 # === CONFIGURAÇÕES ===
 MODEL_NAME = "models/gemini-2.5-pro-preview-03-25"
 TEMPERATURE = 0.3
-TTS_VOICE_GOOGLE = "pt-BR-Wavenet-A"
+TTS_VOICE_GOOGLE = "pt-BR-Chirp3-HD-Laomedeia"
 CREDENTIALS_FILENAME = 'credentials.json'
 TOKEN_FILENAME = 'token.json'
 SCOPES = [
