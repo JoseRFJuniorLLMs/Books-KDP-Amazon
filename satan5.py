@@ -114,27 +114,41 @@ SCOPES = [
     'https://www.googleapis.com/auth/gmail.modify',  # Modificação de emails
     'https://www.googleapis.com/auth/gmail.compose',  # Composição de emails
     'https://www.googleapis.com/auth/gmail.labels',  # Gerenciamento de labels
+    'https://www.googleapis.com/auth/gmail.settings.basic',  # Configurações básicas
+    'https://www.googleapis.com/auth/gmail.settings.sharing',  # Configurações de compartilhamento
     
     # === CALENDAR - GERENCIAMENTO COMPLETO ===
     'https://www.googleapis.com/auth/calendar',  # Acesso completo ao calendário
     'https://www.googleapis.com/auth/calendar.readonly',  # Leitura do calendário
     'https://www.googleapis.com/auth/calendar.events',  # Gerenciamento de eventos
+    'https://www.googleapis.com/auth/calendar.events.readonly',  # Leitura de eventos
+    'https://www.googleapis.com/auth/calendar.settings.readonly',  # Configurações do calendário
     
     # === GOOGLE DRIVE - OPERAÇÕES DE ARQUIVOS ===
     'https://www.googleapis.com/auth/drive',  # Acesso completo ao Drive
     'https://www.googleapis.com/auth/drive.file',  # Acesso a arquivos criados pela app
     'https://www.googleapis.com/auth/drive.readonly',  # Leitura do Drive
     'https://www.googleapis.com/auth/drive.metadata',  # Metadados dos arquivos
+    'https://www.googleapis.com/auth/drive.metadata.readonly',  # Leitura de metadados
+    'https://www.googleapis.com/auth/drive.photos.readonly',  # Fotos do Drive
+    'https://www.googleapis.com/auth/drive.scripts',  # Scripts do Drive
+    'https://www.googleapis.com/auth/drive.activity',  # Atividade do Drive
+    'https://www.googleapis.com/auth/drive.activity.readonly',  # Leitura de atividade
     
     # === YOUTUBE - BUSCA E UPLOAD ===
     'https://www.googleapis.com/auth/youtube',  # Acesso completo ao YouTube
     'https://www.googleapis.com/auth/youtube.upload',  # Upload de vídeos
     'https://www.googleapis.com/auth/youtube.readonly',  # Leitura do YouTube
     'https://www.googleapis.com/auth/youtube.force-ssl',  # Acesso via SSL
+    'https://www.googleapis.com/auth/youtubepartner',  # YouTube Partner
+    'https://www.googleapis.com/auth/youtubepartner-channel-audit',  # Auditoria de canal
+    'https://www.googleapis.com/auth/youtube.channel-memberships.creator',  # Memberships
     
     # === GOOGLE CONTACTS - PEOPLE API ===
     'https://www.googleapis.com/auth/contacts',  # Acesso aos contatos
     'https://www.googleapis.com/auth/contacts.readonly',  # Leitura dos contatos
+    'https://www.googleapis.com/auth/contacts.other.readonly',  # Outros contatos
+    'https://www.googleapis.com/auth/directory.readonly',  # Diretório
     
     # === GOOGLE WORKSPACE APPS ===
     'https://www.googleapis.com/auth/spreadsheets',  # Google Sheets completo
@@ -143,6 +157,9 @@ SCOPES = [
     'https://www.googleapis.com/auth/documents.readonly',  # Leitura de documentos
     'https://www.googleapis.com/auth/presentations',  # Google Slides completo
     'https://www.googleapis.com/auth/presentations.readonly',  # Leitura de apresentações
+    'https://www.googleapis.com/auth/forms',  # Google Forms
+    'https://www.googleapis.com/auth/forms.body',  # Corpo dos Forms
+    'https://www.googleapis.com/auth/forms.responses.readonly',  # Respostas do Forms
     
     # === GOOGLE TASKS - GERENCIAMENTO ===
     'https://www.googleapis.com/auth/tasks',  # Acesso completo às tarefas
@@ -153,6 +170,71 @@ SCOPES = [
     'https://www.googleapis.com/auth/photoslibrary.readonly',  # Leitura das fotos
     'https://www.googleapis.com/auth/photoslibrary.sharing',  # Compartilhamento de fotos
     'https://www.googleapis.com/auth/photoslibrary.appendonly',  # Adicionar fotos
+    'https://www.googleapis.com/auth/photoslibrary.edit.appcreateddata',  # Editar dados criados
+    
+    # === GOOGLE MAPS E LOCALIZAÇÃO ===
+    'https://www.googleapis.com/auth/maps-platform.places',  # Google Places
+    'https://www.googleapis.com/auth/maps-platform.places.details',  # Detalhes de lugares
+    'https://www.googleapis.com/auth/maps-platform.places.textsearch',  # Busca de texto
+    'https://www.googleapis.com/auth/maps-platform.places.nearbysearch',  # Busca próxima
+    
+    # === GOOGLE CLOUD PLATFORM ===
+    'https://www.googleapis.com/auth/cloud-platform',  # Google Cloud Platform
+    'https://www.googleapis.com/auth/cloud-platform.read-only',  # GCP somente leitura
+    'https://www.googleapis.com/auth/compute',  # Google Compute Engine
+    'https://www.googleapis.com/auth/compute.readonly',  # Compute somente leitura
+    'https://www.googleapis.com/auth/devstorage.full_control',  # Cloud Storage completo
+    'https://www.googleapis.com/auth/devstorage.read_only',  # Cloud Storage leitura
+    'https://www.googleapis.com/auth/bigquery',  # BigQuery
+    'https://www.googleapis.com/auth/bigquery.readonly',  # BigQuery leitura
+    
+    # === GOOGLE ANALYTICS ===
+    'https://www.googleapis.com/auth/analytics',  # Google Analytics
+    'https://www.googleapis.com/auth/analytics.readonly',  # Analytics leitura
+    'https://www.googleapis.com/auth/analytics.manage.users',  # Gerenciar usuários
+    'https://www.googleapis.com/auth/analytics.edit',  # Editar Analytics
+    
+    # === GOOGLE ADS ===
+    'https://www.googleapis.com/auth/adwords',  # Google Ads
+    
+    # === GOOGLE SEARCH CONSOLE ===
+    'https://www.googleapis.com/auth/webmasters',  # Search Console
+    'https://www.googleapis.com/auth/webmasters.readonly',  # Search Console leitura
+    
+    # === GOOGLE PLAY ===
+    'https://www.googleapis.com/auth/androidpublisher',  # Google Play Console
+    
+    # === GOOGLE FIREBASE ===
+    'https://www.googleapis.com/auth/firebase',  # Firebase
+    'https://www.googleapis.com/auth/firebase.readonly',  # Firebase leitura
+    'https://www.googleapis.com/auth/firebase.messaging',  # Firebase Messaging
+    
+    # === GOOGLE BLOGGER ===
+    'https://www.googleapis.com/auth/blogger',  # Blogger
+    'https://www.googleapis.com/auth/blogger.readonly',  # Blogger leitura
+    
+    # === GOOGLE BOOKS ===
+    'https://www.googleapis.com/auth/books',  # Google Books
+    
+    # === GOOGLE TRANSLATE ===
+    'https://www.googleapis.com/auth/cloud-translation',  # Google Translate
+    
+    # === GOOGLE APPS SCRIPT ===
+    'https://www.googleapis.com/auth/script.projects',  # Google Apps Script
+    'https://www.googleapis.com/auth/script.processes',  # Processos do Script
+    'https://www.googleapis.com/auth/script.metrics',  # Métricas do Script
+    'https://www.googleapis.com/auth/script.deployments',  # Deployments do Script
+    'https://www.googleapis.com/auth/script.deployments.readonly',  # Deployments leitura
+    
+    # === GOOGLE ADMIN (SE FOR ADMIN) ===
+    'https://www.googleapis.com/auth/admin.directory.user',  # Usuários do domínio
+    'https://www.googleapis.com/auth/admin.directory.user.readonly',  # Usuários leitura
+    'https://www.googleapis.com/auth/admin.directory.group',  # Grupos do domínio
+    'https://www.googleapis.com/auth/admin.directory.group.readonly',  # Grupos leitura
+    'https://www.googleapis.com/auth/admin.directory.orgunit',  # Unidades organizacionais
+    'https://www.googleapis.com/auth/admin.directory.device.chromeos',  # Dispositivos Chrome
+    'https://www.googleapis.com/auth/admin.reports.audit.readonly',  # Relatórios de auditoria
+    'https://www.googleapis.com/auth/admin.reports.usage.readonly',  # Relatórios de uso
     
     # === DADOS DO USUÁRIO E AUTENTICAÇÃO ===
     'https://www.googleapis.com/auth/userinfo.email',  # Email do usuário
@@ -161,13 +243,92 @@ SCOPES = [
     'profile',  # Informações básicas do perfil
     'email',  # Endereço de email
     
-    # === ESCOPOS ADICIONAIS PARA FUNCIONALIDADES AVANÇADAS ===
-    'https://www.googleapis.com/auth/script.projects',  # Google Apps Script
-    'https://www.googleapis.com/auth/forms',  # Google Forms
-    'https://www.googleapis.com/auth/forms.responses.readonly',  # Respostas do Forms
-    'https://www.googleapis.com/auth/admin.directory.user.readonly',  # Diretório de usuários (se admin)
-    'https://www.googleapis.com/auth/cloud-platform',  # Google Cloud Platform
+    # === GOOGLE CLASSROOM (SE APLICÁVEL) ===
+    'https://www.googleapis.com/auth/classroom.courses',  # Cursos do Classroom
+    'https://www.googleapis.com/auth/classroom.courses.readonly',  # Cursos leitura
+    'https://www.googleapis.com/auth/classroom.rosters',  # Listas de alunos
+    'https://www.googleapis.com/auth/classroom.rosters.readonly',  # Listas leitura
+    'https://www.googleapis.com/auth/classroom.profile.emails',  # Emails do perfil
+    'https://www.googleapis.com/auth/classroom.profile.photos',  # Fotos do perfil
+    
+    # === GOOGLE KEEP ===
+    'https://www.googleapis.com/auth/keep',  # Google Keep
+    'https://www.googleapis.com/auth/keep.readonly',  # Keep leitura
+    
+    # === GOOGLE FIT ===
+    'https://www.googleapis.com/auth/fitness.activity.read',  # Atividades Fit
+    'https://www.googleapis.com/auth/fitness.activity.write',  # Escrever atividades
+    'https://www.googleapis.com/auth/fitness.location.read',  # Localização Fit
+    'https://www.googleapis.com/auth/fitness.body.read',  # Dados corporais
+    'https://www.googleapis.com/auth/fitness.nutrition.read',  # Nutrição
 ]
+
+# === OUTRAS PLATAFORMAS (PARA IMPLEMENTAÇÃO FUTURA) ===
+# MICROSOFT GRAPH API SCOPES (requer implementação separada):
+# - https://graph.microsoft.com/User.Read
+# - https://graph.microsoft.com/Mail.ReadWrite
+# - https://graph.microsoft.com/Calendars.ReadWrite
+# - https://graph.microsoft.com/Files.ReadWrite.All
+# - https://graph.microsoft.com/Contacts.ReadWrite
+# - https://graph.microsoft.com/Tasks.ReadWrite
+# - https://graph.microsoft.com/Notes.ReadWrite.All (OneNote)
+# - https://graph.microsoft.com/Sites.ReadWrite.All (SharePoint)
+# - https://graph.microsoft.com/Team.ReadBasic.All (Teams)
+
+# LINKEDIN API SCOPES (requer implementação separada):
+# - r_liteprofile (perfil básico)
+# - r_emailaddress (email)
+# - w_member_social (postar)
+# - r_organization_social (páginas da empresa)
+# - rw_organization_admin (administrar páginas)
+
+# TWITTER API SCOPES (requer implementação separada):
+# - tweet.read, tweet.write
+# - users.read, follows.read, follows.write
+# - space.read, list.read, list.write
+
+# FACEBOOK/META API SCOPES (requer implementação separada):
+# - public_profile, email
+# - pages_manage_posts, pages_read_engagement
+# - instagram_basic, instagram_content_publish
+
+# SLACK API SCOPES (requer implementação separada):
+# - channels:read, channels:write
+# - chat:write, files:read, files:write
+# - users:read, team:read
+
+# DISCORD API SCOPES (requer implementação separada):
+# - identify, email, guilds, guilds.join
+# - messages.read, bot
+
+# SPOTIFY API SCOPES (requer implementação separada):
+# - user-read-private, user-read-email
+# - playlist-read-private, playlist-modify-public
+# - user-library-read, user-library-modify
+
+# GITHUB API SCOPES (requer implementação separada):
+# - repo, user, admin:org
+# - workflow, write:packages
+
+# DROPBOX API SCOPES (requer implementação separada):
+# - files.metadata.read, files.content.read
+# - files.content.write, sharing.read, sharing.write
+
+# NOTION API SCOPES (requer implementação separada):
+# - Acesso a páginas, databases, blocos
+
+# TRELLO API SCOPES (requer implementação separada):
+# - read, write, account
+
+# ZOOM API SCOPES (requer implementação separada):
+# - meeting:read, meeting:write
+# - user:read, recording:read
+
+# WHATSAPP BUSINESS API (requer implementação separada):
+# - Envio e recebimento de mensagens
+
+# TELEGRAM BOT API (requer implementação separada):
+# - Controle total do bot
 WINHOFF_MP3_FILE = "winhoff.mp3"
 
 # --- Configuração do LLM LangChain ---
