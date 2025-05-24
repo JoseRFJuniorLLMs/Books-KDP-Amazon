@@ -107,21 +107,66 @@ CREDENTIALS_FILENAME = 'credentials.json'
 TOKEN_FILENAME = 'token.json'
 
 SCOPES = [
-    'https://www.googleapis.com/auth/calendar',
-    'https://mail.google.com/',  # Permissão total para Gmail (leitura, escrita, etc.)
-    'https://www.googleapis.com/auth/drive',
-    'https://www.googleapis.com/auth/youtube',
-    'https://www.googleapis.com/auth/youtube.upload',
-    'https://www.googleapis.com/auth/userinfo.email',
-    'https://www.googleapis.com/auth/userinfo.profile',
-    'openid',
-    'https://www.googleapis.com/auth/contacts',
-    'https://www.googleapis.com/auth/spreadsheets',
-    'https://www.googleapis.com/auth/documents',
-    'https://www.googleapis.com/auth/presentations',
-    'https://www.googleapis.com/auth/tasks',
-    'https://www.googleapis.com/auth/photoslibrary',
-    'https://www.googleapis.com/auth/photoslibrary.sharing',
+    # === GMAIL - ACESSO COMPLETO ===
+    'https://mail.google.com/',  # Permissão total para Gmail (leitura, escrita, envio, busca)
+    'https://www.googleapis.com/auth/gmail.readonly',  # Leitura de emails
+    'https://www.googleapis.com/auth/gmail.send',  # Envio de emails
+    'https://www.googleapis.com/auth/gmail.modify',  # Modificação de emails
+    'https://www.googleapis.com/auth/gmail.compose',  # Composição de emails
+    'https://www.googleapis.com/auth/gmail.labels',  # Gerenciamento de labels
+    
+    # === CALENDAR - GERENCIAMENTO COMPLETO ===
+    'https://www.googleapis.com/auth/calendar',  # Acesso completo ao calendário
+    'https://www.googleapis.com/auth/calendar.readonly',  # Leitura do calendário
+    'https://www.googleapis.com/auth/calendar.events',  # Gerenciamento de eventos
+    
+    # === GOOGLE DRIVE - OPERAÇÕES DE ARQUIVOS ===
+    'https://www.googleapis.com/auth/drive',  # Acesso completo ao Drive
+    'https://www.googleapis.com/auth/drive.file',  # Acesso a arquivos criados pela app
+    'https://www.googleapis.com/auth/drive.readonly',  # Leitura do Drive
+    'https://www.googleapis.com/auth/drive.metadata',  # Metadados dos arquivos
+    
+    # === YOUTUBE - BUSCA E UPLOAD ===
+    'https://www.googleapis.com/auth/youtube',  # Acesso completo ao YouTube
+    'https://www.googleapis.com/auth/youtube.upload',  # Upload de vídeos
+    'https://www.googleapis.com/auth/youtube.readonly',  # Leitura do YouTube
+    'https://www.googleapis.com/auth/youtube.force-ssl',  # Acesso via SSL
+    
+    # === GOOGLE CONTACTS - PEOPLE API ===
+    'https://www.googleapis.com/auth/contacts',  # Acesso aos contatos
+    'https://www.googleapis.com/auth/contacts.readonly',  # Leitura dos contatos
+    
+    # === GOOGLE WORKSPACE APPS ===
+    'https://www.googleapis.com/auth/spreadsheets',  # Google Sheets completo
+    'https://www.googleapis.com/auth/spreadsheets.readonly',  # Leitura de planilhas
+    'https://www.googleapis.com/auth/documents',  # Google Docs completo
+    'https://www.googleapis.com/auth/documents.readonly',  # Leitura de documentos
+    'https://www.googleapis.com/auth/presentations',  # Google Slides completo
+    'https://www.googleapis.com/auth/presentations.readonly',  # Leitura de apresentações
+    
+    # === GOOGLE TASKS - GERENCIAMENTO ===
+    'https://www.googleapis.com/auth/tasks',  # Acesso completo às tarefas
+    'https://www.googleapis.com/auth/tasks.readonly',  # Leitura das tarefas
+    
+    # === GOOGLE PHOTOS - BIBLIOTECA E COMPARTILHAMENTO ===
+    'https://www.googleapis.com/auth/photoslibrary',  # Acesso completo às fotos
+    'https://www.googleapis.com/auth/photoslibrary.readonly',  # Leitura das fotos
+    'https://www.googleapis.com/auth/photoslibrary.sharing',  # Compartilhamento de fotos
+    'https://www.googleapis.com/auth/photoslibrary.appendonly',  # Adicionar fotos
+    
+    # === DADOS DO USUÁRIO E AUTENTICAÇÃO ===
+    'https://www.googleapis.com/auth/userinfo.email',  # Email do usuário
+    'https://www.googleapis.com/auth/userinfo.profile',  # Perfil do usuário
+    'openid',  # OpenID Connect
+    'profile',  # Informações básicas do perfil
+    'email',  # Endereço de email
+    
+    # === ESCOPOS ADICIONAIS PARA FUNCIONALIDADES AVANÇADAS ===
+    'https://www.googleapis.com/auth/script.projects',  # Google Apps Script
+    'https://www.googleapis.com/auth/forms',  # Google Forms
+    'https://www.googleapis.com/auth/forms.responses.readonly',  # Respostas do Forms
+    'https://www.googleapis.com/auth/admin.directory.user.readonly',  # Diretório de usuários (se admin)
+    'https://www.googleapis.com/auth/cloud-platform',  # Google Cloud Platform
 ]
 WINHOFF_MP3_FILE = "winhoff.mp3"
 
