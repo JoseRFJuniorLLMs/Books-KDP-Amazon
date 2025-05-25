@@ -100,7 +100,7 @@ NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 USER_NAME = "Junior"
 
 # === CONFIGURAÇÕES ===
-MODEL_NAME = "gemini-1.5-pro-latest"
+MODEL_NAME = "gemini-2.5-pro-preview-05-06"#"gemini-1.5-pro-latest"
 TEMPERATURE = 0.3
 TTS_VOICE_GOOGLE = "pt-BR-Chirp3-HD-Laomedeia"
 CREDENTIALS_FILENAME = 'credentials.json'
