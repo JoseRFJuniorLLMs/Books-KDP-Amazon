@@ -1,0 +1,5837 @@
+DOCUMENT RESUME 
+
+
+
+ED 306 771 
+
+
+
+FL 017 969 
+
+
+
+AUTHOR 
+TITLE 
+
+INSTITUTION 
+
+SPONS AGENCY 
+
+PUB DATE 
+
+GRANT 
+
+NOTE 
+
+PUB TYPE 
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+IDENTIFIERS 
+
+
+
+ABSTRACT 
+
+
+
+Scorza, Margaret H. 
+
+Computer Focused Russian Bilingual Instructional 
+Program, 1986-1987. OEA Evaluation Report. 
+New York City Board of Education, Brooklyn. Office of 
+Educational Assessment. 
+
+Office of Bilingual Education and Minority Languages 
+Affairs (ED), Washington, DC. 
+89 
+
+00B40141 
+
+65p.; For the 1985-1986 evaluation, see ED 279 
+211. 
+
+Reports - Evaluative/Feasibility (142) 
+MF01/PC03 Plus Postage. 
+
+Academic Achievement; Acculturation; ^Bilingual 
+Education Programs; Career Awareness; *computer 
+Assisted Instruction; Curriculum Design; *English 
+(Second Language); Federal Programs; High Schools; 
+Limited English Speaking; Private Schools; Program 
+Descriptions; Program Effectiveness; Program 
+Evaluation; Public Schools; *Russian; Student 
+Characteristics; *Urt)an Schools 
+Content Area Teaching; *New York (New York) 
+
+
+
+The Computer Focused Russian Bilingual Instructional 
+P'^ogram was a federally-funded program providing instructional and 
+support activities for 323 Russian-speaking students of limited 
+English proficiency at four public and two private high schools in 
+Brooklyn, New York. The main goals of the program were to develop 
+Englicn proficiency and provide content area instruction smd computer 
+literacy. Instructional content varied across sites. Public school 
+students took courses in English as a second language, Russian 
+culture and literature, content areas, business, and vocational 
+courses taught in English. Private school students had tutorials and 
+small-group classes in English and academic subject areas. Career 
+awareness was developed by the grade advisor at each site, and 
+additional components included personal counseling, tutoring, 
+parental advisement, curriculum development, and staff training. 
+Analysis of student achievement indicated that program objectives 
+were met in content-area courses and computer literacy/key boarding 
+but not in English language development. The native language 
+literature and culture courses were found to have unrealistically 
+high objectives. Recommendations for program improvement include 
+additional guest speakers in high technology fields, program-wide 
+activities to promote student contact across sites, more appropriate 
+assessment of English language skills, and more realistic native 
+language goals. (MSE) 
+
+
+
+********* 
+
+* Reproductions supplied by EDRS are the best that can be made 
+
+* from the original document. 
+
+
+
+
+
+OEA 
+
+
+
+0^ 
+
+NO 
+
+cr 
+
+
+
+
+
+Prepared by the O.E.A. 
+Bilingual Education 
+Evaluation Unit 
+
+Jose J. Villegas, 
+Unit Manager 
+
+Margaret H. Scorza, 
+Principal Investigator 
+
+
+
+O.E.A* Evaluation Section Report 
+
+
+
+Robert Tobias, Adminis 
+Judith S. Torres, 
+
+Grant Number 
+
+
+
+trator of Evaluation 
+Senior Manager 
+
+: 00B40141 
+
+
+
+COMPUTER FOCUSED RUSSIAN 
+BILINGUAL INSTRUCTIONAL PROGRAM 
+1986-1987 
+
+
+
+Prepared by the O.E.A. 
+Bilingual Education 
+Evaluation Unit 
+
+Jose J. Villegas, 
+Unit Manager 
+
+Margaret H. Scoriia, 
+Principal Investigator 
+
+
+
+New York City Public Schools 
+Office of Educational Assessment 
+Richard Guttenberg, Director 
+
+
+
+ERIC 
+
+
+
+3 
+
+
+
+It is the policy of the Board of Education not to discriminate on the basis of race cr»«l national oriain -no 
+
+«*''"«'?^/!f<'°". 0^ in «» •duc«k>naI^i^S^^°LSeS e^CS S 
+as required tvlaw. Any person who believes he or she has been discriminated anainst should aJitacrSSe Que ra' 
+Sf^:l" ■ Coortinator. Office of Educational Asswsment, 110 sS^S. wji^' 
+
+New York 11201. inquines regarding compliance with appropriate laws may also bed^mctKi to- ktomMteTA i^lw 
+Director. Office of Equal Opportunity, 110 Lhrtngtton sKSTScTbSiw S^^- ^S^ri^^^^ 
+of Civil Rights. U.S. Department of Educatio?TFWeral>1S ^iS; ^ 
+
+
+
+ERIC 
+
+
+
+A SUMMARY OF THE REPORT 
+
+
+
+The Computer Focused Russian Bilingual Instructional Program 
+was an E.S.E^A. Title Vll-funded program that provided 
+instructional and support activities to 321 Russian-speaking 
+students of limited English proficiency (LEP) at four public and 
+two private high schools in Brooklyn* It completed the second 
+year of a three-year funding cycle in June 1987. 
+
+The program's main goals were to develop students' English 
+competency and at the same time provide them with instruction in 
+the content areas and computer literacy* Helping students 
+acclimate to American life without becoming alienated from their 
+native culture was an ancillary objective* All students in the 
+program were from the Soviet Union, save six from Poland and two 
+from Hungary. The students varied widely in their English- 
+language proficiency, native-language ability, and content-area 
+knowledge and skills. 
+
+The Title VII staff consisted of a project director and 
+secretary, located at the central site, and two resource 
+teachers, a per-session grade advisor/curriculum specialist, and 
+an educational assistant, all of whom worked at the five 
+remaining sites. 
+
+All program staff were supervised by the project director, 
+and when on site, the educational assistant assigned to the two 
+private schools was supervised by the school principals, and the 
+staff assigned to the four public high schools were supervised by 
+the assistant principals of the schools' foreign-language 
+departments . 
+
+The program's instructional content varied across sites. 
+Students at the public schools took courses in: English as a 
+second language (E.S.L.), Russian culture and literature, content 
+areas, business, and vocational coi ses taught in English. At 
+the private schools, students took ' .torials and imall-group 
+classes in English and the content areas. 
+
+At all six sites, career awareness was developed by the 
+grade advisor via meetings with members of the school guidance 
+staff and program staff members, as well as through regularly 
+scheduled presentations by guest speakers. 
+
+Additional program components included; personal counseling, 
+tutoring, parental advisement, curriculum development, and staff 
+training. 
+
+The program's instructional obj^^.ctives were assessed in 
+English-language development ( Criteriou Referenced English 
+syntax Test [CREST]); mastery of the native language (teacher- 
+made tests); mathematics, science, and social studies (teacher- 
+made tests); computer literacy/keyboarding classes (teacher-made 
+
+
+
+ERIC 
+
+
+
+5 
+
+
+
+tests); and attendance (school and program records). 
+
+Quantitative analysis of student achievement data indicates 
+
+that: 
+
+• Forty--three percent of program students tested with the 
+CREST in the fall, and 14 percent in the spring mastered 
+an average of one CREST skill per month of instruction. 
+Therefore, the program criterion of 80 percent mastery 
+was not met. This was due in part to high pretest 
+scores. 
+
+• Over 70 percent of the students achieved a 65 percent 
+passing grade in their content-area courses, thus 
+achieving the proposed objective. 
+
+Students in native language literature and culture 
+classes did not meet the high criterion levels set by the 
+program. This suggests that the criterion (a minimum of 
+80 percent of the students achieving a 75 percent or 
+higher grade) set in the proposal was unrealistic. 
+
+The program objective was met by students in computer 
+literacy/keyboarding classes, who achieved an overall 
+passing rate of 97 percent. 
+
+
+
+The following recommendations are offered as possible 
+program improvements: 
+
+Include more guest speakers from high-tech, especially 
+computer-related, fields so that students are better 
+informed about the many employment opportunities in these 
+areas . 
+
+Organize program-wide activities, such as trips and a 
+newsletter, so that there is more contact among bilingual 
+program students at all six sites. 
+
+Change the objective and test instrument proposed for 
+English language development so that students' skills are 
+assessed more appropriately. 
+
+Change the objective in native language studies so that 
+a realistic goal is set for the students. 
+
+
+
+ERLC 
+
+
+
+8 
+
+
+
+ACKNOWLEDGEMENTS 
+The production of this repo.rt, as of all Office of 
+Educational Assessment Bilingual Education Evaluation Unit 
+reports, is the result of a cooperative effort of regular staff 
+and consultants. In addition to those whose names appear on the 
+cover, Arthur Lopatir.i has edited the manuscripts. Shelley 
+Fischer and Martin Kohli have spent many hours creating, 
+correcting, and maintaining data files. Maria Grazia Asselle, 
+Rosalyn Alvarez, Donna Plotkin, and Milton vickerman have 
+interpreted student achievement and integrated their findings 
+into reports. Finally, Betty Morales has worked intensively to 
+produce, duplicate, and disseminate the com^^leted documents. 
+Without their able and faithful participation, the unit could not 
+have handled such a large volume of work and still have produced 
+quality evaluation reports. 
+
+
+
+ERLC 
+
+
+
+111 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+I. PROJECT DESCRIPTION 
+II. STUDENT CHARACTERISTICS 
+III. FINDINGS 
+
+
+
+PAGE 
+1 
+5 
+12 
+
+
+
+English As a Second Language 3^2 
+
+Enrichment of Native Language Skills 20 
+
+Instruction in Academic Subject Areas 23 
+
+Computer Skills Classes 28 
+
+Affective Domain 3? 
+
+Parental Involvement ,i 
+
+
+
+36 
+
+
+
+Curriculum Development 37 
+
+Staff Development 37 
+
+IV. CONCLUSIONS AND RECOMMENDATIONS 39 
+
+V. APPENDICES ^2 
+
+
+
+ERIC 
+
+
+
+IV 
+
+
+
+LIST OF TABLES 
+
+
+
+PAGE 
+
+TABLE 1: Number of Students Leaving the Program. 6 
+
+TABLE 2: Number of Program Students by Age and Grade. 8 
+
+TABLE 3: Students' Years of Education by Grade. H 
+
+TABLE 4: Results of the Criterion Referenced English 
+
+Syntax Test . 19 
+
+TABLE 5: Passing Rates in Native Literature and Culture 
+
+Courses. 22 
+
+TABLE 6; Students' Passing Rates in Content-Area 
+
+Subjects. 27 
+
+TABLE 7: Passing Rates in Computer Literacy Courses. 30 
+
+TABLE 8: Comparison of Program and School-wide 
+
+Attendance. 3g 
+
+
+
+ERIC 
+
+
+
+V 
+
+9 
+
+
+
+COMPUTER FOCUSED RUSSIAN BILINGUAL INSTRUCTIONAL PROGRAM 
+
+
+
+Year of Operation: 
+
+Target Language: 
+Number of Students Served: 
+Project Director: 
+Central Office Locations 
+
+Public School Sites: 
+
+South Shore High School 
+6565 Flatlands Avenue 
+Brooklyn, New York 11236 
+
+James Madison High School 
+3787 Bedford Avenue 
+Brooklyn, New York 11229 
+
+
+
+1986-87, Second Year of a 
+Three-Year Funding Cycle 
+
+Russian 
+
+305 Fall, 320 Spring 
+
+Florence Seiman 
+
+South Shore High School 
+6565 Flatlands Avenue 
+Brooklyn, New York 11236 
+
+
+
+Franklin D. Roosevelt High School 
+5800 Twentieth Avenue 
+Brooklyn, New York 11204 
+
+Abraham Lincoln High School 
+Ocean Parkway and West Avenue 
+Brooklyn, New York 11235 
+
+
+
+Private School Sites: 
+
+Yeshiva Harama 
+2600 Ocean Avenue 
+Brooklyn, New York 
+
+
+
+Yeshiva Be'er Hagola 
+293 Neptune Avenue 
+Brooklyn, New York 11235 
+
+
+
+I. PROJECT DESCRIPTION 
+In its second year of funding under Title VII of the 
+Elementary and Secondary Education Act (E.S.E.A.), the Computer 
+Focused Russian Bilingual Instructional Program operated in 
+virtually the identical manner as was described in the Office of 
+Educational Assessment's evaluation report for 1985-86 • During 
+the year under review 321 Russian-, six Polish-, and two 
+Hungarian-speaking students of limited English proficiency (LEP) 
+
+
+
+ERLC 
+
+
+
+10 
+
+
+
+were served. They attended four public and two private high 
+schools in Brooklyn. Thirty students attended South Shore High 
+School; 67 attended Franklin D. Roosevelt (F.D.R.) High School; 
+50 attended Abraham Lincoln High School; 31 attended James 
+Madison High School; 64 attended Yeshiva Hararna; and 87 attended 
+Yeshiva Be'er Hagola. 
+
+The project sought to foster English proficiency and 
+intellectual growth via academic, computer, and career 
+instruction. Students at all six sites received instruction in 
+English as a second language (E.S.L.), and in mathematics, 
+science, and social studies taught in English or with program 
+staff members. In addition to this basic curriculum, students at 
+all six sites took mainstream courses in computer skills, art, 
+music, physical education, and/or business and vocational 
+subjects. To give students in these courses the linguistic help 
+they needed, the program provided small-group or individual 
+tutorial assistance on an as-needed basis. 
+
+The Title VII staff consisted of a project director, two 
+resource teachers, an educational assistant, a secretary, and a 
+per session (hourly) grade advisor/curriculum specialist. All 
+staff members were fluent in both English and Russian. The 
+project director and secretary were headquartered South Shore. 
+One resource teacher, who also served as community liaison, spent 
+two days a wee"k at James Madison, two days at Abraham Lincoln, 
+and one day at South Shore. The other resource teacher was 
+available for two mornings a week at South Shore, and spent the 
+
+2 
+
+ERiC 
+
+
+
+rest of his time at F.D.R. The educational assistant spent three 
+clays each week at Yeshiva Harama and two days at Be'er Hagola, 
+
+The project director was supervised by the manager of the 
+Bilingual/E.r.L. Unit of the New York City Public Schools' 
+Division of High Schools. Her duties included designing and 
+implementing program activities, hiring and supervising project 
+personnel, directing curriculiun- and staff -development 
+activities, and maintaining communication with the Board of 
+Education and state and federal agencies. 
+
+The resource teachers and educational assistant coordinated 
+project activities at the sites, counseled and tutored program 
+students, provided instruction in native language arts and 
+culturt., and ser\ ed as liaisons between the schools and students' 
+families. Their activities were supervised by the project 
+director and, when on-site, by the assistant principal of each 
+school's foreign language department or, in the case of the 
+yeshivas, by the principal. All staff members communicated 
+regularly with the project director. She reported that there 
+were no conflicts between their Title VII responsibilities and 
+the educational policies of each school. 
+
+The program office, located on the third floor of South 
+Shore, was brightly decorated with travel posters of the Soviet 
+Union and Eastern Europe, maps, Russian objects d'art, newspaper 
+clippings, and photographs of students and staff members. 
+Russian-language newspapers and boc>>s, popular magazines 
+containing articles on the Soviet Union, Russian/English 
+
+3 
+
+
+
+ERLC 
+
+
+
+12 
+
+
+
+dictionaries, and pamphlets on careers, college admission and 
+financial aid were available for student use. The office had a 
+large storeroom which was used for supplies and a small Russian- 
+language lending library that was open to parents as well as 
+students . 
+
+
+
+ERIC 
+
+
+
+13 
+
+
+
+II- STUDENT CHARACTERISTICS 
+
+The program served a total of 329 students during the year 
+under review, 305 of whom were enrolled in the fall and 320 in 
+the >pring. (in other words, 296 students were enrolled both 
+semesters; nine were enrolled in the fall only; and 24 were 
+enrolled in the spring only.) Data also were received for 29 
+students who were in the program in June 1986 but left before the 
+beginning of the fall semester: 11 graduated; 9 transferred; 5 
+were mains treamed; 3 dropped out for unstated reasons; and 1 left 
+for family reasons. One hundred and thirteen students who were 
+served during the academic year left the program for reasons such 
+as graduation, transfer, and leaving the country (see Table 1). 
+
+Data on time in the program were available for 254 of the 
+320 students present in the program during the spring. Of these 
+students, 138 had been in the program for one year or less; 114 
+had been in the program for two years; and two students had been 
+in the program for two years and also participated in a prior 
+bilingual program. 
+
+Three hundred and twenty-one of the program's 329 students 
+(98 percent) v;ere born in the Soviet Union and spoke Russian; six 
+students (1.5 percent) were born in Poland and spoke Polish; and 
+two students (0.6 percent) were born in Hungary, and spoke 
+Hungarian. 
+
+Program-wide, the students were 57 percent female, but sex 
+distribution varied from school to school — ranging from 33 
+
+5 
+
+
+
+percent female at South Shore to 100 percent female at Yeshiva 
+Harama . 
+
+
+
+TABLE 1 
+
+Number of students Leaving the Program 
+
+
+
+
+
+Reason For 
+Leaving 
+
+
+Left 
+January 
+
+
+By 
+1987 
+
+
+Left By 
+June 1987 
+
+
+Percent 
+Of Total 
+
+
+
+Mainstreamed 
+
+
+1 
+
+
+4 
+
+
+4.4 
+
+
+Transferred 
+
+
+5 
+
+
+34 
+
+
+34.5 
+
+
+Left U.S. 
+
+
+
+
+11 
+
+
+9.7 
+
+
+Graduated 
+
+
+1 
+
+
+40 
+
+
+36.3 
+
+
+Earned G.E.D. 
+
+
+1 
+
+
+
+
+* 
+
+
+Employment 
+
+
+1 
+
+
+7 
+
+
+7.1 
+
+
+Family Problem 
+
+
+
+
+1 
+
+
+* 
+
+
+Other Reasons 
+
+
+
+
+7 
+
+
+6.2 
+
+
+TOTAL 
+
+
+9 
+
+
+104 
+
+
+100.0 
+
+
+
+*Under one percent 
+
+• About 71 percent of the program students left the program 
+because they graduated (36 percent) or transferred to 
+another school (35 percent). 
+
+
+
+ERIC 
+
+
+
+6 
+
+15 
+
+
+
+Table 2 presents the distribution of program students by age 
+and grade. Data were available for 309 students: 125 (41 
+percent) were in grade nine; 89 (29 percent) were in grade ten; 
+63 (20 percent) were in grade eleven; and 32 (10 percent) were in 
+grade twelve. Twenty-three percent were overage for their grade 
+placement. The largest number of overage students was in grade 
+nine — 17 students (14 percent of the grade). Seven of 32 
+twelfth-grade students (22 percent) were overage. The age of the 
+ninth graders ranged from 13 to 18 years, whereas the age of 
+twelfth graders ranged from 17 to 19. Many overage students had 
+entered the program upon arrival from the Soviet Union. Although 
+their academic background was good, after their parents had 
+applied for exit visas practically all were deprived of schooling 
+for periods of up to two years. 
+
+
+
+ERIC 
+
+
+
+7 
+
+16 
+
+
+
+TABLE 2 
+
+Number of Program students by Age* and Grade 
+
+
+
+Age Grade 9 Grade 10 Grade 11 Grade 12 Total 
+
+
+
+1 ^ 
+
+
+11 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+11 
+
+
+14 
+
+
+49 
+
+
+
+
+0 
+
+
+0 
+
+
+52 
+
+
+15 
+
+
+48 
+
+
+32 
+
+
+2 
+
+
+0 
+
+
+82 
+
+
+16 
+
+
+11 
+
+
+
+
+27 
+
+
+^^^^^ 
+
+
+79 
+
+
+17 
+
+
+4 
+
+
+13 1 
+
+
+^^25 
+
+
+11 
+
+
+53 
+
+
+18 
+
+
+2 
+
+
+0 
+
+
+9 j 
+
+
+
+
+25 
+
+
+19 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+1 ^ 
+
+
+7 
+
+
+TOTAL 
+
+
+125 
+
+
+89 
+
+
+63 
+
+
+32 
+
+
+309** 
+
+
+Overage Program-Wide 
+Students 
+
+
+Number 
+
+
+17 
+
+
+13 
+
+
+9 
+
+
+7 
+
+
+71 
+
+
+Percent 
+
+
+13.6 
+
+
+14.6 
+
+
+14.3 
+
+
+21.9 
+
+
+23.0 
+
+
+
+NOTE. Numbers in bold area reflect expected age range for grade. 
+*Age on June 30, 1987. 
+
+**Data for 20 program students were invalid or missing. 
+
+• Twenty-three percent of the program students were 
+overage for their grade placement. 
+
+
+
+ERIC 
+
+
+
+8 
+
+7 
+
+
+
+Unlike previous programs for Russian students in New York 
+City, the bulk of those enrolled in the Computer Focused Russian 
+Bilingual Program had already spent several years in an American 
+public high school or transferred from yeshivas where most of 
+their time had been spent learning Hebrew. (Several overage 
+students were from the latter group. ) Overall, their mean years 
+of education in the United States ranged from 4.5 (s.d. + 2.4) 
+for ninth graders to 5.4 (s.d + 2.1) for twelfth graders (see 
+Table 3). However, when analyzed by site, the time spent by 
+students in the American school system varied widely — from 3.3 
+years at F.D.R. to 7.7 years at Abraham Lincoln (see Appendix A). 
+
+About 50 percent of the program's students were classified 
+as LEP because they had scored below the twenty-first percentile 
+on the English version of the Language Assessment Battery * (LAB) 
+examination. Although the remaining students in the program were 
+somewhat more proficient in English, the project director said 
+
+
+
+The Language Assessment Battery (LAB) was developed by 
+the Board of Education of the City of New York to 
+measure the English language proficiency of non-native 
+speakers of English in order to determine if their level 
+of English proficiency is sufficient to enable them to 
+participate effectively in classes taught in English. 
+The areas measured are listening, reading, writing, and 
+speaking. The LAB was designed to maximize the 
+discrimination of the test for the non-native at the 
+20th percentile on the norms for the English-proficient 
+sample. This is the cutoff point for eligibility for 
+bilingual and E.S.L. instruction. The Kuder-Richardson 
+Reliability Estimate for the total test was .97 for the 
+high school level (Level 4). Studies have shown that 
+the relative difficulty of items was highly similar for 
+both native and non-native speakers, thus validating the 
+homogeneity of the test's content. 
+
+
+
+9 
+
+
+
+their academic performance was below par for two reasons: 
+problems of cultural adjustment^ and a disparity between academic 
+level and competence in English. She also noted that the current 
+program had more students than its predecessors who had spent 
+several years in Israel where they had learned Hebrew and lost 
+(or never acquired) the ability to read and write Russian. 
+
+
+
+ERIC 
+
+
+
+10 
+
+
+
+19 
+
+
+
+I 
+
+
+
+TABLE 3 
+
+Students' Years of Education by Grade 
+
+
+
+Years Education- Years Education 
+Total Years of Education Native Country United States 
+
+Grade <8 9 10 11 12 >12 Total Mean S.D. Mean S.D 
+
+
+
+9 
+
+
+43 
+
+
+53 
+
+
+24 
+
+
+1 
+
+
+1 
+
+
+1 
+
+
+123 
+
+
+4.5 
+
+
+2.5 
+
+
+4.5 
+
+
+2.4 
+
+
+10 
+
+
+13 
+
+
+34 
+
+
+37 
+
+
+4 
+
+
+0 
+
+
+1 
+
+
+89 
+
+
+4.6 
+
+
+2.5 
+
+
+4.8 
+
+
+2.6 
+
+
+11 
+
+
+4 
+
+
+14 
+
+
+20 
+
+
+27 
+
+
+0 
+
+
+1 
+
+
+66 
+
+
+5.0 
+
+
+2.3 
+
+
+5.1 
+
+
+2.6 
+
+
+12 
+
+
+0 
+
+
+2 
+
+
+4 
+
+
+12 
+
+
+14 
+
+
+2 
+
+
+34 
+
+
+5.9 
+
+
+2.1 
+
+
+5.4 
+
+
+2.1 
+
+
+TOTAL 
+
+
+60 
+
+
+103 
+
+
+85 
+
+
+44 
+
+
+15 
+
+
+5 
+
+
+312* 
+
+
+4.8 
+
+
+2.4 
+
+
+4.8 
+
+
+2.5 
+
+
+* Data 
+
+
+for 17 
+
+
+program 
+
+
+students 
+
+
+were 
+
+
+invalid or 
+
+
+missing 
+
+
+
+
+
+
+
+
+
+• The mean years of education in the United States ranged from 4.5 for 
+ninth graders to 5.4 for twelfth graders. 
+
+• The mean years of education in the students' native country ranged from 
+4.5 for ninth graders to 5.9 for twelfth graders. 
+
+• Nineteen percent of the students had eight or fewer years of education. 
+
+ERIC 
+
+
+
+III. FINDINGS 
+
+
+
+The evaluation findings for the 1986-87 academic year 
+include both objectives measurable by standardized tests and 
+those that were assessable by examining program materials and 
+records, making site visits, and interviewing program staff 
+members, in the following section, findings are presented by 
+the instructional and non-instructional objectives proposed to 
+and accepted by the Office of Bilingual Education and Minority 
+Languages Affairs (OBEMLA) . 
+
+ENGLISH AS A SECOND LANGUAGE 
+
+A jfiinimum of 80 percent of the students participating In 
+the program will master an average of one objective per 
+twenty days of instruction as measured by the Criterion 
+Referenced English Syntax Test ( CREST ) . 
+
+At the public schools, E.S.L. courses were provided at 
+beginning , intermediate, advanced, and transitional levels. At 
+the private schools, program students received tutorial 
+assistance in English reading and writing from the Title VII 
+paraprof essional . 
+
+Public school students qualified for E.S.L. instruction by 
+scoring below the twenty-first percentile on the English version 
+of the LAB- Some students had more advanced English-language 
+skills and were enrolled in mainstream English classes. However, 
+the project director emphasized that many such students were 
+
+At James Madison and Abraham Lincoln this included three 
+daily periods of beginning-level E.S.L. instruction. 
+
+12 
+
+
+
+ERLC 
+
+
+
+21 
+
+
+
+unable to realize their potential in mainstream classes because, 
+despite their higher LAB scores, their practical knowledge of 
+English was limited. 
+
+The program provided small-group tutorials for both students 
+taking regular E.S.L. courses and those who had scored above the 
+20th percentile on the LAE. In addition, it encouraged program 
+students to participate in ongoing schoolwide tutorial programs 
+in English. 
+
+Classroom Observations 
+
+A member of the evaluation team observed E*S,L. clcisses at 
+three public high schools. A3.1 of the classes contained a mixture 
+of Asian, Hispanic, Haitian, Russian, and Middle Eastern students 
+and were conducted entirely in English. 
+
+At South Shore, a beginning-level class of 11 students was 
+observed. (Tv;o more students were being tutored in the back of 
+the room by a paraprofessional. ) The aim of the lesson was to 
+learn how to use ''has" and "have" as auxiliary verbs. The 
+teacher's method was to supply the pronoun and main verb herself, 
+and to then call upon students to supply the missing auxiliary. 
+For the second half of the lesson, the teacher distributed a 
+handout featuring items of furniture commonly found in a living 
+room and asked the students to name each item. Afterward, the 
+teacher asked students to write five sentences about the furniture 
+in their own living rooms. While this exercise was being 
+completed, the teacher provided individualized help to students 
+who needed it. When all the students were through, they read 
+
+13 
+
+
+
+ERIC 
+
+
+
+22 
+
+
+
+ERIC 
+
+
+
+their compositions aloud, and the teacher corrected each one. 
+
+An intermediate-level E.S.L* class was also observed at South 
+Shore. Nineteen students attended. The quality and popularity of 
+fast-food restaurants was the topic. The lesson combined practice 
+in reading, writing, speaking, and listening. The teacher began 
+the class by having the students write in their notebooks the 
+answers to questions in their textbook. Insights and Ideas . The 
+teacher then called upon students to read their answers out loud, 
+while a student volunteer wrote them on the blackboard. The 
+teacher urged the students to speak loudly and enunciate clearly. 
+The students appeared^ to be enjoying the class and many eagerly 
+raised their hands to answer the teacher's questions. 
+
+The two classrooms at South Shore were colorfully decorated; 
+— the first with posters showing rules of grammar, and examples 
+of antonyms, synonyms, homonyms, and punctuation marks; the second 
+with posters depicting various countries of Asia, Europe, and the 
+Caribbean. 
+
+An E.S.L. workshop for 20 beginning-level students was 
+observed at James Madison. The "do-now" exercise asked students 
+to fill in the missing words for five sentences that had been 
+written on the blackboard. When this assignment finished, the 
+teacher called upon students to answer orally. She spoke loudly 
+and clearly, and asked the class to repeat new vocabulary items 
+that sprung up in the ensuing discussion. 
+
+Also observed at Madison was an advanced-level E.S.L. class. 
+The teacher was giving a short spelling quiz containing words used 
+
+14 
+
+
+
+9^ ^3 
+
+
+
+ERIC 
+
+
+
+in the Test of English as a Foreign Lanau rjfe (T.O.E.F.L. ) . After- 
+ward, she called on students to spell out each word, and wrote 
+the correct spelling on the blackboard. The second half of the 
+lesson was a review of the previous day's homework assignment: 
+to answer questions about the first chapter of The Pigman by Paul 
+Zindel. it appeared that nearly all the students had done the 
+assignment, because many raised their hands in response to the 
+teacher's questions. 
+
+At F.D.R., a beginning- and an intermediate-level E.S.L. 
+class were observed. The beginning-level class had an attendance 
+of 27. The topic, "What do you like to eat?" was written on the 
+blackboard. To begin the lesson, the students were called upon 
+to correct sentences containing errors that the teacher had 
+written on the blackboard before class started. Then the teacher 
+held up a number of artificial fruits and vegetables, asked 
+students to name each one and state v/hether they enjoyed eating 
+its real counterpart. She made sure that students answered in 
+full sentences. She then had them ask each other about their 
+alimentary preferences. New words were defined and written on the 
+board. Judging by the amount of joking and laughter, the students 
+appeared to be enjoying the class. 
+
+The aim of the intermediate-level E.S.L. class at F.D.R. was 
+to learn "How can we interview our classmates?" Twenty- two 
+students attended. The teacher asked the students to pose as 
+reporters and think about the questions they would ask each other 
+in an interview. Many students volunteered questions, end the 
+
+15 
+
+
+
+teacher listed them on the blackboard. She also tried hard to 
+involve students who were reluctant to participate. As in the 
+previous class, new words, such as "hobby" and "reporter," were 
+defined and written on the board. 
+
+To help learn how the program functioned at tne two private 
+school sites, a member of the evaluation team observed the educa- 
+tional assistant tutoring three students at Yeshiva Be'er Hagola. 
+The students had arrived in the United States only the month 
+before, after spending several months in a Viennese transit camp 
+waiting for visas. During this time they were required to study 
+Hebrew. Since their English skills were extremely limited, they 
+had been "pulled out" of their regular English classes for 
+tutoring. In an interview the educational assistant said that at 
+both schools, Russian LEP students were referred to her for 
+tutoring in English, and English-prof ici^int Russian students with 
+academic problems were referred to her for tutoring in the content 
+areas. 
+
+
+
+ERIC 
+
+
+
+16 
+
+
+
+C — 
+
+
+
+student Achievement in E.S.L. 
+
+The assessment instrument used to evaluate the objective in 
+this area was the Criterion Referenced English Syntax Test * 
+CREST) • 
+
+The CREST was administered at the beginning and the end of 
+each semester. A mastery score to indicate gains was computed for 
+eav:h student by calculating the difference between pretest and 
+posttest. The number of months of instruction between testings 
+was computed for each student by multiplying the number of months 
+between testings by the student's attendance rate. The number of 
+skills mastered per month was calculated by dividing the mean' 
+mastery by the mean number of months of instruction between 
+testings. 
+
+Table 4 presents the test results for students who were 
+pretested and posttested with the same level. Of the students who 
+were reported to have taken E.S.L. -ilasses (levels 1, 2, and 3), 
+complete data (levels, pretest score, and posttest score) were 
+available for 155 in the fall and 185 in the spring. 
+
+Examination of Table 4 reveals that most of the students were 
+
+
+
+*The Criterion Referenced English Syntax Test (CREST) was 
+developed by the Board of Education of the City of New York to 
+measure mastery of instructional objectives of the E.S.L. 
+curricula, and thus was constructed to maximize content validity. 
+The test contains four items per curricular objective, and 
+mastery of an objective is achieved when three of these items are 
+ansv/ered correctly. The test measures mastery of 25 objectives 
+at Levels 1 and 2, and 15 objectives at Level 3. The Kuder- 
+Richardson Reliability Estimates for pretest and posttest 
+administrations of the three levels of the CREST are: 
+
+Level 1 — pretest ( .91) /posttest (.96) 
+
+Level 2 pretest ( .94) /posttest (.95) 
+
+Level 3 — pretest ( .91) /posttest (.91). 
+
+17 
+
+
+
+Re 
+
+
+
+tested at Level 3. Appendices Bl through B6 present students' 
+test scores by school, overall, students gained 0.9 objectives 
+per month in the fall and 0.6 objectives per month in the spring. 
+Of the students for whom pretest and posttest CREST scores were 
+available, 43 percent gained one or more objectives per month in 
+the fall and 14 percent gained one or more objectives per month in 
+the spring. Thus the program objective was not met. 
+
+One reason for not meeting the objective was that students 
+ha<? high pretest scores. Thus, although many students achieved 
+the maximum posttest score possible, they could not show gains of 
+one objective per month on the CREST. The objective is therefore 
+not realistic because the instrument is inadequate for measuring 
+gains for this population: it appears to be at too low a level 
+for these students. 
+
+
+
+18 
+
+
+
+TABLE 4 
+
+Results of the Criterion Referenced English Syntax Test 
+
+
+
+
+
+Test 
+Level 
+
+
+Number of 
+Students 
+
+
+PRETEST 
+Mean S.D. 
+
+
+POSTTEST 
+Mean S.D, 
+
+
+MASTERY 
+Mean S.D. 
+
+
+Mean 
+Mastery 
+Per Month 
+
+
+Percentage 
+
+Meeting 
+
+Objective 
+
+
+
+FALL 
+
+
+
+1 
+
+
+11 
+
+
+12.7 
+
+
+5.5 
+
+
+20.3 
+
+
+4.7 
+
+
+7.6 
+
+
+2.1 
+
+
+2.9 
+
+
+100 
+
+
+2 
+
+
+14 
+
+
+13.6 
+
+
+5.4 
+
+
+18.1 
+
+
+5.0 
+
+
+4.5 
+
+
+2.7 
+
+
+1.5 
+
+
+71 
+
+
+3 
+
+
+130 
+
+
+11.2 
+
+
+2.6 
+
+
+13.2 
+
+
+2.3 
+
+
+2.0 
+
+
+1.5 
+
+
+0.7 
+
+
+35 
+
+
+TOTAL 
+
+
+155 • 
+
+
+11.5 
+
+
+3.3 
+
+
+14.1 
+
+
+3.6 
+
+
+2.6 
+
+
+2.3 
+
+
+0.9 
+
+
+43 
+
+
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+15 
+
+
+14.5 
+
+
+5.9 
+
+
+17.0 
+
+
+5.1 
+
+
+2.5 
+
+
+2.1 
+
+
+1.4 
+
+
+27 
+
+
+2 
+
+
+12 
+
+
+18.3 
+
+
+4.8 
+
+
+20.9 
+
+
+3.8 
+
+
+2.6 
+
+
+2.2 
+
+
+1.0 
+
+
+50 
+
+
+3 
+
+
+158 
+
+
+12.0 
+
+
+2.0 
+
+
+13.3 
+
+
+1.4 
+
+
+1.3 
+
+
+1.0 
+
+
+0.5 
+
+
+9 
+
+
+TOTAL 
+
+
+185 
+
+
+12.6 
+
+
+3.2 
+
+
+14.1 
+
+
+3.0 
+
+
+1.5 
+
+
+1.3 
+
+
+0.6 
+
+
+14 
+
+
+
+• Overall, program students achieved 0.9 CREST skills per month in the 
+fall and 0.6 CREST skills per month in the spring. 
+
+
+
+ERIC 
+
+
+
+19 
+
+P8 
+
+
+
+ENRICHMENT OF NATIVE LANGUAGE SKILLS 
+
+— A minimum of 80 percent of the students participating 
+in the project will achieve a 75 percent or higher 
+rating in the native language arts component of the " 
+program. 
+
+The program's resource teachers conducted classes in Russian 
+culture and literature at all four public school sites. Russian 
+culture was taught on a tutorial basis at the two private schools. 
+
+According to staff members, students' ability in the native 
+language was mixed: recent immigrants had strong native language 
+skills and could discuss difficult literary texts with a fair 
+degree of sophistication; those who had immigrated as young 
+children or after long stays in Europe or Israel could speak but 
+not read or write fluently. To help the latter group, the 
+resource teachers provided small-group tutoring. At some sites, 
+peer counseling was also available via extracurricular 
+Russian- language clubs. 
+
+Classroom Observations 
+
+Two Russian literature and culture classes, conducted by the 
+resource teachers, were observed at F.D.R. and Abraham Lincoln. 
+The aim of the F.D.R. class was for students to discuss what they 
+had learned about World War II from their parents and grand- 
+parents. Seven students were present. The teacher read aloud a 
+short Russian passage describing one family's experiences during 
+the war. The teacher posed several questions which required the 
+students to compare what they had heard from their relatives with 
+the story they had just read. 
+
+20 
+
+90 
+
+
+
+The teacher seemed to enjoy good rapport with the students, 
+and there was some joking and laughter during the story's lighter 
+moments. All the students paid close attention to the teacher's 
+reading, and participated enthusiastically in the ensuing 
+discussion. 
+
+Nine students were present in the class observed at Abraham 
+Lincoln, including two whose tight programs required that they 
+eat lunch at this time. The topic was Alexander Pushkin's 
+influence on Russian literature\ The resource teacher distributed 
+a handout in Russian on Pushkin's life. Several students 
+volunteered to read the selection out loud. The teacher 
+interrupted the reading several times to emphasize various points 
+and wrote new or difficult words on the blackboard. As in the 
+class above, the students actively participated in the lesson. 
+Most were able to answer the teacher's questions about the text. 
+
+Student Achievement in Native Language Arts 
+
+Sixty--eight percent (rather than the proposed 80 percent) of 
+the students achieved a final grade of 75 percent (see Table 5). 
+This criterion, however, is higher than the citywide standard 
+passing grade (65 percent) used in New York City high schools. 
+Had the standard passing criterion been applied, 88 percent of the 
+students would have passed in the fall and 93 percent would have 
+passed in the spring, thereby more than meeting the 80 percent 
+objective. Therefore, it is recommended that this objective be 
+revised to reflect the city-wide standard as well as students' 
+actual abilities. 
+
+21 
+
+
+
+30 
+
+
+
+TABLE 5 
+
+Passing Rates in Native Literature and Culture Courses 
+
+
+
+
+
+SITE 
+
+
+Number of 
+Students 
+
+
+Percent 
+Passing 
+at 75% 
+
+
+Number of 
+Students 
+
+
+Percent 
+Passing 
+at 75% 
+
+
+Overall 
+Passing 
+at 75% 
+
+
+
+Be'er Hagola 
+
+
+49 
+
+
+57.1 
+
+
+72 
+
+
+48.6 
+
+
+52.0 
+
+
+Harama 
+
+
+
+
+
+
+
+
+
+
+
+
+Abraham Lincoln 
+
+
+18 
+
+
+11.1 
+
+
+19 
+
+
+52.6 
+
+
+32.4 
+
+
+James Madison 
+
+
+19 
+
+
+100.0 
+
+
+12 
+
+
+100.0 
+
+
+100.0 
+
+
+Franklin D. Roosevelt 
+
+
+41 
+
+
+85.4 
+
+
+44 
+
+
+81.8 
+
+
+83.5 
+
+
+South Shore 
+
+
+25 
+
+
+88.0 
+
+
+19 
+
+
+94.7 
+
+
+90.9 
+
+
+TOTAL 
+
+
+152 
+
+
+69.7 
+
+
+166 
+
+
+66.9 
+
+
+68.2 
+
+
+
+• Overall, 68 percent of the program students achieved a passing 
+grade of 75 percent. Thus, the program objective was not met. 
+However, program students at Madison, Roosevelt, and South shore 
+achieved the program objective during the fall and spring 
+semesters. 
+
+
+
+22 
+
+31 
+
+
+
+INSTRUCTION IN ACADEMIC SUBJECT AREAS 
+
+
+
+ERIC 
+
+
+
+— Seventy percent of the program students will pass with a 
+passing grade of 65 percent or better on teacher-made 
+tests. Sixty-five percent is a passing grade for the 
+students in the City of New York. 
+
+Many program students, including those at the private 
+schools, were enrolled in mainstream offerings in content-area 
+subjects; however, public school students whose English profi- 
+ciency was limited could attend special content-area courses 
+taught with an E.S.L. approach. South Shore offered such courses 
+in math, biology, hygiene, American history, and global studies; 
+James Madison offered general science, American history, and 
+global studies; F.D.R. offered basic math, general science, 
+biology^ chemistry, global studies, and U.S. history and 
+government; and Abraham Lincoln offered biology, American history, 
+and American government. Program staff members were available at 
+all sites to tutor program students in both mainstream and special 
+courses. 
+
+Classroom Observations 
+
+At the public high schools a member of the evaluation team 
+observed classes in mathematics, science, and social studies. The 
+classes contained LEP students from several nations and were 
+conducted entirely in English. 
+
+Twenty-three students were present in a mathematics class 
+observed at F.D.R. The aim of the lesson was to teach students 
+three different ways to write ratios and how to reduce fractions 
+to the lowest common denominator. The teacher wrote several 
+
+23 
+
+
+
+32 
+
+
+
+problems on the blackboard, and the students solved them in their 
+notebooks* All the students participated in t.ie lesson and 
+appeared eager to be called upon to present their answers on the 
+blackboard* 
+
+The general science class observed at F.D.R. contained 20 
+LEP students. The topic of the day's lesson was "How do some 
+animals replace lost parts?" During the lecture on regeneration, 
+the teacher frequently referred to a dessicated starfish, an 
+artificial lobster, and a giant lobster claw. The teacher took 
+care to define, write on the blackboard, and have the students 
+repeat all new terms. Students were sometimes asked to give the 
+names of animals in their native languages. They appeared to 
+enjoy this part very much, and there was much laughter as they 
+compared English terms with their native-language equivalents. 
+
+At James Madison, a member of the evaluation team observed a 
+health education class that was being taught for the first time 
+through an E.S.L. methodology. The class contained 26 students. 
+The topic of the day's lesson was "your personality." Students 
+were asked to choose two characters from a book, movie, or 
+television program and to list the personality traits they shared 
+and those they did not share. The students were then called upon 
+to read their responses and discuss the actions and motivations of 
+the characters they had selected. Most had selected characters 
+from popular television shows, such as T he Colbys , The A Team , and 
+Stingray . Some students appeared reticent about speaking English 
+in front of the class, and those who spoke did so at an 
+
+24 
+
+
+
+33 
+
+
+
+intermediate level of ability. 
+
+An E.S.L. social studies class observed at South Shore 
+contained 29 students. The teacher called upon students to answer 
+the question "Why do new immigrants have problems in the United 
+States?" — which had been written on the blackboard in English. 
+Based on their responses, the teacher wrote a list of items — 
+e.g., "the language barrier and culturrl differences," — on the 
+blackboard. Then he spoke about his own family's experiences as 
+immigrants to this country and his own experiences during a long 
+visit to India. During his talk, he referred to several maps 
+posted on the walls. The students clearly were very interested in 
+the topic. Many raised their hand to give specific examples of 
+how their native traditions differed from American culture. They 
+also seemed to like and respect their teacher. 
+
+Eighteen students were present in the social studies class 
+for foreign students that was observed at F.D.R. To begin the 
+class, the trilingual teacher (English, Spanish, and Mandarin) 
+distributed a small map of the world to each student and asked 
+them to identify lakes, rivers, mountains, and seas in Asia. Many 
+st'idents raised their hands to contribute information. The 
+teacher wrote new terms, such as "plain," "desert," and 
+"peninsula" on the blackboard and defined each one. The teacher 
+also translated several words for a recently arrived Chinese- 
+speaking student. 
+
+In an American history class observed at the same site, 
+students were at work on an assignment from their text. Thirty- 
+
+25 
+
+
+
+34 
+
+
+
+two students were presents As the students worked, the teacher 
+called each one to his desk to review and grade a homework assign- 
+ment* He appeared to take special care to explain new vocabulary 
+and correct spelling errors • Only one student did not hand in an 
+assignment ♦ 
+
+Student Achievement in Academic Subject Areas 
+
+Table 6 illustrates program students' performance in content 
+areas. The program objective was met both semesters. Overall, 
+program students' achievement was high (83 percent passing rate). 
+Achievement was highest in social studies courses, with an 89 
+percent passing rate in the fall and an 82 percent passing rate 
+in the spring. 
+
+
+
+26 
+
+
+
+TABLE 6 
+
+Students' Passing Rates in Content-Area Subjects 
+
+
+
+FALL SPRING TOTAL 
+
+
+
+COURSE 
+
+
+Number of 
+Students 
+
+
+Percent 
+Passing 
+at 65% 
+
+
+Number of 
+Students 
+
+
+Percent 
+Passing 
+at 65% 
+
+
+Overall 
+Passing 
+-at 65% 
+
+
+Math^ 
+
+
+203 
+
+
+85.2 
+
+
+245 
+
+
+77.1 
+
+
+80.8 
+
+
+Science^ 
+
+
+212 
+
+
+85.8 
+
+
+229 
+
+
+78.6 
+
+
+82.1 
+
+
+Social 
+Studies*^ 
+
+
+217 
+
+
+88.9 
+
+
+258 
+
+
+82.2 
+
+
+85.3 
+
+
+TOTALS 
+
+
+
+
+86.7 
+
+
+
+
+79.4 
+
+
+82.8 
+
+
+
+^Math courses ranged from remedial to calculus and computer math. 
+
+^Science courses ranged from general science to physics. 
+
+^Social studies courses included: world geography, global history 
+
+A, B, and C; American history A and B; economics; civics, American 
+studies, and other courses. 
+
+
+
+Overall, program students achieved an 83 percent passing rate, 
+thus meeting the proposed objective. 
+
+
+
+COMPUTER SKILLS CLASSES 
+
+A minimum of 75 percent of the students participating in 
+the program will be able to perform the following tasks 
+relating to computer literacy/keyboarding: 
+
+• Elementary programming skills in BASIC language. 
+
+• Touch keyboarding using the alphabetic, numeric, and 
+symbol keyboard. 
+
+• Type at least 25 w.p.m. with a high degree of accuracy on 
+a personal computer keyboard. 
+
+Each school offered a range of business education and com- 
+puter literacy courses conducted in English. Whenever possible, 
+computers were made available for students to use during their 
+free periods. The program used existing curricula and softv/are 
+and instructional materials developed by previous Russian 
+bilingual programs. In addition, this year the program developed 
+a Russian/English dictionary containing over 150 definitions of 
+computer-related terms. (See Appendix C.) Program staff members 
+provided tutorial assistance and encouraged peer tutoring by more 
+advanced students. 
+
+Classroom Observations 
+
+Sixteen LEP students from various ethnic backgrounds 
+attended a typing class observed at F.D.R. The room contained 
+Sharp and IBM electric typewriters, and a chart of the keyboard 
+was posted on the wall. The teacher spoke entirely in English as 
+she presented the new vocabulary for the day's lesson — to learn 
+filing rules. The teacher then called out fictitious names and 
+asked students in which order they should be filed. Many 
+students v;ere eager to answer, and the teacher called on those who 
+
+28 
+
+ERIC 
+
+
+
+did not volunteer. Most of the students appeared to understand 
+the material presented in the class, and most could answer the 
+teacher's questions. 
+
+A computer skills class with 14 students was observed at 
+Be'er Hagola; approximately half the students were program 
+participants. The students worked at nine Apple personal 
+computers, using an instructional softv;ra.re program that asked them 
+to complete sentences by choosing the correct word from a pair of 
+homonyms. The ten students who shared terminals took turns 
+answering the questions. The program's educational assistant sat 
+among the Russian students, translating unfamiliar English words 
+and making sure that they understood the exercise. All of the 
+students appeared to understand the material, and were able to 
+advance through the program. 
+
+Student Achievement in Computer Skills 
+
+The instruments used to assess the objectives in this area 
+were teacher-developed tests that included all tasks mentioned in 
+the objective. The classes reported were in computer literacy, 
+keyboard/ typing, and typing courses. 
+
+Table 7 presents the number of students enrolled and the 
+percentage passing these courses in the fall and spring. 
+Overall, the objectives were met: more than 97 percent of the 
+students were able to perform the required tasks. 
+
+
+
+29 
+
+
+
+TABLE 7 
+
+Passing Rates in Computer Literacy Courses 
+
+
+
+FALL 
+
+
+
+SPRING 
+
+
+
+TOTAL 
+
+
+
+Content 
+Area 
+
+
+
+Number of 
+Students 
+
+
+
+Percent 
+Passing 
+
+
+
+Number of 
+Students 
+
+
+
+Percent 
+Passing 
+
+
+
+Overall 
+Passing 
+Rate 
+
+
+
+Computer 
+Literacy* 
+
+
+
+133 
+
+
+
+96.2 
+
+
+
+210 
+
+
+
+98 •! 
+
+
+
+97.4 
+
+
+
+*Includes computer literacy, keyboard/typing, and typing courses. 
+
+
+
+• The program's objectives were met both semesters: more 
+than 97 percent of the participating students were able to 
+perform the required tasks related to computer 
+literacy/keyboarding skills. 
+
+
+
+ERIC 
+
+
+
+30 
+
+
+
+AFFECTIVE DOMAIN 
+
+— A minimum of 80 percent of the students participating in 
+the program will have developed a more positive attitude 
+about school and its importance for their future lives. 
+
+The director of the program pointed out that immigrants f.rom 
+the Soviet Union generally had greater difficulty adjusting 
+emotionally to life in the United States than they did in handling 
+new academic tasks. She pointed out that in the Soviet Union, 
+students had few decisions to make about their educational 
+programs and post-graduation plans. By contrast, in the United 
+States they were expected to choose an educational future and plan 
+how to finance it. Since they had no experience with the American 
+educational system, students' parents were confused by their 
+offspring's range of options and could not provide realistic 
+advice. The director added that most parents' socioeconomic 
+status had declined as a result of the move to the United States, 
+and that some had severe financial problems. The psychological 
+strains this caused sometimes severely disrupted students' home 
+life. 
+
+To bridge the knowledge gap and provide emotional support, 
+the program offered students psychological counseling, vocational 
+and college advisement, tutorial assistance, and extracurricular 
+activities. 
+
+« 
+
+Psychological Counseling 
+
+All program students received the full array of counseling 
+and guidance services that were available at each school. 
+
+31 
+
+ERIC ^ 
+
+
+
+However, program staff members said that Russian students tended 
+to approach them for help because they were able to discuss 
+studt2nts' academic or personal problems in the native language as 
+well as English, m addition, a per session grade advisor /curri- 
+culum specialist was available to visit each school to provide 
+individual counseling on an as-needed basis. Program students at 
+Abraham Lincoln also were r-erved on a weekly basis by a counselor 
+from the Russian Adolescent Project. He was Russian-born, 
+bilingual, and thoroughly familiar with both cultures and 
+educational systems. He provided individual or small-group 
+guidance to those students identified by program staff members and 
+classroom teachers as being especially in need of support. 
+
+Finally, as part of the program's guest speaker series, a 
+psychologist spoke to students at James Madison and Abraham 
+Lincoln on coping with peer pressure. 
+
+College/Vocational Advisement 
+
+Staff members, especially the grade advisor, spent a good 
+deal of time advising program participants on college and 
+vocational options because, in many cases, students' parents could 
+not. Helping students set realistic educational goals was a 
+primary concern. Many wanted to apply only to Ivy League colleges 
+because they were the only ones whose names they knew, other 
+students set their sights too low — despite demonstrated academic 
+ability, they were determined to enter the job market as quickly 
+as possible. 
+
+The career component of the program also included a guest 
+
+32 
+
+41 
+
+
+
+speaker series coordinated by the grade advisor • Sponsored by the 
+New York City Board of Education's "Open Doors" program, 
+representatives from various professions and institutions ad^ 
+dressed students, with program staff members translating whenever 
+necessary* Speakers included: an attorney who addressed students 
+at Abraham Lincoln on the criminal justice system (October 1986); 
+a nutritionist from Brooklyn College's Home Economics and Consumer 
+Studies Department who spoke to students at James Madison 
+(November 1986); a Russian-born attorney who told James Madison 
+students about his experiences as a lawyer (November 1986); a bank 
+representative who lectured at Abraham Lincoln about careers in 
+finance (December 1986); and a pianist/composer who talked about 
+music and musical careers (March 1987) • 
+
+A member of the evaluation team attended the latter 
+presentation at Abraham Lincoln. The speaker, who had formerly 
+taught music, addressed students from two E^S.L. classes about her 
+current career as a rehearsal pianist and composer • She also 
+spoke about related musical careers, such as sound technician, 
+engineer, concert performer, etc* Although none of the students 
+were interested in a career in music, all paid close attention to 
+the talk, and several responded to the speaker's questions. 
+
+For the second half of the lecture, the speaker discussed -the 
+origins of music, the different types of music and musical 
+instruments, and the definitions of terms like "harmony," 
+"melody," and "rhythm." She also let the students examine several 
+primitive wind and percussion instruments that she had brought 
+
+33 
+
+
+
+ERIC 
+
+
+
+42 
+
+
+
+with her. 
+
+During the presentation, the resource teacher sat among the 
+Russian students and translated for those who could not understand 
+the speaker. 
+
+Tutoring 
+
+Tutorial assistance was the program's backbone • As stated 
+previously, students' academic and linguistic skills varied 
+widely, depending particularly on when their academic careers had 
+been interrupted. To best meet the full spectrum of student 
+academic needs as well as to provide emotional support, one-to-one 
+and/or small-group tutoring and counseling sessions were conducted 
+at all six sites. 
+
+When they were not in the classroom, the resource teachers 
+and educational assistant provided tutoring in English, native 
+language arts, and the content areas during students' free 
+periods. During visits to several sites by a member of the 
+evaluation team, staff members were observed providing such 
+assistance to single students and small groups. At South Shore 
+these sessions were conducted in the project office, and in the 
+foreign language office at the other public schools. Peer 
+tutoring v/as also available for students in need. 
+
+Extracurricular Activities 
+
+The principal purposes of the extracurricular program were to 
+introduce students to American culture and deepen their knowledge 
+of their native culture. Activities held during the 1986-87 year 
+
+34 
+
+
+
+ERIC 
+
+
+
+45 
+
+
+
+included: an "international food fair" at Abraham Lincoln; a folk 
+and popular music assembly at James Madison; and a "foreign 
+language week" celebrations at each school. 
+
+Program staff members also promoted the integration of 
+project participants into the larger student body by encouraging 
+them to take part in school-wide activities. 
+
+Attendance Outcomes 
+
+Staff members believed that the program's emphasis on 
+support services was helping students to develop more positive 
+attitudes toward school. 
+
+In order to evaluate the objective regarding students' 
+attitudes toward school, the attendance rate of program students 
+was compared to the school-wide rates. Since the school's 
+attendance rate includes the^ attendance of program students, 
+statistical significance between program and school attendance was 
+determined through the application of a _z-test for the 
+significance of a proportion.* This procedure tests whether the 
+difference betv;een one proportion (the program's attendance) and a 
+standard proportion (the school's attendance) is greater than what 
+can be expected by chance variation. 
+
+An examination of Table 8 indicates that the attendance of 
+program students at the four public schools was higher than the 
+attendance of mainstream students at those sites. At Abraham 
+
+
+
+Bruning, J.L. and Kintz, B.L. Computational Handbook of 
+Statistics (Glenview, Illinois: Scott, Foresman and Company, 
+1968) . 
+
+35 
+
+
+
+44 
+
+
+
+Lincoln, the higher attendance rate of program students was 
+statistically significant. Data were not available for private 
+school attendance rates; however, the attendance of program 
+students at these sites was generally higher than that of the 
+program students at public schools. Thus, the objective was met. 
+
+TABLE 8 
+
+Comparison of Program and School-wide Attendance 
+
+
+
+Program site 
+
+
+
+Number of Program 
+Program Students ' 
+Students Attendance 
+
+
+
+School- 
+wide 
+
+Attendance 
+
+
+
+Yeshiva Be'er Hagola 74 
+
+Yeshiva Harama 47 
+
+Abraham Lincoln 43 
+
+James Madison 29 
+
+Franklin D. Roosevelt 65 
+
+South Shore 30 
+
+
+
+93.8 
+94.6 
+86.1 
+94.7 
+90.0 
+87.7 
+
+
+
+N/A 
+N/A 
+78.0 
+86.4 
+84.1 
+85.3 
+
+
+
+2.74 
+1.32 
+1.31 
+0.37 
+
+
+
+.01 
+NS 
+NS 
+NS 
+
+
+
+PARENTAL INVOLVEMENT 
+
+A series of E.S.L. classes for parents of LEP students in 
+the project will have been given at four of the taraet 
+sites. 
+
+— A minimum of seven workshops (one at each of the 
+
+identified sites) will have been conducted by project 
+staff to inform parents about the project and 
+specifically the computer instruction component of the 
+project. 
+
+
+
+Encouraging parents to become more involved in their 
+children's education was a continuing priority for program staff. 
+To this end, the program organized a parents' advisory council 
+containing parents from six schools. 
+
+Jn lieu of holding E.S.L. classes, the program referred 
+
+36 
+
+
+
+4.15 
+
+
+
+interested parents to E.S.L. and citizenship classes offered at 
+Temple Emanu-El, located at 1880 Rockaway Parkway in Brooklyn. 
+Parents also were encouraged to call or visit the project to 
+discuss their children's academic or social problems, to use the 
+program's lending library, and to attend the open-school days 
+held at each site. 
+
+Although the objectives were not achieved as proposed, there 
+were indeed efforts to facilitate parental involvement. 
+
+CURRICULUM DEVE LOPMENT 
+
+The program used many materials that had been developed by 
+prior Russian bilingual programs in New York City and also 
+developed additional curricula. Bilingual curricula were 
+developed or adapted in: general science, mathematics, economics, 
+American history, the history of the U.S.S.R. , and hygiene. 
+Russian-language curricula were developed or adapted in: career 
+exploration, Russian culture (including language, history, and 
+geography), Russian literature (beginning, intermediate, and 
+advanced levels), and western civilization (based on World History 
+by J. Abramovitz and Po Soyedinonym Shtatam Americi by c. Ginter). 
+In addition, the per-session grade advisor/curriculum specialist 
+developed a Russian/English dictionary of computer terminology 
+that was distributed to program staff members and computer 
+teachers. 
+
+STAFF DEVELOPMENT 
+
+The project director attended workshops sponsored by the New 
+
+37 
+
+
+
+ERLC 
+
+
+
+York Multifunctional Resource Center at Teachers College. In 
+addition, three staff members continued their education at local 
+universities: a resource teacher took courses at New York 
+University; the educational assistant, at Brooklyn College; and 
+the program secretary, at Kingsborough Community College. 
+
+
+
+38 
+
+
+
+IV. CONCLUSIONS AND RECOMT-IENDATIONS 
+
+CONCLUSIONS 
+
+In its second year of operation, the Computer Focused 
+Russian Bilingual Instructional Program continued to make 
+satisfactory progress toward achieving its proposed objectives. 
+Students at all sites received instruction in E.S.L. and content- 
+area subjects taught in English or with an E.S.L. approach. In 
+addition, students were enrolled in mainstream courses in computer 
+skills and business and vocational subjects, as well as in art, 
+music, and physical education. Students at the public high 
+schools also took classses in the native language, culture, and 
+literature taught by project staff members. 
+
+A review of student achievement revealed that instructional 
+objectives were achieved in content-area and keyboarding courses 
+both semesters. The' objectives for CREST achievement and native 
+language arts were not met, because the proposed criteria were 
+unrealistic. 
+
+The project's non-instructional component included a network 
+of support services for students, including academic and 
+vocational advisement, psychological counseling, and tutoring; a 
+career program of guest speakers; the development of new curricula 
+materials; training activities for project staff; and contacts 
+with students' parents. However, exposure of students to speakers 
+from computer-related fields seems to have been limited. 
+
+The program was well received at all six sites, and the 
+project director and resource teachers had good relations with 
+
+
+
+administrators and teachers • The program was well administered, 
+and the program staff was highly experienced, having worked in 
+previous Russian bilingual programs at the same sites • in an 
+interview/ the principal of Be'er Hagola said she was pleased that 
+her school had chosen to participate in the project because the 
+educational assistant assigned to her site was dolrg a very good 
+job* She said she had assigned all newly arrived Russian-speaking 
+students to work with the educational assistant on an individual 
+or small-group basis* The assistant principal of foreign 
+languages at F.D.R. was also pleased with the work of the 
+resource teacher and hoped that her school could continue to offer 
+the Russian heritage ard culture class after Title VII funding 
+ended* According to staff members at all six sites, as a result 
+of participating in the project, students were enabled to function 
+succes.^f ully in the. American school environment and the larger 
+culture while at the same time retaining a sense of pride in their 
+native culture. 
+
+RECOiyiM'ZNDATIONS 
+
+The following recommendations are offered to improve the 
+project in its third year of operation: 
+
+1. Since the current projec^t emphasizes the development of 
+students' computer skills, the career component might stress 
+exposing students to guest speakers from various computer-related 
+industries to present employment opportunities in this field* 
+
+2. Although virtually all project students have the same 
+
+
+
+40 
+
+49 
+
+
+
+native language and culture, they have little contact with each 
+other. The project is urged to sponsor field trips or other 
+extracurricular activities for students from two or 
+more sites. The project might also consider publishing a 
+project-wide newsletter containing information on the projcjct and 
+its activities, community-sponsored events for students and their 
+parents, and student artwork, stories, or poems. 
+
+3. The objectives in English and native language development 
+should be changed to set realistic goals for the students. Since 
+most students are in advanced E.S.L., a norm-referenced reading 
+test could be used to determine if they are making significant 
+gains. The native language arts objective should use 65 percent 
+as the passing grade. 
+
+
+
+ERIC 
+
+
+
+41 
+
+
+
+50 
+
+
+
+V. APPENDICES 
+
+
+
+» 51 
+
+ERIC ^ 
+
+
+
+APPENDIX A,l 
+
+Students' Years of Education by Grade 
+at South Shore 
+
+
+
+Years Education Years Education 
+Total Years of Education Native Country United States 
+
+
+
+Grade 
+
+
+8 
+
+
+9 
+
+
+iO 
+
+
+11 
+
+
+12 
+
+
+Total 
+
+
+Mean 
+
+
+S.D. 
+
+
+Mean 
+
+
+S.D. 
+
+
+9 
+
+
+5 
+
+
+2 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+7 
+
+
+4.9 
+
+
+1.9 
+
+
+3.4 
+
+
+1.7 
+
+
+10 
+
+
+1 
+
+
+5 
+
+
+2 
+
+
+0 
+
+
+0 
+
+
+8 
+
+
+5.0 
+
+
+1.1 
+
+
+4.0 
+
+
+1.2 
+
+
+11 
+
+
+1 
+
+
+3 
+
+
+4 
+
+
+1 
+
+
+0 
+
+
+9 
+
+
+6.0 
+
+
+1.9 
+
+
+3.6 
+
+
+1.8 
+
+
+12 
+
+
+0 
+
+
+0 
+
+
+2 
+
+
+3 
+
+
+1 
+
+
+6 
+
+
+6.7 
+
+
+1.4 
+
+
+4.2 
+
+
+1.7 
+
+
+TOTAL 
+
+
+7 
+
+
+10 
+
+
+8 
+
+
+4 
+
+
+1 
+
+
+30 
+
+
+5.6 
+
+
+1.7 
+
+
+3.8 
+
+
+1.6 
+
+
+
+• students on the average had 3*8 years of education in the United States* 
+
+♦ The mean years of education in the native country ranged from 4.9 in grade nine 
+to 6*7 in grade twelve. 
+
+
+
+APPENDIX A* 2 
+
+Students' Years of Education by Grade 
+at Franklin D. Roosevelt 
+
+
+
+Grade 
+
+
+8 
+
+
+Total 
+
+
+Years 
+
+
+of 
+
+
+Education 
+
+
+Years 
+Native 
+
+
+Education 
+Country 
+
+
+Years Education 
+United states 
+
+Mean S.D. 
+
+
+9 
+
+
+10 
+
+
+11 
+
+
+Total 
+
+
+Mean 
+
+
+S.D. 
+
+
+9 
+
+
+6 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+6 
+
+
+4.8 
+
+
+1.6 
+
+
+3.0 
+
+
+1.3 
+
+
+10 
+
+
+11 
+
+
+14 
+
+
+3 
+
+
+0 
+
+
+28 
+
+
+5.5 
+
+
+1.3 
+
+
+3.3 
+
+
+0.9 
+
+
+11 
+
+
+2 
+
+
+9 
+
+
+10 
+
+
+1 
+
+
+22 
+
+
+5.8 
+
+
+1.3 
+
+
+3.6 
+
+
+1.3 
+
+
+12 
+
+
+0 
+
+
+2 
+
+
+1 
+
+
+0 
+
+
+3 
+
+
+6.7 
+
+
+2.1 
+
+
+2.7 
+
+
+1.5 
+
+
+TOTAL 
+
+
+19 
+
+
+25 
+
+
+14 
+
+
+1 
+
+
+59* 
+
+
+5.6 
+
+
+1.4 
+
+
+3.3 
+
+
+1.1 
+
+
+
+*Data were missing for eight program students. 
+
+• The mean years of education in the United States ranged from 3 in grade nine 
+to 2.7 in grade twelve • 
+
+• The mean years of education in the native country ranged from 4*8 in grade 
+nine to 6.7 in grade twelve. 
+
+
+
+APPENDIX A. 3 
+
+
+
+Students' Years of Education by Grade 
+at James Madison 
+
+
+
+Grade 
+
+
+
+
+Total 
+
+
+Years 
+
+
+of 
+
+
+Education 
+
+
+Years 
+Native 
+
+
+Education 
+Country 
+
+
+Years Education 
+United States 
+
+
+o 
+
+
+10 
+
+
+11 
+
+
+12 
+
+
+>12 
+
+
+Total 
+
+
+Mean 
+
+
+S.D. 
+
+
+Mean 
+
+
+S.D. 
+
+
+9 
+
+
+8 
+
+
+1 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+9 
+
+
+3.1 
+
+
+3.7 
+
+
+6.0 
+
+
+3.5 
+
+
+10 
+
+
+0 
+
+
+5 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+5 
+
+
+4.0 
+
+
+2.0 
+
+
+6.0 
+
+
+2.0 
+
+
+11 
+
+
+1 
+
+
+1 
+
+
+5 
+
+
+0 
+
+
+1 
+
+
+8 
+
+
+4.6 
+
+
+3.7 
+
+
+6.3 
+
+
+3.1 
+
+
+12 
+
+
+0 
+
+
+1 
+
+
+2 
+
+
+5 
+
+
+0 
+
+
+8 
+
+
+5.6 
+
+
+1.3 
+
+
+5.9 
+
+
+0.6 
+
+
+TOTAL 
+
+
+9 
+
+
+8 
+
+
+7 
+
+
+5 
+
+
+1 
+
+
+30* 
+
+
+4.4 
+
+
+3.0 
+
+
+6.0 
+
+
+2.5 
+
+
+
+^Information for one program student was missing. 
+
+• The mean years of education in the United States was six. 
+
+• The mean years of education in the native country ranged from 3.1 in grade 
+nine to 5.6 in grade twelve. 
+
+
+
+i 
+
+
+< 
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+APPENDIX A. 4 
+
+
+
+
+
+
+Students 
+
+
+• Years of Education by Grade 
+at Abraham Lincoln 
+
+
+
+
+
+
+Total 
+
+
+Years of Education 
+
+
+
+
+Years Education 
+Native Country 
+
+
+Years Education 
+United States 
+
+
+Grade 8 9 
+
+
+10 11 12 >12 
+
+
+Total 
+
+
+Mean S . D . 
+
+
+Mean S . D . 
+
+
+9 0 9 
+
+
+110 0 
+
+
+11 
+
+
+2.*5 3.4 
+
+
+6.8 3.0 
+
+
+10 ^ 14 
+
+
+13 1 0 0 
+
+
+19 
+
+
+1.6 3.0 
+
+
+8.2 3.0 
+
+
+11 0 0 
+
+
+19 0 0 
+
+
+10 
+
+
+1.7 2.0 
+
+
+9.2 2,0 
+
+
+12 0 0 
+
+
+0 5 3 2 
+
+
+10 
+
+
+5.3 3.3 
+
+
+6.4 2.9 
+
+
+TOTAL 1 13 
+
+
+15 16 3 2 
+
+
+50 
+
+
+2.5 3.2 
+
+
+7.7 2.9 
+
+
+• The mean years 
+grade eleven. 
+
+
+of education in the 
+
+
+U.S. ranged from 6.4 in grade 
+
+
+twelve to 9.2 in 
+
+
+• The mean years of education in the 
+to 5.3 for twelfth graders. 
+
+
+native country ranged from 1.6 
+
+
+for tenth graders 
+
+
+
+
+
+
+
+
+55 
+
+
+
+
+ERJC 
+
+
+
+
+
+
+
+
+
+
+
+• • • . . 
+
+
+
+APPENDIX A. 5 
+
+Students' Years of Education by Grade 
+at Be 'or Hagola 
+
+
+
+Grade 
+
+
+8 
+
+
+Total 
+
+
+Years 
+
+
+of 
+
+
+Education 
+
+
+Total 
+
+
+Years 
+Native 
+
+
+Education 
+Country 
+
+
+Years Education 
+United States 
+
+
+9 
+
+
+10 
+
+
+11 
+
+
+12 
+
+
+>12 
+
+
+Mean 
+
+
+S.D. 
+
+
+Mean 
+
+
+S.D. 
+
+
+9 
+
+
+28 
+
+
+12 
+
+
+22 
+
+
+0 
+
+
+1 
+
+
+1 
+
+
+64 
+
+
+5.7 
+
+
+1.8 
+
+
+3.3 
+
+
+1.5 
+
+
+10 
+
+
+0 
+
+
+5 
+
+
+8 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+13 
+
+
+5.6 
+
+
+1.6 
+
+
+4.0 
+
+
+1.6 
+
+
+11 
+
+
+1 
+
+
+1 
+
+
+2 
+
+
+3 
+
+
+0 
+
+
+0 
+
+
+7 
+
+
+5.6 
+
+
+0.8 
+
+
+4.4 
+
+
+0.5 
+
+
+TOTAL 
+
+
+29 
+
+
+18 
+
+
+32 
+
+
+3 
+
+
+1 
+
+
+1 
+
+
+84* 
+
+
+5.7 
+
+
+1.7 
+
+
+3.5 
+
+
+1.5 
+
+
+
+*Data were missing for three program students. 
+
+• The mean years of education in the United Stated ranged from 3.3 in grade nine to 
+4.4 in grade eleven. 
+
+• The mean years of education in the native country was 5.7. 
+
+
+
+56 
+
+
+
+APPENDIX A. 6 
+
+
+
+Students' Years of Education by Grade 
+at Yeshiva Harama 
+
+
+
+Grade 
+
+
+8 
+
+
+9 
+
+
+10 
+
+
+11 
+
+
+9 
+
+
+4 
+
+
+22 
+
+
+0 
+
+
+0 
+
+
+10 
+
+
+0 
+
+
+6 
+
+
+6 
+
+
+3 
+
+
+11 
+
+
+0 
+
+
+0 
+
+
+2 
+
+
+8 
+
+
+12 
+
+
+0 
+
+
+0 
+
+
+0 
+
+
+2 
+
+
+TOTAL 
+
+
+4 
+
+
+28 
+
+
+8 
+
+
+13 
+
+
+
+0 
+0 
+0 
+5 
+5 
+
+
+
+0 
+1 
+0 
+0 
+
+1 
+
+
+
+26 
+16 
+10 
+7 
+59* 
+
+
+
+Years Education 
+Native Country 
+
+
+
+Years Education 
+United States 
+
+
+
+Mean 
+
+
+
+S.D. 
+
+
+
+2.6 
+5.8 
+5.7 
+6.0 
+4.4 
+
+
+
+1.3 
+1.7 
+1.2 
+0.8 
+2.1 
+
+
+
+Mean 
+
+
+
+6.4 
+4.3 
+5.1 
+5.7 
+5.5 
+
+
+
+S.D. 
+
+
+
+1.3 
+1.9 
+1.5 
+0.5 
+1.7 
+
+
+
+*Data were missing for five students. 
+
+' 6^4 i-rgrlde"inl^'^"''^''^°'' ""^^ ''''^^^^ ^^^^"^ ^^"^^^ ^^'^ ten to 
+
+* rL'"g?adrtwIl?e.^'^"''^'''°'' ""^^ '"^^^''^ ""^^^ 2.6 in grade nine to 
+
+
+
+ERIC 
+
+
+
+APPENDIX B.l 
+
+
+
+Results of the Criterion Referenced English Syntax Test 
+
+South shore 
+
+
+
+PRETEST 
+
+
+
+POSTTEST 
+
+
+
+MASTERY 
+
+
+
+Mean 
+
+Test Number of Mastery 
+Level students Mean S.D. Mean S.D. Mean S.D.. Per^Month 
+
+
+
+
+
+
+
+
+
+
+
+FALL 
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+4 
+
+
+16.3 
+
+
+1.0 
+
+
+18.3 
+
+
+1.0 
+
+
+2.0 
+
+
+0 
+
+
+0.6 
+
+
+3 
+
+
+12 
+
+
+10.1 
+
+
+2.2 
+
+
+11.7 
+
+
+1.9 
+
+
+1.6 
+
+
+0.8 
+
+
+0.5 
+
+
+TOTAL 
+
+
+16 
+
+
+11.6 
+
+
+3.4 
+
+
+13.3 
+
+
+3.4 
+
+
+1.7 
+
+
+0.7 
+
+
+0.5 
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+2 
+
+
+17.5 
+
+
+3.5 
+
+
+21.5 
+
+
+0.7 
+
+
+4.0 
+
+
+2.8 
+
+
+1.6 
+
+
+3 
+
+
+21 
+
+
+11.9 
+
+
+1.3 
+
+
+13.3 
+
+
+1.3 
+
+
+1.4 
+
+
+0.6 
+
+
+0.5 
+
+
+TOTAL 
+
+
+23 
+
+
+12.4 
+
+
+2.2 
+
+
+14.0 
+
+
+2.7 
+
+
+176 
+
+
+1.1 
+
+
+0.6 
+
+
+
+• Overall, program students mastered 0.5 CREST skills per month in 
+the fall and 0.6 CREST skills per month in the spr.ing. 
+
+
+
+49 
+
+
+
+ERIC 
+
+
+
+APPENDIX B.2 
+
+
+
+Results of the Criterion Referenced English Syntax Test 
+
+Franklin D. Roosevelt 
+
+
+
+
+
+Test 
+ijeve± 
+
+
+Nuinber of 
+otuoents 
+
+
+PRETEST 
+Mean S . D . 
+
+
+POSTTEST 
+Mean S.D. 
+
+
+MASTERY 
+Mean S.D. 
+
+
+Mean 
+Mastery 
+Per Month 
+
+
+
+
+
+
+
+
+
+
+FALL 
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+4 
+
+
+13.5 
+
+
+5.3 
+
+
+18.8 
+
+
+6.4 
+
+
+5.3 
+
+
+3.3 
+
+
+1.9 
+
+
+3 
+
+
+28 
+
+
+8.8 
+
+
+2.6 
+
+
+10.7 
+
+
+2.5 
+
+
+1.9 
+
+
+1.1 
+
+
+0.6 
+
+
+TOTAL 
+
+
+32 
+
+
+971 
+
+
+3;3 
+
+
+11.7 
+
+
+4.1 
+
+
+273 
+
+
+1.8 
+
+
+0.7 
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+1 
+
+
+13.0 
+
+
+0 
+
+
+15,0 
+
+
+0 
+
+
+2.0 
+
+
+0 
+
+
+0.7 
+
+
+2 
+
+
+5 
+
+
+17.6 
+
+
+7.1 
+
+
+20.8 
+
+
+6.0 
+
+
+3.2 
+
+
+2.3 
+
+
+1.3 
+
+
+3 
+
+
+49 
+
+
+11.0 
+
+
+1.5 
+
+
+12.7 
+
+
+1.2 
+
+
+1.6 
+
+
+1.0 
+
+
+0.6 
+
+
+TOTAL 
+
+
+55 
+
+
+11.7 
+
+
+ITT 
+
+
+13.5 
+
+
+ITT 
+
+
+178 
+
+
+T72 
+
+
+0.7 
+
+
+
+• Overall, program students achieved 0.7 CREST skills per month in 
+the fall and spring. 
+
+
+
+50 
+
+59 
+
+
+
+APPENDIX B.3 
+
+
+
+Results of the Criterion Referenced English Syntax Test 
+
+James Madison 
+
+
+
+PRETEST POSTTEST MASTERY Mean 
+
+Test Number of Mastery 
+Level Students Mean S^D^ Mean S^D^ Mean S.D* Per Month 
+
+
+
+
+
+
+
+
+
+
+
+FALL 
+
+
+
+
+
+
+
+
+
+
+3 
+
+
+22 
+
+
+13.2 
+
+
+2.3 
+
+
+13.9 
+
+
+2.1 
+
+
+0.7 
+
+
+0.9 
+
+
+0.3 
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+
+
+2 
+
+
+4 
+
+
+20.5 
+
+
+0.6 
+
+
+21.5 
+
+
+1.3 
+
+
+1.0 
+
+
+1.4 
+
+
+0.3 
+
+
+3 
+
+
+20 
+
+
+13.5 
+
+
+1.5 
+
+
+14.4 
+
+
+0.9 
+
+
+0.9 
+
+
+0.9 
+
+
+0.3 
+
+
+TOTAL 
+
+
+24 
+
+
+14.7 
+
+
+3.0 
+
+
+15.6 
+
+
+27? 
+
+
+079 
+
+
+1.0 
+
+
+0.3 
+
+
+
+• Overall, program students achieved 0.3 CREST skills per month in 
+the fall and in the spring. 
+
+
+
+51 
+
+60 
+
+
+
+TABLE B.4 
+
+Results of the Criterion Referenced English Syntax Test 
+
+Abraham Lincoln 
+
+
+
+PRETEST POSTTEST MASTERY Mean 
+
+Test Number of Mastery 
+Level students Mean S.D. Mean S.D. Mean S.D. Per Month 
+
+
+
+FALL 
+
+1 1 22.0 0 25.0 0 3.0 0 1.2 
+
+2 2 10.5 .7 16.0 2.8 5.5 2.1 1.4 
+
+3 29 13.2 1.0 14.1 1.0 0.8 0.8 0.2 
+TOTAL 32 13.3 J76 UTs 272 TTz ITI oT? 
+
+SPRING 
+
+2 . 1 15.0 0 18.0 0 3.0 0 ■ 1.0 
+
+3 25 13.5 2.2 14.4 1.1 0.9 1.2 0.3 
+TOTAL 26 13.5 2.2 liTI ITI "TTo TTJ oTI 
+
+
+
+• Overall, program students mastered 0.4 CREST skills per month 
+in both the fall and spring semesters. 
+
+
+
+52 
+
+61 
+
+
+
+TABLE B*5 
+
+
+
+Results of the Criterion Referenced English Syntax Test 
+
+Yeshiva Be'er Hagola 
+
+
+
+Test 
+Level 
+
+
+Number of 
+Students 
+
+
+PRETEST 
+Mean S.D. 
+
+
+PubTTEST 
+Mean S.D. 
+
+
+MASTEriY 
+Mean S.D. 
+
+
+Mean 
+Mastery 
+Per Month 
+
+
+
+
+
+
+
+
+
+
+FALL 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+7 
+
+
+12.6 
+
+
+3.3 
+
+
+21.0 
+
+
+3.9 
+
+
+8.4 
+
+
+1.1 
+
+
+3.4 
+
+
+2 
+
+
+1 
+
+
+19.0 
+
+
+0 
+
+
+25.0 
+
+
+0 
+
+
+6.0 
+
+
+0 
+
+
+2.4 
+
+
+3 
+
+
+23 
+
+
+10.8 
+
+
+0.8 
+
+
+14.5 
+
+
+0.7 
+
+
+3.7 
+
+
+2.6 
+
+
+1.5 
+
+
+TOTAL 
+
+
+31 
+
+
+11.5 
+
+
+2.2 
+
+
+16.3 
+
+
+ITT 
+
+
+478 
+
+
+272 
+
+
+179 
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+
+
+1 
+
+
+11 
+
+
+14.9 
+
+
+4.9 
+
+
+17.6 
+
+
+3.9 
+
+
+2.7 
+
+
+2.4 
+
+
+1.6 
+
+
+3 
+
+
+13 
+
+
+10.7 
+
+
+0.9 
+
+
+11.6 
+
+
+0.9 
+
+
+0.9 
+
+
+0.9 
+
+
+0.5 
+
+
+TOTAL 
+
+
+24 
+
+
+12.6 
+
+
+4.0 
+
+
+14.4 
+
+
+TTo 
+
+
+178 
+
+
+179 
+
+
+1.0 
+
+
+
+• Overall, program students mastered 1.9 CREST skills per month in 
+the fall and 1.0 in the spring. 
+
+
+
+er|c 
+
+
+
+62 
+
+
+
+TABLE B.6 
+
+
+
+Results of the Criterion Referenced English Syntax Test 
+
+Yeshiva Harama 
+
+4 
+
+
+
+PRETEST POSTTEST iyiASTERY Mean 
+
+Test Number of m^^^^^^ 
+Level Students Mean S.D. Mean s.D. Mean S.D. Per Month 
+
+
+
+
+
+
+
+
+
+
+
+FALL 
+
+
+
+
+
+
+
+
+1 
+
+
+3 
+
+
+10.0 
+
+
+7.9 
+
+
+17.0 6.1 
+
+
+7.0 
+
+
+2.0 
+
+
+Z • 8 
+
+
+2 
+
+
+3 
+
+
+10.3 
+
+
+9.5 
+
+
+16.0 7.9 
+
+
+5.7 
+
+
+3.1 
+
+
+2.3 
+
+
+3 
+
+
+16 
+
+
+10.2 
+
+
+2.6 
+
+
+14.1 1.4 
+
+
+3.9 
+
+
+1.3 
+
+
+1.6 
+
+
+TOTAL 
+
+
+22 
+
+
+10.2 
+
+
+T74 
+
+
+14.7 3.5 
+
+
+175 
+
+
+T79 
+
+
+T78 
+
+
+
+
+
+
+
+
+
+
+SPRING 
+
+
+
+
+
+
+
+
+1 
+
+
+3 
+
+
+13.7 
+
+
+11.0 
+
+
+15.7 10.1 
+
+
+2.0 
+
+
+1.0 
+
+
+0.1 
+
+
+3 
+
+
+16 
+
+
+10.8 
+
+
+0.9 
+
+
+12.5 1.1 
+
+
+1.8 
+
+
+1.0 
+
+
+1.1 
+
+
+TOTAL 
+
+
+19 
+
+
+11.2 
+
+
+379 
+
+
+13.0 3.7 
+
+
+1.8 
+
+
+iTo 
+
+
+TTT 
+
+
+
+• Overall, program students achieved 1.8 CREST skills per month in 
+the fall and 1.1 CREST skills per month in the spring. 
+
+
+
+ERIC 
+
+
+
+54 
+
+63 
+
+
+
+APPENDIX C 
+
+
+
+Sample from Progra.ii-Developed 
+Dictionar/ 
+
+
+
+KPATKHM CJIOBAPt TEPMHHOB 
+MCnOJItSyEMLK nPM nPOrPAMMHPOBAHM 
+M PABOTE HA ROCJIOBHOM nPOUECCOPE 
+
+
+
+DICTIONARY OF 
+WORD PROCESS I NP 
+
+
+
+55 
+
+
+
+1 4 
+
+. * i 
+
+• » 
+...1 ^ 
+
+
+
+ACCESS TIME 
+
+
+
+ACCOUNTING 
+CAPABILITIES 
+
+ACCOUNTS 
+
+PAYABLE 
+
+ACCOUNTS 
+RECEIVABLE 
+
+ACCUMULATOR 
+
+
+
+ACK 
+
+
+
+ACRONYM 
+ACTIVE FILE 
+
+
+
+ADDRESS 
+
+
+
+ADJUST 
+
+
+
+ADMINISTRATIVE 
+SYSTEM 
+
+
+
+ALIGNMENT 
+ALPHANUMERIC 
+
+
+
+AMERICAN STANDARD 
+
+
+
+BPEMfl flOCTyriA HHxepEa;! EpeMenw MewAy MoweHTOM 
+
+BHA^HM- KOMaHAM Ha nepeAaHy AaHHbix / e naMHTB viJivi M3 naMHXw/ 
+M HaHa;ioM nepeAaMW. 
+
+
+
+CHETHUE B03M0KH0CTH ycTpoMCTsa, no3Eo;ii3iomMe cMcxeMe 
+
+
+
+noc^OBHoro npoueccopa npoMSBOAwiB 
+aanncn 
+
+
+
+pacHexu M 6yxra;iTepcKMe 
+
+
+
+CHETA K ynJIATE fleHtrw, Koxopue KOMnaHMH Ao^iKHa nocTaEiuMKy 
+
+
+
+CHETA K nO-?iyMEHMK) 
+
+
+
+fleHBTM, KOTOpUe KOMnaHMH AOi/DKHa 
+
+
+
+noJiyHUTh oT K.;MeHTOB aa npoAaHHue TOEapu m ycJiyrn 
+
+AKKvMy.;ifl7op yae;! apM$MeTMHecKoro ycxpoiicTEa, coxpaHHiomMM 
+
+peay^iBxaxbi npeAUAymwx onepauwii rjih Mcno;iB30EaHMH mx e 
+noc;ieAyKHUMX onepauwHX, 
+
+ACK OTBETHHM CHrHAJI OGpaTHUM cMrHa;i ox npweMHoro 
+
+ycxpoiicxEa k nepeAaiomeMy ycxpoiicxEy, noAXEepwAaiomMii HopMa;ii 
+Hoe saBepujeHwe ceanca cehsm. 
+
+AKPOHMM C;ioEO,cocxaE;ieHHoe M3 nepEUX 6yKE necKOJiBKMX c;ioe 
+
+AKTMBHUM ^AtlJI <I>aM;i, ajih Koxoporo EwnoJiHeHa npoueAypa 
+oxKp$XMH,x.e noAroxoE^iena paSoMaH oCJiacxB a-^h EEOAa AaHHHX 
+
+AflPEC HoMep,npeAocxaE;ieHHuii KawAOMy MMenii e naMHXM a-^h 
+HaxoKAeHMH HyHCHoro xeKcxa 
+
+nPKCnOCOBJIEHME KoHxpo^iBHoe ycxpoiicxBo, no3Eo;iHiomee 
+Ao6aE;iHXi> viJivi cxwpaxB xeKCT m nepecxaE^iHXB no;iH. 
+
+AflMHHHCTPATMBHg CHCTEMA Ta HacxB cMcxeMU noc;ioEHoro 
+npoueccc^^a, Koxopan KOHxpo;iMpyex EunoJiHeHwe aaAaM, He 
+CEHsaHHti.. c nenaxaHMeM. 
+
+CBflSKA Ta HacxB noc;ioBHoro npoueccopa, Koxopaa CEHSUEaex 
+pasJiMHHUe oxpesKM xeKcxa EMecxe. 
+
+A.;ij)aBMXHO-UM(i)POEOM HaBOp SnaKOE, EK^IIOHaiomMM 6yKEU| 
+
+mi$pi>i M cneuwaJiBHtie sHaKW. 
+
+AMEPMKAHCKHM CTAHflAPTHHM KOfl OEMEHA ]/im>0?lAAUmi/L CxaHAapx- 
+
+
+
+CODE FOR INFORMATION hum eocbmmSmxoeum koAi McnoJiBsyeMuii a-^h npeAcxaEJieHWH 
+
+
+
+INTERCHANGE 
+
+
+
+ARITHMETIC SECTION 
+
+
+
+ASSEMBLER 
+
+
+
+v O UDIO 
+
+ERLC— 
+
+
+
+MH$opMaUMM E CMCxeMax o6pa6oxKM AaHHUX, B orox HaCop 
+EXOAHX cJiyweOHue 3HaKM, uwijpu, 6yKEU ;iaxMHCKoro a;i<J)aEMxa 
+M cnemra^iBHue sHaKW. 
+
+APH<I>METMMECKAfl CEKUHfl HacxM ueHxpa;iBHoro npoueccopa 
+BunoJiHHiomaH cJioweHwe, BUHMxaHwe, yMHowenwe m Ae^enwe. 
+
+n POrPAMtAA ACCEMBJIEP CwcxewHan oScJiywMEaiomaH nporpawi^a, 
+Koxopan npeoCpaayex cMMEOJiWHecKwe WHCxpyKUMW e KOMaHAU 
+
+MaUlHHHOro H3UKa. 
+
+AyZlMO 3EyK, EocnpMHMMaeMbm ve;iOEeKOMt 
+
+55 • 00 
+
+
+

@@ -1,0 +1,115 @@
+Marcadores: downloads, jogos, windows 
+Battle Vs Chess
+para PC
+Spark Chess
+completo para PC
+Jogo - Pure Chess
+- Grandmaster
+Edition - NoSteam
+Chessmaster 9000
+Xadrez Master -
+5.8.6.0
+A décima primeira edição do jogo contém uma detalhada seção de iniciação ao xadrez com o
+auxílio de Josh Waitzkin. Vários jogos realizados são apresentados e analisados, assim como
+diversas variações de xadrez. Campeonatos, problemas e treinamentos são recursos
+bastante explorados pelo jogo. O modo de vários jogadores (multiplayer) também é
+apresentado com vários modos diferentes de xadrez.
+O jogo contém algumas opções de apresentação de tabuleiro diferenciadas, podendo ser em
+2D (como por exemplo nos tutoriais de Josh Waitzkin), ou em 3D. Com gráficos simples e
+auxílios sonoros (em inglês), essa nova versão do Chessmaster abrange gostos de todos os
+tipos.
+Instalação:
+OBS.: Se algo der errado nesse passo-a-passo, siga para a parte dos comentários e
+veja a solução do Hildebrando Martins, pode ser que te ajude.
+1. Após baixar os dois arquivos, extraia a primeira parte (a segunda
+sera extraída automaticamente); 
+2. Entre na pasta e execute o arquivo Setup.exe; 
+3. Após a instalação, será criado um atalho na área de trabalho, excluá-o (ele serve para
+atualizar o jogo); 
+4. Crie um atalho para para o arquivo game.exe, que está dentro da pasta onde você
+instalou o jogo (no meu caso: "C:\Program Files\Ubisoft\Chessmaster Grandmaster
+Edition\game.exe"); 
+Agora é só jogar, nao requer crack nem ativação. Dentro da pasta que você extraiu tem um
+arquivo de instruções que diz como jogar online, mas tá em inglês e requer um pequeno
+conhecimento de informática. Então não vou explicar, se você for essa pessoa vai saber o
+que fazer, se não, nem adiantaria mesmo ;)
+A SENHA É O ENDEREÇO DO BLOG: 
+www.xadrezpirata.blogspot.com.br
+Drive
+Parte 1 - Parte 2 - Parte 3
+Mega
+Parte 1 - Parte 2 - Parte 3
+Torrent - Magnet Link
+Poderá também gostar de:
+Linkwithin
+Respostas
+60 comentários:
+Augusto Alvez 2 de junho de 2012 16:14
+senha incorreta
+Responder
+Jeferson 4 de junho de 2012 10:58
+Olá Augusto, estou baixando o arquivo para verificar. Responderei novamente o
+quanto antes.
+Xadrez Básico é uma das
+melhores obras no gênero,
+apresentada em estilo
+agradável, e tudo com
+muita clareza e
+propriedade. Os temas
+desenvol...
+Chessbase 13 - Download
+Antes de começar o post,
+quero dizer que no blog do
+parceiro
+OzymandiasRealista você
+encontra uma super postagem com a
+versão 12 desse pro...
+Táticas e Estratégias dos
+Campeões - Ted
+Nottingham, Al Lawrence
+& Bob Wade
+Este livro traz um
+diferencial em matéria enxadrística. Ele
+não vem apenas instruir o leitor a
+aprimorar seu jogo ou lecionar para o
+prin...
+Fritz 13 - Reloaded
+Atendendo à um pedido do
+visitante  Lucas Vinicius  (e
+como sempre, atrasado),
+eis aqui o Fritz 13 =) Esta
+nova versão garante que Frit...
+Chessimo 3.40
+*** ATENÇÃO: Esta
+postagem foi editada, pois
+o arquivo antigo
+apresentava um bug em
+sistemas x64. A versão disponibilizada
+agora não é mais...
+Houdini 3 Pro
+Esse post foi uma
+sugestão do leitor  Daniel
+Correia Cardoso .
+Obrigado pela grande dica
+=) Houdini é uma engine de xadrez para
+Windows de...
+Fritz 12 - Completo
+Descição: O programa que
+por muitos anos tem
+fascinado o mundo do
+xadrez. Jogou contra o
+legendário Garry Kasparov, em Nova
+York e...
+Battle Vs Chess para PC
+Requisitos Mínimos *
+Placa de Vídeo: 512 Mb *
+Sistema Operacional:
+WinXP / WinVista / Win7 *
+Versão do DirectX: 9.0c * Processad...
+Livro (Inglês) Dangerous
+Weapon - The Ruy Lopez
+Resumo: Você precisa
+renovar suas aberturas de
+xadrez? Atordoe seus
+oponentes com ideias novas e
+excitantes! Armas Perigosas é uma s...

@@ -1,0 +1,404 @@
+O Livro Eletrônico do Projeto Gutenberg de Sinfonia Número 5 em Ré menor Opus 67
+
+Este e-book é para o uso de qualquer pessoa nos Estados Unidos e em maioria das outras partes do mundo sem custo algum e com pouquíssimas restrições. Você pode copiá-lo, dá-lo a alguém ou reutilizá-lo sob os termos da Licença do Projeto Gutenberg incluída neste e-book ou online no www.gutenberg.org. Se você não estiver nos Estados Unidos, será necessário verificar as leis do país onde está localizado antes de usar este e-book.
+
+*** Este é um EBOOK DE DIREITOS AUTORAIS do Projeto Gutenberg. Detalhes Abaixo. ***
+*** Por favor, siga os diretrizes de copyright neste arquivo. ***
+
+Título: Sinfonia Número 5 em Ré menor Opus 67
+
+Autor: Ludwig van Beethoven
+
+Data de publicação: 1º de março de 1994 [eBook #117]
+                Última atualização: 29 de outubro de 2024
+
+Língua: Inglês
+
+Créditos: Produzido por Geof Pawlicki
+
+*** INÍCIO DO EBOOK DO PROJETO GUTENBERG SINFONIA NÚMERO 5 EM RÉ MENOR OPUS 67 ***
+Sinfonia Número 5 em Ré menor, Opus #67
+por Ludwig van Beethoven
+
+(C) 1994, 2001 Geof Pawlicki
+(P) 1994, 2001 Geof Pawlicki
+
+Os arquivos anexos contêm as quatro movimentações da sinfonia como:
+
+117-1.mid
+117-2.mid
+117-3.mid
+117-4.mid
+
+*** FIM DO EBOOK DO PROJETO GUTENBERG SINFONIA NÚMERO 5 EM RÉ MENOR OPUS 67 ***
+
+Edições atualizadas substituirão as edições anteriores—as edições antigas serão renomeadas.
+
+Criar esses trabalhos a partir de edições impressas que não estejam protegidas pela lei de direitos autorais dos Estados Unidos significa que ninguém detém uma patente de direitos autorais nos Estados Unidos para esses trabalhos, então a Fundação (e você!) podem copiar e distribuir sem permissão e sem pagar royalties de direitos autorais. Regras especiais, estabelecidas nas Termos Gerais de Uso desta licença, se aplicam à cópia e distribuição de obras eletrônicas do Projeto Gutenberg para proteger o conceito e a marca registrada do Projeto Gutenberg. Projeto Gutenberg é uma marca registrada.
+
+"""
+e não podem ser utilizados se você cobrar pelo download de um e-book, exceto conforme estabelecido no contrato da licença de marca registrada, incluindo o pagamento de royalties pela utilização do商标许可。如果您不为此电子书收费，遵守商标许可条款将非常简单。您可以几乎用此电子书做任何事情，如创作衍生作品、撰写报告、表演和研究。在美国，不受美国版权法保护的电子书可以被修改、打印和分发——您实际上可以做几乎所有的事情。电子书的再分发受商标许可约束，尤其是商业再分发。
+
+
+
+INÍCIO: LICENÇA COMPLETA
+
+
+
+A LICENÇA COMPLETA DO PROJETO GUTENBERG
+
+
+
+POR FAVOR, LEIA ISSO ANTES DE DISTRIBUIR OU USAR ESTE TRABALHO
+
+
+
+Para proteger a missão do Projeto Gutenberg™ de promover a distribuição gratuita de obras eletrônicas, ao usar ou distribuir esta obra (ou qualquer outra obra associada de alguma forma à frase “Projeto Gutenberg”), você concorda em cumprir todos os termos da Licença Completa do Projeto Gutenberg™ disponível com este arquivo ou online no www.gutenberg.org/license.
+
+
+
+Seção 1. Termos Gerais de Uso e Reutilização de Obras Eletrônicas do Projeto Gutenberg™
+
+
+
+1.A. Ao ler ou usar qualquer parte desta obra eletrônica do Projeto Gutenberg™, você indica que leu, entende, concorda e aceita todos os termos desta licença e acordo de propriedade intelectual (marca registrada/copyright). Se você não concordar em se comprometer com todos os termos deste acordo, deve cessar o uso e devolver ou destruir todas as cópias de obras eletrônicas do Projeto Gutenberg™ em sua posse. Se você pagou uma taxa para obter uma cópia ou acesso a uma obra eletrônica do Projeto Gutenberg™ e não concordar em ser vinculado pelos termos deste acordo, pode solicitar um reembolso da pessoa ou entidade à qual pagou a taxa conforme estabelecido no parágrafo 1.E.8.
+"""
+
+"""
+1.B. "Project Gutenberg" é uma marca registrada. Pode ser usado apenas em ou associado de alguma forma a um trabalho eletrônico por pessoas que concordem em estar vinculadas aos termos deste acordo. Existem algumas coisas que você pode fazer com a maioria dos trabalhos eletrônicos do Project Gutenberg™ mesmo sem se submeter aos termos completos deste acordo. Veja o parágrafo 1.C abaixo. Há muitas coisas que você pode fazer com os trabalhos eletrônicos do Project Gutenberg™ se seguir os termos deste acordo e ajudar a preservar o acesso futuro gratuito ao Project Gutenberg™. Veja o parágrafo 1.E abaixo.
+
+
+
+1.C. A Fundação Biblioteca Literária Project Gutenberg™ ("a Fundação" ou PGLAF), detém uma cópia de registro no conjunto de trabalhos eletrônicos do Project Gutenberg™. Quase todos os trabalhos individuais neste conjunto estão no domínio público nos Estados Unidos. Se um trabalho individual não estiver protegido por direitos autorais nos Estados Unidos e você estiver localizado nos Estados Unidos, não reivindicamos o direito de impedir que você copie, distribua, execute, exiba ou crie obras derivadas baseadas no trabalho desde que todas as referências ao Project Gutenberg™ sejam removidas. Claro, esperamos que você apoie a missão do Project Gutenberg™ de promover o acesso gratuito a trabalhos eletrônicos compartilhando livremente os trabalhos do Project Gutenberg™ em conformidade com os termos deste acordo para manter o nome do Project Gutenberg™ associado ao trabalho. Você pode facilmente se submeter aos termos deste acordo mantendo este trabalho no mesmo formato, juntamente com a licença completa do Project Gutenberg™, quando compartilhar sem custo com outros.
+
+
+
+Este particular trabalho é um dos poucos trabalhos individuais protegidos por direitos autorais nos Estados Unidos e na maioria do resto do mundo, incluído na coleção do Project Gutenberg™ com o consentimento do detentor dos direitos autorais. Informações sobre o proprietário dos direitos autorais para este particular trabalho e os termos de uso impostos pelo direito autoral
+"""
+
+"""
+as partes que seguem definem os direitos autorais deste trabalho no início deste trabalho.
+
+
+
+1.D. As leis de copyright do país onde você está localizado também regulam
+
+o que você pode fazer com este trabalho. As leis de copyright em大多数国家处于不断变化之中。如果您位于美国之外，请在下载、复制、展示、执行、分发或基于此作品或其他Project Gutenberg™作品创建衍生作品之前，检查您所在国家的法律以及本协议的条款。
+
+1.E. A menos que você tenha removido todas as referências a Project Gutenberg:
+
+1.E.1. A seguinte frase, com links ativos para ou outro acesso imediato à Licença Completa do Project Gutenberg™, deve aparecer de forma promíscua sempre que qualquer cópia de um trabalho do Project Gutenberg™ (qualquer obra em que apareça a frase “Project Gutenberg” ou com a qual está associada tal frase) for acessada, exibida, executada, visualizada, copiada ou distribuída:
+
+    Este e-book pode ser usado por qualquer pessoa, em qualquer lugar dos Estados Unidos e em grande parte do mundo sem custo algum e com quase nenhuma restrição. Você pode copiá-lo, dá-lo para alguém ou reutilizá-lo sob os termos da Licença do Project Gutenberg™ incluída neste e-book ou online no www.gutenberg.org. Se você
+
+não estiver nos Estados Unidos, terá que verificar as leis do país onde está localizado antes de usar este e-book.
+
+1.E.2. Se um trabalho eletrônico do Project Gutenberg™ for derivado a partir de textos não protegidos pela lei de copyright dos EUA (que não contenha uma notificação indicando que foi postado com permissão do detentor do copyright), o trabalho pode ser copiado e distribuído para qualquer pessoa nos Estados Unidos sem pagar nenhuma taxa ou custo. Se você
+
+estiver redistribuindo ou fornecendo acesso a um trabalho com a frase “Project Gutenberg”, 
+
+"""
+
+"""
+Quando você associar ou fazer aparecer o nome "Gutenberg" com o trabalho, você deve cumprir
+
+ou com os requisitos dos parágrafos 1.E.1 através de 1.E.7 ou obter permissão para o uso do trabalho e da marca registrada Project Gutenberg™ conforme estabelecido nos parágrafos 1.E.8 ou 1.E.9.
+
+
+
+1.E.3. Se um trabalho eletrônico individual do Project Gutenberg™ for postado com a permissão do detentor dos direitos autorais, seu uso e distribuição devem cumprir tanto os parágrafos 1.E.1 através de 1.E.7 quanto quaisquer termos adicionais impostos pelo detentor dos direitos autorais. Termos adicionais serão vinculados ao Licenciamento do Project Gutenberg™ para todos os trabalhos postados com a permissão do detentor dos direitos autorais, localizados no início deste trabalho.
+
+
+
+1.E.4. Não desvincule ou separe ou remova as termos completos de licenciamento do Project Gutenberg™ desta obra, ou de qualquer arquivo contendo uma parte desta obra ou outra obra associada ao Project Gutenberg™.
+
+
+
+1.E.5. Não copie, exiba, execute, distribua ou redistribua esta obra eletrônica, ou qualquer parte desta obra eletrônica, sem exibir de forma promíniante a frase estabelecida no parágrafo 1.E.1 com links ativos ou acesso imediato aos termos completos do Licenciamento do Project Gutenberg™.
+
+
+
+1.E.6. Você pode converter e distribuir esta obra em qualquer formato binário, comprimido, marcado, não proprietário ou proprietário, incluindo qualquer forma de processamento de palavras ou hipertexto. No entanto, se você fornecer acesso a ou distribuir cópias de um trabalho do Project Gutenberg™ em um formato diferente de "ASCII Puro e Simples" ou outro formato usado na versão oficial postada no site oficial do Project Gutenberg™ (www.gutenberg.org), deve fornecer, sem custo adicional, uma cópia, um meio para exportar uma cópia ou um meio de obter uma cópia a pedido, da obra em sua forma original "ASCII Puro e Simples" ou outra forma. Qualquer formato alternativo deve incluir o Licenciamento do Project Gutenberg™ como estabelecido no parágrafo 1.E.1.
+
+
+
+1.E.7. Não cobre um valor de acesso a, visualização, exibição,
+"""
+
+executando, copiando ou distribuindo quaisquer obras do Projeto Gutenberg™
+
+sem se submeter às disposições parágrafos 1.E.8 ou 1.E.9.
+
+
+
+1.E.8. Você pode cobrar uma taxa razoável por cópias de ou fornecimento
+
+de acesso a ou distribuição de obras eletrônicas do Projeto Gutenberg™,
+
+fornecido que:
+
+    • Você pague uma taxa de royalties de 20% dos lucros brutos obtidos com o uso
+
+        das obras do Projeto Gutenberg™, calculados usando o método que você já usa para calcular seus impostos aplicáveis. A taxa é devida ao proprietário da marca do Projeto Gutenberg™, mas ele concordou em doar royalties sob este parágrafo à Fundação Literária do Arquivo Gutenberg. Os pagamentos de royalties devem ser feitos dentro de 60 dias a partir de cada data em que você prepare (ou estiver legalmente obrigado a preparar) seus retornos fiscais periódicos. Os pagamentos de royalties devem estar claramente marcados como tal e enviados à Fundação Literária do Arquivo Gutenberg no endereço especificado na Seção 4, “Informações sobre doações para a Fundação Literária do Arquivo Gutenberg”.
+
+    
+
+    • Você fornece um reembolso integral do dinheiro pago por um usuário que notifica você por escrito (ou por e-mail) dentro de 30 dias após o recebimento se ele não concordar com os termos da Licença Completa do Projeto Gutenberg™. Você deve exigir que tal usuário devolva ou destrua todas as cópias das obras possuídas em meio físico e interrompa todo uso e acesso a outras cópias de obras do Projeto Gutenberg™.
+
+    
+
+    • Você fornece, de acordo com o parágrafo 1.F.3, um reembolso integral do dinheiro pago por uma obra ou uma cópia substituta, se uma deficiência na obra eletrônica for descoberta e informada a você dentro de 90 dias após o recebimento da obra.
+
+    
+
+    • Você cumpre com todas as outras disposições desta convenção para a distribuição gratuita de obras do Projeto Gutenberg™.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+
+Gutenberg™ electronic work or group of works on different terms than
+
+are set forth in this agreement, you must obtain permission in writing
+
+from the Project Gutenberg Literary Archive Foundation, the manager of
+
+the Project Gutenberg™ trademark. Contact the Foundation as set
+
+forth in Section 3 below.
+
+
+
+1.F.
+
+
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+
+effort to identify, do copyright research on, transcribe and proofread
+
+works not protected by U.S. copyright law in creating the Project
+
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+
+electronic works, and the medium on which they may be stored, may
+
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+
+or corrupt data, transcription errors, a copyright or other
+
+intellectual property infringement, a defective or damaged disk or
+
+other medium, a computer virus, or computer codes that damage or
+
+cannot be read by your equipment.
+
+
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+
+Gutenberg Literary Archive Foundation, the owner of the Project
+
+Gutenberg™ trademark, and any other party distributing a Project
+
+Gutenberg™ electronic work under this agreement, disclaim all
+
+liability to you for damages, costs and expenses, including legal
+
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+
+DAMAGE.
+
+
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+
+defect in this electronic work within 90 days of receiving it, you can
+
+receive a refund of the money (if any) you paid for it by sending a
+
+written explanation to the person you received the work from. If you
+
+received the work on a physical medium, you must return the medium
+
+with your written explanation. The person or entity that provided you
+
+with the defective work may elect to provide a replacement copy in
+
+lieu of a refund. If you received the work electronically, the person
+
+or entity providing it to you may choose to give you a second
+
+opportunity to receive the work electronically in lieu of a refund. If
+
+the second copy is also defective, you may demand a refund in writing
+
+without further opportunities to fix the problem.
+
+
+
+1.F.4. Except for the limited right of replacement or refund set forth
+
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+
+
+1.F.5. Some states do not allow disclaimers of certain implied
+
+warranties or the exclusion or limitation of certain types of
+
+damages. If any disclaimer or limitation set forth in this agreement
+
+violates the law of the state applicable to this agreement, the
+
+agreement shall be interpreted to make the maximum disclaimer or
+
+limitation permitted by the applicable state law. The invalidity or
+
+unenforceability of any provision of this agreement shall not void the
+
+remaining provisions.
+
+
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+
+trademark owner, any agent or employee of the Foundation, anyone
+
+providing copies of Project Gutenberg™ electronic works in
+
+accordance with this agreement, and any volunteers associated with the
+
+production, promotion and distribution of Project Gutenberg™
+
+electronic works, harmless from all liability, costs and expenses,
+
+including legal fees, that arise directly or indirectly from any of
+
+the following which you do or cause to occur: (a) distribution of this
+
+or any Project Gutenberg™ work, (b) alteration, modification, or
+
+additions or deletions to any Project Gutenberg™ work, and (c) any
+
+Defect you cause.
+
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+
+
+Project Gutenberg™ is synonymous with the free distribution of
+
+electronic works in formats readable by the widest variety of
+
+computers including obsolete, old, middle-aged and new computers. It
+
+exists because of the efforts of hundreds of volunteers and donations
+
+from people in all walks of life.
+
+
+
+Volunteers and financial support to provide volunteers with the
+
+assistance they need are critical to reaching Project Gutenberg™’s
+
+goals and ensuring that the Project Gutenberg™ collection will
+
+remain freely available for generations to come. In 2001, the Project
+
+Gutenberg Literary Archive Foundation was created to provide a secure
+
+and permanent future for Project Gutenberg™ and future
+
+generations. To learn more about the Project Gutenberg Literary
+
+Archive Foundation and how your efforts and donations can help, see
+
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+
+501(c)(3) educational corporation organized under the laws of the
+
+state of Mississippi and granted tax exempt status by the Internal
+
+Revenue Service. The Foundation’s EIN or federal tax identification
+
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+
+Archive Foundation are tax deductible to the full extent permitted by
+
+U.S. federal laws and your state’s laws.
+
+
+
+The Foundation’s business office is located at 809 North 1500 West,
+
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+
+to date contact information can be found at the Foundation’s website
+
+and official page at www.gutenberg.org/contact
+
+
+
+Section 4. Information about Donations to the Project Gutenberg
+
+Fundação Arquivo Literário
+
+
+O Projeto Gutenberg™ depende da apoio público e das doações para sobreviver e cumprir sua missão de aumentar o número de obras no domínio público e licenciadas que podem ser distribuídas gratuitamente em formato eletrônico acessível por uma ampla gama de equipamentos, incluindo equipamentos obsoletos. Doações menores ($1 a $5.000) são particularmente importantes para manter o status imune ao imposto sobre as doações junto à IRS.
+
+
+A Fundação está comprometida com o cumprimento das leis reguladoras de instituições caritativas e doações caritativas em todos os 50 estados dos Estados Unidos. As exigências de conformidade não são uniformes e requerem um esforço significativo, muitos documentos e várias taxas para se manterem em conformidade. Não solicitamos doações em locais onde não recebemos confirmação escrita de conformidade. Para FAZER DOAÇÕES ou determinar o status da conformidade para qualquer estado específico, visite www.gutenberg.org/donate.
+
+
+Embora não possamos e não solicitemos contribuições de estados onde ainda não atendemos aos requisitos de solicitação, sabemos que não há proibição contra aceitar doações não solicitadas de doadores desses estados que nos oferecem doações.
+
+
+Doações internacionais são gratasmente aceitas, mas não podemos fazer quaisquer declarações sobre o tratamento fiscal das doações recebidas de fora dos Estados Unidos. As leis americanas sozinhas submergem nosso pequeno quadro de trabalho.
+
+
+Por favor, verifique as páginas web do Projeto Gutenberg para métodos e endereços atuais de doação. Doações são aceitas por vários outros meios, incluindo cheques, pagamentos online e doações com cartão de crédito. Para fazer uma doação, visite: www.gutenberg.org/donate.
+
+
+Seção 5. Informações Gerais sobre obras eletrônicas Projeto Gutenberg™
+
+
+O Professor Michael S. Hart foi o originador da concepção do Projeto Gutenberg™ de um acervo de obras literárias que poderiam ser compartilhadas gratuitamente com qualquer pessoa. Por quarenta anos, ele produziu e
+
+"""
+distribuídos pelo Projeto Gutenberg™ com apenas uma rede voluntária de apoio fraca.
+
+
+Os eBooks do Projeto Gutenberg™ são frequentemente criados a partir de várias edições impressas, todas as quais são confirmadas como não estarem protegidas por direitos autorais nos Estados Unidos, a menos que uma notificação de direitos autorais esteja incluída. Assim, nós não nos mantemos necessariamente em conformidade com qualquer edição impressa particular.
+
+
+A maioria das pessoas começa no nosso site, que possui o principal mecanismo de busca do PG: www.gutenberg.org.
+
+
+Este site inclui informações sobre o Projeto Gutenberg™, incluindo como fazer doações à Fundação Literária do Arquivo Gutenberg, como ajudar a produzir nossos novos eBooks e como se inscrever na nossa newsletter eletrônica para saber sobre novos eBooks.
+"""

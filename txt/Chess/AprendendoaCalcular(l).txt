@@ -1,0 +1,916 @@
+Introdução 
+ 
+ 
+ 
+Aprendendo a Calcular (I) 
+ 
+Um bom cálculo de variantes é a principal qualidade necessária para o desenvolvimento de 
+um enxadrista intermediário. Neste nível de jogo, apesar das eventuais deficiências posicionais, o 
+que decide a partida é o cálculo bruto. A imensa maioria dos jogadores simplesmente não 
+consegue aprofundar-se na posição e efetuar um cálculo preciso, seja por certa “preguiça mental”, 
+por não conseguirem visualizar várias jogadas na frente – o que se resolve a partir de um 
+treinamento específico -, ou por simplesmente não avaliarem corretamente a importância de uma 
+decisão baseada além de uma idéia superficial da posição. Os russos sabem disso há muitos 
+anos: é preciso ser concreto. Se você quiser efetuar um plano, é preciso analisar concretamente se 
+ele é realizável. Para arrematar uma partida, é preciso calcular corretamente para não dar chances 
+ao adversário. Enfim, em todos os momentos críticos de uma partida, o cálculo é parte obrigatória. 
+Analise suas partidas recentes e veja quantas delas você perdeu por um deslize tático ou por um 
+cálculo impreciso. Muitas, não? A grande maioria, provavelmente. Esta é a apostila ideal para 
+você. 
+Nos meus primeiros anos de desenvolvimento como enxadrista, a parte tática do jogo foi a 
+que mais trabalhei. Todo dia, invariavelmente, reservava parte do meu treinamento para exercícios 
+de cálculo. Leia bem: todos os dias! Obviamente, é necessário trabalhar nos outros aspectos de 
+uma partida de xadrez, seja montando um repertório de aberturas, conhecendo os finais 
+indispensáveis e idéias posicionais freqüentes, mas o que vai fazer você subir de nível será o 
+cálculo, pois a maioria dos seus adversários simplesmente não sabe calcular. Iniciantes sobem de 
+nível porque param de entregar peças e passam a recolher as que seus oponentes presenteiam. 
+Intermediários ganham mais partidas, pois aprendem a arrematar as posições em que tem 
+vantagem e conseguem criar mais problemas táticos quando dominados posicionalmente. Mestres 
+e grandes mestres simplesmente calculam melhor nos momentos críticos. Como se vê, o cálculo é 
+importante em todos os níveis de jogo. 
+ 
+Muitas vezes venci partidas com posições de clara desvantagem, graças à tática. Este é 
+um recurso muito utilizado por jogadores avançados: criar problemas táticos para o adversário 
+quando se tem uma posição inferior. Repito: a grande maioria dos enxadristas não sabe calcular 
+corretamente, e eles falharão ante a primeira complicação tática. Mas para utilizar este recurso,
+
+você precisa aprender a guiar-se corretamente nos diversos ramos da análise de uma posição e 
+treinar a imaginação para encontrar recursos escondidos. 
+ 
+Por isso, digo sempre para os meus alunos: antes de pretender ser um expert em uma 
+abertura, aprenda a calcular. Muitos se preocupam apenas em decorar o livro mais recente de sua 
+defesa predileta, ou estudar as novidades mais importantes do último Informador. Mas de que 
+adiantará todo este conhecimento teórico se você não conseguir analisar sequer uma variante com 
+precisão? 
+ 
+A conseqüência de um erro de cálculo pode ser fatal. Uma abertura equivocada ou um 
+plano infeliz em geral levam apenas a uma posição difícil, mas deixar de ver um recurso tático do 
+adversário pode significar a derrota imediata. Vejamos o seguinte exemplo: 
+ 
+Ostos,J − Leitão,R 
+Merida ,2000 
+ 
+XIIIIIIIIY 
+9-+r+r+k+0 
+9+-wq-+pzp-0 
+9-+-+-+-zp0 
+9tR-+-zP-+-0 
+9Q+-+-+-+0 
+9+P+-+-zP-0 
+9-mKPtR-+-zP0 
+9+-+-+-+-0 
+xiiiiiiiiy 
+Jogam as brancas 
+  
+As brancas têm dois peões de vantagem, mas a posição insegura do seu rei garante às 
+pretas certa compensação. No momento existe um problema concreto a resolver, pois as pretas 
+ameaçam o peão de e5, assim como um xeque desagradável em c3. É hora de calcular algumas 
+variantes. 32.Te2? Uma jogada indiferente. O mestre venezuelano prende-se à defesa do peão, 
+quando deveria ter analisado as variantes com mais cuidado. As brancas tinham duas formas de 
+evitar a penetração em c3: [32.Db4 Txe5 33.Txe5 Dxe5+ 34.Dd4 Da5, mas aqui as pretas têm boa 
+compensação e podem confiar em salvar a partida.; 32.c4! Seria a jogada correta. Após 32...Txe5 
+As brancas teriam duas opções: 33.Ta7 (33.Ta8 simplificando e garantindo a vantagem também é 
+suficiente) 33...Dc5 34.Dd7 e as brancas conseguem ativar-se, com boas chances de vitória.] 
+32...Dc3+ 33.Ra2? [33.Rc1 Seria a única jogada, mas aqui o preto já tem ótimo contra-jogo.] 
+33...Ted8! Ameaçando Td1, seguido de mate. Simplesmente não há defesa. 34.e6 fxe6 0–1
+
+O exemplo acima representa um caso drástico de análise superficial. As jogadas brancas 
+pareciam naturais, mas resultaram em uma rápida derrota. Note que o cálculo de variantes é muito 
+mais do que ver duas ou três jogadas adiante, ou resolver algumas combinações básicas. É 
+preciso estar alerta durante toda a partida, é preciso calcular variantes e saber avaliar se o 
+resultado de uma combinação foi favorável ou não. Ao resolvermos exemplos de alguns livros de 
+tática, o resultado é mais ou menos matemático, no formato “jogam as brancas e ganham”, mas a 
+verdade é que no mundo real as coisas não são tão simples. Primeiro, não haverá ninguém para 
+alertá-lo com um “ei, concentre-se, aqui você tem uma combinação que ganha a dama” e segundo, 
+na grande maioria dos casos o cálculo de variantes não é tão matemático. Você precisa analisar 
+não só para dar mate ou ganhar material, mas também para conquistar vantagens posicionais. Por 
+essas e outras que costuma se afirmar que a tática anda lado a lado com a estratégia. 
+Os softwares de análise de certa forma revolucionaram a forma de se trabalhar o estudo de 
+uma posição. Eles representam uma poderosa ferramenta de auxílio para aqueles que pretendem 
+aprimorar-se no cálculo. Mas também têm ajudado a fomentar alguns hábitos preguiçosos de 
+enxadristas que colocam qualquer posição no Fritz, sem sequer haver analisado qualquer variante. 
+Portanto, use esta ferramenta de forma inteligente e você perceberá seus benefícios. Nos capítulos 
+seguintes darei alguns conselhos que o ajudarão a utilizar estes softwares como treinadores. 
+A principal qualidade para um bom cálculo é a confiança. Jogadores que estão sempre em 
+dúvida, repassando a análise inúmeras vezes, achando que cometeram algum erro de análise, 
+tendem a apurar-se por tempo, além de atraírem os erros que tanto temem. Mas claro que 
+confiança adquire-se com treinamento. Portanto, discipline-se para treinar o cálculo diariamente. 
+Se para um atleta correr 10km é necessário para manter a forma física, para um enxadrista é 
+necessário resolver exercícios de tática para manter a “forma mental”. Assim você estará alerta, 
+treinado e confiante para a competição. 
+A seguir um breve roteiro dos tópicos tratados nesta apostila: 
+ 
+- 
+Como Treinar o Cálculo? 
+ 
+Nesta seção indicarei algumas regras gerais para o treinamento de cálculo, abordando 
+questões genéricas como quantas horas dedicar-se, que livros estudar, que softwares 
+utilizar e como resolver exercícios de análise. Após estudar este capítulo, o leitor terá uma 
+boa idéia do trabalho necessário para aprimorar-se na área mais importante para um 
+enxadrista moderno. 
+ 
+- 
+Quando Calcular? 
+ 
+Não somos computadores, capazes de calcular milhões de jogadas por segundo.
+
+Devemos, portanto, ser seletivos em nosso esforço. O cálculo desordenado, além de 
+desnecessário, pode causar apuro de tempo e cansaço. Uma habilidade muito importante é saber 
+reconhecer os momentos em que é realmente necessário aprofundar-se no cálculo de variantes. 
+Neste capítulo ajudaremos a reconhecer quais são estes momentos. 
+ 
+- 
+Temas Táticos 
+ 
+Parte importante de uma visão combinatória aguçada é reconhecer os temas táticos 
+presentes em uma posição. Esta habilidade desenvolve-se resolvendo exercícios destes principais 
+temas. Aqui abordaremos temas táticos recorrentes, mostrando como o treinamento pode ajudá-lo 
+a utilizar a visão combinatória para vencer partidas. 
+ 
+- 
+Imaginação 
+ 
+Encontrar recursos táticos escondidos é uma das tarefas mais importantes para acumular 
+vitórias. Para tanto, é fundamental desenvolver a imaginação. Veremos a importância de resolver 
+composições e como este trabalho pode ajudá-lo na prática. 
+ 
+- 
+Lances Candidatos 
+ 
+Na minha opinião, este é o tema mais importante para aprimorar o cálculo de variantes. 
+Muitos jogadores calculam de maneira desorganizada, sem dar atenção para seus recursos ou os 
+do adversário. Elaborar uma lista de lances candidatos o ajudará a descobrir a essência da 
+posição, tornando seu cálculo mais preciso. Acima de tudo, o leitor atento encontrará aqui uma 
+nova forma de pensar durante as partidas. Este pode ser o capítulo mais importante para sua 
+carreira enxadrística. 
+ 
+- 
+Intuição 
+ 
+Algumas posições são impossíveis de calcular precisamente. São as que chamamos 
+irracionais. Neste tipo de jogo, somente enxadristas com uma intuição apurada sobrevivem. Mas 
+será a intuição algo que pode ser treinado? Tentarei responder a esta pergunta, além de oferecer 
+alguns exercícios para ajudá-lo a avaliar a força de sua intuição. 
+ 
+- 
+Conclusões 
+ 
+Aqui faremos um breve resumo dos principais tópicos abordados nesta apostila.
+
+II - Como Treinar o Cálculo? 
+ 
+ 
+Nesta seção, indicarei algumas regras gerais para o treinamento de cálculo, abordando 
+questões genéricas como quanto tempo dedicar-se, quais livros estudar, quais os principais 
+métodos de treinamento e como utilizar os softwares de análise. Após estudar este capítulo, o 
+leitor terá uma boa idéia do trabalho necessário para aprimorar-se na área mais importante para 
+um enxadrista moderno. 
+Conforme já escrevi por diversas vezes, o cálculo de variantes incorreto é a principal 
+deficiência dos enxadristas medianos, juntamente com o desconhecimento dos clássicos. Sobre 
+como sanar a segunda fraqueza, os leitores deverão investigar a apostila sobre jogo posicional. 
+Mas, se o seu maior problema for o cálculo de variantes fraco, espero que este material ofereça um 
+guia completo para corrigi-lo. 
+Desde já, adianto que a apostila, infelizmente, não contém uma poção mágica que fará 
+com que o leitor fiel saia por aí analisando variantes de dez lances na frente, sem cometer 
+deslizes. O xadrez é um jogo difícil, e você já deve saber disso. O sucesso vem para aqueles que 
+gostam do jogo e se dedicam. Neste capítulo, mostrarei o caminho que tracei para conseguir um 
+nível de grande-mestre no cálculo, assim como algumas sugestões para que você possa conseguir 
+o mesmo. Porém, o trabalho será árduo e você deverá esforçar-se para adquirir essa maestria. 
+Mas podemos chamar a análise de belas partidas de xadrez, de posições com inúmeros mistérios, 
+de trabalho árduo? Para mim isso mais se assemelha a uma grande diversão! 
+ 
+Treinando a habilidade tática 
+ 
+Revelo ao leitor um pequeno “segredo” do meu treinamento. Desde bem jovem, até 
+finalmente obter o título de grande-mestre, não houve sequer um dia de treinamento sem que eu 
+reservasse uma parte do tempo para o cálculo de variantes. De forma semelhante ao alongamento 
+para um atleta, iniciar o estudo com a resolução de problemas de cálculo, ajuda-o a “esquentar” a 
+mente, a entrar em um estado de disposição para o trabalho, além de melhorar imensamente suas 
+análises. Imagine isso repetido por anos e anos? Portanto, eis aqui minha primeira sugestão: toda 
+vez, ao iniciar a sessão de treinamento, comece com a resolução de combinações, 
+independentemente do que virá depois. Repita este processo até transformá-lo em uma rotina 
+indispensável. 
+Mas quais tipos de exercícios devem ser resolvidos? Esta é uma indagação importante e 
+aqui começarei a fazer algumas sugestões bibliográficas (a lista completa estará ao final da 
+apostila). Antes de tudo, é preciso saber que existe uma progressão a ser feita para se atingir o 
+domínio do cálculo. A fase inicial é a obtenção de uma boa visão combinatória e saber reconhecer 
+os principais temas táticos com rapidez. Para isso é preciso resolver combinações relativamente
+
+simples, divididas por temas, para que você comece a aumentar seu arsenal de padrões táticos e 
+seja capaz de reconhecer os elementos da posição instantaneamente. Vejamos duas posições em 
+um mesmo tema, mostrando como é importante reconhecer as nuances táticas.  
+ 
+Pinski,J- Leitão,R 
+Guarapuava, 1995 
+ 
+XIIIIIIIIY 
+9-+rtr-+k+0 
+9zpp+-vlp+-0 
+9-+-+p+pzp0 
+9+-+lzP-+-0 
+9n+q+NvL-+0 
+9zP-zP-+Q+-0 
+9-+R+-zPPzP0 
+9+L+-tR-mK-0 
+xiiiiiiiiy 
+ 
+Jogam as pretas e ganham 
+ 
+ 
+ Não existe qualquer dúvida em relação à vantagem preta, mas uma rápida percepção dos 
+temas táticos pode fazer a tarefa de arrematar a partida bem mais fácil. Um jogador bem treinado 
+deve ser capaz de encontrar a seguinte combinação em menos de 10 segundos... 25...¥xe4 
+26.¦xe4 £xe4! Utilizando o tema de mate na primeira fila, que de agora em diante chamarei de 
+"mate da gaveta" – afinal, veja só se o rei branco não está engavetado!- as pretas decidem a 
+partida imediatamente. 0–1 
+ 
+ 
+Claro que este é um exemplo bem simples. Ainda assim a partida tinha imensa importância 
+(foi disputada em um Campeonato Mundial sub-16) e uma habilidade tática bem treinada fez a 
+diferença. Toda vez que estudarmos um tema, devemos começar pelos exemplos mais simples e 
+gradualmente aumentar a dificuldade. Aqui vale a pena ter um bom livro, repleto de exercícios. 
+Continuemos com outra posição de mate da gaveta. Qualquer livro de tática está repleto de 
+exemplos neste tema, em ordem crescente de dificuldade. Pode começar com um exercício fácil, 
+como seria o caso da partida acima, até evoluir a uma posição bem mais complexa, que exija um 
+cálculo de várias jogadas à frente e muita atenção aos recursos adversários, ainda que o tema 
+central seja o mesmo. 
+ 
+ 
+Adams,E − Torre,C
+
+Nova Orleans, 1920 
+ 
+XIIIIIIIIY 
+9-+r+r+k+0 
+9+p+qvlpzpp0 
+9-+-zp-sn-+0 
+9zp-+P+-vL-0 
+9-+-wQ-+-+0 
+9+-+-+N+-0 
+9PzP-+RzPPzP0 
+9+-+-tR-mK-0 
+xiiiiiiiiy 
+Jogam as brancas 
+  
+Este é um exemplo clássico, vastamente publicado. A posição parece bem calma e seria 
+esperado que nas próximas jogadas todas as torres fossem trocadas na coluna "e", com um 
+empate rápido. Entretanto, graças à percepção de um tema tático, o mate da gaveta, Adams 
+encontrou uma combinação que garantiu sua imortalidade no xadrez. 
+ 1.¥xf6 ¥xf6 2.£g4! 
+ O primeiro de uma série de golpes táticos. A dama branca é invulnerável graças à 
+fraqueza da oitava fila, mas, por enquanto, as pretas conseguem manter a defesa da casa e8.  
+2...£b5 
+ Nos próximos laces as brancas tentam desviar a dama preta da diagonal a4-e8.  
+ 3.£c4!! 
+ Não satisfeito em colocar a dama no raio de ação de uma peça preta, Adams faz melhor e 
+a oferece a duas peças! Novamente as pretas são forçadas a fugir com sua dama. 
+ 3...£d7 4.£c7!  
+A perseguição continua! 
+ 4...£b5  
+ 
+XIIIIIIIIY 
+9-+r+r+k+0 
+9+pwQ-+pzpp0 
+9-+-zp-vl-+0 
+9zpq+P+-+-0 
+9-+-+-+-+0 
+9+-+-+N+-0 
+9PzP-+RzPPzP0 
+9+-+-tR-mK-0 
+xiiiiiiiiy 
+Jogam as brancas 
+  
+Até aqui os lances brancos não foram difíceis de encontrar e são óbvios para um
+
+enxadrista de razoável domínio tático. Mas agora as brancas devem prosseguir com cuidado. Uma 
+habilidade fundamental para o domínio do cálculo é ver os recursos do adversário. Perdi as contas 
+de quantas vezes mostrei esta posição para alunos que me sugeriram 21.£xb7?? como solução. 
+Para vencer, o branco deve ver o contra-jogo das pretas e utilizar a tática para evitá-lo. 
+ 5.a4! 
+5.£xb7?? £xe2! 6.¦xe2 (6.£xc8 £xe1+ 7.¤xe1 ¦xc8) 6...¦c1+ e as brancas 
+experimentariam uma dose do seu próprio veneno. 
+ 5...£xa4 6.¦e4! 
+ Este é o lance mais difícil da combinação. Ele é muito difícil de ver, pois parece que o 
+branco não tem ameaças. Mas um olhar mais atento mostra que a idéia não é capturar a dama 
+preta imediatamente, mas sim jogar 7.£xc8. E após 6...£b5, é possível explorar a sutil diferença 
+entre a torre em e2 e a em e4. 
+ 6...£b5 7.£xb7!  
+Agora as pretas não podem jogar £xe2 e perdem material. 
+ 1-0 
+Um exemplo brilhante. Com o treinamento adequado, esse tipo de combinação não 
+apresenta grandes dificuldades, mas ainda assim produz um imenso prazer estético e mostra a 
+importância de estar atento aos recursos do adversário. 
+ 
+ 
+ 
+Exercícios de aquecimento mental 
+ 
+Exercícios simples de tática também servem para preparar a mente para o trabalho, antes 
+de uma árdua sessão de treinamento. Recomendo a todos que comecem o estudo com pelo 
+menos uma hora de exercícios simples de cálculo. Livros para isso não faltam. Recomendo o “Test 
+Your Chess IQ”, do Livshitz, e problemas do Informador. Da mesma forma, esse tipo de 
+treinamento é benéfico imediatamente antes de uma partida, para aquecer a mente. Geralmente 
+iniciamos nossas partidas com um estado de ânimo relativamente preguiçoso (principalmente 
+quando temos que jogar em horários matinais bizarros!). Ao resolver alguns exercícios de tática 
+simples, entramos em um estado de alerta que pode ser útil para um jogo mais enérgico desde a 
+abertura. Mas vale a ênfase que estes devem ser exercícios simples. Não vá tentar resolver 
+problemas complexos, que podem deixá-lo frustrado e cansado. 
+ 
+ 
+ 
+Finais de rei e peões
+
+Uma forma de treinamento de cálculo bastante interessante e desprezada consiste na 
+utilização de finais de rei e peões. Nesse tipo de final não é possível fazer uma avaliação do tipo: 
+“as brancas têm leve vantagem”. Finais de peões são matemáticos, e temos que avaliar como 
+vitória, empate ou derrota, sem meio termo. Ao resolvermos esse tipo de exercício, treinamos uma 
+qualidade fundamental para o cálculo, que é a precisão em variantes longas. Mas em alguns 
+desses finais outras qualidades também são exercitadas: 
+ 
+Laveryd − Wikstrom 
+Umea, 1997 
+XIIIIIIIIY 
+9-+-+-+-+0 
+9+-+-+pzpp0 
+9-+-+p+-+0 
+9+-mk-zP-+-0 
+9-zpP+p+-+0 
+9+K+-zP-+-0 
+9-+-+-zPPzP0 
+9+-+-+-+-0 
+xiiiiiiiiy 
+Jogam as pretas. Como deve terminar esta partida? 
+ 
+ 
+Não é difícil de ver que esta será uma luta por tempos. À primeira vista, aquele que ficar 
+sem lances de peão primeiro, perderá. Portanto, a resposta correta - que a posição é empatada - 
+parece paradoxal. A primeira pergunta é: como as pretas evitam a derrota imediata? 1...f6? (ou 
+1...f5?) é sem esperança, devido a 2.exf6 gxf6 3.g4! 
+ 1...h5! 
+ Ocorre que após o natural 2.h4? o branco é colocado em zugzwang de forma inusitada: 
+2...g5! 3.hxg5 h4–+. Curiosamente, a partida seguiu: 1...h6?? 2.h3?? (2.g4! g6 3.h4+-, ou 2...f5 
+3.exf6 gxf6 4.h4+-) 2...h5!–+ 3.h4 g5! 4.g3 g4 e as brancas abandonaram. 
+ 2.h3! 
+ Lance único! Já sabemos que 2.h4? não funciona. 2.f4? exf3 3.gxf3 h4 4.h3 f6–+ e 2.g3? 
+f6–+ também não serviriam. Mas agora as pretas novamente têm uma difícil tarefa. 2...g5? perde 
+imediatamente para 3.g3 e 2...f5? para 3.h4+-; 2...h4? 3.g3! hxg3 (3...g5 4.g4) 4.fxg3 f5 5.exf6 gxf6 
+6.h4+- e 2...g6? é elegantemente refutado após 3.g4! (3.h4? g5!) 3...hxg4 4.h4!+-. Portanto, só 
+resta uma jogada.   
+2...f6! 3.h4!  
+Claro que não 3.exf6? gxf6–+. Mas agora o que as pretas podem fazer? 
+ 
+XIIIIIIIIY
+
+9-+-+-+-+0 
+9+-+-+-zp-0 
+9-+-+pzp-+0 
+9+-mk-zP-+p0 
+9-zpP+p+-zP0 
+9+K+-zP-+-0 
+9-+-+-zPP+0 
+9+-+-+-+-0 
+xiiiiiiiiy 
+Jogam as pretas 
+ 
+3...fxe5 é respondido com 3.g4!; e se 3...f5, então 4.f4! exf3 5.gxf3 g5 (5...f4 6.exf4 g6 7.f5) 
+6.hxg5 h4 7.g6 h3 8.g7 h2 9.g8£ h1£ 10.£f8+ ¢c6 11.£d6++-, com um final de damas facilmente 
+ganho. É preciso um talento especial para encontrar a idéia de afogado no meio do tabuleiro! 
+3...fxe5! 4.g4! g6  
+[4...hxg4? 5.h5+-] 
+ 5.g5 ¢b6!  
+[5...¢d6!] 
+ 6.¢xb4 ¢c6 7.c5 ¢d5!! 8.¢b5  
+ 
+XIIIIIIIIY 
+9-+-+-+-+0 
+9+-+-+-+-0 
+9-+-+p+p+0 
+9+KzPkzp-zPp0 
+9-+-+p+-zP0 
+9+-+-zP-+-0 
+9-+-+-zP-+0 
+9+-+-+-+-0 
+xiiiiiiiiy 
+Afogado 
+ 
+ 
+ 
+Neste exemplo pudemos praticar a precisão na análise de uma variante longa, a atenção 
+aos recursos do adversário e a imaginação para encontrar o tema do “afogado”. 
+ 
+Estes finais também são excelentes para o treino de visualização, conforme veremos mais 
+tarde. 
+ 
+Para bons exemplos de finais de rei e peões e também para exercícios de cálculo em 
+outros finais, recomendo o excelente livro “Test Your Endgame Ability”, de Livshits e Speelman. 
+ 
+ 
+Treinando a imaginação
+
+O desenvolvimento da imaginação é fundamental para calcular variantes corretamente. Em 
+muitas posições, a solução correta será uma idéia escondida, um tema paradoxal, que só será 
+encontrado por quem estiver muito bem treinado nesta busca. Calcular variantes diretas com 
+precisão fará do leitor um analista mediano. Mas encontrar lances espetaculares e calculá-los até 
+sua conclusão o levará a uma outra categoria. 
+ 
+Mas como treinar a imaginação? Aqui entra a importância da resolução de composições. 
+Este tema merecerá uma atenção especial e um capítulo próprio nesta apostila, mas desde já 
+adianto que este é um dos segredos da escola russa. Muitos enxadristas não têm em conta a 
+importância deste trabalho na prática. Mais tarde explicarei com mais detalhes como você pode 
+utilizar o desenvolvimento da imaginação para conseguir pontos nos torneios, mas aproveito a 
+ocasião para estimular a vontade do leitor, que provavelmente já teve seu senso estético aguçado 
+pelo final de peões visto acima. 
+ 
+ 
+Gurvich 1927 
+XIIIIIIIIY 
+9-+-+-+-+0 
+9mK-+-+-+N0 
+9-+-+-+-+0 
+9+-sN-+-+-0 
+9-sn-+-+-+0 
+9+-+-+-wQ-0 
+9-+-+-+psn0 
+9+-+-+-+k0 
+xiiiiiiiiy 
+Jogam as brancas e ganham 
+ 
+ 
+ 
+Parece que o branco não poderá evitar a coroação do peão de “g”. Entretanto...  
+1.¤e4! 
+ Com a idéia de responder 1...g1£ com 2.¤f2+, ganhando a dama. Mas as pretas 
+encontram uma defesa melhor. 
+1...¤d3! 
+ Agora 2.£xd3 g1£+ deixa as brancas com material insuficiente para a vitória. O caminho 
+para a vitória é inacreditável: 
+ 2.£f2!! ¤xf2 3.¤g3+!! ¢g1 4.¤g5 
+ Um zugzwang fenomenal. A posição final deixa uma impressão de encantamento difícil de 
+esquecer. 
+Não é difícil encontrar livros com diversas composições a serem resolvidas. A obra com as 
+principais pérolas de Kasparian é sugestão obrigatória, mas existe um livro bem menos conhecido
+
+e que é uma verdadeira jóia: “Secrets of Spectacular Chess”, de Levitt e Friedgood, que traça a 
+semelhança entre belíssimas composições e exemplos práticos. Nas edições mais recentes do 
+Informador pode ser encontrada, ao final, uma seção reservada a estudos e composições, que 
+também servem como exercícios. Material para trabalho não falta. O importante é que o leitor 
+reconheça a importância deste esforço e incorpore-o à programação de treinamento. 
+ 
+Analisando partidas 
+ 
+A análise de partidas, sejam próprias ou de outros enxadristas, é parte fundamental de 
+qualquer treinamento. Mas muitos pecam pela superficialidade com que abordam esta tarefa. Em 
+relação às nossas partidas, é importante analisar as complicações táticas com grande 
+profundidade e tirar conclusões dos erros mais freqüentes e deficiências que devem ser 
+trabalhadas. Digamos que você perceba, através das análises de suas partidas nas três últimas 
+competições, que está omitindo importantes recursos táticos do adversário. Apenas por este 
+diagnóstico, já valeu a pena todo o tempo gasto com a análise de suas partidas. Então o passo 
+seguinte é montar uma rotina de treinamento específica para sanar essa deficiência, resolvendo 
+inúmeros exercícios de cálculo em que se deve estar atento aos lances candidatos do adversário 
+(novamente composições servem muito bem a este propósito). Gradualmente, suas principais 
+deficiências serão reduzidas. Vale lembrar que a análise de suas partidas servirá não apenas para 
+diagnosticar erros de cálculo, mas também para melhorar deficiências em outras áreas. Mas 
+inicialmente os erros de cálculo serão os mais transparentes e você ficará chocado com a 
+quantidade de imprecisões táticas que descobrirá em uma análise mais profunda de suas partidas. 
+A superficialidade também é o principal erro ao analisar partidas de outros enxadristas.  
+Não podemos simplesmente olhar partidas e aceitar as análises do comentarista. É preciso pensar 
+ativamente para melhorar. Para melhorar o cálculo é preciso escolher um livro com partidas bem 
+comentadas (isso é o que não falta – para uma pequena lista, basta ler a bibliografia sugerida, ao 
+final da apostila) e parar em todas as posições críticas, que serão facilmente reconhecíveis, pois 
+provavelmente estarão antecedidas por um diagrama. Então feche o livro, coloque um tempo no 
+relógio (em média uns vinte minutos) e comece a calcular a posição, como se fosse sua própria 
+partida. Ao final anote suas conclusões e tenha bem claro qual lance considera o melhor. Ás vezes 
+o tempo não será suficiente para uma análise precisa da posição, mas tudo bem, neste caso você 
+terá treinado a intuição. Em seguida, compare suas análises com as do livro e cheque-as também 
+com os programas de análise. Este trabalho é igualmente prazeroso e benéfico. E mais uma vez 
+repito: leitura passiva não funciona no treinamento enxadrístico. Seja crítico e sempre faça suas 
+próprias análises. 
+ 
+ 
+Melhorando a visualização
+
+Muitos enxadristas têm grande dificuldade em visualizar algumas jogadas adiante. Isto 
+ocorre por falta de prática, pois é preciso estar constantemente calculando variantes para adquirir a 
+maestria nessa área. A conseqüência disso é catastrófica, gerando um cálculo impreciso e 
+insegurança. E, como já sabemos, mesmo se tivermos uma compreensão de jogo superior a do 
+adversário, sem o cálculo preciso – que implica uma boa visualização -, os resultados ficarão 
+aquém do esperado. 
+ 
+O primeiro passo é reconhecer se você realmente tem esta deficiência e quão problemática 
+ela realmente é. Se você não consegue ser preciso em variantes de cinco ou mais jogadas na 
+frente, tudo bem, não se desespere, não existe nada de grave aqui. Mas, caro leitor, responda a 
+seguinte pergunta: você consegue visualizar o tabuleiro de xadrez nitidamente, ao ponto de saber 
+dizer imediatamente qual a cor de cada uma de suas casas com os olhos vendados? Se alguém 
+lhe perguntar qual a cor da casa f5 e você precisar de mais de cinco segundos para responder 
+“que pergunta é essa, claro que a casa f5 é branca!”, então você está com problemas de 
+visualização (vamos ignorar o fato de você pensar quinze segundos e responder que a casa f5 é 
+preta, pois espero que o diagnóstico seja óbvio neste caso). 
+ 
+Pois bem, suponhamos que você não consiga visualizar bem o tabuleiro, o que fazer? Tive 
+um aluno que criou uma fórmula matemática para saber rapidamente a cor de cada casa. Tive 
+alguma dificuldade em explicar-lhe a inutilidade deste sistema. Estamos treinando visualização, 
+não álgebra! 
+ 
+Primeiro, reitero: trabalho árduo. Você terá que resolver inúmeros exercícios diariamente, 
+até melhorar gradualmente. Nada de novo por aqui. Mas tenho algumas sugestões extras a fazer. 
+ 
+Jamais, em hipótese alguma, mova as peças quando estiver fazendo um exercício de 
+cálculo. Parece óbvio, mas muitos enxadristas, quando não conseguem ver a solução, começam a 
+mexer as peças. Não cometa este erro. Tente o seu máximo para visualizar toda a variante. Se não 
+conseguir dentro de um tempo estipulado, confira a solução do autor. Somente depois de ter 
+visualizado e entendido toda a solução, você deve mexer as peças e conferir se está tudo certo. 
+Existe um treinamento de análise em que é recomendável que você mexa as peças. Mas este 
+sistema só é recomendado para jogadores avançados, que não tenham qualquer problema em 
+enxergar várias jogadas à frente. Se você não tem boa visualização, nunca analise movendo as 
+peças. 
+ 
+Um método efetivo para quem já tem certa noção do tabuleiro, mas ainda derrapa em 
+variantes longas, é resolver alguns exercícios às cegas. Você pode adicionar esse sistema à sua 
+programação de treinamento e os resultados não tardarão a aparecer. Evidentemente, ao menos 
+em um primeiro momento, as posições não podem ser muito complexas. Exemplos com poucas 
+peças e com uma solução curta são os mais recomendados. Em geral um livro de tática com 
+poucas peças é o mais adequado (mais uma vez recomendo o “Test Your Endgame Ability”). A 
+posição seguinte é o tipo de exercício ideal para ser resolvido sem olhar para o tabuleiro:
+
+Otten,H 
+1892 
+XIIIIIIIIY 
+9-+-+-+-+0 
+9+-+-+-vl-0 
+9-+-+-mk-+0 
+9+-+-+-+-0 
+9P+-+K+P+0 
+9+-+-+-+-0 
+9-+-+-+-+0 
+9+-+-+-+-0 
+xiiiiiiiiy 
+Jogam as brancas e ganham 
+ 
+1.a5 ¥f8 2.¢d5 ¥h6 3.g5+! ¥xg5 4.¢e4 ¥h4 5.¢f3+−  
+ 
+ 
+Poucas peças, uma solução curta e simples, com um detalhe tático sutil (3.g5+!). Tudo o 
+que procuramos na fase inicial do treinamento de visualização. 
+ 
+Em um segundo momento, quando já tivermos resolvido um grande número de exemplos 
+dessa forma, vale a pena tentar algo um pouco mais ousado. Por que não jogar algumas partidas 
+de treinamento às cegas? Pergunte a um enxadrista mais ou menos da sua força se ele não aceita 
+o desafio (se você tiver um treinador, melhor ainda) e joguem uma vez por semana, por exemplo. 
+No início será uma experiência difícil, mas em pouco tempo você terá um excelente domínio do 
+tabuleiro, sem vacilar quando tiver que calcular várias jogadas à frente. 
+ 
+ 
+Como utilizar os programas de análise 
+ 
+ 
+A utilização de computadores revolucionou a forma de se estudar xadrez. Hoje em dia não 
+existe um estudante sério do jogo que não conte com os principais softwares de análise 
+disponíveis. Entretanto, a imensa maioria utiliza esta ferramenta de forma equivocada, muitas 
+vezes analisando de forma preguiçosa, apenas deixando a máquina fazer todo o trabalho, o que, 
+além de não contribuir para uma melhora no seu jogo, geralmente culmina em análises no mínimo 
+imprecisas. O fato é que não haverá um computador para ajudá-lo durante a partida, portanto 
+aprenda a confiar em você mesmo e na qualidade de suas análises. Além do mais, a máquina não 
+entende e não avalia corretamente muitas posições, precisando de interferência humana para 
+produzir análises de qualidade. 
+ 
+A verdade é que este é um tema bastante complexo e merece uma atenção especial. 
+Provavelmente aprofundarei mais no assunto em um futuro artigo ou na próxima apostila de 
+cálculo, mas no momento é preciso ao menos apresentar alguns pontos importantes. 
+ 
+Existem muitos benefícios em utilizar as engines. Em um país como o Brasil, onde temos
+
+grande dificuldade em encontrar parceiros de estudo, os computadores podem auxiliá-lo 
+imensamente, principalmente em análises de aberturas. Além do mais, a prática de jogar contra os 
+programas, apesar de um tanto masoquista, pode ser útil. Mas abusar da ajuda da máquina pode 
+ser muito prejudicial. Não se torne um escravo do computador. Aprenda a usá-lo como um 
+parceiro, não como um mestre infalível. Muitos enxadristas da nova geração vêm abusando das 
+análises com o Fritz e programas semelhantes, e começam a absorver alguns dos aspectos 
+negativos do jogo da máquina, principalmente avaliações totalmente incorretas. E nem é preciso 
+dizer que não chegam nem perto do seu ponto forte, que são as análises perfeitas de posições 
+matemáticas. 
+ 
+Há pouco tempo enfrentei um jovem e promissor MI brasileiro. Venci uma partida que me 
+pareceu bem complicada e interessante, inclusive com valor teórico. Mas a partida foi decidida 
+basicamente por um erro de cálculo do meu adversário, em uma posição complexa, mas que eu 
+julgava um pouco superior para mim. Qual não foi minha surpresa quando no dia seguinte o jovem 
+mestre me disse que teria vantagem decisiva se não houvesse errado no momento decisivo. Já 
+sabia que toda sua avaliação havia sido baseada na idéia do computador sobre a posição, que, 
+aliás, muito contrariava a avaliação de vários grandes-mestres, aos quais eu havia mostrado a 
+partida. Alguns meses depois, analisei a posição crítica, também com computadores, e análises 
+cuidadosas mostraram que a avaliação humana era a correta. Portanto, não deixe a máquina 
+dominar sua mente. Confie em suas análises e avaliações e saiba utilizar esta ferramenta de forma 
+equilibrada. 
+ 
+Minha recomendação é sempre reservar algum tempo para analisar sozinho uma 
+determinada posição. Reserve ao menos meia hora para esta tarefa. Faça uma avaliação de quem 
+está melhor. Formule planos, analise algumas jogadas na frente, conclua como jogaria. Apenas 
+depois deste trabalho inicial, coloque a posição no computador, de preferência utilizando várias 
+engines simultaneamente (eu costumo utilizar três). Muitas idéias novas aparecerão neste 
+momento. Compare sua avaliação com a das engines, separe suas principais sugestões e depois 
+volte a analisar a posição sozinho, acrescentando as idéias do computador. Repita este processo 
+até sentir que as análises estão bem feitas. É um processo demorado, mas assim você terá 
+análises mais precisas, terá progredido como jogador e utilizado o computador da forma mais 
+efetiva possível. 
+ 
+Mesmo alguns dos mais fortes enxadristas do mundo cometem sérios deslizes nessa área. 
+Este erro quase custou o título mundial a Kramnik recentemente.  
+  
+Kramnik,V− Leko,P 
+Brissago (m/8), 2004 
+ 
+1.e4 e5 2.¤f3 ¤c6 3.¥b5 a6 4.¥a4 ¤f6 5.0-0 ¥e7 6.¦e1 b5 7.¥b3 0-0 8.c3 d5 9.exd5 
+¤xd5 10.¤xe5 ¤xe5 11.¦xe5 c6 12.d4 ¥d6 13.¦e1 £h4 14.g3 £h3 15.¦e4 g5 16.£f1 £h5
+
+17.¤d2 ¥f5 18.f3 ¤f6 19.¦e1 ¦ae8 20.¦xe8 ¦xe8 21.a4 
+ Um método típico para neutralizar a vantagem de desenvolvimento das pretas. As brancas 
+ativam sua torre através da coluna "a". 
+ 21...£g6 22.axb5 
+ Em uma entrevista após o match, Kramnik criticou este lance e revelou que sua intenção 
+inicial era seguir com 22.¤e4, devolvendo material para completar o desenvolvimento. Este é um 
+tratamento bem “humano” e correto da posição. Entretanto, logo sua equipe de analistas descobriu 
+que as pretas teriam boas chances de se defender. As seguintes análises comprovam este ponto 
+de vista: 22...¤xe4 23.fxe4 ¥xe4 24.¥xg5! (24.axb5? permite que as pretas comecem um ataque 
+decisivo após 24...¥d3 25.¥xf7+ £xf7 26.£xd3 ¦e1+ 27.¢g2 £d5+ 28.¢h3 ¦g1–+) 24...bxa4! 
+25.¥c4 (25.¦xa4? enfraquece a primeira fila, permitindo 25...¦b8 com forte ataque) 25...¥d5 
+(25...¦b8!? é uma sugestão do Leko e leva a uma posição complicada após 26.¦e1 ¥d5 27.¥xd5 
+cxd5 28.¥c1 h5) e após 26.¥xd5 cxd5 a atividade das peças pretas compensam sua debilidade 
+estrutural, mas ainda existe muita luta na posição.  
+ 22...¥d3  
+ 
+XIIIIIIIIY 
+9-+-+r+k+0 
+9+-+-+p+p0 
+9p+pvl-snq+0 
+9+P+-+-zp-0 
+9-+-zP-+-+0 
+9+LzPl+PzP-0 
+9-zP-sN-+-zP0 
+9tR-vL-+QmK-0 
+xiiiiiiiiy 
+Jogam as brancas 
+ 
+  
+Existe uma diferença significativa na forma em que os dois grandes-mestres encaravam 
+esta posição. Kramnik a havia estudado com seus segundos e principalmente com o computador, 
+enquanto para Leko a posição era desconhecida de longa data, tanto que ele já se encontrava em 
+apuro de tempo. Seria de se esperar que as pretas perdessem sem luta, mas surpreendentemente 
+este era o destino reservado para Kramnik...  
+23.£f2? 
+ Com esta jogada as brancas sacrificam a dama, acreditando na força do seu peão de "a", 
+mas o contra-jogo no flanco dama não chega a tempo. Apesar do lance do texto ainda ser parte da 
+preparação do Kramnik, ele leva à derrota. Neste caso o computador, ao invés de ser usado como 
+uma ferramenta de auxílio nas análises, convenceu toda uma equipe de grandes-mestres de que 
+seu lance era vencedor, o que quase custou o título mundial a Kramnik. 23.£d1 ainda teria salvado 
+a partida. 23...¥e2! (no caso de 23...axb5 24.¦a7 a torre branca entra em jogo, reduzindo o
+
+potencial do ataque preto.) 24.£c2 (24.¥c2? £h5 25.£e1 ¥xf3 e as pretas teriam um ataque 
+decisivo.) 24...¥d3 (24...£h5? 25.£f5!) 25.£d1 com empate. 
+23...¦e2 
+As pretas conseguiram caçar a dama branca, mas a situação não é tão clara, pois após 
+bxa6 o peão de “a” torna-se muito perigoso. 
+ 24.£xe2 
+Em seu excelente livro “Secrets of Attacking Chess”, Marin comenta de forma muito 
+interessante este momento da partida, tentando entender o motivo pelo qual os analistas de 
+Kramnik foram ofuscados pelas conclusões do computador. Reproduzo as palavras de Marin: 
+“Tive a curiosidade de repetir o que pode ter sido o ´processo de pesquisa´ de Kramnik e 
+cia. Funcionando em um computador razoavelmente potente (Pentium Centrino de 1.8 GHz), a 
+opinião inicial do Fritz sobre a posição do texto é que 24. £xe2 seguido de 25.bxa6 leva a uma 
+clara vantagem. Em seguida, começa a gostar ainda mais desta opção. Geralmente essa 
+crescente na avaliação da máquina é considerada convincente, mas este é precisamente o 
+problema: tendemos a esquecer que jogamos xadrez principalmente para testar nossa força 
+mental e que o processo de análise deve ter um propósito similar. Acredito que se os segundos do 
+Kramnik tivessem estudado a posição com um pouco mais de cuidado no tabuleiro, teriam sentido 
+que as coisas não eram tão claras. Ironicamente, após 3-4 minutos a avaliação do computador 
+repentinamente muda de “quase ganha” para “perdida”. 
+Há alguns anos, li em algum lugar que Kramnik antes de perguntar a opinião do 
+computador sobre uma certa posição, ou mesmo antes de olhar as partidas críticas em uma 
+variante que esteja interessado, sempre tentava formar opinião sobre o que estava acontecendo 
+no tabuleiro. Entretanto, parece que ele parcialmente perdeu este hábito”. 
+Uma excelente descrição do provável erro dos analistas. Muito cuidado com essas 
+avaliações rápidas do computador. Nas posições críticas, deixe-o analisando ao menos uma hora 
+antes de tentar sacar qualquer conclusão. A máquina avalia muito mal as posições de desequilíbrio 
+material, como a deste exemplo. Para avaliar corretamente alguns sacrifícios a longo prazo, você 
+deverá confiar no velho e bom cérebro humano. 
+24.bxa6 era uma opção crítica, mas tampouco salvaria as brancas. 24...¦xf2 25.¢xf2. 
+Agora as pretas têm duas formas de continuar, igualmente efetivas. 25...£h5 sugestão do Leko.  
+(25...£h6 sugestão do Marin. 26.¢e3. As opções são igualmente perdedoras: 
+ a) 26.¢g2 g4! 27.fxg4 £e3–+;  
+b) 26.¢g1 g4 (26...¥xg3–+) 27.¤e4 (27.f4 ¥xf4! 28.gxf4 g3! 29.hxg3 ¤g4–+) 27...£h3–+;  
+ 
+26...¥b5 27.c4 (27.a7 ¥f4+! 28.gxf4 gxf4+ 29.¢f2 £xh2+ 30.¢e1 £e2#; 27.¥c4 g4+ 
+28.¢d3 £g6+ 29.¢e3 ¥xc4 30.¤xc4 ¥b8–+) 27...¤d5+! 28.cxd5 (28.¢d3 ¥xa6–+) 28...g4+ 29.f4 
+£xh2 30.¥c4 £xg3+ 31.¢e2 ¥xc4+ 32.¤xc4 £f3+ 33.¢d2 ¥xf4+ 34.¢c2 £xd5 35.a7 (35.¢b3
+
+¥b8–+) 35...£xc4+ 36.¢b1 £xc1+ 37.¢a2 £c4+ 38.¢b1 £d3+ 39.¢a2 £a6+ 40.¢b1 £xa7 
+41.¦xa7 g3–+) 
+ 26.¢e3 
+ a) 26.¢g2 g4–+; 
+ b) 26.¤f1 ¤e4+! 27.¢e3 ¥xf1 28.a7 £xh2 29.a8£+ ¢g7–+; 
+ c) 26.¢g1 ¥xg3! 27.hxg3 £h3 28.a7 £xg3+ 29.¢h1 g4!! 30.a8£+ ¢g7 31.£b7 (31.¦a7 
+£e1+ 32.¢g2 gxf3+–+) 31...£e1+ 32.¢g2 gxf3+ 33.¤xf3 (33.¢xf3 £e2+ 34.¢g3 ¤h5+ 35.¢h4 
+£h2+ 36.¢g4 £g3+ 37.¢xh5 ¥g6#) 33...£f1+ 34.¢g3 ¤h5+ 35.¢h4 £h1+ 36.¢g4 £g2+ 37.¢xh5 
+£h3+ 38.¤h4 (38.¢g5 £g3+ 39.¢h5 ¥g6#) 38...¥e2+ 39.¢g5 £g4#; 
+ 26...¥xa6 27.¦xa6 £xh2 28.¦xc6 £xg3–+] 
+  
+24...¥xe2 25.bxa6 £d3!-+  
+O computador começa avaliando essa posição como vantagem decisiva branca, mas 
+gradualmente vai mudando de opinião. Repito: muito cuidado com avaliações rápidas. Deixe o 
+computador analisando e dê uma olhada na posição no tabuleiro por alguns minutos. Na maioria 
+das vezes você terá uma avaliação mais precisa depois disso.  
+26.¢f2  
+O computador demora um certo tempo para entender que as brancas tomam mate depois 
+de 26.a7 £e3+ 27.¢g2 ¥xf3+! 28.¤xf3 £e2+ 29.¢g1 ¤g4! 30.a8£+ ¢g7.   
+ 
+XIIIIIIIIY 
+9-+-+-+k+0 
+9+-+-+p+p0 
+9P+pvl-sn-+0 
+9+-+-+-zp-0 
+9-+-zP-+-+0 
+9+LzPq+PzP-0 
+9-zP-sNlmK-zP0 
+9tR-vL-+-+-0 
+xiiiiiiiiy 
+Jogam as pretas e ganham 
+ 
+ 
+26...¥xf3! 27.¤xf3 ¤e4+ 28.¢e1 ¤xc3! 29.bxc3 £xc3+ 30.¢f2 £xa1 31.a7 h6! 32.h4 g4 0-1 
+ 
+ 
+Uma dura derrota para Kramnik, mas provavelmente ele aprendeu uma lição que jamais 
+esquecerá. 
+ 
+ 
+Uma forma muito interessante de se treinar a utilização do computador é jogar partidas por 
+correspondência. Há alguns anos, fiquei fascinado por esta prática. No meu caso, tecnicamente, 
+não se tratava de xadrez por correspondência, mas passei a jogar partidas em alguns sites, com o
+
+tempo de reflexão de três dias por jogada. O grande valor desta prática é que seu adversário, por 
+mais fraco que seja, fará uso dos principais programas de análise, portanto você não vencerá se 
+simplesmente jogar as sugestões da máquina. Será preciso interagir e descobrir idéias “humanas”. 
+Recomendo jogar em sites desse tipo para qualquer jogador que queira desenvolver sua análise e 
+aprimorar-se no uso do computador. Eis um exemplo interessante da época em que eu disputava 
+várias partidas pela internet: 
+ 
+Rafpig − Chess−Star 
+Gameknot, 2004 
+ 
+ 
+Antes, uma pequena explicação. Rafpig era o meu nickname no site (por que será?), 
+Chess-Star era o nick do meu adversário. Gameknot é um dos sites que promove esse tipo de 
+partida. O tempo de reflexão era 3 dias por lance. 
+ 
+1.e4 c5 2.¤f3 d6 3.d4 cxd4 4.¤xd4 ¤f6 5.¤c3 g6 6.¥e3 ¥g7 7.f3 ¤c6 8.£d2 ¥d7 9.¥c4 
+¦c8 10.¥b3 a5 11.a4 0-0 12.0-0-0 ¤e5 13.g4 ¤c4 14.¥xc4 ¦xc4 15.b3 ¦c8 16.h4 h5 17.gxh5 
+¤xh5 18.¦hg1 ¦e8 19.¢b1 ¢h7 20.f4 e6 
+Meu adversário jogou a abertura de forma imprecisa e não há dúvida a respeito da 
+vantagem branca. Entretanto, é preciso jogar corretamente para não dar chances ao meu 
+adversário, que iria se defender com lances de computador. As sugestões do Fritz não me 
+pareciam convincentes aqui, Então, decidi olhar a posição com olhos humanos por algum tempo. 
+ 
+XIIIIIIIIY 
+9-+rwqr+-+0 
+9+p+l+pvlk0 
+9-+-zpp+p+0 
+9zp-+-+-+n0 
+9P+-sNPzP-zP0 
+9+PsN-vL-+-0 
+9-+PwQ-+-+0 
+9+K+R+-tR-0 
+xiiiiiiiiy 
+Qual o melhor lance para as brancas? 
+ 
+ 
+ 
+As engines recomendavam três lances: 21.f5 ou um salto de cavalo a b5, seja com o de d4 
+ou com o de c3. Após 21.f5, concluí que as pretas não teriam problemas: 21...exf5 22.exf5 ¥xf5 
+23.¤xf5 ¥xc3 24.£d5 £f6. Os saltos a b5 pareciam mais interessantes. Mesmo assim, sentia que 
+poderia encontrar uma solução talvez mais precisa, ou no mínimo mais original. Afinal, não queria 
+simplesmente reproduzir as conclusões da máquina. E encontrei uma jogada muito interessante. 
+ 
+21.¦g5!
+
+Uma idéia bastante direta, mas impossível de ser encontrada pelo computador. O plano 
+branco é sacrificar a qualidade em h5 no momento oportuno, abrindo linhas de ataque ao rei preto. 
+Como escrevi anteriormente, as engines têm muita dificuldade em avaliar corretamente sacrifícios 
+posicionais. Não é surpresa que nenhum dos programas entendeu minha jogada, sugerindo às 
+pretas 21... ¥f6 ou 21... ¥h6, “forçando” a torre intrusa a retroceder. Era justamente com isso que 
+eu contava. 
+ 
+ 21...¥f6? 
+ 
+ Meu adversário confia cegamente nessa sugestão, mas este lance permite o sacrifício 
+decisivo. O mesmo resultado ocorreria após 21...¥h6: 22.¦xh5! gxh5 23.e5! 
+ O computador a partir deste momento começa a reconhecer o perigo e vai mudando a 
+avaliação, se bem que continua a gostar da posição preta. 
+  23...f5 
+ Uma tentativa desesperada, mas as opções não são melhores. (23...¥c6 24.¤xc6 ¦xc6 
+25.¤e4+-; 23...¦xc3 24.£xc3 £xh4 25.£c7 £d8 26.£xb7+-; 23...d5 24.£d3+ ¢h8 25.f5+-) 
+ 24.exf6! 
+ O computador tem dificuldade para encontrar este lance. 
+ 24...£xf6 25.£d3 
+ (25.¤e4 £e7 26.£d3 também daria um ataque decisivo às brancas) 
+ 25...¢h8 
+ (25...£g6 26.¤e4+-) 
+ 26.¤e4 £f8 27.¤f3 com ataque decisivo. 
+ 
+A única forma de complicar a partida seria 21...e5! Agora as brancas teriam duas opções:  
+A) 22.fxe5 escolha mais posicional. 22...dxe5 (22...¦xe5 23.¤f3±) 23.¤f3 com vantagem. 
+B) 22.¤f5!? que leva a grandes complicações onde o preto está à beira do precipício, mas 
+ainda não vi como arrematar a partida contra a melhor defesa.   
+22...exf4!  
+(22...¥xf5 23.exf5 ¥f6 (23...¥h6 24.fxe5 ¥xg5 25.¥xg5±; 23...exf4 24.¥d4±) 24.¦xh5+ 
+gxh5 25.£e2 ¦xc3 26.¦g1 ¢h6 27.fxe5+ ¦xe3 28.£xe3+ ¢h7 29.£e2! ¢h6 30.£d2+ 
+¢h7 31.£d1! com esta manobra as brancas protegem a primeira fila, preparando o 
+arremate. 31...¢h6 32.exf6 £xf6 33.¦g5+-) 
+ 23.¥d4 ¥xd4 24.£xd4 f6  
+A posição parece horrível para as pretas, mas elas escapam por um fio nas variantes 
+que seguem. 
+25.¦xh5+
+
+(25.¦xg6!? ¢xg6 26.¦g1+ ¤g3 (26...¢h7? 27.£d1+-) 27.¤xg3 fxg3 28.¦xg3+ ¢h7 
+(28...¢f7 29.£d5+ ¥e6 30.£h5++-) 29.£d5 ¢h6 com empate) 
+ 25...gxh5 26.¤d5 ¦e5 27.¤xd6 ¥g4! 28.¤xc8 ¥xd1 com boas chances de salvar a 
+partida, por exemplo: 29.¤ce7 ¢g7 30.¤f5+ ¦xf5 31.exf5 ¥g4 32.¤xf4 £xd4 33.¤e6+ 
+¢f7 34.¤xd4 ¢e7 com contra-jogo suficiente para o empate.  
+ 
+22.¦xh5+! 
+O sacrifício que eu havia preparado descaradamente e que foi subestimado por meu 
+adversário. O ataque branco é demolidor. 
+ 22...gxh5 23.£e2 ¦h8 
+23...¢g8 perderia para 24.£xh5 ¥g7 25.¦g1+-  
+O arremate mais bonito ocorreria após 23...¦xc3 24.¦g1 ¢h6 25.¥d2! ¥xd4 26.f5+ ¥e3 
+27.¥xe3+ ¦xe3 28.£xe3+ ¢h7 29.¦g5 £f6 30.¦xh5+ ¢g8 31.£g3+ ¢f8 32.£xd6+ £e7 (32... ¦e7 
+33.e5+-)  
+ 
+XIIIIIIIIY 
+9-+-+rmk-+0 
+9+p+lwqp+-0 
+9-+-wQp+-+0 
+9zp-+-+P+R0 
+9P+-+P+-zP0 
+9+P+-+-+-0 
+9-+P+-+-+0 
+9+K+-+-+-0 
+xiiiiiiiiy 
+Jogam as brancas e ganham 
+ 
+ 
+33.f6! £xd6 34.¦h8#   
+ 
+24.¦g1 ¥g7  
+ 
+XIIIIIIIIY 
+9-+rwq-+-tr0 
+9+p+l+pvlk0 
+9-+-zpp+-+0 
+9zp-+-+-+p0 
+9P+-sNPzP-zP0 
+9+PsN-vL-+-0 
+9-+P+Q+-+0 
+9+K+-+-tR-0 
+xiiiiiiiiy 
+Jogam as brancas e ganham
+
+25.¤f5! 
+ 
+Este elegante sacrifício decide a partida. 
+ 
+ 25...exf5 26.¥d4 £xh4 
+ 
+  
+26...f6 27.£g2 £f8 28.£g6+ ¢g8 29.¤d5+- 
+ 
+ 27.¦xg7+ ¢h6 28.£g2 1-0 
+ 
+As pretas não têm defesa satisfatória contra a ameaça 29. £g5. Acredito que nesta partida 
+consegui mesclar as análises humanas com as de computador de forma quase ideal.  
+ 
+ 
+ 
+Esta introdução mostrou a importância de dedicar várias horas diárias ao aperfeiçoamento 
+do cálculo, assim como os principais métodos de treinamento. Nos capítulos seguintes, veremos 
+temas mais específicos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“O cálculo de variantes é o maior defeito de 90% dos enxadristas. Nesta apostila você tem 
+um guia completo do que fazer para superá-los. Mas não se esqueça, o cálculo é como manter a 
+forma física. Você deve praticá-lo continuamente”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Todos os direitos reservados 
+contato@academiarafaelleitao.com 
+endereço eletrônico: 
+www.academiarafaelleitao.com 
+Rafael Leitão

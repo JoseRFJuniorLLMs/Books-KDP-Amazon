@@ -1,0 +1,420 @@
+"""
+OS MELHORES JOGOS DE XADREZ DE NEZHMETDINOV  
+por Rashid N. Nezhmetdinov  
+Traduzido do russo por Karen Taylor  
+Editado por Dale Brandreth, Jack O'Keefe e Richard Cantwell  
+Análise verificada por Richard Cantwell e Fritz 6.0  
+CAISSA EDITIONS  
+YORKLYN, DE  
+2000
+
+OS MELHORES JOGOS DE XADREZ DE NEZHMETDINOV  
+por Rashid Nezhmetdinov  
+Publicado pela Caissa Editions  
+uma divisão de Dale A. Brandreth, Books  
+Caixa Postal 151  
+Yorklyn, DE 19736  
+EUA  
+ISBN 0-939433-55-9  
+Todos os direitos reservados. Nenhuma parte deste livro  
+pode ser reproduzida em nenhum formato ou por nenhum meio,  
+eletrônico ou mecânico, incluindo fotocópia, gravação ou por qualquer  
+sistema de armazenamento e recuperação de informações sem  
+permissão escrita da editora.  
+© 2000 por Dale A. Brandreth
+
+Em memória eterna de 
+Rashid Nezhmetdinov  
+uma estrela do xadrez de primeira magnitude  
+um verdadeiro mago do xadrez  
+Dale Brandreth
+
+Rashid Nezhmetdinov
+"""
+
+PUBLISHER'S FOREWORD 
+To English-speaking chess devotees the name of Rashid Nezhmetdinov is not all 
+that well known, whereas in eastern Europe and especially in the former USSR his 
+name is synonymous with very deep combinations and fierce attacks. 
+In part his lack of fame outside of the former Soviet bloc is due to his having 
+never played in the West and having played in only a few international tourneys, 
+with the exception of Bucharest 1954 rather minor ones. 
+In addition, Nezhmetdinov often had rather inconsistent results, one day beating 
+a world champion and the next day losing to a player in the bottom half of the 
+tournament. Had he been concerned only with his tournament score, who knows 
+how many top flight tournaments he might have won. But no, that was not 
+Nezhmetdinov's style. He was a true seeker of truth on the chess board. Where 
+others sought glory in point totals, he sought glory in the inherent beauty of the 
+particular game he was playing. How else can one explain his sublime victory over 
+Polugayevsky at Sochi in 1958? The subtlety and hidden power of his moves in 
+that game betray the soul of a chess "magician". As with some of Alekhine's 
+games, one senses an intuition beyond the realm of explanation. Even fast modem 
+chess-playing programs have difficulty in finding the ultimate truth in such games. 
+Mark Kac, the eminent mathematician, once wrote something to the effect that if 
+one were to rank the leading physicists of modem times, a very talented colleague 
+might say that with proper dedication and in his best moments he could see how he 
+might be able to achieve some of their notable results. But in the case of some, 
+such as Richard Feynman, one must simply admit that even after the demonstration 
+of his idea, and after prolonged thought about it, he cannot fathom how Feynman 
+could find his way through vast complexities to reach the result. Those who 
+conceive of the methods to attain these results are simply "magicians". 
+Nezhmetdinov was a chess magician. 
+In chess, unlike nature, we at least know all the rules, and yet understanding how 
+players such as Tal, Alekhine, and Nezhmetdinov can find their way though a maze 
+of deeply complex positions still defies us, but sharpens our appetite for seeing 
+such phenomenal games. 
+While Nezhmetdinov was inconsistent, he still did accomplish enviable overall 
+results. He was five times the champion of the RSFSR, and a five-time finalist in 
+the Soviet Union championships, and was a prize winner in five international 
+tournaments. 
+But the greatest indication of his outstanding chess talent is his record against five 
+world champions. Out of twenty games Nezhmetdinov won six, drew nine, and 
+lost five. 
+In a recent chess column Nigel Short speaks of the tyranny of ELO-ratings and 
+says of Nezhmetdinov: " ... he thrice defeated Mikhail Tal (in four encounters) and 
+would wipe the floor with many contemporary grandmasters." 
+Nezhmetdinov was also very successful as a chess teacher and trainer. He was a 
+consultant to Tal in his first match for the world title against Botvinnik and helped 
+him greatly in achieving that victory. In 1962 Nezhmetdinov was awarded the title 
+of Honored Trainer of the USSR. 
+The publication of this book has a rather long and convoluted history. Although 
+the translation has been in my hands for some twelve years, there were quite a few 
+impediments in the way of quick publication. For one, the translation needed much
+
+"Revisando e revisando devido à sua nature técnica do xadrez com termos especiais, frequentes erros tipográficos e ocasionais erros de fato no original texto russo da primeira edição do livro. Neste trabalho, Jack O'Keefe, com seu conhecimento de ambos o russo e o inglês e sua habilidade extraordinária em clarificar o inglês, fez uma excelente contribuição. Sem seus esforços, não vejo como eu poderia ter chegado a um resultado tão próximo. Ambos Jack O'Keefe e Richard Cantwell examinaram a análise críticamente e deram muitas melhorias e sugestões valiosas. Estou eternamente em dívida com eles por sua habilidade e perseverança. Qualquer erro ou falha restante é minha própria. Eu sempre estou ansioso para melhorar e aceitar sugestões de leitores. 
+
+Nós fizemos algumas revisões significativas. Dois novos jogos e um novo final foram adicionados, e alguma análise de abertura antiga foi excluída. A lista de torneios e resultados de Nezhmetdinov foi corrigida e estendida, mas não inclui eventos de equipe em que ele jogou para o RSFSR ou o Clube Esportivo Spartak. 
+Um livro de tamanho maior com uma versão completa de todos os jogos anotados de Nezhmetdinov será publicado pela Edições Caissa logo em seguida. O equilíbrio dos jogos não anotados no texto será dado sem notas. 
+Em todo o caminho para finalmente publicar este livro, foi um longo e difícil processo para todos nós, mas estou muito orgulhoso de ser capaz de trazer os jogos de Nezhmetdinov para o mundo falante de inglês. Eu acredito que aqueles que joguem sobre esses jogos terão um sentido maior do único arte da beleza do xadrez a seu melhor. 
+Dale Brandreth 
+Yorklyn, Delaware"
+
+MY EARLIEST GAMES 
+(1929-1936) 
+In September of 1923, on the stairs of the Second Palace of Soviets on Lenin St. 
+in Kazan, I accidentally found a piece of paper with unintelligible figures and 
+signs on it while I was in the middle of a game of hide-and-seek. I quickly picked 
+it up and put it in my pocket. (They were already looking for me and I needed to 
+find a place to hide.) 
+That evening at home I remembered the mysterious paper. I did not know 
+Russian well at that time and worked out its contents with difficulty. It turned 
+out to be the chess column of the magazine Smena. In it, the rules of play and the 
+moves of the pieces were explained. That was the "theory", but what about 
+practice? 
+A few days later, I arrived quite early for a meeting of the first Pioneer group 
+of the Communist Club. I went into the reading room to look at the pictures on 
+the wall and (if I was successful) the magazines on the tables. 
+Here I noticed a group of adults bending over the tables. On the tables were the 
+same "things" (as I called the pieces then) as on the piece of paper that I had 
+carefully kept, and which I went over and studied almost every night. 
+Going up carefully to the "uncles", I stood quietly to observe what they were 
+doing. I rejoiced when I discovered that they moved the "things" exactly as was 
+explained on my piece of paper. 
+But I rejoiced even more when one of the "uncles" answered my shy question, 
+"May I playa game with you?" with a smile: "Yes, you may." Great was the 
+astonishment of the grownups when I won all my games with them (they were, of 
+course, beginners). 
+That evening I went home filled with joy. Now I had another important piece 
+of paper. It was a note from Samsonov, the director of the club (who had 
+arrived toward the end of play), to the City chess club: " He shows promise; 
+please admit him to the club." 
+"He shows promise"- I was proud of that description. But at the club they 
+quickly put me in my place. There, they all won from me right up to 1927. 
+With no notion of theory and, on top of that, too interested in "blitz" chess, I 
+was slow to make progress. 
+The turning point came in 1927. After a break of almost a year (when I took a 
+complete vacation from chess), I achieved a Category III ranking, skipping over 
+Category IV. That winter in the first city Pioneer championship I finished first, 
+winning all 15 of my games. 
+But suddenly my aptitude for checkers also revealed itself. After learning the 
+rules of that game in January of 1928, I took second place in the Kazan 
+championship in February. In July I became the RARO champion (Region of 
+Autonomous Republics and Oblasts), and in October I achieved Category I rank 
+at the RSFSR championship in Moscow. 
+Chess also started to "soften up" a bit. I finished first in a minor tournament 
+in the spring of 1929, finished first in the semifinals in the winter, and finally 
+won the title of champion of Kazan in May of 1930. 
+In checkers, to be sure, improvement came more quickly. By 193] I was close 
+to master strength.
+
+The formation of my chess style took place from 1930 to 1936. I still paid little 
+attention to theory, but sometimes played over games from the books of 
+Alekhine and Capablanca. 
+An important influence on my game was my contact with the leading players of 
+Odessa in 1931-1933, when I lived and worked there. 
+By the time I returned to Kazan in 1933, I had already learned to win regularly 
+against average Category I players. 
+In 1934-1935 I was mainly occupied by the study of checkers. Only in 
+November and December of 1936 at Rostov-on-Don did I "cross swords" for the 
+first time with the strongest first category chessplayers: Ufimtsev, Dubinin, 
+Kopayev, Grechkin, Bastrikov, and others. They gave me a good trouncing. My 
+ignorance of elementary theoretical principles told on me. It was necessary to 
+undertake a serious study of chess. 
+Games 1-5 below were played between 1929 and 1936. 
+1. White: Samsonov 
+Kazan 1929 
+Vienna Game 
+1. e2-e4 
+e7-es 
+2. Nbl-c3 
+The Vienna Game. In this opening, 
+White tries to open the f-file by f2-f4 
+in order to develop an attack on the 
+black King (at f7). 
+In case of an 
+exchange on f4, besides the open file 
+White gets pawn superiority in the 
+center (d- and e-pawns vs. ad-pawn). 
+In several variations White intends to 
+storm the castled King by f2-f4-f5 
+and g2-g4-g5. Black in tum tries to 
+hinder White's flank attack by a 
+counter-thrust in the center (d6-d5). 
+2. ... 
+NgS-f6 
+One of the best responses, preparing 
+the advance d7-d5. Also possible is 
+2 .... Bc5, in order to take control of 
+the center square d4 and the diagonal 
+a7-gl. 
+3. f2-f4 
+The brilliant Russian player 
+Alekhine preferred the continuation 
+3. Bc4 followed by d3 to prepare f2-
+f4. 
+However, by 3 .... Nxe4, Black 
+gets sufficient counterplay. 
+After 3 .... Nxe4 4. Qh5 Nd6 5. Bb3 
+(if 5. Qxe5+ Qe7 6. Qxe7+ Bxe7 7. 
+Bb3 Nf5 and after c6 and d5 Black 
+has a solid position) 5 .... Nc6 6. Nb5 
+2 
+g6 7. Qf3 f5 S. Qd5 Qe7 9. Nxc7+ 
+KdS 1O.NxaS b6, the fight is very 
+sharp. Black, in spite of his sizable 
+loss of material has, apparently, the 
+better chances since his attack is very 
+dangerous. 
+The following example shows how a 
+player unfamiliar with opening 
+variations gets into difficulties. In a 
+1940 game against the Kazan 
+Category I player Ingenol I fell into 
+this line for the second time (the first 
+was against Saigin in the 1939 Kazan 
+championship, where I drew with 
+difficulty). After long consideration, 
+White found the following fantastic 
+plan of mobilizing his forces: Qd5-
+d3, Qd3-fl, Qfl-gl, h2-h4, Qgl-h2, 
+0-0. White ultimately won this game, 
+exploiting poor play by Black. 
+But now I would on no account 
+want to repeat 
+this 
+artificial 
+maneuver. 
+3 .... 
+d7-ds 
+A counter-thrust in the center is the 
+best reply to a flank attack. 
+4. f4xes 
+Nf6xe4 
+5. Ngl-f3 
+5. Qf3 and 5. Qe2 are often played 
+here. 
+5. ... 
+BfS-b4 
+I played the opening without having 
+any real idea of opening theory. 
+Unfortunately, I learned the strength
+
+of many theoretical variations by my 
+own bitter experience .... 
+As is generally known,S .... Be7 and 
+5 .... Nc6 are good continuations. 
+In the latter case, the interesting 
+variation 6. Qe2 Bf5 7. Qb5 a6 S. 
+Qxb7 (S. Qxd5 Nb4!) S .... Nb4 9. 
+Nxe4 de 10. Nd4 RbS 11. Qa7 Bc5 
+12. Qxc5 Qxd4! 13. Qxd4 Nxc2+ 14. 
+Kf2 Nxd4 gives Black the advantage. 
+6. Qdl-e2 
+Stronger here is 6. Be2 with a good 
+game for White. 
+6. ... 
+Bb4xc3 
+7. b2xc3 
+Bc8-g4?! 
+Activity at all cost! This is the way 
+I generally played at the beginning of 
+my chess career. 
+This move is the beginning of a 
+combination by Black which, if 
+White plays correctly, leads to a 
+draw. Black should castle, to put his 
+King in a safe position. 
+Then a 
+position with about equal chances 
+would arise. 
+8. Qe2-b5+ 
+This inexact move gives Black 
+tactical counterplay. Correct was S. 
+Ba3!, and White gets significant 
+chances for an attack on Black's King 
+which is caught in the center. 
+I will cite one possible variation: S . 
+... Nc6 9. 0-0-0 Nxe5 10. Qb5+ c6 11. 
+Nxe5! cb [Here the zwischenzug 11 . 
+... Qc7! foils White's line: e.g., 12. 
+Qb4 Bxdl 13. Bd3 0-0-0 14. Nxc6 
+Qxc6 15. Rxdl KbS and Black 
+remains the exchange ahead.-RSC] 
+12. Bxb5+ Bd7 13. Bxd7+ Qxd7 14. 
+Nxd7 Kxd7 15. Rhfl with a marked 
+advantage for White in the endgame. 
+8. ... 
+c7-c6? 
+S .... Nc6 is more active; then 9. 
+Qxb7 is risky because of 9 .... O-O!, 
+and if 10. Qxc6? Bxf3 11. gf 
+[Instead White should play 11. h4! 
+though after 11. ... Bg4 Black still has 
+the better position-RSC] Qh4+ and 
+White loses material. 
+3 
+In this case better is 9 Be2 Bxf3 10. 
+Bxf3 (10. Qxb7? 0-0) 10 ... 0-0 with 
+chances for both sides. 
+9. Qb5xb7 
+Bg4xf3 
+10. Qb7xa8 
+Instead of such a straightforward 
+attempt to win material, White should 
+make a deep appraisal of the specific 
+features of the position. 
+Then he 
+would probably have found this 
+promising sacrifice of the exchange: 
+10. gf! Qh4+ 11. Kdl Nf2+ 12. Ke2 
+Nxhl 13. QcS+ QdS (13 .... Ke7?? 
+leads to mate after 14. Ba3+) 14. 
+QxdS+ KxdS 15. Bg2. 
+In this 
+position, Black's small material 
+advantage is outweighed by White's 
+large positional advantage; a strong 
+pawn center, two active bishops, and 
+the lack of coordination of Black's 
+pieces are grounds for evaluating this 
+line in White's favor. 
+10 .... 
+Bf3xg2 
+11. Bfl-e2? 
+Suicide. 11. Bxg2 is correct and 
+after 11. ... Qh4+ 
+12. Ke2 (worse is 
+12. Kdl since after 12 .... Qg4+ 13. 
+Kel O-O! 14. Rgl Qh4+ 15. Kdl Qf2 
+16. Rfl Qxg2 Black has a strong 
+attack, for example: 17. Kel Qxh2 
+IS. Ba3 Ng3 winning) 12 .... Qf2+ 
+13. Kdl O-O! 14. Bxe4 de 15. ReI 
+Black should force a draw by 
+perpetual check (15 .... Qf3+ 16. Re2 
+Qfl+ etc.). 
+11. 
+12. Kel-dl 
+Qd8-h4+ 
+Ne4-f2+
+
+13. Kdl-el 
+14. Kel-dl 
+IS. Rhlxel 
+Nf2-d3++ 
+Qh4-el +! 
+Nd3-f2 mate 
+The first and only "smothered 
+mate" in my career. It was only many 
+years later that I noticed that the final 
+attack in this game recalls the ending 
+of a game by the famed Italian master 
+Gioacchino Greco (1600-c.1634). 
+2. White: Korchmar 
+Categories I and II Tournament 
+Odessa 1931 
+Queen's Pawn Opening 
+1. d2-d4 
+2. Ngl-f3 
+3. Bc1-gS 
+4. e2-e3 
+d7-d5 
+NgS-f6 
+e7-e6 
+If White refrains from c2-c4 then 
+he generally keeps the Queen bishop 
+behind the pawn chain e3-d4-c3 (or 
+develops it to b2 to control the 
+squares d4 and e5). 
+To this end, White aims for the 
+following scheme of development: 
+d4, e3,c3, Nf3, Bd3, Qe2, Nbd2, 0-0, 
+e4, Nxe4, in order to attack Black's 
+castled King position. 
+Black, on the other hand, must keep 
+in mind active counterplay in the 
+center to hinder White in organizing 
+his attack. 
+4. 
+S. Bfl-d3 
+6. Nbl-d2 
+BfS-e7 
+0-0 
+c7-c5 
+4 
+7. c2-c3 
+S. Nf3-eS 
+9. f2-f4 
+b7-b6 
+BcS-b7 
+NbS-d7 
+Treating the opening in an original 
+way, White has obtained a position 
+rich in attacking chances. However, 
+with the following move, Korchmar 
+begins an incorrect plan involving 
+queenside castling. 
+By exploiting 
+White's queenside weaknesses, Black 
+is the first to organize an attack. 
+10. 0-0 is correct with a later 
+transfer of the rook from f1 to h3 
+for an attack by the pieces. 
+10. Qdl-f3 
+Nd7xe5 
+11. f4xe5 
+This allows the following dangerous 
+attack by Black's knight. The right 
+move is 11. de. 
+11. 
+12. BgSxe7 
+13. 0-0-0 
+Nf6-e4! 
+QdSxe7 
+13. Nxe4? does not work since after 
+13 .... de White loses a piece (14. 
+Bxe4 Qh4+). After 13. Bxe4 de 14. 
+Qe2 (14. Nxe4? Qh4+) 14 .... cd, 
+Black also has good prospects. All 
+the same, this 
+was 
+the best 
+continuation for White. 
+13. ... 
+f7-fS 
+Before starting queens ide oper-
+ations, Black firmly strengthens the 
+position of his centralized knight and 
+takes away any attacking possibilities 
+by White. The tactical basis for this 
+move lies in the fact that after 14. ef

@@ -1,0 +1,6155 @@
+Xadre
+comGarr
+Kasparo
+Traduqao ' 
+Bazan Tecnologia e Lingtifstica 
+Fabio Santos de Goes 
+Ediouro
+
+Nota~ao Alg6brica. . . . . . . . . . . . . . . . . . . . . . . . . . .
+LI<:;Ao 1 Por Que Estudar Xadrez? . . . . . . . . . . . . .
+L1(;Ao 2 Id6ias e T6cnicas . . ...... . .. . ... .. . .
+u<;:Ao 3 Equilibrio Material . . . . . . . . . . . . . . . . . .
+u<;:Ao 4 A Importancia do Centro . . . .. .... . . ..
+u<;:Ao 5 Como Ganhar Espa~o . .. ... . . .. .....
+u<;:Ao 6 Estruturas de Pe6es ..... . ...........
+u<;:Ao 7 Dinarnismo e Iniciativa ... . ..... . .. . .
+Evitando Desastres na Abertura . . . . . . . .
+u<;:Ao 9 Negligenciando os Principios da Abertura
+u<;:Ao 8 
+u<;:Ao 10 0 Objetivo da Abertura .......... . . ..
+u<;:Ao 11 A Escolha da Abertura ... . .. . . . . . . . . .
+u<;:Ao 12 AArte do Planejamento . . . . . . . . . . . . . .
+u<;:Ao 13 
+For~ando as Continua~6es .... . . . . . . . .
+u<;:Ao 14 Sacrificios de Dama . . . . . . . . . . . . . . . . .
+u<;:Ao 15 Estratagemas Taticos ... . ..... .. ... . .
+u<;:Ao 16 0 Final. . . . . . . . . . . . . . . . . . . . . . . . . . .
+u<;:Ao 17 M6todos de Ataque . . . . . . . . . . . . . . . . . .
+u<;:Ao 18 Ataque ou Defesa? . . . . . . . . . . . . . . . . . .
+u<;:Ao 19 Contra-ataque . . . .. . ........ . ..... .
+u<;:Ao 20 A Oposi~ao .... . .. . . .. .... . .... . . .
+u<;:Ao 21 0 Ataque no Final . . ..... ... . . .. . ...
+u<;:Ao 22 Fortalezas no Tabuleiro . . . ..... . . . . .
+u<;:Ao 23 A Beleza do Xadrez . .... . . . . ........
+u<;:Ao 24 Dedique-se Bastante ..... . ....... . ...
+fndice de Jogos e Posi~6es .. . . ..... . ... . ......
+
+Os lances que aparecem neste livro sao escritos segu
+algebrica", uma denomina<;;ao pomposa para descrev
+muito simples de se anotar os movimentos. Os leitores q
+familiarizados com 0 sistema podem passar direto 
+propriamente ditas; mas aqueles que s6 conhecem a not
+ou que tenham pouca experiencia em xadrez irao co
+material que se segue. Partimos do principio de que os
+j a sabem jogar xadrez. 
+Cada pe<;;a e representada por urn simbolo, conform
+Peao 
+£3, 
+6 
+Cavalo 
+III 
+Bispo 
+~ 
+4 
+Torre 
+1:1 
+Dama 
+1W 
+2 
+Rei 
+~ 
+As casas do tabuleiro sao descritas por meio de 
+coordenadas, a cada uma correspondendo urn par for
+letra e urn numero -
+a letra para a coluna e 0 numero 
+(veja 0 diagrama). A casa marcada com urn X e deno
+principio e exatamente 0 mesmo aplicado no jogo "bata
+ha misterio algum nisto!
+
+A proposta da revista Sport in the 
+URSS, de publicar uma serie de 
+li~6es minhas para os seus leito-
+res, me pegou urn pouco de sur-
+presa; porque eu mesmo ainda 
+estou estudando as sutilezas do 
+xadrez. 
+Depois de pensar urn pouco, 
+eu resolvi que, escrever a respeito 
+da minha compreensao e da mi-
+nha interpreta~ao dos fundamen-
+tos do xadrez, tambem seria uti! 
+paramim. 
+Eu sou urn apaixonado pelo 
+xadrez; esta paixao ja dura muitos 
+anos e e para sempre. Eu estou 
+sempre estudando xadrez, e estu-
+dando minuciosamente. Mesmo 
+quando eu analiso aquilo que ja 
+fiz e tra~o pIanos para 0 futuro, 
+nao consigo deixar de me impres-
+sionar diante da inesgotabilidade 
+do xadrez e de me tomar cada vez 
+mais convencido da sua imprevi-
+sibilidade. Veja por voce mesmo: 
+j a foram disputados milh6es de 
+partidas e milhar
+ram escritos, sob
+tos do jogo. E as
+existe urn metoda
+la capaz de garan
+ha criterios, ma
+comprovados, pa
+quer urn lance, q
+posi~ao . Os exp
+nao tern duvidas 
+ria das posi~6es , 
+continua~ao reco
+da urn escolhe 0 
+com base na su
+riencia, capacida
+mesmo carater. Ne
+sibilidade do emp
+tadores, para anal
+no presente, uma
+nao foi encontrad
+[definitivo] da pa
+e nao ha program
+de Ii dar confiavel
+complica~6es m
+que falar a respe
+posicr6es e esta
+
+veneer e 0 resultado e importante 
+para eles -
+0 que significa que 0 
+xadrez e urn esporte. Ele desen-
+volve a for~a de vontade e ajuda 
+as pessoas a se tomarem mais 
+fortes." 
+E como pode alguem conven-
+cer outro da corre~ao da opiniao 
+daqueles que sempre se impres-
+sionam com a beleza das combi-
+na~6es e da l6gica das taticas do 
+xadrez? Para estes urn engenhoso 
+sacriffcio da Dama em uma parti-
+da perdida e uma fonte de prazer, 
+ao passo que uma partida mon6-
+tona, for~ada, os deixa indiferen-
+tes. Para estes 0 xadrez e uma ar-
+te, capaz de trazer felicidade e 
+de dar senti do aos momentos de 
+lazer. 
+Ao mesmo tempo, ha tambem 
+muitos entusiastas capazes de pas-
+sar noites em claro resolvendo urn 
+problema do tipo: "Por que as 
+Pretas moveram a Torre para a 
+casa d8 em vez de mover 0 Cava-
+10 para a casa c6? Por que a posi-
+~ao das Pretas e melhor?" Para 
+estes 0 xadrez e principalmente 
+6 
+meiro admirando
+mo, e depois busc
+nhas pr6prias par
+tentando jogar bo
+ram os estagios 
+mento -
+como ur
+arte do xadrez. M
+epoca em que com
+tir com os outros
+em tomeio ap6s
+quer dizer que tiv
+trilhar 0 carninho 
+esporte. Eu ainda
+bonito, mas nao 
+indiferente aos m
+a se vou ganhar 
+ultimas posi~6es.
+Eu quero venee
+rotar todos, mas
+com estilo, em u
+portivo honesto. 
+mundial, Mikhail
+eu considero meu
+acadernico do xad
+Tho me ajudou a a
+cientificamente. E
+rnim 0 prazer de
+resolver os inum
+mas do jogo. Ao
+
+vencido de que a minha afei~ao 
+por todos estes aspectos do xa-
+drez ira contribuir para preservar 
+a minha paixao, pelo resto da mi-
+nha vida. 
+Meus pais me ensinaram a mo-
+ver as pe~as quando eu tinha cin-
+co anos, e eu fiquei fascinado. Urn 
+ana mais tarde, fui levado para 
+urn grupo de xadrez no Clube de 
+Jovens Pioneiros em Baku, on de 
+eu me imaginava em urn reino de 
+jogadores de xadrez. Desejando 
+convencer-nos do carater parado-
+xal do xadrez, 0 nosso instrutor 
+arrumou as pe~as sobre 0 tabulei-
+ro, logo em uma das primeiras 
+sess6es; vej a 0 diagrama a seguir. 
+Esta posi~ao, onde os peque-
+nos Pe6es derrotam 0 inimigo, era 
+tao surpreendente que parecia urn 
+conto de fadas, e tomei-me incapaz 
+de viver sem 0 xadrez desde enmo. 
+Sempre admirei esta posi~o. 
+Eu sempre gostei de atacar 
+desde a infancia; ainda gosto de 
+jogar na of ens iva. Dediquei mui-
+to tempo para estudar os funda-
+mentos, que parecem nao ter ne-
+7 
+nhuma influencia
+go mas que -
+es
+-
+sao necessario
+Grande Mestre
+ra urn amador que
+rar 0 seu jogo e o
+resultados em torn
+gir 0 seu alto p
+urn Grande Mestr
+tar milhares de h
+centenas de partid
+jamais se desenv
+manho trabalho. S
+jogar xadrez mas 
+para dedicar-se a u
+pendente, mas ass
+derrotar seus am
+que gastar alguma
+ras debru~do sob
+Nesta serie de
+expor a minha co
+fundamentos, em
+que seja clara pa
+sobre as sutilezas 
+cindiveis aos ver
+tes do xadrez.
+
+Antes de discutir os fundamentos 
+da partida de xadrez, eu gostaria 
+de mostrar urn trecho de uma par-
+tida, e apresentar alguns com en-
+tarios meus preparados especifi-
+camente para 0 jogador de nivel 
+medio. Espero que, apos ler a mi-
+nha analise, voce seja capaz de 
+ver, por si mesmo, que qualquer 
+urn que queira prover seus movi-
+mentos de significado e beleza 
+precis a de muito conhecimento. 
+G. Kasparov -
+F. Gheorghiu 
+Moscou 1982 
+1 
+d4 
+Os jogadores experientes sa-
+bern que este lance, assim como 
+o lance do Peao do Rei para a casa 
+e4, e 0 mais logico e direto, ou 
+para falar de modo mais simples, 
+o melhor para se iniciar uma par-
+tida. Cada urn de voces pode che-
+gar Ii. mesma conclusao, apos es-
+8 
+tudar por duas o
+principios basico
+primeiros estagio
+locar as proprias
+tao rapido quant
+sumir 0 controle 
+buleiro. 
+1 
+Este e urn dos 
+mentos para as P
+poem uma pe<;:a e
+dem que 0 adve
+seu Peao para a c
+a consolidar seu d
+centro. 
+2 
+c4 
+Agora as Bran
+avan<;:o do Peao 
+casa d5, pois, ne
+cd as Pretas terao
+tre 3 ... ~xd5 4 
+Brancas desenvo
+ao passo que as 
+mover novament
+celerando 0 dese
+
+centro, todos eles controlando 
+posi<;:6es importantes no lado das 
+Pretas, ou seja, as casas cS, dS, eS 
+e fS. 
+Vamos voltar as primeiras li-
+nhas da nossa analise do movi-
+mento 2 c4, onde dissemos que 
+"as Brancas impedem ... ". Este e 
+o inicio de urn conflito conscien-
+te no jogo de xadrez. ldeias se 
+chocaram, 0 comb ate come<;:ou. 
+Quanto maior for a habilidade e 0 
+conhecimento de urn jogador, 
+tanto melhor estara ele capacita-
+do a detectar a ocorrencia de tais 
+microconflitos, dos quais ha de-
+zenas em uma partida, e tanto me-
+Ihor sera tambem 0 seu julgamen-
+to sobre as consequencias e as 
+a<;:6es futuras. 
+2 
+e6 
+As Pretas abrem uma passa-
+gem para 0 Bispo, e, como se 
+querendo compensar 0 tempo 
+perdido, preparam-se para levar 0 
+seu Peao da Dama para a casa dS. 
+3 
+tZ'lf3 
+As Brancas tern uma boa gama 
+de continuacr6es fortes, inclusive 
+9 
+As Pretas preoc
+seu Bispo na casa
+se para coloca-lo 
+sicrao principal de
+sa b7 ou na posi<;:ii
+4 
+a3 
+Para entender e
+aparentemente pa
+saria uma com pre
+de medidas preve
+partida. Este mov
+das Brancas evit
+Preto possa exerc
+ativa a partir da
+mesmo tempo pr
+<;:iio do Cavalo B
+onde ele pode de
+papel vital na luta
+4 
+5 
+lLlc3 
+Ambos os lad
+car logo as pe<;:
+modo a consolid
+fiscalizacriio das c
+tabuleiro. 
+5 
+As Pretas forta
+mente, a sua pos
+Mesmo assim, 0
+
+continuar imobilizado por algum 
+tempo. Embora uma tal caracte-
+ristica na posi~ao das Pretas nao 
+seja capaz de, por si so, deterrni-
+nar 0 sucesso das Brancas, e 0 
+acumulo consistente de pequenas 
+vantagens como est a que perrnite 
+a urn Grande Mestre virar 0 jogo 
+a seu favor. 
+7 
+~e2 
+Urn outro microconflito se de-
+senvolve na partida em torno do 
+lance e4, que permitiria as Bran-
+cas ocuparem 0 centro. Ao esco-
+Iher este lance as Brancas levam 
+em considera~ao que apos 7 e4? 
+liJxc3 8 bc ..txe4 as Pretas ga-
+nham urn Peao. 
+10 
+9 
+be 
+Aqui h3. urn n
+parte das Brancas
+ram colocar urn fo
+no centro e esta
+controle da quint
+de "territorio inir
+dores de xadrez 
+"vantagem em es
+9 
+10 ..tbS+
+11 ..td3 
+Em xadrez ne
+linha reta corres
+distancia entre d
+mover 0 Bispo p
+lances, as Branca
+beneflcios do que
+so 0 tivessem mo
+retamente. As Pre
+abdicar do lanc
+contra 0 xeque, 
+..tb5+ ltJc6 11 liJ
+~c713 ~xa7 na
+Brancas venceria
+Pretas fica em um
+liz na casa c6, 
+suas proprias pe~
+de xadrez costum
+
+exercer urn papel ativo naquela 
+cas a, de onde ele atuaria sobre 0 
+centro controlado pelas Brancas. 
+Po de ser que as Pretas nao quises-
+sem dar as Brancas a vantagem 
+do par de Bispos ap6s 11 ... 0-0 
+124Je5, mas este teria sido 0 me-
+nor de do is males, uma vez que 
+na situa~ao presente 0 Rei Preto 
+permanece no centro. Teria sido 
+mais razoavel se as Pretas bus cas-
+sem a seguran~a do seu mona rca 
+retirando-o do centro, tao logo 
+quanta possivel. 
+12 0-0 
+J a que as Pretas demoram a 
+colocar seu Rei em seguran~a, as 
+Brancas decidem abrir 0 centro a 
+qualquer custo (removendo os 
+Pe6es das colunas centrais). Para 
+isto elas afastam 0 seu Rei da zo-
+na de comb ate deixando a area 
+livre para a a~ao das Torres. 
+12 ... 
+h6 
+Uma medida preventiva, simi-
+lar ao lance 4 a3, que impediu 0 
+lance das Pretas ... ~b4. Mas 12 
+... 0-0 seria mais adequado. 
+11 
+As Brancas ce
+re, antevendo a a
+na da Dama. 
+13 ... 
+J a e tarde dema
+rocarem. Depois 
+d5 (urn sacrificio
+ed (14 ... .tb7? e
+ca, pois com 15 d
+Pretas teriam pro
+sa do seu Cavalo
+d7) 15 ed ~b7 16
+as Brancas obtem
+passado no centro
+14 d5!
+
+"Aquele que esti em vanta-
+gem deve agir nipido." Esta era 
+uma das maximas do grande pen-
+sador do xadrez e primeiro cam-
+peao mundial Wilhelm Steinitz 
+(1836-1900), que formulou as 
+leis basicas da estrategia enxa-
+dristica. Uma analise da heran~a 
+classica deixada pelos corifeus do 
+passado e util para todos os entu-
+siastas do xadrez e uma necessi-
+dade para aqueles que desej am 
+estudar seriamente e melhorar 
+seujogo. 
+Na partida ant
+sacrificaram ap
+para obter tudo 
+abrir as colunas c
+as pe~as Pretas n
+rna e manter 0 
+no centro. As B
+mente venceram
+tagio da partida -
+e fizeram por me
+de a~ao consisten
+para capitalizar t
+preciso agir de 
+preciso.
+
+De modo a avaliar corretamente 
+o equilfbrio de fon;,:as em urn ta-
+buleiro, e preciso, antes de tudo, 
+estar ciente do valor comparativo 
+das pe<;as. 0 Rei ocupa uma po-
+si<;ao excepcional aqui, ele nao 
+tern pre<;o. Ele nao po de ser tro-
+cado, e qualquer amea<;a ao mes-
+mo deve ser elirninada, ou a parti-
+da terrnina imediatamente. A pe-
+<;a mais poderosa e a dama, que 
+em media costuma ter 0 valor de 
+uma Torre, urn Bispo e urn Peao 
+e meio. Vma Torre tern aproxima-
+damente 0 valor de urn Cavalo ou 
+Bispo e urn Peao e meio. E por 
+ultimo, urn Bispo ou urn Cavalo 
+sao mais ou menos equivalentes 
+a tres PeDes. 
+Mas alem do valor nominal de 
+cada pe<;a, h<i urn valor real que se 
+modifica ao longo da partida. Es-
+ta no<;ao mais sutil e import ante 
+reflete a importancia de cada pe<;a 
+no que se refere a sua carga de 
+13 
+traballio, em urn 
+(na hora de urn l
+perspectivas, qu
+posi<;ao especific
+do plano de jogo. 
+reta da for<;a real
+cad a lance, determ
+parte a extensao 
+umjogador. 
+Ano<;ao de van
+no xadrez reside n
+de for<;as. Quando
+uma vantagem m
+aumenta-Ia, de m
+resistencia de seu
+mantem a vanta
+tantas pe<;as quan
+entrar na fase fina
+acontece de urn j
+material deliber
+por exemplo, go
+posi<;ao do Rei, e
+sacrificar pe<;as
+PeDes, de modo 
+defesa. Foi deste
+
+Se nos imaginassemos que 0 
+Peao na casa d4 nao estivesse no 
+tabuleiro, veriamos que os Bispos 
+Brancos atacam exatamente os 
+dois PeDes Pretos que protegem 0 
+Rei, que nao tern nenhuma outra 
+prote~ao. Tudo is to exige urn at a-
+que-reHimpago cujos fins -
+rou-
+bar do Rei suas ultimas defesas 
+-
+justificam os meios, que neste 
+caso representam a perda de urn 
+Peao Branco e do formidavel par 
+de Bispos. 
+Em primeiro lugar e necessa-
+rio abrir caminho para 0 Bispo na 
+casa b2. 
+17 d5! 
+IS cd 
+ed 
+.txd5 
+o proximo passo e eliminar as 
+defesas do Rei. 
+14 
+20 
+21 .txg7 
+Vma serie de 
+xou 0 Rei Pre to en
+em uma posi~ao 
+Branca representa
+~a. 
+22 llle5! 
+23 
+~g4+ 
+24 
+~f5 
+25 llld7+
+Se 25 ... ~f7 a
+cern imediatam
+~h7+ ~e6 27 l
+'tte4+ ~d6 29 "'e
+26 l'lxd7 
+27 
+~h7
+
+Ha urn certo equilibrio mate-
+rial na posi<;:ao acima. Vma Torre 
+e urn Peao Brancos confrontam 
+urn Bispo e urn Cavalo. Ainda 
+assim as pe~as Pretas estao mal 
+posicionadas, especialmente 0 
+Rei, e as Brancas penetraram na 
+setima horizontal com duas de 
+suas pe~as mais fortes. 0 final da 
+batalha esta pr6ximo. Tudo de-
+pendera de quao rapido as Bran-
+cas possam trazer uma de suas 
+Torres para a casa g3. No entanto, 
+o ultimo lance das Pretas arrna 
+discretamente uma cilada, para os 
+jogadores afoitos. 
+28 "fHh8+ 
+Se as Brancas tivessemjogado 
+28 .trd3 de imediato as conse-
+qiiencias seriam desastrosas, ja 
+que as Pretas fariam urn sacriffcio 
+de Dama -
+28 ... ~xf2! 29 ~xf2 
+.tcS+ e llxh7 a seguir. A replica 
+29 llxf2? e ainda pior, seguindo-
+se mate com 29 ... 1lc1 + 30 nn 
+.tcS+ 31 ~h1 .llxf1 mate. 
+15 
+E impossivel r
+~f8 porque se se
+sacrificio com 32 
+llxd8 mate. 0 Re
+dirigir-se para 0 ce
+ro, e em noventa e
+dos casos, isto e si
+rota. 
+32 
+~g8+ 
+33 g4+ 
+34 rId4+ 
+35 
+~b3+ 
+E as Pretas aban
+Nao e preciso 
+os jogadores dev
+respeitar os princi
+xadrez, inclusive 
+tivos das pe~as , m
+a diversidade de 
+regra, que torna 0 
+tao fascinante. Ta
+yam a situa<;:6es d
+comuns, onde 0 c
+costuma ser enco
+tuic;ao e pela exp
+parte das minhas 
+lembro de urn trec
+tida que eu estude
+
+Sem que houvessem conclui-
+do 0 desenvolvimento de suas pe-
+~as, os adversarios iniciaram urn 
+embate feroz em que 0 equilibrio 
+material de for~as perdeu a sua 
+importancia imediata. Acoisa vi-
+tal ali era avaliar carretamente 0 
+alcance e a eficacia das pe~as. 
+18 ... 
+4Jxb3 
+19 4Jc6 
+As Brancas pretendem tomar a 
+Dama com este lance, mas entre-
+gam material demais em troca. 
+19 
+4Jxal 
+20 4Jxd8 
+21 
+~f3 
+22 nxe7 
+23 
+~xf4 
+~f5! 
+l:taxd8 
+~xb1 
+llxd4 
+A posi~ao se alterou, alem de 
+qualquer possibilidade de reco-
+nhecimento, em cinco lances. 
+16 
+Dois Cavalos e um
+lem, de algum mo
+uma Dama e, alem
+Branco nao se enc
+mente no jogo. O
+sultado desta luta
+agilidade da Dam
+24 'iWg4! 
+25 'iWe6+ 
+26 'iWf5 
+27 b3 
+Tal temia mais
+que Pre to iniciand
+Iid1 + 28 ~h2 4
+acabam par jogar 
+que for~a as Bran
+rem 0 jogo ainda 
+28 llxg7 +
+29 
+~h6+ 
+30 'iWxf8+
+31 be 
+Mais uma vez 
+formou-se radicalm
+cas tern apenas a 
+PeDes no ataque.
+
+32 g3 
+33 h4+ 
+34 ~h2 
+~e4 
+~g4 
+~f5! 
+Panno visa entregar uma pec;a 
+(35 f3+ ~xf3 36 'iWxf5+ ~e3) de 
+modo a trazer 0 seu Rei para 0 
+flanco da Dama. Por isto e que as 
+Brancas a recusam, preferindo a 
+oportunidade de manter 0 Rei ini-
+migo no flanco direito, ao alcance 
+dos seus Pe6es. 
+35 'iWf6 
+h6 
+36 'iWe5 
+l'le4 
+37 
+~g7+ 
+~f3 
+38 ~c3+ 
+llle3 
+Urn empate mais simples dar-
+se-ia com 38 ... ~xf2 39 'i!Vxc2+ 
+~f3 . 
+39 
+~gl 
+40 fe 
+41 'i!Ve1 
+41 ... I:l:e6 42 e
+outro caminho 
+urn empate, ja qu
+acabariam defen
+outras, com 0 Re
+lizado em uma ja
+42 'i!Vfl +
+43 'ii'xc4
+44 
+~fl+
+45 'i!Vxa6
+Agora a Dam
+com urn auxilio 
+sado na cas a a2. F
+definiu 0 result a
+mas trata-se de a
+outra lic;ao.
+
+As casas e4, d4, e5 e d5 no centro 
+do tabuleiro sao muito importan-
+tes. Elas comparam-se a uma co-
+lina do alto da qual pode se ver 
+todo 0 campo de batalha ou lan<;ar 
+urn ataque nocauteador a qual-
+quer alvo no tabuleiro. 
+Express6es tais como "luta pe-
+10 centro", "controle do centro" e 
+"rninar 0 centro" tam bern refle-
+tern instantes cruciais da batalha 
+e sao vel has conhecidas de qual-
+quer jogador experiente. 
+Aluta pelo centro come<;a mes-
+mo nos primeiros lances. 0 lado 
+18 
+que conquista um
+centro (ou 0 ocu
+garante uma facil
+suas pe<;as, de urn
+do tabu1eiro, 0 qu
+vanta gem para su
+Cern anos atnls
+centro era bern m
+metido e cavalhei
+cas em geral corri
+o centro com os s
+punham-se razoa
+crificar material. 
+as aberturas em q
+material, estavam
+1 
+e4 
+2 
+f4! 
+Atualmente a
+comum e 0 cont
+d5 3 ed d4!, torn
+central mais sutil
+3 
+ttJf3 
+Wilhelm Stein
+oficialmente con
+meiro campeao m
+de jogar 3 d4, de
+
+6 
+i!t xf3 
+~f6 
+7 
+d3 
+~h6 
+8 
+lDc3 
+tLle7 
+9 
+~xf4 
+d6 
+10 
+~xh6 
+~xh6 
+11 
+~xf7+ 
+~d8 
+12 l:lf6 
+~g5 
+13 !laO 
+Esta foi a continuaC!ao de uma 
+das partidas disputadas pelo gran-
+de enxadrista russo Mikhail Chi-
+gorin, em 1878. As Brancas sacri-
+ficaram uma peC!a e desencadea-
+ram urn forte ataque, onde a sua 
+superioridade no centro des em-
+penhou urn papel decisivo. 
+o eminente enxadrista ameri-
+cano Paul Morphy (1837-1884) 
+19 
+2 
+tLlf3 
+3 
+~c4 
+4 
+b4 
+5 
+c3 
+6 
+0-0 
+7 
+d4 
+8 
+cd 
+9 
+lDc3 
+N aquela epoca
+teressantissima n
+dever a atual p
+abertura espanho
+urn Peao, as Bran
+clara vantagem 
+elas man tern urn 
+Pe6es que, se u
+escudo s6lido,
+
+defesa algunaa. 
+As Pretas nao podemjogar 9 ... 
+lLlf6 porque ai se exp6em ao at a-
+que 10 e5! de 11 ..ta3! ..txd4 12 
+~b3! ..te6 13 ..txe6 fe 14 'ilkxe6+ 
+lLle7 15 lLlxd4 ed 16 llfe1! 
+Considera-se que a melhor 
+resposta para as Pretas e 9 ... ..tg4, 
+continuando apos 10 ..tb5 conalO 
+... ..td70u 10 ... ~f8. J. Amous de 
+Riviere fez urn lance natural, naas 
+infeliz, que permitiu, as Brancas, 
+tirar partido de uma outra vanta-
+gem, do seu par de Pe6es no cen-
+tro -
+a sua naobilidade. De fato, 
+enquanto os Pe6es estao fixos na 
+casa e4 e d4 eles provocam uma 
+20 
+naovel  de Pe6es 
+portante na hora 
+chances de ambo
+batalha que se anu
+9 
+10 lLldS 
+11 lLlf4! 
+12 eS! 
+o Peao central 
+uma situa~ao na 
+ena vez de desen
+~as, tern de se pr
+defesa do seu Re
+urn esfor~o forrni
+naaior parte das pe
+ainda presa nas su
+ciais. E neste pon
+cas -
+valendo-s
+gem com rela~ao
+pe~as efetivarnent
+combate -
+exec
+ra~ao tipica: abri
+minando os seus 
+e tanabern os do
+dar passagem as 
+Quando 0 centro
+papel das pe~as au
+ravelnaente, e 0 
+men to e revestido
+
+xe5? 14 lLlxe5! tifxeS? 15 .l:rel, 
+ap6s 0 que as Brancas ganham a 
+Dama. E 0 Peao do Rei continua 
+a movimentar-se para a £rente. 
+14 e6 
+14 ... 
+f6 
+As Pretas nao melhoram a sua 
+situa~ao com 14 ... fe 15 lLlxe6 
+~xe6 16 ~xe6! 'tiff6 17 'tifd7+ 
+~f8 18 ~b2! (por isso e que 0 
+Peao saiu da casa eS) 18 ... 'tifxb2 
+19 'tiff7 mate. Agora 0 Peao na 
+casa e6 divide 0 contingente das 
+Pretas em dois e 0 seu valor e 
+revestido de uma importancia 
+ainda maior. As Brancas s6 preci-
+sam impedir que 0 Rei Pre to 
+consiga fugir para urn dos lados. 
+21 
+Agora as Preta
+zer nada contra a
+em a8 ap6s 21lL
+nem contra a ame
+importante ~h5+.
+ximo. 
+20 
+21 lLlb3 
+22 ab 
+23 'tthS+
+Com 23 ... g6 2
+se a Dama. 
+24 wdl
+Nao ha como 
+conseqiiencias d
+berto (25lLlb6+; 
+coluna da Dama
+inimigo a Torre),
+tas abandonara
+
+exemplo, ocuparum posto avan-
+c;:ado" no centro, que de modo 
+geral permite que as pec;:as pos-
+sam ser utilizadas de modo mais 
+vantajoso, determinando assim 
+uma superioridade em relac;:ao ao 
+adversario. 
+T. Petrosian -
+Kozma 
+Munique 1958 
+1 
+ttJf3 
+ttJf6 
+2 
+d4 
+e6 
+3 
+~g5 
+c5 
+4 
+e3 
+b6?! 
+o modo despretensioso como 
+as Brancas jogam a abertura, dirni-
+nuiu a vigilancia das Pretas e per-
+mitiu que, par causa deste lance 
+aparentemente natural, seu ad-
+versario ocupasse urn posto avan-
+c;:ado no centro com uma pec;:a. 
+5 
+d5! 
+ed 
+6 
+llJc3 
+~b7 
+7 
+tiJxd5! 
+8 
+~xf6 
+9 
+~xd5 
+~xd5 
+'tlI'xf6 
+As Brancas tern urn farte posto 
+na cas a d5, ja que as Pretas nao 
+22 
+podem forc;:ar a 
+desta posic;:ao no
+ces. Ao mesmo te
+dades das Pretas n
+rna sao permanen
+quirir grande imp
+Os enxadrist
+nunca dao inicio
+flancos sem antes
+posic;:6es no centr
+No diagrama a
+cas, sem terem fe
+ttJc3, iniciaram 
+Pe6es na ala do R
+te nao e uma amea
+de. Em uma par
+pondencia, entre 
+magin, em 1964, 
+ram 0 perigo que
+para as Brancas (
+tante convincente
+1 
+2 
+cb 
+3 
+ed 
+4 
+~xe4
+
+A 4 fe seguir-se-ia 4 ... ttJe5!, 
+mas ainda assim as Brancas fi-
+cam em uma posi~ao desconfor-
+tavel. 
+4 
+~xg4 
+5 
+~f4 
+~hS 
+6 
+~f2 
+ttJeS 
+7 
+~g2 
+~d6 
+8 
+~a4 
+l:tc8! 
+9 
+ttd2 
+~f6 
+Em poucos lances a posi~ao 
+Branca, que parecia salida, des-
+moronou a partir de urn contra-
+ataque no centro no momento 
+correto. A partida continuou: 
+10 ~gS 
+11 ttJf4 
+12 ~h3 
+Se 12 ~xf3 ttJ
+gue-se 13 ... Ilc3
+15 ~f1 Ilf3+ 16 
+12 ... 
+13 
+~g2 
+e as Brancas aba
+sequencia 14 llh
+xh3 "t!ff3+ ou 14
+~xf2 ttJd3+ e de
+Portanto, tente
+sas centrais, prot
+subestime 0 seu v
+
+Uma vez que 0 xadrez e jogado 
+em uma area limitada, as 64 casas 
+de urn tabuleiro, a dimensao do 
+espa<;o, is to e, do niimero de casas 
+conquistadas por cada lado, para 
+o posicionamento de suas pe<;as, 
+tern, em geral, grande importan-
+cia no desenvolvimento do jogo. 
+No inicio, as Brancas e as Pretas 
+control am a mesma area. Geral-
+mente, qualquer jogada na aber-
+tura visa ao controle de urn niime-
+ro maior de casas, de preferencia 
+no territ6rio inirnigo. Os Peoes, 
+ao pressionar as pe<;as maiores do 
+adversario e dar maior liberdade 
+para as pr6prias pe<;as, desem-
+penham 0 papel principal no ga-
+nho de espa<;o. Mas seu movi-
+mento tern de ser necessariamen-
+te acompanhado do apoio das ou-
+tras pe<;as, ou irao sucumbir logo. 
+Urn enxadrista experiente tenta 
+sempre assegurar a sua superiori-
+dade no centro do tabuleiro, deli-
+mitado pelas colunas c e f, onde 
+24 
+estao as melhores
+as pe<;as. 
+Para tomar a n
+mais especffica, 
+duas partidas. A p
+gada no final do s
+S. Tarrasch -
+R
+Nurembe
+1 
+d4 
+2 
+e4 
+3 
+l2Jc3 
+4 
+f4 
+5 
+lLlf3 
+6 
+~e2
+
+mais, aumentando 0 controle so
+bre 0 territ6rio inimigo. 
+No xadrez moderno, urn meto-
+do estrategico confiavel para 
+combater tais cadeias de Penes e 
+urn imediato contra-ataque de 
+Penes (geralmente com 0 apoio 
+das demais pe~as) com 0 objeti-
+vo de impedir a progressao dos 
+Penes inimigos; ou ao menos 
+abrir espa~o para as pr6prias pe-
+~as, atraves de trocas de Penes. 
+Ao mesmo se segue uma of ens iva 
+de Penes contra os Penes adver-
+sarios buscando quebrar a cadeia 
+em se~nes isoladas, ou "ilhas". A 
+variante 6 ... c5! 7 d5 e6 8 0-0 ed 
+9 ed ilustra bern este metodo. 
+Charousek, urn dos jogadores 
+mais fortes da epoca, tambem 
+tenta restringir a cadeia de Penes 
+Brancos, mas sem sucesso. Ele 
+bloqueia a movimenta~ao de suas 
+pe~as e, mais importante, torna 
+impossivel urn ataque ao centro 
+de Pe6es Brancos. 
+A posi~ao das Pretas se torna 
+extremamente deli cad a ap6s mais 
+tres lances. 
+25 
+Sob a prote~a
+Pe6es nas casas 
+~as Brancas disp
+espa~o para man
+ser reagrupadas e
+to do tabuleiro. 0
+alemao, Tarrasch
+blema de explora
+dade de urn mod
+ele inicia urn ata
+flanco do Rei. Os
+abrir espa~o par
+importantes, e a
+confinadas as du
+ras, acabarao por
+urn as as outras n
+organizar uma de
+9 
+h4! 
+Uma das regra
+drez e: "Uma of
+cos e melhor co
+contra-ataque no
+
+13 ~d3 
+h6 
+14 g5 
+~h7 
+15 
+~e2 
+mt8 
+16 ~g2 
+c5 
+17 gh 
+As Pretas abandonaram ten-
+do em vista as inevitaveis perdas 
+de material, e.g. se 17 ... ~xh6 18 
+~g5! 
+A segunda partida ilustra os 
+metodos modernos de obter uma 
+vantagem em espa<;:o. Esta parti-
+da tern uma importancia especial 
+para mim por representar a minha 
+primeira vit6ria, jogando uma 
+partida posicional contra urn ad-
+versario forte em uma competi-
+<;:ao de alto nivel. 
+26 
+Este lance nao
+mas por querer ev
+desta abertura que
+d4 ed 5 tLlxd4, bas
+pelo meu adversa
+4 
+5 
+c3 
+6 
+0-0 
+7 
+~b3 
+8 
+~c2 
+9 
+~1 
+10 tLlbd2 
+Ambos os jog
+sem pressa, parec
+com 0 mesmo su
+nao e verdade. As
+primeiras a conqu
+11 d4! 
+12 h3!
+
+As Pretas nao desejam abrir 0 
+centro, liberando jogo as pe~as 
+Brancas, ap6s 13 ... ed 141ZJxd4 ~ 
+b6 15 1ZJ2f3! ~xc4 16 lZJf5. Pelo 
+contrario, as Pretas abandonam a 
+area sob fiscaliza~ao do tridente 
+c4-d5-e4. 
+14 d5 
+~d7 
+As Pretas deveriam ter jogado 
+14 ... cd para obter espa~o para 
+manobrar no flanco da Dama com 
+... b5! posteriormente. 
+15 lZJb1! 
+~f8 
+16 lZJc3 
+c5? 
+17 h4 
+Em uma posi~ao restringida 
+como esta, a maior parte das tro-
+cas seria favoravel as Pretas, mas 
+este nao e 0 caso do seu Bispo de 
+casas brancas. Ele defende casas 
+importantes e e tambem a pe~a 
+menor que tern mais potencial. 
+17 
+a6 
+18 ~xd7 
+liJxd7 
+19 g3 
+~e7 
+20 h4! 
+As Brancas decidiram pela es-
+trategia de lirnitar a mobilidade 
+das pe~as Pretas na ala do Rei, e 
+27 
+As Brancas c
+central tambem n
+rna, pressionand
+Pretas. A sua ex
+evidente para a
+dores, mas as Pre
+manobrar suas re
+dem fazer nada a
+24 
+25 
+~d2 
+26 lZJf1 
+27 liJa4 
+28 .llec1 
+29 b4! 
+30 ~xb4
+31 lZJb6! 
+Em principio 
+tar-se de uma co
+
+ca, po is poder-se-ia exercer uma 
+pressao maior na coluna b. Mas 
+as Brancas planejavam abrir a co-
+luna c e e muito importante ter urn 
+ponto de entrada a disposi~ao . A 
+casa c7 e a melhor cabe~a-de­
+ponte para urn ataque das Bran-
+cas. 
+31 
+32 ab 
+33 
+~a3 
+.ixb6 
+~e7 
+rus 
+A ultima oportunidade de 
+resistir era impedir 0 avan~o do 
+Peao da coluna c sacrificando a 
+Torre em troca de urn Bispo -
+33 
+... IIcS! 34 .ixcS dc. Ainda assim 
+as Brancas manteriam todas as 
+chances de vit6ria. 
+Agora, porem, a of ens iva das 
+Brancas se desenvolve rapida-
+mente e de acordo com 0 planeja-
+do. 
+34 f3 
+35 c5 
+36 .txe5 
+37 c;t>g2 
+3S .te3 
+39 wb1 
+As Pretas perd
+por nao terem efe
+nas duas horas e tr
+punham. Porem, 
+llxe7 41 IIc7 a pos
+seria desesperado
+Conclusao: val
+obtenha tanta van
+~o quanta puder
+ja ganancioso dem
+trutura de Pe6es m
+pode ser bloquea
+com as pe~as adv
+do ao ataque por e
+abertas, e af qualq
+possive!.
+
+Embora os PeDes sej am os ele-
+mentos mais fracos, eles freqiien-
+temente deterrninam a progres-
+sao e 0 resultado de uma partida. 
+Se algum dos lad os tern uma van-
+tagem de 2 ou 3 PeDes, esta van-
+tagem e na maior parte das ve-
+zes suficiente para for~ar uma vi-
+t6ria. Asitua~ao e mais complexa 
+quando ha urn numero igual de 
+PeDes. Ai a avalia~ao da posi~ao 
+da-se pelo ex arne do posiciona-
+mento dos mesmos. 
+Antes da partida iniciar-se, os 
+PeDes estao alinhados nas suas 
+casas originais. Ao avan~ar eles 
+se ap6iam mutuamente e lirnitam 
+a mobilidade das pe~as adver-
+sarias. Os enxadristas experien-
+tes freqiientemente sacrificam 
+material para conseguir uma li-
+nha de PeDes m6vel, flexivel, on-
+de os mesmos se protegem mu-
+tuamente, conforme 0 diagrama a 
+seguir: 
+29 
+T. Petrosian -
+URSS vs. A
+Ocident
+1 
+tzJd5!
+2 
+cd 
+Agora os PeDe
+e5 tomaram-se 0 
+2 
+"\kja a diagra
+3 
+e6! 
+4 
+~c3 
+5 
+d6
+
+5 ... 'ClVxe6 nao e uma boajoga-
+da, ja que se perde a Dama apos 
+6..tc4. 
+6 
+'ClVxcS 
+7 hI 
+l:lfxcS 
+l:lc2 
+S 
+de 
+llxe2 
+9 
+ttdS+ 
+'ttg7 
+10 I::!cl 
+Seria urn erro promover a Da-
+rna com 10 e8'ClV, ja que apos 10 
+... llxg2+!! 11 'tth1 .l:1g3+ as 
+Brancas tomam urn xeque-mate 
+inesperado. 
+10 
+llxe6 
+11 
+~7 
+30 
+preciso usar de um
+cal: destruir toda
+men os 0 elo cen
+palavras, quebrar
+entidades separa
+de protegerem-se
+No entanto cos
+que 0 meio mais
+bater uma linha m
+seja contendo a 
+ou preparando u
+que pode ser feit
+vulnerando as cas
+Pe6es. A linha d
+nas casas c4, d5
+con tid a por urn B
+sicionado na diag
+~as se 0 ava
+Pretos for apoiado
+
+queados nao par urn Bispo mas 
+par tres Pe6es colocados nas ca-
+sas c3, d4 e e5, tal barreira seria 
+intransponfvel. 
+No xadrez moderno os dois la-
+dos tentam restringir a mobili-
+dade dos Pe6es desde 0 infcio da 
+partida. Veja esta abertura, por 
+exemplo: 
+1 
+d4 
+lLlf6 
+2 
+e4 
+e6 
+3 
+l2Jc3 
+.tb4 
+4 
+e3 
+e5 
+5 
+.td3 
+ttJc6 
+6 
+lLlf3 
+.txc3+ 
+7 
+be 
+d6 
+8 
+e4 
+e5 
+9 
+d5 
+4Je7 
+31 
+Confarme se v
+d5 e e4 enfrenta
+uma estrutura da
+sas c5 e e5, apoia
+na casa d6. Isto
+ciente para torn
+centro estavel. N
+gadores, no enta
+tringir a mobili
+com tamanha me
+propriedades di
+nhas de Pe6es o
+oportunidades d
+que pode levar 
+interessantes, 
+quando ambos o
+ferem uma partid
+tro lado, uma cad
+tacionaria, bloqu
+te leva a uma pa
+muito espetacula
+Voce ja deve 
+literatura enxad
+press6es do tip
+"Peao isolado" e
+destas denota u
+
+Apesar do obstaculo repre-
+sentado pelo Rei Preto, as Bran-
+cas, jogando corretamente, po-
+dem nao so proteger 0 Peao como 
+tambem forc;:ar a sua promoc;:ao. 
+Mas assim que movermos 0 Rei, 
+digamos, para a coluna h, 0 Peao 
+se toma fraco porque pode ser 
+facilmente atacado pelo Rei ini-
+migo. 
+Outras fraquezas comuns na 
+formac;:ao de Pe6es sao Pe6es do-
+brados ou triplicados na mesma 
+coluna. Portanto, e muito raro que 
+alguem os enfileire voluntaria-
+mente. Sua defesa e dificil, prin-
+cipalmente nos finais, onde po-
+dem se to mar a fonte de muitos 
+problemas. Mas ha excec;:6es a 
+todas as regras, especialmente no 
+xadrez. 
+32 
+Apos os lances
+1 
+2 
+4Ja4 
+comec;:am a ocor
+tabuleiro. 
+2 
+Acontece que
+estrutura de Pe6
+lhada nos Pe6es 
+ser compensado
+criativo. As Preta
+Torre sem nenhu
+rente. 
+3 
+4Jxb2
+Acontece que 
+oBispo que ate
+"dormindo" entr
+decide. 5 llxb6 cd
+d2 e urn Peao e p
+4 
+llxb6
+
+Ajogada 6bvia 4 ... ab segue-se 
+5 ttJd3 e as Brancas vencem com 
+uma pe<;:a a mais. 
+As Pretas, no entanto, respon-
+demcom 
+4 
+c4! 
+Agora a cas a d3 e tomada ao 
+Cavalo e ap6s 5 ttJxc4 0 Peao da 
+coluna c e promovido. Sera pos-
+sivel que duas pe<;:as nao sejam 
+capazes de conter dois Pe6es 
+"aleijados" rastejando pel a colu-
+na c? 
+5 
+l:[b4 
+Parece que as Brancas vao 
+vencer ja que nao ha defesa 
+contra 0 lance 6 .l:lxc4. 
+5 
+a5! 
+Trata-se de uma verdadeira 
+ode aos Pe6es. 0 Peao deixado 
+para tras que nao tomou a Torre 
+agora define 0 combate em urn 
+salta que parece irreal. Agora a 
+33 
+mente. 0 que ac
+Brancas jogassem
+posta a 2 ... llxb2
+Urn final sem
+ceu dois anos dep
+Ortueta, em Madr
+feren<;:as na posi<;
+ala do Rei. 
+N6s concluim
+ve introdu~ao as
+das estruturas de
+exemplo. Voce e
+descri<;:ao mais de
+mos, regras e ex
+nados nesta li~ao
+xadrez. 
+Gostaria de r
+principiantes que
+principios comun
+e consolidar um
+Pe6es evitando en
+to quanta possivel
+experientes podem
+~6es. E a capaci
+quando tais exce~
+que em grande me
+drez tao belo e che
+
+As regras do xadrez sao seme-
+lharites as de qualquer outro es-
+porte. E nao se aplicam apenas 
+aos esportes: aqueles que sao 
+mais ativos, habilidosos e criati-
+vos e que tern sucesso. 
+o que e en tao 0 dinamismo no 
+jogo de xadrez? Na minha opi-
+niao, dinamismo e 0 fortaleci-
+mento da pr6pria posi~ao a cad a 
+lance e as amea~as colocadas so-
+bre as pe~as inimigas. Para que os 
+lances sejam bem-sucedidos e 
+preciso que sejam adequados a 
+estrategia do jogo e baseados em 
+fundamentos taticos solidos. 
+Urn enxadrista com a reputa-
+~ao de ser urn indivfduo energico 
+tenta impor 0 seu proprio estilo ao 
+adversario, for~ando-o a lidar 
+com varios problemas. 
+Para ilustrar estes principios, 
+vamos analisar uma partida dis-
+putada pelo entao carnpeao mun-
+dial, Anatoly Karpov. 
+34 
+A. Karpov -
+Moscou
+1 
+e4 
+2 
+tLJf3 
+3 
+d4 
+4 
+tLJxd4
+5 
+tLJc3 
+6 
+g4 
+7 
+gS 
+8 
+h4 
+Alguns dos res
+tura sao obvios: 
+taram as pe~as ad
+do Rei as duas 
+com 0 Cavalo n
+queando 0 Bispo
+a propria Dama, 
+8 
+9 
+~e3 
+10 
+~e2!?
+Veja 0 diagra
+E uma ideia in
+va, que leva a
+
+equilibrada de pe~as. Karpov co-
+loca a sua Dama na coluna do Rei 
+de modo que a mesma nao fique 
+na frente da Torre na casa dl e ao 
+mesmo tempo contribua para 
+criar amea~as de combina~6es. A 
+Dama nao bloqueia 0 Bispo na 
+cas a f1 que pode ir para h3 e jogar 
+.txe6 posteriormente. Conforme 
+voce pode ver, 0 lance das Bran-
+cas e eficiente e pressiona as Pre-
+tas. 
+10 ••• 
+VJic7 
+11 0-0-0 
+bS 
+A resposta adversana e for~a­
+da. As Pretas sao empurradas pa-
+ra tras e tentam encontrar algum 
+jeito de irnpedir que as Brancas 
+executem algum lance decisivo. 
+Mas 0 jogo ja vai adiantado e 0 
+ultimo movirnento das Pretas tern 
+mais a ver com desespero que 
+com uma a~ao justificavel. 
+12 tzJxc6 
+'tifxc6 
+13 .td4! 
+35 
+dS. 
+13 ... 
+As Pretas tenta
+do CavaIo de u
+controle da cas a 
+de modo l6gico,
+tegia carece de u
+to s6lido e as su
+mal posicionadas
+as Brancas explo
+zas? 
+14 lLxiS! 
+Este e urn lanc
+eficaz ja que 0 B
+se torna mais f
+Branca entra no 
+surpresa das Pret
+
+Rei inimigo que fica preso no 
+meio do tabuleiro. 
+17 ... 
+tzJe5! 
+Eo unico jeito de resistir. Uma 
+vez que ha a amea~a de 18 ... ~g4 
+as Brancas nlio tern tempo para 
+jogar 18 f4. As Pretas tern que 
+procurar reduzir 0 potencial de 
+ataque das Brancas. 
+18 ~xe5 
+de 
+19 f4 
+Agora urn ataque de Pe6es 
+substitui 0 ataque das pe~as. As 
+Pretas nlio tern como evitar que 
+as Brancas conectem os seus 
+Pe6es pois ap6s 17 ... e4 seguir-
+se-ia a sequencia vencedora 18 d6 
+~xd6 19 ~xe4+ etc. 
+19 ... 
+~f5 
+36 
+ttxa6 ~xa6 23 h
+cide-se por troca
+casas Brancas el
+qualquer risco a c
+20 
+21 llxh3 
+22 fe 
+N a minha opin
+1Wxe4llf8 24 f5 se
+que assirn a Dam
+deria entrar no jo
+22 ... 
+As Pretas p6em
+uma posi~lio ativ
+parece alterar-se.
+23 !tdd3 
+Manobras de T
+terceira fila tamb
+das taticas prefe
+pelio. Neste caso
+s6 precede a troc
+mo tambem serve
+melhorar a coord
+~as Brancas. A c
+pe~as e urn fato
+tante que de fato d
+urn jogador de x
+dade de coordena
+~lio de cada uma
+
+prontas a apoiar 0 progresso dos 
+Pe6es centrais, ao passo que a 
+Dama protege a casa c2 e esta 
+pronta para apoiar as Torres. A 
+dupla de Pe6es (d5, e5), protegida 
+por suas proprias pe<;:as, e muito 
+poderosa. Estes Pe6es podem for-
+<;:ar 0 adversario para a ultima fi-
+leira e desorganizar as suas a<;:6es. 
+23 ... 
+"iWf4+ 
+Esta parece ser a melhor res-
+posta. Se 23 ... "iWxa2 24 d6. 
+24 ~bl 
+llc4! 
+25 d6 
+~4! 
+26 llhe3 
+As Brancas tern de trocar outro 
+par de pe<;:as, abandonando qual-
+37 
+bilidade. 
+26 ... 
+27 llxe3 
+o contra-sacri
+28 hg ~xg5 ser
+causa da rna loca
+29 d7 + ~d8 30 
+~c8+ ~e7 32 ~e
+28 
+~f3! 
+Os Pe6es Bran
+for<;:as das Pretas
+e nao M uma def
+amea<;:as de ~c6
+Peao defendido, 
+do na posi<;:ao do
+conquista de urn 
+similar, desorgan
+adversario e divi
+dades mais fraca
+28 
+29 !:leI 
+30 
+~f5 
+31 m:t 
+32 de 
+33 
+~f4! 
+As Brancas re
+<;:a e mantiveram
+queno numero de
+so melhora, ligeir
+
+ces de sobrevivencia das Pretas. 
+Quando sornente restarn algumas 
+poucas pe~as no ataque tudo de-
+pende da for~a das defesas do 
+Rei. Neste caso 0 Rei Preto nao 
+tern praticarnente defesa alguma 
+e tudo 0 que as Brancas precisam 
+e de precisao no ataque, 0 que nao 
+falta ao campeao mundial de en-
+tao. 
+33 
+34 ~h4+ 
+35 ..wxh7+ 
+a5 
+s>e8 
+~f3 
+36 ~h8+
+37 ~h4+
+38 
+~c4! 
+39 b3 
+40 .l:Ig1 ! 
+41 ~8+ 
+42 
+~h4+
+43 
+~f6! 
+44 
+~f5+ 
+45 
+~xa5
+46 1!fd8+
+47 s>b2! 
+48 m'8 
+49 
+~c8+
+50 
+~c4+
+E as Pretas aban
+Portanto, tente
+voce podeni realr
+beneficios. Deix
+interagirem bern
+rnutuarnente. Ass
+rnentani os louro
+rnais freqtiencia 
+da derrota.
+
+Tendo aprendido as no~6es basi-
+cas do jogo, 0 jogador ira perceber 
+que os lances da abertura, quando 
+quase todas as pe~as ainda estao 
+no tabuleiro, freqiientemente de-
+terminam 0 desenrolar da partida 
+e em alguns casos 0 seu final. E 
+comum que urn enxadrista, que 
+tenha dominado todos os fun-
+damentos e observado ataques 
+brilhantes jogados por Grandes 
+Mestres, tenha que passar toda a 
+partida em uma defesa mon6tona, 
+tentando consertar fraquezas na 
+sua posi~ao que se originaram na 
+abertura, mas com pouco suces-
+so. Este e 0 resultado de urn fraco 
+conhecimento da teoria das aber-
+turas e de uma carencia de habili-
+dades basicas para se jogar a pri-
+meira etapa de uma partida. 
+Uma partida de xadrez e, de 
+certo modo, semelhante a uma 
+confronta~ao rnilitar onde, como 
+se sabe, em muito depende nao 
+39 
+somente da capac
+dos equipament
+mas tambem da 
+comandantes de a
+volvimento da ba
+nar suas for~as de
+as mesmas nos 
+ordem mais favor
+que cada jogador
+movimenta~ao do
+de madeira deve
+princfpios basico
+E bern sabido
+partida de xadrez
+da e preservada p
+de. Urn enorme n
+das foi escrito ao l
+do xadrez, e a su
+a desenvolver tod
+estrategia das abe
+Eu nao pretend
+as aberturas e as 
+ticas, 0 que seria
+possivel em face
+de informa~6es .
+
+Esta e uma regra basica e e 
+muito importante aplica-Ia cor-
+retamente. 
+Vamos analisar urn exemplo 
+simples: 
+1 
+e3 
+eS 
+2 
+~c4 
+tZJc6 
+3 
+~f3 
+tZJcs 
+4 
+~xf7 
+mate 
+Parece que as Brancas fizeram 
+tudo corretamente -
+des envol-
+veram duas pe~as e deram xeque-
+mate. Ainda assim, est a linha de 
+jogo merece criticas. 
+o primeiro movimento e fra-
+co. N6s dissemos, em uma das 
+nossas li~oes anteriores, 0 quao 
+40 
+refor~ar mais um
+se, que e importan
+nar as casas com P
+mente as casas ce
+o segundo lan
+(2 ~c4) nao e 
+contestar, embora
+tantos meritos. A 
+gera~oes anterior
+melhor metoda 
+vermos nossas p
+avan~ar os Peoes
+depois mover os 
+dos dos Bispos e s
+mais fortes -
+as T
+No nosso exempl
+dire to para uma 
+tante, mas sem 
+conseqiiencias d
+lance 2 ... d5 das
+elas obteriam urn 
+tral e for~ariam 0 
+recuar para posi
+tais como d3, e2, 
+o xadrez e urn
+e uma combina~a
+midas como 1 e3 
+mo 2 ~c4 nao faz
+do e como tal m
+
+senvolver rapidamente as pe~as, 
+mas ele nao cria problemas para 
+as Brancas, 0 que seria 0 caso do 
+lance 2 ... d5!. 0 terceiro lance 
+Branco 3 'iWf3 parece eficiente, 
+mas urn enxadrista experiente 
+nao 0 teria executado; mais ate, 
+ele nem mesmo 0 consideraria. 
+Se as Pretas reagissem correta-
+mente com 3 ... 4Jf6! a jogada da 
+Dama Branca teria sido em vao. 
+E alem disso a Dama Branca ao 
+ocupar a casa f3 priva 0 Cavalo 
+do Rei de uma boa casa para agir, 
+deixando ao mesmo nenhuma 
+escolha senao ocupar urn papel 
+passivo na cas a e2 ou mover-se 
+para h3, para longe do comb ate 
+no centro. A pe~a mais poderosa 
+do jogo, a Dama, nao deve entrar 
+na batalha de modo apressado, 
+sob 0 risco de ser ca~ada pelas 
+pe~as menores do adversario, 
+com ganho de tempo. Com rela-
+~ao a jogada das Pretas 3 ... 
+~c5??, ela e logica apenas sob 
+uma otica formal (as Pretas des-
+envolvem uma segunda pe~a na 
+seqiiencia correta), pois ela perde 
+41 
+Nos ilustrarem
+princfpio-
+0 do d
+to rapido das pe~as
+tida disputada h3. 
+culo. 
+J. Schulten -
+Nova Yo
+1 
+e4 
+2 
+f4 
+Esta e uma ab
+romantica, que re
+nome, "0 Gambi
+em geral define 0 
+urn riipido avan~
+teoria moderna cr
+defesa aqui e urn c
+que foi claramen
+pelo talentoso jog
+Paul Morphy. 
+2 
+3 
+ed 
+Tomar quaisq
+nao seria born, a
+ganhar tempo e 
+suas pe~as coloc
+sas planejadas.
+
+6 
+e3! 
+Trata-se de urn sacriffcio de 
+Peao ousado e com vistas ao de-
+senvolvimento futuro, ja que a 
+Torre ira ocupar a col una do Rei 
+ap6s 0 roque. 
+7 
+~xe3 
+8 
+~d2 
+9 
+be 
+10 
+~e2 
+11 e4? 
+0-0 
+~xc3 
+~8+ 
+~g4 
+Podemos dizer, com urn grau 
+de confianc;a razoavel, que esta 
+jogada e particularmente prejudi-
+cial as Brancas. Seria preferivel 
+livrar-se da clavada na coluna do 
+Rei, de preferencia com 11 ~f2. 
+42 
+permitem que 0 
+desenvolva 0 Cav
+com muita eficac
+gem das Pretas se
+dora, na parte mai
+tabuleiro. 
+12 ... 
+13 
+~f1 
+E diffcil dar b
+para as Brancas. 
+~xd4 'tlVxd4 15 g3
+cado com 15 llx
+l:!e8, com urn ataq
+rece que ap6s 12 
+fesa para as Branc
+13 
+14 4Jxe2
+
+Toda a a ;ao se passa na coluna 
+do Rei, onde a clavada vertical 
+tern urn papel decisivo. Pois de 
+fato as amea<;as colocadas sobre 
+esta coluna for<;aram as Brancas 
+a atrasar a retirada do seu Rei da 
+clavada. Agora segue-se uma no-
+va pequena combina<;ao, trans-
+formando a clavada vertical em 
+uma ainda mais perigo sa, diago-
+nal. 
+15 'i!Vbl 
+16 '.tf2 
+17 '.tgl 
+~xe2+ 
+liJg4+ 
+o Rei come ;
+todos os lados sen
+cia do desastre. 
+Eu recomenda
+que querem dese
+habilidades de a
+este livro de lado
+30 minutos e ten
+nhos uma vito ria
+Pretas, so entao r
+vro e comparand
+com a que foi to
+Morphy. 
+17 
+18 gf 
+19 '.tg2 
+20 '.th3 
+21 '.th4 
+22 l:lbgl 
+23 '.tg5 
+Continuaremo
+princfpios das abe
+mo capitulo.
+
+Na ultima li~ao aprendemos que 
+o domfnio do centro e 0 nipido 
+desenvolvimento das pe~as em 
+larga escala determinam 0 resul-
+tado do combate na abertura; es-
+pecialmente quando a partida e 
+jogada por enxadristas experien-
+tes. Antes de prosseguir com a 
+teoria das aberturas, vamos anali-
+sar alguns erros que sao frequen-
+temente cometidos por jogadores 
+inexperientes nos estagios ini-
+ciais da partida. 
+Em primeiro lugar, e impor-
+tante lembrar que os pontos mais 
+vulneraveis na ala do Rei sao 
+aqueles que s6 con tam com a pro-
+te~ao do mesmo. Na posi~ao ini-
+cial tais pontos sao os Pe6es nas 
+casas f2 e f7. Ap6s 0 roque, tais 
+pontos sao os Pe6es nas casas h2, 
+g2, h7 e g7. A prote~ao destas 
+casas deve ser uma preocupa~ao 
+primordial. A experiencia mostra 
+que, geralmente, e nestas casas 
+44 
+que ocorrem de
+nos sistemas de 
+sofisticados. 
+Vamos analisa
+que ocorre na ant
+Abertura Italiana:
+1 
+e4 
+2 
+tDf3 
+3 
+4 
+5 
+6 
+7 
+~c4 
+c3 
+d4 
+cd 
+tDc3! 
+Em vez de jog
+7 ~d2, as Branc
+crificar do is Pe6
+em troca do desen
+pido das suas pe~
+cio tfpico de joga
+agressivo. Os me
+de luta na abertur
+dam os pr6ximos
+tas, mas e precis
+que esta partida o
+10 atras, quando n
+
+As Pretas tomaram dois Pe6es 
+adversarios mas ficaram para tras 
+quanta ao desenvolvimento. 0 
+castigo por tais viola~6es das re-
+gras de uma boa abertura vern em 
+geral de forma rapida e selvagem. 
+Esta velha analise e uma boa 
+amostra das conseqiiencias de-
+sastrosas da "ganancia" na aber-
+tura. Ainda assim voce nao deve 
+imaginar que esta partida somen-
+te tern valor hist6rico. E uma si-
+tua~ao freqiiente em simultaneas. 
+Nao se distraia capturando todos 
+os Pe6es do inimigo em detri-
+mento da mobiliza~ao das suas 
+pr6prias for~as. 
+10 1!Vb3 
+.txal 
+As Pretasmantem-se consis-
+tentes em seu desejo de ganhar 
+45 
+E chegada a 
+pagarem par ter
+desenvolvimento
+saido devorando 
+ra. Neste caso, 0
+na casa fl. As Pre
+importa 0 quant
+der-se. Por exem
+14 .tg6 d5 15 ~f
+.txe5 17 .te6+ 
+19 ~xf6+ ~e8 2
+vamente a casa f
+Alem de pers
+tro erro tipico de 
+tas e demarar par
+centro. Na pratic
+muitas partidas 
+Reis permanecem
+
+fazer 0 roque na primeira oportu
+nidade. Ao permanecer sem ro-
+car, 0 Rei po de ser atraido para 0 
+centro do tabuleiro atraves de sa-
+crificios e ai 0 desastre se torn a 
+iminente. 
+Y. Vasyukov -
+B. Lebedev 
+Moscou 1960 
+1 
+e4 
+eS 
+2 
+tilt3 
+d6 
+3 
+d4 
+tild7 
+o desenvolvimento, nao muito 
+sofisticado, das Pretas e muito 
+freqiiente em partidas de amado-
+res. A ideia perfeitamente valida 
+de fortalecer 0 posto avan~ado, 
+representado pela casa eS, no 
+centro, e executada de urn modo 
+meio esquisito, que acaba par 
+bloquear 0 Bispo da casa c8. 
+4 
+~c4 
+h6 
+E uma decisao dubia. Em vez 
+de desenvolver suas pe~as (com 
+4 ... ~e7, par exemplo), as Pretas, 
+que planejam colocar seu Cavalo 
+na cas a e6, perdem tempo impe-
+dindo a ida do Cavalo das Bran-
+46 
+~xf7+! as Pretas
+das. 
+6 
+.txf7!
+o primeiro gol
+to mais vulnerave
+6 
+7 
+tilxeS+
+Qualquer outra
+saria 0 desfecho. 
+8 
+tilc3! 
+Para trazer 0 
+fora as Brancas s
+Cavalo. As amea~
+9 ~d4 s6 podem
+urn unico modo, p
+continua~ao dive
+Pretas. Por exem
+
+8 
+c;t xe5 
+A caminhada de e8 para eS foi 
+curta, e 0 mesmo pode ser valida 
+quanta ao retorno, por isso as 
+Brancas tern de atacar sem demo-
+ra. 
+9 
+~h5+ 
+g5 
+As Pretas tentam usar 0 Peao 
+para bloquear a Dama. 0 enfra-
+quecirnento destes Pe6es nao 6 
+muito importante aqui porque 
+a pr6pria "caminhada" do Rei 
+esta cheia de perigos: 9 ... c;t>e6 
+10 "tIVfS+ c;t>e7 
+11 tLldS+ tLld6 
+12 ~f4+ c;t>c6 13 ~e6+ ~d6 14 
+tLlb4+ etc. 
+10 ..txg5! 
+47 
+As Pretas tent
+se entregando um
+10 
+11 f4+! 
+12 f5+ 
+13 t2Jd5+
+14 ~xh8 
+15 0-0-0 
+16 llbe1 
+17 tLlb4+
+As Pretas enco
+nhoso modo de co
+bate sacrificando
+posta para 17 ... c
+18 ~xd8 
+Uma id6ia diab
+Branca acaba enc
+a perecer. Mas 0 x
+
+llxd8 .txe1 21 e5! lLlg4 22 e6 
+.tb4 23 l:!rl4. 
+20 
+~xg5 
+.txe1 
+21 
+~e3! 
+Agora a situa<;ao esta clara. 0 
+Bispo das Pretas esta perdido, 
+pois a 21 ... .tb4 ou 21 ... .ta5 
+segue-se 22 ~d4! 
+21 
+.th4 
+22 ~h6+ 
+.tf6 
+23 e5 
+ru-s 
+24 ef 
+.ilxf6 
+o combate esta praticamente 
+terminado. Nao ha como conter 
+os Pe6es Brancos da ala do Rei, 
+apoiados como estao pela Dama. 
+48 
+32 f7 
+33 
+~xf7 
+34 ft'e8+ 
+35 
+~a8+ 
+36 
+~xa7 
+37 
+~a4 
+38 
+~b5+
+39 g5 
+40 
+~xb6 
+E as Pretas aban
+Para confirrnar
+acima, eu gostar
+uma partida elega
+disputada no secu
+uma analise ind
+parte dos leitores.
+M. Chigorin -
+St. Petersb
+1 
+e4 
+2 
+tLlf3 
+3 
+.tc4 
+4 
+b4 
+5 
+c3 
+6 
+0-0 
+7 
+d4 
+8 
+de 
+9 
+.td5! 
+10 .txe4
+
+11 ... 
+Ap6s 11 ... ~
+vencem com 12
+~g4 f5 14 ef 4Je
+16 f4 ~e7 17 tte
+12 lZJg5 
+13 
+~g4 
+14 
+~h4 
+15 4Je6+
+16 ~h6+
+17 
+11 
+~xh7+ 
+18 
+~xg6
+~h4+
+Urn sacrificio de Bispo exata-
+19 
+mente no ponto mais vulnenivel. 
+20 
+Como voce pode ver, 0 Rei esta 
+21 
+melhor posicionado na cas a g8 do 
+22 
+que na casa e8, mas ainda assim 
+23 
+ele nao esta 100% segura. 
+b3+
+~h7+
+'ith8+
+~g7+
+'itxf7
+
+N as duas lic;6es anteriores n6s 
+nos voltamos para os erros mais 
+comuns, cometidos por jogadores 
+inexperientes, nos estagios ini-
+ciais da partida. Tendo visto co-
+mo nao jogar uma abertura, va-
+mos agora ten tar descobrir 0 que 
+deve ser feito para conquistar 
+uma boa posic;ao desde 0 inicio. 
+Praticamente todas as instru-
+c;6es a este respeito estao presen-
+tes na lic;ao 8, onde foi explicado 
+o Primeiro Principio para 0 com-
+bate na abertura. Este principio 
+define os fatores mais importan-
+tes do desenvolvimento, que sao 
+validos independentemente de 
+como esta abertura se desenvol-
+ve. 13, preciso lembrar-se que se 
+deve liberar as pec;as para assegu-
+rar uma vantagem definitiva no 
+meio-jogo, que e onde os eventos 
+principais acontecem. Ao desen-
+volver as suas pec;as e importante, 
+especialmente para os menos ex-
+50 
+perientes, manter
+isto e, deixar esp
+brar, sem amonto
+mesmo tempo t
+que 0 adversario 
+Nao importa q
+tura, os melhores
+da lado estao sem
+dos a uma meta
+centro. As Branc
+tagem do primeir
+atingir 0 seu obje
+que as Pretas, qu
+sivel para atrapal
+
+e a Defesa Nizmo India (1 d4 tLJf6 
+2 c4 e6 3 tLJc3 i.b4). 
+Esti evidente que, desde 0 ini-
+cio, a luta se da em tomo das casas 
+centrais, e5 e e4, respectivamen-
+teo Isto e natural, j a que 0 dominio 
+do centro (significando nao ape-
+nas a sua ocupa<;;ao por PeDes mas 
+tambem 0 seu controle por pe<;;as) 
+permite 0 estabelecimento de urn 
+ponto forte de on de operar no 
+meio-jogo. 
+Vamos tentar ilustrar isto com 
+uma partida bastante elementar: 
+1 
+e4 
+e5 
+2 
+f4 
+tZJc6 
+3 
+tLJf3 
+ef 
+4 
+d4 
+d6 
+5 
+.txf4 
+tLJf6 
+51 
+Este e, alias, 0
+as partidas entre 
+em partidas sim
+mam come<;;ar. A
+parecem ter man
+desenvolvimento
+cas estao clarame
+volvidas, com urn
+PeDes e espa<;;o p
+claro que a posi<;;
+esta nem perto d
+por que compo
+mente desde 0 in
+Nos nao vam
+aqui nenhuma ab
+siderando a gran
+do gambito do R
+res inexperientes
+vessemos exami
+por tras da mesm
+1 e4 e5 2 f4 ef 3
+5 .tc4 .tg7 6 0-0
+
+As Pretas ganharam urn Peao 
+que pode ser mantido com segu-
+ran~a, e ao mesmo tempo nao ne-
+gligenciaram 0 desenvolvimento. 
+1 e4 e5 2 f4 d5 3 ed e4 4 d3 ll'lf6 
+Esta e uma tentativa de contra-
+ataque que guard a muitos peri-
+gos, para ambos os lad os, e exige 
+urn born conhecimento de muitas 
+variantes. 
+Do exemplo que se segue, tira-
+do de uma partida entre Grandes 
+Mestres, podemos ver como a ne-
+gligencia dos principios do de-
+52 
+1 
+d4 
+2 
+ttJt3 
+3 
+e3 
+Basicamente as
+se recusando a lu
+pelo centro. -As t
+garantir uma vanta
+ra envolvem, em 
+c4 ou l2Jc3. (Comp
+tida Kasparov-Gh
+~ao 2.) 
+3 
+4 
+c4 
+5 
+ll'lc3 
+6 
+ed 
+7 
+.td3 
+8 
+0-0 
+9 
+b3? 
+Urn momenta
+Brancas, na ansia 
+rem suas pe~as, n
+problemas das Pre
+o lance 9 d5!, que 
+sivel 0 desenvolv
+10 das pe~as adve
+o que digo e qu
+9 ... ed 10 cd ll
+.txd5 12 .txh7 +
+
+e claramente vantajosa para as 
+Brancas, e portanto as Pretas te-
+riam que fazer concess6es pel a 
+existencia do Peao Branco na ca-
+sa d5, 0 que restringe a sua posi-
+~ao. 
+9 
+dS 
+10 .te3? 
+Aqui e preciso dizer clara-
+mente que este lance e do tipo 
+"vamos ver no que da". 0 Bispo 
+na casa e3 foi colocado da forma 
+mais desajeitada possivel, ja que 
+atrapalha as pe~as Brancas e as 
+impedem de controlar a imp or-
+tante casa e4, para onde 0 Cavalo 
+das Pretas ira em breve. A partir 
+do que vinha jogando, as Brancas 
+deveriam prosseguir com ~b2 e 
+~e2, e en tao, dependendo do que 
+acontecesse, jogar !lac1 e l'lfd1 
+ou .l:hd1 e nEel. As Brancas te-
+riam entao mais liberdade e po de-
+riam encarar 0 desenrolar do jogo 
+com confian~a. 
+53 
+chance de conte
+das Pretas no cen
+ed. 
+12 ... 
+Agora a troca
+possive!. 
+13 ID'dl 
+As Pretas con
+si~ao do seu Ca
+Agora esta claro
+estao em serios 
+meiro lugar, as Pr
+no centro. Alem d
+das Brancas nas 
+ala da Dama esta 
+a tona. E lembram
+poderia ser evitad
+tivessem colocad
+
+As Brancas tentam controlar a 
+casa e5 tarde demais (e no mo-
+mento errado!). Teria sido mais 
+sabio passar a defesa e tentar sim-
+plificar a posi~ao atraves de uma 
+serie de trocas: 14 tilbl, seguido 
+de cd e llxc8. 
+14 ... 
+g5! 
+Valendo-se da cobertura do 
+seu Cavalo na casa e4, as Pretas 
+deslancham 0 ataque decisivo, 
+sem se preocuparem com 0 enfra-
+quecimento da posi~ao do Rei. 
+15 
+~e5 
+Uma maior resistencia seria 
+com 0 lance 15 ~e3, mas como 
+as Brancas poderiam fazer urn 
+lance deste? 
+54 
+apoiado pelo par 
+for~ar em breve
+abandonar. 
+19 tilb5 
+20 Iid7 
+Urn fecho de o
+-
+0 Bispo escap
+ganha urn tempo. 
+21 !!cd1 
+22 llxa7 
+E agora aIem d
+obtem 0 controle
+Dama. A partida t
+23 h4 
+24 fixd1 
+25 fic2 
+E as Brancas ab
+As Brancas na
+fender-se dos lan
+e3 ao mesmo tem
+ser urn born mom
+uma analise de M
+nik de uma outra
+tada entre ele e 0 
+der Sokolsky nas
+campeonato sovi
+" ... e 0 controle da
+passa gradativa
+Pretas. Aos pouco
+
+que as Brancas nao tern nenhum 
+plano de jogo e estao meramente 
+preocupadas com 0 'desenvolvi-
+mento'. 
+Talvez alguem pudesse safar-
+se jogando assim na virada do 
+seculo, mas hoje, quando todos 
+os mestres comec;:am a estabele-
+cer pIanos para 0 meio-jogo, a 
+partir do sexto ou oitavo lance, 
+nao ha forma melbor de acabar 
+em uma posic;:ao restringida do 
+que buscar apenas 0 desenvolvi-
+mento." 
+Botvinnik fala
+dos experts, e po
+minimo frivolo 
+exigir dos leitore
+preensao e analis
+c;:ao. Mas acho qu
+ex-campeao mun
+mada como urn ax
+ra qualquer pesso
+drez. Lembre-se 
+da na abertura v
+quer chance par
+ou menos como v
+partida prossiga.
+
+Tendo estudado as li~6es ante-
+riares voce arruma as pe~as e 
+pensa sobre qual sera 0 seu pri-
+meiro lance. Nao se apresse em 
+ler urn manual de aberturas -
+este s6 ira afasta-Io do caminho 
+carreto. Vamos tentar fazer uma 
+escolha juntos. Em primeiro lu-
+gar, lembre-se de que nao existe 
+nenhum lance que possa ser con-
+siderado "0 melhar" ou "0 mais 
+forte" a partir da posi~ao inicial. 
+Ha VaTIOS lances que atendem aos 
+principios de desenvolvirnento 
+na abertura, e voce deve fazer 
+uma escolha baseando-se no seu 
+gosto, no seu conhecimento e na 
+sua experiencia. 
+Eu sugiro que voce comece 0 
+jogo avan~ando urn dos Pe6es 
+centrais. Antes de me tomar urn 
+Grande Mestre eu costumava ini-
+ciar corn 1 e4! Este lance me evo-
+cava imagens de cavalheirismo 
+galante e prontidao para 0 corn-
+56 
+bate. 0 Peao Bra
+control a a irnpor
+espera par refor
+Como voce po d
+das Brancas sao 
+retas, e por isso 
+aberturas que se i
+sejam chamadas 
+"serni-abertas". 
+Assim, as Bra
+e4. Qual a melho
+as Pretas? Embor
+estranho, as Preta
+pIa escolha. Ares
+ca 6 realizar urn 
+com 0 Peao do R
+Todas as abert
+ciam por 1 e4 e5 
+ria das "abertura
+sao ricas ern hist6
+nos tomeios. 
+o Gambito do
+ef 3 till3 d5 4 ed
+esplendida saiu 
+gran des tomeios
+
+Uma outra tentativa de retirar 
+o Peao do centro -
+2 d4 ed 3 
+'lIVxd4 -
+encontrou muito pou-
+cos defensores. 0 resultado do 
+passeio da Dama 3 ... l2Jc6 4 'lIVe3 
+tDf6. 
+E que as Pretas poem seus do is 
+Cavalos emjogo, garantindo chan-
+ces iguais. 
+57 
+.tc5 6 d4 ou 4 c3
+0-0. 
+caminham lado 
+metodos modern
+senvolvimento d
+d3 d6 5 c3 tDf6 6
+
+urn teste de forr;a no xadrez. A 
+abertura tern variantes para todos 
+os gostos. A Variante das Trocas, 
+por exemplo, que e relativamente 
+simples (3 ... a6 4 ~xc6 dc) 
+a luta aberta pelo centro na Va-
+riante Aberta (3 ... a6 ~a4 lili6 5 
+0-0 tLJxe4 6 d4 b5 7 .tb3 d5 8 de 
+~e6) 
+58 
+mente, a Variant
+so mente jogadore
+bern preparados 
+dos a jogar (3 ... 
+0-0 ~e7 6 l:iel b5
+d69 h3lL'la5 10 ~
+10 d4). 
+Vamos voltar a
+segue ao primeiro
+cas. Alem do la
+Pretas podem ini
+
+DefesaEscandinava: 1 e4 d5 2 ed 
+~xd5 3 liJc3 ~a5 . Ao custo de 
+perder urn tempo recuando a Da-
+rna, as Pretas reduzem a tensao no 
+centro, esperando poder des en-
+volver as pe<;as do seguinte mo-
+do: 4 d4 liJf6 5 liJf3 ..tg4 6 ..tc4 
+e6 7 0-0 liJc6 
+seguido por ... 0-0-0. Nao e uma 
+abertura popular entre os enxa-
+dristas experientes (n6s nao gos-
+tamos de perder tempo), mas e 
+bastante aceitavel para a maior 
+parte dos jogadores. 
+A Defesa Siciiiana, que se 
+inicia com 1 ... c5, e a abertura 
+jogada com mais frequencia. As 
+Pretas desencorajam as Brancas 
+59 
+a come<;ar a estud
+ciliana em algum
+conhecidas na lin
+Dragao: 4 ... liJf6 
+g67 f3 
+(ou 7 ..te2), ou no
+veningen: 4 ... li
+..te3 e6.
+
+dade e estabelecendo urn ponto de 
+controle bern protegido na cas a 
+d5. As posi<;:Des mais criticas na 
+Caro-Kann sao, a prime ira, 1 e4 
+c6 2 d4 d5 3 e5 ~f5 4 tLJc3 e6, e 
+a segunda, 1 e4 c6 2 d4 d5 3 lLJc3 
+de 4 lLlxe4 ~f5 5 tLJg3 ~g6 on-
+de as Brancas tern uma pequena 
+vantagem. Mas nao ha fraquezas 
+na posi<;:ao das Pretas, nem en-
+traves ao seu desenvolvimento. 
+A posi<;:ao basica da Defesa Fran-
+cesa 1 e4 e6 2 d4 d5 3 lLJc3 ~b4 
+4 e5 c5 leva a posi<;:ao em que 
+os PeDes bloqueados nas casas d4 
+e e5 estao sob amea<;:a constante. 
+60 
+Estas duas abe
+deradas bastante 
+yam a urn meio-jo
+nobras complexa
+se dao a trabalhos
+tabuleiro e tern 
+usar bern 0 tempo
+estudar uma desta
+bora eu, pessoalm
+Defesa Caro-Kan
+tas desenvolvem 
+pe<;:as, ao passo em
+Francesa 0 Bispo
+fica preso pelos p
+o desenrolar
+mentos e bern m
+Brancas iniciam
+avan<;:o do Peao d
+Neste caso ap6
+lances os pIanos 
+dos nao estao cl
+guardados do ad
+as aberturas que s
+lance 1 d4 sao dita
+"semifechadas"
+bern e com efici
+
+a resposta mais basica possivel e 
+a imita~ao do lance 1 d4 com 1 ... 
+dS. 2 c4 leva a diferentes linhas 
+do Gambito da Dama. Aresposta 
+2 ... c6 leva a Defesa Eslava ou 
+2 ... e6 leva as Defesas Ortodoxa 
+ou Tarrasch. As Pretas irao tentar 
+consoli dar sua posi~ao na casa 
+dS, ao passo que as Brancas irao, 
+metodicamente, criar condi~6es 
+favoraveis para 0 avan~o do Peao 
+do Rei para a casa e4. No presente 
+seculo surgiram outros metodos 
+de desenvolvirnento que visam 
+oferecer as Pretas urn contrajogo 
+menos direto, no centro. Na De-
+fesa Nimzo india (1 d4 lili6 2 c4 
+e6 3 tZJc3 ~b4) 
+61 
+e naDefesa india
+tZJf6 2 c4 e6 3 tZJf
+as Pretas tentarn 
+trole da casa e4. 
+Na Defesa ind
+tZJf6 2 c4 g6 3 tZJ
+
+e naDefesa Grunfeld (1 d4lLlf6 2 
+c4 g6 3 lLlc3 d5 4 cd lLlxd5 5 e4) 
+as Pretas permitem que as Bran-
+cas estabele~am urn forte centro 
+de Pe6es mas adotam uma es-
+trategia de mimi-lo. 
+E aqui termina 0 nosso breve 
+esbo~o das aberturas basicas do 
+xadrez. Quando voce ler urn dos 
+varios manuais de xadrez disponi-
+veis, nao se deixe confundir pela 
+profusao de variantes que voce 
+podera encontrar. Elas refletem 
+tudo 0 que pode ser import ante 
+nos torneios, ou, em outras pala-
+vras, as leis basic
+das aberturas. N6
+a respeito e elas s
+dade absoluta par
+
+Antes de dedicar-se a qualquer 
+atividade, quase todas as pessoas 
+contemplam as opera~6es que te-
+dio de executar para atingir suas 
+metas, e tenta descobrir qual a 
+melhor sequencia para executa-
+las. 
+Eu acredito firmemente que 0 
+xadrez e, ate uma certa extensao, 
+urn espelho de vida e que, port an-
+to, 0 planejamento e uma caracte-
+ristica fundamental deste jogo. 
+o que e 0 planejamento em 
+uma partida de xadrez? E uma 
+serie de opera~6es em uma ordem 
+bern calculada que visam a urn 
+objetivo concreto, sendo que esta 
+ordem e determinada pelas posi-
+~6es que se apresentem no tabu-
+leiro e e constantemente alterada 
+pelas a~6es do adversario. 
+o plano nao deve ser confun-
+dido com 0 objetivo do jogo. Al-
+gum amador poderia pensar, "eu 
+quero dar urn xeque-mate, por is-
+63 
+so eu you jogar v
+desde 0 inicio e p
+de acordo com ur
+se de uma abo
+damente equivoc
+tern condi~6es de
+Rei do adversar
+partida. 0 mate e 
+mo do jogo e "jo
+mate desde 0 in
+mente uma vonta
+este desejo. 
+Primeiro, dese
+pe~as segundo u
+estabelecer uma 
+alguma parte do 
+Em seguida au
+para conquistar 
+cionais concreta
+materiais no meio
+Finalmente, ex
+gens no final, atra
+cimento de uma 
+rial que tome qua
+impraticavel.
+
+o plano e elaborado com base 
+em uma avalia~ao con creta da po-
+si~ao e das suas peculiaridades. 
+Portanto, e importante ser capaz 
+de analisar as forma~6es de com-
+bate de ambos os lados e com-
+preender todas as sutilezas desta 
+posi~ao . A capacidade de se ela-
+borar urn plano e executa-Io de 
+modo consistente no tabuleiro e 
+urn dos aspectos mais atraentes 
+do xadrez; as vezes, chega a ser 
+mais gratificante que, digamos, 
+lan~ar urn ataque dire to ao Rei 
+inimigo. Ese voce levar em conta 
+que, freqiientemente, os joga-
+dores disfar~am suas inten~6es, 
+lan~ando mao de manobras que 
+visam distrair 0 adversario, voce 
+entendera que jogar segundo urn 
+plano e uma grande arte. 
+E claro que demora muito para 
+que alguem aprenda a conduzir as 
+suas opera~6es no tabuleiro de 
+xadrez. Erros graves e erros me-
+nores iraQ acontecer e estes sao 
+inevitaveis. Mas acredito que 
+aprender com seus erros e melhor 
+do que jogar sem qualquer plano. 
+64 
+2 
+tZJf3 
+3 
+~b5 
+4 
+~a4 
+5 
+0-0 
+Esta e uma das
+tigas da abertur
+Ap6s cumprirem 
+tade do plano na 
+Rei do centro), as
+jam a cria~ao de
+Pe6es atraves dos
+que tambem pres
+Pre to na cas a e5. 
+malmente tentam
+Peao na casa e5 jo
+g6, seguidos de ~
+possivel montar
+
+5 
+g5?! 
+6 
+d4! 
+As a<;oes energicas no centro 
+devem ser consider ad as como a 
+melhor res posta para 0 avan<;o 
+prematuro dos Peoes da ala do 
+Rei das Pretas. Amelhor maneira 
+de se explorar 0 desenvolvimento 
+lento das Pretas e abrindo 0 cen-
+tro. a sex to lance das Brancas e 
+urn born exemplo de uma cor-
+re<;ao de urn plano anterior no 
+momenta adequado, de modo a 
+explorar as a<;oes do adversario. 
+6 
+g4 
+7 
+~xe6+ 
+be 
+8 
+llJe1 
+ed? 
+autra concessao posicional. 
+Iludido por achar que a sua van-
+tagem em conservar 0 par de Bis-
+pos lhes permitira abrir 0 centro, 
+as Pretas ainda pouco desenvolvi-
+das fazem concessoes importan-
+tes no centro. 
+9 
+"tlVxd4 
+10 "tlVa4 
+11 lZ'lc3 
+'ttf6 
+llJe7 
+Mais uma corre<;ao efetuada 
+no plano para a abertura. Esta po-
+65 
+As Brancas al
+no e se valem d
+Peao na casa c7 p
+as Pretas fa<;am 0
+do a inten<;ao d
+mobilizar suas pe
+tempo e mais do 
+pela desarrnonia 
+12 
+13 lDd3 
+14 e5! 
+Esta e a part
+Brancas que vis
+ataque ao Rei, se
+mais rapido e lim
+no centro. 
+14 ...
+
+das Pretas acabam por tornar se 
+urn fator decisivo. 
+16 ttJe2 
+17 tLJg3 
+18 ~g5+ 
+19 tz'lc5! 
+20 tt:lli5! 
+tLJg6 
+~e6 
+~c8 
+~e8 
+Os Cavalos das Brancas ga-
+nharam controle total sobre 0 ta-
+buleiro. 0 ultimo est agio do pla-
+no das Brancas e obter uma van-
+tagem material decisiva. 
+20 
+l:!g8 
+21 CiJxg7 
+22 CiJxa6 
+23 i.e3 
+24 
+~xa6+ 
+.llxg7 
+~7 
+llxa6 
+e as Pretas abandonaram logo. 
+66 
+Alem do Peao
+mente podera ser
+final, a maior van
+tas reside no con
+casas no centro: d
+f5. As Brancas tam
+chances de con
+maioria de Pe6es 
+e a coluna da Dam
+tas posi~6es sem
+acabaram em emp
+tado de lances su
+Smyslov e urn gr
+tais finais. 0 seu p
+eer consiste de tre
+damentais. 
+o primeiro es
+imediata de uma 
+evitar a penetra~a
+Dama. A outra To
+vada para com bat
+avan~o dos Pe6es
+daDama.
+
+A segunda etapa do plano e 
+criar uma amea<;a de cria<;ao de 
+urn Peao passado na col una h, 
+para que a Torre Branca, ao evi-
+ta-Io, conceda a coluna da Dama 
+a Torre Preta. 
+24 
+~f2 
+h5 
+25 
+~e3 
+g5! 
+26 Ilh2 
+nd8 
+27 m.1 
+67 
+Agora que as 
+tern que defender
+e4, 0 Rei Preto 
+dirigindo-se para 
+31 nn 
+32 
+~e2 
+33 ru3 
+34 ~
+
+Vma corre<;:ao necessaria ao 
+plano. Originalmente, a rota tra-
+<;:ada para 0 Rei Pre to era g7-g6-
+g5-g4, desde que as Torres fos-
+sem preservadas. As Brancas, no 
+entanto, bus cam a salva<;:ao em 
+urn final com Cavalos, e por isto 
+o Rei das Pretas deve manter-se 
+junto ao centro. 
+35 llxd4 
+ed 
+36 lZ'lb5 
+~e5! 
+37 lZ'lxa7 
+~xe4 
+38 lZ'lc8 
+d3+ 
+Certamente nao 38 ... e5? 39 
+lZ'ld6 mate! 
+39 ~d2 
+~d4 
+40 e5 
+41 lZ'ld6 
+E as Braneas aba
+Qual e 0 melbo
+planejar uma par
+Presumivelmente
+comentarios dos 
+tres sempre que fo
+fase especial a se
+de opera<;:6es nece
+<;:ao do objetivo fi
+Os comentario
+dos jogadores que
+king, serao altam
+para todos os am
+que desejem melb
+
+Para a maiar parte dos entusiastas 
+do xadrez, 0 jogo constitui-se nu-
+rna partida onde os fogos de arti-
+ficio, representados par ataques 
+impetuosos e combinac;oes, e que 
+encantam. Todo mundo busca 
+atacar e realizar belas combina-
+c;oes, mas muito poucos se en can-
+tam com a genuina beleza de ma-
+nobras posicionais sutis e pIanos 
+estrategicos profundos. 
+A arte do jogo posicional nao 
+e completamente apreciada par 
+aqueles que em geral nao com-
+preendem como os Grandes Mes-
+tres conseguem executar tantos 
+ataques bonitos e eficazes. Muitos 
+amadares sao tao capazes de re-
+solver problemas e estudos quan-
+to os Grandes Mestres, mas so-
+mente se mergulharem de cabec;a 
+nas complexidades do jogo e que 
+poderao perceber que as oportu-
+nidades para ataques e combina-
+c;oes eficazes nao se dao por aca-
+69 
+so; mas como re
+j ogo posicional ba
+vac;ao das leis da 
+dristica. 
+Portanto, aque
+ter sucesso em xa
+ceber que 0 jogo 
+nao se opoe ao j
+mas que, pelo co
+plementam. 
+Eu gosto de a
+sacriffcios, mas 
+nho uma firme co
+o jogo posicional
+de xadrez, refleti
+terna do combat
+fechando com o
+partida mode rna.
+A base do j og
+planejamento, do
+capitulo anterior.
+urn plano (corre
+eficaz exige tant
+versatilidade qua
+uma combinac;ao
+
+dor tern que levar em conta as 
+posi~6es que podem ser atingidas 
+dentro de alguns lances. 0 calcu-
+10 concreto, destas variantes, fre-
+qiientemente, leva a especula~6es 
+semi-abstratas acerca das posi-
+~6es a que, provavelrnente, se 
+deve chegar como resultado. A 
+capacidade de jogar de acordo 
+com a posi<;ao, ou posicional-
+mente, e importante em situa~6es 
+complexas e abstratas, quando 0 
+alvo de urn ataque ainda nao esta 
+definido ou e preciso manobrar as 
+pe~as para consolidar uma posi-
+~ao e descobrir debilidades no 
+territ6rio do adversano. 
+A simples men~ao do nome de 
+Paul Morphy, 0 brilhante jogador 
+americano do final do seculo 
+XIX, e suficiente para que muitos 
+amantes do xadrez lembrem dos 
+seus fantasticos ataques e combi-
+na~6es brilhantes. Ainda assim, 
+muito poucos percebem que estas 
+combina~6es eram baseadas em 
+principios estrategicos profun-
+dos, tais como: a centraliza~ao 
+maxima das pe~as , a superiorida-
+70 
+do final do seculo
+meiro campeao 
+de xadrez, Wilhel
+primeiro a formu
+cas do jogo posi
+gia). Ele mostrou
+nao surge da imag
+dor. 0 plano base
+fator concreto p
+que escondido) n
+dado momento. E
+que cada posi~ao
+caracterizada por
+favoraveis ou des
+da lado, que deve
+em separado e em
+que se avalie um
+pacidade de avali
+a situa~ao a qualq
+uma partida deter
+de parte, a for~a 
+mos acompanha
+simples: 
+I. Boleslavsky
+Zuriqu
+Em urn exam
+chances nao pare
+
+aqui. As Brancas tern urn Peao a 
+mais, mas os Pe6es da ala da Da-
+rna sao debeis e 0 par de Bispos 
+das Pretas e bern capaz de lhes 
+oferecer condic:;:6es de atingir a 
+igualdade. Seu problema e que 0 
+Bispo na casa d6 se en contra cla-
+vado. Para libertarem-se as Pretas 
+precis am jogar em busca de sim-
+plificac:;:6es, na esperanc:;:a de ga-
+rantir urn empate em urn final 
+com Bispos de cores opostas. In-
+felizmente, ha uma pequena falha 
+nesta avaliac:;:ao que leva, em sete 
+lances, as Pretas a derrota. 
+20 i.f4 
+i.xf3 
+21 .ilxd6 
+.ilxd6 
+22 't!fxd6 
+'t!fxd6 
+23 i.xd6 
+l::!e8 
+24 llxe8+ 
+4Jxe8 
+25 i.e5! 
+i.c6 
+26 b4! 
+h5 
+27 13 
+71 
+Se as Pretas p
+os Cavalos, 0 em
+segurado, ainda qu
+sem que 0 Rei Br
+centro e entregas
+casa a6. Mas isto 
+f:icil no tar que 0 B
+cas ira tomar 0 C
+caso ele se mova. 
+final com Bispos d
+nao salva as Preta
+se dirige para a ala
+o que os Pe6es da
+sentes cairao com
+exemplo elementa
+Brancas puderam
+vantagem com t
+porque dentre t
+possiveis no meio
+viu que a melhor 
+lance 25 i.e5! e 2
+o calculo das varia
+tomou-se bastant
+Para avaliar co
+posic:;:ao e preciso
+
+da urn dos fatores citados em cada 
+posic;ao. 
+Por exemplo, e sabido que uma 
+Torre e mais forte que urn Cavalo, 
+mas se 0 Cavalo ocupa urn ponto 
+avanc;ado bern protegido no cen-
+tro enquanto a Torre esta total-
+mente fora de jogo, entao 0 Cava-
+10 e, obviamente, mais forte que 
+a Torre. 
+No final a avaliac;ao da posic;ao 
+e deterrninada pela existencia de 
+Peoes passados e pela centraliza-
+c;ao do Rei. No meio-jogo, pelo 
+contrano, e melhor que 0 Rei per-
+manec;a longe do centro. 
+Qualquer enxadrista experien-
+te respeita a arte do jogo posicio-
+nal, porque ele valoriza os bene-
+ficios da acumulac;ao sistematica 
+de pequenas vantagens, que aca-
+bam por deterrninar, em ultima 
+analise, aquilo que se chama de 
+vantagem posicional para urn dos 
+lados. 0 j ogador que detem a van-
+tagem posicional da as cartas na 
+situac;ao. Repentinamente ele 
+descobre uma grande riqueza de 
+possibilidades para as suas pec;as 
+72 
+tread as na superio
+nal. Em uma su
+termos de desen
+mobilidade, por e
+Nos ultimos 1
+listas de xadrez re
+rnisterios na teori
+cional. As leis ba
+gia enxadristica f
+grande Steinitz 
+inalteradas, mas e
+enfase maior a fat
+namica da posic;a
+c;ao de algumas d
+sicionais por alg
+dada uma maior
+coordenac;ao das
+duas ou tres pec;as
+das podem sair v
+pec;as de maior fo
+rio mas com men
+E finalmente, 
+jogo de 150 ano
+combinac;oes vis
+mente ao ataque
+Rei, hoje, com 0
+tecnicas defensi
+c;oes complexas 
+para aumentar g
+
+nais. Os sacrificios posicionais 
+tornaram-se uma das tecnicas 
+mais eficazes quando Pe6es e pe-
+c;as sao entregues em troca de ga-
+nhos posicionais (embora nao de-
+cisivos). 
+Concluindo, g
+selhar todos aque
+do xadrez a estud
+sistencia a arte d
+nal. Eu Ihes asse
+nao VaG se arrepe
+
+Enquanto uma partida de xadrez 
+se desenrolar sem sobressaltos e 
+de acordo com as leis da estrate-
+gia enxadristica, 0 valor hienir-
+quico tradicional das pe~as se 
+mantem. Alguem po de, e claro, 
+discutir a respeito do que teria 
+mais for~a -
+uma Torre ou urn 
+Bispo e dois Pe6es -
+dependen-
+do da posi~ao ocupada por tais 
+pe~as. Mas as vezes as pe~as se 
+revestem de uma for~a sob rena-
+tural e come~am a fazer rnilagres. 
+Toda a escala tradicional de va-
+lores e reduzida a po: urn Peao, 
+por exemplo, se reveste de mais 
+valor que uma Torre ou mesmo 
+que uma Dama. Isto acontece 
+com freqiiencia quando uma 
+combina~ao bern formulada e 
+operacionalizada no tabuleiro. 
+E bern sabido que 0 jogo com-
+binacional agrada aos entusiastas 
+do xadrez. Por que? Primeiro pela 
+sua beleza, par ser surpreendente 
+74 
+e pela sua logica
+que ao longo de u
+os movimentos do
+geralmente for~a
+dos paradoxos ma
+tes do xadrez. Q
+combate, cada lad
+entre varios lance
+as complica~6es 
+violam os valores
+tam de modo estr
+qual uma partida
+volver. Mais que 
+rio nao tern nenh
+lances. 
+Vamos analisar
+tre Edward Laske
+mas que foi disp
+Ela iniciou-se tra
+Edward Lasker
+Londre
+1 
+d4 
+2 
+ttJf3
+
+Agora vern 0 sinal de ataque: 
+10 ...vh5! 
+...ve7 
+As Pretas evitamjogar 0 lance 
+10 ... ~xe5 achando que podem 
+safar-se do lance 11 lLlxf6+ 
+j ogando 11 ... gf. Mas se ela 
+soubesse 0 que estava por vir ... 
+11 ...vxh7+!! 
+75 
+12 tLJxf6+
+Se 0 Rei tives
+a casa h8 a partida
+diatamente com 1
+13 4Jeg4+
+14 h4+ 
+15 g3+ 
+16 ~e2+ 
+17 l:lh2+ 
+Esta casa gera
+Rei das Brancas,
+Pretas esta fadado
+18 
+~d2 
+Bonito? Sim
+Sim! For~ado? Si
+tao de repente? C
+combina~ao ser v
+Todo enxadrista 
+que uma combin
+me~a do nada. 
+combina~ao seja 
+so que alguem ten
+gens, as quais s
+lentamente, lanc
+processo acumul
+lerar os erros do 
+o que tornou p
+ficio de Dama an
+As Brancas nao ti
+
+Brancos nas casas f6 e g6, Rei 
+Preto na casa h8 e 0 Peao das 
+Pretas na casa g7. E uma posic;:ao 
+tipica. 
+o conhecimento de tais po-
+sic;:6es e essencial para 0 enxa-
+drista. Ha muitas posic;:6es desta 
+natureza e e bern facillembrar-se 
+delas. Portanto, diante de urn la-
+birinto de combinac;:6es e preciso 
+ser capaz de enxergar os elemen-
+tos das posic;:6es de mate elemen-
+tares. Vamos analisar uma posi-
+c;:ao que ocorreu em uma partida 
+entre G. Rotlevi e A. Rubinstein 
+em 1908. 
+22 
+llxc3!! 
+23 gh 
+76 
+irnpossibilitou-lhe
+casas por mais tem
+24 
+~xd2 
+25 
+~g2 
+Brilhante! A D
+nao pode evitar 
+mate na casa h2, e
+podem fazer! 
+Combinac;:6es 
+inesqueciveis. 
+Como surgem
+sencia? Nos iremo
+mas lic;:6es a tais q
+nos iremos espe
+dic;:6es necessaria
+c;:ao de combinac;:
+
+do 0 motif  da explosao combi
+nacional. 
+Tais caracterfsticas inc1uem, 
+por exemplo, debilidades na pri-
+meira (para as Brancas) ou oitava 
+(para as Pretas) filas que pos-
+sibilitam a entrada de pe<;:as ini-
+migas no territ6rio do Rei. Quan-
+do isto acontece, 0 lado que se 
+defende, para evitar urn mate 
+imediato, tern de aceitar perdas 
+pesadas e a seguir a luta acaba por 
+tornar-se inutil. 
+Urn exemplo c1assico nos e 
+oferecido em uma partida entre 
+Edward Adams e Carlos Torre em 
+1920. 
+1 
+'t't'g4!! 
+'t't'b5 
+77 
+2 
+'t't'c4!!
+3 
+"ii'c7!!
+Estas elegante
+rna sao bonitas m
+temente inuteis. 
+Brancas conseg
+continuam na me
+4 ti'xb7 as Preta
+com 4 ... "ii'xe2! 
+6lLle1 llxe1+! 7 l
+quando sao as Br
+xeque-mate por 
+dade da primeira
+preciso achar urn
+
+da Dama Preta sobre a cas a e8. 
+Este e 0 tema da combina<;:ao. 
+4 
+a4! 
+'t!t'xa4 
+5 
+~4!! 
+Urn nocaute brilhante! As Pre-
+tas nao tern tempo para abrir uma 
+casa para fuga: 5 ... h6 6 't!t'xc8 
+llxc8 7 llxa4 e as Brancas ga-
+nham uma Torre. Tambem nao e 
+possivel jogar 5 ... 't!t'xe4 porque 
+com 6 llxe4 as Pretas nao mais 
+podem capturar a Dama das Bran-
+tern que recuar. 
+5 
+6 
+'t!t'xb7
+Este sacrificio
+Dama Preta nao 
+manecer na diago
+Pretas tern de adr
+N a pr6xima li<
+nuar com a analis
+necessarias para q
+ataques de combi
+partida.
+
+Na nossa li<;:ao anterior, lidamos 
+com as combina<;:6es e como elas 
+ocorrem nas partidas. Tambem 
+analisamos algumas combina-
+<;:6es baseadas na debilidade da 
+oitava (ou primeira) fileira. Agora 
+examinaremos outras situa<;:6es 
+especificas que dao origem a 
+combina<;:6es diversas. 
+Primeiro, examine a debilida-
+de da segunda (setima) fila. Debi-
+lidades na Ultima fileira dao ori-
+gem a amea<;:as de mate contra 0 
+Rei. Debilidades na segunda ou 
+setima fileira, geralmente, facili-
+tam a destrui<;:ao dos Pe6es que 
+protegem 0 Rei, facilitando assim 
+a vit6ria final. N a li<;:ao 14 n6s 
+examinamos a partida entre G. 
+Rotlevi e A. Rubinstein, em que 
+as Brancas capitularam por causa 
+da debilidade da sua segunda fi-
+leira quando ambas as Torres Pre-
+tas amea<;:aram a cas a h2. Vamos 
+agora considerar uma situa<;:ao 
+79 
+analoga a que 
+uma partida ent
+e Emanuel La
+1925). 
+Parece que a
+contentar-se com
+sente, mas urn sa
+e inesperado do B
+tera a situa<;:ao de
+possibilitando a e
+combina<;:ao que 
+mo "pendulo".
+
+Depois de uma serie de xeques 
+descobertos a Torre mutilou todo 
+o exercito Pre to, ao longo da se-
+tima fileira, e agora a Dama Preta 
+tambem perece. 
+7 
+8 
+llxhs 
+9 
+Ilh3 
+10 llxh6+ 
+~h7 
+~g6 
+~xf6 
+As Brancas, com dois Pe6es 
+a mais, venceram com facili-
+dade. 
+A pnitica demonstra que a en-
+trada de duas pec;:as maiores na 
+segunda (setima) fileira e 0 carni-
+nbo mais certo para a vitoria. 
+Tambem e sabido que e diffcil 
+atacar 0 Rei inirnigo quando 0 
+80 
+1 
+e4 
+2 
+tLlf3 
+3 
+.w..c4 
+4 
+d4 
+S 
+0-0 
+6 
+eS 
+7 
+ef 
+8 
+l:tel+ 
+Nesta posic;:ao
+riam entregar urn
+rem mobilizar as
+entanto, as Preta
+por proteger 0 Pe
+8 
+9 
+.w..gS 
+10 .w..h6+
+os Pe6es nas ca
+acabam por ser u
+
+na cas a f6, uma Torre na casa e8, 
+ou a Dama na cas a g4. E interes-
+sante que possam ter ocorrido va-
+rias situa~6es nesta partida em 
+que qualquer uma das pe~as es-
+tava em condi~6es de dar 0 golpe 
+final. 
+11 lDc3! 
+i.g4 
+12 0.e4 
+b6 
+13 c3 
+0.e5? 
+14 lLlxe5 
+A amea~a e 15 ~xg4 mate. Por 
+que niio tomar a formidavel rai-
+nha? 
+14 ... 
+~xdl 
+15 tZ'ld7!! 
+~e7 
+Parece que as Pretas consegui-
+ram defender-se do mate na casa 
+81 
+importante para u
+M alguns ataque
+~6es tfpicos que 
+as defesas do Re
+exarninar urn ou
+sacrificios utiliz
+aos Pe6es que co
+sa do Rei. 
+Em. Lasker -
+188
+Ap6s 0 lance n
+seria dificil veri
+ridade das Bran
+Brancas elirninar
+casas g7 e h7, a 
+de f1 para f3 seria
+as Pretas.
+
+Dama. 
+6 
+!lh3+ 
+7 
+l'lxh6+ 
+'i!fh6 
+~xh6 
+Parece que as Pretas tern uma 
+compensa<;;ao adequada pela Da-
+rna, mas 
+8 
+'i!fd7 
+as Brancas tinham visto esta ma-
+nobra antes do sacrificio do Bispo. 
+Lasker recuperou urn dos Bispos, 
+o que foi suficiente para assegu-
+rar-lhe uma vit6ria rapida. 
+Concluindo, vamos considerar 
+urn exemplo classico de combina-
+<;;6es em que urn outro golpe tati-
+co, chamado "desvio", foi usado. 
+Ao executar urn ataque com fre-
+qtiencia e preciso livrar-se de uma 
+das pe<;(3s do adversano que pro-
+tegem uma ou mais casas imp or-
+tantes. 0 metodo mais simples, 
+captura ou troca, nem sempre e 
+possivel, assim surge a questao de 
+como de desviar a aten<;;ao daque-
+la pe<;;a, atraves de urn golpe tati-
+co. Johannes Zukertort, no seculo 
+pass ado, era famoso como urn 
+mestre das combina<;;6es brilhan-
+82 
+As Pretas acab
+a captura do Peao
+colocarem a Torr
+amea<;;am entrar 
+Brancas, por sua
+oportunidade de a
+2 'i!fd4, 0 que pra
+as Pretas a captu
+b2. No entanto a
+lheram urn modo
+e de maior belez
+confronto. 
+1 
+fg! 
+As Pretas nao 
+lha, porque ap6s 
+se tornaria tao vu
+Brancas nao prec
+a nenhum artiffc
+vencer. 
+2 
+gh+ 
+Parece drastic
+eficaz. 0 Rei se e
+Peao inirnigo. As
+
+4 
+~b4!! 
+Este lance e, essencialmente, 0 
+inicio da combina<;:ao. Qual e a 
+ideia das Brancas? Com 0 desa-
+parecimento do Peao na casa h7, 
+as duas Torres mais 0 Bispo darao 
+mate ao Rei. 0 Peao na cas a e5, e 
+a sua prote<;:ao, a Dama na casa 
+e7, sao vitais para a defesa. As-
+sim, a Dama deve ser desviada 
+tanto de e5 quanto do Rei. 
+Agora, se as Pretas aceitarem 
+este presente luxuoso, da-se mate 
+em seis lances -
+4 ... "i:lVxb4 5 
+~xe5+ ~xh7 6 llh3+ ~g6 7 
+.ktg3+ ~h7 8 nn + l:lh6 9 ~f4+ 
+~h5 10 l:lh7 mate. Tendo perce-
+bido 0 esperto plano das Brancas 
+as Pretas protegem a Dama, ten-
+tando sustentar seu Peao na casa 
+e5. 
+4 
+ljgc5 
+83 
+seria retrucado 
+~xh7 7 ~xe4+, 
+mate for<;:ado. 
+5 
+6 
+~xe4+
+7 
+~xe5+
+As Pretas aind
+<;:as de levar 0 R
+Dama, mas agora
+mo golpe da comb
+8 
+~g7+!
+Se 8 ... "fixg7? 
+tas bloqueia a fuga
+te mate a partir d
+tanto, as Pretas a
+Na nossa pro
+completaremos a
+tac;:ao dos princfpi
+binacional.
+
+Muitos amantes do xadrez enca-
+ram 0 final com desdem, como 
+uma parte mon6tona onde nao ha 
+espac;o para combinac;6es nem 
+imaginac;ao. N6s vamos analisar 
+o final pratico e voce vera que 
+este estagio da partida, alem de 
+extremamente complexo, disp6e 
+de uma rica abundancia de ideias 
+. originais. Com isto, tentaremos 
+convencer 0 leitor de que a habi-
+lidade e a capacidade de jogar 
+taticamente e essencial para 0 
+sucesso no final. 
+Durante uma combinac;ao no 
+meio-j ogo ou na abertura, a maior 
+parte dos Pe6es e das pec;as sao 
+observadores passivos. Uma com-
+binac;ao no final, no entanto, 
+exige a participac;ao de todas as 
+pec;as, sendo 0 Rei a pec;a mais 
+ativa. Vamos examinar urn exem-
+plo muito simples. 
+As Brancas tern que mover, e 
+o seu primeiro impulso e de avan-
+84 
+c;ar 0 Peao na casa
+1 h7 e4! nao ha n
+das mesmas pro
+Peao, ja que tod
+grande diagonal 
+das pelo Bispo. 
+Portanto, ante
+Peao, as Brancas 
+Bispo da grande d
+quearem 0 avanc;
+na cas a e5. Vamos
+ra opc;ao. 
+1 
+i.a7!
+
+Brancas tome 0 Bispo das Pretas 
+na cas a d4. S6 M uma resposta 
+possivel: 
+I 
+~c3 
+2 
+~c2 
+As Pretas nao tern escolha: 
+2 
+hI 
+Em principio, parece que as 
+Brancas ja conseguiram 0 maxi-
+mo daquela posi<;:ao inicial, mas 
+ainda nao podern irnpedir 0 avan-
+<;:0 do Peao na coluna do Rei. Ain-
+da assirn, a oferta do Bispo nao 
+era nenhum truque que contasse 
+com a ingenuidade das Pretas, 
+mas sim 0 inicio de uma bela 
+combina<;:ao. 
+85 
+Branco seja pro
+possivel tomar 
+Bispo. 
+3 
+4 
+~d3! 
+Agora tudo es
+na coluna do Re
+Bispo, nao po de 
+Depois de 
+4 
+as Brancas jogam
+5 
+~e4! 
+bloqueando 0 Pe
+garantindo a pro
+Peao da casa h6.
+Urna fantastic
+nao? S6 havia sei
+mas cada urn des
+papel ate 0 limit
+dade. Tambem n
+a performance t
+neste diagrama p
+jornal de Glasgo
+Veja 0 diagra
+A posi<;:ao e b
+Pretas tern duas 
+a prorno<;:ao do P
+ou dar urn xeque
+
+1 
+e7 
+que parece bastante desproposi-
+tal. 
+1 
+l'ld6+ 
+Este lance nao e tao simples 
+quanta possa parecer. A 2 t>b7 
+segue-se 2 ... l:lci7 e ap6s 2 t>cS 
+as Pretas empatam imediatamen-
+te, com 2 ... l:lcil 3 t>b6 tlcl. 
+2 
+t>b5! 
+l'ld5+ 
+3 
+t>b4 
+.!ld4+ 
+4 
+t>b3 
+1ld3+ 
+5 
+t>e2! 
+Agora nao ha mais xeques e a 
+Torre tambem nao pode chegar a 
+casa cl. Mas a luta esta longe de 
+terminar: 
+5 
+ild4! 
+Uma cilada bern planejada! 
+Agora a 6 c8'C!V seguir-se-a 6 ... 
+t!c4+! 7 ~xc4 e M urn empate, 
+pois 0 Rei Preto fica afogado. Se-
+ra que e mesmo urn empate? Era 
+o que sustentava 0 jornalista que 
+publicou a posi<!ao. 
+86 
+6 
+7 
+t>b3! 
+E 0 fim. Para e
+Pretas tern de ent
+Este exemplo 
+peculiaridades pa
+final tatico: 0 pap
+e .0 valor cada 
+Pe6es. 
+Aqui esta urn 
+As Brancas pa
+frentando dificu
+nao e facil proteg
+as. 0 sacrificio 
+Brancas parece u
+pero. 
+1 
+e6 
+Agora 0 lance
+seria seguido por
+
+2 
+IlbS!! 
+Esta ideia tipica se chama 
+"bloqueio" . 
+2 
+ab 
+3 
+b7 
+Agora a situac;ao mudou com-
+pletamente. As Pretas estao a bei-
+ra de urn abismo, ja que 0 surgi-
+mento de uma Dama Branca e 
+iminente. 
+3 
+4 
+b8~+ 
+5 
+~h8 
+.llxaS 
+<t>d7 
+As Pretas perdem 0 Peao na 
+cas a h6 e com ele as suas uItimas 
+esperanc;as de salvarem-se. ADa-
+rna Branca ira atacar os PeDes das 
+Pretas na ala da Dama e ao mes-
+mo tempo as Pretas nao podem 
+impedir 0 avanc;o do Peao das 
+Brancas na coluna h. 
+A titulo de especulac;ao, ape-
+nas, se nao houvesse 0 Peao Preto 
+na cas a f7 nem 0 Peao Branco na 
+casa g2, as Pretas poderiam salvar 
+a patria montando uma fortaleza 
+impenetrave1 depois de 1 c6 bc 2 
+t!bS! cb! 3 b7 Ild4 4 b8~+ <t>f7 
+87 
+colo cando a Tor
+eventualmente m
+d6 e f6. Voce p
+pec;as das Branc
+que ainda assim
+penetrar as defes
+Conhecendo u
+teristica surpreen
+as Pretas consegu
+minIlO diante da s
+As Pretas pa
+perigo. Por exem
+<t>d6 <t>c8 3 c7 ll
+nao 4 bc -
+que 
+empate por afog
+parece ser 0 unic
+
+so ganhar meio ponto com urn 
+empate. 
+Ainda assim, a posi~ao de afo-
+gamento nem sempre serve para 
+o lado que se defende. E precisa-
+mente esta mesma posi~ao que 
+muito freqiientemente revela-se 
+uma armadilha para 0 Rei. 
+Apesar da vanta gem material, 
+as Brancas devem jogar com 
+muito cui dado. Se 0 Peao na casa 
+h2 for promovido, as Pretas ven-
+cern 0 jogo. Mas as Brancas con-
+seguem atrair 0 Rei para uma po-
+si~ao de afogamento atraves de 
+urn sacriffcio engenhoso. 
+88 
+tres Pe6es das Pre
+urn lance. 
+3 
+4 
+ed 
+5 
+d6 
+6 
+d7 
+Ao menos as P
+ram libertar 0 Re
+7 
+q;,xe2 
+8 
+d8~ 
+As Pretas fiz
+possivel, mas a 
+da sua Dama, inc
+Rei, e que sera r
+sua queda. 
+9 
+~g5+
+10 
+~h5+
+11 
+~g4+
+12 q;,f2! 
+As Pretas tern
+nao ha defesa con
+mate. 
+Assim, voce p
+final, que tantos
+consideram a eta
+partida, ha urn am
+possibilidades de
+
+Todo enxadrista, nao importando 
+o seu nlvel (M milh6es de ama-
+dores), sente a sua inspira~ao 
+crescer quando chega a uma posi-
+~ao em que pode lan~r urn ataque 
+ao Rei inirnigo. Mas para organi-
+zar urn ataque e preciso que se 
+adquira as habilidades do jogo po-
+sicional e 0 conhecimento dos 
+golpes taticos vistos nas li~es an-
+teriores. Na maior parte das parti-
+das, urn dos lados, atraves de uma 
+acumula~ao gradual de pequenas 
+vantagens, obtem aquilo que cha-
+mamos de vantagem posicional, 
+que precisa entao ser transforma-
+da em uma vantagem material 
+real. Nestas situa~6es, 0 melhor a 
+fazer e passar de manobras lentas 
+e planejadas a a~6es energicas ca-
+racterizadas por opera~es of ens i-
+vas e golpes taticos concretos. 
+Este metodo da estrategia en-
+xadristica e chamado de ataque. 
+Ha muitos tipos de ataque, 0 ata-
+que-relampago, em que decide-se 
+89 
+o jogo em 2 ou 
+ques de varios es
+gam a desdobrar
+ou mais. Na mai
+Rei inirnigo e 0 a
+As pe~as que ata
+todos os meios e
+mo que tenham q
+das perdas mater
+sos 0 fim justific
+Para ilustrar t
+taria de analisa
+Primeiro vamos o
+nhas partidas. 
+E. Mager
+G. Kas
+Baku
+A abertura foi
+1 tUn 
+2 
+d4 
+3 
+c4 
+4 
+lUc3 
+5 
+~gS 
+6 
+~h4 
+7 
+e3
+
+15 Ilxd4 
+tzJc5 
+16 
+~dl 
+tDe6 
+17 }ld2 
+Como result ado da manobra 
+incorreta do Cavalo Branco para 
+a casa d4, 0 Rei das Brancas ficou 
+preso no centro, e ao mesmo tem-
+po as pec;as na ala do Rei ainda nao 
+foram desenvolvidas. Assim, 0 pri-
+meiro estagio do ataque baseia-se 
+em urn sacrificio de Peao, abrindo 
+a grande diagonal para 0 Bispo e 
+a coluna central para a Torre. 
+17 
+d4! 
+18 ed 
+I:Ie8 
+19 t3 
+Urn plano de defesa interes-
+sante. Agora 19 ... lZJxd4+ seria 
+contestado com 20 ~f2! Ainda 
+90 
+vez que 20 ~xf3
+com 20 ... lZJxd4+
+truiram completa
+<rao que os PeDes c
+o Rei das Brancas
+o mesmo escape d
+disso, as pe<ras das
+ram-se descoorde
+to e compensa<riio
+sacrificio do Bisp
+as Pretas tern que
+que de modo bern
+20 gf 
+21 m2 
+Com 21 ~e2 h
+diato com 21 ... 4J
+21 
+22 .te2 
+24 
+~f1 
+24 .l'lg2 
+25 llbgl 
+Completou-se
+tagio do ataque. A
+ram todas as suas
+saram as for<ras 
+Agora elas poderi
+lecido 0 equilibri
+turando a Torre, m
+tern muita pressa e
+
+vez que as pe~as das Brancas cer-
+cam 0 proprio Rei impedindo que 
+o mesmo saia para 0 centro. 
+21 'fIVe1? 
+o desejo natural de trazer a 
+Dama para junto do teatro de ope-
+ra~6es leva as Brancas para a bei-
+ra do abismo e tira a mobilidade 
+do seu Rei. A unica possibilidade 
+defensiva era levar a Dama a cas a 
+g4. Ao jogar 26 'fIVa4! as Brancas 
+teriam evitado uma derrota ime-
+diata, embora ap6s 26 ... ttJxg227 
+llxg2 l::te5 28 'fIVg4 'fIVxg4 29 ~xg4 
+f5 30 .tf3 g5 as Brancas ainda 
+estariam em uma posi~ao dificil 
+de defender. 
+Ap6s 26 'i!rel? as Brancas te-
+rao de suportar outra onda de ata-
+que, desta vez com a Dama e 0 
+Rei como alvos. 
+26 ... 
+!id3! 
+A Torre nao pode ser tornada 
+porque ap6s 27 ~xd3 ilxe1 + 28 
+~xe1 a Torre na cas a g2 estaria 
+desprotegida. 
+91 
+rnada, porque se
+tllxh2 mate. As 
+tarnbern levado m
+valo recuasse. 28
+.txdl tllxh2 mate
+de retirada da Da
+lharia, 28 fi'g3 tl
+Brancas tern de m
+da cas a gl para a
+para gl. 
+28 rot1 
+29 ~1 
+30 :t:lh1 
+Ap6s 0 lance 
+nao ha defesa c
+decisivo do Peao
+a casa b4. Por 
+abandonararn. 
+Ainda assim, 
+leva necessariam
+rocada do inirni
+partida a seguir il
+A. Alekhine -
+Carlsba
+1 
+d4 
+2 
+c4 
+3 
+tllf3
+
+11 
+~xe4 
+ttJd5 
+12 .tf4 
+tDxf4 
+13 ef 
+c5 
+14 de 
+Vfle7 
+15 0-0 
+'i!rxf4 
+A vantagem posicional das 
+Brancas e deterrninada pela sua 
+maioria de Pe6es na ala da Dama 
+e, alem disso, pelo desenvolvi-
+mento inferior das Pretas naquele 
+setor. Ainda assim, Alekhine per-
+cebe uma ou tra caracteristica des-
+ta posic;ao: a protec;ao insufi-
+ciente na ala do Rei das Pretas, 0 
+que 0 capacita a lanc;ar urn ataque 
+contra 0 Rei. Mas antes de atacar 
+e preciso enfraquecer as defesas 
+do adversario. Observe a tecnica 
+soberba de Alekhine: 
+92 
+17 ttJxc5 
+18 ~d3 
+19 ~xh7+
+20 ~e4 
+A primeira me
+Na forrnac;ao de Pe
+de 0 Rei das Pretas
+falha -
+0 Peao na 
+receu e as Branca
+suas pec;as pesada
+Mas as Brancas te
+modo energico, ou
+o seu Bispo a casa 
+ces e 0 ataque sera
+20 ... 
+21 b4! 
+Este e 0 inicio d
+de desvio eficaz q
+
+ne sugeriria 24 \!Vc4! fie7 (ou 24 
+... ~g8 25 ~c6 .!:!c7 26 red1 VJtie7 
+27 'i!t'd3!) 25 lLle5 l:!d6 26 ~g6! 
+ganhando material. Ao colocar a 
+sua Dama na casa b8 (para apoiar 
+o Pdo na casa b6), as Pretas 
+deixam 0 seu Rei virtualmente 
+desprotegido, e era exatamente is-
+to 0 que Alekhine buscava. Agora 
+ele cria rapidamente uma serie de 
+amea<;as diretas contra 0 Rei do 
+adversario. As pe<;as das Brancas 
+sao transferidas imediatamente 
+para 0 outro lado do tabuleiro. 
+24 lDg5! 
+Iied8 
+A amea<;a era 25 ttJxf7 + l'lxf7 
+28 'i!t'xe8. 
+93 
+fih7+ ~f8 29 
+'\!Vxg7+ <;t;>e8 31 
+'i!t'xg6+ rj;;e7 33 
+Pretas tern de d
+mas ainda assim
+pazes de livrar-
+cias da sua posi
+mera rotina. 
+25 
+26 4Jxf7
+27 
+~xf7 
+28 ned1
+29 .ilxd1
+30 '\!Vxc8
+31 "xa6
+32 'ilfd3+
+e as Pretas aban
+Esperamos q
+analisadas nesta 
+a ganhar alguma
+conduzir opera<;6
+
+o que e 0 mais importante? 0 
+ataque ou a defesa? Hoje em dia 
+esta questao nao mais e de grande 
+relevancia, e cada urn joga a seu 
+modo. Os jogadores mais impe-
+tuosos e inexperientes tentam re-
+solver logo 0 assunto atraves de 
+ataques diretos. Atraidos pelas 
+combinac;6es, eles buscam per-
+sistentemente golpes Uiticos bo-
+nitos e inesperados. Amaioria dos 
+enxadristas experientes prefere 
+formac;6es s6lidas e capazes de 
+repelir qualquer ataque. 
+Os tas do xadrez sabem que 0 
+ataque, ou 0 chamado estilo ro-
+manti co, predominava no seculo 
+XIX. Naquela epoca nao havia 
+sistemas de defesa complexos; se 
+o seu adversiirio sacrificasse urn 
+peao ou uma pec;a, esperava-se 
+que voce aceitasse 0 sacrificio e 
+sustentasse a posiC;ao. Foi so-
+mente ao final do seculo, quando 
+o grande fil6sofo do xadrez Wi-
+94 
+lhelm S teinitz form
+ria do jogo posic
+peao mundial E
+atingiu resultados
+que a defesa passo
+da e nov os mes
+mente talentosos 
+sa, surgiram no ce
+tico. 
+Como e que e
+visto atualmente?
+clara: tanto 0 esc
+pada sao igualmen
+Hoje e mais do 
+ninguem pode tom
+dor forte sem se
+habilidoso. 
+Hii 20 an os sa
+vos visando ao ga
+va eram comuns 
+temacionais. Mas
+cas defensivas es
+das que mesmo u
+urn mero Peao ter
+em alguma varian
+
+periencias das gera~6es anterio
+res. Nossos precursores, na ca-
+rencia de conhecimento de xa-
+drez, valeram-se de metodos de 
+tentativa e erro enos deixaram 
+uma ampla sabedoria nas suas 
+partidas e livros. 0 aprendizado 
+que para eles levou decadas hoje 
+e completado por urn jovem en-
+xadrista em urn ano. E como al-
+guem aprende a preparar uma boa 
+defesa? Ha muitos carninhos e 
+muitos metodos. Nos iremos nos 
+inteirar dos mesmos nas nossas 
+li~6es . 
+Vamos come~ar com posi~6es 
+ruins. Lasker costumava dizer 
+que qualquer posi~ao pode ser 
+defendida e todos conhecem 0 di-
+tado enxadrfstico que diz que 
+"nao se ganha uma partida aban-
+donando-a". A experiencia mos-
+trou que nao importa 0 quao per-
+dida uma posi~ao esteja, sempre 
+aparece uma chance de se fazer 
+uma resistencia teimosa. Voce 
+precisa encontrar tais chances. 
+Quando 0 seu adversario, que 
+imaginava vencer com facilida-
+95 
+qualquer que se
+permanecer ruim
+sim voce deve da
+e jogar ate 0 fi
+Lasker 0 fazia: 
+E. Lasker -
+A
+St. Petersb
+As Pretas tern 
+urn Cavalo bern c
+tro e uma forte es
+Muito poucos te
+dido teimosame
+~ao. Mas 0 grand
+bendo que os Ca
+ser simplificados
+mais ainda estav
+
+posi~ao. 
+27 a3 
+2S i.e3 
+29 'i&a2 
+30 'i&a1 
+a6 
+tnIdS 
+tnIs 
+tnIdS 
+o primeiro sucesso das Bran-
+cas -
+ao mover a sua Torre ao 
+longo da ultima fileira, Nirnzo-
+witsch mostra nao saber como ex-
+plorar a sua vantagem. E urn born 
+incentivo para que as Brancas in-
+tensifiquem a resistencia. 
+31 'i&a2 
+l:!eS 
+32 l::[gS 
+llxgS 
+33 llxgS+ 
+rus 
+34 l::[g7 
+t!d7 
+35 ~S+ 
+rus 
+36 l::[g7 
+nrs 
+As Brancas colocaram nov os 
+obstaculos no carninho das Pretas 
+para a vit6ria. Uma troca de Torre 
+aliviou a pressao sobre 0 Peao na 
+casa h2. Alem disso, a Torre das 
+Brancas esta posicionada de mo-
+do mais ativo que a Torre das 
+Pretas, embora a me sma tenha 
+que ser apoiada, pois do contrario 
+a Dama das Pretas sera capaz de 
+for~a-la a abandonar a posi~ao. 
+96 
+rientadas e busca
+da atividade das B
+tas deveriam ter f
+da Torre das Bran
+... 'ilfh8! 
+3S i.g5 
+Desgra~as nunc
+companhadas, e f
+a urn erro segue-se
+de explorar sua va
+tas lan~am mao de
+cas. Agora as Preta
+vit6ria facil com 3
+w3 tL'lxe2 41 ou
+40 i.xf8 tLlhS. 
+Ap6s a partid
+que as Pretas aind
+ces de vit6ria ap6
+i.e7 l:te8 40 llxf7
+1Ii'g6 42l:te7 Ilh8!
+lise p6stuma e be
+uma disputa de ve
+witsch nao ve a vit
+do duro comb ate, p
+tagem. 
+39 llxn 
+40 
+~xe6+
+41 tL'le5!
+
+42 1We8+ 
+43 't!¥xeS+ 
+riie7 
+Apesar da Torre a mais, as Pre-
+tas nao podem evitar 0 xeque per-
+petuo. Portanto, jogadores con-
+cord am sobre 0 empate, neste 
+ponto. 
+Lasker muitas vezes safou-se 
+de situa~6es diffceis gra~a a sua 
+defesa feroz e habil. 
+o grande jogador cubano Jose 
+Raul Capablanca perdeu muito 
+poucas partidas ao longo da sua 
+carreira de enxadrista. Ele era ex-
+celente na defesa. 
+A. Rubinstein -
+J. Capablanea 
+St. Petersburg 1914 
+Parece que as Brancas tern 
+uma vantagem tremenda no final, 
+com urn Peao a mais e uma Dama 
+bern posicionada. 27 ... c4 parece 
+urn lance natural, mas ap6s 28 f3 
+'t!¥c8 29 e4 a Dama das Pretas 
+97 
+estaria totalment
+sua derrota seria
+pablanca tenta lib
+e obter urn Peao 
+27 ... 
+Agora ap6s 2
+'t!¥xa6 c4! 0 Peao
+luna c salva as Pr
+s6 tern urn caminh
+28 c4! ffc8 29 "t
+29 ... as) 1't'f5! 30
+fia7 't!¥e5 32 ffxf
+'iWxa2. Ainda as
+segue uma outra 
+28 1't'xeS
+29 1't'xc3
+30 riih2 
+31 'iWe8+
+32 'iWfS+ 
+33 'iWf6 
+Asitua~ao esta
+superioridade da
+do Rei e contra
+Peao da col una 
+parecer modesto 
+forte.
+
+33 
+as 
+34 g4 
+a4 
+35 hs 
+gh 
+36 'tIVfs+ 
+Reconhecendo a superiorida-
+de de Capablanca como finalista. 
+Jogar 36 ... gh 3
+riscado demais p
+36 
+37 'tIVgs+
+38 'i!fxhs
+E 0 jogo foi 
+Capablanca defen
+C;iio inferior com
+surpreendente, m
+virtuosismo. De
+defesa. Urn bor
+resistir ao golpe 
+pada. 
+A nossa pr6xim
+dicada aos metod
+demos de defesa
+
+Na nossa li~ao anterior n6s exa-
+minamos metod os de defesa ba-
+seados em esfor~os defensivos 
+extremados e escrupulosos visan-
+do melhorar a coordena~ao das 
+pe~as. Mas 0 xadrez hoje e mais 
+complexo e dinamico do que, di-
+gamos, 50 anos atnis. A arte do 
+ataque tomou-se mais versatil e 
+mais sutil. E isto, por sua vez, 
+gerou uma rea~ao de igual medi-
+da. Em outras palavras, uma vez 
+que a lamina da espada teve seu 
+corte afiado, tambem 0 escudo foi 
+refor~ado . 
+Para inicio de conversa, 0 pa-
+pel da defesa ativa, que visa criar 
+contra-amea~as, aumentou con-
+sideravelmente. 
+Eu tive a sorte de encontrar em 
+muitas ocasi6es com Tigran Pe-
+trosian, cuja morte foi tragica-
+mente prematura. Ele comparti-
+lhou sem reservas a sua experien-
+cia comigo, e os encontros enxa-
+dristicos com este fenomenal 
+99 
+mestre da defesa
+extremamente li
+Por exemplo, lev
+para entender 0 
+ataque aparentem
+ter sido paralisad
+disputamos no s
+Tilburg em 1981.
+G. Kasparov -
+Tilburg
+Tendo sacrific
+abertura, eu con
+pe~as das Preta
+Alem dis to, 0 Rei
+obviamente, ma
+
+30 
+b5 
+31 sb 
+cb 
+32 l:ta2! 
+A impressao e de que as Pretas 
+estao it beira do abismo. A des-
+trui~ao da sua ala da Dama atra-
+yeS da coluna aberta parece ine-
+vitavel, mas a partir de agora Pe-
+trosian encontra lances que trans-
+formam toda a partida em urn 
+show de magica. 
+32 ... 
+~b7! 
+Amaior parte dos mestres teria 
+preferido 32 ... ..id6, entregando 
+o Peao com uma posi~ao inferior 
+-
+33 llxbS llxbS 34 tZJxd6 ~xd6 
+3S ~xbS -
+mas evitando uma 
+catastrofe. 
+Escapando de uma clavada, as 
+Pretas se veem diante de duas 
+outras. Eu realmente nao sei co-
+mo e que este meu muito es-
+timado adversario determinou 
+que 0 seu Rei estaria a salvo na 
+casa b7, mas esta sua resolu~ao 
+teve urn efeito psicol6gico adver-
+so sobre mim. Eu ainda podia 
+perceber a for~a de ataque das 
+minhas pe~as, mas depois deste 
+que a casa dS e
+resistencia das P
+via como supera-
+ra Moscou eu ac
+cedora -
+33 ttJa
+na8 3S lLlb4 ~
+37 'ilrxe4.lla7 38 
+~hl lLl7b6 40 f
+po de ver, a vit6ri
+facil e ainda exig
+po. Eu tive que 
+fundo os segredo
+33 ... 
+o linico lance
+bS tern que ser fir
+dido. Ap6s 33 ... 
+~ao 34 e4 fe 3S
+'tlfxdS+! ed 37 
+.ilxa6+! ~xa6 39
+.ilxaS mate decid
+34 ~d6 
+35 
+~bl 
+Neste ponto, p
+na partida, eu c
+pelo resultado do
+apenas desenvolv
+pando pont os va
+peran~a de pode
+golpe combinac
+100
+
+Fantastico!! 0 Rei, abando-
+nando a prote~ao dos Pe6es, mar-
+cha em dire~ao as for~as Brancas. 
+Isto nao e inconseqiiencia, mas 
+urn exemplo de urn calculo preci-
+so. Agora as Brancas tern de achar 
+urn modo de salvar, as suas pe~as 
+confusas, sem perdas materiais. 
+Ainda havia uma salva~ao neste 
+ponto, mas, impressionado com a 
+defesa tao cheia de recursos do 
+meu adversario, eu nao consegui 
+achar a melhor continua~ao e per-
+di 0 jogo em uns poucos lances. 
+36 lIba3? 
+be 
+37 llxa6+ 
+llxa6 
+38 llxa6+ 
+~b6 
+39 ~e5 
+'ilVd8 
+40 'ilVa1 
+lLlxe5 
+41 de 
+~xc5! 
+qiiilidade quando
+10 adversario. A
+capaz de repelir
+sucesso e escolh
+adequado para la
+ataque que, em u
+metodo de defesa
+101 
+Vamos analis
+classico de contra
+partida brilhante
+gantes do xadrez
+Y. Geller -
+Zuriqu
+o ataque das 
+amea~ador. Em u
+ele pode trazer a 
+Torre para a col
+que praticament
+
+era facil confundi-lo. 
+16 ... 
+bS 
+Este lance nao e perda de tem-
+po. Eo inicio de urn grande plano. 
+A defesa passiva da posics:ao do 
+Rei nao e promissora para as Pre-
+tas, ja que suas pecs:as tern pouco 
+-
+se e que tern -
+espacs:o para 
+manobrar e metade delas sera in-
+capaz de proteger 0 Rei. Em vista 
+disso Euwe decide reagir, tao lo-
+go quanta for possivel, com urn 
+forte contra-jogo no centro, onde 
+as suas pecs:as nao estao posicio-
+nadas de modo pior que as das 
+Brancas. 
+17 .ID.4 
+18 eS 
+19 fe 
+20 "i!t'xd3 
+~b6 
+l2JxeS 
+l2Jxd3 
+As Pretas elirninaram 0 peri-
+goso Bispo de casas bran cas das 
+Brancas, e abrindo a grande dia-
+gonal para 0 seu Bispo, que con-
+trola a casa g2, que e muito im-
+portante. Ainda assim, parece que 
+as Brancas estao claramente me-
+lhor: sua Dama em breve estara 
+no meio do territ6rio inimigo. 
+A posics:ao da
+critica. Se as Bra
+a sua Torre da cas
+fl, havera ameacs
+Rei das Pretas, m
+mento que Euw
+golpe tatico base
+executa urn contr
+pago. 
+22 ... 
+23 
+~xh8
+A situacs:ao m
+mente de repente
+cs:a e 25 ... llxg2+
+etc. Quando 0 to
+rado, os Grandes 
+de analises exau
+ram que as Branc
+var-se se tivesse
+lances sutis e be
+Esta e uma das v
+102
+
+~b6+ 25 ~hl ~f2 26llg1 ~xd5 
+27 tte4 $..xe4 28 lDxe4 ~h4 29 
+$..xg7 ~xe4 30 ~f8+ etc. 
+Exausto pelo arduo combate 
+Geller nao pOde encontrar a con-
+tinua<;ao correta e a partida encer-
+rou-se rapidamente. 
+24 llcl? 
+25 
+~f1 
+llxg2+ 
+'t!Vb3! 
+26 <;!tel 
+~f3! 
+E as Brancas abandonaram. 
+Por que 0 ataque das Brancas, 
+que parecia tao amea<;ador, foi 
+frustrado? Porque as Brancas que-
+riam usar toda a sua for<;a de ata-
+que, mas, na pratica, era tao-so-
+mente a sua Dama que incomoda-
+va 0 Rei das Pretas, sendo as ou-
+tras pe<;as meras
+Por outro lado, v
+Pretas participar
+ataque bem-suce
+Euwe teve sucess
+deu-se com urn m
+Era este tipo de de
+ca" que Lasker co
+principal caracter
+gador de primeira
+Portanto, qua
+mantenha a comp
+voce perceber um
+rnigo, nao mova
+para a defesa, u
+<;as de modo econ
+o momenta certo
+ataque.
+
+Para a maioria dos entusiastas, 
+o xadrez e primordial mente urn 
+jogo com uma gama infinita de 
+possibilidades de se executar 
+combina<;6es bonitas e ines-
+peradas. Estes acham que quanta 
+menos pe<;as restarem sobre 0 ta-
+buleiro, tao menos interessante 
+fica a partida. Para a maioria des-
+tes 0 final e como uma terra deso-
+lada, sombria e sem gra<;a. Que 
+ilusao! 
+o final, a ultima etapa de uma 
+partida de xadrez, e inesgotavel-
+mente rica para os jogadores do-
+tados de pensamento original e 
+criativo, e tambem capazes de 
+executar opera<;6es correspon-
+dentes a ideias profundas, bern 
+planejadas. Esta fase da partida 
+requer a precisao de urn meca-
+nismo de rel6gio. Se voce nao 
+estiver satisfeito com a abertura, 
+voce pode melhorar a sua posi-
+<;ao no meio-jogo. Se voce tiver 
+cometido alguns 
+jogo, voce po de 
+possa corrigi-Ios
+erros no final, co
+erro do goleiro 
+geralmente deci
+se, a nao ser que v
+bern os finais, v
+urn forte jogador
+Nao e por aca
+campe6es mundi
+dispostos a levar
+final e sempre j
+estagio, de modo 
+Emanuel Lasker,
+blanca e Mikhail 
+virtuosi em finais
+Eu nao posso j
+cer 0 valor das li
+ram dadas nas te
+pelo ex-campea
+khail Botvinnik. 
+ele me convenceu
+de estudar as posi
+dos tfpicos do fin
+104
+
+tismo ingenuo em 1978, no tor
+neio de classifica~ao para 0 cam-
+peonato nacional, eu teria me ar-
+rependido. Ao final do torneio, na 
+minba partida contra Alburt (eu 
+jogava com as Pretas), cbegamos 
+a seguinte posi~ao ap6s 0 lance 45 
+das Brancas: 
+Neste momento muitos es-
+pectadores come~aram a discutir 
+a respeito da possibilidade de as 
+Pretas ganbarem 0 jogo. Sentado 
+em frente ao tabuleiro, eu estava 
+analisando 0 metoda para vencer. 
+Primeiro, as Pretas tern de obter 
+urn Peao passado amea~ando 
+contornar 0 Rei das Brancas: 
+105 
+50 
+~e3 
+51 
+~f3 
+52 
+~t2 
+53 
+~e2 
+54 
+~f1 
+A primeira vis
+Rei das Pretas na
+por causa do em
+~f4 55 ~f2 ~e4
+~e1 f2+ 58 ~f1
+sabia que este n
+nesta posi~ao e n
+as Brancas a jog
+posi~ao de "zugz
+si~ao sem lance
+consegue atraves
+tante dos Reis. A
+
+p
+q
+p
+,
+do 0 Rei do adversario para tras. 
+Portanto, 0 Rei tern que avan<sar 
+a frente de seus PeDes. Na luta 
+pelo espa<s0 no tabuleiro, e preci-
+so ser capaz de explorar a oposi-
+<sao dos Reis. 0 metodo mais efi-
+caz e a chamada oposi<sao proxi-
+ma, ou simplesmente oposi<sao. 
+Vamos considerar urn exemplo 
+elementar. 
+Os Reis encontram-se em opo-
+si<sao. Aquele que fez 0 ultimo 
+lance tern a vantagem da oposi-
+<sao. Se as Brancas tern de jogar 
+urn lance agora, elas nao podem 
+evitar 0 Peao passado: 1 ~g2 
+~e3! 2 ~f1 f4 3 ~e1 f3 4 ~f1 f2 
+empate pelo fato 
+Brancas estar afog
+Aoposi<sao dist
+Reis estao separa
+leiras, e urn metod
+em ultima analise
+reta. 
+Vamos retorna
+de 1978 apos 0 lan
+54 ... 
+55 
+~gl 
+Apos 55 ~f2 
+tern a oposi<sao, g
+mo Peao das Br
+~g1 ~g3. 
+55 ... 
+56 
+~f1 
+Agora 0 Rei d
+pode chegar a e2, e
+58 ~f1 ~g3 ou 5
+~f1 f2 59 ~g2 
+resistir e inutil. 
+106 
+E interessante n
+anos mais tarde, 
+ternacional da ci
+de Niksic, eu ven
+empregando urn 
+lhante.
+
+Damas com 0 Peao da coluna h 
+das Pretas leva ao empate. No 
+entanto, eu percebi a possibilida-
+de de explorar a oposi<;:ao dis-
+tante, levando 0 meu adversario a 
+uma posi<;:ao de "zugzwang". 
+47 
+~c6 
+48 
+~c4 
+~c7 
+49 
+~d3 
+~d7! 
+Tendo feito uma triangula<;:ao, 
+o Rei das Pretas esta pronto para 
+uma march a vitoriosa rumo a ca-
+sa c5. 
+50 
+~e3 
+~c6 
+51 
+~d3 
+~c5 
+o Rei das Brancas tern que 
+abrir caminho. 
+Novamente, 0 
+vel. Ap6s 54 ... b2
+~b 1 as Brancas v
+partida chegou ao
+55 ef 
+56 
+~c2 
+57 17 
+Com urn temp
+Brancas abando
+Pel a terceira 
+nhecimento de 
+dos finais de Pe6
+j ogar urn longo fi
+Vukic (Iugoslavi
+nato Europeu p
+1980. Meu adv
+com as Pretas. 
+107
+
+g
+p
+sicional; 0 potente Bispo e a forte 
+farma~ao de Peces mantem as 
+Pretas paralisadas em ambos os 
+flancos. Geralmente, a explara-
+~ao de vantagens posicionais exi-
+ge muito tempo. Mas neste caso, 
+a partida chega a urn fim subito. 
+Primeiro, as Brancas trocam 0 
+Bispo 
+36 ~xf6 
+gf 
+e em seguida a Torre. 
+37 ru1 
+As Pretas tern de abandonar 
+par causa do final de Peces ap6s 
+37 
+~d1 
+38 
+~xd1 
+~d6 
+39 gS! 
+E facilmente vencido pelas 
+Brancas. Bern, as Pretas tern urn 
+Peao de vantagem na ala do Rei, 
+mas por causa das falhas na es-
+trutura de Peces (Peces nas casas 
+e6, f7, f6 e h6) elas nao podem 
+p
+q
+nham urn Peao p
+das Pretas pode a
+os lances 
+39 
+40 fg 
+41 gb 
+mas at as Brancas 
+for~as no outro lad
+42 b4 
+43 bS 
+Eo segundo Pe
+pode ser impedido
+Por favor me p
+usado como exe
+pr6prias partidas.
+demonstrar como 
+rar proveito de urn
+concreto deste tip
+Eu 0 aconselho
+nal meticulosamen
+trema utili dade p
+tambem deve ler a
+pecializados no te
+
+Na li~ao anterior, n6s fizemos 
+colunas centrais e
+urn estudo dos princfpios e meto-
+fesa do seu Rei 
+dos basicos das tecnicas de finais. 
+riscam a urn final
+Eu gostaria de lembrar aos lei-
+tores urn dos princfpios mais im-
+portantes que deve sempre nor-
+tear os enxadristas nos finais de 
+Pe6es: 0 Rei deve lutar para con-
+qui star tanto espa~o quanto for 
+possivel, afastando 0 Rei inirnigo 
+do centro. Agora que hii urn gran-
+de numero de manuais de finais e 
+guias de referencia, tudo 0 que e 
+necessiirio e tempo e vontade pa-
+ra estudar. As posi~6es das aber-
+turas tern sido estudadas, de mo-
+do tao profundo e sistemiitico, 
+que mesmo na abertura 0 enxa-
+drista deve ten tar perceber as pe-
+culiaridadesde possiveis finais. 
+o exemplo mais elementar 
+disto po de ser tirado da Defesa 
+Caro-Kann: 1 e4 c6 2 d4 d5 3 ttJ 
+c3 ed 4 lOxe4 ttJt6 5 lOxf6+ ef, 
+quando para obter a abertura das 
+Nesta li~o n6
+derar os metod os 
+finais com Bispo
+tas. Finais com B
+opostas geralme
+empate, ainda qu
+ter uma vantagem
+Mas a situa~ao e d
+alem dos Bispos
+jogo. Neste caso, 
+109
+
+A posi~ao das Pretas e real-
+mente bastante dificil. 0 seu Rei 
+esta, falando de modo figurado, 
+em uma gaiola, bloqueado pelo 
+Bispo das Brancas e pelo Peao na 
+casa hS. A Torre das Pretas tern 
+que permanecer na setima fila, 
+guardando a casa c7. Apos 39 
+~e3! gh 40 hg eu poderia ter evi-
+tado aventuras desnecessarias em 
+uma corrida contra 0 tempo, e 
+teria provavelmente achado urn 
+modo facil de veneer, ao analisar 
+o final, em casa. 
+Agora eu penso como poderia 
+ter vencido a partida e como po-
+deria ter penetrado na posi~ao das 
+Pretas. A Torre das Pretas contro-
+la a casa c7. 0 Bispo das Pretas 
+Torres 0 Bispo ca
+na casa b6. A o
+seria a seguir cor
+netra~ao do Rei 
+ala da Dama e co
+do Peao da casa 
+encontrei esta sol
+lidade, em casa q
+com 0 empate, 
+110 
+analisar a partida.
+39 bg+? 
+40 w3 
+Neste ponto eu
+pate. Meu advers
+cou surpreso e co
+nao quis continua
+eu havia sido leva
+moma: que finais
+cores opostas ac
+pates. 
+Mesmo na posi
+deria ter jogado b
+ria explorando a p
+pe~as das Pretas. 
+41 l:lc3 
+42 q;,e3 
+43 gb+ 
+44 l:lc1 
+45 !lg1+
+
+Este ultimo lance isola 0 Bispo 
+das Pretas da ala do Rei. Ap6s 47 
+e3 as Pretas teriam retrucado 47 
+... .te2! 
+Agora as Brancas teriam joga-
+do e3, b3 e a4, e 0 resultado da 
+partida dependeria da possibili-
+dade da Torre das Brancas poder 
+penetrar na posirs:ao das Pretas. 
+E sabido que os enxadristas 
+aprendem com os seus erros. Eu 
+gostaria de acrescentar alguns co-
+mentarios a esta frase que esta, 
+acima de qualquer duvida, abso-
+lutamente correta. Alem de es-
+tudar os motivos pelos quais voce 
+perdeu, voce deve estudar as si-
+tuars:6es em que voce poderia ter 
+melhorado a sua posi~o e on de 
+voce nao viu a melhor continua-
+rs:ao. Estas oportunidades perdi-
+das de empatar ou de ganhar de-
+veriam ser consideradas derrotas. 
+111 
+Urn ana mais
+contra 0 Grande M
+ques Bent Larsen
+as Pretas), eu obti
+Ihor, com poucas
+leiro. 
+Em principio p
+nao hci obstaculo
+das Pretas. Sua T
+rna fila. Os Pe6es
+casas e5 e g3 sa
+Mas havia muit
+sobre 0 tabuleiro
+urn lance forte, 
+41 h5! 
+provocando nova
+
+seu adversario! E claro! Uma 
+pessoa pode facilmente enfrentar 
+urn ataque, mesmo no final. 
+41 ... 
+~h6! 
+o jogo poderia facilmente ter 
+terminado em empate ap6s 41 .. . 
+gh 42 liJd4 ru2 43 e6 ou 41 .. . 
+liJe3 42 hg hg 43 e6! fe 44 liJd4 
+llg2+ 45 ~h1 e5 46 liJe6+! ~h6 
+47 lla4! g5 4Sl:te4l:te2! 49 ~gl ! 
+42 hg 
+hg 
+43 tta4 
+~g5 
+44 liJd4! 
+l:lc3! 
+As Pretas nao querem mais na-
+da alem de atacar. A captura do 
+Peao 44 ... tlc1 + 45 ~g2ltJxe5 46 
+liJf3+ resultaria em urn final de 
+Torres com jeito de empate. 
+45 e6 
+Ap6s 45 ~g2ltJxe5 as Pretas ga-
+nhariam urn Peao, evitando a tro-
+ca de Cavalos, e embora as chan-
+ces das Brancas empatarem 
+sejam apreciaveis, nao ha urn em-
+pate garantido. 
+45 ... 
+llxg3+ 
+46 
+~hl?
+Urn caminho
+nhoso para 0 em
+Brancas enfrenta
+urn ataque visand
+mais preciso 46
+l:te3 4SliJc6! liJf
+ruS! f451 M2 e
+Pretas nao tern 
+sua situa~ao, 0 e
+vel. 
+46 
+47 e7 
+48 liJc6 
+Agora as Bra
+defender de um
+Por exemplo: 49
+~g2 l:te2 + 51 M
+liJh2+ 53 ~gl f2+
+ate ter side tirada 
+de xadrez. 49 liJe
+nao livra as Bran
+ficuldades por ca
+~ao 50 ... llxaS 
+Brancas carninha
+112
+
+llxe7 51 liJe6+ ~g4 52 tUxf4. 
+Mas e quase impossivel encontrar 
+lances como 49 liJd4!! durante a 
+partida. 
+49 w5+ 
+~h4 
+50 w8 
+50 liJe5 teria Ievado a uma der-
+rota espetacular ap6s 50 ... tUxe5 
+51 eS~ 1le1+ 52 ~g2 f3+ 53 ~f2 
+liJd3+ capturando a nova Dama 
+das Brancas. 
+50 ... 
+liJf6! 
+As Pretas estao temporaria-
+mente brincando com fogo. Ap6s 
+51 nts ~g3! 0 Rei passa a des em-
+penhar urn papel decisivo no at a-
+que. 
+113 
+54 tUx13 
+55 - ~g1 
+56 m'8 
+As Brancas ab
+que ap6s 57 nt1
+teriam mais chan
+vencia. 
+Na li~ao anter
+da necessidade d
+principios da tecn
+do aperfei~oame
+dades assim adqu
+de partidas reais. 
+exemplos de parti
+mo disputei, espe
+a procurar por op
+qualquer final. A
+tes exemplos con
+urn entusiasta do
+cordar que mesm
+ba igualdade m
+poucas pe~as so
+ainda e bastante 
+urn ataque irresis
+Estude 0 final 
+medo dele. Farni
+final e ele ira tom
+seu da maior conf
+
+Urn dos metodos de defesa nos 
+finais consiste na transforma<!ao 
+de posi<!ao em fortalezas impene-
+traveis, sen do as cadeias de Pe6es 
+os elementos basicos para a sua 
+constru<!ab. Vamos analisar uma 
+partida disputada no Campeonato 
+Ferninino da Ge6rgia, entre as 
+mestres Tsiuri Kobaidze e Mzia 
+Tseretei. 
+o Cavalo das Pretas esta per-
+dido. 0 lance "natural" 1 ... lLJas 
+e refutado por 2 ~h5+ , e ai 0 Rei 
+das Brancas carninha na ala da 
+Dama e toma tod
+Pretas. Somente
+sarios dois lances
+tas empatassem
+lances brilhantes
+1 
+2 
+~xb6
+E isso! E impo
+o Rei das Pretas d
+rela<!ao ao Bispo,
+brar com seguran
+diagonal as-e1. U
+a a<!ao se passa n
+urn dos Bispos d
+solutamente inuti
+outro estii perman
+Outra posi<!ao
+lhante poderia te
+na partida entre
+mundial Max Euw
+canadense Dani
+grande tomeio i
+Groningen, em 1
+Ap6s 1 ... c5 2 
+as Pretas poderia
+114
+
+sem dificuldades, mas achando 
+que todos os caminhos levassem 
+a Roma, as Pretas jogaram 0 lance 
+rotineiro e descuidado. 
+1 
+~c2? 
+2 
+~cS! 
+Agora, as Pretas tem que per-
+der um Pdio, para impedir que 0 
+Peao na casa as promova. 
+2 
+~d3 
+3 
+~xd6 
+~xe4 
+4 
+a6 
+cS 
+5 
+~xcS 
+Assim, as Brancas ficam com 
+dois Pe6es a mais, mas os finais 
+com Bispos de cores opostas sao 
+extremamente peculiares (nos li-
+damos com um na li~ao anterior) 
+e nem sempre uma vantagem ma-
+terial assegura a vitoria. As Pretas 
+tentam montar uma "fortaleza" e 
+tem bastante sucesso em princi-
+pio. 
+115 
+nhecer as suas dim
+Aideia das Pretas
+ples: os Pe6es da 
+Brancas nao pode
+o apoio do seu Re
+Ocupando a ca
+Brancas nao sera c
+se para a frente se
+estiver na casa d7
+o Rei das Branca
+c5, entao 0 Rei da
+posicionar-se na 
+Rei das Brancas 
+de esta, qual 0 m
+o Rei das Pretas
+tiverem acompa
+analise sem duv
+f5!". Claro que
+
+gir se para a ala do Rei, porque as 
+Brancas nao seriam capazes de 
+levar a cabo uma ruptura de Pe6es 
+ali. Este seu erro foi fatal. 
+9 
+~g2? 
+10 'i&f4! 
+g6 
+11 g4! 
+hg 
+12 'i&xg4 
+~hl 
+13 'i&g5 
+'i&f7 
+14 
+~d4 
+..tg2 
+15 h4 
+~hl 
+16 b4 
+~g2 
+17 b5 
+~hl 
+Em principio as Brancas nao 
+parecem ter melhorado a sua po-
+si~ao, e ap6s 18 b6 ..ta8 0 seu Rei 
+nao podeni dirigir-se a ala da Da-
+rna. 
+19 h5! 
+20 'i&f5!! 
+As Pretas a
+uma vez que a ma
+Brancas em dire
+inevitavel: 20 ..
+~hl 22 ..th4 'i&
+Mas as Pretas po
+do que 0 Rei das 
+se a cas a f5 joga
+Mas ai, ap6s 19
+..thl 21 'i&e5 'i&e
+Rei tambem alca
+Vamos analisa
+com Bispos de co
+tais posi~6es 0 la
+deve tentar obter
+em ambos os flan
+possivel, 0 Rei
+deles e a vit6ria 
+da. Vamos consi
+plo elementar q
+metodo de destru
+fortificada no xa
+Veja 0 diagra
+116 
+As Pretas ter
+mais, mas nao p
+para a ala da Dam
+
+Pretas for para ala do Rei, 0 Rei 
+das Brancas, que 0 guard a, tam-
+bern ira para hi. Mesmo assim, 
+nao hii sequer urn vestigio de uma 
+fortifica~ao aqui. Tudo de que se 
+precis a sao tres lances: 
+1 
+fS! 
+2 
+ef 
+e4! 
+3 
+fe 
+~eS 
+Agora que ambos os lados es-
+tao em igualdade material, as 
+Brancas estao definitivamente 
+perdidas ja que seu Rei se encon-
+tra numa posi<;ao sem a menor 
+esperan~a. D resto esta claro: 
+4 
+~d3 
+~f4 
+S 
+.idS 
+~g3 
+6 
+~e2 
+g4 
+7 
+~f1 
+~h2 
+e as Pretas vencem. 
+Assim, n6s conhecemos al-
+guns metodos de defesa no final. 
+Ha ainda mais urn metoda de de-
+fesa que constitui-se na forma~ao 
+de microfortalezas entre duas ou 
+promover 0 Peao.
+da mais surpreend
+mo com as Branc
+po de casas pretas
+empatado. 
+Outro bastiao,
+petacular, po de s
+os adversarios, 
+pectivos Reis, con
+Dama e urn Peao 
+re e urn Peao. E
+Dama e bern mai
+Torre, mas hii pos
+tal axioma nao e v
+esta uma posi~ao
+taleza com 0 Rei 
+buleiro. 
+117
+
+As Pretas tern uma grande 
+vantagem material, mas 0 maxi-
+mo que elas podem fazer e trocar 
+a Dama pela Torre, retendo urn 
+arremedo de vantagem (0 Peao na 
+coluna h e bastante red un dante ). 
+Para comprovar a inviolabilidade 
+da sua defesa, as Brancas nao de-
+vern recorrer a nenhuma manobra 
+complicada. Asua Torre move-se 
+da casa f3 para a casa h3 e vice-
+versa, e 0 Rei se movimenta se-
+guindo urn triangulo, correndo as 
+casas gl-hl-h2. Veja outro exem-
+plo de Dama contra Torre em que 
+lizar 0 Rei das Pre
+de lances, os Pe6e
+cairo 0 tinico mod
+10 e conduzindo 0
+posi~ao de afoga
+isto e feito. 
+1 
+2 
+"l'fc4+ 
+3 
+"l'fc5+ 
+3 ... ct>a6 4 "l'V
+afogado com faci
+4 
+"l'fb6 
+5 
+"l'fbS 
+6 
+"l'fb4 
+Esta e a prime
+a casa b3 e fiscaliz
+impedindo que a D
+locar-se na casa c
+posi~ao do Rei da
+tanto 0 Rei das Br
+para a outra meta
+7 
+ct>c1 
+8 
+ct>dl 
+9 
+ct>e1 
+10 ct>f2 
+11 ct>f1 
+12 ct>g2 
+13 ct>f2 
+118
+
+13 
+~al 
+14 
+~d2! 
+~bl 
+15 
+~g2 
+~al 
+16 ft'c2 
+W3 
+17 ft'dl+ 
+~b2 
+18 ft'e2+ 
+~c3 
+19 ft'xe5 
+Ganhando 0 Peao. Agora 0 Rei 
+das Brancas move-se para a casa 
+d2, e toma 0 Peao do mesmo mo-
+do. 
+o nos so exemplo seguinte en-
+volve Bispo contra Cavalo e Peao 
+da Torre. 
+... hI~. Ainda m
+parecem os dois l
+cas ajudando 0 ad
+cutar este plano. 
+1 
+~d7 
+2 
+3 
+4 
+~c6+ 
+~hl!!
+~e2! 
+Se voce retira
+tabuleiro, as Bran
+patar com 5 ~f
+presen~a do Cav
+pate urn pouco m
+5 ~f1 tZ:le3+ 6 ~
+o Cavalo po de ch
+casa do tabuleiro
+ganhar 0 tempo 
+libertar 0 Rei enc
+Assim, quando
+defesa em urn fin
+das possibilidade
+de se construir pe
+zas. Se bern que 
+nao cometer erros
+a nao terminar e
+inferior no final!
+
+Esta li<;;ao sera devotada a compo-
+si<;;ao de problemas, 0 aspecto 
+mais bonito e misterioso da arte 
+do xadrez. A defini<;;ao de urn pro-
+blema enxadristico como uma 
+arte nao e urn exagero, de modo 
+algum, uma vez que tais proble-
+mas e estudos, inspirados pela 
+imagina<;;ao, sao responsaveis por 
+horas de entretenimento para rni-
+Ih6es de fas. 
+A composi<;;ao de problemas e 
+guiada pelas suas pr6prias leis. 
+Os enxadristas lembram-se das 
+partidas e combina<;;6es mais bri-
+lhantes, nao interessa quantos pe-
+quenos erros -
+dificilmente per-
+ceptiveis -
+est as possam conter. 
+Os que elaboram problemas de 
+xadrez, no entanto, jogam fora as 
+suas composi<;;6es caso as mes-
+mas tenham urn pequeno erro ou 
+uma solu<;;ao dupla. 
+o xadrez apresenta, com fre-
+qiiencia, situa<;;6es em que uma 
+ou mais pe<;;as estao fora de a<;;ao. 
+Na composi<;;ao, 
+mente impossive
+cria urn problem
+mente atribui um
+pe<;;a no tabuleiro.
+Eu gosto de r
+mas, e gosto, part
+estudos. 0 tempo
+ciso para resolve
+serve como pariim
+a minha forma par
+e, as vezes, eu us
+lhantes em partid
+Os problemas
+cheios de paradox
+nais. Vamos exarn
+plo, urn dos pro
+por Samuel Loyd
+blemista americ
+XIX. 
+Veja 0 diagram
+Ha urn pandem
+tavel no tabuleiro
+luna f das Preta
+prestes a ser prom
+120
+
+As Brancas jogam e 
+dao mate em tres lances 
+1 
+~e2!! 
+2 
+~e3!! 
+fl 'W'++ 
+Incrlvel! As Pretas podem 
+agora dar dez diferentes xeques, 
+mas cada xeque e refutado com 
+urn xeque-mate. Se as Pretas ti-
+vessem se decidido por, em vez 
+disto, promover 0 seu Peao a Tor-
+re ou Cavalo no seu primeiro lan-
+ce, entao 2llf2+ for~aria urn mate 
+no pr6ximo lance. Aqui esta outra 
+composi~ao de Samuel Loyd. 
+A variante principal baseia-se 
+em manobras com a Dama ao 
+longo do tabuleiro: 
+1 
+'W'fl! 
+h6 
+2 
+'!!Vb1! 
+Seguido de 2 
+g6 3 'W'xal 
+mate. Ou 2 ... g3 3 'W'h7 mate. 1 ... 
+g3 2 tL'lg6+! hg e 3 'W'h3 mate e 
+uma outra possibilidade. 
+Sem duvida a resolu~ao de 
+problemas estimula urn pensa-
+121 
+As Branca
+dao mate em
+mento criativo. M
+tambem sao uteis
+quanta 0 capaci
+seu jogo de outro
+destas composi~6
+autor e expressa
+econ6rnico possi
+ajuda 0 enxadrist
+~a ao maximo na
+Vamos ver urn
+to por Abram Gu
+positor e proble
+bern conhecido. 
+Como podem 
+eer? Seu Peao n
+perdido, e 0 futur
+esta claro, embor
+ativo. 
+1 
+~h5! 
+2 
+.!lxf7 +
+As Pretas nao t
+~d6 e refutado c
+exemplo.
+
+As Brancas jogam e ganham 
+3 
+.l:hc7, 
+l:ig8!! 
+Se voce, tendo calculado uma 
+variante long a, puder antever e 
+avaliar corretamente uma defesa 
+destas, no terceiro lance, entao 
+voce chegou certamente a urn alto 
+nivel de proficiencia. 
+4 
+r!.c4!! 
+Vma id6ia esplendida, que 
+constitui 0 leitmotif deste estudo. 
+4 
+l:igS+ 
+5 
+~e6! 
+Jlxhs 
+6 
+h4! 
+Apesar da igualdade material, 
+as Pretas estao em "zugzwang", e 
+a derrota e imediata. Ap6s resol-
+ver tais estudos, uma pessoa pode 
+compreender, completamente, 
+todas as sutilezas do dominio no 
+tabuleiro. 
+Nos livros de xadrez, frequen-
+temente, encontramos a expres-
+sao "geometria do tabuleiro". 0 
+que 6 a essencia desta "geome-
+As Bran cas joga
+A tarefa parece
+te, impossive!. 0 P
+esta bern avan<:;:ad
+Brancas s6 pode 
+na casa c6 com ur
+culo. Portanto, os p
+parecem servir par
+resistencia das Bra
+1 
+~g7 
+2 
+~f6 
+o Rei das Bra
+longe de ambos os
+to, as Pretas podem
+das Brancas. 
+2 
+3 
+~eS! 
+Agora a situa<:;:
+ticamente. Se 3 ...
+122
+
+5 
+c7 
+ltib7 
+6 
+lti'd7 
+o melhor exemplo da geome-
+tria do tabuleiro: 0 movimento do 
+Rei pela diagonal e 0 caminho 
+mais curto para a sua meta. 
+Este estudo excita a imagina-
+C;ao dos fas de xadrez ate hoje, 
+inspirando novas cornposic;oes. 
+Em 1929, Alexander e Kirill Sa-
+rychev, de Baku, publicaram uma 
+composiC;ao inesquecfvel que 
+acrescenta urn Bispo ao material 
+do estudo original de Reti. 
+A posiC;ao das Brancas parece 
+estar perdida. Promover 0 Peao 
+e inutil, e 1 lti'e6 e refutado por 
+1 ... lti'e4. Os dois primeiros lances 
+das Brancas parecem absurdos. 
+123 
+3 
+ltid6 
+evitando que as B
+promover 0 seu
+1embre-se do estu
+4 
+lti'e5! 
+5 
+lti'd4! 
+E uma icteia b
+nao e? 
+5 
+(j 
+lti'c3 
+7 
+c8"iW 
+8 
+lti'xb3 
+empate. 
+Ha alguns e
+gosto de jogar re
+As Brancas jog
+
+o Peao, durante 0 que as Brancas 
+aumentam a atividade das suas 
+pe~as. 
+1 
+~g5! 
+~e6+ 
+Se 1 ... i.xd7 2lZ'lf4 amea~an­
+do 3 i.h5 mate. 
+2 
+~gl 
+~xd7 
+Entao, as Pretas atingiram a 
+igualdade material absoluta, mas 
+agora as Brancas iniciam urn at a-
+que visando dar mate. 
+3 
+tZJc5+ 
+~c8 
+o leitor pode tentar encontrar 
+melhores continua~6es para as 
+Brancas em res posta a 3 ... ~c7 
+ou 3 ... ~d6. Recuando para c8 0 
+Rei salva a Dama mas cai. 
+defesa contra a c
+liquida 0 jogo. 
+8 
+~b8+!
+9 
+lZ'lb6 
+Fantastico! Co
+for~a rnisteriosa h
+lhado todas as pe~
+canto do tabuleiro
+Brancas, sozinho,
+das Pretas. 
+Algum dia, v
+uma chance de jo
+na~6es. Vendo p
+tudos enxadristic
+mente encontrara
+nas criadas pela 
+mana. 
+124
+
+Agora chegamos a ultima li<;ao. 
+Este conjunto de li<;6es, publica-
+do pela primeira vez na revista 
+Sport in the USSR, foi 0 primeiro 
+que produzi, mas espero ter tido 
+exito, pelo menos ate certo ponto, 
+ao lidar com esta tarefa. E ver-
+dade que, ao reler ° material, che-
+guei a conclusao que, em certas 
+li<;6es, algumas ideias deveriam 
+ter sido explicadas mais deta-
+lhadamente e que em outras mais 
+exemplos deveriam ter sido da-
+dos. 
+o xadrez e urn jogo incrivel. 
+Depois de quinze seculos as pe-
+<;as de madeira nao s6 mantive-
+ram seu charme, mas tambem se 
+tomaram mais envolventes. A 
+marcha continua da cultura e do 
+pensamento humano influenciou 
+o nosso jogo. 
+Para milh6es de amado res, 0 
+xadrez e tao-somente urn passa-
+tempo agrad:ivel. Estes nao tern 
+grandes ambi<;6
+mas apenas jogam
+as vezes, analisam
+solvem problema
+algumas pessoas 
+xadrez e sua pr6
+estas 0 tabuleiro
+urn campo de bat
+jogo, uma arte mi
+teo Atraves da riv
+verdadeiras obras
+urn longo temp
+interesse e farao 
+fortale<;am seu
+deixem abater. 
+125 
+Entao por que 
+pulos de Caissa
+drez? 0 que ele f
+como muitos out
+drez urn modelo
+preciso da vida
+suas lutas di:iria
+baixos. No tabu
+chance de contro
+Podemos conceb
+
+dades. Voce deve ser capaz de 
+estabelecer as suas pr6prias me-
+tas e busca-Ias em termos racio-
+nais, energica e resolutamente. 
+Como e que n6s, os verdadei-
+ros amantes do xadrez, escravos 
+de Caissa por vontade pr6pria, 
+conseguimos reconhecimento? 
+Provavelmente do mesmo modo 
+que nos outros esportes. Eu lem-
+bro do meu avo me levando para 
+o clube de xadrez no "Palacio dos 
+Pioneiros de Baku". Havia mui-
+tas crian~as la que queriam apren-
+der a jogar bern. Mas, depois de 
+pouco tempo, a metade del as pa-
+rava de assistir as aulas ou de 
+comparecer aos tomeios. As pri-
+meiras derrotas -
+e e claro que 
+no inicio havera mais derrotas 
+qu~ vit6rias -
+afastaram os que 
+nao estavam firmemente decidi-
+dos. Ficavam somente aqueles 
+que ja, na infiincia, eram bons nas 
+competi~6es. Gra~as ao xadrez, 
+esta capacidade de lidar com 
+qualquer situa~ao fora refor~ada ; 
+a deterrnina~ao, fortalecida; e 0 
+carater tomara-se mais firme. 
+ros de ambos os l
+achar as continu
+Geralmente, posi
+jogo nao sao exa
+cas, mas com fre
+se a posi~6es sem
+tais analises voce
+pacitado a encon
+reta. Voce tambe
+mar-se a analisar
+outras pessoas,
+constantemente "
+aquele lance?" e 
+sido melhor joga
+Como resultado, 0
+si~oes farniliares 
+ira ajuda-lo a ori
+e com mais confia
+uma partida. 0 s
+xadrez tambem be
+to do estudo das 
+melhores jogador
+pr6prias partidas;
+tar fazer isso com
+reflexao. Este tra
+10 a compreender
+deiros mestres re
+mas especificos e
+consideram prim
+126
+
+gara finalmente 0 dia em que voce 
+comec;:ara a questionar esses gran-
+des jogadores: "Mas par que voce 
+considera isto necessario e nao ... ", 
+o que significara que sua capaci-
+dade de jogo tera aumentado. Eu 
+trabalhei em cima das anotac;:6es 
+de colossos como Alekhine, Ca-
+pablanca, Botvinnik e Keres. Ate 
+hoje eu me sinto profundamente 
+agradecido a esses grandes enxa-
+dristas por lic;:6es que simples-
+mente nao tern prec;:o. 
+E claro que trabalhar cui dado-
+samente sobre, digamos, cern 
+partidas de Capablanca nao 0 fara 
+jogarcomo ele. Voce, na verdade, 
+"somente" ira aprender a aplicar 
+os metodos do grande enxadrista 
+cubano em algumas posic;:6es. 
+Mas ja e urn grande feito, e com-
+pens a ainda mais as horas dedica-
+das ao trabalho. 
+Ha urn volume enorme de in-
+formac;:6es em milhares de livros 
+didaticos, colec;:6es de partidas, li-
+vros sobre os maiores jogadores 
+e encicIopedias tanto de abertu-
+metoda de posic;:
+nao poderia, po
+morizar todas as 
+tema Schevening
+ciliana, e aprende
+das. Mas com 3
+trabalho, com os 
+sobre este sistem
+aprender as linha
+variantes e pelo m
+de partidas ilustr
+anotadas no seu c
+cicios. Como con
+aprendera a joga
+picas neste sistem
+de urn mestre co
+urn, mas de um
+temas. 0 estudo e
+de como jogar ca
+quer uma quant
+consideravel. M
+pensavel para urn
+qualquer urn que
+urn mestre. 
+Concluindo, 
+desvendar a rnirf
+do xadrez, entao
+po. Eu lhe desejo
+
+Adams-C. Torre 77 
+Alburt-Kasparov 105 
+Alekhine-Rubinstein 91 
+Bogoljubow-Botvinnik 52 
+Boleslavsky-Kotov 70 
+Caesias-V. Vukovic 80 
+Chigorin-Alapin 48 
+Euwe-Yanofsky 114 
+Geller-Euwe 101 
+Gligoric-Smyslov 66 
+Karpov-Dorfman 34 
+Kasparov-Georgadze 26 
+Kasparov-Gheorghiu 8, 110 
+Kasparov-Petrosian 99 
+Kasparov-Portisch 14 
+Kasparov-Vukic 107 
+Kobaidze-Tsereteli 114 
+Larsen-Kasparov 111 
+Ed. Lasker-Thomas 74 
+Em. Lasker-Bau
+Em. Lasker-Nim
+Magerramov-Ka
+Morphy-Arnous 
+Neergard-Simag
+Petrosian-Kozm
+Petros ian-Pflege
+Rotlevi-Rubinste
+Rubinstein-Capa
+Seirawan-Kaspa
+Schulten-Morph
+Suetin-Bondarev
+Tal-Panno 16 
+Tarrasch-Charou
+C. Torre-Em. La
+Tulkowski-Wojc
+Vasyukov-Lebed
+Zukertort-Blackb
+128
+
+Esta obra é distribuída Gratuitamente pela Equipe Digital Source e Viciados em 
+Livros para proporcionar o benefício de sua leitura àqueles que não podem comprá-
+la ou àqueles que necessitam de meios eletrônicos para ler. Dessa forma, a venda 
+deste e-book ou até mesmo a sua troca por qualquer contraprestação é totalmente 
+condenável em qualquer circunstância. A generosidade e a humildade é a marca da 
+distribuição, portanto distribua este livro livremente. 
+Após sua leitura considere seriamente a possibilidade de adquirir o original, pois 
+assim você estará incentivando o autor e a publicação de novas obras. 
+Se quiser outros títulos nos procure : 
+http://groups.google.com/group/Viciados_em_Livros, será um prazer recebê-lo 
+em nosso grupo. 
+ 
+ 
+ 
+ 
+http://groups.google.com/group/Viciados_em_Livros 
+http://groups.google.com/group/digitalsource

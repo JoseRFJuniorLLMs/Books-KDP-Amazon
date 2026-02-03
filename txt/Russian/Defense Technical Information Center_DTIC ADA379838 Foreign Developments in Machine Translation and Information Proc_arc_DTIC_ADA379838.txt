@@ -1,0 +1,1287 @@
+21  December  i960 
+
+
+FOREIGN  DEVELOPMENTS  IN  MACHINE  TMNSIATION 
+AND  INFORMATION  PROCESSING 
+
+
+-  USSR  - 
+
+
+Distribution  Unlimited 
+
+
+Distributed  by; 
+
+
+OFFICE  CF  TECHNICAL  SERVICES 
+U.  S.  DEPARTMENT  OF  COMMERCE 
+WASHII\5GTON  25^  D,  C. 
+
+20000707  013 
+
+
+U.  S7  JOINT  PUBLICATIONS  RESEARCH  SERVICE 
+1636  CONNECTICUT  AVENUE,  N.  W, 
+WASHINGTON  25,  D.  C. 
+
+
+Reproduced  by  the 
+
+CLEARINGHOUSE 
+for  Federal  Scientific  &  Technical 
+Information  Springfield  Va.  22151 
+
+
+w  y rynT 'I  TTv  A 
+
+
+Reproduced  From 
+Best  Available  Copy 
+
+
+¥ 
+
+
+F  0  R  E  M  0  P  r 
+
+
+J.!  1.1.5  .i->ubi;;,catlOi7,  >;a.s  prepared  ander  cor.t.ract 
+oy  -d'K*  UMIaFli  S^iAKS  JGDIT  PUiiLICATTOKS 
+’-W,  ,..,.1,  c-r.-rivlCi;;.  a  federal  QC’/erfmanr,  ovgxnl- 
+'.....orj  C.i  fra." 3i'v ti OP, 
+
+i'ieca.?  of  the  variou?  r.o'.'eri.'.uaent 
+
+ClCpaj'  # 
+
+
+t 
+
+
+.m 
+
+
+JERS :  641)-5 
+
+cso:  3901-D/36 
+
+FCREIGW  DEVELOPMENTS  IN  MACHINE  TRANSLATION 
+AND  INFORMATION  PROCESSING 
+-  USSR  - 
+FOREWORD 
+
+This  translation  series  presents  information  from  foreign- 
+language  literature  on  developments  in  the  following  fields  of  lan¬ 
+guage  data  processing.  Machine  translation  stud?'es;  questions  on 
+st3ructural  linguistics,  phonological  theory,  investigation  of  mor¬ 
+phological  models,  development  of  sjmtactic  structures  and  trans¬ 
+form  analysis;  theory  cf  language  conimunication;  logical  and  lin¬ 
+guistic  problems  of  constaructing  information  machines  and  informa¬ 
+tion  languages;  logical  semantics;  mathematical  and  applied  lin¬ 
+guistics;  automatic  programming;  organization,  storage  and  re¬ 
+trieval  of  information;  automatic  indexing  and  abstracting;  char¬ 
+acter  and  pattern  recognition;  automatic  speech  input;  documenta¬ 
+tion,  etc.  The  series  is  published  as  an  aid  to  U,  S.  Government 
+research. 
+
+Previously  issued  JFRS  reports  on  this  subject  include; 
+
+JPRS;  68,  241,  319,  355  ,  379,  387,  487,  621,  646,  662,  705,  729, 
+
+863,  893,  925,  991,  992,  1006,  1029,  1130,  1131,  1132,  1133,  3225, 
+
+3300,  3356,  3433,  3474,  3502,  3532,  3570,  3597,  3598,  3599,  3613, 
+3629,  3731,  3758,  3796,  3797,  3948,  6094,  6135,  6152,  6236,  6239, 
+6240  and  6347. 
+
+
+Table 
+
+Of  Contents 
+
+^ge 
+
+I. 
+
+Conference  on  Speech  Statistics 
+
+1 
+
+II. 
+
+On  Linguistic  Probability 
+
+7 
+
+III. 
+
+Symposium  on  Problems  of  Speech  Discrimination 
+
+15 
+
+IV. 
+
+On  the  Development  cf  Structural  and  Ifethematical 
+Ifethods  of  language  Research 
+
+18 
+
+^  Q,  “• 
+
+
+V 
+
+
+I.  COHFERENGE  ON  SPEECH  SIIATISTICS 
+
+following  is  a  translation  of  an  article  ty  V,  A. 
+
+Uspenskiy  in  the  Russian-language  periodical  Voprosy 
+yazykoz nanlya  (Problems  of  Linguistics );  Moscow^ 
+
+No*  1,  1958,  pages  170-173^ 
+
+Gibe  conference,  called  by  the  Speech  Section  of ^ the  Acoustic 
+Commission  of  the  Academy  of  Sciences  USSR  and  the  Leningrad  Uni¬ 
+versity,  held,  from  1  through  h  October  1957  Leningrad,  was  de-' 
+voted  to  the  subject  of  speech  statistics®  Participants  included 
+representatives  of  the  Moscow  State  University,  KGPIiya,  the  Nil 
+of  the  Ministry  of  the  Radio  Engineering  Industry,  the  Institutes 
+of  Physiology  and  Linguistics  of  the  AS  USSR,  the  Laboratories  of 
+Electronic  Computing  VINITI  of  the  AS  USSR,  the  A«  E«  Mozhayskiy 
+Air  Force  Academy,  and  several  other  organizations® 
+
+Ihe  conference  was  opened  with  an  infcrod.uction  by  L.  R« 
+Zinder*  Attention  at  the  conference  was  focused  on  two  fxindamental 
+problem  areas:  l)  Application  of  statistical  research  of  speech 
+and  writing  for  solving  problems  raised  in  those  realms  of  con¬ 
+temporary  technology  which  involve  in  one  way  or  another  the  stor¬ 
+age,  treatment,  and  transmission  of  information,  and  2)  the  relation 
+of  structural  and  statistical  methods  in  linguistics. 
+
+The  report  "The  Meaning  of  Statistical  Research  for  Tech¬ 
+nology"  was  given  by  L.  A.  Varshavskiy,  who  pointed  out  the  funda¬ 
+mental  directions  in  the  study  of  speech,  the  development  of  which 
+are  essential  for  telephony  (wire  and  wireless ) .  The  first  among 
+such  directions  is  the  study  (including  statistical  study)  of  the 
+physical  characteristics  of  sound  and  electrical  signals  which 
+transmit  speech.  In  this  connection  it  is  expedient  to  develop 
+the  general  theory  of  signals,  as  pointed  out  by  N.  A,  Zhelezov  in 
+his  report,  "Power  Characteristics  of  Correction  In^e^^ls  of 
+Elecin^ical  Signals,  in  Particular,  Speech  Signals. 
+
+Another  problem  area,  pointed  out  by  L.  A»  Varshavskiy,  con¬ 
+cerns  the  perception  of  speech  transmitted  tbrouC  a  communication 
+channel.  Channel  quality  is  measured  by  its  articulation  which  in 
+communications  engineering  is  the  percent  correct  perceptions  of 
+sound  units  transmitted  through  the  channel.  To  determine  articu¬ 
+lation,  special  sound  combinations  are  transmitted  ov^  the  chan 
+nel.  When  tables  of  such  sound  combinations  are  compiled,  statis- 
+tical  relations  must  be  accounted  for*  Eut  the  greatest  interest 
+is  in  the  connections  between  the  articulations  of  sound  iinits  of 
+different  orders:  separate  sounds,  syllables,  morphemes,  words, 
+etc.  Here  the  deciding  role  is  played  by  the  effect  of  the 
+ception  of  adjacent  sounds  on  the  perception  of  a  given  80^^^ 
+
+This  effect  is  caused  by  the  probability  dependence  (correlation) 
+occurring  between  neighboring  sounds. 
+
+
+1 
+
+
+The  report  of  L,  R,  Zirder,  "Linguistic  Probability^"  was 
+devoted  to  the  study  of  such  correlation  between  neighboring  ele¬ 
+ments  of  speech  (i.e,,  sounds  following  each  other,  words,  etc.). 
+
+As  noted  in  the  report,  each  element  of  speech  carries  specific  in¬ 
+formation  (in  many  Cases  a  great  deal)  on  the  element  immediately 
+follovring  it.  Zero  order  linguistic  probabilities  (i.e,,  absolute 
+probability  of  the  incidence  of  certain  elements),  as  a  rule,  do 
+not  coincide  with  linguistic  probabilities  of  the  first  order  (con¬ 
+ditional  probabilities  of  certain  elements  occurring  after  others). 
+Zero  and  higher  order  linguistic  probabilities  are  divided  into 
+lexical  (the  probability  of  occurrence  of  certain  lexemes),  gram¬ 
+matical  (the  probability  of  occtirrence  of  certain  sound  units), 
+and  sonic  (the  probability  of  occurrence  of  certain  sound  units). 
+Linguistic  probabilities  have  a  significant  influence  on  perception 
+and,  in  the  final  analysis,  on  understanding  of  speech  (this  refers 
+in  a  larger  degree  to  grammatical  and  to  a  lesser  degree  to  gram¬ 
+matical  and  to  a  lesser  degree  to  sonic  probabilities),  L,  R,  Zin- 
+der's  report  was  accompanied  by  a  demonstration  of  three  tables  of 
+first  order  sound  probabilities  for  the  Russian  language.  Tables 
+which  were  prepared  on  the  basis  of  a  statistical  study  of  a  text 
+of  approximately  90^000  phonemes  were  shown.  These  were  individual 
+tables  showing  sound  combinations  within  words  and  at  the  j^ctures 
+of  words,  and  there  was  a  summary  table, 
+
+Ye..V,  Padxichevaya’s  report,  "Statistical  Study  of  Syllable 
+Structure  (3ii  Connection  with  the  Use  of  Information  Theory  Meth¬ 
+ods),"  was  devoted  to  the  comparative  analysis  of  phoneme  combina¬ 
+tions  within  words  and  at  word  junctures.  In  this  reportei-'s  opin¬ 
+ion,  only  phoneme  combinations  within  a  syllable  can  be  a  subject 
+of  phonological  study;  combinations  at  syllable  junctures  is  more 
+appropriately  the  consequence  of  word  formation.  It  is  nat\iral  to 
+expect  tha,t  the  limitations  to  the  combining  capability  of  phonemes 
+within  a  syllable  will  be  weaker  at  syllable  junctures.  At  the 
+same  time,  as  this  reporter  showed  with  an  example  from  Spanish,  a 
+simple  division  of  phoneme  combinations  into  possible  and  impossi¬ 
+ble  ones  is  insufficient;  probability  concepts  lead  to  much  more 
+satisfactory  results  (for  Russian), 
+
+The  most  important  problems  of  those  enumerated  in  the  re¬ 
+port  by  Lc  A,  Varshavskiy  concern  compression  for  the  most  effec¬ 
+tive  use  of  communication  channels.  One  of  the  means  of  improving 
+the  carrying  capacity  of  a  channel  is  the  shortening  of  the  time 
+required  to  transmit  one  sound.  The  question  arises  as  to  what 
+limit  a  sound  can  be  shortened.  As  M,  F«  Derkach  shewed  in  his 
+repocts  "Statistical  Duration  of  Voiceless  Consonants  and  Their 
+Comprehension"  and  "Statistics  of  Characteristic  Sound  Portions  of 
+Vowels  in  Russian,"  the  acoustical  structure  of  sounds  is  non-uni¬ 
+form  in  time.  Therefore,  if  from  a  time  interval  during  which  a 
+sound  is  mads  a  smaller  interval  is  extracted,  comprehension  may 
+
+
+be  lost.  Participants  at  the  conference  had  the  opportunity  of 
+listening  to  a  tape  recording  of  the  syllable  ta  •which  was  arti¬ 
+ficially  derived  from  the  syllable  sa  by  clipping  the  beginning 
+of  the  sound  s_  (but  clipping  the  end  of  the  sound  s_  in  the  sylla¬ 
+ble  as^  does  not  destroy  comprehension). 
+
+A  mere  radical  way,  of  improving  the  transmission  capacity 
+of  a  channel  would  be  the  extraction  of  the  minimum  information 
+necessary  to  differentiate  units  of  speech  (phonemes ^  for  example) 
+and  -transmission  of  only  this  minimum  inf ormation .  (The  leading 
+impor-fcance  of  studies  to  determine  the  semantic  burden  of  speech 
+■units ^  primarily  phonological  studies^  is  ob'viouso)  It  is  envis¬ 
+aged  to  place  at  the  transmitting  end  of  the  communication  line  an 
+analyzer  capable  of  differentiating  phonemes  and  transforming  them 
+into  discre-te  signals,  and  to  ha-ve  at  the  receiving  end  a  synthe¬ 
+sizer  capable  of  transforming  the  signals  received  into  sounds, 
+fundamentally  more  complicated  is  the  construction  of  a  differenti¬ 
+ator.  Che  of  the  possible  designs  of  such  a  unit  -would  be  a  de- 
+■vice  capable  of  determining  the  phonetic  affiliation  of  a  sound  ac¬ 
+cording  to  its  spectrogram. 
+
+A, new  method,  differing  from  that  usually  applied  to  formant 
+analysis,  -was  advanced  by  L.  A,  Chistovich  in  her  report  "Applica¬ 
+tion  of  Statistical  Methods  to  Determination  of  Phonetic  Affilia¬ 
+tion  of  an  Individual  Vowel  Sound."  She  declined  to  venture  into 
+speebrograms  of  invariants ,  which  would  permit  exact  de -termination 
+of  the  phonetic  affiliation  of  a  sound;  her  idea  is  that  the  ques¬ 
+tion  of  phonetic  affiliation  of  so\md  can  be  answered  not  cate¬ 
+gorically,  but  with  a  certain  probability.  Spectrogram  envelopes 
+of  various  so-unds  spoken  by  different  persons  were  examined.  The 
+envelopes  for  each  sound  (different  for  different  persons)  are 
+averaged,  and  the  result  is  a  basic  curve  for  the  given  sound. 
+
+This  basic  ctirve  is  considered  to  be  the  sigaal,  while  the  real 
+envelope  (of  a  speaker)  is  considered  to  be  the  signal  disterted 
+by  some  noise  introduced  by  the  speaker.  In  oruen  to  determine 
+the  phonetic  affiliation  of  a  real  spoken  sound,  the  envelope  of 
+its  spectrogram  is  taken  and  its  deviation  from  the  basic  curve 
+is  determined.  Probabilities  are  calculated  of  whether  a  given ^ 
+real  envelope  is  a  distortion  of  one  of  the  basic  curves  or,  which 
+amounts  to  the  same  thing,  whether  a  given  real  sound  is  -iiie  sound 
+a.  Of  u,  etc.  Chistovich’s  method  can  be  used  without  change  to 
+determine  the  phonetic  affiliation  of  sounds  in  connected  speech, 
+accounting  for  the  effect  on  their  comprehension  by  the  comprehen¬ 
+sion  of  neighboring  sounds.  , 
+
+In,  his  report,  "Use  of  Statistical  Methods  in  Experimental 
+Phonetic  and  Psychological  S-tudy  of  Speech,"  V.  A.  Artempv  described 
+the  work  being  conducted  at  the  laboratory  of  Experimental  Pho¬ 
+netics  of  the  MGPIKa, 
+
+
+-  3  - 
+
+
+Highly  important  in  telephony  (wire  and  wireless)  is  the 
+statistical  study  of  writing,  especially  calculation  of  the  en¬ 
+tropy  of  the  distribution  of  letter  combinations o  As  described  in 
+their  report,  "Statistics  of  Three -Letter  Combinations  in  Russian 
+Printed  Te:st, "  by  V.  A«  Garmash  and  Do  S«  Lebedev,  the  Laboratory 
+of  the  AS  USSR  for  the  solution  of  scientific  problems  in  wire  com¬ 
+munications  computed  the  frequency  of  three -letter  combinations  in 
+a  portion  of  text  from  Tolstoy’s  War  and  Peace,,  The  length  of  the 
+text  was  30,000  letters  (the  spaces  beWeen  words  were  counted  as 
+letters  and  were  designated  by  hyphens).  Frequencies  of  several 
+combinations  were  given  in  the  report,  Kie  most  frequent  were  com¬ 
+binations  of  "-  i  (frequency  82  x  10"^)  and  "-  ne"  (frequency 
+71  X  10"^),  Calculation  of  the  corresponding  entropy  shovred  that 
+for  suitable  coding  of  three -letter  combinations  the  quantity  of 
+text  can  be  decreased  by  about  5/3  times. 
+
+The  role  of  statistical  methods  in  linguistics  is  not  deter¬ 
+mined  exclusively  by  the  requirements  of  technical  applications. 
+
+In  the  report  "Relation  of  Structural  and  Statistical  Methods  in 
+Linguistics"  I,  lo  Revzin  pointed  out  that  it  would  be  q\iite  errone¬ 
+ous  to  underestimate  the  value  of  probability  and  statistical  con¬ 
+cepts  for  the  development  of  linguistic  theory  itself  (if  only,  in 
+the  speaker’s  opinion,  because  the  structirre  of  language,  as  a  code, 
+is  greatly  burdened  with  language  redundancy.;  this  redundancy  is 
+imposed  by  the  necessity  for  speech  to  be  resistant  to  noise).  As 
+Revzin  pointed  out,  the  usual  linguistic  methods  must  be  comple¬ 
+mented  by  statistical  ones. 
+
+In  the  report  "Sequential  and  Functional  Relations  of  the 
+Vietnamese  Verb,"  by  Yu,  K,  Lekomtsev,  it  was  sho's-m  that  in  Viet¬ 
+namese,  after  segregating  certain  full  verbs,  auxiliary  verbs  can 
+be  identified  on  the  basis  of  purely  statistical  counts  of  their 
+combinations  with  full  verbs. 
+
+Statistical  methods  are  also  successfully  applied  in  achiev¬ 
+ing  new  linguistic  advances.  For  examfple,  I,  A,  Mel’chuk  proved  in 
+hi* a  report  "Application  of  Statistics  to  the  Rroblem  of  the  Cate¬ 
+gory  of  Gender  in  French  and  Spanish"  that  in  French  the  grammati¬ 
+cal  category  of  gender  is  formally  expressed  by  the  noun  ending. 
+
+The  author  offered  the  following  statistical  criteria  for  the  ex¬ 
+pression  of  the  category  of  gender:  the  category  of  gender  is  ex¬ 
+pressed  in  the  given  language  if  there  are  rules,  not  too  many  (r>ot 
+exceeding,  let  us  say,  the  number  of  similar  rules  in  Spanish,  where 
+the  expression  of  gender  is  usually  not  subject  to  doubt),  which 
+permit  recognition  of  gender  by  noun  endings  and  encompassing  no 
+less  than  of  the  nouns  of  the  language  (these  rules  include 
+over  S&fo  of  the  nouns  in  Spanish), 
+
+As  noted  at  the  conference,  statistics  can  be  used  in  text- 
+olo^  to  determine  authorship. 
+
+
+In  the  repcrt,  "Erobability  Determination  of  Linguistic  Time 
+(In  Connection  With  the  Problem  of  Using  Statistical  Methods  in 
+Comparative -His tcarical  Linguistics),"  VyaCho  Vs,  Ivanov  demonstrated 
+the  possibility  of  using  statistical  methods  in  internal  reconstruc¬ 
+tion,  Analyzing  the  state  of  a  language  at  a  given  moment  it  is 
+possible  to  establish  the  direction  of  linguistic  time.  For^  exam¬ 
+ple,  linguistic  units  frequently  occurring  in  texts  have  the  ten¬ 
+dency  of  occurring  in  subsequent  states  of  the  language  if  their 
+degree  of  isolation  in  the  system  is  slight j  however,  if  these  fre¬ 
+quent  units  have  a  high  degree  of  isolation,  then  they  are  charac¬ 
+teristic  of  preceding  states.  Frequency  of  occm'rence  and  degree 
+of  isolation  are  determined  statistically.  Another  method  of  re¬ 
+construction  and  prediction  is  connected  with  statistical  study  of 
+linguistic  styles.  The  kinship  of  languages  is  most  reliably  de- 
+termined  in  terms  of  isomorphism  of  the  systems  being  reconstructed. 
+With  reference  to  coincidence  counts  frequently  used  to  establish 
+the  degree  of  kinship  between  languages,  as  the  reporter  pointed 
+out,  a  rigorous  probability  analysis  is  needed  (since  the  proba- 
+biliiy  of  random  coincidence  can  be  high,  but  meaningless). 
+
+I.  I,  Revzin  pointed  out  in  his  report  the  need  to  develop 
+the  special  branch  of  linguistics  —  statistical  linguistics.  Re¬ 
+lations  have  already  been  found  in  statistical  linguistics  for  such 
+values  as;  word  frequency,  word  rank  (sequential  number  in  fre¬ 
+quency  dictionary),  word  length,  etc,  which  shed  light  on  the  theo¬ 
+retical-informational  nature  of  language  as  a  code.  This  subject 
+was  covered  by  R.  G,  Piotrovskiy  in  his  report  "Certain  Problems 
+in  the  Statistical  Study  of  Lexical  Groups 
+
+I.  I.  Revzin  explained  in  his  report  the  two-sided  character 
+of  the  relation  between  structural  and  statistical  methods.  Sta¬ 
+tistics  not  only  helps  to  better  understand  the  structure  of  a  lan¬ 
+guage,  but  the  vinits  themselves  which  are  counted  require  an  accu¬ 
+rate  structural  determination.  Thus,  in  the  author’s  opinion,  a 
+deficiency  in  glotto -chronology  is  the  lack  of  a  precise  determina¬ 
+tion  of  cognate  words.  (V.  V.  Ivanov  indicated  in  his  report  that 
+there  was  not  enou^  motivation  In  even  the  selection  of  the  basic 
+glossary.)  It  is  evident  that  statistical  study  of  syllable  struc¬ 
+ture  cannot  be  done  without  a  precise  definition  of  the  term  sylla¬ 
+ble"  (in  the  first  part  of  her  report  E,  V,  Paducheva  gave  such  a 
+definition  for  a  Spanish  syllable,  which,  apparently,  makes  it 
+possible  to  divide  a  word  precisely  into  syllables).  The  impor¬ 
+tance  of  structural  categories  is  revealed  in  statistical  studies, 
+which  have  direct  practical  application.  In  order  to  establish  the 
+optimum  rules  for  machine  translation,  it  is  necessary  to  make  a 
+statistical  study  of  the  languages  of  the  individual  sciences.  In 
+the  report  "The  Statistical  Vocabulary  of  Russian  Mathematical 
+Texts,"  I,  A,  Mel’chuk,  T,  H.  Moloshnaya,  A.  L.  Shumilina,  Z,  M. 
+Volotskaya  and  I,  N,  Shelimova  presented  the  results  of  a  statisti¬ 
+cal  study  of  the  language  of  mathematical  literature.  In  the  study 
+
+
+-  5  - 
+
+
+it  was  necessary  to  define  precisely  such  concepts  as  ”s3mtagm," 
+"syntagm  type,”  "word  relations  in  a  sentence,”  etc. 
+
+Without  doubt,  this  Leningrad  .conference  was  extremely  im¬ 
+portant  and  not  limited  to  the  problems  indicated  in  its  title. 
+
+TiiTO  situations  were  clearly  delineated  at  the  conference, 
+
+1,  The  penetration  of  mathematical,  particularly  statisti¬ 
+cal,  methods  into  linguistics  is  clearly  fruitful.  These  methods 
+can  play  a  very  important,  though  subordinate,  role  in  the  solution 
+of  linguistic  problems.  Complete  formalization  of  a  real  language 
+according  to  some  mathematical  system,  apparently,  can  never  be 
+achieved;  hcx-rever,  there  is  a  possibility  of  some  approximate  for¬ 
+malizations  of  a  real  language.  The  deviations  betoeen  the  real 
+language  and  the  approximation  must  be  evaluated  statistically, 
+
+2,  Linguistic  studies  are  acquiring  ever  greater  practical 
+meaning,  net  limited,  as  earlier,  to  school  grammars  and  ortho¬ 
+graphic  rules .  This  does  not  mean  that  linguistic  study  is  losing 
+its  theo3.'’etical  profile.  On  the  contrary,  with  the  development  of 
+technology  it  happens  that  the  finest  theoretical  constmetions  are 
+the  mest  impertant  in  application.  The  status  of  matters  in  lin¬ 
+guistics  in  this  regard  is  comparable  to  that  in  mathematics,  where 
+theoretical  offshoots  (such  as  mathematical  logic )  have  recently 
+acquired  special  importance  in  application. 
+
+Especially  rewarding  was  the  variety  of  specializations  rep¬ 
+resented  at  the  conference,  from  radio  engineering  to  physiology. 
+The  conference  demonstrated  the  necessity  and  further  coordination 
+of  the  work  of  the  representatives  of  various  sciences  in  the  realm 
+of  applied  linguistics. 
+
+
+^  II,  ON  LfflGUISTIC  mOBABILITY 
+
+following  is  a  translation  of  an  article  by  L,  R, 
+
+Zinder  in  the  Russian-language  periodical  Voprosy 
+
+yazykoznaniya  (Problems  of  Linguistics Moscow, 
+
+Ho.  2,  1958,  pages  IZI-I23J 
+
+/note;  Superscribed  numbers  refer  to  notes  appended  to  this 
+article^ 
+
+To  know  a  language  means  to  have  in  one’s  memory  its  words 
+and  its  grammatical  models  as  determined  by  its  grammatical  struc¬ 
+ture.  Words  are  retained  in  the  memory  as  sound  images,  while 
+literate  people  retain  them  in  the  form  of  visual  images.  The  lat¬ 
+ter  are  correlated  with  sound  images  if  we  are  dealing  with  lan¬ 
+guages  written  with  letters,  or  are  not  correlated  with  them  if 
+dealing  with  languages  written  with  hieroglyphics.  The  sound  as¬ 
+pect  of  individual  words  consists  of  a  certain  number  of  repeat¬ 
+ing  elemerrbs  in  various  combinations.  These  elements  are  called 
+the  sounds  of  speech  or  phonemes,  and  in  each  language  comprise  a 
+unique  system. 
+
+Since  individual  words  can  consist  of  various  numbers  of 
+phonemes,  sometimes  a  large  number  of  them,  and  though  limited  in 
+every  language^  the  comb inability  of  phonemes  is  still  quite  large, 
+hundreds  of  thousands  of  words  can  be  formed  in  a  language  from  a 
+few  dozen  phonemes .  The  same  can  be  said  of  the  written  form  of 
+a  language  and  its  system  of  letters, 
+
+'  Grammatical  models,  including  not  only  models  of  sentences, 
+word  combinations,  and  word  changes,  but  also  word  facmation  models 
+do  not  exist  in  language  separate  from  words;  they  exist  in  some 
+form  of  word  (i.e,,  in  the  variations  of  their  sound  patterns),  in 
+combination  with  so-called  "auxiliary"  words  (prepositions,  con¬ 
+junctions,  etc.),  or  in  some  arrangement  of  words j  Furthermore, 
+grammatical  models  are  abstracted  from  words  in  language  and  exist 
+in  the  foi'm  of  rules  somewhat  independent  of  words.  Correspond¬ 
+ingly,  thc;y  are  retained  in  the  memory  in  an  abstracted,  "sche¬ 
+matic"  form. 
+
+Perception  or  understanding^  of  speech  consists  of  percep¬ 
+tion  of  sound  signals  in  oral  speech  or  visual  signals  in  the  case 
+of  vrritten  matter  and  their  identification  with  the  sound  or  visual 
+word  images  reposing  in  the  memory, 3  The  richer  the  memory  of  an 
+auditor  in  such  images,  the  more  rapid  and  easier  his  comprehension 
+of  speech.  An  individual’s  active  vocabulary,  tlmt  is,  the  number 
+of  words  used  by  him,  is  relatively  small.  The  number  hardly  ex¬ 
+ceeds  IC^  cf  the  words  in  a  given  language  (at  least  of  the  highly 
+developed  languages).  An  individual’s  passive  vocabulary,  i.e,, 
+the  number  of  words  the  meanings  of  which  are  known,  is  considera¬ 
+bly  larger  than  the  active  vocabulary,  but  even  this  fund  of  words 
+is  undoubtedly  far  from  all  of  the  words  in  the  language,^ 
+
+-  7  - 
+
+
+It  should  he  noted  that  because  of  word  formation  patterns 
+in  the  memory  there  are  more  "understandable"  words  in  the  memory 
+than  words#  For_example,  the  meaning  on  first  hearing  of  the  word 
+"Miolodil-nik"  /refrigerator^  becomes  clear  from  the  suffix  -il-nik 
+(model;  "kipyatil’nik"  /kettle/) <>  The  approximate  meaning  of  the 
+word  "vertolet"  /helicopter/  is  recognized  from  the  model  "samolet" 
+/airplane/,  etc.  A  certain  number  of  unlcnCTra  words,  therefore,  can 
+be  deciphered  by  a  hearer.  Ecwever,  in  speech  words  occxir  which 
+remain,  not  tinderstoodo  The  development  of  an  individual’s  vocabu¬ 
+lary  necessarily  passes  through  the  stage  of  conversion  of  unknown 
+words  into  known  words. 
+
+Ail  of  the  discussion  above  permits  us  to  distinguish  be¬ 
+tween  perception  and  understanding.  The  former  consists  of  recog¬ 
+nizing  the  sound  image  of  a  word,  the  latter  consists  of  connecting 
+this  imjage  with  meaning.  Perception,  as  we  have  seen,  precedes 
+understanding . 
+
+The  possibility  of  perceiving  individual  words  (but  by  no 
+means  speech  as  a  whole)  without  understanding  them  resiilts  from 
+the  fact  that  there  reposes  in  the  memory  of  the  hearer,  abstracted 
+from  the  words,  system  of  sound  elements  (phonemes)  of  the  language 
+The  recognition  of  the  sound  image  of  a  word  occurs  through  these 
+elements . 
+
+The  distinction  between  perception  and  understanding  serves 
+as  the  basis  for  the  long-used  system  of  syllabic  articulation  in 
+telephony  in  which  meaningless  syllables,  the  perception  of  which 
+as  proved  in  practice  are  not  subject  to  any  doubt,  are  used  to 
+test  communications  lines.  Further,  despite  the  fact  that  under¬ 
+standing  is  excluded  here,  the  perception  of  sounds  (phonemes )  com¬ 
+prising  such  sound  combinations,  is  substantia3.1y  different  from 
+perception  of  any  other  sounds  in  nature ,5  This  can  be  explained 
+by  the  fact  that  the  composition  of  language  phonem.es,  which  inde¬ 
+pendently  do  not  have  meaning,  in  the  final  analysis  is  determined 
+by  the  meaningful  relations  existing  in  the  given  language.  There¬ 
+fore  we  can  say  that  although  perception  of  speecxi  sounds,  pho¬ 
+nemes,  and  their  combinations  is  possible  without  understanding, 
+the  two  are  connected. 
+
+Understanding  noticeably  affects  perception,  makes  it  easier 
+and  more  likely  for  the  hearer.  This  capability  of  understanding 
+to  give  additional  information  on  the  m;aterial  being  transmitted 
+(whether  a  sentence,  word,  or  morpheme),  together  with  the  proba¬ 
+bility  limitations  in  the  language,  determine  what  in  information 
+theory  is  called  "redundancy,"®  Redundancy,  as  M,  P.  Dolukhanov 
+writes,  "shows  the  relative  qxiantity  of  excess  information,  which 
+is  determined  by  the  structure  of  the  language  and  is  known  on  the 
+receiving  end  from  statistical  data,"’^ 
+
+It  is  easy  to  see  that  in  general  redundancy  is  the  same  as 
+the  "psychological  factor"  or  "guess  factor,"  which  was  spoken  of 
+
+
+earlier  in  telephony .2,  Seeking  data  on  "pvire  perception"  during 
+aco\xstic  testing  an  effort  was  made  to  exclude  this  factor,  and 
+this  was  the  reason  for  using  meaningless  sound  combinations o  In¬ 
+formation  theory,  consequently,  has  not  discovered  the  phenomenon 
+itself,  but  it  first  defined  its  essence  and  second  provided  a 
+unit  for  measuring  it. 
+
+It  is  perfectly  obvious  that  measurement  of  the  effect  of 
+the  psychological  factor  is  impossible,  because  it  is  a  subjective 
+factor.  An  individual's  ability  to  guess  depends  upon  his  educa¬ 
+tion,  psychic  state,  degree  of  fatigue,  etc.  However,  the  possi¬ 
+bility  of  guessing  is  determined  objectively  by  regularities  in¬ 
+herent  in  a  given  language, 
+
+Ihe  quantity  of  redundant  informtion  which  facilitates 
+guessing,  and  thereby  understanding  and  perception  of  speech,  is 
+determined  by  the  degree  of  probability  of  redundancy  in  the  given 
+language. 
+
+Hrcbability  limitations  characterizing  a  language  are  con¬ 
+veniently  called  the  linguistic  probability®  This  term  encompasses 
+a  variety  of  phenomena:  the  probability  in  speech  of  individual 
+elements  (words  phonemes ) ,  the  probability  in  speech  of  grammatical 
+models;  the  probability  of  sound  combinations  and  word  combina¬ 
+tions;  in  other  wcrds  the  probability  of  certain  sounds  following 
+other  sounds,  and  certain  words  following  certain  others.  All  of 
+this  is  evident  to  one  degree  or  another  in  the  so-called  statisti¬ 
+cal  structure  of  the  language. 
+
+The  probability  of  word  combination  is  subject  to  two  dif¬ 
+ferent  regularities;  consequently  we  can  speak  of  lexical  and  gram¬ 
+matical  probabilities  of  word  combinations.  Lexical  probability 
+concerns  the  combination  of  words  depending  on  their  meaning.  This 
+dependence,  strictly  speaking,  is  not  linguistic;  it  is  determined 
+objectively,  by  social  conditions,  and  is  therefore  quite  variable 
+both  geographically  and  in  time.  For  example,  the  word  combination 
+"sidet*  na  kryshe"  fitting  on  the  roo^  under  conditions  of  life 
+in  the  European  part  of  the  USSR  is  immeasurably  less  ^obable  than 
+the  combination  "sidet*  v  sadu"  /pitting  in  the  garden/;  in  central 
+Asia,  however,  the  probability  of  the  first  combination  increases 
+considerably.  In  the  same  manner  the  word  combination  "steklyan- 
+naya  skovorodka"  /glass  skilletj  was  almost  improbable  twenty  years 
+ago,  but  now  it  is  used  quite  widely,®  Thus,  lexical  probability 
+is  a  purely  statistical  regularity  independent  of  the  grammatical 
+formation  of  the  language, 
+
+Grammatical  probability  can  be  of  two  types.  The  first  type 
+is  the  probability  of  a  certain  part  of  speech  following  a  certain 
+word;  the  second  is  the  probability  of  a  certain  grammatical  form 
+following  a  given  grammatical  form.  The  first  type  is  especially 
+important  in  langxiages  with  rigid  word  order  (English,  for  exam¬ 
+ple),  in  which  a  purely  grammatical  regularity,  a  definite  gram¬ 
+matical  rule,  operates  in  this  fashion.  It  also  plays  a  certain 
+
+
+"  9  - 
+
+
+role  in  languages  having  less  rigid  word  order  Russian,  for  exam¬ 
+ple).  Thus,,  the  combination  "kholodnaya  ziira"  ^old  wintei/,  in 
+which  the  noun  directly  follovrs  its  modifierJLs  more  probable  than 
+the  word  sequence  "kholodnaya  nynche  zima"  /cold  winter  new/,,  where 
+th*  noun  and  the  modifier  are  separated  by  a  third  word,  the  ad¬ 
+verb.  The  probability  in  this  case  is  determined  not  only  gram¬ 
+matically  but  also  statisticaU.y« 
+
+The  second  type  of  grammatical  probability  is  especially 
+important  in  languages  having  a  developed  flexional  system  (Rus¬ 
+sian,  fer  example)  in  which  rules  of  agreement  and  government  de¬ 
+termine  the  occurrence  of  appropriate  grammatical  forms.  In  the 
+case  of  agreement,  a  purely  grammatical  rule  operates :  the  word 
+"kholcdnaya"  //j'ld/^  can  only  be  followed  by  a  singular  feminine 
+nominative.  In  the  case  of  government,  statistical  rules  can  also 
+appear  if  government  oscillates,  as  a  rule  the  words  "ne  chital" 
+/did  not  read/  will  be  follcvxed  by  the  genitive  ("ne  chital  knigi" 
+/did  not  read  a  bool/),  but  the  accusative  ("ne  chital  knigu")  is 
+not  impossible. 
+
+The  quantity  of  redundant  Information  resulting  from  gram¬ 
+matical  probability  is  in  general  very  large,  especially  in  cases 
+in  which  we  deal  with  agreement,  and  partly  also  with  government. 
+Each  of  the  words  in  agreement  carries  information  concerning  the 
+grammatic  form  of  the  other  word,  that  is,  information  on  the  gram¬ 
+matical  model  of  toe  entire  combination,  *It  is  sufficient  to  hear 
+the  word  "deti"  /children/’  to  know  th^t  the  predicate  will  be  in 
+the  3rd  person  plural;  hearing  the  attributive  "bol’shogo"  /^ge/, 
+we  know  that  the  qualified  word  is  a  masculine  or  neuter  singular 
+noun.  If  for  example  the  word  "uvidel"  /saw/  precedes  this  at¬ 
+tributive,  we  obtain  still  more  information  on  the  qualified  word, 
+which  in  the  given  case  will  almost  necessarily  be  a  masculine  noun 
+(and  denol-,ing  an  animate  object)  in  the  accusative  case  and  func¬ 
+tioning  as  an  object.  It  should  be  noted  that  toe  quantity  of  re¬ 
+dundant  infermation  will  be  all  the  greater  the  more  universal  the 
+pertinent  grammatical  rule. 
+
+The  quantity  of  redundant  information  resulting  from  lexical 
+probability  is  much  more  varied  because  it  depends  entirely  on  the 
+statistical  structure  of  the  language.  In  the  word  combination 
+"krasnyy  flag"  ^ed  flag/,  for  example,  the  word  "krasnyy"  [re^ 
+in  some  measure  contains  the  information  that  the  word  following 
+it  is  "flag."  Furthermore,  the  quantity  of  redundant  information, 
+as  mentioned  above,  is  determined  by  the  probability  of  occurrence 
+of  the  combination  "krasnyy  flag,"  as  compared  with  the  probabili¬ 
+ties  of  combinations  "krasnyy  tsvet"  /red  flcwe^,  "krasnyy  mak" 
+^ed  popp^,  etco  Increase  in  the  number  of  words  in  the  word  com¬ 
+bination  increases  the  quantity  of  redundant  information.  For 
+example,  in  the  word  combination  "na  balkone  visel  krasnyy  flag" 
+
+/a  red  flag  hung  on  the  balcony/  the  probability  of  occurrence  of 
+
+
+10  - 
+
+
+the  word  "flag"  after  "krasnyy”  naturally,  is  much  greater  than 
+in  the  combination  "krasnyy  flag,"  beca\;ise  after  the  words  "na 
+balkone  visel"  it  is  impossible  to  have  the  combinations  "krasnyy 
+tsvet,"  "krasny^r  pol"  Aed  floorT",  "krasnyy  shtab"  ^red  staf^, 
+"krasnyy  nos"  /red  nos^,  etc»  Corresponding  to  this,  the  quan¬ 
+tity  of  redundant  information  contained  in  the  word  "krasnyy"  in 
+the  first  combination  is  c03asiderably  greater  than  in  the  second* 
+!I5ie  forms  of  linguistic  probability  examined  are  connected 
+with  understanding  of  speech,  which  assumes  that  some  elements  of 
+speech  (wOrds  or  combinations)  are  correctly  heard  and  understood* 
+Equally  with  this,  perception  itself,  which,  as  shown  above,  breaks 
+down  in  the  final  analysis  to  the  perception  of  individual  sound 
+units,  phonemes,  is  facilitated  by  linguistic  probability.  In  the 
+given  case  we  are  speaking  of  probabilities  of  compatible  sound 
+combinations;  the  probabilities  that  a  certain  phoneme  will  follow 
+a  given  one,'  This  probability,  which  could  be  called  sound  proba¬ 
+bility,  is  .determined  in  two  ways;  first,  by  the  phonetic  rules  of 
+a  given  language  (in  Russian,  for  example,  a  voiced  consonant  can 
+be  followed  only  by  a  vowel  or  a  voiced  consonant),  second,  purely 
+statistically,  as  with  lexical  probability. 
+
+Since  sound  probability  does  not  directly  affect  understand¬ 
+ing,  its  impcjrtance  as  a  source  of  redundancy  is  not  as  obvious  as 
+that  of  lexical  probability,  Nevertheless,  sound  probability, 
+which  exerts  a  real  influence  on  perception,  must  also  be  recog¬ 
+nized  as  a  source  of  redundant  information.  To  illustrate  this 
+circumstance  we  can  cite  the  following  fact.  As  a  result  of  spe¬ 
+cial  tests  conducted  in  19^9  i't  was  found  that  the  articulation  of 
+the  consonants  "f,"  "k,"  "s"  in  the  sound  combinations  "fs"  and 
+"sk"  is  greater  than  the  articulation  of  these  same  consonants  not 
+in  consonance  (i.e,,  in  combination  with  other  consonants).  In 
+one  test  with  a  distortion  channel  the  articulation  of  s^  out  of 
+conscsnance  was  66,^,  in  combination  with  "f "  it  was  89,8/0  and  in 
+combination  with  "k"  it  was  9^ ,7^ ,5  , 
+
+The  divergence  between  articulation  of  consonants  in  and 
+out  of  consonance  was  explained  earlier  by  the  general  phonetic 
+position  that  the  acoustic  characteristic  of  an  individual  conso¬ 
+nant  and  the  same  consonant  in  consonance  must  be  different.  How¬ 
+ever,  it  was  not  clear  why  the  articulation  of  a  consonant  in  con¬ 
+sonance  was  always  greater  than  under  other  conditions.  This  can 
+be  argued,  obviously,  only  from  the  standpoint  of  information 
+theory;  namely,  in  the  sense  that  a  neighboring  consonant  in  Rus¬ 
+sian  contains  more  redundant  information  on  a  given  consonant  than 
+a  neighboring  vowel.  With  regard  to  consonance  combinations  "fs" 
+and  "sk,"  they  have  relatively  high  probability  as  compared  with 
+other  consonantal  combinations.  This  can  be  used  to  explain  the 
+sharp  increase  in  their-  articulation  observed  in  the  tests  men¬ 
+tioned. 
+
+
+11  - 
+
+
+In  the  same  manrer  as  in  lexical  probability,  the  increase 
+in  the  number  of  sound  combinations  is  accompanied  by  an  increase 
+in  the  quantity  of  redundant  information  relative  to  each  of  the 
+sounds  in  the  combination.  It  is  perfectly  clear,  for  exaniple, 
+that  the  occurrence  of."r"  after  "ost"  is  much  more  probable  than 
+after  ‘'s"  and  even  after  "st,”  Consequently  "ost"  contains  much 
+more  redundant  information  relative  to  "r"  than  "st,"  and  "st"  in 
+turn,  more  than  "s."  Thus  we  can  differentiate  sotrad  probability 
+of  the  "first  order"  when  combinations  of  two  sounds  are  considered, 
+of  the  "second  order"  when  combinations  of  three  sounds  are  con¬ 
+sidered,  etc, 
+
+A  project  was  carried  cut  in  1956  at  the  Chair  of  Phonetics 
+at  the  A,  A,  Zhdanov  Leningrad  University  to  determine  the  sound 
+probability  of  the  "first  order"  in  Russian »  Raw  material,  in  the 
+light  of  the  ideas  discussed  above,  was  gathered  by  taking  arti¬ 
+cles  from  current  newspapers  as  well  as  works  of  contemporary  So¬ 
+viet  authors  (Gorbatov,  Gaidar,  Tendryakov,  Paustovskii,  Panova, 
+etc,).  The  total  material  consisted  of  88,538  phonemes.  After 
+phonetic  transcription  of  all  texts,  a  count  was  made  of  each  com¬ 
+bination  possible  in  Russian,  and  then  the  probability  of  each  com¬ 
+bination  was  calculated. 
+
+The  sound  probability  within  words  is  determined  by  their 
+frequency  of  use  and  their  morphological  structure;  at  word  junc¬ 
+tures  it  is  determined  by  the  combining  ability  of  words  and  by 
+syntactic  rules,  i.e.,  by  lexical  and- grammatical  probability# 
+
+As  a  result,  two  tables  were  prepared. 
+
+In  addition  to  the  forms  of  sound  probability  indicated,  a 
+determination  was  made  of  the  sequential  probability  of  individual 
+groups  of  sounds  following  each  other  within  words :  vowels  and 
+consonants,  stop  consonants  and  sonants,  plosives  and  fricatives, 
+nasals  and  liquids.  It  was  found  that  the  probability  of  occurrence 
+of  a  vovrel  after  a  consonant  is  Oc7^^9,  whereas  the  probability  cf 
+a  consonant  following  a  corisonant  is  0.2551j  the  probability  of  a 
+vowel  following  a  vowel  is  0,0017,  and  a  consonant  following  a  varel 
+is  0.9983, 
+
+The  accompanying  tables  show  the  sequential  probability  of 
+different  groups  of  consonants .  The  unit  for  the  first  table  is 
+"consonant  +  consonant,"  and  for  the  second  a  coiBbination  of  "con¬ 
+sonant  +  any  sound  (vowel  or  consonant),"  (The  letters  in  the 
+tables  are  identified  as  foUcviS :  C,  consonant;  M,  voiced  conso¬ 
+nant;  S,  sonant;  E,  plosive;  P,  fricative  and  affricative;  W, 
+nasal;  L,  liquid  (including  j)») 
+
+
+-  12 
+
+
+a^ABn:  1 
+
+Jolljtwins.i 
+
+
+Preceding 
+
+wiMt— juign^  J-'  n 
+
+C 
+
+M 
+
+E  .  . 
+
+,  ,  E: 
+
+N 
+
+L 
+
+c 
+
+1,0000 
+
+0.5695 
+
+0.4305 
+
+0.3385 
+
+0.2310 
+
+0,1800 
+
+0.2505 
+
+M  - 
+
+0,7850 
+
+0,4278 
+
+0.3572 
+
+0,2732 
+
+0.1546 
+
+0.1161 
+
+0,2411 
+
+S 
+
+0,2150 
+
+0,1417 
+
+0.0733 
+
+0,0653 
+
+0,0764 
+
+0,0639 
+
+0.0094 
+
+E 
+
+0.3303 
+
+0.0981 
+
+0.2322 
+
+0.0350 
+
+0.0631 
+
+0.0420 
+
+0,1902 
+
+F 
+
+0,4547 
+
+0.3297 
+
+0.1250 
+
+0,2382 
+
+0.0915 
+
+0,0741 
+
+0.0509 
+
+N 
+
+0.0878 
+
+0.0471 
+
+0,0407 
+
+0.0230 
+
+0.0241 
+
+0,0358 
+
+0.0049 
+
+L 
+
+0.1272 
+
+0.0946 
+
+0,0326 
+
+0,0423 
+
+0.0523 
+
+0.0281 
+
+0.0045 
+
+31ABLE  2 
+
+Rpeceding 
+
+M 
+
+Following 
+
+S  E 
+
+mum 
+
+F 
+
+N 
+
+mm 
+
+L 
+
+C  • 
+
+0,2551 
+
+0.1453 
+
+0.1098 
+
+0.0864 
+
+0.0589 
+
+0.0459 
+
+0,0639 
+
+M 
+
+0,2003 
+
+0.1092 
+
+0.0911 
+
+0.0697 
+
+0.0395 
+
+0.0296 
+
+0,0615 
+
+S 
+
+0.0548 
+
+0,0361 
+
+0,0187 
+
+0.0167 
+
+0,0194 
+
+0.0163 
+
+0.0024 
+
+E 
+
+0.0842 
+
+0.0250 
+
+0.0592 
+
+0.0089 
+
+0,0161 
+
+0.0107 
+
+0.0485 
+
+F 
+
+0.1161 
+
+0,0842 
+
+0.0319 
+
+0.0608 
+
+0,0234 
+
+0.0189 
+
+0.0130 
+
+M 
+
+0.0224 
+
+0.0120 
+
+0.0104 
+
+0,0059 
+
+0.0061 
+
+0.0091 
+
+0.0013 
+
+L 
+
+0.0324 
+
+0.0241 
+
+0,0083 
+
+0,0108 
+
+0,0133 
+
+0,0072 
+
+0.0011 
+
+KOTES 
+
+1.  In  Russian,  for  example,  voiceless  consonants  cannot 
+combine  with  voiced  consonants  in  the  same  word,  hard  consonants 
+cannot  precede  the  vowel  "i,"  etce 
+
+2,  It  will  be  shown  that  these  two  concepts  are  net  identi 
+cal,  although  in  the  narrowest  sense  they  are  interconnected* 
+
+
+-  13  - 
+
+
+3»  Inasmich  as  for  the  purposes  of  this  paper  the  -written 
+and  spoken  forms  of  speech  are  completely  analogous,  subsequent 
+discussion  -will  be  confined  to  oral  speecho 
+
+4,  With  regard  to  active  vocabulary  there  are  a  few  pub¬ 
+lished  data*  They  concern  the  number  of  -words  used  in  the  works 
+of  such  authors  as  Shakespeare,  Pushkin,  etco  As  for  passive  vo¬ 
+cabulary,  there  is  no  reliable  method  for  evaluating  it* 
+
+5»  L*  E«  Zinder,  "Specific  Features  of  the  Perception  of 
+Speech  Sounds,"  sb,,  Vospriyatiye  zvukovykh  signalov  v  razlichnykh 
+akusticheskildi  usloviyakn  Symposium;  Perception  of  Sound  Signals 
+Under  Various  Acoustic  ConditionsT",  Moscow,  1956,  page  69® 
+
+6»  See  M,  P.  Dolukhanov,  Vvedeniye  -v  teoriyu  peredachi  in- 
+formatsii  po  elektricheskim  kana3am  svyazi  /Introduction  to  the 
+Theory  of  ICransmission  of  Information  Over  Electrical  Comjirrunica- 
+tions  Channels^,^  Moscow,  1955 J  A»  A,  Kharkevich,  Ocherki  cbshchey 
+teorii  s-yyazi  ^Essays  on  the  General  Theory  of  Communication/ , 
+Moscot,  1955 J  S.  Goldman,  Teoriya  Informatsli  /information  IheoryT"* 
+translated  from  the  English,  Moscow,  1957;  Q®  Ao  Miller,  Language 
+and  Communication,  New  York,  1951® 
+
+”7,  M.  P<,  Dolukhanov,  op«  cit-,,  page  30,  The  term  "re¬ 
+dundancy"  should  be  taken  with  qualifications,  because  if  noise  is 
+present  it  can  be  impossible  to  obtain  even  the  minimum  information 
+if  there  is  no  redundancy.. 
+
+8»  This  statement  necessitates  the  conclusion  that  lexical 
+probability  should  be  determined  for  a  more  or  less  definite  inter¬ 
+val  of  time.  Word  combinations  occurring  in  the  works  of  authors 
+of  the  3.9fch  cent’jry  speak  nothing  for  the  3-exical  probabilities  in 
+present-day  Russian.  The  same,  of  course,  applies  also  to  the 
+probability  of  the  occurrence  of  certain  words,  as  well  as  indi¬ 
+vidual  phonemes. 
+
+9.  L.  R.  Zinder,  "Russian  Articulation  Tables,"  Trudy 
+Voyennoy  krasnoznamennoy  akademll  s-vyazl  im.  S «  M,  Budennogo 
+/Proceedings  of  the  Military  "Red  Banner"  Academy  of  CoDmuni cations 
+imeni  S.  M,  Budennyj^,  Vol,  29-30^  Leningrad,  1951^  pages  37-38.. 
+
+
+-  14  - 
+
+
+III.  SWOSIUM  ON  mOBIEl®  OF  SPEEGH.D'ISCRlMIimTION 
+
+Renewing  is  a  translation  of  an  article  by  L,  R, 
+
+Zincer  in  the  Russian-langmge  periodical  Voprosy 
+yazykoznaniya  (Problems  of  Linguistics),  Moscow, 
+
+No"^  5,  1958#  pages  151-152^ 
+
+A  Byurposium  was  held  in  Moscow  from  26  through  30  May  1958 
+on  problems  a£  speech  discrimination.  The  symposiiim  was  sponsored 
+by  the  Acoustics  Commission  of  the  Academy  of  Sciences,  USSR,  Par¬ 
+ticipants  in  the  S3raiposium  were  Soviet  and  Czechoslovak  scien¬ 
+tists  —  physicists,  communications  engineers,  and  linguists.  Two 
+problems  were  discussed;  l)  the  feasibility  of  using  test  tables 
+consisting  of  meaningless  sound  combinations  (syllables),  and  2) 
+the  types  of  sound  combinations  (syllables)  included  in  test  tables. 
+After  an  introduction  by  Academician  No  N.  Andreyev,  the 
+following  reports  dealing  with  the  first  problem  were  heard:  from 
+Czechoslovakia  —  I.  Slavik  (physicist)  and  I,,  Vakhek  (linguist), 
+"Hew  Methods  of  Testing  Speech  Discrimination”;  from  the  Soviet 
+Union  —  L,  Ro  Zinder  (linguist),  "Linguistic  Principles  for  Com¬ 
+posing  Articulation  Tables,"  B.  I.  Frid  (communications  engineer), 
+"Relations  Between  Syllabic  and  Word  Discrimination,"  and  le,  Yu, 
+Gurbanov  (communications  engineer),  "Problems  in  the  Practical  Ap¬ 
+plication  of  Articulation  Tables," 
+
+In  their  report  I.  Slavic  and  I,  Vakhek  criticized  the  gen¬ 
+erally  accepted  method  for  testing  communications  channels  by  using 
+meaningless  syllables,  Eroceding  from  the  fact  that  this  meth¬ 
+odology  does  not  account  for  conditions  prevailing  for  actual  tele¬ 
+phone  conversations,  and  basing  themselves  on  the  fact  that  "the 
+essence  of  language  is  the  extremely  close  connection  bet^'j'een  the 
+form  of  the  sound  and  meaningful  content,"  the  authors  suggest  re¬ 
+pudiation  of  the  traditional  methodology.  Instead,  they  recommend 
+a  new,  coniplex  method.  Fundamental  to  this  method  is  testing  with 
+word  tables.  In  the  authors*  opinion  such  tables  iriake  it  possible 
+to  evaluate  equally  the  quality  of  transmission  and  sound  form  and  , 
+meaning.  Further,  the  complex  method  allows  for  tests  using  con¬ 
+versations  on  given  subjects,  and  for  special  cases  (for  deter¬ 
+mination  of  transmittability  of  individual  sounds),  tests  using 
+meaningless  syllables, 
+
+Jh.  his  report  L,  R.  Zinder  defended  the  opposite  point  of 
+view.  In  his  opinion  testing  with  meaningless  syllables  is  com¬ 
+pletely  permissible  from  the  linguistic  point  cf  view  for  the  fol¬ 
+lowing  reasons;  l)  the  sound  portion  of  language  (phonemes)  is 
+abstracted  from  the  meaning  portion,  forming  a  special  system  having 
+a  certain  independence;  2)  perception  of  the  sound  form  precedes 
+understanding;  3)  articulation  tests  must  give  an  objective  measure 
+of  the  qtiality  of  a  channel,  i.e,,  its  capability  of  transmitting 
+
+
+-  15  - 
+
+
+a  spoken  sound  form;  k)  insofar  as  a  channel  transmits  only  a  sound 
+f<2rm  and  not  meaning,  the  testing  tables  must  therefore  contain 
+sound  material  in  a  form  most  free  from  redundancy  (in  the  informa¬ 
+tion  theory)® 
+
+B.  I.  Frid  reported  the  results  of  experiments  which  show 
+that  articulation  (ioe®,  percent  correctly  received)  of  syllables, 
+articulation  of  words,  and  articulation  of  phrases  have  the  same 
+dependence.  For  example,  if  syllables  are  transmitted  better 
+through  channel  A  than  channel  B,  then  in  the  same  measure  both 
+words  and  phrases  will  be  transmitted  better  throu^i  channel  A 
+than  through  channel  B, 
+
+Ye®  Xuo  Gurbanov  spoke  first  on  the  theoretical  advantages 
+of  testing  with  meaningless  syllables,  which  are  the  most  free  from 
+redundancies,  from  the  information  theory  point  of  view;  second  on 
+the  great  accuracy  of  results  achieved  by  this  method,  especially 
+when  high-quality  channels  are  being  tested;  and  third  on  the 
+greater  economy  of  using  meaningless  syllables  as  compared  with 
+other  methods® 
+
+In  the  discussions,  participated  in  by  I®  I'^rkhaut  and 
+V.  Klimesh  of  Czechoslovakia  and  V.  A,  Artemov,  Yu,  S®  Bykov, 
+
+L,  A,  Varshavskii,  I,  M®  Sitvak,  N.  B®  Pokrovskii,  A,  A®  Reformat- 
+skiy,  M.  A,  Sapozhkov,  V®  N®  Fedorovich,  and  A®  G®  El’snits  of  the 
+Soviet  Union,  it  was  brought  out  first  that  it  was  necessary  to 
+distinguish  between  discrimination,  i,e«,  the  capability  of  identi¬ 
+fying  language  elements  the  sound  form  of  which  is  not  connected 
+with  meaningful  content  (sounds  and  syllables),  and  intelligibility, 
+etc®,  the  capability  of  identifying  language  elements  the  sovind 
+form  of  which  is  inseparably  joined  with  the  meaningful  content 
+(words  and  plxrases,  for  example). 
+
+It  was  brou^t  out  further  that  discrimination  is  not  a  di¬ 
+rect  measure  of  intelligibiJlty,  but  there  is  a  direct  dependence 
+between  them®  This  made  it  possible  for  all  participants  of  the 
+symposium  to  reach  the  following  agreement®  "Upon  ascertaining  that 
+for  the  given  language  the  various  forms  of  discrimination  and  in¬ 
+telligibility  are  interdependent,  it  is  not  necessary  to  measure 
+the  various  forms  of  discrimination  and  intelligibility  when  deter¬ 
+mining  tne  quality  of  a  channel®  It  is  sufficient  to  measure  one 
+of  the  indicated  forms,  preferably  the  one  which  is  least  difficult 
+to  measure®  The  results  of  such  measurement  provides  data  on  other 
+forms  of  discrimination  and  intelligibility®" 
+
+The  following  reports  were  read  on  the  second  problem: 
+
+I®  Vakhek,  "Discussion  of  a  Method  of  Compiling  Articulation  Tables," 
+Yu,  S,  Bykov,  "Comparison  of  the  Effectiveness  of  Various  Systems 
+of  Articulation  Measvirements,"  I®  Vakhek  in  his  report  criticized 
+the  VKIAS  syllable  articulation  tables  for  the  absence  in  them  of 
+open  syllables,  unstressed  vcsrels,  and  combinations  of  three  con¬ 
+sonants,  which  are  characteristic  in  Russian®  Yu®  S,  Bykov  spoke 
+
+
+-  16  - 
+
+
+of  tlie  reed  for  compiling  syllable  tables  from  arttcuiation '  of 
+continuous  speech »  . 
+
+L.  A*  Varshavskiy,  Ye«  Yue  Gurbanov,  L,  E,;  Zihde'fjj  and 
+A ,  A .  Ref ormatskiy  participated  in  the  discussions . 
+
+
+4 
+
+
+-  IT  - 
+
+
+IV.  OK  THE  DEVELOPMENT  OF  STHUCTURAL 
+
+AND  MATHEMAOMCAL  METHODS  OF  LANGUAGE  RESEARCH 
+
+following  is  a  translation  of  an  unsigned  article 
+in  the  Russian-langijiage  periodical  Vestnik  Akademii 
+nauk  SSSR  (Bulletin  of  the  Academy  of  Sciences 
+USSR)7~^bcow,  No.  7^  I960,  page 
+
+Structural  and  mathematical  methods  of  language  research 
+(structural  and  mathematical  linguistics)  are  the  theoretical  basis 
+for  solving  applied  linguistic  problems  in  contemporary  cybernetics 
+(automatic  oral  control  of  production  units,  automation  of  informa¬ 
+tion  service,  machine  translation  and  abstracting  of  scientific  and 
+technical  literature,  construction  of  inf ormation -logic  machines, 
+construction  of  automatic  stenographic  recorders,  increasing  the 
+carrying  capacity  of  communications  channels,  etc.).  The  applica¬ 
+tion  of  these  methods  is  of  considerable  value  also  in  the  develop¬ 
+ment  of  theoretical  linguistics,  _ 
+
+However,  as  noted  in  the  resolution  of  the  Presidium  ^of  the 
+Academy  of  Sciences  USSrT",  scientific  research  in  this  area  has  not 
+received  the  attention  that  it  merits.  Insufficient  development 
+of  structural  and  mathematical  methods  by  linguistic  departments 
+is  hindering  practical  important  work  on  the  theory  and  practice  of 
+machine  translation,  on  construction  of  information  languages  and 
+information  machines,  logical  semantics,  and  cybernetic  applica¬ 
+tions  of  linguistics. 
+
+The  Presidium  adopted  a  numiber  of  measures  to  eliminate  this 
+situation.  It  was  decided  to  reorganize  the  applied  linguistics 
+sector  of  the  Institute  of  Linguistics  and  in  the  structure  of  the 
+Leningrad  division  of  the  Institute  to  create  a  group  for  the  mathe¬ 
+matical  study  of  language  and  a  group  for  the  structural-typological 
+study  of  languages,  A  secf.or  of  structural  linguistics  is  being 
+organized  in  the  Russian  Language  Institute  and  a  sector  of  struc¬ 
+tural  typology  of  Slavic  languages  in  the  Institute  of  Slavic 
+Studies,  A  group  for  structural  typology  of  Eastern  languages  is 
+being  created  in  the  Institute  of  Far  Eastern  Studies,  and  in  the 
+Institute  of  Chinese  Studies,  a  group  for  structxaral-typological 
+study  of  the  Chinese  language,  and  in  the  Institu.te  of  Ethnography, 
+a  group  for  structural  signalization,  calligraphy,  and  decipher¬ 
+ment,  The  special  attention  of  the  reorganized  and  newly  created 
+sectors  and  groups  is  directed  to  the  statistical  study  of  the  Rus¬ 
+sian  language  and  other  languages  of  the  peoples  of  the  USSR, 
+
+Coordination  of  the  work  in  the  area  of  structural  and  mathe¬ 
+matical  methods  of  linguistic  research  in  the  institutes  of  the 
+Academy  of  Sciences  USSR  is  ms.de  the  responsibility  of  the  Scien¬ 
+tific  Soviet  on  Cybernetics, 
+
+
+6030 
+
+
+El® 
+
+-  18  - 
+
+

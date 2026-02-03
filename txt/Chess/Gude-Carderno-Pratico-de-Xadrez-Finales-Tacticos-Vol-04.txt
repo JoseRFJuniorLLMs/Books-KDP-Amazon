@@ -1,0 +1,2103 @@
+ANTONIO GUDE 
+FINALES 
+, . 
+tacttCOS 
+128 ejercicios tematicos para 
+un entrenamiento 
+estructurado
+
+cuadernos prdcticos 
+deAJEDREZ .. 
+fdf .~: ~ 
+ANTONIO GUDE 
+FINALES 
+-, . 
+tacttCOS 
+128 ejercicios tematicos para 
+un entrenamiento 
+estructurado 
+l~ :. __ ~': _:~~;-~' 
+_~.?(_ 
+Biblioleca PUblica de Palencia 
+PRE 
+11111111111 
+--
+TUTOR
+
+Editor: JesUs Domingo 
+Coordinaci6n editorial: Paloma Gonzalez 
+No esta permitida la reproducci6n tOlal 0 parcial de este libra, ni lampaco su tratamiento 
+informatico, ni la transmisi6n de ninguna forma 0 por cualquier medio, ya sea elcctr6nico, 
+mccanico. por fotocopia, por rcgistro u otros mctodos, sin cl permiso previo y por escrito 
+de los titulares del Copyrighr. 
+© 2007 by Antonio Gude Fernandez 
+© 2007 by EDICIONES TUTOR, S.A. 
+Marques de Urquijo, 34. 28008 Madrid 
+Tel.: 91 559 98 32. Fax: 91 541 02 35 
+E-mail: info@edicionestutor.com 
+www.edicionestutor.com 
+~ 
+Socio fundador 
+de la World Sport Publishers' Association 
+(WSPA) 
+Maquetaci6n: Juan Morano 
+ISBN 13: 978-84-7902-624-0 
+ISBN 10: 84-7902-624-3 
+Deposito legal: M-46476-2006 
+Impreso en Graficas Muriel, S.A. 
+Impreso en Espaiia - Printed in Spain 
+-
+-
+--
+-
+-
+-
+-
+--
+Sumario 
+Introducci6n 
+1 Finales de piezas menores con peones 
+Ejercicios 1 - 16 
+2 Finales de torres 
+Ejercicios 17 - 48 
+3 Finales de damas 
+Ejercicios 49 - 64 
+4 Finales con varias piezas 
+Ejercicios 65 -128 
+Soluciones 
+Pugs. 
+3 
+5 
+9 
+17 
+21 
+37
+
+~' 
+.~ 
+--.. - - -
+In·trod:flcci.6n 
+-
+_ 
+-
+"-
+--' 
+~ 
+-
+-
+. 
+a la serle CUADERNOS pIL\CTICOS DE AJEDREZ 
+L
+a teoria trata de estableccr modelos 
+didacticos en el tratamiento de posi-
+ciones, 0 en el estudio de los distintos tc-
+mas tecnicos, pero la pnktica se encarga 
+de crear el caos con su diversidad, 10 que 
+constituye precisamente uno de los gran-
+des atractivos del ajedrez. 
+Los manuales Escuela de Ajedrez (1 y 
+2) tienen una marcada orientacion pnkti-
+ca, como 10 demuestra el hecho de que, 
+adem as de las numcrosas posiciones co-
+mentadas en el cuerpo principal, ambos li-
+bros contengan un bloque adicional de 
+160 y 128 ejercicios, respectivamente. 
+No obstante, el esfucrzo por sistema-
+tizar el material, reduciendolo a modelos 
+validos, en aras de la mejor orientacion di-
+dactica posible, no basta para que el juga-
+dor pueda captar la variedad y riqueza del 
+ajedrez de competicion. 
+Esta iniciativa editorial responde a la 
+necesidad del jugador activo de cultivar 
+un entrenamiento sistematico, y estos cua-
+dernos, con 128 ejercicios cada uno, en 
+tres niveles de dificultad, contribuiran a 
+resolver ese aspecto, porque vienen a ser 
+parques tematicos, con posiciones que am-
+plian aspectos monognlficos desarrollados 
+teoricamente en los manuales. 
+3 
+Cad a cuademo estara dividido en sec-
+ciones, y los ejercicios de estas son califi-
+cados con una, dos 0 tres estrellitas, segiln 
+el grado de dificultad, conforme a la tccni-
+ca empleada en Escuela de Ajedrez (1 y 2). 
+Medir la dificultad de un ejercicio no 
+es facil. No solo porque la valoracion obje-
+tiva sea en sf misma dificil, sino porque el 
+grado de dificultad es distinto para cad a 
+persona. La aspiracion de estos cuadernos 
+es llegar al mas amplio numero posible de 
+ajedrecistas, pues s610 asi se justificani su 
+publicacion. En terminos generales, creo 
+que el tiempo de resolucion debe ser de: 
+• Primer mvel (1 estrella) 
+1-3 minutos 
+• Segundo nivel (2 estrellas) 
+5 -10 minutos 
+• Tercer nive1 (3 estrellas) 
+10 - 20 minutos. 
+El tiempo de reflexion no tiene por 
+que ser excesivamente riguroso. Los auto-
+didactas pueden guiarse por esta estima-
+cion orientadora, mientras que -como ya se 
+ha sugerido en Escuela de A jedrez-lo ideal 
+cs que, en su caso, el instructor asigne a un 
+grupo de jugadores 0 a un jugador determi-
+nado el tiempo exacto que considere oportu-
+no para cada ejercicio, 0 bloque de ejercicios.
+
+FINALES TACTICOS 
+Llamamos {aefieo.\' a aquellos finales en los 
+que la lucha, generalmente lecnica, de es-
+ta ultima fase de la partida esta influida 
+por reyes amenazados, a por secuencias 
+combinativas para promocionar un peon, 
+explotar determinada ventaja, 0 descubrir 
+una sorprendente maniobra salvadora. En 
+otras palabras, finales en los que predomi-
+na el juego tactico, porque intervienen en 
+ellos sacrificios 0 elementos combinativos 
+no muy caraeterfsticos, cuando quedan 
+pocas piezas en juego. En los manuales 
+ESCUELA DE AJEDREZ (1 Y 2) no se 
+estudian los .finales lactieos propiamente 
+dichos, pero al estudiar las figuras combi-
+nativas (capitulos 5 y 7 de EDA, capitulo 2 
+de EDA 2) se incluian divers os ejemplos 
+que pueden ser catalogados como tales. 
+De todos modos, no es estc un lema 
+tecnico que se estudie de fonna sistemati-
+ca en los manuales, pero este cuaderno es-
+ta mas que justificado por su considerable 
+valor practico: las posicioncs Ie danin al 
+estudiante de ajedrez una mayor perspec-
+tiva y vision cuando se enIrente a finales 
+con ideas similares (que son aquf muy va-
+riadas y, en muchos casos, muy origin a-
+les). 
+Para progresar en ajedrez s610 se conoce una formula: jugar el mayor numero posible 
+de torneos, junto con el estudio teo rico y el anilisis de las propias partidas. El comple-
+menta ideal de esa formula es, como recomicndan much os grandes maestros, que el ju-
+gador desarrolle y pcrfeccione su capacidad tactica y estrategica, mediante la resolu-
+cion de numcrosos ejercicios, especialmente seleccionados por su utilidad. Como los 
+que aqui Ie ofrecemos. 
+SIGNOS CONVENCIONALES 
+En ajedrez se utiliza una serie de signos, universalmente aceptados, para complemen-
+tar 0 rnatizar el valor de una jugada, 0 bien para evaluar posicioncs. Los principales, em-
+pleados a 10 largo de la obra, son 6stos: 
+x 
+Captura 
+Buena jugada 
++ 
+Jaque 
+!! 
+Jugada excelente 
+++ 
+Jaque mate 
+? 
+Malajugada 
+± 
+Ventaja de las blancas 
+?? 
+Grave error 
+=+= 
+Ventaja de las negras 
+!? 
+Jugada interesante 
++-
+Ventaja decisiva de las blancas 
+?! 
+Jugada dudosa 
+-+ 
+Ventaja decisiva de las negras 
+Posicion igualada 
+0-0 
+Enroque corto 
+00 
+Posicion complicada, 
+0-0-0 
+Enroquc largo 
+dificil de evaluar 
+4
+
+1 
+Juegan blancas 
+* 
+l,Se anima a dar mate? Mucho ojo con 
+las posiciones de ahogado. 
+2 
+Juegan negras 
+* 
+Tras un cambio, las blancas acaban de 
+retomar en S, pero se 10 pensaron mejor y 
+abandonaron. l,Por que? 
+5 
+3 
+Juegan blancas 
+* 
+• ••• • 
+• ••• 
+• .lb. • 
+· . .~.~ 
+• ••• 
+• ••• 
+• ••• 
+~ •• 
+~ •• 
+~ •• 
+~ 
+~ ... 
+Este final se gana con un truco tactico 
+que explota la torpeza del caballo contra 
+el peon de torre. Usted tiene la palabra. 
+4 
+J uegan blancas 
+* 
+Nuevo ejercicio de habilidad. Expli-
+quenos como dan mate las blancas en seis 
+jugadas.
+
+FINALES DE P. MENORES CON PEONES 
+5 
+Juegan negras 
+** 
+Con un peon extra, no parece que las 
+blancas deban pasar apuros para hacer ta-
+bIas. iQue opina? 
+6 
+Juegan blancas 
+** 
+Si hay algo derto en este mundo es 
+que el peon h es imparable. iPuede imagi-
+nar alguna posibilidad de salvacion? 
+6 
+7 
+Juegan blancas 
+** 
+iPuede vcr algun metodo ganadoT pa-
+ra las blancas? No se olvide del pe6n h. 
+8 
+Juegan blancas 
+** 
+Los finales de alfiles de distinto color 
+son diffciles, pero algunos producen la 
+sensaci6n de seT faciles, como este.
+
+FINALES DE P. MENORES CON PEONES 
+9 
+Juegan blanca.~ 
+** 
+• ••• 
+• ••• 
+• ••• 
+• •• ·~0 
+• ••• 
+• .t. • • 
+•• . .~. 
+• 
+m 
+~ • 
+- ~ --
+l,Es posible que ganen aqui las blan-
+cas? iRecuerde que el contrario tambien 
+juega! 
+10 
+Juegan blancas 
+** 
+• ••• 
+• i. • •. 
+• .iD • 
+• ••• 
+• ••• 
+. 
+~. . . 
+• ••• 
+• 4\. • = 
+Puesto que el rey negro controla al 
+peon de f6, l,quien diria que las blancas 
+pueden ganar aqui? 
+7 
+11 
+Juegan negras 
+*** 
+Este duelo entre dos grandes estrellas 
+del ajedrez actual se decide pOT una bonita 
+jugada inicial y un caIculo preciso. 
+12 
+Juegan blancas 
+*** 
+loDe que forma pueden ganar las blan-
+cas? l,Podemos imaginarlo? Se trata de 
+una composicion, pero muy verosimil.
+
+FINALES DE P. MENORES CON PEONES 
+13 
+Juegan. blancas 
+*** 
+Para desahogar al rey negro tendnl 
+que entregar e1 caballo, ipero luego segui-
+ra ahogadol Denos la soluci6n. 
+14 
+Juegan negras 
+*** 
+Le prevengo que esta posicion (de 
+partida viva) contiene una belleza inso-
+portable. Ade1ante con sus daves. 
+8 
+15 
+Juegan negras 
+*** 
+Debenl hilar muy fino si se atreve a 
+ganar este fmal, como 10 hizo un campean 
+del mundo. Muestrenos sus cartas. 
+16 
+Juegan blancas 
+*** 
+E1 peon e, apoyado por su activo rey. 
+parece mas peJigroso que el d blanco. Pe-
+fO las cosas no son 10 que parecen.
+
+17 
+Juegan negras 
+* 
+EI pe6n de ventaja no sirve de nada, 
+porque la posicion esta "cargada", asi que 
+jactue! 
+18 
+Juegan blancas 
+* 
+La pregunta no puede ser mas simple: 
+l,c6mo piensa usted ganar con blancas? 
+9 
+19 
+Juegan negras 
+(a) l,Por que es mala 1 ... ~g4? 
+(b) l,CuaI es la mejor jugada? 
+20 
+Juegan blanca.fi 
+* 
+* 
+En este sencillo estudio, el pOOn pasa-
+do y la complicidad geometrica del tablero 
+resuelven su problema.
+
+FINALES DE TORRES 
+21 
+Juegan negras 
+* 
+l Que pasaria si las negras jllegan aho-
+ra 54 ... l:e3? l.CuaJ. sena su respuesta? 
+22 
+J uegan blancas 
+* 
+----
+-- -~-* 
+a __ • 
+• 
+____ 
+~n 
+~ __ u 
+----
+----
+----
+-. --
+En esta posicion hay un mate en cua-
+tro que usted esta perfectamente prepafa-
+do para ver. 
+10 
+23 
+J uegan blancas 
+* 
+Para ganar aqlli, tiene que hacer alga 
+especial. Cualquier jllgada no basta. Asi 
+pues ... 
+24 
+J uegan blancas 
+* 
+Las blancas tienen un peon men os. su 
+fey encerrado en la banda y la tOTTe ataca-
+da. I.. Que haria usted?
+
+25 
+Juegan blancas 
+** 
+Frenar al pc6n negro es posible, pero 
+no la derrota en tal caso. Debe buscar algo 
+mas sutil ... ipara ganar! 
+26 
+Juegan negras 
+** 
+jCUantos peones negros! Si fuese po-
+sible impedir la coronaci6n del pe6n h ... 
+Pero lcomo'! 
+11 
+27 
+Juegan blancas 
+Este final tiene su intringulis. Claro 
+que si conoce la posicion de Saavedra, to-
+do Ie resultara mas facil: ataque doble, etc. 
+28 
+Juegan blancas 
+** 
+Las blancas tienen una gran ventaja 
+(pe6n extra y rey enemigo confinado en la 
+octava fila), pero ;..es decisiva?
+
+FINALES DE TORRES 
+29 
+Juegan blancas 
+** 
+l.. C6mo parar a los peones negros? l.. 0 
+tal vez se Ie acurre algo mejor? 
+30 
+Juegan blancas 
+** 
+Frenar a los dos peones negros, con el 
+rey blanco en la banda, parece una misi6n 
+imposible. l..Lo es para usted? 
+12 
+31 
+Juegan blancas 
+** 
+De nuevo tenemos al temible par de 
+peones unidos para estropearnos el dfa. 
+Pero las blancas ganan. 
+32 
+Juegan blancas 
+** 
+Las negras acaban de jugar 49 _. cS? 
+l.Por que es un error? l.. C6mo se gana?
+
+FINALES DE TORRES 
+33 
+.Iuegan negras 
+** 
+l,Se siente capaz de hacer tablas? 
+~ Que opina de la jugada 62 ... 'it>d3? 
+34 
+Juegan negras 
+** 
+l,eual es la mejor jugada para hacer 
+tablas? Y lpor que es mala 1 ... %:( f41 
+13 
+35 
+Juegan blancas 
+** 
+Raga valer el factor dominante en la 
+posicion: el peon pasado distante. 
+36 
+Juegan negras 
+** 
+El conductor de las blancas convenci6 
+a su rival de que este final era una posi-
+cion te6rica de tablas. Pero se puede ga-
+nar.
+
+FINALES DE TORRES 
+37 
+Juegan blancas 
+** 
+i., Que Ie pareee esta posicion? i.,Se ani-
+marfa a haeer tablas? Rebusque en su ma-
+gin y aplique ideas. 
+38 
+Juegan negras 
+** 
+Finales aparentemente inoeuos como 
+este puedcn eontener una buena dosis de 
+veneno. l. Que ve aqui? 
+14 
+39 
+Juegan bLancas 
+** 
+· .~. . 
+· ... 
+~ 
+· .. .. 
+· .. .. 
+. ,. . . 
+• ••• • 
+• ••• 
+• •• a 
+Can el rey blanco tan alejado {,no Ie 
+parece un milagro que pueda salvarse la 
+partida? Sin embargo, es posible. 
+40 
+Juegan blancas 
+** 
+Si tuviera que apostar. .. Pero no 
+apueste, analice y dictamine: i., cree que las 
+blanc as pueden ganar? Proponga un plan.
+
+FINALES DE TORRES 
+41 
+Juegan blancas 
+*** 
+l,Se gana estc final? Si es aSl, l,le im-
+portaria mostramos el metodo ganador? 
+42 
+Juegan blancas 
+*** 
+La debilidad de los peones de c2 y g2 
+haee que la exigencia sea aqui menor. 
+l,Menor? i,Cree que podria haeer tablas? 
+15 
+43 
+Juegan blancas 
+*** 
+l,Que deben jugar las blancas? 0 tal 
+vez la pregunta sena: l, Como jugaria usted 
+este final? 
+44 
+Juegan blancas 
+*** 
+Queda un largo camino hasta la victo-
+ria, pero 10 importante es captar el eon-
+cepto, a saber: como nadar y guardar la 
+ropa.
+
+FINALES DE TORRES 
+45 
+Juegan blancas 
+*** 
+EI rey blanco dispone de cuatro res-
+puestas posibles: tres de ellas pierden y 
+una haee tablas. l,Cucll es la salvadora? 
+46 
+Juegan blancas 
+*** 
+Composicion que bien podria produ-
+cirse en partida viva. Mas Ie vale ganar, 
+aunque debe jugar con brillantez. 
+16 
+47 
+Juegan negras 
+*** 
+Las negras se sal van al borde del abis-
+mo, pero la secuencia del empate no es fa-
+ci) de encontrar. 
+48 
+J uegan blancru' 
+*** 
+En esta compleja posicion las negras 
+acaban de jugar 37 ... d2. l, Ve usted alglin 
+camino hacia la victoria?
+
+3. FINALES DE DAMAS 
+49 
+Juegan blancas 
+* 
+El enigma del huevo de Colon en su 
+expresi6n mas pura y geometrica. 
+50 
+Juegan blancas 
+* 
+• ••• 
+• ••• 
+• ••• 
+• ••• 
+• ••• 
+• ••• 
+•• 
+~. • 
+11 
+• ••• 
+Las piezas negras tienen una pesirna 
+disposicion. l, Cmil es la jugada mas fuerte 
+de las blancas? 
+17 
+51 
+Juegan blancas 
+* 
+l,CuaJ es la peor jugada posible? l,No 
+tiene sentido? Pues la hizo un gran maes-
+tro de primera fila. 
+52 
+Juegan blancas 
+* 
+Pocas esperanzas pueden albergar las 
+blancas, pero el ajedrez es un juego diabo-
+lico.
+
+FINALES DE DAMAS 
+53 
+Juegan blancas 
+** 
+Las negras deben tratar de ganar, pe-
+ro aqui se precipitaron con 1 ••• e2? l,Por 
+que es un grave error este avance? 
+54 
+J uegan blancas 
+** 
+l, Que opina de esta posici6n? Dos 
+peones de ventaja y unidos son much os 
+peones, pero ... 
+18 
+55 
+Juegan blancas 
+** 
+l,Que tal anda de tecnica'? EI final de 
+if vs 8. en septima (cuando es de tOfTe 0 
+alfil) es tab las. Pero aqui se gana. 
+56 
+Juegan blancas 
+** 
+Las piezas negras son muy activas y la 
+situaci6n parece encontrarse en punto 
+muerto. Pero no es asi.
+
+FINALES DE DAMAS 
+57 
+Juegan negras 
+** 
+Las negras disponen de un metoda 
+para forzar un final ganado. Pero hay que 
+hilar muy fino. 
+58 
+Juegan negras 
+** 
+Sf, las blancas tienen dos peones de 
+ventaja, pero ahora las negras pueden to-
+mar (con jaque) c1 de d6.lC6mo 10 ve? 
+19 
+59 
+Juegan negras 
+** 
+i.Sera posible que las negras puedan 
+hacer otra cosa que no sea perder? Usted 
+tiene la palabra. 
+60 
+J uegan blancaJ' 
+** 
+•••• 
+• ••• 
+• • • • 
+• ••• 
+o .eb. • 
+• ••• 
+~. . . . 
+• • • •• 
+lSe gana este final? Si usted cree que 
+es asf, lcwi} es el procedimiento a seguir?
+
+FINALES DE DAMAS 
+61 
+.luegan blancas 
+*** 
+Aqui la dama blanca lucha contra 
+cuatro peones. Se cliTia que las negras tie-
+nen buenas posibilidades ... jinc1uso de ga-
+nar! 
+62 
+J uegan blancas 
+*** 
+"Que opina de este final? "Se consi-
+dera capacitado para conseguir el triunfo? 
+l.Cual es su plan (y sus jugadas concre-
+tas)? 
+20 
+63 
+Juegan blanca.') 
+*** 
+Aunque parezca dificil de creer, este 
+final esta ganado para las blancas. La cla-
+ve esta en la posicion expuesta del rey ne-
+gro. 
+64 
+Juegan blancas 
+*** 
+Parece facil, pero las negras tienen un 
+recurso. Trate de aquilatar e indique la so-
+luci6n exacta.
+
+4. FINALES CON VARIAS PIEZAS 
+65 
+Juegan blancas 
+* 
+No hay duda de que la torre blanca en 
+septima y el caballo del puesto avanzado 
+llamanin su atenci6n. i.,C6mo explotarlo? 
+66 
+J uegan negras 
+* 
+El pe6n c, pasado y avanzado, es peli-
+groso, pero mas peligrosa es la situaci6n 
+del rey blanco. i.,Que jugaria? 
+21 
+67 
+J uegan negras 
+* 
+Con sus piezas mas activas, las negras 
+disponen de una eficaz secuencia de agre-
+sian al rey blanco. 
+68 
+Juegan negras 
+* 
+EI alfil de l:i vs A suele ser tablas, pe-
+ro con un pe6n adicional... Sin embargo, 
+hay un factor que 10 cambia todo.
+
+FINALES CON VARIAS PIEZAS 
+69 
+Juegan negras 
+* 
+Tiene usted a su disposici6n una clara 
+secuencia de acoso y derribo. S6lo se trata 
+de calcular. 
+70 
+Juegan blancas 
+* 
+Aqui debe utilizar la geometria del ta-
+blero: lineas, diagonales. clavadas, etc. 
+22 
+71 
+J uegan blanca'i 
+* 
+Si compara la actividad de las piezas 
+blancas con la pasividad de las negras, ten-
+dnl un cuadro que apunta hacia el rey. 
+72 
+J uegan negras 
+** 
+La constelaci6n de piezas es tal que 
+resulta decisiva 1a situaci6n del rey blanco 
+en f4. iQue Ie dice eso?
+
+FINALES CON VARIAS PIEZAS 
+73 
+Juegan negras 
+** 
+Se trata, como habra supuesto, de ex-
+plotar la fuerza del peon pasado, y la ata-
+dura de la torre a la defensa del caballo. 
+74 
+Juegan negras 
+** 
+Es indudable que las piezas negras 
+ocupan posiciones mas agresivas, pero l,es 
+suficiente para inclinar la balanza? 
+23 
+75 
+Juegan blanca\' 
+** 
+Lo maravilloso de la tactica es que 
+una trama concreta deja al desnudo, y sin 
+opciones, a los valores materiales. 
+76 
+Juegan blancas 
+** 
+Frenar el pe6n -si es que es posi-
+ble- u optimizar las posihilidades tacticas 
+de la torre: he ahi el dilema.
+
+FINALES CON VARIAS PIEZAS 
+77 
+Juegan blancas 
+** 
+Parece una dificil tarea frenar a los 
+dos peones, pero para eso debe contar con 
+los recursos de la Escuela Italiana. 
+78 
+J uegan blancas 
+** 
+Los clasicos nos enseftan a rematar es-
+pectacularmente posiciones como la pre-
+sente. l,Estara usted a la altura? 
+24 
+79 
+Juegan blancas 
+** 
+• ••• 
+_lb- -
+~<t> 
+· --. 
+• ••• 
+· .~. . 
+ttJ. • • • 
+• ••• 
+• ••• 
+• ••• 
+Aunque el enunciado de este estudio 
+es: blancas ganan, 10 cierto es que hay una 
+defensa.l,Puede desmenuzar el final? 
+80 
+Juegan blancas 
+** 
+'Torre en septima y el fuerte pe6n pa-
+sado, jun to con rey y alfil mas activos, son 
+factores suficientes para ganar. l,C6mo?
+
+FIN A L (:5 CON V A R I ASP I E Z A 5 
+81 
+J uegan blancas 
+** 
+Parece un caso desesperado y, sin em-
+bargo, con el debido empeno mental, pue-
+de usted conseguir tablas. 
+82 
+Juegan blancQJ' 
+** 
+La mayoria del f1anco de dama y las 
+posiciones mas activas de sus piezas, les 
+dan a las blancas una ventaja decisiva. 
+25 
+83 
+Juegan blancas 
+** 
+EI pe6n de g6 no sena superior al par 
+de peones f6+e5, de no ser por la activa 
+posicion del rey y los alfiles blancos. 
+84 
+Juegan blancas 
+** 
+Pese a los alfiles de distinto color, las 
+blancas tienen un final ganado, y usted se 
+encargara de decirnos como.
+
+FINALES CON VARIAS PIEZAS 
+85 
+J uegan. blancas 
+** 
+JEI rey negro en la banda! Eso debe 
+suscitar en usted emociones relacionadas 
+con su caceria. 
+86 
+Juegan negras 
+** 
+Las negras tienen una posicion domi-
+nante y estan en condiciones de hacer va-
+ler su calidad de ventaja. 
+26 
+87 
+Juegan blancas 
+** 
+Explotando su mayor libertad de ac-
+ci6n, "que plan elegirfa para las blancas en 
+este final? 
+88 
+Juegan blancas 
+** 
+Las negras tienen una teorica superio-
+ridad numerica (9-8), pero las activas pie-
+zas blancas dominan la escena.
+
+FINALES, CON VARIAS PIEZAS 
+89 
+Juegan blancas 
+** 
+"Cree usted que las blancas pueden 
+llevar a buen puerto el peon extra y la po-
+sici6n dominante de su torre'? 
+90 
+Juegan negrru' 
+** 
+"Se Ie ocurre una jugada tan fuerte 
+que obligue al abandono inmediato? Justi-
+fiquela con una linea de juego. 
+27 
+91 
+Juegan negras 
+** 
+Las blancas acaban de jugar 35 : c5, 
+pero las negras estan en condiciones de 
+crearles problemas decisivos. 
+92 
+Juegan blancas 
+** 
+Las blancas pueden forzar un nipido 
+desenlace en esta posicion del medio jue-
+go que pronto se convierte en final.
+
+FINALES CON VARIAS PIEZAS 
+93 
+Juegan blancas 
+** 
+El bando que lleva la iniciativa se vera 
+recompensado con un golpe tiictico defini-
+tivo. l,Cual? 
+94 
+Juegan blancas 
+** 
+En posicion desesperada, las blancas 
+deben echar mano del ultimo recurso tec-
+nico: ila fantasIa! 
+28 
+95 
+Juegan blanca~ 
+** 
+La posicion esta cargada y solo tiene 
+que apretar el gatillo. Pero sea preciso y 
+cuentenoslo todo. 
+96 
+Juegan. blancas 
+** 
+l,Que opina de esta posicion? l,Debe 
+ser tablas 0 tienen las blancas alguna posi-
+bilidad de ganar?
+
+FINALES CON VARIAS PIEZAS 
+97 
+Juegan blancas 
+** 
+Las blancas demostranin aqui que 
+pueden desplegar un juego mas activo, 10 
+que sera suficiente para imponerse. 
+98 
+Juegan blancas 
+** 
+Es indiscutible que esta posicion es un 
+tanto amanerada, pero la belleza de su re-
+solucion justifica su inclusion aquf. 
+29 
+99 
+Juegan negras 
+** 
+l,Es posible que las negras puedan ga-
+nar esta posicion? Claro que tienen una 
+pieza de ventaja, pero los peones blan-
+cos ... 
+100 
+Juegan blancas 
+** 
+El rey negro esta mas expuesto que el 
+blanco y los alfiles de distinto color son un 
+factor favorable al bando que ataca.
+
+· 
+FINALES CON VARIAS PIEZAS 
+101 
+Juegan negras 
+** 
+La partida se resuelve con dos toques 
+sutiles, basados en un concepto implaca-
+ble. 
+102 
+Juegan blancas 
+** 
+Las negras tienen muehos peones, pe-
+TO ese no es e1 factor prioritario en la lu-
+chat que usted se encargani de deseubrir. 
+30 
+103 
+Juegan blancas 
+** 
+lEI peon h puede coronar con jaque'! 
+Sf, peTo eso no significa que este resueito 
+el final. Compruebe y dietamine. 
+104 
+.Iuegan blancas 
+** 
+La eorrelacion de fuerzas no es tan 
+importante como su coordinaei6n. Yea 
+aqui cOmo remata un OM espano!.
+
+105 
+Juegan. negras 
+** 
+Las negras pueden inclinar decisiva-
+mente la balanza a su favor, pero cuidado 
+con las posibles reacciones. 
+106 
+Juegan negras 
+** 
+La gran ventaja espacial de las negras 
+debe poder plasmarse en algo concreto. 
+l.Que opina usted? 
+31 
+107 
+Juegan blan.cas 
+i.. Que pasaria si las blanc as decidiesen 
+jugarse el to do por el todo, con 46 g3, y si 
+. .. hxg3, h4? 
+108 
+Juegan blancas 
+** 
+l. Cree que a las blancas les bastani 
+con su peon b para ganar? l. 0 tal vez 10-
+granin las negras hacer tablas?
+
+FINALES CON VARIAS PIEZAS 
+109 
+Juegan negras 
+** 
+Las blancas tienen una indiscutible 
+ventaja, pero las negras encuentran la for-
+ma de igualar las acciones.lComo? 
+110 
+Juegan blancas 
+** 
+Es dificil imaginar que las blancas 
+puedan ganar este final, pero asi es. Nece-
+sitara seguir la bat uta de un mago. 
+32 
+111 
+Juegan blancas 
+** 
+~. -.. 
+~ -
+rf. 
+_ 
+,~ 
+• 
+• 
+B. .~ 
+• ••• 
+• ••• 
+• ••• 
+a ••• 
+• ••• 
+• ••• 
+Las dificultades tecnicas para ganar 
+aqui (incluso tras la primera jugada 1 
+n b3+) son considerables. lLas superani 
+usted? 
+112 
+J uegan blancas 
+** 
+Las blancas pueden ganar, explotando 
+los motivos geometricos de la posicion. 
+Observe la situaci6n de dama y fey ne-
+gros.
+
+FINALES CON VARIAS PIEZAS 
+113 
+Juegan blancas 
+*** 
+La geometria rige en esta posicion, 
+convirtiendose en dueiia y senora de las 
+maniobras. Solo tiene que ganar. 
+114 
+Juegan blancQ.fi 
+*** 
+Las negras tienen buenas piezas, pero 
+su fey es un factor desestabilizador. iC6-
+rno 10 cxplotaria usted? 
+33 
+ill 
+.luegan blancas 
+*** 
+Aqui hay algunas filigranas, cuyo in-
+genio sin duda descubrinl, ayudado por el 
+canictcr fort:ado de las mismas. 
+116 
+Juegan blancas 
+*** 
+Las blancas han sacrificado pieza, pe-
+ro se ditia que su ataque no ha prospera-
+do. Examine 1a posici6n con lupa.
+
+FINALES CON VARIAS PIEZAS 
+117 
+Juegan negras 
+*** 
+La posicion de las negras parece de-
+sesperada, pero tienen algo mas que el de-
+recho al pataleo ... 
+118 
+Juegan negras 
+*** 
+El bloqueo blanco se sostiene con alfi-
+leres y la abrumadora ventaja espacial de 
+las negras se hara sentir. l,C6mo? 
+34 
+119 
+Juegan negras 
+*** 
+A pesar del ataque sobre c5, el final 
+esta ganado para las negras. l,Se atreveria 
+a compartir su proyecto ganador? 
+120 
+Juegan blancas 
+*** 
+Por cad a calidad las negras tienen un 
+peon, y ademas sus piezas estan bien coor-
+dinadas. "C6mo romper su defensa?
+
+FINALES CON VARIAS PIEZAS 
+121 
+Juegan blancas 
+*** 
+La pregunta inevitable, l,pueden ga-
+nar las blaneas?, debe eontcstarla usted, y 
+aportar las jugadas. 
+122 
+Juegan blancas 
+*** 
+•• • • • 
+• ••• 
+• • • • 
+• ••• 
+~. • • = 
+· .~. . 
+•••• 
+• it. • • 
+EI material no 10 es todo. En un table-
+ro vacio, las piezas blaneas estan descoor-
+dinadas. Consiga tablas. 
+35 
+123 
+Juegan blancas 
+*** 
+Este final plantea algunos obstaculos, 
+pero si quiere emular al gran Capablanca, 
+esta es su oportunidad. 
+124 
+Juegan blancas 
+*** 
+Si las blaneas no logran deshaeer 
+pronto el bloqueo, pueden tener proble-
+mas con el avanee ... a4-a3.l,Que propone?
+
+FINALES CON VARIAS PIEZAS 
+125 
+Juegan negras 
+*** 
+Si, los dos peones pasados y unidos 
+son un factor considerable, pero lcomo 
+romper el bloqueo, con los alfiles de dis-
+tinto color? 
+126 
+Juegan blancas 
+*** 
+Peon por la calidad en una posicion 
+que parece resistente. Pero las blancas tie-
+nen, ademas, piezas muy activas y espacio. 
+36 
+127 
+Juegan blancas 
+*** 
+Una de las creaciones hermosas del 
+tablero. Sin apenas elementos, el composi-
+tor ha creado una obra maestra. 
+128 
+Juegan blanclls 
+*** 
+Para explotar este final, se requierc 
+tecnica, imaginaci6n y fe en las propias 
+posibilidades. jEmule a un campe6n!
+
+1. FINALES DE PIEZAS MENORES 
+CON PEONES 
+.1. 
+1 ttJg4! h3 2 ~fl h2 3 tDf2++. Posi-
+cion didactica. 
+.2. 
+Por 38 ... ttJe3!, ya que si 39 ~xe3, 
+39 ... h2, Y el peon corona. Medina - Tal, 
+Palma de Mallorca 1966. 
+.3. 
+1 ttJg7+! ttJxg7 2 h6 ~17 3 h7 (1-0). 
+Cheron, 1952. 
+.4. 
+1 ttJd6 (tambien sirve 1 ttJe3) 1 ... 
+c;t>gS 2 ttJe4 ebhS 3 ttJf6! gxf64 rt;n f5 
+5 g7+ ~h7 6 gS"'++. Estudio de Salvio. 
+.5. 1 ••. a4 (1 ... ~cl 2 b3) 2 ttJf2 ~c3! 
+3 ttJd3 ~xd4 4 g3 ~xb2! (0-1). Posici6n 
+didactica. 
+• 6. 
+Las blancas se salvan con una diabo-
+lica maniobra: 1 'it? h7! h3 2 ~ h8 h2 
+3 Ah7! hl~O~O. Tablas por ahogado. 
+o bien 3 ... ~xf7? 4 Ag8+ ~f6 5 ..ixd5 
+y ganan blancas. Posicion did.ktica. 
+.7. 
+1 f6! gxf6 (1 ... ~xf6? 2 ttJ e4+, 
+3 ttJxf6 y 4 d8'*Y) 2 ttJe6 ~e7 (2 ... ~a5? 
+3 ~b7) 3 ttJd4 i.d8 4 ttJc6 ~b6 5 ct>b7 
+(1-0). Estudio de V. Neishtadt, 1953. 
+.8. 1 ~c7! ~d7 (1 ... ~a5 2 ~d4 ~h3 
+3 ~d6) 2 ..id8+ ~c5 3 b6! axb6 4 a7 ~c6 
+5 i.e7++. Estudio de Carlsson, 1976. 
+• 9. 
+1 h6 i.g8 2 i"d5+ ~al (2 ... ~xd5?? 
+3 h7) 3 £LxgSlLJg4 4 h7lLJf6! 5 hS:t! (no 
+5 h8'iV??, ahogado) (1-0). Estudio de J. 
+Sevcik, 1983. 
+• 10. 
+1 17! ~g7 2 i"e7! ~xf7 3 ~b4. El 
+caballo esta encerrado y el fey blanco 10 
+captufa (1-0). Estudio de T. Lawson, 
+1925. 
+• 11. 
+37 ••• g4! (37 ... lLJf4+? 38 lLJxf4 gxf4 
+39 <it> f3 =) 38 ttJ g5 (38 ttJ f2 ttJ xf2 39 
+~xf2 a5 -+) 38 ... ttJcl+ 39 ~e3 ttJxb3 
+40 h6 as 41 ~f4 lLJd4! 42 ~xg4 a4 43 
+~h5 (43 lLJeLl a344 lLJc3 b5!) 43 .•• ttJc6 
+(43 ... a3?? 4·~ ~g6!; 43 ... ttJc6 44 ~g6 
+ttJe5+ 45 \tlf5 a3! 46 c;t>xe5 a2) (0-1). To-
+palo v - Anand, Linares 1999. 
+• u. 
+1 ~c4 ttJc5+ (1 ... ttJb8 2 ~xe7+ 
+<it> g7 3 ~ d6, Y el caballo cae) 2 ~ d5! 
+lLJa4 3 ~b3 lLJc3+ 4 c;t>c4! lLJbl 5 ~a2! 
+ttJxa3+ 6 ~b3 ttJb5 7 ~a4+ (1-0). Estu-
+dio de S. Kaminer, 1925. 
+.13. 
+1 ttJe5!! dxe52 d5 e43 d6 e3 4 d7 
+exd2 (4 ... e2 5 d8'fV el~+ 6 ~d7+) 5 
+d8ttJ! (1-0). No 5 d8lW?? dl ~ 6 'it'a8 
+~a4+ 7 'iVxa4, ahogado. Estudio de Sik-
+nevsky, 1978. 
+• 14. 
+1 ••• a3 2 lLJcl i,.a4! 3 ~xd5 ~b3!! 
+(3 ... Axc2 4 ~xc4) 4 cxb3 a2!! (4 ... 
+cxb3? 5 ttJxb3) 5 lLJxa2 cxb3, y el peon 
+corona (0-1). Agapov - Kurmashov, Ka-
+liningrado 1978. 
+.15. 
+59 .•• g5!! 60 fxg5 (60 hxg5? h4-+) 
+60 ... d4+! 61 exd4 (61 i.xd4 c\t>g4) 61 ••• 
+\tlg3 62 ~a3 ~xh4 63 ~d3 (63 g6 ~g4 
+64 ~d3 h4 65 g7 h3 -+) 63 ••. 'it? xg5 
+64 ~e4 h4 65 ~f3 it"d5+ (0-1). Si 
+66 ~f2, 66 ... ~g4 67 ~gl ~g3 68 ~d6+ 
+c;t(f3. Kotov - Botvinnik, Moscu 1955. 
+.16. 
+64 ttJxc5!! bxc5 65 b4! axb4 (65 ... 
+cxb4 66 c5 ttJe4 67 d7 b3+ 68 ~b2 +-; 65 
+... ttJd7 66 bxa5) 66 as e4 67 a6 ~t2 68 a7 
+e3 69 a8'fV e2 70 'iWfS el'iIV 71 li'xf6+ 
+~g3 72 'ilVg5+ <itth3 73 'iVd2! 'fYal (73 ... 
+b3+ 74 wc3) 74 d7 'ifa2+ 75 ~dl '+Wb3+ 
+76 <it>cl 'iVa3+ 77 'iitdl ~b3+ 78 ~e2! 
+~g4 (78 ... ~xc4+ 79 'i}'d3+) 79 '*Ydl 
+'iYxc4+ 80 ~e3+ (1-0). A1burt - Lerner, 
+Kiev 1978. 
+37
+
+2. FINALES DE TORRES 
+.17. 
+1 ... ldh6+! 2 gxb6 g6++. Posici6n 
+did:ktica. 
+• 18. 
+1 llgS! ~g7 2 ~b2! (1-0). Si Ia to-
+rre negra se mantienc en la columna h, 
+entIa en escena el rey blanco. Si se man-
+ticne en la tercera fila, entonces 3 h6+ 
+~xh6 4 gS'iV. Estudio de Minev, 1972. 
+• 19. 
+(a) Si 1 .•. ~g4?, 2 fS! (1-0) Radzi-
+kowska - Erenska, Polonia 1978. Si 2 '" 
+exfS (2 ... gxfS) 3 ~f4++, Y si 2 ... l1xg3, 3 
+f6, ganando. Con 1 ... ~e4!, las tablas se-
+rfan muy probables. 
+• 20. 
+1 h7. i,D6nde paran las negras el 
+pe6n: en 1a fila 0 en Ia columna? Si 1 ... 
+llh2, sigue 2 ~f1+ ~d2 3 ~f2+ (desvia-
+ci6n) 3 ... Xixf2 4 h8~. Si 1 ... ~d8, 2 
+lic6+ ~d2 3 nd6+ ~xd6 4 h8~. Estu-
+dio de A. Troitzky, 1924. 
+• 21. 
+Desde luego, no debe responder 
+con el codicioso avance 55 b6?, por 55 ... 
+Zlcl+! 56 ldxe1, y tablas (como sucedi6 
+en la partida Schlechter - Wolf, Nurem-
+berg 1906). Con 55 ~f1!, 1a 1ucha sc gana 
+sin problemas. 
+.22. 
+1 fth6+! gxh6 2 g6+ ~h8 3 g7+ 
+<iii>h74 g8"li'++. Zelinsky - KaIinin, Mos-
+Cll 2000. 
+.23. 
+1 !laI! (no sirve 1 ~c2+ <iii>bl 2 
+nxa2 ~xa2 3 ~e3 Wb3 4 ~f4 ~c4 5 
+~g5 ~d4 6 ~xg6 ~eS 7 <iii>xhS <iii>fS, ta-
+bias) 1 .•• ~xal (1 ... ~b3 2 ~cl <iii>a3 3 
+~c2) 2 ~c2! (no 2 ~c1'1) 2 .•• gS 3 hxgS 
+b44 g6 h3 S g7 h2 6 g8~ hl'iW 7 ~g7++. 
+Estudio de Polerio. 
+.24. 
+1 ELd4! ct>xd4 2 d7 (1-0). Vatnikov 
+- Vieta), Praga 1973. 
+.2S. 
+1 n g5!! h2 (1 ... ld h6 2 a3+ <iii>xa3 
+3 n g4 Jl a6 4 n h4 I:t. a5 5 b4 li b5) 2 
+a3+ <iii>xa3 3 ~ as+ ~b4 4 lit a4+ y 5 
+l:t xh4. Estudio de A. Sclesniev, Niva 
+1912 . 
+.26. 
+1 ••• llc4+ 2 <it>gS (a 2 \t>g3 sigue 10 
+mismo) 2 ... ~h4!! 3 ~xh4 g5+ 4 <iii>xgS 
+~g7 (0-1). Aficionado - Lasker, simul-
+taneas, 1914 . 
+.27. 1 ngl+ (no 1 exf5 ~a7+, ni 1 nxf..-,) 
+lla7+ 2 <it>d6 ~a6+ 3 ~c7 na7+ 4 ~b7 
+1I f7, con tablas en ambos casos) 1 ••• 
+<iii>h72 eS! nxeS+ (2 ... f43 e6 f3 4 ct>f6 f2 
+5 hI f1 ~gS 6 ~xf2) 3 \tf7! \th6 4 ~f6! 
+(1-0). Estudio de Selesniev, 1923 . 
+.28. 
+40 nb6!! ~a8 (40 ... na7; 40 ... 
+nxb6 41 cxb6 ~d7 42 e5! fxc5 43 dxeS 
+a4 44 e6+, y las blancas coronan antes) 
+41 ~xf6 a4 42 ~f2 a3 43 lial ~d7 44 dS 
+g5 45 ~f3 l1a4 46 ~e3 hS 47 h4 gxh4 
+48 gxh4 ~e7 49 ~f4 ~d7 50 ~f5 (1-0) . 
+Reti - Rubinstein, Carlsbad 1923. 
+.29. 
+1 ~d6!! d2 2 ~c7! dl~ 3 11a6+! 
+bxa6 4 b6+ ct>a8 5 b7+ rtt;a7 6 b8iY++. 
+Estudio de F. Richter, 1939. 
+.30. 
+I ~h5! e2 (1 ... d3 2 ~f8+ ~e4 
+38 
+3 ~g4 d2 4 II eS+ ~d3 S hi d8+ ~c2) 2 
+nf8+ ~e4 3 ~g4 ~e3 (3 ... d3 4 1deS+ 
+~d4 5 ~f3 ~c3 6 ~f2 \t?c2 7 Jae3) 4 
+lIe8+ Wt2 [4 ... 'it;>d2 5 <iii>f3 (5 ~r4? d3 
+-+) 5 ... d3 6 <it> f2 =] S tr f8+ ~ g2 (5 ... 
+~g16 ne8 d3 7 ~f3 ~f1 8 IIh8 ~gl 
+9 ~g8+ ~f110 ~h8 =) 6 :e8 d3 7 lite3! 
+~f2 8 li £3. Tablas. Dgebuadze - Fo-
+minY,i, Erevan 1997. 
+.31. 
+1 lia6! ~g8 (1 ... ~xa6? 2 g8~; 1 
+. .. g2 2 ~xa8 gl~ 3 g8~+-) 2 !!a7+ 
+~e8 [2 ... ~d8 3 ~a8+ ~e7 4 ~xg8 g2 
+(4 ... \t f7 S n h8) 5 1:t e8+! ~ xeS
+
+6 g8'iW+] 3 ~e6! (1-0). Composici6n di-
+dactica. 
+.32. 
+50 1l c4! n al+ (50 '" cxb4+ 51 
+Z!xb4+ nxb4 52 ~xb4 +-) 51 ~b2 ~bS 
+52 lic2 ~a6 53 bxc5 ~c6 54 Wb3 (1-0). 
+Van den Doe) - A. Kovacevic, Leon 
+8.11.2001. 
+• 33. 
+Con 62 ... h2! 63 1d b8 c3 64 z:l xh2+ 
+~ d3, es tablas. En la partida Lek6 -
+Markowski, Polanica Zdroj 17.8.1998. se 
+juga 62 .•. \t>d3? 63 <iitf3 h2 64 ~ d8+ c;t>c2 
+65 !! h8 <itt d3 66 ~ f2 <it> d2 67 l! xh2 c3 
+68 ~n+ ~d169 nhS c2 70 nd8+ ~cl 
+71 c;t>e2 (1-0). 
+.34. 
+Con 1 ... axb3. el final cs tablas. No 
+sirve 1 ... ~ f4? por 2 ~ f3!. Despues de 2 
+... ~xf3+ 3 gxfJ axb3 4 ~xb3, el peon a 
+es pasado. 4 ... ~d5 5 ~c3 c4 6 f4 f5 7 h4 
+h5 8 a3 ~c5 9 a4 <it>d5 10 as ~c5 11 a6 
+~b6 U ~xc4 (1-0). Zaberskis - Mala-
+niuk. Cracovia 2001. 
+.35. 
+1 g4! (para impedir .. J~ h5) 1 ... 
+l:le42a5llxg43a6 Z!h44 lId8!! (inter-
+ccpcion) 4 .•. ~xd8 5 a7 (1-0). Estudio de 
+A1ekhine, Tijdschrift v. d. NSB, 1933. 
+• 36. 
+57 ... b3! 58 !1 dS+ <it> c5! (58 ... 
+~c4? 59 we4 =) 59 la c8+ Wd4 60 ~ d8+ 
+~e3 61 ~b8 b2 62 ~e5 ~f3! (62 ... c2? 
+63 n b3+ ~d2 64 ~ xb2 =) 63 <it>f5 ~e2 
+64 ~e4 <ittd165 Wd3 c2 (0-1). A. Petro-
+sian - Zeshkovsky. Minsk 1976. 
+.37. 1 b4! btxb4 (1 ... nxd62 bxc5) 2 d7 
+n d4 (2 ... ,tt b8 3 ~c4 It dS 4 ~xc5 
+~xd7 5 b4 =) 3 b4! ~xd7 4 bxc5. Tablas. 
+4 bxc5 I! d2 5 ~ c4 ~ c2 6 c6 l:l c2+ 7 
+~d5. Helmertz - Wembro, Lund 1973. 
+.38. 
+1 ... e3! 2 Z!xd4 e2 3 l!d6+ ~f7 4 
+~d7+ c;t>f6 5 nd6+ ~e7 6 nd3 (aqui 
+salvaba 6 ~d5! el~ 7 ~xf5 =) 6 •.. 
+e ltD +! (n 0 6 ... e 1 if? 7 !l e3 +) y 7 •.. 
+ttJxd3 (0-1). Galle - Vukcevic, Yugosla-
+via 1975. 
+.39. Illg3+ 'iite2 2 ~g4!! ~c3 3 ~g3+! 
+(3 ~d7? b3 -+) 3 ... ~b2 4 Jlg4 ~b3 
+5 ~d7!! c3 6 ~c6 c2 7 <ittb5! c1~ 8 l!txb4+ 
+~a3 9 Z! a4+. Tablas. Estudio de Ko-
+paev, 1953. 
+.40. 
+34 f5! gxfS (34 ... b4 35 f6 b3 36 f7 
+~d8 37 !!b7 ~c3 38 h5+-) 35 h5 ,ttd4?! 
+(35 ... lld2+ 36 <ittg3 b4 37 g6 b3 38 g7 
+~ dS 39 h6 +-) 36 g6 b4 37 g7 !i g4+ 
+38 ~f3 b3 39 h6 ~d3 40 h7 b2 41 gS~ 
+(1-0).41 ... bi ~ 42 'iHd5+ ~c3 (42 ... nd4 
+43 ~xf5) 43 h8\W+. Eliskases - Keres, 
+Olimpiada de Buenos Aires, 1.9.1939 . 
+.41. 
+55 ~g6! +- (Hecht) 55 ..• nxf4 (55 
+... c;t>f8 56 l:ldS+ ~e7 57 ngS :lixf4 58 g5 
++-) 56 gS ~f8 57 n d8+ r:i;e7 58 It d5 ~f8 
+59 £td8+ ~e7 60 ng8! ng4 61 llxg7+ 
+<iitfS 62 £tf7+ ~g8 63 ~a7 ~f8 64 ~a8+ 
+~e7 65 l:ig8 llgl66 ~h7 ~h1+ 67 wg7 
+Zig168 g6 l:lg2 69 ~a8 l:th2 70 ~al 
+~g2 71 l:tel+ ~d772 ~f7 l:!f2+ 73 ~g8 
+l:t g2 74 g7 n g3 75 ~ hI (1-0). Hort -
+Chiburdanidze, Marbena 21.10.1999 . 
+.42. 1 ~b1! (1 j1e6 ~g7 2 llxe5 nb8 
+3 l:i f5 n h2 4 g xf4 l:i xg2 5 1:1 g4+ ciif f6 
+6 ~bl ngi + 7 ~a2 ~c18 hIxg3 ~xc2 -+ ) 
+1 ... ~g7 2 Iih6!! ~xh6 3 ~c1 ~g5 
+4 ~dl ~h8 5 \t>e2 nh2 6 ~fl l:th1+ 
+7 ~e2, y la torre tiene que abandonar la 
+primera fila, pues si 7 ... n c1 6 7 ... ~ gl, 
+es ahogado. Tablas. Estudio de J. Hasek, 
+1937. 
+39 
+.43. En la partida sc juga 70 nh3'!, pero 
+despues de 70 .•• ~fS! 71 h5 ~ c8 72 rbg7 
+~g4 73 ~hl ~g5 (=) 74 nh3 ~c7+ 75 
+~fS ~g4 76 rJthl <it>g5, se acordaron las
+
+tablas (77 h6 <iii> 1'6 78 ~e8 n xc3 79 h7 
+ncs+ SO rbd7 I:t hS). Sin embargo, se ga-
+naba con 70 : 17! ~ hS+ 71 ~gS l:tg8+ 
+72 'iltif6 nhS 73 na7 +-. Short - Yusu-
+pov, Olimpiada de Sal6nica 23.11.1984. 
+• 44. 
+63 llf4! l1c5 64 %:th4! b5 65 ~h7+ 
+~f8 66 e4 a4 67 Jla7! b4?! (67 ... ~c4 
+6S d6 ~e8 69 <iii>cL'j <iii>d8 70 eS +-; 67 ... 
+~ cS 68 d6 1:1 b8 69 <iii>f6 b4 70 eS b3 71 
+e6 h2 72 e7+ ~gS 73 n h7 +-) 68 llxa4 
+~ b5 69 J:! a8+ ct;e7 70 n a7+ ~f8 71 
+.u a8+ ct;e7 72 : a7+ <iii>f8 73 ~e6 b3 74 
+~f7+ ~g8 (74 ... <iii>eS 7S l1h7 ~f8 76 
+d6 n b6 77 eS b2 78 'iltif6 <iii>gS 79 11 hI 
++-) 75 I!n b2 76 l:tbl <it>f8 77 d6 ~b4 
+78 e5 n b7 79 <iii>dS n b3 80 e6 <be8 81 
+llhl l:[d3+ (81 ... bl~?? 82 :h8++) 82 
+~c5 ~c3+ 83 ~d4 nf3 84 Iih8+ (1-0). 
+Si 84 ... gf8, 85 d7+ ~e7 86 l1xf8 ~xfS 
+87 d8¥W+. Flohr - Thomas, Nottingham 
+1936 . 
+• 45. 
+61 ~dl? -bd3 62 lld8+ rbe3 
+63 !! c8 c2+ 64 ~ cl I;I g2 65 n cS c;t( f4 
+66 l1c4+ <bf3 67 ~b2 ~g3! (67 ... ~xg4 
+68 n c3+ ~f4 69 ~xc2) 68 ~cl <it> h3 
+69 <it>b2 Ilxg4 (0-1). Goloshchapov - Z. 
+Varga, Miskolc 10.3.2004. Las hlancas 
+podfan hacer tablas can 61 <it>cl! ct>d3 
+62 )ld8+ <iii>e4 63 ne8+ ~f3 64 ~f8+ 
+~g3 65 lU5! = (Varga). 
+• 46. 
+1 g7 llgS (1 ... :tf5+ 2 -bxfS ci;;f7 3 
+gS'i!V+ ~xg8 4 ~g6! ~f8 S \t>f6 ~e8 6 
+~g7 +-) 2 <iii>f6 jlf8+ (2 ... <t>dS 3 ~f7 
+J:!x17+ 4 c:JiJxg7 c;i(e8 5 <iii>g8! +-) 3 ~g5!! 
+(3 gxf8~+ ct;xfS =) 3 ••• l:lg8 4 ~g6! 
+(1-0). Si 4 ... ~d8, 5 ~f7 !! eS 6 gS'iW 
+n xg8 7 ~xg8 <iii>e8 8 ~g7 \t>d8 9 <iii>fS, etc. 
+Estudio de L. Prokes, 1942. 
+• 47. 
+1 ••• la g8! (en la partida Rogers -
+Van Huy, Kuala Lumpur 2004, se jug6 1 
+... :dS? 2 nxd8!! hl'iW 3 b7, y ganaron 
+las hlancas: 3 ... ~ c1 4 b8'iW ~ c2+ 
+5 ~xa3 'i!Vc3+ 6 rt>a4 +-; no sirve 1 ... 
+hl~?, por 2 n xhl \t>d5 3 n h5+ ~c6 
+4 <iii>xa3 +-) 2 b7 hl'i!V! 3 nxhl ~d5 
+4 l1h5+ (4 licl <it>c6) 4 ••• ~c6 5 ~xa3 
+nbS 6 ~b4 nxb7+ 7 \t>c4 ~h7! 8 nxh7 . 
+ahogado. 
+.48. 
+38 f6 lld8 39 e7? (tampoco servia 
+39 l:.h2+ <bel 40 llxd2 ~xd2 41 e7 nc8 
+42 bS as! 43 t7 h6 44 e8'if{ ncl+ 45 ~b2 
+: c2+, tablas) 39 •.. dl 'if + 40 n xdl 
+n xdl + 41 <itic2 b5, y perpetuo de torre 
+en las trcs primer as filas. Tablas. Krush -
+Dc Dovitiis. Continental Americana, 
+Buenos Aires 28.8.2003. 
+Sin embargo, se ganaba con 39 bS!! a5 
+(39 ... dl 'iW+ 40 ~xd1 llxdl+ 41 <it>c2 
+~ d2+ 42 ~c3 ~ d3+ 43 ~c4 axh5+ 44 
+<it>c5 +-) 40 b6! d1~+ 41 ~xd1 Itxdl+ 
+42 ~c2 J:d2+ 43 ~c3 1ld3+ 44 ~c4, ga-
+nando (De Dovitiis). 
+3. FINALES DE DAMAS 
+.49. 
+1 'iVc4+! 'il'xc42 gS'iW+ y 3 'lWxc4 
+(1-0). Posici6n didactica. 
+.50. 
+1 'if{b8!, y las negras tienen que en-
+tregar la dama para postergar el mate. 
+.51. 1 ~f4?? (1 hxg6+) 1 ... 'iVbS++. Be-
+liavsky - Johansen, Linares 2002 . 
+• 52. 
+1 ~c2! ~xc2. tablas por ahogado. 
+Posicion didcktica. 
+• 53. 
+Despues de 1 ... e2??, las negras re-
+cibieron un incsperado mate, can 2 
+~gl+ ~d2 3 'iVcl+ ~d3 4 ~c3++. Ba-
+tuev - Simagin, Campeonato de la URSS 
+1954 . 
+.54. 
+1 ~e7+ \'Wg5 (1 ... g5?? 2 ~el+ 
+~g3+ 3 ~xg3++) 2 ~e4+ tig43 'i!Ve3!! 
+40
+
+Zugzwang. Las negras estan perdidas. 
+Composicion didactica . 
+• 55. 
+1 ~d7+ ebcl (1 ... ~e1 2 'iWc6+ 
+~dl 3 'iVd5+ ebe14 ~e4+ ~dl S'iYd3+ 
+cbcl 6 ~b4) 2 cbb4 ebb2 3 'iVd4+ ~bl 
+4 ebb3! cl'li' 5 'iYd3+ ~a16 ~a6+ ~bl 
+7 'ila2++. Posicion didactica. La clave es 
+la proximidad del rey blanco. 
+.56. 1 ~b4! Zugzwang. (a) 1 ... ~d.,)(f3) 
+2 ~a4+ ~b6 3 \¥!Vb3+! ~xb3 4 b8~+; 
+(b) 1 ... 'i'g2 2 'li'a3+ ~b6 3 'iYb2+! 
+'iYxb24 b8\W+; (c) 1 ... iVh12 'tWa3+ ct>b6 
+3 ~b2+ r!; c7 (3 ... eb a6 4 'iV a2+ c;t> b6 
+5 'ti'bl+!) 4 iY'h2+! 'i\¥xh2 5 b8~+. (1-0). 
+Estudio de L. Van Vliet, 1888. 
+.57. 
+68 ••• 'lWe5+! 69 ~h7 (69 ~g7+ 
+~d6! 70 ~h7 'iYxg7+ 71 ~xg7 cbc5 +-) 
+69 ••• ~h5+ (0-1). Si 70 rJ;;g7, 70 ... ~g5+ 
+71 ~h7 'iYxg8+ 72 ~xg8 ~d6 73 ~f7 
+~e5. Gildardo Garcia - MijaJevskL 
+Montreal 2004. 
+• 58. 
+33 ••• ~xd6+ 34 ~g3+ 'iYxg3+ 35 
+~xg3 ~f5 36 b4 cxb4 37 cxb4 ~e4 38 h4 
+~d4 39 h5 ~c4 40 ~f4 ~xb4 41 g4 
+(1-0). Si 41 ... f6 (41 ... ebcS 42 g5 c;bd6 43 
+h6 +-), 42 g5 fxg5+ 43 ebxgS. Jalifman -
+Eingom, Leningrado 1990. 
+• 59. 
+1 ••. ~h4+ 2 ~h7 (2 ebg8 ~d8+ 3 
+~h7 'iYh4+ 4 ebg6 ~g4+ =) 2 .•• 'iYd8+!! 
+3 g8~ ~f6+ 4 'LfYhg7 ~h4+ 5 'iV8h7 
+'li'd8+. Tablas. La dama negra ataca so-
+bre trcs lineas (dos filas y una diagonal) y 
+las damas blancas s610 pueden cubrir 
+dos. Estudio de G. Lolli, 1763 . 
+• 60. 
+1 ~d5! '*¥xb4+ (1 ... 'iVg6+ 2 ~f4+ 
+~h2 3 ~cS! ~d3 4 bS +-; 1 ... '*Yg3 2 
+ebfS+ ~g13 'iVd4+!, y sigue el cambio de 
+damas) 2 ebB!!, y el rey negro no puede 
+evitar el mate. Si, par ejemplo, 2 ebf3, 
+2 ... ~c3+ 3 <iitf2+ ~h2 4 'tlVg2++. (1-0). 
+Estudio de Neumann, 1 H87. 
+.61. 
+1 'iYe3 f4! (1 ... c;t>d1? 2 ~gl + ~e2 
+3 ~xc2) 2 'tWf2! dl 'if? (2 ... ~dl?? 3 
+~fl++; 2 ... g4? 3 'ifxf4; 2 ... f3 3 "lWe3. se-
+guido de <it>c3) 3 ebc3!!. Ahora no pucde 
+jugar el rcy negro, por 4 ... 'il'b6+ y mate 
+en b2. 3 ••. 13 4 'tWe3+! ebb15 'iYb6+ ~cl 
+(5 .. , eba2 6 'iVb2++) 6 'tWb2++. Estudio 
+de J. Behting, 1907. 
+• 62. 
+La partida Alekhine - Mar6czy, 
+Nueva York 1924, fue tablas despues de 
+28 13 'tWh 1 + 29 ~f2 'if dl 30 ~ 
+c8+ ri; g7 
+31 'lW xb7 ~ d2+ 32 ~ g3 d4 33 exd4 
+VWg5+. Sin embargo, las blancas podian 
+ganar con 28 ~c8+ ~g7 29 'iYxb7 ~hl+ 
+30 ~e2 ~xg2 31 a4 ~xh3 32 a5 ~g4+ 
+33 ri;d2 'iYf3 34 a6! 'tJt'xf2+ 35 ~d3 'iYf1+ 
+36 ~d4 ~dl+ 37 ~cS 'iVc1+ 38 ~d6 
+\'i'xe3 39 a7, y no hay perpetuo. 
+• 63. 
+1 ~bl!! ~d4 2 'ti'b3! ~xe4+ 
+3 <it> d6 'IV a8 4 ~ 
+e3+ ~ c4 5 ViH c3+ eb b5 
+6 ~b3+ ~a6 7 'lWa4+ ~b7 8 ~b5+ r:t;a7 
+(no H ... ebc8??, par 9 ~d7+ ~b8 10 
+VJlic7 ++ ) 9 c:bc7 y mate en dos. Observese 
+que todas las jugadas del rey negro son 
+forzadas. Estudio de H. Rinck, Bohemia, 
+1906 . 
+.64. 
+1 'if e8! 'i'/b7 2 a8~! (2 a8'iY? 
+41 
+'iVf7+! 3 ~xf7, ahogado) 2 ... \'i'b3 (2 ... 
+\WxaH 3 'iYxa8 g6) 3 ii,c6 ~c4 4 ii.d7!, 
+can la amenaza ~e6 (1-0). Composicion 
+didactica. 
+4. FINALES CON V ARIAS PIEZAS 
+• 65. 
+1 b5+! axb5 2 ttJb4++. Lamoureux 
+- MoUov, Periguex 2000. 
+• 66. 
+1 ••• h3! (con la amenaza de mate en 
+fl, ... 'i'/f2+, ... 'iVf1+, y las blancas no pue-
+
+den controlar las casillas g2 y f2 al mismo 
+tiempo) (0-1). Kakageldiev - Kasimdz-
+hanov, Tehenin 1998. 
+• 67. 
+1 ••• 1:1 d1+ 2 ~e2 Xi gdS 3 ttJxf4 
+~8d2+ 4 ~e3 ~d4+! 5 cxd4 cxd4++. 
+Kleczynski - Czerniak, Tel Aviv 
+1963. 
+.68. 
+1 ••• nb12~h3nbS!3~g4 
+~hS+ 4 .lit.h5 ~h6! Zugzwang. (0-1). Si 
+5 a6, 5 ... n xa6, y todo vuelve a empe-
+zaI. El rey blanco en banda es el factor 
+negativo. A. Rodriguez - Visier, Las 
+Palmas 1974. 
+.69. l ... ltJfl+ 2 ~f4 (2 ct>h4 ~c4+ 3 g4 
+g5+ 4 ~h5 ~h7 5 ~g2 ~f5 6 ~e4 ~g6+ 
+7 ~xg6+ fxg6++) 2 ••• g5+ 3 ~e4 ltJg3+ 
+(0-1). 4 ~d4 ttJf5+ 5 ~e4 nc4+ 6 nd4 
+11 xd4++. Scoriels - Zude, Hastings 
+2005-06. 
+.70. 
+1.t:t xcS+! ~xc8 2 ~xb7+ ~xb7 
+3 'iVxh3 (1-0). Januszewski - Dabrowski, 
+Lodz 2001. 
+• 71. 
+1 l:1xg7+! (1-0). Si 1 ... ~xg7, 2 
+ttJf8+ ~h8 3 ~xh6+ l:th7 4 ~xh7++. 
+Suetin - Zeshkovsky, Moscu1972. 
+.72. 1 ••• llxc4! 2 ~xc4ltJb6 3 ~c5 (uni-
+ca, por cl mate en d5) 3 ••• ltJd5+ 4 ~xd5 
+exd5, y el final de peones esta perdido 
+para las blancas: 5 e4 fxe4 6 fxe4 dxe4 
+7 ~xe4 ~e6 (0-1). Dartav - Kogan, Ri-
+ga 1977. 
+.73. 1 ... ~c3 2 ndl l:Ixf1+! 3 nxn e3, 
+y la torre deheni entregarse por el peon 
+(0-1). Hahn - Tarrrasch. Halle 1883. 
+.74. 
+1 ... d4! 2 'li'xd4 (2 cxd4? e3; 2 
+llxd4 'iYxf2+) 2 ..• ndS, ganando la to-
+rre. (0-1). Posicion didactica. 
+.75. 
+1 ~e3! (no 1 ~g5 .tf. gl! =: ni 1 
+~h6 ktg1 2 g7 f5 3 \T;xc7 f4 4 b6 f3 5 b7 
+f2 6 b8~ ~xg7+! =) 1 ... liB (unica) 2 
+~g5!! fxg5 (2 ... ~g3? 3 ~h4) 3 g7 (1-0) . 
+Estudio de H. Rinck, 1906. 
+.76. 1 nest [1 <it>f6 ~h5! = 2 ~al ~g4! 
+(2 ... b2?? 3 11a4! +-)J 1 •.• b2 [1 ... ~g6+ 
+2 ~f6 .lit.h5 (2 ... b2?? 3 g4, con la amena-
+za 11 h5+! ~xh5 g6++) 3 n b5 Jl.dl 4 
+~ b4! Y mate en tres] 2 g4 ~g6+ 3 ~f6 
+bl~ (3 ... ~e8 4 ~h5+! ~xh5 5 g5++) 4 
+l:i hS+!! ~xh5 S gS++. Estudio de Sijkril, 
+1973. 
+.77. 1 ~b3 a2 2 ~c2 h3 3 ~t3 h2 4 ~aS 
+ltJe2 S ~b7 ttJg3 6 <it>c1! hI ~+ 7 ~xb1 
+ttJxhl 8 ~c2. Tablas. EI rey negro no 
+puede salir, porq ue su rival bascula entre 
+cl y c2. Estudio de Ercole del Rio, 1750. 
+.78. 
+1 ~dS+ ~a7 2 ldxa6+! bxa6 (2 ... 
+~xa6?? 3 ~a5++) 3 'iVd7+ ~b8 4 'Wc7+ 
+~ a8 5 ~ cS+ ~ a7 6 .i. b6+! \t> xb6 
+7 \iNbS++. E~tudio de D. L. Ponziani. 1769. 
+.79. 
+1 d6+ ~d7 2 lLJac5+ ~eS 3 d7+ 
+ttJxd74 ttJd6+ ~f8 (4 ... ~d8) 5 lLJe6++ . 
+Muy bonito, pero si las negras juegan 1 ... 
+~c6! no se pucde ganar. Por cjemplo: 2 
+ltJac5 (2 dxe7 \t>d7) 2 ... ttJc8 =. Estudio 
+de A. Troitzky, 1896. 
+• 80. 
+52 ~g6! hxg6 53 fxg6 ~ e8 54 d6! 
+(1-0). Si 54 ... ~xd6, 55 h7. Nesis - Fran-
+zen, Correspondcncia 1979-83. 
+.81. 
+1 ~d2!! g2 (1 ... h2) 2 ~aS! gl'(W 
+3 b4!. Tablas. Composicion didactica. 
+42 
+.82. 
+30 'iVe5! ltJxb4 (30 ... ltJc7 31 h4 
+'i¥d7 32 ~d6 'iff7 33 ~dg+ ~g7 34 
+VJlixc7) 31 lLJe6 ~d7 32 'lWf6! (1-0). Si 32 
+... ~f7, 33 'iVd8+. Portisch - Uhlmann, 
+Interzonal de Estocolmo 1962.
+
+.83. 
+1 ~g5!! (1 g7 f5; 1 ~e4 ~c6) 1 ... 
+fxg5 (1 ... ~e7 2 g7 f5 3 .i.xe7) 2 g7 (1-0). 
+Hennings - Walter, Alemania Oriental 
+1964. 
+• 84. 
+38 ~d7 Ilb6 39 dS r:i;e7 40 ~c6 
+iLg741 nn ~b8 42 nf5! h6 43 ~dl (43 
+\t>e3) 43 ••. ~b6 44 ~c2 (amcnaza 45 
+~xb5) 44 ••• ~f8 45 l:! b5! (para crear 
+Zllgzwang) 45 .•• ~g8 46 ~ h4! ~f8 47 
+~e4 ~b8 48 d6 ~f6 49 d7 ~b6 50 ~e8+ 
+~g7 51 .tt c8 ~e7 52 h4 ~f6 S3 i"g2! 
+btd6 54 ~c6! (1-0). Motylev - Sargissian. 
+Moscu (Aeroflot) 14.2.2006. 
+.85. 
+1 ~f8+! ~xf8 2 ~d3 (1-0). Polu-
+gaievsky - Szilagyi, Moscu 1960. 
+• 86. 
+30 ••• 11 xc3+! 31 bxc3 R xeS 
+32 ~d2 llxe133 ~xel ~dS 34 ~d2 ~c4 
+35 b5 b6 36 ~e2 g5 37 b6 f4 38 g4 a5 
+39 bxa5 bxa5 40 ~b2 a4 41 cba3 r:i;xe3 
+42 ~xa4 ~d4 43 r:i;b4 ~e3 (0-1). Lom-
+bardy - Fischer, Campeonato de EEUU 
+19.12.1960. 
+.87. 
+1 b4! .,te8 (1 ... ~xb4?? 2 1:1a8+ 
+~fS 3 ~c5) 2 .¥t.cS ~f7 3 g6+! hxg6 
+4 fxg6+ ~f8 (4 ... ~xg6? 5 ttJxe5+) 5 b5 
+~xcS+ 6 bxc5 n c7 7 n as ~ xeS 8 b6! 
+gxb69 ttJh4 ~c6? (9 ... llc2+ 10 ~g3 
+~c3+ 11 ~g4) to ttJf5 ~e6 11 nbS h5 
+12 ~g3 b4 13 ~b4 b3 14 ~xh5 b2 
+15 ~h6 ~g816 Z'ixb2 (1-0). Nezhmetdi-
+nov - Luyk, URSS 1950. 
+.88. 
+1 nc8! ~a3 (unica) 2 ttJd4+ ~b6 
+3 ~b8+ ~c5 (3 ... c;t;c7? 4 ttJb5+) 4 l:bS+ 
+~d6 5 ~d5+ ~e7 (5 ... cbc7? 6ltJb5+) 
+6 llaS!, ganando 1a dama (1-0). Si 6 ... ~xa). 
+7 ttJc6+, 0 bien 6 ... ~d6 7 lDf5+. Estudio 
+de V. Bron, Shajmatyny Listok, 1927. 
+• 89. 
+67 ~e5! (ataquc directo al rey ne-
+gro) 67 ... n a8 68 1: c7 (68 1d xaS+ iLxa8 
+69 ~d6 ~f7 70 ~f6 ~c4 71 c6 ~eS 
+72 c7 ~f5 73 ~c6 .,te4+ 74 ~b6 ~d7 =) 
+68 •.• na169 ~f6! ~e4 70 nc8+ ~h7 
+71 .bt d8! n a6+ 72 ~t7! .,tt'5 73 l: d4 ~e6+ 
+74 ~fH ~a8+ 75 ~d8 ~g4 76 c6 (1-0) . 
+Topalov - Aronian, Linares 5.3.2006. 
+.90. 
+1 ••• d2!! (con 1a amenaza 2 ... 
+~f1+!). Si 2 l:ta4+ ~d3 3 ~xc4 (3 lla3+ 
+ltJc3) 3 ... ~ f1 +! 4 ~g2 ~xe4 5 ~xfl 
+~xe3 (0-1). Sapi - Varnusz, Budapest 
+1971. 
+.91. 
+35 •.. eS! 36 g5? (36 ~ xb5 e4 37 
+ttJgl ttJd2) 36 •.. hxg5 37 nxb5 g4 (37 ... 
+e4 38 ttJxg5) 38 l: b8+ rJ;;g7 39 ttJel i,.b4 
+40 nc8 ttJd2 (0-1). Amason - Tal, YUf-
+mala 1987 . 
+.92. 
+28 'lWxg4 fxg4 29 ltJd6 ttJb6 (29 ... 
+h5 30 ttJxb7 ~ d7 31 lDd6) 30 ~ xh7! 
+(1-0). Si 30 ... ~xh7, 31 1:hl+ ~g8 32 
+It h8++. Adianto -
+Ehlvest, Bali 
+24.4.2000. 
+43 
+.93. 
+1 ~c7+! (1-0). Si 1 ... ilxc7, 2 bxc7 
+gana pieza. Velikov - Elbilia, Clichy 
+2000. 
+• 94. 
+1 ~ xh7+! 'iVxh7 2 ~xf6, y tablas. 
+La dama blanca jaquea entre dS, f6 Y h4, 
+can perpetuo. Zinser - Lengyel, V cnccia 
+1967. 
+.9S. 
+1 n xh7+! ~ xh7 2 ~c8+ ~g7 
+3 'tWg8+ ~h6 4 g5+ (1-0). Si 4 ... ~h5 (4 ... 
+fxg5 5 'l&'xg5++), 5 ~f3+ ~h4 6 
+'li'xh7++. Fokin - Rujlis, Kuibishcv 
+2001. 
+• 96. 
+1 f6 n e6 2 ~f8 ~gS 3 JJ..e7 ~g6 (3 
+... n xf6? 4 ~d3) 4 .,td3+ ~n S ~c4 
+~e8! 6 £7+! (6 ~xe6? =) 6 ••• ~xf7 
+7 ~h4 (1-0). Estudio de A. Tatev, FIDE 
+1959.
+
+.97. 
+41 'tWd4+ l\t>g8 42 h4 tlJe6 43 'Wf6 
+h5 44 ltJd5 'iYc2 (ante 1a amenaza 45 
+tlJe7 y 46 tlJxg6) 45 tlJe7+ ~f8 46 tlJc8 
+~e4+ (46 ... \\itxe4?? 47 'iWhX++) 47 ~gl 
+~d4 48 'iVe7+ ~g8 (48 ... rt;g7 49 tlJd6 
+~f6 SO tlJe8+) 49 tlJd6 ~d1+ 50 ~g2 
+tlJf4+ 51 rt;h2 (51 gxf4 'lWg4+ 52 ~h2 
+\(Wxt'4+ 53 ~gl ~g4+ 54 ~f1 Vfidl+ =) 
+51 .•• llJe2 52 ~xf7+ ~h8 53 ~e8+ ~h7 
+54 'tWd7+ ~g8 55 \VHc8+ ~h7 56 ~b7+ 
+~h8 57 ~b8+ Iit>h7 58 W/xa7+ \t>g8 59 
+¥Wt7+ ~h8 60 'iVf6+ ~h7 61 ~g2 (1-0). 
+Morozcvich - Balashov, N ovgorod 
+17.6.1997. 
+.98. 
+1 ~e7!! fl~ 2 ii.f6! ~xf6 3 
+gh8Vi'+!! (3 exf6 =) 3 .•• iYxh8 (3 ... ~xh8 
+4 exf6) 4 d4!. Zugzwang: la dama debe 
+entregarse. Por ejemplo: 4 ... ~g7 5 hxg7 
+h5 (5 '" rt;xg7 6 rt;d7, seguido de e6, e7, 
+e8~) 6 e6 h4 7 e7 h3 8 ~d7 h2 9 e8'tW+. 
+Estudio de Guliaev, 1940. 
+.99. 
+46 ••• hIc7!! 47 nxg5 fxg5! 48 b6 
+llc1+! 49 rt;d2 ~c2+ 50 ~e1 (50 ~dl? 
+~xf2 51 b7 e3; 50 ~e3? ne2+ 51 <ittd4 
+d2) 50 ..• l:te2+ 51 ~n ~b2 52 a7 nb1+ 
+53 ~g2 d2 54 a8'lW dl'iY 55 ~b7+ ~h6 
+56 ~c6+ ~h5 57 'tWe8+ ~h4 58 'lWhS+ 
+~h5 (0-1). Nataf - Cherniaev, Museu 
+(Aeroflot) 18.2.2004. 
+• 100. 
+48 e4! fxe4 49 g4+ c;t>g5 50 wg3! 
+(1-0). Ante la amenaza 51 ~g7+ ~g6 
+52 il.e3++. Gligoric - Andersson, Berlin 
+1971. 
+.101. 
+1 ••• g4+! 2 ~xg4 (2 l\t> xg4?? 
+'tWfS++) 2 .•• 'iWf5!! 3 h5 c4! 4 h6 (4 bxc4 
+b3) 4 ••• 'tWxg4+ 5 Iit>xg4 c;t>f6 (0-1). Tatai 
+- Mariotti, Italia 1973. 
+.102. 
+57 ~g8+ ~h7 58 ng5! b3 59 ~f7 
+n xe6 (ante la amcnaza de mate 60 
+~xh5) 60 ~xe6 b2 61 rbt7 ~h6 62 llg8! 
+(1-0). Si 62 ... ~h7 (62 ... bl~?? 63 
+It hS++). 63 II b8. Stahlberg - Gligoric, 
+Interzonal de Estoeolmo 1952. 
+.103. 
+1 h8'(W+ tlJfh7+! 2 ~f5!! n xhS 
+3 ttJf2! ttJxf7 (3 ... ttJf6 4 ~ xf6+ ~g7 
+5 ~xgS) 4 ttJg4+ ~g7 5 ttJe6+ ~g8 
+6 ~f4!, Y mate a la siguiente. Estudio de 
+J. Fritz, 1953. 
+.104. 
+1 ttJe7+! ~h7 (1 ... ~g7 2ltJfS+; 1 
+. .. ~ h8 2 ltJxg6+ ~xg6 3 lit f8+) 2 ltJd5+ 
+~g8 (2 ... ~h8 3 ~f6!) 3 ttJf6+ ~h8 (3 ... 
+cbfS 4ltJe4+) 4 IlcS+ ~g7 5 r!g8+ (1-0). 
+Si 5 ... ~f7, 6 llJe4+ ~xg8 7 ltJxd6. Po-
+mar - Ljubojevic, Las Palmas 1974. 
+.105. 36 ••• ~xd5! 37ltJxd5 ~c4 38 ~c2 
+(38 ltJc3 ~xa2 39 ltJxa2 ~e7; 38 I! as 
+ltJ b3) 38 ••• ttJ e4+ 39 ct> e3 jL xd5 
+40 I!cS+ ~e7 41 ~d4 ~c6 42 I!c7+ ~e6 
+43 f5+ ~ xf5 44 ~ xf7+ ~ g6 45 l:t fl 
+ltJ d2! 46 !! f4 ltJ f3+ 47 c;it c5 ttJ xe5 
+48 ~b6 ttJd7+ 49 r:bc7 ltJf6 50 ~ d4ltJe4 
+51 I;i dl ~ f5 (0-1). Gligoric - Kostic, 
+Campeonato de Yugoslavia 1946. 
+.106. 
+61 .•. f4! 62 gxf4 (62 cxf4? ¥Wf3 
+44 
+63 'iVf1 'iYxe3) 62 ••• ~f3 63 'iVf1 ~xf4 
+64 ~d2 (64 exf4 ~xe3 -+) 64 ... ~xh2+! 
+65 \t>xh2 g3+ (0-1). Si 66 c;i(xh3 (66 ~gl?? 
+h2++), 66 ... g2+. Loiterstein - Najdorf, 
+Mar del Plata 1994. 
+.107. 
+46 g3? (46 ne2, 46 ~f2) 46 ••• 
+hxg3 47 h4? (47 hxg3) 47 .•• ~a4!! (-+) 
+48 .:g e2 (48 bxa4 b3: 48 h5 ~xb3 49 h6 
+~xe2 50 h7 I:! b3+ 51 ~e2 g2 Salay) 48 
+••• ~xb3 49 ~d3 llxe2+ 50 wxe2 ~d1+! 
+(0-1). 51 ~f1 h3 52 h5 ~c2. Timman -
+Salov. Amsterdam 1991. 
+• 108. 
+63 b6 d2 (63 ... <it>e6 64 ~ xe5+) 64 
+~e2 exf3+ 65 lixfJ ~c6 66 Jlxf5 ltJe4 
+(66 ... ~xb6 67 ~xd2 ltJe4+ 68 '\t>c3
+
+ltJxg3 69 ~ e5 ct>c6 70 ~f3 <it>d6 71 :1 as 
+ttJf1 72 ~ a2 +-) 67 : e5 llJxg3+ 68 ~xd2 
+g5 (68 ... ~xb6 69 <it>e3 g6 70 ~f3 llJh5 
+71 ~ e6 ~c5 72 n xg6 +-) 69 hxg5 hxg5 
+70 ~d3 g4 (70 ... ~xb6 71 !! xg5 ltJf1 
+72 we2 ttJh2 73 ~g2) 71 ne6+ ~b7 
+72 ~c41ZJf5 73 ldf6llJe3+ 74 <itc5 (l-O). 
+Beliavsky - Short. Linares 1995. 
+.109. 
+51 ..• c4!! 52 bxc4 (52 ~xc4 
+l:t d2+) 52 ••• l:t b8 53 c5 n b2 54 di ~e7 
+55 lDxg6+ ~d6 56 ltJe5 ld xa2 57 llJc4+ 
+rtlc7 (57 ... ~xc6 =) 58 wg3 (58 it.xf5?? 
+ld xc2+!) 58 ••• n a1 (58 ... ~ xc2? 59 
+ttJxa3 l:tc3? 60 llJb5+) 59llJxa3 :xa3 60 
+~h4 ~xc6 61 ~g5 ~a5 62 it.xf5 <it>d6 
+63 ~g4 <it>e7 64 ~d3 Il c5 65 ~f3 ~d6 
+66 ~e4 llh5 67 c4 .tlb4 68 ~f5 Wc5 69 
+~e5 llb3 70 ~e4 :h471 .te2 l:th2 72 
+~f3 ~d4 73 ~f1 nhl 74 wf2 ~h8. Ta-
+bIas. Ivanchuk - Kramnik. Linares 
+2.3.1998. 
+• 110. 
+1 ~xc5!! 'iWxc5 2 ttJxc3+ ~c1 (2 
+... <itd2? 3 llJe4+) 3 ~g3!! 'i¥e3 (0 cual-
+quier otra jugada de dama que evite 
+... .tf4+) 4 ~f4! 'iYxf45 ttJe2+ y 6 tLJxf4 
+(1-0). Estudio de A. Troitzky. 
+.111. 
+1 ~ b3+ n b6! 2 n xb6+ ~c7 
+3 ~d8+!! (3 ~e6 ~d7 =) 3 ••• ~xd8 
+4 nb8+ ~e7 5 <i!tg6!!. Zugzwang. (1-0). 
+Estudio de T. Gorgiev, 1930. 
+• 112. 
+1 ~b6! ~c4 (1 ... ~a4 2 ~a6+ 
+~b4 3 ~d2+ ~cS 4 \'Wa3+) 2 lWb3+! 
+c;t>d4 (2 ... \tc5? 3 'i'a3+) 3 ~d3+! 
+~ e5 4 ~ e3+! ~ d6 (4 ... ~ f6? 
+5 ~g5+) 5 ~f8! (atraccion a una enfi-
+lad a) 5 ••• 'i(xf8 6 ~a3+ (1-0). Estudio 
+de Burget. Deutsche Schachlliitter, 
+1941. 
+• 113. 
+1 Il a5+ ~e4 [1 ... ~c6? 2 .ta4+; 1 
+... we6? 2 ~g4+; 1 ... bS 2 1: xbS+! 'iVxbS 
+(2 ... ~c6 3 ~a4 V/Hc7 4 b4!!) 3 c4+! ~xc4 
+(3 ... ~xc4 4 ~e2+) 4 ~b3] 2 nf5!! 
+(arnenaza 3 ~c2++ ) 2 ••• ~xf5 (2 ... WNx[5 
+3 ~c2+) 3 ~g4+ (1-0). Estudio de J. 
+Shewers. Rigaer Tageblatt. 1900. 
+.114. 
+1 g4+ fxg4 2 hxg4+ ~ b4 3 
+'iYxh6+!! ~xh6 4 c;t> h2. Y no se puede 
+evitar ~f2+. Schlechter - Meitner, Viena 
+1899. 
+.115. 
+1 ~a3+ (1 l:txf6? lDd7+) 1 ••• 
+lDa4+! 2 n xa4+!! ~xa4 3 ~d1+ ~a5 
+4 b4+ ~ a6 5 'it> xe6! (amcnaza 6 
+~e2++) 5 ••• ~ e7 6 ~g4 (mates en c8 y 
+e2) 6 •.• %Xe8 7 ~f5 (mate en d3) 7 •.• 
+n d8 8 ~e6! n d6+! (unica: no se pue-
+den controlar simultaneamente las ca-
+sillas cS y c4) 9 ~ xd6 ~ b5 (9 ... 
+~xh4?? 10 ~c6 y mate inevitable) 10 
+h5 ~xb4 11 h6 c;ttc3 12 ~a2 Wd3 13 
+~e6 .tb2 14 g4 (1-0). Estudio de A. 
+Troitzky, Shajmaty, 1898 . 
+.116. 
+29 l:t xf6! ~ gl+ (29 ... r1 xgS 
+45 
+30 ~h6+ ~gR 31 IlhS++; 29 ... ~h7 
+30 II xhS+ ~g8 31 l:! h8+!: 29 ... ltJxf6 
+30 ~xf6+ \t>h7 31 ~xh5+ wg8 32 llh8++) 
+30 ~d2 b[g2+ 31 cbe3 (1-0). Velimirovic 
+- Bukal, Yugoslavia 1971. 
+.117. 
+1 ••• h3+! 2 ~xh3 ~f5+!! 3 iYxf5 
+~xg3+ 4 ~h4 .t!g4+, tablas par ahoga-
+do. Posici6n didactica . 
+• 118. 
+1 ••. h4! 2 axb4 : xh4! 3 gxh4 g3! 
+4 fxg3 c3+! 5 bxc3 a3 (0-1). Lund - Nim-
+zovich. Oslo 1921. 
+.119. 
+1 ••• d3! 2 Il1xc5 (2 ~7xcS? d2) 2 
+.•. nb8!! 3 ~gl (3 l:[xdS 'uh1++) 3 ••• 
+ndd8! 4 ne1 d2 5 ld.d1 nde8! (5 ... 
+~he8? 6 ~f1) 6 nn nel 7 nd7 nhl+! 
+(0-1). 8 <itxh 1 ~ xfl + 9 ~ h2 dl ~. Kii-
+nitz - Dvoretsky, Bad Wiessee 1997.
+
+·120. 
+37 ~a4! jLe5 (37 ... ~g5 38 h4+ 
+~g4 39 ~e4! Korchnoi) 38 ~xf5! gxf5 
+39 d6 ~f6 40 d7 ~g7 (40 ... ttJeS 41 
+!:l a6 ttJxd7 42 n d6 Korehnoi) 41 :I a8 
+(1-0). Korchnoi - Gligoric, Buenos 
+Aires 1960. 
+.121. 
+1 ~d8 Wd7 2 c8'iY+!! c;t>xc8 
+3 ~f6, ganando la dama y la partida. Es-
+tudio de G. Sajodjakin. 1939. 
+.122. 
+1 'ittg4! ~cS+ 2 ~f3!! 'iVb7+ 3 
+~d5! 'li'xb1 (3 ... ~xdS+ 4 ~e4) 4 na5+ 
+~b7 5 !! b5+. Tablas. Estudio de G. Kas-
+parian, 1969. 
+.123. 
+59 'i'fd3! g6 (59 ... h2 60 ttJg5+ 
+\th6 61 ttJf7+ ~h5 62 ~f5+ ~h4 63 
+~ (4+ ~ h3 64 ttJ g5+ ~ g2 65 'MN f3+ 
+~gl 66 ttJh3++: 59 ... ~h4 60 ttJg5+ 
+~ h6 61 th f7+ ~ h5 62 'i'ffS+ g5 63 
+the5) 60 ~xh3+ ~g7 61 'iYf3! 'iVc1 (61 
+... ~h4 62 'Wc3+ ~h7 63 ~c7+ ~h6 64 
+'iYxb8) 62 'fif6+ ~h7 63 iYt7+ ~h6 64 
+~fS+ W h5 65 ~hS+ W g4 66 'iV cS+ 
+(1-0). Capablanca - Janowski, San Se-
+bastian 1911. 
+• 124. 
+48 ~ c4! a4 (48 ... ~xf6+ 49 ~xf6 
+l:le850 ~c7 ':e6+51 ~g5 ':xe5+52 
+<it>f4 Korchnoi) 49 r! c7 a3 SO bl xd7! 
+~xd7 51 e6 'WIa7 (algo mejor es 51 ... 
+~b5+ 52 ~h4 gS+ 53 ~h5 'iVe8+ 54 
+~xg5 ~g6+ 55 'i'fxg6+ hxg6 56 d7 axb2 
+57 e7 n b5+ 5H ~h4 bl ~ 59 e8~+ ~h7 
+60 'iVe7+ <it>xh6 61 g5+ 1:!xg5 62 W/xg5+ 
+~h7 63 'iVe7+ ~h6 64 ~e3+ +- Korch-
+noi) 52 ~eS axb2 (52 ... a2 53 e7 \t>f7 
+54 d7!) 53 e7! ~fi 54 d7! (54 ... ~xd7 
+S5 ~f6+ ~e8 56 'iVf8++) (1-0). Korchnoi 
+- Tal, Erevan 11.12.1962. 
+.125. 
+1 ••• llb4!! 2 cxb4 a4! 3 b5+ ~xbS 
+4 ~a3 c3 S ~ b1 'ittc4 6 f4 \!(xd4 7 ~f2 
+~c4 S ~e1 d4, y la mare a negra de peo-
+nes no puede pararse (0-1). Kmoch -
+Nimzovich, Bad Niendorf 1927. 
+.126. 
+28 !lxe6! nxe6 (28 ... <ittxe6 29 
+~xg4 n d7 30 f5+ <itte7 31 ~ hS) 29 f5 
+r! e7 30 ~xg4 .: b7 31 ~ cS as 32 ~f4 
+~c7 33 e6 ~d6 34 ~dS+ ~e7 3S rixd5 
+b5 36 ~ eS a4 37 n cS b4 38 d5 b3 39 
+axb3 axb3 40 d6+ <it> dS 41 e7+ 'itt d7 
+42 n c7+ (1-0). 42 ... ~ xc7 43 dxc7 b2 
+44 e8~+ ~xe8 45 ~e6. Gligoric - F. 
+Olafsson, Hastings 1956-57. 
+.127. 
+1 ~f4 £tc7 2 ~eS! (si el caballo 
+mucvc, es ahogado; 2 ~g3 Itg7 3 ttJf5+? 
+~xg3 =; 2 ~h2 nh7, etc.) 2 ••• ':e7 3 
+tLJf7+!! r!xe54 tLJd8!! (4 ttJxe5? =) 4 .•. 
+~e6+ (el ultimo recurso) SllJc6+! (5 
+tlJxe6 =) 5 ... ~xc6+ 6 \txc6 <itta7 7 'ittc7 
+(1-0). Estudio de F. Dedrle. 
+.128. 
+41 blc7!! nb6 (41 ... llxc7 42 
+46 
+ttJxc7 ttJg5 43 f4 ttJh7 44 b4 <it>xh6 45 b5 
+ttJf8 46 b6 ttJd7 47 b7 g5 48 fxg5+ ~xg5 
+49 ttJa6 f4 SO ttJxc5 lbb8 51 ~b3 f3 52 
+~c4 ~f4 53 ttJd3+, las blancas sacrifican 
+el cabano y ganan en el tlaneo opuesto) 
+42 h7 n b8 43 n e7 ttJg5 44 f4 ttJh3 
+45 ttJ c7 n hS 46 ttJ d5 gS 47 fxg5 ttJ xgS 
+48 ~c5! (1-0). Si 48 ... ~g4, 49 ttJf6+ ~f4 
+SO : e 7, Svidler - Kramnik, Campeonato 
+de Rusia 19.12.2005.
+
+OTROS TITuLos PUBLICADOS: 
+ANTONIO GUDE 
+PROBLEMAS 
+__ ile apertt/,ra 
+12R fler('tcios tl!nldlit.os pam 
+·un entrel\Jmie~IO 
+•• tructuracio 
+ANTONIO GUDE 
+PRORLEMAS 
+ae_es.trategza 
+128 c:jerddo~ t~mat!co:; ~\iJra 
+U" entrenaf:1i~nt" 
+estillelu,.do 
+ANTONIO GUDE 
+128 ejercicios tenliitico, p .... 
+un i!nt7enam~nto 
+.,tructu'ado 
+ANTONIO Gum: 
+ATA9-~r~~e 
+128 ejerric.iol l<rn~\tto~ ;;'~3 
+un entrel1Jmicrlto 
+e..slructlji:"ado 
+Si desca maS infonnaci6n sobre estos y olros libros de AJEDREZ publicados 
+por Ediciones Tutor, consulte nuestra pagina: www.edicionestutor.com

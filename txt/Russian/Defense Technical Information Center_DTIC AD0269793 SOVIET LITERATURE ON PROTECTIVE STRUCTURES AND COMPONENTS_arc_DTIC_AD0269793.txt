@@ -1,0 +1,1309 @@
+UNCLASSIFIED 
+
+ad  269  793 
+
+Reproduced, 
+tup  the 
+
+ARMED  SERVICES  TECHNICAL  INFORMATION  AGENCY 
+ARLINGTON  HALL  STATION 
+ARLINGTON  12,  VIRGINIA 
+
+
+UNCLASSIFIED 
+
+
+NOTICE:  When  government  or  other  drawings,  speci¬ 
+fications  or  other  data  are  used  for  any  purpose 
+other  than  in  connection  with  a  definitely  related 
+government  procurement  operation,  the  U»  S* 
+Government  thereby  incurs  no  responsibility,  nor  any 
+obligation  whatsoever)  and  the  fact  that  the  Govern¬ 
+ment  may  have  formulated,  furnished,  or  in  any  way 
+supplied  the  said  drawings,  specifications,  or  other 
+data  is  not  to  be  regarded  by  implication  or  other¬ 
+wise  as  in  any  manner  licensing  the  holder  or  any 
+other  person  or  corporation,  or  conveying  any  rights 
+or  permission  to  manufacture,  use  or  sell  any 
+patented  invention  that  may  in  any  way  he  related 
+thereto. 
+
+
+28  November  1961 
+
+
+Science  and  Technology  Branch 
+Aerospace  Information  Division 
+
+
+AID  Report  61-155 
+
+
+28  November  1861 
+
+
+SOVIET  LITERATURE  ON  PROTECTIVE  STRUCTURES 
+AND  COMPONENTS 
+
+
+AID  Work  Assignment  No.  13 
+Report  3 
+
+
+The  publication  of  this  report  does  not  constitute  approval  by  any 
+U.  S.  Government  organization  of  the  inferences,  findings,  and 
+conclusions  contained  herein.  It  is  published  solely  for  the 
+exchange  and  stimulation  of  ideas. 
+
+
+Science  and  Technology  Branch 
+Aerospace  Information  Division 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+
+
+PERIOD  : 
+
+
+31  May  1961  to  15  Oct  1961 
+
+
+This  is  the  third  of  a  series  of  reports  reviewing 
+Soviet  developments  in  the  construction  of  pro¬ 
+tective  structures  and  components  of  automatic 
+weapons  systems.  This  report  is  based  on  ma¬ 
+terials  received  at  the  Aerospace  Information 
+Division  prior  to  15  Oct  1961.  It  deals  with  the 
+following  topics: 
+
+A  - 1. .  Railroad  systems 
+A- 2..  Road  transportation 
+B.  Construction  activities  associated 
+with  missle  sites 
+
+B-l .  Excavating  and  grading  activity 
+B-4.  Construction  equipment 
+C-7.  Guidance  operations  facilities 
+D-2.  Propellant-handling  equipment 
+E-4.  Liquid-oxygen  plants 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+PERIOD  :  31  May  1961  to  15  Oct  1961 
+
+TOPIC  A-l.  RAILROAD  SYSTEMS 
+
+1.  )  Giant  railroad  cars.  Ekonomicheskaya  gazeta,  19  Jul  1961,  1. 
+
+The  first  lot  of  gondola-type  railroad  cars  with  125-ton  capacities  has  been 
+assembled  at  the  Uralvagonzavod  [Ural  Railroad-Car  Plant],  Each  car  has  a 
+useful  volume  of  138  ms  --  more  than  twice  that  of  cars  in  use  at  present. 
+
+Ural  railroad-car  builders  have  designed  another  large  gondola  car  with  a 
+100 -ton  capacity.  The  body  of  this  car  is  constructed  of  an  aluminum  alloy 
+which  decreases  car  weight  by  one  and  one-half  tons. 
+
+2.  )  1.  Ostrov,  A.  B.  New  State  Standards  for  railroad  clearances.  Zhelez- 
+
+nodorozhnyy transport,  no.  3,  Mar  1960,  10-15. 
+
+2.  Bakayeva,  V.  G.  ,  ed.  Transport  SSSR  [USSR  Transportation]. 
+
+Moskva,  Morskoy  transport,  1960.  537  p. 
+
+3.  Ostrov,  A.  B.  Unifica^on  of  railroad  clearances  of  Socialist  countries 
+Zheleznodorozhnyy  transport,  no.  2,  Feb  1950,  87-93. 
+
+
+As  of  1  Jan  1960,  the  new  T0CT  9238-69  standard  of  clearances  for 
+railroads  with  1524-mm-wide  track  became  effective,  replacing  the  OCT  BKC 
+6436  standard,  introduced  in  1934  [1].  The  new  standard  is  tb  be  used  in  the 
+building  of  new  railroads  and  second  tracks  for  existing  single-track  lines;  the 
+reconstruction  and  electrification  of  existing  railroads;  and  the  building  and 
+modernization  of  rolling  stock.  For  all  now  railroads,  railroads  undergoing 
+reconstruction,  and  those  scheduled  for  reconstruction,  the  new  T0CT 
+establishes  a  common  "track  clearance"  "  C"  (Fig.  1).  This  is  a  contour  show¬ 
+ing  the  closest  distances  by  which  any  railroad  construction  or  building  (includ¬ 
+ing  bridges  and  tunnels)  must  clear  straight  track.  On  curved  portions  of  track, 
+clearances  must  be  increased  to  maintain  the  same  safety  of  passage  as  for  a 
+two-axis  car  24  m  long  on  straight  track  under  maximum-speed  conditions. 
+
+The  new  T0CT  also  specifies  maximum  outside  perimeters  of  rolling 
+stock.  These  perimeters  are  divided  into  two  groups.  One  group  includes 
+perimeters  T  (Fig.  2)  and  1-T  (Fig.  3)  for  rolling  stock  operating  exclusively 
+on  Soviet  railroads.  Perimeters  T  and  1-T  accomodate  all  types  of  rolling 
+stock  operating  within  the  USSR,  but  1-Tdoes  not  include  rolling  stock  of  sub¬ 
+urban  electrified  sections. 
+
+The  second  group  includes  perimeters  0-T,  01-T ,  02-T,and  03-T  for 
+rolling  stock  operating  both  within  the  USSR  and,  with  some  limitations, 
+
+
+-  1  - 
+
+
+Within 
+
+
+He  stations" 
+
+
+Level  of  rail¬ 
+head  top 
+
+
+IMt-Mlnimum  dlstanae  t,o  centerline 
+
+
+Pig.  1.  Contour  C 
+
+
+of  sedond  main  traok 
+
+
+Secondary  or  temporary-type  railroad  constructions  with  no  prospects 
+of  electrification. 
+
+
+Temporary  exception  for  railroads  which  do  not  use  rolling  stock  of 
+the  T  perimeter. 
+
+Minimum  distance  for  all  new  buildings  and  constructions.  In  special 
+
+cases,  the  Ministry  of  Railroads  may  permit  reduction 
+
+of  this  distance  to  2450  mm  inside  and  2750  mm  outside  stations. 
+
+Maximum  height  for  any  device  inside  or  outside  stations  except 
+switching  and  signaling  equipment,  flooring  on  highway  crossings, 
+and  the  like. 
+
+Minimum  distance  for  all  new  foundations  and  underground  installa¬ 
+tions  . 
+
+
+Tunnels  and  bridge  railings. 
+
+
+Wwt 
+
+
+>MA 
+
+
+.ite. 
+
+
+rjrV. 
+
+
+llfST 
+
+
+Level  of  railhead 
+top 
+
+
+„iiuow  .  S!0(M)  SJOfUlJ 
+
+Fig.  3»  Perimeter  T 
+Signaling  devicea  only. 
+
+In  1-T  and  T  perimeters  for  protruding  nonoritical  parts.  I 
+Ol-T  perimeter  only,  for  rolling  stock  built  prior  to  introduc 
+tion  of  tni,s  standard. 
+
+
+Level  of  railhead  top 
+
+
+»il'l  ! 
+
+
+|  •  *u  »  |  »  »  '  T 
+
+
+Fig.  4.  Perimeter  OT 
+-  3  - 
+
+
+Level  of  railhead  tc 
+
+
+1  -  for  locomotives 
+
+
+LL 
+
+
+Tig.  7.  Perimeter  03 — T 
+tenders,  and  motorized  cars;  2  -  for  ears. 
+
+
+-  4  - 
+
+
+Within  stations  Outside  stations 
+
+
+Fig.  9.  OCT  BKC  6495,  perimeter  2-C 
+
+[This  figure  ia  taken  from  aouroe  [2],  p.  65,  with  dimensions  corrected 
+according  to  the  Tekhnlcheskly  zheleznodorozhnyy  slovar1,  2nd  edition, 
+Moscow,  Zheldorizdat,  194£>  ( compiled  hy  B.N.  Vedenisov  et  al.).] 
+
+
+-  5  - 
+
+
+in  countries  with  1435-mm  track.  Rolling  stock  with  the  Q-T  perimeter 
+(Fig.  4)  can  operate  only  on  certain  reconstructed  sections  of  1435-mm  main 
+lines  in  countries  which  are  members  of  OSZhD,  the  Organization  for  Rail¬ 
+road  Cooperation,  founded  in  1956  and  encompassing  the  12  countries  of  the 
+Communist  bloc  (Albania,  Bulgaria,  Hungary,  East  Germany,  Vietnam,  Red 
+China,  North  Korea,  Mongolia,  Poland,  Rumania,  the  USSR,  and  Czecho¬ 
+slovakia)  [3],  Rolling  stock  with  the  Ol-T  perimeter  (Fig.  5)  can  operate 
+on  all  1435-mm  mainlines  of  the  OSZhD  countries.  Rolling  stock  with  the 
+02 -T  perimeter  (Fig..  6)  can  operate  on  all  1435-mm  lines  of  the  OSZhD 
+countries  and  also  on  the  1435-mm  lines  of  the  railroads  which  were  mem¬ 
+bers  of  the  now  abolished  Union  of  Middle  European  Railroads.  Finally, 
+rolling-stock  with  the  03-T  perimeter  (Fig.  7)  can  operate  on  all  European 
+and  Asian  railroads  with  1435-mm  track. 
+
+In  the  old.  ^0T  BK6435,  two  track  clearances  were  specified  --  the  1-C, 
+
+used  prior  to  1.926,  and  the  2-C(Fig.  8),  which  became  effective  in  1926  [2]. 
+This  standard  also  specified  separate  clearances  for  tunnels  --  CT-1 
+and  CT-2  .  (The  1  and  2  apparently  have  the  same  meaning  as  they  <^o  in 
+designations  for  track  clearances. ) 
+
+
+-  6  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+
+
+PERIOD  ;  31  May  1961  to  15  Oct  1961 
+
+
+TOPIC  A- 2.  ROAD  TRANSPORTATION 
+
+1.  )  Andreyev,  F.  G.  ,  I.  A.  Tsentsiper,  and  Ye.  M.  Bokova.  Tank  truck  for 
+the  transport  of  liquefied  gases.  Gazovaya  promyshlennost'  ,  no.  1,  1961, 
+32-35. 
+
+
+A  tank  for  the  transportation  of  liquefied  gases,  primarily  of  the  hydro¬ 
+carbon  type,  has  been  designed  by  the  Institute  of  Giproniigaz.  The  tank  has 
+an  ID  of  1600  mm  and  is  7600  mm  long.  Total  capacity  is  14.  6  m®  ,  and  useful 
+capacity,  12.  4  m*.  It  is  made  from  14-16 -mm-thick  Ct  3  .  steel  plate  [killed 
+commercial-grade  steel  with  0. 14-0.  22 io  carbon]. 
+
+The  tank  has  separate  filling  and  emptying  lines.  For  emptying,  the  tank 
+is  equipped  with  a  self-contained  pump  driven  by  an  engine  which  uses  gas  from 
+the  tank.  The  tank  is  mounted  on  the  52155  frame  of  the  MA8-200B  truck. 
+
+
+-  7  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+PERIOD  :  31  May  1961  to  15  Oct  1961 
+
+TOPIC  B.  CONSTRUCTION  ACTIVITIES 
+ASSOCIATED  WITH  MISSILE  SITES 
+
+1. )  Utkin,  L.  A.  On  the  study  of  the  seismic  effect  of  powerful  explosions. 
+
+IN:  Akademiya  nauk  SSSR.  UraPskiy  filial.  Gorno-geologicheskiy  institut. 
+
+Podzemnaya  razrabotka  rudnykh  mestorozhdeniy  (Underground  mining). 
+
+Sverdlovsk,  1960,  125-130.  (ITS:  Trudy,  vyp.  54). 
+
+Powerful  blasts  with  explosive  charges  up  to  200  tons  not  only  cause  local 
+destruction  of  rock  but  also  considerable  elastic  deformation  of  the  surround¬ 
+ing  massif.  Such  elastic  deformation  converts  into  a  certain  amount  of  elastic 
+energy  which  propagates  as  seismic  oscillations  into  the  surrounding  area. 
+
+The  subsequent  vibration  of  the  massif  is  determined  by  its  elastic  properties 
+and  continues  for  some  time  after  detonation  is  completed.  This  phenomenon 
+is  called  the  seismic  effect. 
+
+In  spite  of  the  importance  of  the  seismic  effect,  only  during  the  past  few 
+years  has  any  study  of  it  been  undertaken.  The  size  of  the  zone  affected  by 
+seismic  effect  depends  on  the  amount  of  explosive  charge,  the  properties  of 
+the  medium  in  which  the  seismic  waves  are  propagating,  the  distance  from 
+the  explosion  site  to  the  point  of  observation,  and  the  strength  of  the  object 
+subjected  to  the  action  of  the  explosion. 
+
+The  amplitude  of  the  massif  displacement  can  serve  as  a  criterion  for 
+seismic-effect  evaluation.  Some  authors  (M.  A.  Sadovskiy,  F.  A.  Kirillov, 
+and  D.  D.  Barkan),  however,  use  the  velocity  of  rock  vibration  as  a  criterion 
+in  evaluating  seismic  effect.  Two  methods  can  be  used  in  determining  the  in¬ 
+fluence  of  the  seismic  effect  on  the  stability  of  rock  and  underground  areas. 
+Stresses  can  be  determined  from  the  velocity  of  rock  vibration  or  by  direct 
+measurement  of  the  pressure  caused  by  powerful  explosions  in  the  objects 
+under  study. 
+
+Five  methods  for  the  study  of  the  seismic  effect  of  powerful  explosions 
+are  considered: 
+
+1)  Visual  observations.  The  data  of  visual  observations  can  play  an  impor¬ 
+tant  role  in  the  study  of  the  stability  of  rock  and  underground  areas  subjected 
+to  the  seismic  effect.  According  to  this  method,  brittle  materials  are  placed 
+in  the  action  zone  of  the  explosion  (e.  g.  ,  concrete  plate,  as  was  suggested  by 
+S.  I.  Popov,  Docent,  Magnitogorsk  Institute  of  Mining  and  Metallurgy).  A 
+recess  BOO  x  800  x  40  mm  is  filled  with  concrete  or  other  material  and  after 
+each,  or  several,  explosions  the  number  and  the  position  of  cracks  occurring 
+are  recorded  as  they  relate  to  the  amount  of  explosive  charge,  the  distance  from 
+the  explosion,  etc.  The  results  are  compiled  and  are  used  as  preliminary 
+
+
+-  8  - 
+
+
+data  for  the  study  of  seismic  effect. 
+
+2)  The  MMKC  method.  This  method,  developed  by  the  Institute  of  the  PhysicB 
+of  the  Earth,  is  based  on  the  measuring  of  seismic  vibrations  caused  by  power¬ 
+ful  explosions  by  means  of  multichannel  recording  of  vibrations  of  structures 
+and  the  ground  .  According  to  this  method,  the  vibrations  from  seismic  detec¬ 
+tors  at  different  locations  are  simultaneously  recorded  by  a  6-  or  12-channel 
+oscillograph. 
+
+The  HO- 12  and  nO-14  magnetoelectric  oscillographs  (12  and  14  channels, 
+respectively)  serve  for  recording  vibration  of  the  ground  caused  by  explosions. 
+The  oscillographs  are  supplied  with  24-v  dr-c  power  from  a  50  ampere-hours 
+lead-acid  battery.  According  to  data  of  the  Institute  of  the  Physics  of  the 
+Earth,  the  recording  speed  of  150-250  mm/sec  is  the  optimal  speed  for  the  os¬ 
+cillograph  band. 
+
+Electrodynamic  seismic  detectors  (vibrographs)  are  used  for  recording 
+displacements  of  the  massif.  Seismographs  of  the  CnU-16  type  are  used 
+primarily  for  recording  vibrations  of  structures  subjected  to  action  from  out¬ 
+side  sources.  The  vibrographs  are  based  on  conversion  of  mechanical  motion 
+(vibration)  into  electromotive  force.  They  can  record  both  vertical  and  hori¬ 
+zontal  components  of  vibration. 
+
+3)  Wire-gage  method.  The  third  method  is  based  on  strain- sensitive  wire 
+gages  widely  used  in  the  machine  industry.  Since  the  modulus  of  elasticity  of 
+rock  is  lower  than  that  of  steel,  it  is  considered  that  this  method  can  be  suc¬ 
+cessfully  used  for  the  study  of  the  state  of  stress  in  rock,  particularly  in  dy¬ 
+namic  processes  occurring  rapidly.  The  method  is  especially  advantageous 
+in  that  it  permits  the  direct  measurement  of  stresses  caused  by  an  explosion 
+as  well  as  the  measurement  of  residual  deformations. 
+
+4)  Piezoelectric  method.  This  method  is  based  on  the  piezoelectric  effect. 
+Crystals  of  Rochelle  salt,  tourmaline,  quartz,  ammonium  phosphate,  barium 
+titanate,  and  others  can  be  used.  For  this  method  the  author  recommends 
+the  establishment  of  technical  specifications  and  the  development  of  piezo¬ 
+electric  pickups,  mainly  from  barium  titanate,  according  to  these  specifica¬ 
+tions. 
+
+5)  Ultrasonic  method.  This  method  can  be  used  for  the  study  of  rock  disturb¬ 
+ances  by  measuring  the  velocity  of  ultrasound  propagation.  Modern  ultrasonic 
+instruments  make  it  possible  to  test  rock  at  a  depth  of  2-3  m  and  more. 
+
+For  the  processing  of  experimental  data  in  the  determination  of  seismic 
+effect, the  following  equations  are  given  for  the  sinusoidal  vibration: 
+
+il 
+
+2n 
+
+
+V  = 
+
+
+(cm/sec). 
+
+
+(1) 
+
+
+where  v  -  maximum  amplitude  of  the  velocity  of  vibration;  g  a  maximum 
+amplitude  of  acceleration,  cm/aec;  and  T  ®  period  of  vibration,  sec. 
+
+g  a  £  (cm/sec®),  (2) 
+
+where  a  a  amplitude  of  acceleration,  cm/sec,  and  u  =  magnification  of  the 
+instrument  for  the  given  period. 
+
+A  =  (cm),  (3) 
+
+where  A  =  maximum  amplitude  of  the  displacement 
+
+e  max  s  —  >  (4) 
+
+s 
+
+where  s  a  velocity  of  the  seismic  wave,  cm/sec. 
+
+
+b  E  .e 
+
+
+max  (kg /cm8),  (5) 
+
+
+where  E  a  modulus  of  rock  elasticity  determined  under  laboratory  conditions, 
+kg  /  cm*  .  ,  •  _ 
+
+r  ly_Q*fg  <m>  (6) 
+
+.  Ys 
+
+where  r  B  radius  of  the  seismic  danger  zone;  kv  “  seismic  characteristic  of 
+the  explosion,  (7.  5-  5- 104),  cm;  Q  =  weight  of  the  explosive  charge,  kg; 
+vo  s  velocity  of  seismic  oscillations,  cm/sec;  y  a  unit  weight  of  the  rock, 
+kg/m;  and  g  -  acceleration  of  gravity,  9.  81  m/sec. 
+
+
+The  data  obtained  on  the  seismic  action  of  explosions  can  be  used  in 
+design  calculations  for  determining  rational  dimensions  of  chambers  and  pil¬ 
+lars,  maximum  weight  of  explosive  charges,  and  the  safe  radius  of  explosion 
+action. 
+
+
+-  10  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+
+PERIOD  :  31  May  1061  to  15  Oct  1961 
+
+TOPIC  B-l.  EXCAVATING  AND  GRADING 
+ACTIVITY 
+
+1. )  Epshteyn,  Ye.  F. ,  E.  I.  Arsh,  and  G.  K.  Vitort.  Novyye  metody  razru- 
+sheniya  gornykh  porod  (New  methods  of  rock  breaking).  Moskva,  Gostoptekh- 
+izdat,  I960,  85  p. 
+
+
+Methods  of  rock  drilling  experimented  with  in  the  Soviet  mining  industry 
+include  the  electrohydraulic  method,  thermal  methods,  and  a  number  of  elec 
+trophysical  methods. 
+
+
+Electrohydraulic  Method 
+
+
+With  this  method  rock  is  fractured  by  a  pressure  wave  created  by  a  high- 
+voltage  discharge  in  a  water-filled  blasthole.  In  1957-1959  a  series  of  produc¬ 
+tion-scale  experiments  was  conducted  to  determine  the  feasibility  and  effi¬ 
+ciency  of  electrohydraulic  drilling.  The  results  indicated  that  the  method  is 
+practical  only  for  fragmentation  of  large  pieces  of  rock  into  smaller  ones. 
+
+For  rock  cutting  and  drilling,  the  electrohydraulic  method  was  found  to  be  non¬ 
+competitive  with  conventional  methods,  [pp.  32-45) 
+
+
+Thermal  Methods 
+
+
+Soviet  study  of  thermal  methods  of  rock  drilling  and  the  development  of 
+flame-jet  cutters  began  in  1950.  Research  is  presently  being  conducted  at  the 
+Moscow  Mining  Institute,  the  Kazakh  Mining  and  Metallurgical  Institute,  the 
+Moscow  Higher  Technical  School  imeni  Bauman,  Giprorudmash,  and  other 
+organizations. 
+
+In  the  development  of  the  burners  Soviet  specialists  concentrated  mainly 
+on  the  rotary  multinozzle  type  (See  illustration..  )  In  1958  Giprorudmash  built 
+the  first  experimental  unit  and  field  tested  it  the  following  year.  At  the  most 
+effective  rotation  rate,  drilling  rates  up  to  9.  6-10  m/hr  were  achieved  in 
+secondary  quartzites  with  Protod'yakonov  strength  factor  f  =  10-12.  The 
+presence  of  water  does  not  lower  the  drilling  rate  but  the  inclusion  of  soft  or 
+caolinized  rock  lowers  it  appreciably  (30-50%).  Similar  results  were  obtained 
+
+
+-  11  - 
+
+
+with  manual,  single-nozzle  burners. 
+
+The  following  is  a  general  summary  of  the 
+results  of  laboratory  studies  and  field  tests 
+on  thermal  drilling  methods: 
+
+1)  The  character  of  the  process  of  rock 
+destruction  by  flame  jet  is  determined  not 
+by  the  temperature  but  by  the  temperature 
+gradient,  which  in  turn  depends  on  the  min¬ 
+eral  composition  of  the  rock,  the  nature  of 
+ore  inclusions,  the  body  structure  of  the  rock, 
+and  the  parameters  of  the  flame  jet.  Struc¬ 
+tural  transformations  such  as  occur  in  quartz 
+increase  the  effect  of  the  temperature  gradient. 
+
+2)  In  some  types  of  oxidized  and  nonoxidized 
+ores  found  in  large  monolithic  formations,  bore¬ 
+holes  are  produced  by  destruction  of  the  rock 
+without  melting.  In  this  case,  the  maximum 
+drilling  rate  Is  achieved. 
+
+3)  Inclusions  of  chlorite-- biotit e  shale  and 
+nonuniform  ore  inclusions  contribute  to  full  or 
+partial  melting  of  the  rock  and  lower  efficiency 
+of  flame-jet  drilling. 
+
+4)  In  a  distrubed  rock  formation,  the  borehole 
+formation  is  accompanied  by  partial  melting  of 
+the  rock  and  50-60%  reduction  of  the  drilling 
+
+rate  compared  to  that  obtained  in  monolithic  rock,  The  nature  of  the  rock- 
+destruction  process  can  be  changed  with  the  use  of  multiple-nozzle  burners 
+with  variable  rates  of  nozzle  rotation,  f  pp.  49-54] 
+
+Electrophysical  Methods 
+
+Research  work  on  destruction  and  weakening  of  rock  by  heating  with  high- 
+frequency  current  has  been  conducted  since  1949  at  the  Allr Union  Scientific 
+Research  Institute  for  Coal  (VUGI)  and  at  the  Mining  Institute,  Academy  of 
+Sciences  USSR,  Destruction  of  rock  by  induction  heating  and  by  means  of 
+electrical-pulse  discharge  has  been  studied  at  the  Dnepropetrovsk  Mining  In¬ 
+stitute  as  well  as  at  VUGI.  ; 
+
+A  mining  machine  designed  at  VUGI  has  a  combination  device  which  breaks 
+or  weakens  the  rock  by  means  of  a  high-frequency  electric  field  and  provides 
+mechanical  removal  of  rock  and  finishing  of  the  shaft  walls.  The  productivity 
+of  the  machine  in  cutting  a  shaft  with  an  8-10-m8  cross  section  is  1.  5-2.  0  m/hr 
+through  hard  rock. 
+
+
+Flame-jet  burner 
+
+1  -  fuel  atomizer;  2-  body 
+
+3  -  combustion  chamber; 
+
+4  -  face;  5  •  connecting 
+piece;  6  -  housing;  7  -  sup 
+port;  8  -  nozzle. 
+
+
+-  12  - 
+
+
+Rock  destruction  by  means  of  a  high-frequency  magnetic  field  was  found 
+to  be  less  efficient  than  the  method  just  presented.  Experiments  were  also 
+conducted  on  rock  destruction  by  direct  application  of  electric  current.  Find¬ 
+ings  indicate  that  although  high-voltage  electrical-pulse  discharge  can  be 
+used  for  secondary  fracturing  of  porous  rock,  it  is  ineffective  against  strong 
+rock.  A  high-frequency  electrical- contact  method  is  more  promising  and 
+simpler. 
+
+With  the  electrical -contact  method,  a  high-frequency  electric  current  is 
+passed  through  rock,  heating  the  rock  under  the  electrodes  and  producing  a 
+current-conducting  channel  between  them.  Rapid,  intense  heating  of  the  rock 
+follows  formation  of  the  channel  and  sets  up  thermoelastic  stresses  sufficient 
+for  rock  breaking.  The  method  can  be  used  for  breaking  any  strong  rock. 
+
+In  the  summer  of  1659  field  tests  were  conducted  on  the  first  experimental 
+mobile  unit  employing  the  contact  method.  The  unit  was  built  at  the  Dnepro¬ 
+petrovsk  Mining  Institute.  Iron  ore  blocks  weighing  from  200  to  14, 000  kg  were 
+broken  in  30-180  sec.  The  power  consumption  was  1-3  kw-hr /ton,  initial  vol¬ 
+tage  was  1000  v,  current  was  50  amp,  and  frequency  was  50-70  kc. 
+
+According  to  Soviet  scientists,  the  electriqal- contact  method  of  rock 
+breaking  is  suitable  for  secondary  rock  fragmentation.  The  application  to 
+primary  rock  breaking  in  large  underground  excavations  requires  further 
+theoretical  and  experimental  research,  [pp.  60-79] 
+
+
+-  13  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+PERIOD  ;  31  May  1961  to  15  Oct  1961 
+
+TOPIC  B-4.  CONSTRUCTION  EQUIPMENT 
+
+1. )  Filina,  T.  A.  Instruments  for  quality  control  of  concrete  and  reinforced- 
+
+concrete  structures.  Beton  i  zhelezobeton,.  no.  3,  Mar  1961,  111-118. 
+
+TA680.  B38  1961. 
+
+In  the  1960  Exposition  of  the  Achievements  of  the  National  Economy, the 
+"Construction"  section  put  on  display  80  instruments  for  investigation  and 
+control  of  quality  of  concrete  and  reinforced  concrete.  These  instruments 
+were  developed  and  manufactured  by  30  different  organizations.  According  to 
+principle  of  operation, they  were  classed  as  pulse,  tuned,  impact,  radiometric, 
+and  mechanical. 
+
+Among  the  instruments  exhibited, there  were  six  different  types  of  ultra¬ 
+sonic  testers,  all  based  on  the  lot-produced  MKXt-6  .  They  are  considered 
+better  than  other  Soviet  and  non-Soviet  models.  Lot  production  for  one  of  the 
+six,  the  MKJI-6-B  ,  was  suggested.  This  is  an  ultrasonic  tester  for  mea¬ 
+suring  the  time  of  passage  of  an  ultrasonic  pulse  through  concrete,  rock, 
+structural  materials,  ice,  or  frozen  ground  to  determine  quality  and  strength. 
+The  thickness  of  concrete  which  can  be  tested' ranges  from  2  cm  to  15  m. 
+The  error  in  time  measurement  can  vary  within  0.  2  to  2  microsec. 
+
+Designed  for  automatic  inspection  of  road  and  airport  pavement  and  other 
+constructions  made  of  concrete  or  other  materials,  the  MK-1  (I1MK-6) 
+device  measures  and  records  differences  in  impact-wave  signals  in  the  struc¬ 
+ture  being  tested.  The  number  of  shocks  against  the  structure  is  varied  from 
+1  to  100  sec. 
+
+A  radioactive  densimeter  for  measuring  unit  weight  of  freshly  compacted 
+concrete  within  2  to  4.  5  t/m8  is  used  in  the  construction  of  hydroelectric  and 
+nuclear  power  plants.  In  the  latter.it  measures  the  density  of  concrete  to  be 
+used  for  biological  protection.  This  device  is  based  on  the  principle  of  the 
+absorption  of  radioactive  emission  by  concrete.  Measurement  accuracy  is 
+1.  5-2%;  the  time  required  for  one  measurement  is  30-40  sec.  Another  device 
+for  the  same  purpose  is  a  radioactive  probe,  which  can  measure  the  density 
+of  rock  and  concrete  as  well  as  filtration  flow  in  the  mass  of  earth  and  con¬ 
+crete  structures. 
+
+Several  instruments  for  measuring  parameters  of  reinforcing  bars  should 
+also  be  noted.  The  II H  device  measures  stresses  in  prestressed  reinforcing 
+bars  and  is  particularly  important  in  electrothermal  stretching  of  reinforcing 
+bars.  The  KPK-1  vibration-frequency  meter  measures  frequencies  (and 
+hence  stresses)  in  reinforcing  bars.  The  IJHMJI  £-1,  ,flK“3  >  AC-50, 
+and  3frl  all  measure  stresses  in  reinforcing  bars. 
+
+
+-  14  - 
+
+
+The  BI1-1  electronic  hygrometer  is  used  for  measuring  moisture  content 
+in  sand  used  in  the  preparation  of  concrete  mixtures.  The  device  mea¬ 
+
+sures  specific  surface  area  of  cements  and  other  powder  materials  and  is 
+based  on  the  principle  of  determining  air  permeability  at  low  air  pressure 
+(less  than  1  mm  Hg).  Another  device  measures  air  content  in  concrete  mixes 
+and  can  be  used  under  laboratory  conditions  and  in  industrial  inspection. 
+
+Other  instruments  at  the  Exposition  included  a  vibratory  viscosity  meter 
+based  on  the  immersion  of  a  hollow  ball  in  a  mixture  subjected  to  vibration,  a 
+universal  testing  installation  for  bending  and  torsion  tests  of  concrete  under 
+laboratory  and  industrial  conditions,  and  an  electrodynamic  deflection  meter 
+for  measuring  deflections  of  structural  elements  under  static  or  dynamic  loads. 
+
+
+2.)  Gitman,  I.  B. ,  and  L.  N.  Shchipakin.  TheBK-  1425  erection  tower  crane, 
+75-ton  lifting  capacity.  Novaya  tekhnika  montazhnykh  i  spetsial’nykh  rabot  v 
+stroitel'stve,  no.  6,  Sep  1959,  5-10. 
+
+In  1958  the  Promstal’konstruktsiya  Design  Institute  completed  the  design 
+of  the  first  erection  tower  crane,  the  BK-1425<  Bee  illustration),  with  a  75-ton 
+lifting  capacity.  The  crane  was  built  at  the  Ramenskoye  and  Orsk  plants  of 
+the  Ministry  of  Construction  RSFSR  and  tested  in  March  1959.  It  was  effective¬ 
+ly  used  on  the  construction  of  a  blast  furnace  of  the  Nizhniy  Tagil  Metallurgical 
+Combine. 
+
+The  BK-1425  has  the  following  characteristics: 
+
+Lifting  speed  of  main  hook  for  75  t:  0.8,  3.6,  6.  4  m/min. 
+
+Lifting  speed  of  main  hook  for  30  t:  2.  0,  9.  0,  16.  0  m/min. 
+
+Lifting  speed  of  auxiliary  hook  for  5  t:  9.  0,  32.  0,  55.  0  m/min. 
+
+Lifting  capacity,  75-t  maximum  for  19-m  boom. 
+
+Lifting  capacity,  20 -t  maximum  for  50-m  boom. 
+
+Speed  of  rotation,  0.19  rpm. 
+
+Moving  speed,  12.  2  m/min. 
+
+Total  capacity  of  motors,  200  kw, 
+
+Total  weight,  393  t  (54-t  counterbalance). 
+
+Lift,  98-m  maximum, 
+
+The  crane  moves  on  four  double-rail  bogies  with  eight  wheels  each  under 
+power  of  four  b-kw  motors.  In  the  cabin  of  the  crane  operator,  a  two-way 
+radio  is  installed . 
+
+
+-  15  - 
+
+
+BK-1425  crane 
+
+
+3.  )  Karasev,  N.  F.  ,  V.  G.  Matsyuk,  V.  I,  Razmerov,  P.  A.  Chasovitin,  and 
+N.  Ye.  Cherkasov.  Novaya  tekhnika  v  stroitel'stve  tonneley  metropolite- 
+nov  SSSR  (New  technique  in  the  building  of  Soviet  subway  tunnels). 
+Moskva,  Transzheldorizdat,  1959.  139  p. 
+
+The  three  tunneling  machines  used  in  building  the  Leningrad,  Moscow, 
+and  Kiyev  subway  tunnels  are  adaptations  of  the  conventional  shield  and  are 
+similar  in  design  and  function.  They  differ  only  in  the  design  of  the  cutter 
+heads,  reflecting  the  differences  in  rock  properties  in  the  three  localities. 
+The  Moscow  rock  was  medium- strength,  the  Leningrad  rock  was  soft,  and 
+that  of  Kiyev  was  a  moist  clay. 
+
+
+The  Moscow  Machine 
+
+The  machine  used  in  Moscow  (Fig.  1)  was  built  for  tunneling  in  solid  rock 
+with  compression  strength  up  to  400  kg/cma.  It  consists  of  shield  8  with  pro¬ 
+pelling  hydraulic  jacks,  fixed  bottom  plate  6  with  hydraulic  feeding  jack  3, 
+
+
+-  16  - 
+
+
+upper  plate  7  carrying  two  cutter  heads  1 ,  motors  , and  reducing  gear  trains  2 
+for  the  cutter  heads,  bucket  ring  4,  and  scraper  conveyor 
+
+
+r4  2  5 
+
+
+Fig.  1.  Mechanized  shield  for  tunneling  in 
+medium- strength  rock 
+
+
+The  cutter  heads  1  (Fig.  2),  each  equipped  with  12  drag-type  bits,  are 
+driven  by  two  55-kw  motors  4  (Fig.  2)  through  reducing  gear  trains  J  and  2, 
+carrier  $  and  planetary  gear  system  with  stationary  sun  gear  6  and  satellite 
+gears  P ,  each  mounted  on  the  same  shaft  as  its  cutter  head.  In  operation  the 
+carrier  rolls  the  satellite  gears  around  the  sun  gear,  and  both  cutter  heads 
+rotate  around  their  axis  and  simultaneously  around  the  axis  of  the  sun  gear, 
+jvith  each  bit  cutting  an  epicycloid- shaped  groove  in  the  rock  (Fig.  3).  Rock 
+particles  fall  into  the  buckets  and  from  the  buckets  into  the  scraper  conveyor, 
+which  carries  them  to  trucks  in  the  rear  of  the  machine. 
+
+The  feeding  jack  pushes  the  upper  plate  and  the  cutter  heads  forward  at  a 
+rate  of  up  to  10-12  mm/min.  The  length  of  the  working  stroke  is  570  mm.  At 
+the  end  of  the  working  stroke,  the  upper  plate  with  the  cutter  heads  is  pulled 
+back  into  the  initial  position,  the  whole  shield  is  pushed  forward  until  the 
+cutter  heads  come  into  contact  with  the  rock  front,  and  the  whole  cycle  is 
+repeated. 
+
+After  some  design  corrections  and  the  elimination  of  certain  initial  diffi¬ 
+culties, the  Moscow  machine  was  making  tunnel  6.  27  m  in  diameter  at  a  rate 
+of  200  m  per  month  (25  working  days,  3  shifts  per  day).  The  average  com¬ 
+pression  strength  of  the  rock  was  128  kg/cms  .  Power  consumption  varied 
+from  108  to  196  kw-hr/m  of  tunnel  length,  depending  on  rock  strength,  bit 
+sharpness  (  BK-8  carbide),  and  feed  rate.  Hard  alloy  consumption  was 
+
+
+-  17  - 
+
+
+105.  6  g/m  of  tunnel  length. 
+
+
+Fig.  2.  Kinematic  diagram  of 
+the  mechanized  shield 
+
+
+Fig.  3.  Tunnel  face. 
+
+
+The  Leningrad  Machine 
+
+The  machine  used  in  Leningrad  was  built  for  rock  with  compression 
+strength  of  40-80  kg/mm*  .  It  has  six  cutter  heads  --  four  outside  heads  with 
+18  bits  each  and  two  inside  heads  with  13  bits  each  (Fig.  4).  The  cutter  heads 
+are  dHven  by  a  single  100-kw  motor  through  reducing  trains,  carrier,  and 
+planetary  gear  system  made  up  of  a  rotating  sun  gear  which  meshes  directly 
+with  the  satellite  gears  of  the  two  inside  cutter  heads  and  through  idler  gears 
+with  the  satellite  gears  of  the  four  outside  cutter  heads  (Fig.  5). 
+
+In  operation  all  the  cutter  heads  are  rotated  around  their  own  axes  by  the 
+sun  gear  and  rolled  around  the  sun  gear  by  the  carrier.  Otherwise,  the  Lenin¬ 
+grad  machine  operates  in  the  same  manner  as  the  Moscow  machine.  The 
+length  of  the  working  stroke  of  the  feeding  Jack  is  575  mm,  the  rate  of  feed 
+is  13-16  mm/min,  and  the  tunnel  diameter  can  be  5.  63-5.  66  m.  One  working 
+cycle  is  43-50  min.  Output  per  shift  is  3-4  m;  output  per  month  is  up  to 
+228  m.  Power  consumption  is  3-4  kw-hr/m*  . 
+
+
+-  18  - 
+
+
+VO  OM-> 
+I  I  I 
+
+
+O  O  CO 
+
+sss 
+
+0  4  0 
+
+
+o  - 
+
+O'  4 
+H"  l\3 
+
+Ct 
+
+<••  -4  I 
+
+
+h  i  a 
+O  C 
+
+•is 
+
+
+•II 
+
+Si* 
+
+
+ct  1 
+
+
+lU 
+
+
+n  ti 
+
+O  H- 
+
+•  COO 
+
+I  <•• 
+
+
+% 
+
+
+a  i 
+
+
+3 
+
+
+.  O' 
+
+e  c 
+
+H  O 
+H*  P? 
+
+O  O 
+
+Ct 
+
+o 
+
+O  U1 
+& 
+
+H-  l 
+
+
+«  ct 
+
+.3 
+
+
+*=0 
+
+<£ 
+
+
+»  / 
+k 
+
+
+Mechanized  shield  for  tunneling  In 
+soft  rocJc. 
+
+
+Fig.  5.  Schematic  diagram  of  the  Leningrad 
+tunneling  machine 
+
+1  -  cutter  head;  2  -  Idler  gear;  3  -  sun  gear;  4  -  reducing  gear  train; 
+5  -  main  shaft;  8  -  motor. 
+
+
+The  Kljrev  Machine 
+
+
+The  machine  used  in  the  Kiyev  tunnel  has  only  one  cutter  head  (Fig.  6) 
+with  four  radially  arranged  drag-type  cutters  projecting  15-20  mm  through 
+windows  4,  5 ,  6 ,  7*  Located  on  the  periphery  of  the  cutter  head  is  a  cutoff 
+bit,  which  maintains  the  correct  shape  and  size  of  the  tunnel.  Another  bit 
+located  on  the  periphery  is  used  to  increase  the  tunnel  diameter  at  curves. 
+
+
+Fig.  6.  Cutter  head  of  the  Kiyev  tunneling  machine 
+
+1  -  disk  sector;  2  -  disk  hub;  3  -  steel  plate;  4,  5,  6,  7  -  windows  for 
+cutters. 
+
+
+-  20  - 
+
+
+This  machine  cut  a  1400 -m  tunnel  in  clay  with  a  compression  strength 
+of  10  kg/cm*  at  an  average  rate  of  1.  7  m  per  shift,  5  m  per  three-shift  day, 
+and  117  m  per  month.  Actual  cutting  time  was  only  22-34%  of  the  working 
+cycle,  and  with  some  improvements  and  better  organization  could  be  in¬ 
+creased  to  67%.  The  ppwer  consumption  varied  from  20  to  130  kw-hr/m  of 
+tunnel  length  and  depended  mainly  on  the  feed  rate. 
+
+
+None  of  the  three  machines  has  any  gripping  devices  to  take  up  the 
+torque  reaction  of  the  cutter  heads;  only  the  dead  weight  of  the  unit  itself 
+serves  this  purpose.  This  dead  weight  is  not  always  sufficient,  and  torque 
+reaction  can  sometimes  turn  the  whole  unit  in  the  direction  opposite  to  the 
+rotation  of  the  cutter  heads.  To  bring  the  unit  back  to  its  correct  position,  the 
+rotation  of  the  cutter  heads  is  reversed. 
+
+
+4. )  Prussak,  B.  N.  Standardization  of  rotary  excavators.  StandartUatsiya, 
+no.  1,  Jan  1961,  18-19.  TSB.  S8  1961. 
+
+In  thiB  article  discussing  the  standardization  of  rotary  excavators,  stand¬ 
+ard  specifications  are  given  for  several  types  of  rotary  excavators  planned  for 
+lot  production. 
+
+The  following  data  are  given  on  a  self-propelled  rotary  excavator,  the 
+8PK  ISOO^designed  for  open-pit  mine  working: 
+
+Bucket  capacity,  1600  liters. 
+
+Height  of  digging  (above  ground),  50  m. 
+
+Depth  of  digging  (below  ground),  20  m. 
+
+Total  height  of  digging,  70  m. 
+
+Productivity  (loose  ground),  5000  m^hr  max  and  3500  m?hr  min. 
+
+Specific  cutting  force,  120  kg/cmamax  and  90  kg/cm8  min. 
+
+Approximate  weight,  3800  t. 
+
+
+5.)  1  Rapoport,.P.l,  and  A.  I,  Gornopol'skiy.  Sovremennyye  mashiny  dlya 
+
+prokhodki  vyrabotok  ugol'nykh  shakht  (Modern  machinery  for  sinking 
+coal  shafts).  Moskva,  Trudrezervizdat,  1958.  165  p. 
+
+2  .  A  machine  that  goes  deep  into  the  earth.  Yunnyy  tekhnik,  no.  4, 
+Apr  1961,  32  I. 
+
+The  Central  Scientific  Research  Institute  of  Underground  Mine  Con¬ 
+struction  has  designed  a  shaft-sinking  unit,  theHU-lM  [2].  The  HU-1M 
+can  sink  shafts  up  to  6.  5  m  in  diameter  and  over  300  m  deep  in  medium- 
+strength  rock  with  water  flow  up  to  50  m8  /hr  [1,  p.  69].  The  unit  is 
+17,120  mm  high,  its  weight  is  160 tons,  and  its  sinking  rate  is  0.  4  m/hr. 
+
+
+-  21  - 
+
+
+The  IW-1M  shaft- sinking  unit 
+
+1  -  cutting  heads;  2  -  disks;  3  -  bucket  conveyors;  4.<?  hy¬ 
+draulic  jack;  5  -  pneumatic  hoists;  6  -  monorail  ring; 
+
+7  -  hydraulic  jacks;  8  -  dump  bins;  9  •  wedge;  10  -  hydraulic 
+jack;  11  -  vertical  elevator 
+
+
+-  22  - 
+
+
+The  M-UI  (see  illustration)  consists  of  four  platforms  and  is  sus¬ 
+pended  on  eight  cables  through  parallel- connected  hydrocylinders  to  insure 
+equal  tension  on  the  cables.  The  rock-cutting  mechanism  consists  of  two 
+disks  2  with  cutting  heads  U  Each  disk  revolves  around  its  own  axis  while 
+simultaneously  revolving  around  the  axis  6f  the  shaft.  The  crushed  rock  is 
+carried  by  two  bucket  conveyors  j  into  vertical  elevator  1 1 ,  which  lifts  it  to 
+dump  bins  8.  The  reinforced-concrete  lining  is  erected  with  two  pneumatic 
+hoists  5  which  move  along  monorail  ring  6  . 
+
+In  operation  the  unit  is  secured  by  lower  hydraulic  jack  4  and  upper 
+hydraulic  jacks  7  and  ^and  wedge  9.  The  IW-1U  is  controlled  by  one 
+operator  and  a  10-12  man  crew.  It  can  sink  up  to  180  m  per  month.  (1)  • 
+
+
+-  23  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+PERIOD  :  31  May  1961  to  15  Oct  1961 
+
+TOPIC  C-7.  GUIDANCE  OPERATIONS  FACILITIES 
+
+1. )  Khudinskiy,  L.  L.  Heterodyne  amplifier  of  seismic  pulses.  (Authors' 
+
+Certificate  No.  136900,  15  Aug  1960).  Byulleten1  izobreteniy,  no.  6, 
+
+Mar  1961,  49.  T285.  A32  1961. 
+
+The  analyzer  consists  of  a  sharply  tuned  quartz  filter,  an  electron 
+amplifier,  and  a  loop  oscillograph.  To  improve  accuracy  and  speed  of 
+operation  a  multivibrator  and  an  electron  tube  for  generating  rectangular 
+pulses  are  used. 
+
+The  multivibrator  is  the  delayed- response  type  and  is  triggered  by  the 
+trailing  edge  of  the  pulse  being  analyzed.  It  generates  rectangular  pulses  and 
+blocks  the  amplifier  tube  for  the  period  of  forced  vibration  of  the  filter. 
+
+The  rectangular  pulses  generated  by  the  electron  tube  are  of  negative 
+polarity  and  create  pulse-controlled  negative  feedback  in  the  filter  circuit 
+before  the  passage  of  the  next  pulse  to  be  analyzed. 
+
+
+2. )  Slutskovskiy,  A.  I.  ,  and  G.  V.  Bereza.  Device  for  testing  amplifiers 
+of  seismic -survey  stations.  (Authors'  Certificate  No.  136899,  11  Jul 
+1960).  Byulleten'  izobreteniy,  no.  6,  Mar  1961,  49.  T285.  A32  1961 
+
+There  are  two  variations  of  the  device.  In  the  first,  testing  is  conducted 
+by  feeding  oscillations  simulating  explosions  into  the  input  of  the  amplifier. 
+The  operation  makes  use  of  a  photoreproduction  unit,  a  programming  device, 
+and  a  reproduction  amplifier.  In  order  to  increase  the  range  of  simulated 
+oscillations  and  to  obtain  proper  sequence  of  pulses,  a  multicontact  step 
+switch  is  employed.  The  switch  is  made  in  the  shape  of  a  disk  which  carries 
+contacts  around  its  circumference.  Resistors  are  connected  to  the  contacts, 
+and  the  cursor  of  the  disk  is  joined  to  the  axle  of  a  drum  of  the  photorepro¬ 
+duction  unit. 
+
+The  second  variation  is  similar  to  the  first  but  has  a  sound  generator 
+substituted  for  the  photoreproduction  unit  and  uses  punched-tape  program 
+control.  The  tjape  is  placed  on  the  revolving  drum  carrying  a  pair  of  sliding 
+contacts  for  switching  the  bypass  resistor  of  the  generator  on  and  off. 
+
+
+-  24  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+
+PERIOD  :  31  May  1961  to  15  Oct  1961 
+
+TOPIC  D-2.  PROPELLANT -HANDLING  EQUIPMENT 
+
+1. )  Buyanov,  R.  A. ,  A.  G.  Zel'dovich,  and  Yu,  K.  Pilipenko.  Some  prob¬ 
+lems  in  the  technology  of  producing  liquid  parahydrogen.  Khimiches- 
+kitya  promyshlennost',  no.  2,  Feb  1961,  31-34.  TP  1.  Z6  1961. 
+
+Fresh  liquid  hydrogen  usually  consists  of  approximately  75%  ortho  - 
+hydrogen  and  25%  parahydrogen,  a  composition  which  corresponds  to  the 
+equilibrium  state  for  temperatures  above  300®  K.  Such  a  composition, 
+however,  slowly  changes:  orthohydrogen  is  transformed  into  parahydrogen. 
+The  transformation  reaction  is  exothermic,  and  the  amount  of  heat  it  pro¬ 
+duces,  253  cal/mol,  exceeds  the  heat  of  vaporization  of  liquid  hydrogen,  which 
+is  228  cal/mol,  at  normal  pressure.  The.  resultant  evaporation  is  responsible 
+for  significant  losses  of  liquid  hydrogen  during  storage  --  18%  in  the  first 
+24  hours,  40%  in  the  first  four  days. 
+
+Storage  losses  can  be  avoided  by  converting  all  of  a  given  volume  of 
+liquid  hydrogen  into  the  para-modification, which  can  be  stored  for  months 
+without  heavy  losses.  At  a  parahydrogen  content  of  95-98%  losses  after  two 
+months  amount  to  only  10%, 
+
+Conversion  is  usually  brought  about  during  the  liquefaction  process  in 
+a  reactor  directly  connected  into  the  liquefaction  system.  The  temperature 
+in  the  reactor  is  21-24®  K.  To  accelerate  the  conversion  reaction  chromium- 
+nickel  and  Fe(OH)3,  Cr(OH)s,  and  Mn(OH)4  hydroxide  catalysts  are  used, 
+Several  methods  of  connecting  the  conversion  reactor  into  a  liquefaction  sys¬ 
+tem  are  used,  depending  primarily  on  the  capacity  of  the  system. 
+
+
+1  -  heat  exchanger;  2  -  reactor;  3  -  cooling  coils;  4  -  collector  for  ordinary 
+hydrogen;  5  -  intermediate  collector;  6  -  parahydrogen  valve;  7  -  valve  for 
+ordinary  hydrogen;  8,  9  -  throttling  valves;  10  -  throttling  capillary;  11  -  he¬ 
+lium  valve.  nHs  -  ordinary  hydrogen;  pHp-  parahydrogen. 
+
+
+-  25  - 
+
+
+Method  a  (see  illustration)  is  recommended  primarily  for  adaptation  to 
+existing  liquefying  plants.  After  leaving  heat  exchanger  l,the  flow  of  high-pressure 
+hydrogen  is  divided  into  two  streams.  One  stream  passes  through  the  conven¬ 
+tional  liquefying  cycle,  beginning  with  throttling  valve  8 ;  the  ordinary  liquid 
+hydrogen  is  collected  in  collector  4  and  removed  through  valve  ?  .  The  other 
+stream  passes  through  throttling  valve  9  ,  is  completely  liquefied  in  the  first 
+cooling  coil  3  (cooled  with  the  ordinary  hydrogen),  and  enters  conversion 
+reactor  2  ,  where  the  orthohydrogen  is  converted  into  parahydrogen.  The 
+heat  evolving  from  the  conversion  reaction  raises  the  temperature  of  liquid 
+parahydrogen  by  3-4®  K,  causing  part  of  it  to  vaporize.  The  parahydrogen 
+is,thereforq  passed  through  a  second  cooling  coil  3  and  from  there  through 
+throttling  capillary  V  into  collector  5  ,  from  which  it  is  filled  into  Dewar 
+containers  for  storage. 
+
+One  disadvantage  of  this  method  is  the  overheating  of  the  hydrogen  in 
+the  conversion  reactor,  which  lowers  the  parahydrogen  concentration  to 
+92-03%. 
+
+Method  b  is  suitable  for  medium- size  liquefaction  systems  with  capaci¬ 
+ties  of  100-300  l/hr*?or  systems  working  with  a  refrigeration  cycle.  Here,  all 
+of  the  hydrogen  from  heat  exchanger /goes  through  throttling  valve  8  into  collec¬ 
+tor  5,  in  which  helium  valve  11  maintains  a  pressure  of  1.  8-3.  0  atm.  Part 
+of  the  liquefied  hydrogen  passes  through  valve  11  into  collector  4  ,  where  the 
+pressure  is  below  0.  5  atm.  Vapors  follow  the  same  route  and  are  directed 
+into  the  counterflow  of  heat  exchanger.  1  .  Another  part  of  the  liquefied  hy¬ 
+drogen  from  collector  5  goes  into  conversion  reactor  2 ,  which  is  completely 
+submerged  in  liquid  hydrogen  of  ordinary  composition.  This  provides  for  an 
+extensive  cooling  and  absorption  of  reaction  heat  and  increases  the  concentra¬ 
+tion  of  parahydrogen  in  the  final  product  to  99.  7%. 
+
+In  method  c  the  parahydrogen  cycle  has  a  separate  supply  line;  the  hy¬ 
+drogen  of  ordinary  composition  serves  only  as  a  coolant  and  circulates  in  a 
+closed  circuit.  The  conversion  system  includes  two  cooling  coils  3  --  one 
+in  front  of  and  one  behind  the  reactor  --  and  reactor  2  . 
+
+Method  o  is  especially  effective  if  the  hydrogen  for  conversion  is  fed 
+through  absorbers  (purifiers)  containing  activated  charcoal  which  are  cooled 
+with  liquid  nitrogen.  Since  activated  charcoal  is  also  a  catalyst,  partial  con¬ 
+version  occurs  in  the  absorbers.  By  connecting  an  additional  reactor  cooled 
+with  liquid  nitrogen  into  the  system  the  parahydrogen  content  can  be  raised 
+to  25-49%  prior  to  the  entrance  of  the  conversion  hydrogen  into  the  main 
+reactor.  Method  c  is  especially  suitable  for  large  liquefiers  in  which  heat 
+exchangers  are  built  as  separate  units. 
+
+With  all  three  methods  maintenance  of  the  lowest  possible  temperature 
+in  the  conversion  reactor  is  one  of  the  essential  conditions  for  successful  op¬ 
+eration.  Productivity  of  a  reactor  is  determined  by  the  refrigerating  capacity 
+
+of  the  liquefying  system  and  varies  from  30  to  120  g/hr  per  cm8of  the  reactor 
+cross  section. 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+
+PERIOD  :  31  May  1061  to  15  O.t  1061 
+
+TOPIC  E-4.  LIQUID  OXYGEN  PLANT 
+
+1. )  Romanyuk,  A.  A.  Apparatchik  kislorodnoy  ustanovki  (Oxygen-plant 
+operator).  Sverdlovsk,  Metallurgisdat,  1959.  150-152. 
+
+
+Tank  for  storing  liquid  oxygen 
+
+1  -  container;  2  -  housing;  3,4  -  pipes;  5  -  valve;  6  -  gasifier; 
+7  -  pipe  for  lowering  pressure  in  tank;  8  -  discharge  valve  for 
+oxygen;  6  -  hatch. 
+
+
+These  stationary  tanks  for  the  storage  of  liquid  oxygen  are  double-wall 
+containers  and  consist  of  spherical  thin-wall  copper  container  1  and  housing  2 , 
+surrounding  and  supporting  container.  1,  The  space  between  1  and  2  is 
+filled  with  an  insulating  material  such  as  magnesia  powder.  Pipe  3  continu¬ 
+ously  feeds  some  of  the  oxygen  being  evaporated  into  the  interwall  space  to 
+prevent  absorption  of  moisture  by  the  insulating  material. 
+
+The  container  is  filled  with  liquid  oxygen  through  pipe  4  ,  Valve  8 
+serves  for  emptying  the  tank  but  can  also  be  used  for  filling  it  instead  of  pipe 4. 
+During  emptying,  a  certain  amount  of  liquid  oxygen  is  led  through  valve  jT  to 
+gasifier  8  and  from  there  through  pipe  ?  back  to  container  1  .  The  pressure 
+of  this  gaseous  oxygen  forces  the  liquid  oxygen  out  of  1  through  valve  8  . 
+
+
+-  27  - 
+
+
+Tanks  of  similar  design  mounted  on  trucks  serve  for  the  transport  of 
+liquid  oxygen.  The  capacity  of  such  a  tank  truck  is  1300  kg  and  corresponds 
+to  about  1  ma  of  useful  volume  of  the  tank.  About  30-40  min  are  required 
+to  empty  the  tank  at  a  pressure  in  the  tank  of  0.  5-0.  6  atm. 
+
+
+-  28  - 
+
+
+SUBJECT:  Quarterly  Report  -  AID  Work  Assignment  No.  13 
+PERIOD  :  31  May  1661  to  15  Oct  1661 
+
+BIBLIOGRAPHY 
+
+1.  Andreyev,  F.  G.  ,  I.  A.  Tsentsiper,  and  Ye.  M.  Bokova.  Tank  truck 
+
+for  the  transport  of  liquefied  gases,  Gazovaya  promyshlennost', 
+no.  1,  1961,  32-35. 
+
+2.  Bakayeva,  V.  G. ,  ed.  Transport  SSSR  (USSR  Transport).  Moskva, 
+
+Morskoy  transport,  1960.  537  p. 
+
+3.  Buyanov,  R.A. ,  A.  G.  Zel'dovich,  and  Yu.  K.  Pilipenko.  Some  prob¬ 
+
+lems  in  the  technology  of  producing  liquid  parahydrogen.  Khimiches- 
+kaya  promyshlennost',  no.  2,  Feb  1861,  31-34.  TP  1.  Z8  1961 
+
+4.  Epshteyn,  Ye.  F. ,  E.  I.  Arsh,  and  G.  K.  Vitort.  Novyye  metody  raz- 
+
+rusheniya  gornykh  porod.  (New  methods  of  rock  breaking).  Moskva, 
+Gostoptekhizdat,  1960.  86  p. 
+
+5.  Filina,  T.  A.  Instruments  for  quality  control  of  concrete  and  reinforced- 
+
+concrete  structures.  Betonizhelezbbfctdn/,  no.  8,  Mar  1961,  111-118. 
+TA680.  B38  1961 
+
+6.  Giant  railroad  cars.  Ekonomicheskaya  gazeta,  19  Jul  1961,  1. 
+
+7.  Gitman,  I.  B.  ,  and  L.  N.  Shchipakin.  BH7I426  erection  tower  crane, 
+
+75-ton  capacity.  Novaya  tekhnika  montazhnykh  i  spetslal'nykh  rabot 
+v  stroitel'stve,  no.  6,  Sep  1958,  5-10. 
+
+8.  Karasev,  N.  F. ,  V.  G.  Matsyuk,  V.  I.  Razmerov,  P.  A.  Chasovitin,  and 
+
+N.  Ye.  Cherkasov.  Novaya  tekhnika  v  stroitel'stve  tonneley  metro- 
+politenov  SSSR  (New  technique  in  the  building  of  Soviet  subway  tunnels). 
+Moskva,  Tranuzheldorizdat,  1959.  139  p. 
+
+9.  Khudinskiy,  L.  L,  Heterodyne  analyzer  of  seismic  pulses.  (Authors' 
+
+Certificate  No.  136000,  15  Aug  1960),  Byulleten'  izobreteniy,  no.  6, 
+Mar  1961,  49.  T285.  A32  1861 
+
+10.  Machine  that  goes  deep  into  the  earth.  Yunnyy  tekhnik,  no.  4,  Apr  1961, 
+
+32  1. 
+
+11.  Ostrov,  A.B.  New  State  Standards  for  railroad  clearances.  Zhelezno- 
+
+dorozhnyy  transport,  no.  3,  Mar  1960,  10-15. 
+
+12.  Ostrov,  A.  B,  Unification  of  railroad  clearances  of  Socialist  countries. 
+
+Zheleznodorozhnyy  transport,  no.  2,  Feb  1959,  87-93. 
+
+
+-  28  - 
+
+
+13.  Prussak,  B.  N.  Standardization  of  rotary  excavators.  Standartiza- 
+
+tsiya,  no.  1,  Jan  1961,  18-19.  TS9.  S8  1961 
+
+14.  Eapoport,  P.  I.  ,  and  A.  I.  Gornopol'skiy.  Sovremennyye  mashiny  dlya 
+
+prokhodki  vyrabotok  ugol'nykh  shakht  (Modern  machinery  for  sinking 
+coal  shafts).  Moskva,  Trudrezervizdat,  1958.  165  p. 
+
+15.  Romanyuk,  A.  A.  Apparatchik  kislorodnoy  ustanovki  (Oxygen-plant 
+
+operator).  Sverdlovsk,  Metallurgizdat,  1959.  150-152. 
+
+16.  Slutskovskiy,  A.  I, ,  and  B.  V.  Bereza.  Device  for  testing  ampli¬ 
+
+fiers  of  seismic-survey  stations.  (Authors'  Certificate  No.  136860, 
+11  Jul  1960).  Byulleten'  izobreteniy,  no.  6,  Mar  1961,  49.  T285.  A32 
+1961 
+
+17.  Utkin,  L.  A.  On  the  study  of  the  seismic  effect  of  powerful  explosions. 
+
+IN:  Akademiya  nauk  SSSR.  Ural'skiy  filial.  Gorno-geologicheskiy 
+institut.  Podzemnaya  razrabotka  rudnykh  mestorozhdeniy  (Under¬ 
+ground  mining).  Sverdlovsk,  1960.  125-130.  (ITS:  Trudy,  vyp.  54). 
+
+
+-  30  - 
+
+

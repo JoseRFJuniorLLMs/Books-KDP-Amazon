@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BooksKDP - Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">BooksKDP</a>
+            <div class="nav-links">
+                <a href="/" class="active">Dashboard</a>
+                <a href="/books">Livros</a>
+                <a href="/authors">Autores</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1>Dashboard</h1>
+
+        <!-- Stats Cards -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">{{ "{:,}".format(stats.total_books) }}</div>
+                <div class="stat-label">Total de Livros</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{ "{:,}".format(stats.total_authors) }}</div>
+                <div class="stat-label">Total de Autores</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-number">{{ "{:,}".format(stats.processed_books) }}</div>
+                <div class="stat-label">Processados</div>
+            </div>
+            <div class="stat-card warning">
+                <div class="stat-number">{{ "{:,}".format(stats.downloaded_books - stats.processed_books) }}</div>
+                <div class="stat-label">Pendentes</div>
+            </div>
+            <div class="stat-card info">
+                <div class="stat-number">{{ "{:,}".format(stats.downloaded_books) }}</div>
+                <div class="stat-label">Baixados</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{ stats.languages }}</div>
+                <div class="stat-label">Idiomas</div>
+            </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-section">
+            <h2>Progresso de Processamento</h2>
+            {% set progress = (stats.processed_books / stats.total_books * 100) if stats.total_books > 0 else 0 %}
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: {{ progress|round(2) }}%"></div>
+            </div>
+            <div class="progress-text">
+                {{ stats.processed_books }} de {{ "{:,}".format(stats.total_books) }} livros ({{ progress|round(2) }}%)
+            </div>
+        </div>
+
+        <div class="two-columns">
+            <!-- Recent Processed -->
+            <div class="panel">
+                <h2>Processados Recentemente</h2>
+                {% if recent_processed %}
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Título</th>
+                            <th>Autor</th>
+                            <th>Data</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for book in recent_processed %}
+                        <tr>
+                            <td>
+                                <a href="/book/{{ book.id }}">
+                                    {{ book.title[:40] }}{% if book.title|length > 40 %}...{% endif %}
+                                </a>
+                            </td>
+                            <td>{{ book.author_name[:25] if book.author_name else 'Desconhecido' }}</td>
+                            <td>{{ book.processado_em[:10] if book.processado_em else '-' }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% else %}
+                <p class="empty-message">Nenhum livro processado ainda</p>
+                {% endif %}
+            </div>
+
+            <!-- Pending -->
+            <div class="panel">
+                <h2>Pendentes de Processamento</h2>
+                {% if pending %}
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Título</th>
+                            <th>Autor</th>
+                            <th>Idioma</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for book in pending %}
+                        <tr>
+                            <td>
+                                <a href="/book/{{ book.id }}">
+                                    {{ book.title[:40] }}{% if book.title|length > 40 %}...{% endif %}
+                                </a>
+                            </td>
+                            <td>{{ book.author_name[:25] if book.author_name else 'Desconhecido' }}</td>
+                            <td>{{ book.language }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                <a href="/books?status=pending" class="btn btn-sm">Ver todos pendentes</a>
+                {% else %}
+                <p class="empty-message">Nenhum livro pendente</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Languages Chart -->
+        <div class="panel">
+            <h2>Top Idiomas</h2>
+            <div class="languages-grid">
+                {% for lang in languages %}
+                <div class="language-item">
+                    <span class="lang-code">{{ lang.code }}</span>
+                    <div class="lang-bar-container">
+                        {% set width = (lang.count / languages[0].count * 100) if languages else 0 %}
+                        <div class="lang-bar" style="width: {{ width }}%"></div>
+                    </div>
+                    <span class="lang-count">{{ "{:,}".format(lang.count) }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- API Info -->
+        <div class="panel">
+            <h2>API REST</h2>
+            <div class="api-endpoints">
+                <div class="endpoint">
+                    <code>GET /api/stats</code>
+                    <span>Estatísticas gerais</span>
+                </div>
+                <div class="endpoint">
+                    <code>GET /api/books?q=&language=&processed=</code>
+                    <span>Lista livros com filtros</span>
+                </div>
+                <div class="endpoint">
+                    <code>GET /api/books/&lt;id&gt;</code>
+                    <span>Detalhes de um livro</span>
+                </div>
+                <div class="endpoint">
+                    <code>POST /api/books/&lt;id&gt;/processed</code>
+                    <span>Marca como processado</span>
+                </div>
+                <div class="endpoint">
+                    <code>GET /api/authors</code>
+                    <span>Lista autores</span>
+                </div>
+                <div class="endpoint">
+                    <code>GET /api/pending</code>
+                    <span>Livros pendentes</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>BooksKDP - Sistema de Processamento de Livros</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,1772 @@
+tfl 
+
+^~ric 
+
+
+RUSSIAN  INSECTS  AND  DISEASES 
+THAT  COULD  CONTROL  US  WATERWEEDS 
+
+
+Final  Technical  Report 
+by 
+
+V.F.Zaitzev,  M.G.Volkovitsh, 
+
+S.Ya. Reznik/  s.A.Podlipaev,  M. Yu.Dolgovskaya 
+
+
+February  1996 
+
+
+United  States  Army 
+
+EUROPEAN  RESEARCH  OFFICE  OF  U.S.  ARMY 
+London  England 
+
+Contract  Number:  N68171-95-C-9121 
+Contractor:  Mr.  Tracey  Carr 
+
+
+Approved  for  Public  Release j  distribution  unlimited 
+
+
+1 9960430  042 
+
+
+report  documentation  page 
+
+
+»vo*^  tf9*  «|W^  <o*<rrtio*o*  «ow*-n«o>*  •*  «> 
+
+^*^****^  «'*♦  ^•»*<»  ow^ZTio  tio<-  — Z 
+
+;f.rr.l^:.  .o  q^k.  — . — --- 
+
+
+•  form  Apo^Qy*‘d 
+
+0M3  ^o.  070^-0183 
+
+ro*  »*.^frv<n*o***.  »*•'*•— n  ««i«  >c^try. 
+
+l/w*  *^i— *•!»  *-»  «t  t»>.*» 
+
+rw-rior.ir  /p/  «*<o.-.*».op  Uf'^-rvjp 
+
+.,^,M<\K0«#»<nT<it0/04-ai«ii.w-^*/^io-.  P<  ;«wi. 
+
+
+o’  i;04.A..-w„op.'#*  ;j;Q;-»  ■»«■<»  «o  ^ - ^ _ _ _ _ _ _ _ ^ ^ ^ - 
+
+- - ^ - — - r.  ^r)  1  T’acnr^ar  n^rl  i  3.  REPORT  TY?g  ANO^aTIS  COVl^pmal  RepOrt 
+
+\  aCZNC'T  US£  ONLT  {Lejv«  Qljnx) 
+
+February  29,  1996  August  1995  -  February  1996. 
+
+-  ^  7T.~  1  fUKCltiC  NUMfilRS 
+
+
+4.  TlTLi.AN0*5UBTlTL£  . . 
+
+Russian  Insects  and  Diseases  that  could 
+control  US  Waterweeds 
+
+a.  AUTH0«(5) 
+
+V.F.Zaitzev,  M.G. Volkovitsh,  S.Ya. Reznik, 
+S.A.Podlipaev,  M. Yu.Dolgovskaya  _ _ 
+
+7.  ?£SfOfi.SMNG  OnCANUA'ICH  .SAMt(S)  AND  AC0R£SS(ES) 
+
+Zoological  Institute,  Russian  Academy 
+of  Sciences,  Universitetskaya  nab.,  1. 
+
+199034,  St . Peter sburg ,  Russia 
+
+9.  S?C.'<SCRI**<G .  *MCNITCRINC  AGtN'C7  .SA.M£(Si  ..NO  aOuA.SSUSI 
+
+European  Research  Office  of  the  D.S.Srmy,  USAEDSG-UK 
+
+r'S”Srcirr?'SIn“SS,  220  old  harylehon.  Road 
+London  NWl  5TH,  United  Kingdom 
+
+
+fUNClNG  XUMfilRS 
+
+C:  N68171-95-C-9121 
+PR:  WK2Q6C-7749-EN09 
+
+
+3.  ?«.R?CSminG  CSCa.wiZAT:CN 
+report  NUM31K 
+
+
+RF959001 
+
+
+:G  SPC.NSCRiNG.  V.CNITC.’^-Vu 
+AGZ.WCY  R£?C^:  wum2£a 
+
+
+tl.  SLPPtr.Mc.YTARY  .Y0T£S 
+
+
+::j.  C:ST5*£’J  TiC.N  ;  avah.a*iu;^  y  staT-.v.Cn^ 
+
+
+;:a.  o»s:r:2u::w.‘< 
+
+
+\2.  ABSTRACT  ZCO  wc/CJj 
+
+5i  f^ny  insects  and  diseases  which  attack  Eurasian 
+
+Totally,  -  j  territory  of  the  former  Soviet  Union.  Most 
+
+or?LeStI  ColSoptera  (14  spLies)  and  Lepidoptera  (7  species). 
+
+^llialld  ^M^S-of  ^hivfSjSiinlf iLSS^aS^a^rfinSrare  . 
+
+genliSfkisrShloh  are  rSportedly  olijophagous  on  Myrrophyllun  spp. 
+may  be  considered  as  potential  biocontrol  agents. _ 
+
+
+U.  SUBJECT  TERMS 
+
+water  weeds,  biocontrol,  Myriophyllum,  Trapa, 
+Hydrilla,  Eurasia,  insects,  fungi _ _ _ _ 
+
+17.  SECURITY  CLASSIflCATlOM  I  IS.  SECURITY  CLASSiflCATlC.’l  1 
+
+
+15.  .VUM3£a  Of  PAGtS 
+
+22 
+
+16.  PRlCt  CC0£ 
+
+
+20.  l!mita:;cn  c.‘  asst^^ 
+
+
+17.  SECURITY  CLASSlf iCAnON 
+OP  REPORT 
+
+
+Of  THIS  PACc 
+
+
+Of  AaSTRACT 
+
+
+RUSSIAN  INSECTS  AND  DISEASES 
+THAT  COULD  CONTROL  US  WATERWEEDS 
+
+
+ABSTRACT 
+
+Eurasian  watermilfoil  (Myriophyllum  spicatum  L.)/  waterchestnut 
+(Trapa  natans  L. )  and  hydrilla  (Hydrilla  verticillata  Royle)  that 
+are  the  noxious  water  weeds  in  the  US  occur  as  native  species  in 
+the  Former  Soviet  Union  (FSU) .  A  search  for  the  insects  and 
+diseases  which  attack  these  plants  on  the  territory  of  the  FSU  was 
+made  from  the  literature,  taxonomic  collections  and  through 
+consultations  with  specialists.  Totally,  32  insect  and  7  fungi 
+species  associated  with  the  targeted  weeds  were  found.  Most  of 
+Insecta  are  Coleoptera  (14  species)  and  Lepidoptera  (7  species) . 
+Besides,  5  Diptera,  4  Trichoptera,  and  2  Homoptera  species  were 
+revealed.  Majority  of  above  mentioned  insects  and  fungi  are 
+connected  with  AT.  spicatum  (28  species)  .  Particularly,  three 
+weevil  species:  Phytobius  leucogaster,  Pelenomus  canaliculatus  and 
+Bagous  geniculatus ,  which  are  reportedly  oligophagous  on 
+Myriophyllum  spp. ,  may  be  considered  as  potential  biocontrol 
+agents . 
+
+Keywords:  water  weeds,  biocontrol,  Myriophyllum^  Trapa,  Hydrilla, 
+Eurasia,  insects,  fungi. 
+
+
+TABLE  OF  CONTENTS 
+
+
+1.  Introduction  . .  2 
+
+2 .  A  short  annotated  list  of  organisms  connected  with  the 
+
+targeted  weeds  .  4 
+
+3 .  Data  on  insect  species  connected  with  the  targeted  weeds  ....  6 
+
+4 .  Data  on  pathogenic  fungi  strains  isolated  from  the 
+
+targeted  weeds  .  16 
+
+5 .  Conclusions  .  17 
+
+6 .  Literature  cited  .  18 
+
+
+2 
+
+
+INTRODUCTION 
+
+SniSr(?SuK®?hiI  rss2a?Sh\S\r''®’' 
+
+SSS  Ss?- ... 
+
+organisms  connected  with  the 
+
+1 .  Synonyms . 
+
+3'  ThS^tSSeted  within  and  outside  the  FSU. 
+
+A  ’  ^^^^eted  water  weed  association. 
+
+^  K?S  association. 
+
+S;?  pLS?  ®==°=«tion,  particularly  danagsa  part  of  the 
+
+spfJies?®®'  information  concerning  given 
+
+iSLH-sSH-s 
+
+scientists  are  recorded  after  the  ?T^  ^  these 
+
+case  when  the  contribution  of  a  consulting  spJclSilt'"™! 
+
+!j\1e“erif"'"  name^s"afsSlS‘l”L"<l  in 
+
+conce?n?Sr9iien"speSL°'  "  P— information 
+
+
+r 
+
+
+-  3  - 
+
+
+0) 
+
+-p 
+
+•H 
+
+X 
+
+o 
+
+p 
+
+a 
+
+p4 
+
+(d 
+
+
+73  0 
+C  M-l 
+
+
+to 
+
+c; 
+
+ttj 
+H  +J 
+
+
+C  -P 
+P  fd 
+
+
+CO 
+
+CJ 
+
+CO 
+
+a 
+
+CO 
+
+
+■P 
+
+cu 
+
+•H 
+
+>  • 
+
+o 
+
+
+-p 
+
+Hi 
+
+c 
+
+
+p 
+cd 
+
+H  -p 
+to  CO 
+w  (d  0) 
+p  x: 
+P  0  o 
+0)  W  P 
+g  0) 
+
+P  CW  4J 
+O  O  (0 
+M-i  15 
+
+C 
+
+a)  o  Ti 
+
+-P  -P 
+
+CP  ^  -S 
+O  ‘H  • 
+P  1-5 
+to  4J 
+C  to 
+O  *H 
+-H  73  -U 
+tP  CQ 
+
+0)  cp  O 
+P  O  -H 
+Q. 
+
+o  to  to 
+•H  P 
+x:  <D 
+^73 
+cd  P 
+POM 
+tPJQ 
+O 
+
+(1)  C 
+tP  P 
+QJ  • 
+
+c  x: 
+
+•H  4J  . 
+
+Cd  o  Js: 
+
+s  c  -- 
+
+
+c 
+
+cd 
+
+
+3 
+
+
+3 
+
+
+>1 
+
+I 
+
+:a 
+
+
+4 
+
+
+A  SHORT  ANNOTATED  LIST 
+
+OF  ORGANISMS  CONNECTED  WITH  THE  TARGETED  WEEDS 
+
+
+Abbreviations : 
+
+M  -  connected  with  Myriophyllum  spicatum 
+T  -  connected  with  Trapa  natans 
+*  reportedly  oligophagous  on  Myriophyllum  spp. 
+
+7  supposedly,  feeding  on  Myriophyllum  spp.  is  occasional. 
+!  recorded  as  insect  pest  of  agricultural  plants. 
+
+
+I  N  S  E  G  T  A 
+
+HOMOPTERA 
+A  p  h  i  d  a  e 
+
+MT  !  Rhopalosiphum  nymphaea  L. 
+
+M  !  Aphis  nasturtii  Kaltenbach 
+
+COLEOPTERA 
+
+Chrysomelidae 
+
+Donaciinae 
+M  Macroplea  appendiculata  Panz. 
+
+M  Macroplea  mutica  Fabricius 
+M  Neohaemonia  voronovae  L. Medvedev 
+
+Galerucinae 
+T  !  Galerucella  nymphaeae  L. 
+
+T  Galerucella  nipponensis  Laboissiere 
+
+Apionidae 
+Nanophyinae 
+T  Nanophyes  pubescens  Roelofs 
+T  Nanophyes  japonicus  Roelofs 
+
+Curculionidae 
+Ceutorhynchinae 
+M  ?  Rhinoncus  albicinctus  Gyllenhal 
+M  *  Phytobius  leucogaster  Marsham 
+M  *  Pelenomus  canaliculatus  Fahraeus 
+M  Eubrychius  velutus  Beck 
+
+Bagoinae 
+
+M  ?  Bagous  nodulosus  Gyllenhal 
+M  *  Bagous  geniculatus  Huchhuth 
+
+Erirhininae 
+M  Tanysphyrus  lemnae  Paykull 
+
+TRICHOPTERA 
+
+Leptoceridae 
+
+M  Mystacides  longicornis  L. 
+
+Phryganeidae 
+Phryganea  grandis  L. 
+
+Phryganea  bipunctata  Retzius 
+
+Limnophilidae 
+M  Limnophillus  stigma  Curtis.  • 
+
+
+5 
+
+
+LEPIDOPTERA 
+
+Pyralidae 
+
+Nymphulinae 
+
+MT  Acentria  ephemerella  Denis  et  Schif fermuller 
+
+M  Cataclysta  lemnata  L. 
+
+MT  !  Nymphula  nymphaeata  L. 
+
+M  Nymphula  stagnata  Donovan 
+
+MT  Paraponyx  stratiotatum  L. 
+
+M  Paraponyx  nivalis  Denis  et  Schiffermuller 
+
+Pyraustinae 
+
+M  !  Nomophila  noctuella  Denis  et  Schiffermuller 
+
+D  I  P  T  E  R  A 
+Chironomidae 
+
+Orthocladiinae 
+MT  !  Cricotopus  silvestris  Fabr. 
+
+Chironominae 
+M  Endochironomus  ex.gr,  dispar  Meig. 
+
+MT  Endochironomus  tendons  Thien  (Fabricius) 
+
+M  Glyptotendipes  gripekoveni  Kieff 
+
+M  Tanytarsus  ex.gr.  lauterborny  Kieff,. 
+
+FUNGI 
+
+M  Fusarium  oxysporum 
+
+M  Fusarium  nivale 
+
+M  Fusarium  solani 
+
+M  Fusarium  sambucinum 
+
+M  Fusarium  spl 
+
+M  Fusarium  sp2 
+
+M  Rhizoctonia  aderholdii 
+
+
+6 
+
+
+DATA  ON  INSECT  SPECIES  CONNECTED  WITH  THE  TARGETED  WEEDS 
+
+I  N  S  E  C  T  A 
+HOMOPTERA 
+A  p  h  i  d  a  e 
+
+
+Rhopalosivhum  nymohaea  T,. 
+(=Siphonaphis  nymphaea) 
+(=Rhopalosiphum  najadum) 
+(=Rh,  alicmea) 
+
+(=Aphis  nymphaea) 
+
+(=A.  butoni) 
+
+(=A.  infuscata) 
+i=A.  prunaria) 
+
+(=A.  consona) 
+
+(=A.  prunorum) 
+i=Hyadaphis  sparganii) 
+
+
+Distribution:  almost  whole  world. 
+
+Target  weed  species:  Myriophyllum  spicatum,  Trapa  natans. 
+Host  range:  feed  also  on  other  vascular  water  plants,  at  the 
+
+first  half  of  summer  -  on  Rosaceae:  cherry,  plum,  apricot, 
+peach) .  ' 
+
+
+Kind  of  host  association:  feed  on  stem, 
+damage . 
+
+
+may  cause  significant 
+
+
+^^29;  Boerner,  1952;  Bei-Bienko,  1964; 
+Miha^lovic,  1970;  Kryzhanovskii,  1974;  Spencer,  Lekic,  1974 
+Heie,  1986;  Ler,  1988. 
+
+
+Lekic, 
+
+
+Aphis  nasturtii  Kaltenbach 
+
+
+Distribution:  Europe,  European  part  of  FSU,  Central  Asia 
+N.  America.  ' 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  polyphagous,  was  recorded  on  many  plants  including 
+potato,  tomato,  pumpkin  (insect  pest  and  virus  vector). 
+
+ind  of  host  association:  feed  on  stem,  may  cause  significant 
+aamage • 
+
+References:  Tarbinskii,  Plavilshchikov,  1948;  Lekic,  Mihajlovic, 
+1970;  Spencer,  Lekic,  1974,  Kryzhanovskii,  1974. 
+
+
+7 
+
+
+COLEOFTERA 
+
+Chrysomelidae 
+
+Donaciinae 
+
+
+Macroplea  appendiculata  Panz. 
+
+(=  Haemonia  appendiculata  Latr.) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Kazakhstan, 
+Central  Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous  on  various  vascular  water 
+plants.  Was  recorded  on  Potamogeton,  Stratiotes,  Ruppia. 
+
+Kind  of  host  association:  larvae  and  adults  feed  on  leaves,  stem 
+and  roots. 
+
+References:  Ogloblin,  1948;  Bei-Bienko,  1965;  Ogloblin,  Medvedev, 
+1971;  Kutikova,  Starobogatov,  1977;  Medvedev,  Zaitzev,  1978; 
+Lopatin,  1986;  Medvedev,  Roginskaya,  1988;  Dubeshko,  Medvedev, 
+1989. 
+
+Macroplea  mutica  Fabricius,  Macroplea  mutica  japana  Jacoby 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia, 
+
+Caucasus,  Kazakhstan,  Central  Asia,  Russian  Far  East, 
+
+Mongolia,  Japan. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous  on  various  vascular  water 
+plants.  Was  recorded  on  Zostera,  Ruppia,  Zannichellia, 
+Potamogeton . 
+
+Kind  of  host  association:  feed  on  plant  tissue. 
+
+References:  Lopatin,  1960;  Bei-Bienko,  1965;  Lopatin,  1977; 
+Medvedev,  1982;  Lopatin,  1986;  Medvedev,  Roginskaya,  1988; 
+Dubeshko,  Medvedev,  1989;  Medvedev,  1992;  Medvedev,  Dubeshko, 
+1992. 
+
+Neohaemonia  voronovae  L. Medvedev,  1977 
+
+Distribution:  Mongolia,  Siberia?. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  was  recorded  also  on  Potamogeton. 
+
+Kind  of  host  association:  larvae  feed  on  roots,  adults  feed  on 
+leaves. 
+
+References:  Medvedev,  1977;  Medvedev,  Voronova,  1979;  Medvedev, 
+Zaitzev,  1980;  Medvedev,  1982,  Korotyaev,  pers.comm. 
+
+
+8 
+
+
+Galerucinae 
+
+Galerucella  nymphaeae  L. 
+
+(=  Pyrrhalta  nymphaeae  L.) 
+
+Distribution:  Europe,  Siberia,  Kazakhstan,  Central  Asia,  Mongolia, 
+China,  N.  America. 
+
+Target  weed  species:  Trapa  natans. 
+
+Host  range:  polyphagous  species,  numerous  host  specific  'forms' 
+with  little  morphological  differences  were  described.  Feeds 
+mostly  on  water  and  hydrophyte  plants.  However,  a  form  damaging 
+to  currant  was  reported  from  Siberia  and  a  form  damaging  to 
+strawberry  was  reported  from  Europe.  In  experiments  G. 
+nymphaeae  is  able  to  feed  even  on  pod  (Phaseolus) ,  willow 
+{Salix) ,  and  birch  {Betula) . 
+
+Kind  of  host  association:  larvae  and  adults  feed  on  leaves,  at 
+high  population  density  may  cause  serious  damage. 
+
+References:  Ogloblin,  1936;  Isakov,  1954;  Medvedev,  1955; 
+Kozhanchikov,  1958;  Gaevskaya,  1966;  Kryzhanovskii,  1974; 
+Lopatin,  1977;  Medvedev,  1982;  Lopatin,  1986;  Medvedev, 
+Roginskaya,  1988;  Medvedev,  Dubeshko,  1992.  . 
+
+Galerucella  nipponensis  Laboissiere. 
+
+Distribution:  Russian  Far  East,  Korea,  Japan. 
+
+Target  weed  species:  Trapa  japonica  (=natans?) . 
+
+Host  range:  supposedly  polyphagous,  was  recorded  also  on 
+Brasiena,  Ludwigia,  Lycopus. 
+
+Kind  of  host  association:  feed  on  plant  tissue. 
+
+References:  Dubeshko,  Medvedev,  1989 
+
+Aplonidae 
+
+Nanophyinae 
+
+Nanophves  pubescens  Roelofs 
+
+Distribution:  Japan,  Russian  Far  East. 
+
+Target  weed  species:  Trapa  natans. 
+
+Host  range:  unknown. 
+
+Kind  of  host  association:  unkown 
+
+References:  Morimoto,  1964;  Korotyaev,  pers.comm. 
+
+Nanophyes  iaponicus  Roelofs 
+
+Distribution:  Japan,  Russian  Far  East?. 
+
+Target  weed  species:  Trapa  natans. 
+
+Host  range :  unknown . 
+
+Kind  of  host  association:  Larvae  live  in  the  petiole,  feed  on 
+plant  tissue. 
+
+References:  Morimoto,  1964;  Korotyaev,  pers.comm. 
+
+
+9 
+
+
+Curculionidae 
+
+Ceutorhynchinae 
+Rhinoncus  albicinctus  Gyllenhal 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  China. 
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  oligophagous,  mainly  on  Polygonium 
+amphibium  and  related  species,  feeding  on  M.  spicatum  is 
+occasional . 
+
+Kind  of  host  association:  larvae  are  steam-miners. 
+
+References:  Bei-Bienko,  1965;  Lekic,  Mihajlovic,  1970;  Spencer, 
+Lekic,  1974;  Korotyaev,  pers.comm. 
+
+Phytobius  leucoaaster  Marsham 
+{=  Litodactylus  leucogaster  Redtenbacher) 
+
+(=  L.  griseomicans  Scwarz) 
+
+(=  L.  myriophylli  Gyllenhall) 
+
+(=  Lithodactylus  leucogaster  Marsham) 
+
+(=  Amalus  leucogaster  auct.) 
+
+(=  Hydaticus  leucogaster  Schoenherr) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Kazakhstan, 
+Central  Asia,  Russian  Far  East,  N.  America. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  possibly  olygophagous  on  Myriophyllum  spp. ,  was 
+recorded  also  on  M.  verticillatum  and  M.  sibiricum. 
+
+Kind  of  host  association:  larvae  and  adults  feed  on  leaves,  stem 
+and  buds. 
+
+References:  Reichardt,  Ogloblin,  1940;  Wesenberg-Lund,  1943; 
+
+Ogloblin,  1948;  Pavlovskii,  Lepneva,  1948;  Bei-Bienko,  1965; 
+Gaevskaya,  1966;  Spencer,  1974;  Spencer,  Lekic,  1974;  Egorov, 
+1988;  Isaev,  1994;  Greed,  Sheldon,  1994b;  Caldara,  O'Brien, 
+1995;  Korotyaev,  pers.comm. 
+
+Pelenomus  canaliculatus  Fahraeus 
+(=  Phytobius  canaliculatus) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Kazakhstan, 
+Mongolia,  Japan. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  was  recorded  also  on  M.  verticillatum  L. 
+
+Possibly,  oligophagous  on  Myriophyllum  spp. 
+
+Kind  of  host  association:  larvae  feed  on  leaves. 
+
+References:  Ogloblin,  1948;  Isaev,  1994;  Caldara,  O'Brien,  1995; 
+Korotyaev ,  per s . comm . 
+
+
+10 
+
+
+Eubrvchius  velutus  Beck 
+(=  E.  aquaticus  Thomson) 
+
+(=  Lithodactylus  velutus  Beck) 
+
+(=  Ehynchaenus  velutus  Beck) 
+
+Distribution:  Europe,  Siberia,  Kazakhstan,  Central  Asia, 
+Mongolia,  Russian  Far  East,  N.  America. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous,  was  recorded  also  on 
+M.  verticillatum  and  Potamogeton  sp. 
+
+Kind  of  host  association:  adults  and  larvae  feed  on  leaves,  stem 
+and  buds  under  water. 
+
+References:  Reichardt,  Ogloblin,  1940;  Wesenberg-Lund,  1943; 
+Bei-Bienko,  1965;  Gaevskaya,  1966;  Spencer,  Lekic,  1974; 
+Egorov,  1988;  Isaev,  1994;  Caldara,  O'Brien,  1995;  Korotyaev, 
+pers . comm. 
+
+
+Bagoinae 
+
+Baaous  nodulosus  Gyllenhal 
+
+Distribution:  Europe,  Siberia,  Central  Asia,  Mongolia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  feed  mostly  on  Butomus  umbellatus ,  but  was  also 
+reported  from  Caltha  palustris.  Feeding  on  M.  spicatum  is 
+supposedly  occasional. 
+
+Kind  of  host  association:  causes  damage  to  the  stem. 
+
+References:  Lekic,  Mihajlovic,  1970;  Spencer,  Lekic,  1974;  Isaev, 
+1994;  Korotyaev,  pers. comm. 
+
+Baaous  aeniculatus  Huchhuth. 
+
+Distribution:  South  Europe,  Caucasus,  Central  Asia,  Pakistan. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  oligophagous  on  Myriophyllum  spp. 
+
+(was  recorded  also  on  M.  tuberculatum,  M.  indicum) . 
+
+Kind  of  host  association:  feed  on  plant  tissue. 
+
+References:  Khan  and  al.,  1969;  Spencer,  Lekic,  1974,  Korotyaev, 
+pers. comm. 
+
+
+Erirhininae 
+Tanysphyrus  lemnae  Paykull. 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Russian  Far 
+East,  Japan,  N.  America. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  polyphagous,  was  recorded  mostly  on  Lemna, 
+
+Spirodel a,  Calta. 
+
+Kind  of  host  association:  adults  and  larvae  feed  on  leaves. 
+References:  Bei-Bienko,  1965;  Spencer,  Lekic,  1974;  Isaev,  1994; 
+Caldara,  O'Brien,  1995,  Korotyaev,  pers. comm. 
+
+
+11 
+
+
+TRICHOPTERA 
+
+Leptoceridae 
+
+Mvstacides  lonaicornis  L. 
+
+{=Phryganea  longicornis  L.) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Kazakhstan, 
+
+N.  America. 
+
+Target  weed  species:  Myriophyllum  splcatum. 
+
+Host  range:  was  recorded  on  various  water  plants. 
+
+Kind  of  host  association:  feeds  on  fresh  and  decaying  plant  tissue 
+of  algae  and  vascular  plants. 
+
+References:  Lepneva,  1940;  Ogloblin,  1948;  Kolenkina,  1951; 
+
+McGaha,  1952;  Lepneva,  1964;  Lepneva,  1966;  Gaevskaya,  1966; 
+Fischer,  1966. 
+
+
+Phryganeidae 
+
+
+Phrvaanea  arandis  L. 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia. 
+
+Target  weed  species :  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous  on  algae  and  on  vascular 
+
+plants.  Have  a  seasonal  change  of  food  specialization.  In  the 
+end  of  summer  feed  on  larvae  of  other  insects. 
+
+Kind  of  host  association:  may  feed  on  plant  tissues. 
+
+References:  Kolenkina,  1951;  Kashkin,  1958;  Kashkin,  1961; 
+
+Smirnov,  1962;  Fischer,  1964;  Lepneva,  1964,  1966;  Sozska, 
+1975a,  Sozska,  1975b;  Ivanov,  pers.  comm. 
+
+Phryaanea  bivunctata  Retzius 
+
+(=  Ph.  striata  auctorum) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Russian  Far 
+East,  Mongolia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous  on  algae  and  on  vascular 
+plants. 
+
+Kind  of  host  association:  larvae  feed  both  on  plant  tissues  and 
+small  invertebrates,  Myriophyllum  leaves  are  used  to  make  a 
+case  for  the  first  instar  larva. 
+
+References:  Pavlovskii,  Lepneva,  1948;  Kolenkina,  1951;  Kachalova, 
+1960;  Lepneva,  1964;  Fischer,  1964;  Lepneva,  1966;  Ivanov, 
+pers.  comm. 
+
+
+12 
+
+
+Limnophilidae 
+
+Limnophillus  stiama  Curtis. 
+
+Distribution:  Europe,  European  part  of  FSU,  Caucasus,  Siberia, 
+Russian  Far  East. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous  on  algae  and  on  vascular 
+plants . 
+
+Kind  of  host  association:  probably  use  Myriophyllum  leaves 
+to  make  a  larval  case. 
+
+References:  Lepneva,  1964;  Lepneva,  1966,  Ivanov,  pers.  comm. 
+
+
+LEPIDOFTERA 
+
+Pyralidae 
+
+Nymphulinae 
+
+Acentria  ephemeral la  Denis  et  Schiffermuller 
+
+(=Acentropus  niveus  Oliver) 
+
+(=Acentria  nivea  Oliver) 
+
+Distribution:  Europe,  European  part  of  the  FSU,  Siberia, 
+
+N. America. 
+
+Target  weed  species:  Myriophyllum  spicatum,  Trapa  natans. 
+
+Host  range:  polyphagous  on  various  vascular  water  plants. 
+
+Kind  of  host  association:  first  instar  larvae  mine  the  food 
+plants,  then  caterpillars  feed  on  plants,  cutting  stems  and 
+removing  leaves. 
+
+References:  Grunberg,  1909;  Rimskii-Korsakov,  1940;  Ogloblin, 
+1948;  Pavlovskii,  Lepneva,  1948;  Kokoc inski,  1963;  Gaevskaya, 
+1966;  Soszka,  1975a;  Urban,  1975;  Medvedev,  1986;  Palm,  1986; 
+Green  and  al.,  1989;  loganzen,  Rostovtsev,  1994;  Greed, 
+Sheldon,  1994a;  Newman,  Maher,  1995. 
+
+
+Cataclysta  lemnata  L. 
+
+Distribution:  Europe,  European  Part  of  FSU,  Caucasus,  Central 
+Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  polyphagous  on  various  vascular  water  and 
+hydrophyte  plants. 
+
+Kind  of  host  association:  young  larvae  made  mines,  then  feed  on 
+leaves  and  cut  stems. 
+
+References:  Tarbinskii,  Plavilshchikov,  1948;  Kashkin,  1959; 
+
+Lekic,  Mihajlovic,  1970;  Spencer,  Lekic,  1974;  Medvedev,  1986. 
+
+
+13 
+
+
+Nymphula.  nvmvhaeata  L. 
+
+(==Elophila  nymphaeata  L.) 
+
+(=Hydrocampa  nymphaeata  L.) 
+
+l=Nausinoe  nymphaeata  L.) 
+
+Distribution:  Europe,  European  part  of  FSU,  Caucasus,  Siberia, 
+Kazakhstan,  Central  Asia,  Russian  Far  East,  Mongolia,  China, 
+Japan- 
+
+Target  weed  species:  Myriophy  Hum  spicatum,  Trapa  natans . 
+
+Host  range:  polyphagous  on  various  vascular  water  plants.  Larvae 
+may  also  cause  damage  to  rice. 
+
+Kind  of  host  association:  larvae  live  inside  the  plant,  feed  on 
+plant  leaves,  stem  or  flowers. 
+
+References:  Berg  1950;  Kashkin, 1959 ;  Kashkin,  1961;  Lekic, 
+
+Mihajlovic,  1970;  Spencer,  Lekic,  1974;  Lvovski,  pers.  comm. 
+
+Nymphula  stagnate  Donovan 
+
+(=Parapoynx  stagnate  Donovan) 
+
+Distribution:  Europe,  European  part  of  FSU,  Caucasus,  Siberia, 
+Central  Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous:  was  recorded  also  on 
+Sparganium  and  Nuphar. 
+
+Kind  of  host  association:  larvae  boring  in  leaves  and  stem. 
+
+References:  Spencer,  Lekic,  1974;  Lekic,  Mihajlovic,  1970;  Palm, 
+1986,  Lvovski,  pers.  comm. 
+
+Paraponvx  stratiotatum  L. 
+
+(=  Parapoynx) 
+
+(=  P.  stratiotata  L.  auct.) 
+
+Distribution:  Europe,  European  part  of  FSU,  Caucasus,  Siberia, 
+Kazakhstan,  Russian  Far  East. 
+
+Target  weed  species:  Myriophyllum  spicatum,  Trapa  natans. 
+
+Host  range:  polyphagous  on  various  vascular  water  plants. 
+
+Kind  of  host  association:  larvae  feed  on  fresh  leaves,  more  rarely 
+on  decaying  plants 
+
+References:  Karny,1934;  Ogloblin,  1948;  Pavlovskii,  Lepneva,  1948; 
+Kashkin,  1959;  Kashkin,  1961;  Gaevskaya,  1966;  Spencer,  1974; 
+Spencer,  Lekic,  1974;  Urban,  1975;  Soszka,  1975a;  Soszka,  1975b 
+Medvedev,  1986;  Lvovski,  pers.  comm. 
+
+Perapnnyx  nivalis  Denis  &  Schif fermuller 
+
+(=  Parapoynx) 
+
+Distribution:  Europe,  European  part  of  FSU. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  supposedly  polyphagous,  feeding  on  M.  spicatum  is 
+rare. 
+
+Kind  of  host  association:  feed  on  plant  leaves. 
+
+References:  Lekic,  Mihajlovic,  1970;  Spencer,  Lekic,  1974; 
+Medvedev,  1986. 
+
+
+14 
+
+
+Pyraustinae 
+
+Nomophila  noctuella  Denis  et  Schif fermuller 
+
+Distribution:  Europe,  European  part  of  FSU,  Central  Asia, 
+
+Pakistan,  N.  America. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  polyphagous,  may  cause  damage  to  alfalfa  and  clover. 
+Kind  of  host  association:  larvae  feed  on  leaves. 
+
+References:  Hasenfuss,  1960;  Spencer,  Lekic,  1974;  Medvedev, 
+
+1986,  Lvovski,  pers.  coitan. 
+
+D  I  F  T  E  R  A 
+Chironomidae 
+
+Orthocladiinae 
+
+Cricotopus  silvestris  Fabr. 
+
+Distribution:  almost  whole  world,  including  FSU. 
+
+Target  weed  species:  Myriophyllum  spicatum,  Trapa  natans. 
+
+Host  range:  associated  with  various  vascular  water  and 
+hydrophyte  plants,  may  cause  damage  to  rice. 
+
+Kind  of  host  association:  ubiquistous  species  associated  with 
+macrophyts,  larvae  live  in  leave  mines,  feed  on  fragments  of 
+living  and  dead  plant  tissue,  periphytic  algae,  and  small 
+animals . 
+
+References:  Chernovskii,  1949;  Gosteva,  1950;  Thienemann,  1954; 
+
+Shilova,  1955;  Konstantinov,  1958;  Gaevskaya,  1966;  Pankratova, 
+1970;  Spencer,  Lekic,  1974;  Soszka,  1975a,  Soszka,  1975b; 
+Cranston,  1995;  Prat,  Rodriques-Capitulo,  1995. 
+
+Chironominae 
+
+Endochironomus  ex.ar.  dispar  Meig. 
+
+Distribution:  Europe,  European  part  of  FSU. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  associated  with  various  vascular  water  plants. 
+
+Kind  of  host  association:  miner,  often  using  tunnels  made  by 
+other  animals,  mostly  stems  appeared  to  be  infested.  Larvae 
+feed  on  detritus,  small  animal  reminds,  also  on  fresh  and  dead 
+plant  tissue. 
+
+References:  Chernovskii,  1949;  Konstantinov,  1958;  Soszka,  1975a; 
+Soszka,  1975b;  Urban,  1975;  Starostin,  1992. 
+
+
+15 
+
+
+Endochirononus  tendens  Thien  (Fabricius) 
+
+Distribution:  Europe,  European  part  of  FSU,  Siberia,  Russian  Far 
+East,  Central  Asia,  N.  America. 
+
+Targ&t  wesd  species:  Myriophylluia  spicatum,  Trapa  natans. 
+
+Host  range:  associated  with  various  vascular  water  plants. 
+
+Kind  of  host  association:  feed  mostly  on  detritus,  small 
+contribution  of  animal  reminds  and  periphytic  algae.  The 
+tissue  of  plants  slightly  contributed  to  the  food. 
+
+References:  Chernovskii,  1949;  Thienemann,  1954;  Konstantinov, 
+
+1958;  Gaevskaya,  1966;  Bei-Bienko,  1969;  Soszka,  1975a;  Soszka, 
+1975b;  Kutikova,  Starobogatov,  1977;  Cranston,  1995;  Prat, 
+Rodriges-Capitulo,  1995;  Caspers,  Heimbach,  1995. 
+
+Glyptotendioes  arinekoveni  Kieff 
+
+Distribution:  Europe,  European  part  of  FSU,  W. Siberia. 
+
+Target  weed  species:  Myriophylluia  spicatum. 
+
+Host  range:  associated  with  various  vascular  water  plants. 
+
+Kind  of  host  association:  Larvae  feed  mainly  on  periphyton, 
+
+boring  mines  mostly  in  stems,  the  tissue  of  plants  slightly 
+contributed  to  the  food. 
+
+References:  Chernovskii,  1949;  loganzen,  Rostovtsev,  1994;  Soszka, 
+1975a;  Soszka,  1975b;  Urban,  1975. 
+
+Tanvtarsus  ex.ar.  lauterbornv  Kieff. 
+
+Distribution:  Europe,  European  part  of  FSU,  Central  Asia. 
+
+Target  weed  species:  Myriophy Hum  spicatum. 
+
+Host  range:  associated  with  various  vascular  water  plants. 
+
+Kind  of  host  association:  feed  on  fresh  and  dead  tissue  of 
+vascular  plants,  algae,  detritus,  animals. 
+
+References:  Chernovski,  1949;  Konstantinov,  1958;  Soszka,  1975a, 
+Soszka, 1975b;  Starostin,  1992, 
+
+
+16 
+
+
+DATA  ON  PATHOGENIC  FUNGI  STRAINS 
+ISOLATED  FROM  THE  TARGETED  WEEDS 
+(strains  with  experimentally  proved  pathogenity) 
+
+Fusarium  oxvsDorum 
+
+Collection  place:  Vorskla  river,  Belgorod  district,  European  part 
+of  FSU. 
+
+Target  weed  species:  Myriophy Hum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  medium  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+Fusarium  nivale 
+
+Collection  place:  brook  in  Pendzhikent,  Tadzhikistan,  Central  Asia. 
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  medium  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+Fusarium  solani 
+
+Collection  place:  shallow  lake  in  Zeravshan  reservation, 
+
+Samarkand  district,  Uzbekistan,  Central  Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  low  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+Fusarium  sambucinum 
+
+Collection  place:  pond  near  Novgorod,  European  part  of  FSU. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  low  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+Fusarium  sol 
+
+Collection  place:  brook  in  Pendzhikent,  Tadzhikistan,  Central  Asia. 
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  low  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+Fusarium  sd2 
+
+Collection  place:  shoal-water  in  Zeravshan  reservation, 
+
+Samarkand  district,  Uzbekistan,  Central  Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  low  virulence. 
+
+References:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+Rhizoctonia  aderholdii 
+
+Collection  place:  shallow  pond  in  Zeravshan  reservation, 
+
+Samarkand  district,  Uzbekistan,  Central  Asia. 
+
+Target  weed  species:  Myriophyllum  spicatum. 
+
+Host  range:  host  specificity  was  not  tested. 
+
+Kind  of  host  association:  medium  virulence. 
+
+R&ferences:  Dolgovskaya  et  al.,  1994;  Labutova,  pers.comm. 
+
+
+17 
+
+
+CONCLUSIONS 
+
+Totally,  32  insect  and  7  fungi  species  associated  with  the  targeted 
+water  weeds  (Myriophyllum  spicatum,  Trapa  natans  and  Hydrilla 
+verticillata)  were  recorded  from  the  territory  of  the  Former  Soviet 
+Union  (FSU) .  Most  of  Insecta  are  Coleoptera  (14  species)  and 
+Lepidoptera  (7  species) .  Besides,  5  Diptera,  4  Trichoptera,  and  2 
+Homoptera  species  were  found. 
+
+Majority  of  above  mentioned  insects  and  all  fungi  are  connected 
+with  M.  spicatum  (35  species),  10  of  insect  species  were  recorded 
+on  T.  natans,  while  we  failed  to  find  any  reports  on  insects  or 
+fungi  associated  with  Hydrilla  verticillata  in  FSU.  The  reason 
+supposedly  is  that  M.  spicatum  and  T.  natans  are  widespread  and 
+rather  common  across  the  whole  FSU  territory  excluding  North  (see 
+map  at  p.3),  while  Hydrilla  is  represented  by  several  disjunctive 
+patches  and  rarely  come  into  the  view  of  insect  collectors.  It  is 
+believed  that  special  field  search  will  revealed  a  lot  of  insect 
+and  fungi  species  connected  with  all  of  three  targeted  weeds. 
+
+Concerning  the  possibility  of  using  for  biological  control, 
+
+6  insect  species  are  unsuitable  (Rhopalosiphum  nymphaea.  Aphis 
+nasturtii,  Galerucella  nymphaeae,  Nymphula  nymphaeata,  Nomophila 
+noctuella,  Cricotopus  silvestris)  because  these  insects  were 
+recorded  as  causing  damage  to  agricultural  plants.  Besides,  all  of 
+Trichoptera,  Lepidoptera  and  Diptera  species  connected  with 
+targeted  water  weeds  are  polyphagous  and  some  of  them  are 
+potentially  dangerous  to  any  culturing  plant  which  may  be  partly 
+covered  with  the  water  or  even  grows  in  damp  soil.  Moreover,  all 
+of  Trichoptera  and  most  of  Diptera  species  connected  with  M. 
+spicatum  and  T.  natans  are  euryphagous:  their  larvae  are  able  to 
+feed  both  on  fresh  and  decaying  tissue  of  algae  and  vascular 
+plants,  and  even  on  small  animals,  using  water  weeds  rather  as  a 
+case  or  as  a  shelter,  than  as  a  food. 
+
+On  the  contrary,  some  of  Coleoptera,  particularly  Curculionidae 
+species  seems  to  be  promising  for  weed  biocontrol.  Phytobius 
+leucogaster,  Pelenomus  canaliculatus  and  Bagous  geniculatus, 
+reportedly  oligophagous  weevils  fed  on  Myriophyllum  species  may  be 
+considered  as  potential  biocontrol  agents.  Ph.  leucogaster  is  a 
+very  wide  spread  species  which  was  recorded  also  in  North  America. 
+At  present,  P.  canaliculatus  and  B.  genlculatus  are  absent  in 
+US  and  may  be  proposed  for  the  further  investigations.  Primarily, 
+laboratory  tests  are  necessary  to  check  their  specificity. 
+
+Generally  speaking,  laboratory  testing  may  significantly  enlarge 
+the  host  range  of  all  insect  species  under  study. 
+
+
+18 
+
+
+REFERENCES 
+
+Bei-Bienko  G.Ya.  (Ed.)*  1964.  Key  to  determination  of  the  insects 
+of  the  European  part  of  the  USSR,  I.  Apterygota,  Palaeoptera, 
+Neoptera:  Hemimetabola.  "Nauka",  Moscow-Leningrad:  936  pp.  (In 
+Russian) . 
+
+Bei-Bienko  G.Ya.  (Ed.).  1965.  Key  to  determination  of  the  insects 
+of  the  European  part  of  the  USSR,  II.  Coleoptera,  Strepsiptera. 
+'•Nauka”,  Moscow-Leningrad:  668  pp.  (In  Russian). 
+
+Bei-Bienko  G.Ya.  (Ed.).  1969.  Key  to  determination  of  the  insects 
+of  the  European  part  of  the  USSR,  V.  Diptera,  Aphaniptera,  Part 
+1.  "Nauka",  Leningrad:  807  pp.  (In  Russian). 
+
+Berg  C.O.  1950  Biology  of  certain  aquatic  caterpillars 
+(Pyralididae:  Nymphula  spp.)  which  feed  on  Potamogeton. 
+Transactions  of  the  American  Microscopical  Society,  69(3): 
+254-266. 
+
+Boerner  C.  1952.  Die  Blattlause  Mitteleuropas .  Schrift  der 
+
+Thuringischen  Landesarbeitsgemeinschaft  fur  Heilspf lanzenkunde 
+und  Heilpflanzenbeschaffung  in  Weimar.  Heft  4  und  Mitteilungen 
+der  Thuringischen  Botanischen  Gesellschaft,  3.  Weimar:  259  pp. 
+(Lief  2):  250-284. 
+
+Caldara  R. ,  O'Brien  C.W.  1995.  Curculionidae:  Aquatic  weevils  of 
+China  (Coleoptera).  In:  Jach  M.A.  &  L.Ji  (Eds.)  Water  Beetles  of 
+China,  1.  Wien:  389-408. 
+
+Caspers  N. ,  Heimbach  F.  1995.  The  Chironomids  of  an  experimental 
+pond  system.  In:  Cranston  P.  (Ed.).  Chironomids  from  genes  to 
+ecosystems.  CSIRO,  Australia:  273-275. 
+
+Chernovskii  A. A.  1949.  Key  to  determination  of  the  larvae  of  gnats 
+of  the  family  Tendipedidae.  Keys  to  determination  of  the  fauna 
+of  the  USSR,  published  by  Zoological  Institute  of  Academy  of 
+Sciences  of  the  USSR,  31.  Izdatel'stvo  AN  SSSR,  Moscow 
+-Leningrad:  185  pp.  (In  Russian) . 
+
+Cranston  P.  (Ed.).  1995.  Chironomids  from  genes  to  ecosystems. 
+CSIRO,  Australia:  482  pp. 
+
+Dolgovskaya  M.Yu,  Podlipaev  S.A.,  Reznik  S.Ya.,  Volkovitch  M.G. 
+1994.  Preliminary  results  of  the  isolation  of  pathogenic  fungi 
+associated  with  Eurasian  Water  Milfoil,  Myriophyllum  spicatum  L. 
+in  the  former  Soviet  Union.  Abstracts  of  9th  International 
+Symposium  of  Aquatic  Weeds.  (Dublin,  12-16  September  1994)  :  13 . 
+
+Dubeshko  L.N. ,  Medvedev  L.N.  1989.  The  ecology  of  leaf  beetles  of 
+the  Siberia  and  the  Far  East.  Izdatel'stvo  Irkutskogo 
+Universiteta,  Irkutsk:  224  pp.  (In  Russian) . 
+
+Egorov  A.B.  1988.  New  data  on  the  distribution  and  ecology 
+nearwater  weevils  of  subfamily  Ceutorhynchinae  (Coleoptera, 
+Curculionidae)  in  the  fauna  of  the  Far  East.  In:  Levanidova 
+I.M.,  Makarchenko  Ye. A.  (Eds.).  Fauna,  systematics  and  biology 
+of  a  freshwater  invertebrates.  Vladivostok:  60-66  (In  Russian) . 
+
+Fischer  F.C.J.  1964.  Trichopterorum  catalogus.  V.  Phryganeidae, 
+Limnocentropodidae,  Molannidae.  Nederlandsche  Entomologische 
+Vereeniging,  Amsterdam:  214  pp. 
+
+Fischer  F.C.J.  1966.  Trichopterorum  catalogus.  VII.  Leptoceridae. 
+Pars  2.  Nederlandsche  Entomologische  Vereeniging,  Amstredam: 
+
+163  pp. 
+
+Gaevskaya  N.S.  1966.  High  aquatic  plants  in  nutrition  of  freshwater 
+animals.  "Nauka",  Moscow:  327  pp.  (In  Russian) . 
+
+Gosteva  M.N.  1950.  The  gnat  Cricotopus  silvestris  as  a  pest  of  fish 
+spawn.  Zoologichesky  Zhurnal,  29(2):  187-188.  (In  Russian) . 
+
+
+19 
+
+
+Greed  R.P.,  Sheldon  S.P.  1994a.  The  effect  of  two  herbivorous 
+
+insect  larvae  on  Eurasian  Wateritiilfoil .  Journal  of  Aquatic  Plant 
+Management,  32:  21-26. 
+
+Greed  R.P.,  Sheldon  S.P.  1994b.  Aquatic  weevils  (Coleoptera: 
+Curculionidae)  associated  with  northern  watermilfoil 
+(Myriophyllum  sibiricum)  in  Alberta,  Canada.  Entomological 
+news  105(2):  98-102. 
+
+Green  I.S.,  Smith  D.L.,  Boylen  C.W.  1989.  Electron  microscopic 
+observations  of  the  aquatic  caterpillar  Acentropus  niveus 
+(Olivier) .  Proceedings  of  Annual  Meeting  of  Electron  Microscopic 
+Society  of  America.  San  Francisco  Press,  Inc.  San  Francisco, 
+California:  906-907. 
+
+Grunberg  K.  1909.  Lepidoptera,  Schmetterlinge.  Die  Susswasserfauna 
+Deutchlands .  8 . 
+
+Hasenfuss  I.  1960.  Die  larvalsystematic  der  Zunsler  (Pyralidae) . 
+Academie  Verlag,  Berlin:  263  pp. 
+
+Heie  O.E.  1986.  The  Aphidoidea  (Homoptera)  of  Fennoscandia  and 
+Denmark. III.  Fauna  Entomologica  Scandinavia,  17:  314  pp. 
+
+loganzen  A. A.,  Rostovtsev  A. A.  (Eds.).  1994.  The  lake  Ubinskoe. 
+Biological  productivity  and  perspectives  of  piscicultural  usage. 
+St . Peter sburg :  144  pp.  (In  Russian) . 
+
+Isaev  A. Yu.  1994.  Ecological-faunistic  review  of  the  weevils 
+(Coleoptera:  Apionidae,  Rhynchophoridae,  Curculionidae)  of 
+Ul'yanovsk  district.  Priroda  Ul'yanovskoi  oblast i,  4. 
+
+Ul'yanovsk:  77  pp.  (In  Russian) . 
+
+Isakov  Yu. A.  1954.  To  the  methodology  of  investigation  of 
+nutrition  of  the  waterfowl  birds.  Bulleten'  Moskovskogo 
+Obshchestva  Ispytatelei  Prirody  [MOIP] .  Otdelenie  biologii, 
+59(1):  33-36  (In  Russian). 
+
+Kachalova  O.L.  1960.  Nutrition  of  the  larvae  of  some  water  insects 
+-  fodder  objects  of  fishes.  Izvestiya  AN  Latviiskoi  SSR, 
+
+6(155):  147-152  (In  Russian) . 
+
+Karny  H.H.  1934.  Biologie  der  Wasserinsekten.  Wien:  311  pp. 
+
+Kashkin  N.I.  1958.  Consumption  of  higher  water  vegetation  by  the 
+larvae  of  Phryganea  grandis  L.  Trudy  Moskovskogo  Technicheskogo 
+Instituta  Rybnoi  Promyshlennosti  i  Khoziaistva,  9:  146-160  (In 
+Russian) . 
+
+Kashkin  N.I.  1959.  Nutrition  of  caterpillars  of  Paraponyx 
+
+stratiotata  L. ,  Nymphula  nymphaeata  L.  and  Cataclysta  lemnata  L. 
+(Pyralidae,  Lepidoptera) .  Trudy  Moskovskogo  Technicheskogo 
+Instituta  Rybnoi  Promyshlennosti  i  Khoziaistva,  10:  162-176  (In 
+Russian) . 
+
+Kashkin  N.I.  1961.  To  the  extent  of  utilization  of  higher  water 
+plants  by  some  phytophagous  invertebrates  (on  an  example  of 
+lakhromskoe  storage  pool  of  the  channel  Moscow  -  Volga) .  Trudy 
+Murmanskogo  Morskogo  biologicheskogo  Instituta,  3(7):  170-184 
+(In  Russian) . 
+
+Khan  A.G. ,  Rahim  A.,  Ahmad  F.  1969.  Studies  on  the  natural  enemies 
+of  Myriophyllum  spp.  (for  the  U.S.A.  and  New  Zealand). 
+Commonwealth  Agricultural  Bureaus,  Commonwealth  Institute  of 
+biological  control:  68-69. 
+
+Kokocinski  W.  1963.  Remarks  on  biology  of  Acentropus  niveus  Oliv. 
+(Lepidoptera,  Pyralidae).  Polskie  Pismo  entomologiczne,  33  (2): 
+233-243. 
+
+Kolenkina  L.V.  1951.  Nutrition  of  the  larvae  of  some  Trichoptera. 
+Trudy  Vsesoyuznogo  Gidrobiologicheskogo  obshchestva.  III:  44-47 
+(In  Russian) . 
+
+
+20 
+
+
+Konstantinov  A.S.  1958.  Biology  of  Chironomids  and  their 
+
+cultivation.  Izdatel'stvo  "Kommunist" ,  Saratov;  362  pp.  (In 
+Russian) . 
+
+Kozhanchikov  I.V.  1958.  Biological  peculiarities  of  the  european 
+species  of  the  genus  Galerucella  and  differentiation  of 
+biological  forms  in  Galerucella  lineola  F.  Trudy  Zoologicheskogo 
+Instituta  AN  SSSR,  24.  Izdatel'stvo  AN  SSSR,  Moscow-Leningrad: 
+271-332  (In  Russian) . 
+
+Kryzhanovskii  O.L.  (Ed.).  1974.  Insects  and  ticks  -  pests  of 
+
+agricultural  plants,  2.  Coleoptera.  "Nauka”,  Leningrad:  235  pp. 
+(In  Russian) . 
+
+Kutikova  L.A.,  Starobogatov  Ya.I.  (Eds.).  1977.  Key  to 
+
+determination  of  the  freashwater  invertebrates  of  the  European 
+part  of  the  USSR.  (Plancton  and  bentos).  "Gidrometeoizdat" , 
+Leningrad:  510  pp.  (In  Russian) . 
+
+Lekic  M,  Mihajlovic  L.  1970.  Entomofauma  of  Myriophyllum  spicatum 
+L.  (Haloragidaceae)  as  an  aquatic  weed  in  Jugoslavia.  Arhiv  za 
+Pol joprivedne  Nauke,  23.  Beograd:  63-76. 
+
+Lepneva  S.G.  1940.  Trichoptera.  In;  Pavlovskii  Ye.N.,  Zhadin  V.I. 
+(Eds.).  Life  of  fresh  waters.  1.  Moskva-Leningrad;  191-223  (In 
+Russian) . 
+
+Lepneva  S.G.  1964.  Trichoptera.  Fauna  of  the  USSR,  2,  Part  1. 
+Izdatel'stvo  AN  SSSR,  Moskva-Leningrad:  562  pp.  (In  Russian) . 
+
+Lepneva  S.G.  1966.  Trichoptera.  Fauna  of  the  USSR,  2,  Part  2. 
+Izdatel'stvo  AN  SSSR,  Moskva-Leningrad;  562  pp.  (In  Russian) . 
+
+Ler  P.A.  (Ed.).  1988.  Key  to  determination  of  the  insects  of  the 
+Far  East  of  the  USSR,  II.  Homoptera  and  Hemiptera.  "Nauka”, 
+Leningrad:  972  pp.  (In  Russian) . 
+
+Ler  P.A.  (Ed.).  1992.  Key  to  determination  of  the  insects  of  the 
+Far  East  of  the  USSR,  III.  Coleoptera,  Part  2.  "Nauka", 
+
+St. Petersburg:  704  pp.  (In  Russian) 
+
+Lopatin  I.K.  1960.  Materials  on  the  fauna  and  ecology  of  leaf 
+
+beetles  (Coleoptera,  Chrysomelidae)  of  the  Southern  back  bank  of 
+the  Dnieper  River.  Entomologicheskoe  Obozrenie,  39(3):  629-642 
+(In  Russian) . 
+
+Lopatin  I.K.  1977.  The  leaf  beetles  (Chrysomelidae)  of  Central 
+Asia  and  Kazakhstan.  Keys  to  determination  of  the  fauna  of  the 
+USSR,  published  by  Zoological  Institute  of  Academy  of  Sciences 
+of  the  USSR  ,  113.  "Nauka",  Leningrad;  270  pp.  (In  Russian). 
+
+Lopatin  I.K.  1986.  The  leaf  beetles  in  Byelorussian  and  Baltic 
+faunas  (Key  to  determination).  Vysshaya  shkola,  Minsk;  131  pp. 
+(In  Russian) . 
+
+McGaha  Y.J.  1952.  The  limnological  relations  of  insects  to  certain 
+aquatic  flowering  plants.  Transactions  of  the  American 
+Microscopical  Society,  71:  355-382. 
+
+Medvedev  G.S.  (Ed.).  1986.  Key  to  determination  of  the  insects  of 
+the  European  part  of  the  USSR,  IV.  Lepidoptera,  Part  3.  "Nauka", 
+Leningrad:  504  pp.  (In  Russian) . 
+
+Medvedev  L.N.  1955.  The  leaf  beetles.  In:  Vrediteli  lesa,  2. 
+Moskva-Leningrad;  546-578  (In  Russian) . 
+
+Medvedev  L.N.  1977.  Finding  of  the  member  the  American  genus 
+Neochaemonia  Szek.  (Coleoptera,  Chrisomelidae)  in  Mongolia. 
+Doklady  AN  SSSR,  236(2);  488-490  (In  Russian). 
+
+Medvedev  L.N.  1982.  The  leaf  beetles  of  Mongolian  People"s 
+
+Republic.  Key  to  determination.  "Nauka",  Moscow:  303  pp.  (In 
+Russian) . 
+
+
+21 
+
+
+Medvedev  L.N.  1992.  In;  Ler  P.A. (Ed.).  Key  to  determination  of  the 
+insects  of  the  Far  East  of  the  USSR,  3.  Coleoptera,  Part  2. 
+"Nauka” ,  S . Peter sburg :  533-602  (In  Russian). 
+
+Medvedev  L.N.,  Dubeshko  L.N.  1992.  Key  to  determination  of  the  leaf 
+beetles  of  the  Siberia.  Isdatel'stvo  Irkutskogo  Universiteta, 
+Irkutsk:  224  pp.  (In  Russian) . 
+
+Medvedev  L.N.,  Roginskaya  E.Ya.  1988.  Catalogue  of  host-plants  of 
+the  leaf  beetles  of  the  USSR.  Moscow:  192  pp.  (In  Russian). 
+
+Medvedev  L.N. ,  Voronova  N.V.  1979.  On  the  chrysomelid-beetle  fauna 
+of  Mongolia  (Coleoptera,  Chrysomelidae) ,  3.  Nasekomye  Mongolii, 
+
+6.  "Nauka”,  Leningrad:  97-134  (In  Russian). 
+
+Medvedev  L.N.,  Zaitzev  Yu.M.  1978.  The  larvae  of  the  leaf  beetles 
+of  the  Siberia  and  Far-East.  "Nauka",  Moscow:  182  pp.  (In 
+Russian) . 
+
+Medvedev  L.N.,  Zaitzev  Yu.M.  1980.  New  data  on  chrysomelid  beetles 
+larvae  from  Mongolia  (Coleoptera,  Chrysomelidae) .  Nasekomye 
+Mongolii,  7.  "Nauka",  Leningrad:  97-106  (In  Russian). 
+
+Mordvilko  A.K.  1929.  Food  plant  of  the  Aphididae  of  the  USSR. 
+
+Trudy  po  prikladnoi  entomologii,  14(1).  Bureau  of  Applied 
+Entomology,  State  Institute  of  Experimental  Agronomy.  Leningrad: 
+101  pp.  (In  Russian) .  .... 
+
+Morimoto  K.  1964.  Key  and  illustrations  for  the  identification  of 
+the  curculionoid— beetles  of  Japan  and  the  Ryukyus.  Kontyu, 
+
+32(1):  81-90. 
+
+Newman  R.M.,  Maher  L.M.  1995.  New  records  and  distribution  of 
+Aquatic  insect  herbivores  of  watermilfoils  (Haloragidaceae: 
+Myriophyllum  spp.)  in  Minnesota.  Entomological  News,  106(1):  6 
+-18. 
+
+Ogloblin  D.A.  1936.  The  leaf  beetles,  Galerucinae.  Fauna  SSSR, 
+Nasekomye  zhestkokrylye,  26(1).  Isdatel'stvo  AN  SSSR, 
+Moscow-Leningrad:  455  pp.  (In  Russian) . 
+
+Ogloblin  D.A.  1948.  Chrysomelidae.  The  leaf  beetles,  pp.  472-507. 
+In:  Tarbinskii  S.P.,  Plavilshchikov  N.N.  (Eds.).  Key  to 
+determination  of  the  insects  of  the  European  part  of  the  USSR. 
+"Nauka",  Moscow-Leningrad:  1128  pp.  (In  Russian) . 
+
+Ogloblin  D.A.,  Medvedev  L.N.  1971.  The  larvae  of  the  leaf  beetles 
+(Coleoptera,  Chrysomielidae)  of  the  European  part  of  the  USSR. 
+Keys  to  determination  of  the  fauna  of  the  USSR,  published  by 
+Zoological  Institute  of  Academy  of  Sciences  of  the  USSR,  106. 
+"Nauka",  Leningrad:  123  pp.  (In  Russian). 
+
+Palm  E.  1986.  Nordeuropas  Pyralider  -  med  saerlight  henblik  pa  den 
+danske  fauna  (Lepidoptera:  Pyralidae) .  Denmarks  Dyreliv,  3.  Fauna 
+Roger  Kobenhaven:  287pp. 
+
+Pankratova  V.  Ya.  1970.  Larvae  and  pupae  of  Chironomids  of 
+
+subfamily  Orthocladiinae  of  the  USSR  (Diptera  -  Chironomidae  = 
+Tendipedidae) .  Keys  to  determination  of  the  fauna  of  the  USSR, 
+published  by  Zoological  Institute  of  Academy  of  Sciences  of  the 
+USSR,  102.  Izdatel'stvo  AN  SSSR,  Leningrad:  341  pp.  (In 
+Russian) . 
+
+Pavlovskii  E.N.,  Lepneva  S.G.  1948.  Sketches  on  the  life  of 
+
+freshwater  animals.  "Sovetskaya  Nauka",  Leningrad:  458  pp.  (In 
+Russian) . 
+
+Prat  N.,  Rodrigues-Capitulo  A.  1995.  Population  dynamics  of 
+
+Chironomidae  associated  with  Nymphaea  alba  leaves  in  springs  in 
+the  Ebro  Delta  (N.E.  Spain),  pp.  297-304.  In:  Cranston  P.  (Ed.). 
+Chironomids  from  genes  to  ecosystems.  CSIRO,  Australia:  482  pp. 
+
+
+22 
+
+
+Reichardt  A.N.,  Ogloblin  D.A.  1940.  Beetles  (Coleoptera) .  In: 
+Pavlovskii  Ye.N.,  Zhadin  V.I.  (Eds.).  Life  of  fresh  waters,  1. 
+Moscow-Leningrad :  158-188  (In  Russian) . 
+
+Rimskii-Korsakov  M.N.  1940.  Lepidopterous  or  butterflies 
+(Lepidoptera) .  In:  Pavlovskii  Ye.N.,  Zhadin  V.I.  (Eds.). 
+
+Life  of  fresh  waters,  1.  Moscow-Leningrad:  224-226  (In  Russian) 
+Shilova  A. I.  1955.  To  the  nutrition  of  the  larva  of  Cricotopus 
+silvestris  F.  in  connection  with  the  character  of  structure  of 
+mouthparts.  Doklady  AN  SSSR,  100(6):  1191-1193  (In  Russian). 
+Smirnov  N.N.  1962.  On  nutrition  of  Caddis  Worms  Phryganea  grandis 
+L.  Hydrobiologia,  19(3):  252-261. 
+
+Soszka  G.J.  1975a.  The  invertebrates  on  submerged  Macrophytes  in 
+three  Masurian  Lakes.  Ecologia  Polska,  23:  371-391. 
+
+Soszka  G.J.  1975b.  Ecological  relations  between  invertebrates  and 
+submerged  Macrophytes  in  the  lake  littoral.  Ecologia  Polska,  23 
+393-415. 
+
+Spencer  N.R.  1974.  Insect  enemies  of  aquatic  weeds.  PANS,  20(4): 
+444-450. 
+
+Spencer  N.R. ,  Lekic  M.  1974.  Prospects  for  biological  control  of 
+Eurasian  Watermilfoil .  Weed  Science,  22(4):  401-404. 
+
+Starostin  I.V.  1992.  Fauna  of  the  inner  water  pools  of  the 
+Turkmenistan.  "Ylym”,  Ashgabat:  256  pp.  (In  Russian). 
+
+Tarbinskii  S.P.,  Plavilshchikov  N.N.  (Eds.).  1948.  Key  to 
+
+determination  of  the  insects  of  the  European  part  of  the  USSR. 
+"Sel'khozgiz” ,  Moscow-Leningrad:  1127  pp.  (In  Russian). 
+Thienemann  A.  1954.  Chironomus.  Leben  Verbritung  und 
+wirtschaftliche  Bedeutung  der  Chironomiden .  In:  Die 
+Bunnengewasser,  20.  Stuttgart:  834  pp. 
+
+Urban  E.  1975.  The  mining  fauna  in  four  macrophyte  species  in 
+Mikolajskie  Lake.  Ecologia  Polska,  23(3):  417-435. 
+Wesenberg-Lund  C.  1943.  Biologie  der  Susswasserinsekten. 
+
+J. Springer,  Berlin  -  Wien:  682  pp. 
+
+A  LIST  OF  CONSULTING  SPECIALISTS 
+
+Dr.  E.V.Balushkina,  Laboratory  of  Fresh  Water  Hydrobiology, 
+Zoological  Institute,  St . Petersburg,  Russia  (Diptera: 
+Chironomidae) . 
+
+Dr.  A.F.Emeljanov,  Laboratory  of  Insect  Taxonomy,  Zoological 
+Institute,  St. Petersburg,  Russia  (Homoptera) . 
+
+Dr.  M.I.Falkovich,  Laboratory  of  Insect  Taxonomy,  Zoological 
+Institute,  St. Petersburg,  Russia  (Lepidoptera) . 
+
+Dr.  V.D. Ivanov,  Entomology  Department,  Faculty  of  Biology, 
+
+St.  Petersburg  State  University  (Trichoptera) . 
+
+Dr.  A.B.Korotyaev,  Laboratory  of  Insect  Taxonomy,  Zoological 
+Institute,  St. Petersburg,  Russia  (Coleoptera) . 
+
+Dr.  M.M.Labutova,  Institute  of  Agricultural  Microbiology, 
+
+St. Petersburg,  Russia  (Fungi) . 
+
+Dr.  S.Yu.Sinev,  Laboratory  of  Insect  Taxonomy,  Zoological 
+Institute,  St .Petersburg,  Russia  (Lepidoptera) . 
+
+Dr.  Ya.I.Starobogatov,  Laboratory  of  Fresh  Water  Hydrobiology, 
+Zoological  Institute,  St. Petersburg,  Russia  (Freshwater 
+invertebrates) . 
+
+Dr.  A.B.Stekol'schikov,  Laboratory  of  Insect  Taxonomy,  Zoological 
+Institute,  St .Petersburg,  Russia  (Homoptera:  Aphidae) . 
+
+

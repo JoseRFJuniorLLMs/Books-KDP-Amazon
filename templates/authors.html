@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autores - BooksKDP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">BooksKDP</a>
+            <div class="nav-links">
+                <a href="/">Dashboard</a>
+                <a href="/books">Livros</a>
+                <a href="/authors" class="active">Autores</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1>Autores</h1>
+
+        <!-- Filters -->
+        <div class="filters-panel">
+            <form method="GET" class="filters-form">
+                <div class="filter-group">
+                    <label>Buscar:</label>
+                    <input type="text" name="q" value="{{ query }}" placeholder="Nome do autor...">
+                </div>
+                <div class="filter-group">
+                    <label>
+                        <input type="checkbox" name="pd" value="1" {% if public_domain %}checked{% endif %}>
+                        Apenas domínio público
+                    </label>
+                </div>
+                <button type="submit" class="btn">Filtrar</button>
+                <a href="/authors" class="btn btn-secondary">Limpar</a>
+            </form>
+        </div>
+
+        <!-- Authors Table -->
+        <div class="panel">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Nascimento</th>
+                        <th>Morte</th>
+                        <th>Livros</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for author in authors %}
+                    <tr>
+                        <td>
+                            <a href="/books?q={{ author.name|urlencode }}">
+                                {{ author.name }}
+                            </a>
+                        </td>
+                        <td>{{ author.birth_year or '-' }}</td>
+                        <td>{{ author.death_year or '-' }}</td>
+                        <td>{{ author.books_count }}</td>
+                        <td>
+                            {% if author.death_year and (2024 - author.death_year) >= 70 %}
+                            <span class="badge badge-success">Domínio Público</span>
+                            {% elif author.death_year %}
+                            <span class="badge badge-warning">{{ 70 - (2024 - author.death_year) }} anos restantes</span>
+                            {% else %}
+                            <span class="badge badge-secondary">Desconhecido</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="5" class="empty-message">Nenhum autor encontrado</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination">
+            {% if current_page > 1 %}
+            <a href="?page={{ current_page - 1 }}&q={{ query }}&pd={{ '1' if public_domain else '' }}" class="btn btn-sm">&laquo; Anterior</a>
+            {% endif %}
+
+            <span class="page-info">Página {{ current_page }}</span>
+
+            {% if authors|length == 50 %}
+            <a href="?page={{ current_page + 1 }}&q={{ query }}&pd={{ '1' if public_domain else '' }}" class="btn btn-sm">Próxima &raquo;</a>
+            {% endif %}
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>BooksKDP - Sistema de Processamento de Livros</p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,359 @@
+Modulo 2 
+ 
+Estratégia de Xadrez (iniciantes) 
+Há no xadrez, um série de princípios gerais, que são como postulados prévio para a 
+vitória. O principiante e, mesmo jogadores de certa categoria devem seguir, quanto 
+possível, os conceitos clássicos, apontados pelos mestres e pelos textos mais 
+autorizados.  
+O jogador não deve esquecer, porém, que no xadrez, como na vida, tudo é relativo. 
+Lembre-se de que "Todas as idéias fixas estão erradas, inclusive esta!". Os princípios 
+gerais destinam-se aos casos gerais, não às exceções. Deve haver portanto uma certa 
+elasticidade na aplicação destes conceitos, cada posição, afinal, acha-se regida pela 
+própria lei. 
+Todo Lance Deve Corresponder A Uma Idéia, A Planos Definidos.
+Todo Lance Deve Corresponder A Uma Idéia, A Planos Definidos.
+Todo Lance Deve Corresponder A Uma Idéia, A Planos Definidos.
+Todo Lance Deve Corresponder A Uma Idéia, A Planos Definidos. 
+Não deve realizar nenhuma jogada sem objetivos definidos. 
+É imprudente o desenvolvimento prematuro da dama. 
+Deve rocar-se em todas as aberturas. 
+É fundamental o domínio do centro. 
+O ganho de tempo é vantagem importante. 
+Os peões são verdadeira base de toda a estratégia do xadrez e mesmo da teoria das 
+aberturas. 
+Todo avanço de peão enfraquece a posição. 
+Evite-se os peões dobrados ou atrasados. 
+Os peões passados, sempre que possível, devem ser impedidos ocupando com a peça a 
+casa que está na frente do peão. 
+A superioridade em espaço é decisiva, especialmente nas posições de ataque. 
+A maior força nos peões está na sua mobilidade. 
+Se o adversário tem uma ou mais peças expostas, deve procurar-se uma combinação. 
+Não se deve realizar uma troca sem haver uma boa razão. 
+Não se deve expor o rei quando as damas ainda estão no tabuleiro. 
+O rei deve estar ativo no final. 
+O valor das peças não é absoluta, varia com a posição. 
+Não se deve sacrificar sem uma razão clara e adequada. 
+É de muito valor a ocupação da sétima e oitava fileira.
+
+As Aberturas  
+"As aberturas correspondem a luta pelo controle do centro." Romanosky  
+Regras Fundamentais da abertura: 
+1. É preciso desenvolver rapidamente todas as peças. 
+2. É imprudente o desenvolvimento prematuro da dama. 
+3. Deve rocar-se em todas as aberturas. 
+4. É fundamental o domínio do centro. 
+5. O ganho de tempo é vantagem importante. 
+6. Os peões são a verdadeira base de toda a estratégia do xadre e mesmo da teoria das 
+aberturas. 
+7. Todo avanço de de peão enfraquece a posição. 
+8. Evitem-se peões dobrados, atrasados ou isolados. 
+9. Os peões passados, sempre que possível, devem ser impelidos para frente. 
+10. A superioridade de espaço é decisiva, especialmente nas posições de ataque. 
+11. A maior força dos peões está na sua mobilidade. 
+12. Se o adversário tem uma ou mais peças expostas deve procurar-se uma combinação.
+13. Não se deve realizar uma troca sem haver, para isso, uma boa razão. 
+13. Não se deve expor o rei quando as damas ainda estão no tabuleiro. 
+14. O rei deve estar ativo no final. 
+15. O valor das peças não é absoluto: varia de acordo com as posições. 
+16. Não se deve sacrificar sem uma razão clara e adequada. 
+17. É de muito valor a ocupação da sétima e oitava fila.  
+O Meio
+O Meio
+O Meio
+O Meio-Jogo
+Jogo
+Jogo
+Jogo 
+O meio-jogo é a fase medular da partida de xadrez. A sua extraordinária complexidade, 
+a sua infinita riqueza de possibilidades fogem a uma sistematização simples e eficiente, 
+como tem sido realizada nas aberturas e em grande número de finais.  
+    Já se viu que, em termos gerais, o material e tempo constituem os elementos 
+essenciais no xadrez. Znosko-Borovsky (veja estratégia para os experientes) especifica 
+mais profundamente, considerando que espaço e tempo são as condições nas quais uma 
+partida de xadrez se desenvolve, e o elemento ativo é a força. O tempo e o espaço são o 
+produto revelador da força. Estes três elementos realizam e decidem a partida de xadrez. 
+A vantagem em um ou mais elementos pode significar a vitória.  
+    Há posições especiais com singulares possibilidades táticas. Mas em geral, a 
+superioridade em um ou mais elementos poderá ser explorada por meio de: 
+a) ataque 
+b) manobras preparatórias 
+c) simplificação (que conduz a final)  
+Da sua parte, o jogador que se achar em inferioridade poderá tentar remediar a sua 
+posição mediante:  
+a) defesa passiva 
+b) contra-ataque 
+c) troca de material (aliviar a pressão) 
+d) simplificação (que conduz a final)
+
+Nota: A simplificação pode significar a salvação para quem está perdendo ou vitória 
+para quem está ganhando. O fator que determina se a simplificação é favorável ou não é 
+o caráter da posição. 
+ 
+O Final
+O Final
+O Final
+O Final 
+O final é o momento culminante da beleza e da dificuldade: abóbada delicada que 
+arremata e fecha a construção enxadrística. De corte sóbrio - em virtude da 
+simplificação já operada - de aspecto fácil na aparência, o final encerra, todavia, as 
+sutilezas mais profundas da Arte de Caissa. No dizer de todos os mestres, é a fase mais 
+difícil da partida de xadrez. Isto deve aos dois fatores fundamentais: 
+1) A extraordinária relevância que o fator tempo adquire: a perda de um único tempo 
+pode significar a derrota ou fuga duma vitória certa. 
+2) A necessidade absoluta de um plano único, preciso e satisfatório, ao qual deve estar 
+subordinado todos os lances. 
+Os Elementos de Xadrez 
+Os elementos de xadrez - espaço, material, desenvolvimento, segurança do rei e a 
+estrutura dos peões - são as bases do jogo. Ao entender esses elementos 
+individualmente, seus conhecimentos de xadrez aumentam de modo considerável. É 
+claro que entendê-los isolados uns dos outros é mais fácil do que o fazer em conjunto.  
+    Infelizmente, os elementos estão sempre interagindo entre si - como se fossem gases 
+voláteis. Ora um elemento é bem mais importante do que todos os outros combinados 
+ora há um equilíbrio dinâmico entre todos eles. Quando você conseguir compreender a 
+relação de cada elemento com os outros - em qualquer dada posição, terá se aproximado 
+da maestria no xadrez. 
+Espaço
+Espaço
+Espaço
+Espaço 
+O espaço talvez seja a fronteira final para alguns de vocês, mas é um elemento essencial 
+no mundo do xadrez. O xadrez, na verdade, é um jogo de conquista de espaço. Se tudo 
+estiver igualado, o jogador que controlar a maior parte do espaço controla a partida: é 
+mais fácil manobrar as peças quando você tem espaço. Quando não, nem sempre poderá 
+levar suas peças para o lugar certo no tempo certo. 
+As Leis do Espaço:  
+*Use peões centrais para ganhar espaço no começo do jogo. 
+*Só penetre nas linhas inimigas se puder apoiar as suas peças. 
+*Não bloqueie os bispos atrás de seus próprios peões. 
+*Se estiver restringido, procure um lance libertador. 
+*Se o adversário estiver restringido, tente evitar lances libertadores. 
+*Troque peças para aliviar pressão. 
+*Controle o centro antes de atacar pelos flancos. 
+*Se o adversário estiver atacando pelo flanco, contra-ataque pelo centro! 
+*Depois de conseguir controlar uma casa no território inimigo, tente ocupá-la com um 
+cavalo. 
+*Durante a fase final do jogo, o rei geralmente deve ser levado para o centro do 
+tabuleiro.  
+Material
+
+A superioridade material é decisiva quando tudo mais está igual. Se você puder ganhar 
+um peão, geralmente é possível ganhar mais concessões do adversário. Raramente as 
+coisas são iguais no xadrez, e às vezes é impossível avaliar corretamente quando uma 
+vantagem material é mais importante do que qualquer outra vantagem em outro 
+elemento diferente.  
+As próprias peças podem ganhar ou perder força dependendo do seu posicionamento. 
+Ter um peão avançado no território inimigo pode ser mais importante do que um mísero 
+cavalo enfiado no canto. Os valores das peças são relativas e se alternam durante a 
+partida. 
+Materiais:  
+*Quando estiver na frente no que se refere a material, force as trocas e caminhe para 
+final do jogo. 
+*Abra as colunas e diagonais, quando possível, para atrair o inimigo e forçar novas 
+concessões. 
+*Se possível, ganhe material sem sacrificar algum outro elemento. 
+*Material, usualmente, é mais importante que os outros elementos, portanto, aceite-o se 
+for oferecido - a não ser que tenha uma boa razão para não fazê-lo. 
+*Se estiver em desvantagem material, evite trocar mais peças, mas não fique passivo.  
+Desenvolvimento 
+O desenvolvimento é o elemento de tempo. O Napoleão já disse uma vez:" Se 
+perdermos espaço, podemos recuperar depois, mas, se perdermos tempo, nunca 
+poderemos recuperá-lo." No xadrez, cada jogador joga um lance de cada vez. Não pode 
+deixar de jogar. Nem todos os lances são iguais, somente aqueles que contribuem para 
+aumentar a mobilidade das peças são considerados lances de desenvolvimento.  
+Se seu adversário estiver fazendo lances de desenvolvimento, enquanto você apenas fica 
+marcando passo, logo, perderá jogo. Cada lance é um recurso precioso, portanto, 
+nenhum deles deve ser desperdiçado! 
+ 
+A Segurança do Rei
+A Segurança do Rei
+A Segurança do Rei
+A Segurança do Rei 
+De todos os elementos, a segurança do rei é mais dramático. Se ele estiver em perigo, 
+nada mais importa. Se o monarca receber um xeque-mate, não interessa quantas peças 
+você tem no tabuleiro, é o fim do jogo.  
+Muitas partidas de xadrez começam com um ou dois lances de desenvolvimentos de 
+peças menores. O próximo passo é geralmente colocar o rei em segurança com o roque, 
+um lance em que o rei fica mais próximo de um dos cantos, o que significa longe das 
+ações das outras peças.  
+Essa estratégia aparece em inúmeras aberturas que, sob outros aspectos são 
+completamente diferentes. A idéia principal é combater o inimigo após o rei estiver em 
+segurança. Proteger rei com todas as peças não é eficiente; bons jogadores deixam esse 
+cargo para uma ou duas delas e para os peões. O cavalo é um bom defensor, oferece 
+muita resistência aos ataques. 
+Estrutura dos Peões
+Estrutura dos Peões
+Estrutura dos Peões
+Estrutura dos Peões 
+Os peões são almas do xadrez porque a mobilidade das peças depende com freqüência 
+do posicionamento dos peões. Segundo a regra geral, a mobilidade é a chave do poder 
+de qualquer peça do xadrez. Essa regra é válida até para o modesto peão. É claro que a 
+sua mobilidade está ligada a capacidade de avançar. Ele não pode atacar a casa
+
+imediatamente à sua frente, e, portanto, sua mobilidade depende da ajuda de outro peão. 
+Essa limitação faz com que os peões sejam mais fortes juntos, ou em dupla, mas não 
+sozinho. 
+Regra para peões
+Regra para peões
+Regra para peões
+Regra para peões 
+*Procure manter a estrutura de peões intacta. 
+*Visto que alguns peões precisam avançar, tente manter sua mobilidade ou conserve-os 
+em dupla. 
+*Se algum peão ficar impedido, use outro para libertá-lo. 
+*Se tiver um peão isolado, mantenha sua mobilidade; se o adversário tiver um, 
+bloqueie-o! 
+*Crie um peão passado e, quando possível, um peão passado protegido. 
+*Avance os peões passados. 
+*Ataque os peões passados com as peças pesadas. 
+*Tente avançar com um peão pendente e depois bloqueie. 
+*Evite dobrar seus peões, mas se não puder evitar, tente trocar um deles. 
+*Ataque a cadeia de peões na base.  
+ 
+XADREZ E A MATEMÁTICA 
+Cálculos matemáticos estabelecem que o rei, partindo da sua casa inicial (e1) e seguindo 
+o caminho mais curto, ou seja, em 7 lances, pode atingir a oitava casa (e8) de 393 
+modos diferentes.  
+    Um fim de partida com o rei e torre pode formar 216 posições diferentes de mate; um 
+final de rei e dama contra rei: 364.  
+    Numa partida, após o primeiro lance (saída das brancas e resposta das negras). Podem 
+produzir-se 400 posições diferentes. Após os 4 primeiros lances, este número aumenta e 
+se eleva a 318,979,564,000. Após os primeiros dez lances, o número de posições 
+diferentes é de: 169,518,829,100,544,000,000,000,000,000  
+    Calculando a população da Terra em 3 bilhões de habitantes (3,000,000,000), se 
+todos se ocupassem em compor essas posições, na média de uma por minuto, levariam:  
+                                                            34,254,125,120,000,000 de anos. 
+ 
+2- O XADREZ COMO FERRAMENTA DE ANÁLISES NO PENSAMENTO 
+ESTRATÉGICO DOS NEGÓCIOS. 
+Xadrez: abertura e desenvolvimento das peças.  
+Empresa: análise da agenda, despacho do serviço logo pela manhã e determinação das 
+prioridades;  
+Xadrez: praticidade; 
+Empresa: analisar o que é mais relevante para o desenvolvimento dos trabalhos, 
+fluidez; Xadrez: economia de tempo e objetividade na abertura da partida; 
+Empresa: procurar encaminhar o serviço com rapidez utilizando-se dos meios 
+modernos para comunicação interna (memorandos, murais, reunião matutina com 
+recursos áudio-visuais) e externa (editais, publicidade, internet, e-mail, msn, telefone, 
+fax, etc); 
+Xadrez: partidas que tenham aberturas centrais com visível domínio do centro; 
+Empresa: poder de ação do empresário e seus diretores e comandos visíveis a todos;  
+Xadrez: abrangência, irradiação do poder das peças em todas as direções; 
+Empresa: consciência até onde vai o poder de um chefe de seção, suas influências nos 
+outros setores da empresa, inter-relação, etc;
+
+3- FORMAÇÃO, CAPACITAÇÃO E DESENVOLVIMENTO DE RECURSO 
+HUMANO NA EMPRESA A PARTIR DO ESTUDO DOS PRINCÍPIOS 
+BÁSICOS ESTRATÉGICOS QUE REGEM O XADREZ. 
+Xadrez: desenvolvimento das peças menores e estruturação protetora entre elas e os 
+peões; Empresa: fomentar a unidade dos encarregados e seus subalternos em prol da 
+empresa, incentivar a criatividade e as sugestões positivas de todos os funcionários, etc;  
+Xadrez: roque, garantia de segurança do rei; 
+Empresa: fomentar o conceito positivo, a valorização da empresa e a importância do 
+posto de comando do proprietário e diretores, proteger o patrimônio;  
+Xadrez: interconectividade e relação das peças nas combinações e seus resultados; 
+Empresa: demonstrativos diários de produtividade e premiações coletivas pelo esforço, 
+valorizando a união de todos em prol do resultado;  
+Xadrez: lances competitivos, procurando fazer sempre o melhor lance, sem no entanto, 
+sobrecarregar as demais peças; 
+Empresa: prêmios individuais por assiduidade, redução do acidente de trabalho e 
+produtividade, sem no entanto, sobrecarregar os companheiros; 
+ 
+4- O MÉTODO COMO FERRAMENTA DE ANÁLISES PARA A TOMADA DE 
+DECISÕES. 
+Xadrez: meio jogo, adoção de uma linha de procedimento estratégico ou tático e 
+procurar definir um objetivo, um plano qualquer; 
+Empresa: aprender a pensar à frente, projetando o pensamento no resultado de suas 
+ações momentâneas, ex.: pesquisa de preços, remanejamento de funcionários, planos de 
+atendimento diferenciado e personalizado, planos de aplicações financeiras, planos de 
+demanda de produtos, estratégias de ataques comerciais, planos de marketing, etc).  
+Xadrez: o pensar estratégico é o posicionamento e combinações de peças, visando o 
+acúmulo  de pequenas vantagens, simplificando as ações que objetivam partir para um 
+final ganhador, com solidez. (Ex. prático: partidas de Karpov, Capablanca, Petrossian, 
+etc) 
+Empresa: administração planejada com consciência e solidez, procurando a prática dos 
+melhores preços, variedade de produtos, qualidade e atendimento preparado. 
+Administração sem pressa, acumulando pequenas vantagens visando uma sedimentação 
+no seio social e uma existência duradoura e firme, com aplicação em estratégias de 
+marketing interno e externo.  
+Xadrez: o pensar tático procura a todo custo, o lance mais arrojado e ao mesmo tempo 
+o mais arriscado para a situação em voga, conseguindo vitórias fantásticas ou derrotas 
+fragorosas com lances picantes, bonitos e cheios de especulação. (Ex. Partidas de 
+Alekine, Kasparov, Ficher, etc) 
+Empresa: visa o lucro a todo custo e com muita rapidez, não se importando com 
+atitudes básicas de subsistência e permanência no mercado. Atitudes ambiciosas que 
+tanto podem levar a um sucesso retumbante ou a um fracasso sem precedentes. 
+Obs.: O emprego de métodos estratégicos ou táticos podem ser ponderados em 
+determinados momentos, às vezes o risco pode ser calculado tanto no xadrez como na 
+empresa. Toda regra tem sua exceção! 
+ 
+5- ESTUDO DA RELAÇÃO EXISTENTE ENTRE A PREPARAÇÃO 
+PSICOLÓGICA DE UM JOGADOR DE XADREZ E UM HOMEM DE 
+NEGÓCIOS.  
+Xadrez: o melhor resultado na preparação de um jogador de xadrez é quando se mostra 
+que o prazer real de se jogar está nas combinações e complicações do ato de se sujeitar
+
+ao jogo, ao embate no tabuleiro, na competição em si. O resultado disso é natural e 
+teremos ao final um jogador competente que chega à vitória normalmente, sem grandes 
+traumas e esforços inúteis. Teremos um jogador que primeiro se deleita com o jogo em 
+si e faz o melhor que pode, produzindo “perolas” de partidas. 
+Desta forma, a vitória ou a derrota são encaradas com naturalidade e não deixa seqüelas, 
+preparando o espírito do jogador para melhor estudar e aprimorar suas técnicas, sabendo 
+que mesmo na vitória tem muito a aprender e na derrota aprende a ser humilde o 
+suficiente para melhorar com os erros.   
+Empresa: um funcionário responsável e competente, esteja ele ocupando qualquer 
+cargo na empresa, se forma com a consciência de excelência de qualidade, com a 
+consciência do dever empresarial, a fidelidade e a valoração de sua empresa e do que ela 
+representa para a sociedade, para o patrão e para si. Um excelente funcionário sabe, que 
+desenvolvendo seu trabalho com responsabilidade e competência, terá todos os 
+reconhecimentos necessários para subir dentro da empresa. Com esse conceito 
+procurará estudar, aprimorar seus conhecimentos, sempre visando o melhor. O resultado 
+será natural. 
+ 
+NOTAÇÃO ALGÉBRICA 
+Cada casa do tabuleiro recebe um endereço que é formado pela letra de sua coluna e o 
+numero de sua linha. 
+As oitos linhas do tabuleiro são numeradas de 1 a 8, das brancas para as pretas. 
+As oitos colunas recebem letras minúsculas que vão de a a h, da esquerda para a direita 
+em relação à posição das brancas.  
+ 
+As peças recebem letras maiúsculas: 
+ 
+Rei = R - Dama = D - Torre = T - Bispo = B - Cavalo = C - Peão = a inicial P não é 
+utilizada. A notação do peão é caracterizada pela ausência da letra P. 
+Para ler ou escrever um lance, indica-se a letra inicial da peça e o endereço da casa para 
+onde ela vai. Ex: De2(a dama vai para casa e2), e4(o peão vai para a casa e4). 
+No caso de captura coloca-se um x entre a inicial da peça e a casa onde ela vai capturar.
+Ex: Dxa5 (a dama captura a peça que esta na a5), exd6 (o peão que esta na e captura a
+
+peça que esta na d6). 
+Quando duas peças iguais puderem mover para a mesma casa, indica-se, após a inicial 
+da peça a ser jogada, a letra da coluna, caso esteja na mesma linha; ou,o numero da 
+linha, caso a outra peça esteja na mesma coluna. 
+Ex: Cbd2 (o cavalo da coluna b vai para a casa d2). 
+O roque pequeno é indicado por 0-0 e o roque grande por 0-0-0. 
+A promoção é indicada pelo sinal =.  
+Ex: a1=D (o peão preto chegou na casa a1 e promoveu para uma dama). 
+O xeque é indicado pelo sinal de +. 
+Ex: bc4+ (o bispo vai para a casa c4 e faz xeque). 
+O xeque mate é simbolizado por ++. 
+A captura “en passant” é simbolizada e.p. 
+Em Resumo Temos 
+Sinais usuais de notação:  
+Rei – R 
+Dama – D 
+Bispo – B 
+Cavalo – C 
+Torre – T 
+Peão – não possui. 
+Regra básica de notação: 
+1° - coloca-se o sinal usual da peça mexida.  
+2° - em minúsculo Poe-se a letra da coluna para onde a peça esta indo. 
+3° - Poe-se o numero da fileira onde a peça esta indo. 
+Regras especiais de notação: 
+4° - em caso de captura, coloca-se um X entre a primeira regra e da segunda. 
+5° - em caso de xeque coloca-se um sinal de “+” depois da terceira regra. Caso for mate 
+poe-se “++”. 
+6° - o roque pequeno é indicado por O-O, e o grande por O-O-O. 
+7° - a promoção é indicada pelo sinal “=” depois da terceira regra com o acréscimo da 
+inicial da letra promovida. 
+8° - captura “en passant” e sinalizado por “ e.p.”depois da terceira regra.

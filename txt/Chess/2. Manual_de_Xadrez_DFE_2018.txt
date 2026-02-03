@@ -1,0 +1,1619 @@
+Desenvolvimento Físico-Esportivo
+Professor: Hélio Neto
+MANUAL DE
+XADREZ
+Centro Educacional
+Sesc Cidadania
+
+APRESENTAÇÃO
+	
+Esta apostila é destinada a todos os alunos do Desenvolvimento Físico 
+Esportivo (DFE) interessados em aprender a milenar arte do jogo que também é 
+cultura, esporte e lazer, o Xadrez. 
+	
+Espera-se que o leitor sinta-se satisfeito com as explicações dadas e que 
+os exercícios propostos sirvam de inspiração na busca de aperfeiçoamento de 
+suas técnicas e táticas do jogo. 
+	
+	
+Este material foi elaborado com base em diversos livros e outras apostilas 
+publicadas, sendo o conteúdo apresentado com uma metodologia de fácil 
+entendimento, oferecendo também atividades para fixação dos conteúdos e 
+temas abordados.
+Hélio Neto
+
+SUMÁRIO
+1. A HISTÓRIA DO XADREZ
+4. TABULEIRO
+5. PEÇAS
+8. FASES DO JOGO
+9. ABERTURAS
+12. TEMAS DE COMBINAÇÃO
+13. TOP 10 MELHORES 
+JOGADORES DE XADREZ DE 
+TODOS OS TEMPOS
+2. DICAS
+3. OBJETIVO
+6. O RELÓGIO
+7. MOVIMENTOS EXTRAORDINÁRIOS
+10. SISTEMA ALGÉBRICO
+11. MATES BÁSICOS
+REFERÊNCIAS
+página 1
+página 7
+página 8
+página 14
+página 17
+página 42
+página 43
+página 3
+página 6
+página 11
+página 12
+página 29
+página 35
+página 48
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+1
+1. A HISTÓRIA DO XADREZ
+	
+O Xadrez é um jogo tão antigo que, durante todos os anos de sua 
+existência, várias foram as histórias associadas a sua origem.
+	
+A primeira história que se é contada mundialmente se passa na Índia. 
+Havia uma pequena cidade chamada Taligana, e o único filho do poderoso rajá 
+foi morto em uma sangrenta batalha. O rajá entrou em depressão e nunca havia 
+conseguido superar a perda do filho. O grande problema era que o rajá não só 
+estava morrendo aos poucos, como também estava se descuidando em relação 
+ao seu reino. Era uma questão de tempo até que o reino caísse totalmente.
+	
+Vendo a queda do reino, um brâmane chamado Lahur Sessa, certo dia 
+foi até o rei e lhe apresentou um tabuleiro contendo 64 quadrados, brancos 
+e pretos, além de diversas peças que representavam fielmente as tropas do 
+seu exército, a infantaria, a cavalaria, os carros de combate, os condutores de 
+elefantes, o principal vizir e o próprio rajá.
+	
+O sacerdote disse ao rajá que tal jogo poderia acalmar seu espírito e que 
+sem dúvida alguma, iria curar-se da depressão. De fato, tudo o que o brâmane 
+disse acontecera, o rajá voltou a governar seu reino, tirando o a crise de seu 
+caminho.
+	
+Era inexplicável como aquilo tudo aconteceu, sendo um único tabuleiro 
+com peças o responsável por tirar a tristeza do rajá. Como recompensa, o brâmane 
+foi agraciado com a oportunidade de pedir o que quisesse. Logo de primeira, 
+ele recusou tal oferta, pois achava que não fosse merecedor de tal proposta, 
+mas mediante insistência do rajá, ele fez um simples pedido. O brâmane pediu 
+simplesmente um grão de trigo para a primeira casa do tabuleiro, dois para a 
+segunda, quatro para a terceira, oito para a quarta e assim sucessivamente até 
+a última casa. O rajá chegou a achar graça, tamanha a ingenuidade do pedido.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+2
+	
+Entretanto, o humilde pedido do brâmane não era tão humilde assim. 
+Após fazerem vários cálculos de quanto trigo eles teriam que dar para ele, 
+descobriram que seria necessária toda a safra do reino por incríveis dois mil 
+anos para atender ao pedido do sacerdote. Impressionado com a inteligência 
+do brâmane, o rajá o convidou para ser o principal vizir (espécie de ministro, 
+conselheiro do rajá) do reino, sendo perdoado por Sessa de sua grande dívida 
+em trigo.
+	
+Na verdade, o que o brâmane apresentou para o rajá não foi o jogo 
+de xadrez, foi a chaturanga, uma das principais variantes do jogo de xadrez 
+moderno.
+	
+Outra grande possibilidade que se apresenta em diversas histórias sobre 
+a origem do Xadrez, é que Ares, o deus da guerra, teria criado um tabuleiro 
+para testar suas táticas de guerra (que eram bem limitadas, pois Ares nunca 
+foi conhecido por ter tática nas suas batalhas, ele era simplesmente agressivo, 
+atacando sem precisão alguma na maioria das vezes). Entretanto, cada peça do 
+tabuleiro representava uma parte do seu exército, e assim foi, até que Ares teve 
+um filho com uma mortal, e passou para ele os fundamentos do jogo. A partir de 
+então, o jogo teria chegado ao conhecimento dos mortais.
+	
+É sabido que entre 1450 e 1850, o Xadrez começou a ter mudanças 
+visíveis em relação ao que conhecemos hoje em dia. Foi nesse período que 
+diversas peças ganharam movimentos que conhecemos atualmente, claro, 
+todos esses movimentos e peças tendo como origem a Chaturanga.
+	
+O elefante (o antecessor do moderno bispo) somente podia mover-se em 
+saltos por duas casas nas diagonais. O vizir (o antecessor da dama) somente 
+uma casa nas diagonais. Os peões não podiam andar duas casas em seu 
+primeiro movimento e não existia ainda o roque. Os peões somente podiam ser 
+promovidos a vizir, que era a peça mais fraca, depois do peão, em razão da sua 
+limitada mobilidade.
+	
+As regras do Xadrez que conhecemos hoje começaram a ser feitas em 
+1475, só não se sabe ao certo onde ocorreu esse início. Alguns historiadores 
+divergem entre Espanha e Itália.
+	
+Foi neste período que os peões ganharam a mobilidade que conhecemos 
+hoje em dia, que se resume em mover-se duas casas no seu primeiro movimento 
+e tomar outros peões en passant. Nessa época também foram definidos os 
+novos movimentos dos bispos e da rainha e, o mais importante, a rainha tornou-
+se a peça mais importante do jogo, sendo a única capaz de se movimentar para 
+qualquer lado e avançar ou recuar quantas casas quiser. Os movimentos das 
+demais peças, juntamente com o resto das regras que englobam todo o Xadrez, 
+só foram formalmente modificadas no meio do século XIX, e tais regras ainda se 
+mantêm até hoje.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+3
+2. DICAS
+	
+Para quem está começando a mostrar interesse pelo jogo de xadrez, 
+várias são as dúvidas que assolam o enxadrista. Qual a melhor jogada? Será 
+que movimentei corretamente a peça? Algumas das respostas para as principais 
+dúvidas para quem está começando nesse complexo mundo do enxadrismo, 
+você vai encontrar nessa página.
+	
+Muitas são as regras que envolvem o jogo de xadrez, detalhes que 
+podem fazer grande diferença no resultado de uma partida. Para quem não 
+é praticante do esporte, pode achar algumas dessas regras, ou normas um 
+pouco fora do comum, mas de frente para um tabuleiro, em um momento tenso 
+de uma partida, tudo que você vai querer é seguir as regras, então aqui vão 
+algumas dicas para que você não é essa pessoa que vai contra as normas de 
+um bom jogo de xadrez.
+	
+DICA 1
+	
+Jamais toque em uma das peças do tabuleiro, a menos que você vá 
+realmente efetuar a jogada, caso contrário, mesmo que você toque na peça e 
+não a movimente, será entendido que você já fez e terminou a sua jogada, por 
+isso, atenção. Nos últimos anos, essa regra vem regendo de forma firme os 
+principais campeonatos do mundo. Outro ato que o enxadrista deve evitar para 
+evitar constrangimentos, é ficar pedindo para voltar o lance. Esse tipo de pedido 
+é permitido, e se feito uma ou duas vezes até é aceitável, mais do que isso, 
+começa a ficar deselegante. Afinal, como disse Garry Kasparov - “Se você sabe 
+que errou, não peça para voltar, vá em frente, pois as melhores lições tiramos 
+dos erros”.
+	
+DICA 2
+	
+Em uma partida, é correto deixar que seu adversário veja a jogada que 
+você está fazendo, afinal, a jogada dele vai depender da sua, sendo assim, 
+deve-se sempre primar pelo jogo limpo, além do mais, se você estiver em um 
+campeonato oficial, você pode perder pontos por ocultar a sua jogada.
+	
+DICA 3
+	
+Independente do que você saiba, ou contra quem você vai jogar, sempre 
+tenha um plano em mente. Pode não ser o melhor dos planos, mas ao longo do 
+tempo essa prática começa a funcionar, pois o jogador vai desenvolvendo o seu 
+raciocínio lógico, o que certamente vai ser muito útil na carreira de enxadrista.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+4
+	
+DICA 4
+	
+Alguns dos esportes mais conhecidos do mundo, tais como futebol, 
+vôlei, tênis, corridas e afins, é supervalorizado o esforço máximo do atleta até 
+o fim, entretanto, quando entramos no mundo do xadrez a coisa muda um 
+pouco, lutar até o fim às vezes pode parecer falta de visão de jogo. A maioria 
+dos jogadores de xadrez conseguem prever várias jogadas a frente (eis aqui 
+o raciocínio), sendo assim, quando um enxadrista percebe que ele não vai 
+mais ter muita coisa a fazer no jogo, que a sua derrota será inevitável, é muito 
+elegante reconhecer a derrota. Em jogos de alto nível, é extremamente raro 
+acontecer um xeque-mate, pois o grande enxadrista sabe quando perdeu. O 
+enxadrista Magnus Carlsen consegue prever incríveis 20 jogadas, ou seja, caso 
+ele estivesse sendo derrotado, ele saberia 20 jogadas antes do seu fim que ele 
+poderia parabenizar seu adversário pela vitória.
+	
+DICA 5
+	
+Em relação à dica número 4, devemos levar em consideração o seguinte; 
+jamais comece uma partida fazendo movimentos sem pensar, para chegar 
+rapidamente na condição de vencedor, e assim aplicar um xeque-mate, afinal, 
+o oponente possui das mesmas condições que você.
+	
+DICA 6
+	
+Com o início de cada partida, a sua maior preocupação deve ser deixar o 
+rei o mais seguro possível. E como se faz isso? Deixando peças na sua frente, de 
+maneira que a Rainha, o Bispo ou a Torre adversária não consigam atravessar o 
+tabuleiro e dar o xeque-mate.
+	
+DICA 7
+	
+À medida que você se vê com uma quantidade de peças superior ao 
+seu adversário, tente fazer o máximo para fazer trocas inteligentes, ou seja, 
+simplificar o máximo possível a partida, pois fazendo isso, a probabilidade de 
+você deixar seu oponente sem saída é muito grande.
+	
+DICA 8
+	
+O domínio e a ocupação de pontos estratégicos importantes são a 
+condição básica para a obtenção de superioridade posicional e garantia de 
+êxito em nossas manobras táticas. Entre os pontos estratégicos importantes 
+salientam-se: as colunas abertas, de excepcional valia para as torres; as casas 
+fortes, de grande utilidade para a instalação de cavalos; o domínio do centro 
+do tabuleiro-zona nevrálgica de onde se pode atingir a todas as direções 
+rapidamente; a ocupação desse mesmo centro com peões solidamente 
+apoiados, o que impede o crescimento de qualquer ataque inimigo.
+	
+DICA 9
+	
+Sem a menor dúvida, a peça mais prazerosa de movimentar quando o
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+5
+enxadrista ainda é um principiante, é a rainha, por um simples motivo - essa 
+peça pode ser movida por todo o tabuleiro, e em qualquer direção e por quantas 
+casas quiser, claro, desde que não tenha peças adversárias em seu caminho. 
+Entretanto, a movimentação da rainha deve ser feita de maneira coerente, pois 
+por se tratar de uma das peças mais importantes do jogo, perdê-la muitas vezes 
+pode significar uma possível derrota. Claro que, existem casos no qual o jogador 
+é obrigado a sacrificar a rainha, mas nesses casos a partida já está 80% ganha, 
+caso contrário, faça de tudo para permanecer com a sua rainha.
+	
+DICA 10
+	
+Embora os peões sejam as peças com o valor mais baixo dentre todas as 
+outras, é também uma das peças mais importantes, afinal, são eles que recebem 
+sempre os primeiros ataques do seu adversário. A movimentação dos peões 
+poderá fazer com que você possa vir atacar com qualidade, ou até mesmo abrir 
+a sua defesa, de modo que peças importantes para o jogo fiquem expostas. 
+Faça sempre o possível para perder o menor número de peões possível.
+	
+DICA 11
+	
+Juntamente com o time de peças poderosas, junta-se a essa seleção a 
+Torre. Ao início de qualquer partida, a sua presença no tabuleiro serve apenas 
+para preencher espaço, afinal, ela só pode movimentar-se em quatro direções, 
+para frente, para trás, direita e esquerda, diagonal nem pensar. Entretanto, com 
+a torre é possível fazer uma jogada de suma importância, o roque, jogada na 
+qual a torre e o rei trocam de lugar, dando a possibilidade de uma maior defesa 
+para o rei.
+	
+DICA 12
+	
+O cavalo é uma das peças mais curiosas do jogo. Sua real virtude no jogo 
+se resume logo no início da partida, pois depois que o tabuleiro começa a contar 
+com menos peças, fica difícil para o jogador apanhar alguma peça adversária 
+com o cavalo. Por isso, leve o seu cavalo para o meio do tabuleiro o quanto 
+antes, pois ele pode abrir um bom caminho na defesa adversário, desde que 
+usados com inteligência.
+	
+DICA 13
+	
+Pelo fato de poder se movimentar apenas na diagonal, o bispo é também 
+uma das principais peças do tabuleiro, pois em determinados casos o adversário 
+pode ter aberto a sua defesa e não se deu conta de que o seu bispo está 
+preparado para um ataque, no entanto, assim como o cavalo, é praticamente 
+impossível chegar ao xeque-mate com apenas um bispo, afinal, seu movimento 
+é limitado, chegue ao final do jogo com seus dois bispos e os dois cavalos e 
+certamente dará muito trabalho para o seu oponente.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+6
+3. OBJETIVO
+	
+O objetivo do jogo de xadrez é muito simples. O enxadrista precisa 
+movimentar suas peças de maneira tal, que ele consiga deixar o rei adversário sem 
+saída; fazendo isso, o jogo chega ao seu final. Obviamente que, os movimentos 
+para se chegar a uma situação de deixar o rei do oponente em xeque, não são 
+aleatórios, grandes enxadristas desenvolvem técnicas que mesclam estratégia 
+e algumas táticas para chegar a tal ponto do jogo.
+	
+Os movimentos das peças têm que acontecer com uma tática, um plano 
+de movimento bem estruturado. Para se chegar ao xeque-mate, não é preciso 
+capturar o maior número de peças do adversário, basta bolar uma tática precisa 
+para cercar o rei inimigo, de maneira que o seu adversário não tenha para onde 
+movimentá-lo. Ou seja, para dar um xeque e acabar com o jogo, o rei adversário 
+não pode ter rotas de fuga. A partir do momento que o rei não tiver mais como 
+se defender, estará acabado o jogo e o principal objetivo terá sido alcançado.
+De maneira muito eficaz, para se chegar ao xeque-mate, o mais indicado é 
+atacar com peças maiores, ou seja, peças que possuem maior poder dentro do 
+tabuleiro, sendo elas a rainha e a torre, por exemplo.
+Durante uma partida de Xadrez, é muito importante que o jogador tome o 
+máximo de cuidado para não perder peças de relativa importância, tais como 
+a rainha, o bispo, o cavalo e a torre, pois são elas as responsáveis pelos mais 
+diversos tipos de xeque-mate que podem ser feitos no Xadrez.
+Existem várias táticas para chegar ao xeque-mate, utilizando uma combinação 
+de bispo e cavalo, os dois bispos, cavalo e torre, etc. Porém isso varia de 
+jogador para jogador. Mas no fim das contas, independente da tática usada, 
+independente se você perdeu muitas peças ou se capturou muitas peças, o fim 
+do jogo é só um, o Xeque-Mate.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+7
+4. TABULEIRO
+	
+O tabuleiro de xadrez conta com 64 casas distribuídas em 8 colunas 
+verticais e 8 fileiras horizontais, cada uma com 8 casas. As casas são 
+alternadamente escuras e claras. A primeira casa no extremo esquerdo do 
+tabuleiro deve ser uma casa preta e a última casa no extremo direito, uma casa 
+branca. Cada fileira é designada por uma letra (a a h), enquanto as colunas são 
+designadas por um número (1 a 8). Dessa forma cada casa é designada pela 
+letra e número correspondentes a sua coluna e fileira (a1, b6, f5, etc.). Esse é o 
+sistema padrão de notação em competições oficiais.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+8
+5. PEÇAS
+	
+Cada jogador possui 16 peças, também divididas em claras e escuras. 
+As peças são, por ordem de valor:
+	
+Observação: Alguns enxadristas não consideram os peões como peças. 
+Os valores das peças também podem variar, inclusive de acordo com a posição 
+que a peça ocupa no tabuleiro.
+	
+No início das partidas, as peças são distribuídas no tabuleiro da seguinte 
+forma: as peças brancas são posicionadas na fileira 1, protegidas pela fileira 
+de peões em 2, enquanto as peças pretas ficam na fileira 8, e seus peões na 7. 
+Observe abaixo:
+	
+Os iniciantes geralmente confundem a posição do Rei e da Dama, mas 
+para facilitar, basta lembrar que a Dama sempre inicia a partida ocupando a 
+casa da mesma cor (Dama branca na casa branca, Dama preta na casa preta). 
+Portanto, a Dama branca ocupa a casa d1, enquanto a Dama preta ocupa a
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+9
+casa d8. Essa configuração é usada para evitar que o Rei fique sob ataque logo 
+na abertura, como aconteceria caso a Dama adversária estivesse posicionada 
+na mesma coluna.
+	
+O tabuleiro é divido então em alas, a ala da Dama e a ala do Rei, e as 
+peças recebem o nome de acordo com a sua ala. As torres em a1 e a8, por 
+exemplo, são chamadas Torre-Dama, ao passo que as torres em h1 e h8, Torre-
+Rei. O mesmo acontece com as demais peças, e inclusive com os peões, que 
+recebem o nome de acordo com a peça que protegem. O peão em e2 é o peão-
+Rei, o peão em d2, peão-Dama, o peão em f2 é chamado peão-Bispo-Rei e o 
+peão em c2, peão-Bispo-Dama, e assim por diante.
+5.1 MOVIMENTO E CAPTURA DAS PEÇAS
+REI
+Pode mover-se em qualquer direção, porém 
+apenas uma casa por vez.
+DAMA
+Assim como o Rei, pode mover-se em qualquer 
+direção (vertical, horizontal e diagonal), porém 
+quantas casas quiser, desde que estejam 
+livres.
+TORRE
+Move-se em linha reta, tanto na vertical quanto 
+na horizontal, quantas casas quiser.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+10
+BISPO
+Move-se na diagonal, quantas casas quiser. 
+O Bispo que iniciar a partida em uma casa 
+branca 
+somente 
+poderá 
+transitar 
+pelas 
+brancas, enquanto o Bispo que inicia em uma 
+casa preta somente poderá transitar pelas 
+casas pretas.
+CAVALO
+É a única peça que pode saltar sobre as 
+outras peças do tabuleiro, sejam elas amigas 
+ou inimigas. O movimento executado pelo 
+Cavalo é conhecido por “um-dois” ou “em 
+L”. Ele pode andar duas casas na horizontal 
+e uma na vertical, ou duas na vertical e uma 
+na horizontal, uma na horizontal e duas na 
+vertical, e assim por diante. Quando a casa de 
+saída do Cavalo for escura, a casa de chegada 
+será clara, e vice-versa.
+PEÃO
+Move-se sempre uma casa para frente, exceto 
+no primeiro movimento, quando pode mover-
+se duas casas. O peão é a única peça que 
+não pode retroceder, e também a única que 
+efetua a captura com um movimento diferente 
+do utilizado para avançar no tabuleiro. O peão 
+pode capturar as peças que estejam uma fileira 
+acima, mas nas colunas adjacentes a sua.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+11
+6. O RELÓGIO
+	
+Um relógio de xadrez é composto na verdade por dois relógios, pois 
+quando um jogador termina a sua jogada, isso aciona o relógio do adversário, 
+assim sucessivamente. O objetivo de jogar utilizando-se um relógio é fazer 
+com que um jogador não fique “eternamente” pensando, uma vez que quem 
+ultrapassa o tempo limite, perde o jogo. O relógio também possui uma extrema 
+importância pois “força” a mente a raciocinar e calcular as probabilidades de 
+maneira mais rápida, o que permite desenvolver uma capacidade cerebral 
+fantástica.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+12
+7. MOVIMENTOS EXTRAORDINÁRIOS
+	
+TOMADA EN PASSANT 
+	
+É uma captura especial realizada pelo peão, que ocorre quando um peão 
+adversário avança duas casas no seu primeiro movimento na tentativa de evitar 
+um confronto com um peão avançado (que se encontra na fileira 5, no caso das 
+brancas, ou na fileira 4, no caso da pretas). O peão que efetua a captura passa 
+a ocupar a casa na qual o peão capturado se encontraria caso tivesse andado 
+apenas 1 casa. 
+	
+Observe abaixo:
+	
+PROMOÇÃO DO PEÃO
+	
+Ocorre quando um peão alcança a última casa do tabuleiro. O peão que 
+alcançar a última casa é imediatamente promovido, podendo transformar-se em 
+qualquer peça à escolha do jogador, à exceção do Rei. Portanto é possível que 
+em uma partida exista mais de uma Dama ou três Torres, três Cavalos, etc.
+Figura 1
+Figura 2
+Figura 3
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+13
+	
+ROQUE 
+	
+É um lance que ocorre entre o Rei e uma das Torres, com a função de 
+proteger o Rei. No roque o Rei move-se saltando uma casa em direção à Torre, 
+enquanto a Torre move-se para a casa que o Rei acaba de saltar. Para que esse 
+lance seja possível, algumas condições devem ser satisfeitas:
+- esse deve ser o primeiro movimento das peças envolvidas;
+- o Rei não pode estar em xeque;
+- nenhuma das casas pelas quais o Rei passar ou ficar pode estar sob ataque;
+- as casas entre o Rei e a Torre devem estar desocupadas.
+	
+O roque apresenta duas variantes: o roque grande e o roque pequeno. 
+No roque pequeno, o Rei movimenta-se duas casas em direção à Torre do 
+Rei, ou seja, ele vai de e1 para g1, enquanto a Torre vai para f1. No roque 
+grande, o Rei move-se em direção à Torre da Dama, de e1 para c1, e a Torre, 
+consequentemente, vai para d1.
+ 
+Roque Grande
+Roque Pequeno
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+14
+8. FASES DO JOGO
+	
+VITÓRIA 
+	
+Para obter a vitória no jogo de xadrez, é preciso por o Rei adversário em 
+uma posição na qual seja impossível escapar, ou seja, dar um xeque-mate. O 
+jogador que fizer isso primeiro vence a partida. No entanto também é possível 
+vencer sem que o xeque-mate seja dado, caso o adversário perceba que o 
+mate é iminente, pode escolher abandonar a partida, entregando a vitória ao 
+oponente.
+	
+Existem três formas de escapar de um xeque:
+- Capturar a peça atacante;
+- Interpor uma peça entre o Rei e a peça atacante;
+- Mover o Rei para uma casa que não esteja sob ataque.
+Porém, se nenhum desses movimentos puder ser efetuado, então o xeque-mate 
+é concretizado e a partida termina.
+	
+Ao contrário do que muitos jogadores acreditam, não é necessário 
+anunciar o xeque, e em algumas modalidades, como em partidas blitz, é 
+desaconselhado. É obrigação do jogador perceber que seu Rei está sendo 
+ameaçado.
+	
+EMPATE
+	
+Uma partida de xadrez pode terminar em empate, dadas algumas 
+situações:
+	
+Rei Afogado: nessa situação o Rei encontra-se encurralado em uma 
+posição da qual não consegue sair, pois nenhum lance é legal. É semelhante 
+ao xeque-mate, exceto pelo Rei não estar em xeque. Esse lance é controverso 
+na história do xadrez, tendo sido considerado por momentos como vitória do 
+jogador cujo Rei termina afogado, em outros momentos visto como derrota, e 
+hoje, finalmente, como empate.
+	
+Xeque perpétuo: não há uma regra que defina o xeque perpétuo como 
+empate, no entanto a maioria dos jogadores concorda. Como o próprio nome 
+sugere, o xeque perpétuo ocorre quando um jogador realiza uma série de xeques 
+sem que seja possível dar um mate. Pelas regras oficiais, esse movimento 
+resultará em empate pela Regra das Três Posições ou pela Regra dos 50 
+Movimentos.
+	
+Regra das Três Posições: segundo as regras oficiais estabelecidas pela 
+FIDE, um jogador pode reclamar o empate quando uma posição for repetida
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+15
+pela terceira vez em um jogo. A reclamação deve ser feita na vez do jogador, e 
+as possibilidades de movimento tem que ser as mesmas para todas as peças no 
+tabuleiro. Se na primeira posição existia a possibilidade de roque e agora não há 
+mais, então não é a mesma posição.
+Regra dos 50 Movimentos: outra regulamentação da FIDE institui que o jogador 
+pode reclamar o empate se os 50 últimos lances de cada jogador foram feitos 
+sem que nenhuma peça fosse capturada ou que houvesse movimento de 
+qualquer peão.
+Insuficiência material: é considerado empate caso os jogadores não tenham 
+peças suficientes para dar o xeque-mate. O mínimo de peças considerado 
+suficiente é de a) Rei e Dama; b) Rei e Torre; c) Rei e dois Bispos; d) Rei, Bispo 
+e Cavalo. Também é possível ganhar a partida com o Rei e um peão, porém 
+ele deve ser promovido a Dama ou Torre para efetuar o xeque-mate e evitar o 
+empate.
+Comum Acordo: um jogador pode oferecer o empate, na sua vez, e a partida 
+se dá por encerrada caso o oponente aceite. Se o oponente recusar a oferta de 
+empate, a partida segue, sendo que o jogador a oferecer o empate não pode 
+repetir a oferta, tampouco pode o oponente aceitar a oferta em uma jogada 
+posterior.
+	
+LANCES IRREGULARES 
+	
+Dentre os lances considerados irregulares, que vão contra as regras do 
+jogo de xadrez, o mais grave é colocar seu próprio Rei em xeque. O objetivo do 
+jogo de xadrez tem duas faces; atacar o Rei adversário E proteger seu próprio 
+Rei, portanto é absolutamente proibido fazer qualquer lance que vá contra esse 
+objetivo.
+	
+No xadrez os lances irregulares são proibidos, de forma que o jogador 
+que cometer alguma dessas infrações deve corrigir o lance ilegal, retornando 
+à posição anterior e fazendo um novo lance. Isso não significa que é permitido 
+executar lances irregulares indiscriminadamente, uma vez que a jogada é 
+corrigida e o jogador tem a chance de executar outro movimento. Um jogador 
+que cometer três infrações é considerado perdedor da partida imediatamente.
+	
+São considerados lances irregulares ou ilegais:
+• Fazer um lance com uma peça em um movimento não-válido para a mesma, 
+ou seja, mover-se em linha reta com o Bispo ou em diagonal com o Cavalo.
+• Estando o Rei em xeque, fazer um movimento em que ele permaneça em 
+xeque.
+• Fazer qualquer movimento, seja com o Rei ou outra peça, que coloque o Rei 
+em posição de xeque.
+	
+É importante lembrar que a correção do movimento deve ser feita com a
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+16
+mesma peça que foi movida na execução do lance irregular. Caso o jogador tenha 
+movido o Cavalo e, dessa forma, colocado seu próprio Rei em xeque, ele deve 
+retornar o Cavalo à posição anterior e fazer outro lance com o mesmo Cavalo, 
+de modo que seu Rei esteja protegido. Somente se não houver movimento legal 
+a ser executado com a peça em questão, o jogador tem o direito de mover outra 
+peça do tabuleiro.
+	
+ETIQUETA DO XADREZ
+	
+O ato de mover as peças no xadrez apresenta certas regras, algumas que 
+não necessariamente influenciam o resultado do jogo, mas que funcionam como 
+um tipo de manual de etiqueta.
+	
+Uma dessas regras, que consta nas regras oficiais da FIDE (4.1), diz que 
+cada lance deve ser feito com uma mão só. Até mesmo o simples ato de tocar 
+em uma peça é considerado parte do lance, o que significa que ao tocar em 
+uma peça no tabuleiro, você deve usá-la na jogada. Para arrumar uma peça no 
+tabuleiro, dentro da sua própria casa, é necessário dar um aviso. A expressão 
+mais comum é ‘J’adoube’, do francês, mas aceita-se também o ‘I adjust’, do 
+inglês, e ‘Ajuste’, em português. Derrubar ou deslocar as peças, mesmo que 
+acidentalmente, é passível de penalidade.
+	
+Quando em competições, as partidas de xadrez são jogadas com o uso 
+de relógios. Os lances são considerados completos apenas quando o jogador 
+para seu relógio, acionando o relógio do adversário. Como o manuseio do relógio 
+faz parte do lance, ele deve ser parado com a mesma mão utilizada para mover 
+as peças no tabuleiro. O mau manuseio do relógio é digno de penalidade, seja 
+por derrubá-lo, acioná-lo com muita força ou até mesmo segurá-lo.
+	
+Por ser um jogo que exige concentração, os jogadores permanecem em 
+silêncio praticamente durante toda partida. O silêncio só é quebrado em casos 
+como o citado acima, quando o jogador anuncia o ajuste das peças, ou para 
+pedir empate. Como mencionado anteriormente, o jogador deve pedir pelo 
+empate na sua vez, e caso o pedido seja recusado pelo oponente, não pode ser 
+feito novamente. Essa regra assegura a tranquilidade da partida, impedindo um 
+jogador de ficar importunando o adversário com constantes pedidos de empate.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+17
+9. ABERTURAS
+	
+A abertura é a primeira fase do jogo de xadrez, e pode, efetivamente, 
+decidir o resultado da partida: um erro na abertura pode levar a falhas 
+irremediáveis, como peças posicionadas longe do foco da ação do jogo, inúteis 
+portanto, até a criação de vulnerabilidades que, exploradas corretamente pelo 
+oponente, levam a uma derrota acachapante. Mas a abertura é também um 
+assunto árido e extenso. Não são incomuns estudos de aberturas que levam a 
+mais de 30 lances, partindo da posição inicial. Para o jogador novato, a enorme 
+quantia de teoria de aberturas é intimidadora e, na verdade, paralisante.
+9.1 PRINCÍPIOS DAS ABERTURAS
+	
+Quando jogar uma abertura, devem-se:
+1. Fazer poucos lances de peão, um ou dois devem ser suficientes;
+2. Movimentar cavalos e bispos antes de torres e dama;
+3. Levar as peças para as casas em que são mais efetivas;
+4. Colocar o rei em uma posição protegida;
+5. Evitar fazer vários lances com a mesma peça;
+6. Desenvolver o máximo de peças, de preferência todas elas, nas 10 primeiras 
+jogadas;
+7. Evitar bloquear as próprias peças.
+	
+ETIQUETA DO XADREZ
+	
+No início da partida, os jogadores podem movimentar qualquer dos oito 
+peões e os dois cavalos. Estas são as únicas opções no início da partida, por 
+que os peões bloqueiam todas as outras peças. É preciso, portanto, movimentar 
+os peões de modo a libertar as peças (bispos, dama e torres), e já buscando o 
+controle do centro do tabuleiro.
+Para isto, normalmente move-se pelo menos dois peões, o peão do rei (coluna 
+“e”) e o peão da dama (coluna “d”). Também são usados em algumas aberturas 
+os peões dos bispos (colunas “c” e “f”), embora o movimento de um peão em 
+frente a um bispo não o libere.
+ 	
+As melhores casas para os peões são as casas centrais, nas colunas “c”, 
+“d”, “e”, e “f”.
+	
+BISPOS E CAVALOS
+	
+No início da partida, os bispos e cavalos geralmente gozam de mobilidade 
+aumentada. Enquanto os peões geralmente só se movem uma casa, e as torres 
+tem seus movimentos tolhidos pelas próprias peças, cavalos conseguem se 
+deslocar para qualquer lado do tabuleiro rapidamente, e os bispos também são
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+18
+capazes de fazer pressão e controlar as diagonais principais do tabuleiro.
+	
+Normalmente os jogadores procuram apoiar seus peões centrais ou 
+atacar peões vulneráveis usando bispos e cavalos. Para os bispos, as melhores 
+casas estão nas diagonais principais (“a1” a “h8” e “a8” a “h1”), onde é maior 
+seu alcance, e onde eles exercem pressão sobre peões que normalmente 
+são frágeis. Outras diagonais importantes são as imediatamente ao lado das 
+diagonais principais, da mesma cor ou da cor diversa da diagonal principal.
+	
+As melhores casas para os bispos estão nas diagonais principais ou 
+próximas delas, e os cavalos devem ficar os mais centralizados possível.
+	
+TORRES E DAMA
+	
+A Dama deve ficar protegida no início do jogo. Uma dama levada 
+prematuramente ao centro do tabuleiro pode significar perda de tempo e de 
+oportunidades de desenvolvimento, já que pode ser espantada facilmente por 
+peças menores. Tarrasch dizia que “todo ganho de peão na abertura com a 
+Dama é um erro”. As melhores posições para a Dama, no início do jogo, são 
+atrás, apoiando bispos e cavalos.
+	
+As Torres são as peças mais difíceis de movimentar no início da partida. 
+Normalmente elas só são movimentadas depois de bispos e cavalos, e se 
+limitam a ficar na mesma linha, apenas procurando as colunas centrais.
+	
+A dama deve ficar junto com as torres, atrás dos peões e peças, apoiando-
+as.
+	
+REI
+	
+O rei, no início do jogo, é só um estorvo. É, durante toda a partida, a 
+peça mais delicada, e para ele se dirigem todos os ataques do adversário. É 
+importante tirar o rei do centro do tabuleiro o quanto antes, colocando-o em 
+uma posição protegida, guardado por peões e algumas peças.
+	
+A maneira de conseguir fazer isto é rocando. O roque é um lance que 
+realiza muito para o desenvolvimento da partida: traz para o jogo uma das torres, 
+e protege o rei. Entretanto, o roque não pode ser feito antes do terceiro lance, 
+já que há pelo menos um bispo e um cavalo no meio do caminho, que precisam 
+ser retirados para que o roque seja executado.
+	
+O rei deve ser protegido, de preferência com um roque, de preferência 
+com o roque pequeno.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+19
+9.2 POSIÇÕES IDEAIS
+	
+Seguindo estas orientações, a posição que o jogador deve atingir está 
+ilustrada no diagrama acima.
+	
+Os bispos estão protegidos e ao mesmo tempo controlam algumas 
+diagonais importantes, os cavalos estão centralizados e protegendo os peões 
+centrais, a dama está apoiando o máximo de peças sem se expor, as torres 
+estão conectadas e prontas a responder a qualquer ameaça, e o rei está em 
+uma posição lateral, protegido por uma barreira de peões e um cavalo. A 
+partir desta posição o jogador, por ter o controle do centro (os peões estão 
+fiscalizando as casas “c5”, “d5”, “e5” e “f5”, além de ocuparem as casas “d4” 
+e “e4”), tem liberdade máxima para coordenar um ataque a qualquer ala do 
+tabuleiro, buscando o rei do outro time.
+	
+Outra posição utilizada com frequência é a dos fianquetos, com os bispos 
+exercendo um controle à distância. Neste caso, o controle do centro nem sempre 
+é exercido diretamente, e em alguns casos ele é mesmo abandonado, em troca 
+de um controle à distância e de um avanço pelos flancos.
+9.3 ABERTURAS E DEFESAS POPULARES
+	
+As aberturas podem ser classificadas em vários tipos:
+1. Aberturas do peão do rei ou “abertas” - 1.e4
+2. Aberturas do peão da dama ou “fechadas” - 1.d4
+3. Aberturas irregulares
+	
+As aberturas do peão do rei podem ser classificadas conforme a resposta 
+das pretas:
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+20
+1. As pretas respondem com 1...e5: Abertura do Centro, Abertura Escocesa, 
+Giuoco Piano ou Italiana, Ruy López ou Espanhola, Abertura dos Dois Cavalos, 
+Ataque Max Lange, Abertura dos quatro cavalos, Abertura dos Três cavalos, 
+Defesa Philidor, Defesa Petroff, Contragambito Greco, Contragambito do Peão 
+da Dama, Abertura Ponziani, Abertura do Bispo, Abertura Vienense, Gambito do 
+Rei, Gambito Nórdico, Gambito Escocês, e Gambito Evans;
+2. As pretas não respondem com 1...e5: Defesa Francesa, Defesa Caro-Kann, 
+Defesa Siciliana e Defesa Alekhine.
+	
+Normalmente o jogador que começa a partida com “1.d4” terá de decidir 
+se jogará o Gambito da Dama ou não. Desta forma as aberturas do peão da 
+Dama são classificadas da seguinte forma:
+1. Gambito da Dama Aceito;
+2. Gambito da Dama Recusado;
+3. Aberturas sem Gambito da Dama.
+9.4 ABERTURA ITALIANA
+	
+Abertura Italiana: 1.e4 e5 2.Cf3 Cc6 3.Bc4
+	
+A abertura italiana é uma das mais antigas aberturas de xadrez, tendo 
+sido inventada provavelmente no século XVII, quando ganhou popularidade, 
+popularidade está que avançou até o século XIX, mas atualmente está sendo 
+suplantada pela abertura Ruy López. O lance distintivo desta abertura, “3.Bc4”, 
+ataca diretamente o peão débil das pretas da casa f7, mas as pretas têm a sua 
+disposição um arsenal de técnicas de defesa que tornam esta abertura menos 
+perigosa às pretas que a abertura espanhola. Ainda assim, a partida italiana 
+geralmente leva a posições abertas e a jogos agressivos. Apesar de ser tão 
+antiga, ainda é vista em partidas de todos os níveis, e é bastante popular entre
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+21
+jogadores de clubes.
+9.5 GIUOCO PIANO
+	
+Giuoco Piano: 1.e4 e5 2.Cf3 Cc6 3.Bc4 Bc5
+	
+A abertura Giuoco Piano (expressão italiana que significa “plano de jogo”) 
+começa com o lance das pretas 3...Bc5. É uma abertura popular até hoje, apesar 
+de ser uma das mais antigas. A partida mais antiga que se tem registro desta 
+abertura é de 1610!
+	
+A partir deste lance das pretas, as brancas têm várias opções, as mais 
+comuns são a linha principal do Giuoco Piano, a variante Giuoco Pianissimo 
+(“jogo tranquilíssimo”), e o Gambito Evans.
+A linha principal começa com 4.c3, um lance preparando 5.d4, acrescentando 
+uma ameaça ao peão preto de e5. As pretas podem responder com 4...De7, 
+defendendo o peão, ou podem iniciar um contra-ataque, jogando 4...Cf6.
+	
+O Giuoco Pianissimo começa com 4.d3, defendendo e4, levando a uma 
+disputa pelo centro do tabuleiro sem muita emoção.
+	
+O Gambito Evans, temido no século XIX, e revitalizado com as partidas 
+do campeão Garry Kasparov, estabelece uma luta agressiva pelo centro, 
+começando com um sacrifício de peão. O lance-chave das brancas é 4.b4, 
+atacando o bispo das pretas. Se as pretas tomarem o bispo com 4...Bxb4 as 
+brancas respondem com 5.c3, preparando 6.d4. O plano das brancas é lançar 
+um ataque à f7.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+22
+9.6 DEFESA DOS DOIS CAVALOS
+	
+Defesa dos dois cavalos: 1.e4 e5 2.Cf3 Cc6 3.Bc4 Cf6
+	
+A defesa dos dois cavalos começa com a resposta das pretas 3...Cf6. 
+Comparada a outras respostas das pretas, o lance Cf6 é o que mais combate 
+pela iniciativa, já que ataca imediatamente o peão branco em e4.
+As brancas têm várias respostas aceitáveis, incluindo 4.d3, 4.d4, e a complexa 
+4.Cg5, que geralmente é rejeitada como lance de jogador novato. Várias linhas 
+de jogo divertidas e excitantes -- apesar de raramente serem seguidas por 
+jogadores fortes -- podem começar depois do último lance, como o Ataque 
+Fegatello e a Variante Traxler.
+	
+O ataque Fegatello ou Fígado Frito é executado com os seguintes lances: 
+1. e4 e5 2. Cf3 Cc6 3. Bc4 Cf6 4. Cg5 d5 5. exd5 Cxd5 6. Cxf7 Rxf7 7. Df3+. As
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+23
+brancas sacrificam um cavalo em troca de um ataque direto ao rei preto, no seu 
+ponto mais frágil, o peão em f7 (o “fígado”).
+	
+A variante Traxler, também chamada de Wilkes-Barre, começa com 
+os lances 1. e4 e5 2. Cf3 Cc6 3. Bc4 Cf6 4. Cg5 Bc5, as pretas ignoram 
+completamente a ameaça a f7 e partem para um ataque contra f2. Não é linha a 
+ser seguida por quem desmaia ao ver sangue.
+9.7 DEFESA HÚNGARA
+	
+Defesa Húngara: 1.e4 e5 2.Cf3 Cc6 3.Bc4 Be7
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+24
+	
+Se as pretas respondem com 3...Be7, entramos na Defesa Húngara, a 
+escolhida dos jogadores que preferem evitar as complicações técnicas das 
+outras variações.
+9.8 ABERTURA ESPANHOLA
+	
+Abertura Espanhola: 1.e4 e5 2.Cf3 Cc6 3.Bb5
+	
+A abertura espanhola é também conhecida como Ruy López, em 
+homenagem ao bispo espanhol Ruy López de Segura, que analisou esta abertura 
+em um dos primeiros livros de xadrez que se tem notícia. Apesar de ter 500 
+anos de idade, ela é a mais popular abertura, jogada em todos os níveis. Tanta 
+popularidade rendeu também uma montanha de teoria, de defesas, e de contra-
+ataques. Abordaremos aqui as três respostas mais comuns, a Defesa Morphy, 
+a Defesa Steinitz e a Defesa Berlinesa.
+	
+A abertura começa com os lances 1. e4 e5 2. Cf3 Cc6 3. Bb5, levando à 
+posição do diagrama.
+	
+Entre as defesas comuns, existe a defesa Bird, a defesa Schliemann, a 
+Defesa Morphy, a Defesa Steinitz e a Defesa Berlinesa.
+	
+A Defesa Bird começa com 3...Cd4 4.Cxd4 exd4, e pode ser usada para 
+surpreender um jogador de brancas que esteja despreparado, mas a posição 
+das brancas é superior devido a uma melhor estrutura de peões.
+	
+A Defesa Schliemann ou Gambito Jaenish é um gambito jogado pelas 
+pretas, começando com 3...f5. É popular entre jogadores amadores, por que 
+as brancas precisam estar preparadas para se defender deste gambito. Um 
+jogador tático neste nível vai surpreender o jogador das brancas e tirar alguma 
+vantagem, mas é pouco provável que este gambito faça algum sucesso entre 
+jogadores de nível mais alto. Só para constar, a resposta correta é 4.Cc3, mas
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+25
+mesmo assim o jogo segue complicado e cheio de possibilidades táticas para 
+as pretas.
+9.9 DEFESA STEINITZ
+	
+Defesa Steinitz: 1.e4 e5 2.Cf3 Cc6 3.Bb5 d6
+	
+A defesa Steinitz leva o nome do primeiro campeão mundial de xadrez, 
+Wilhelm Steinitz, que popularizou a abertura no século XIX. É uma defesa sólida, 
+embora deixe as pretas em posição passiva.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+26
+9.10 DEFESA SICILIANA
+	
+Defesa Siciliana: 1.e4 c5
+	
+A Defesa Siciliana é a resposta mais popular das pretas ao lance “1.e4”, 
+principalmente entre enxadristas mais fortes. Ela permite às pretas a luta pelo 
+centro, atacando diretamente a casa “d4”, ao mesmo tempo que evita as 
+posições simétricas que surgem a partir de “1...e5”.
+	
+Por ser tão popular, a defesa Siciliana também tem muitas variantes, 
+todas elas bastante estudadas. A linha principal começa com a resposta 2...
+d6: 1.e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3, onde a resposta das pretas 
+define as principais variantes:
+• 5...a6 : Variante Najdorf
+• 5...Cc6 : Variante Clássica
+• 5...e6 : Variante Scheveningen
+• 5...g6 : Variante Dragão
+	
+Além destas, são também comuns o Gambito Smith-Morra, a Variante 
+Alapin, a Variante Sveshnikov, a Dragão Acelerado e a Variante Scheveningen.
+	
+O Gambito Smith-Morra é popular entre jogadores de clubes, e começa 
+com 1.e4 c5 2.d4 cxd4 3.c3. As brancas oferecem mais um peão para as pretas, 
+e, se elas tomarem com 3...dxc3, a resposta é 4.Cxc3, que coloca o cavalo em 
+jogo, desenvolvendo uma peça, e dá início a um perigoso contra-ataque.
+	
+A Variante Alapin é atingida se as brancas jogarem 2.c3. Ela oferece apoio 
+para o avanço do peão para “d4”, mas tira a casa “c3” do cavalo.
+	
+Se as pretas jogarem e5, está configurada a Variante Sveshnikov, como, 
+por exemplo, em 1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 e5. Esta 
+variante foi popularizada por Evgeny Sveshnikov na década de 70, e oferece um 
+jogo arriscado para as pretas, mas também muitos planos para a vitória. É uma
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+27
+das preferidas por jogadores mais fortes.
+	
+A variante Scheveningen é um sistema popular, que pretende dar às pretas 
+uma posição ao mesmo tempo sólida e flexível, com muitas oportunidades de 
+contra-jogo na ala da dama. Entretanto, ela dá as brancas o domínio do centro, e 
+muitos planos de ataque. Uma das maneiras de chegar à variante Scheveningen 
+é com a seguinte ordem de movimentos: 1.e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 
+5.Cc3 e6
+9.11 VARIANTE FECHADA
+	
+Variante Fechada: 1.e4 c5 2.Cc3
+	
+	
+A Siciliana fechada é atingida pelo lance 2.Cc3. As brancas mantêm o 
+centro fechado, e preparam-se para atacar de fianqueto (pelos flancos) com 
+3.g3, ou partem para o Ataque Grand Prix, jogando 3.f4.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+28
+9.12 VARIANTE CLÁSSICA
+	
+Variante Clássica: 5...Cc6
+	
+A variante clássica da Siciliana pode ser atingida de várias formas, como, 
+por exemplo, 1. e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 Cc6. É uma variante 
+que traz mais vantagens às pretas, e as brancas também podem prosseguir o 
+jogo com vários ataques, como o Ataque Richter-Rauzer e o Ataque Sozin.
+9.13 DEFESA FRANCESA
+	
+Na defesa Francesa, 1.e4 e6, as pretas permitem que as brancas dominem 
+o centro, e limitam a ação do bispo da dama, mas em compensação evitam 
+todas as táticas que visam explorar a vulnerabilidade do peão em f7. Ao mesmo 
+tempo, permitem às pretas uma atividade extra na ala da dama, e contra jogo 
+no centro.
+A continuação típica é 2.d4 d5, que coloca pressão imediata no peão e4 das 
+brancas, e obriga as mesmas a decidirem como lidarão com esta pressão. A 
+maneira que as brancas irão prosseguir dá origem a várias linhas, entre as mais 
+comuns estão a Variante das Trocas, a Variante Avançada, a Variante Tarrasch, 
+a Variante Winawer e a Variante Clássica.
+9.14 DEFESA CARO-KANN
+	
+A Defesa Caro-Kann é uma boa alternativa para quem busca evitar as 
+principais linhas, 1.e4 c6 2.d4 d5, atacando diretamente o peão-e. A Defesa 
+Caro-Kann tem como características o desenvolvimento rápido da Dama, mas 
+luta contra dois Bispos com caminhos livres.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+29
+10. SISTEMA ALGÉBRICO
+10.1 NOTAÇÃO ENXADRÍSTICA
+	
+Os sistemas de notação de xadrez foram desenvolvidos ao longo do 
+tempo devido à necessidade de anotar as jogadas de modo rápido e preciso, 
+fosse para estudar lances de uma partida depois de terminada, fosse para 
+explicar jogadas.
+Apesar da notação descritiva ser encontrada em muitos bons livros de teoria 
+enxadrística, a notação algébrica, que segue os princípios estabelecidos por 
+Stamma, é a forma aceita pela FIDE para os campeonatos e torneios oficiais. Além 
+de ser mais fácil, com o uso das estatuetas no lugar das letras que simbolizam 
+as peças, é uma notação internacional, sendo entendida por jogadores em todo 
+o mundo.
+10.2 NOTAÇÃO ALGÉBRICA
+	
+O sistema de notação algébrica é o mais utilizado e aceito em competições 
+oficiais, sendo o sistema adotado pela FIDE. Esse sistema substituiu a notação 
+descritiva a partir de 1970, apesar de ter sido idealizado séculos antes por Phillip 
+Stamma, em 1737. O sistema só não foi implantado antes devido à influência 
+de Philidor, que derrotou Stamma em uma notável partida em 1747,  e cuja 
+abordagem era descritiva. Dessa forma a notação descritiva seguiu por um 
+longo período, até que o sistema de Stamma foi melhorado e passou a ser 
+adotado pelas organizações de xadrez pelo mundo.
+No sistema de notação algébrica as colunas são identificadas por letras (a a h), 
+enquanto as linhas recebem numeração (1 a 8). As peças são identificadas pela 
+sua inicial maiúscula, porém essas iniciais mudam de acordo com a língua do 
+jogador. Para evitar confusões devido à troca das iniciais das peças, é comum 
+em periódicos ou livros de xadrez que se use a estatueta correspondente. Em 
+português as peças são representadas da seguinte maneira:
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+30
+	
+• O Rei é representado pela letra R.
+	
+• A Rainha é representada pela letra D, de Dama, já que R significa Rei.
+	
+• A Torre é representada pela letra T.
+	
+• O Bispo é representado pela letra B.
+	
+• O Cavalo é representado pela letra C.
+	
+• Os peões não são representados pela letra inicial, sendo reconhecidos 
+pela falta dela. Em casos em que seja necessária a distinção, a coluna onde ele 
+se encontra é assinalada.
+	
+A notação algébrica comumente utilizada é a chamada abreviada, que 
+consiste na letra ou estatueta correspondente à peça a ser movida seguida 
+da casa para a qual ela está sendo deslocada. Observe o exemplo de partida 
+abaixo:
+	
+Significados:
+ 
+X
+e.p
+0-0
+0-0-0
++
+++ ou #
+(=)
+A letra ‘x’ entre a peça e a casa de destino significa que essa peça efetuou uma 
+captura.
+Sinaliza uma captura en passant, porém nem sempre é usado, uma vez que a 
+casa para a qual o peão é deslocado já é indicativo da captura en passant.
+Indica o roque pequeno.
+Indica o roque grande.
+O sinal ‘+’ ao lado da jogada significa um xeque.
+O sustenido ou dois sinais de adição significam um xeque-mate
+O sinal de igualdade entre parênteses é indicativo de uma oferta de empate.
+1. e4
+1...e5
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+31
+2. Cf3
+3. d4
+4. e5
+2...Cf6
+3...exd4
+4...Ce5
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+32
+5. Dxd4
+6. exd6
+7. Bg5
+5...d5
+6... Cxd6
+7...Cc6
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+33
+8. De3+
+9. Cbd2
+10. 0-0-0
+8...Be7
+9...0- 0
+10...Te8
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+34
+	
+	
+O fim do jogo é marcado 1-0 em caso de vitória das brancas, e 0-1 no 
+caso de vitória das negras. Em casos de empate, é anotado  ½-½.
+	
+A promoção do peão é indicada com a inicial da peça para qual ele será 
+promovido após o lance. Por exemplo, um peão que estava em c7 ao fazer o 
+movimento para c8 é promovido à Dama:
+	
+1. c8D ...
+	
+Também é comum ver outros símbolos junto aos lances. Essa pontuação 
+serve para fazer comentários quanto aos lances da partida. Veja o significado de 
+cada um deles na tabela abaixo:
+ 
+11. Rb1 (=)
+!
+!!
+?
+??
+!?
+?!
+∞
+±
+± (invertido)
++/=
+=/+
++-
+-+
+Boa jogada
+Excelente jogada
+Jogada ruim 
+Erro
+Jogada interessante
+Jogada duvidosa
+Jogada forçada
+Posição incerta
+Vantagem branca
+Vantagem negra
+Ligeira vantagem branca
+Ligeira vantagem negra
+Vantagem decisiva branca
+ Vantagem decisiva negra
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+35
+11. MATES BÁSICOS
+	
+Pela singularidade do jogo e infinitas opções de movimentos, é improvável 
+que haja no xadrez uma técnica comprovada que termine o jogo com a certeza 
+da vitória. Porém, quando se chega ao final do jogo, e há poucas peças no 
+tabuleiro, existem algumas técnicas certas para garantir a vitória. Aprenderemos 
+algumas agora.
+11.1 TORRE E REI X REI
+	
+Quando se alcança essa posição no tabuleiro, a vitória do jogador que 
+possui a torre de vantagem é certa. Porém é preciso treinar e repetir inúmeras 
+vezes o processo até que esteja gravado em sua mente, para depois apenas 
+repeti-lo quando necessário. O princípio para esta operação é o mesmo para 
+todos os mates básicos: o lado mais forte precisa conduzir o Rei adversário 
+para a lateral do tabuleiro. Iniciamos com uma posição aleatória, como ao lado. 
+Como você pode ver, as brancas estão com uma Torre de vantagem e precisam 
+pressionar o Rei preto a mover-se para a lateral do tabuleiro, deixando apenas 
+3 colunas disponíveis para o rei preto. Para isso devem ativar seu Rei, então 
+começam com:
+ 
+	
+1. Rd3+
+	
+Este lance faz com que as pretas saiam da coluna -E e decidam para 
+qual coluna devem se mover: a coluna-D ou a coluna-F. Como há mais casas 
+na coluna-D, a melhor reação é:
+	
+1... Rd5
+	
+Agora, as brancas precisam começar a empurrar o rei preto para cima ou 
+para o lado esquerdo, assim segue:
+	
+2. Rc3 Rc5
+	
+Nessa posição as brancas devem reduzir o espaço lateral do rei preto, 
+por isso jogam:
+	
+3. Td1
+	
+Com isso, o rei preto fica confinado às colunas a, b e c. As pretas não 
+têm escolha: ir para a esquerda ou para cima, então jogam:
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+36
+	
+3... Rb5
+	
+Agora é a hora de dar o primeiro xeque:
+	
+4.Td5+
+	
+As pretas atacam a torre branca, que deve ser protegida pelo rei na 
+sequência:
+	
+	
+4... Rc6 5. Rc4
+	
+Esse processo se repete:
+	
+5... Rb6 6. Td6+ Rc7 7. Rc5 Rb7 8. Td7+ Rc8 9. Rc6 Rb8
+	
+O que aconteceria se as pretas jogassem 6... Ra5? Teríamos 7. Tc6 
+forçando 7... Ra4 e chegando à 8. Ta6#
+	
+Agora o rei preto está confinado à 8ª linha. O objetivo agora é forçar o 
+rei preto a ir para a frente do rei branco e então colocar a torre na 8ª linha e dar 
+xeque-mate. Para isso, afastamos a torre: 
+	
+10. Te7
+	
+Se as pretas jogarem 10... Rc8 então as brancas jogam 11. Te8#, 
+vencendo a partida. Para evitar isso, as pretas jogam:
+	
+10... Ra8
+	
+Agora, basta para as brancas acompanhar com seu rei:
+	
+11. Rb6
+	
+As pretas são forçadas a jogar:
+	
+11... Rb8
+	
+E agora basta colocar a torre na 8ª linha:
+	
+12. Te8#
+	
+Pronto, as brancas venceram em apenas 12 lances. Esse método é fácil
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+37
+de dominar. Jogue este final, colocando as peças em posições iniciais diferentes, 
+até ter certeza de que você o compreendeu totalmente.
+11.2 DAMA E REI X REI
+	
+Como a Dama é muito mais poderosa que a Torre, ela pode forçar um 
+xeque-mate com mais facilidade. É esse poder, no entanto, que aumenta o 
+perigo de afogar o rei adversário. Por isso, é preciso um toque extra de cautela.
+	
+As brancas iniciam reduzindo as ações do rei preto jogando:
+	
+1. Df6
+	
+As pretas vão ficar no centro do tabuleiro o máximo possível, por isso, 
+jogam:
+	
+	
+1... Rd5
+	
+Agora, as brancas forçam as pretas a irem para o lado esquerdo, jogando:
+	
+ 2. De7 Rd4
+	
+Aqui as brancas precisam mover seu rei para próximo do rei preto, então 
+jogam:
+	
+3. Rc2 Rd5
+	
+Enquanto as pretas tentam ficar o máximo possível no centro, as brancas 
+tentam reduzir o espaço do rei preto:
+	
+4. Rc3 Rc6 5. Rc4 Rb6
+	
+Agora as brancas forçam o rei preto a ir para a coluna a:
+	
+5. Dd7 Ra6
+	
+Aqui as brancas precisam ter cuidado, pois caso jogassem 7. Dc7 
+tentando tirar espaço do rei preto, na verdade teríamos um afogamento. Por 
+isso, movem o rei:
+	
+6. Rc5 Ra5
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+38
+	
+Forçado. Agora as brancas podem escolher dar o mate como torre ou 
+como dama: 8. Db5# ou 8. Da7#.
+	
+Como pôde ser visto, caso as brancas não tomassem cuidado no sétimo 
+movimento, poderiam ter empatado um jogo que estava a um lance da vitória.
+11.3 DUAS TORRES E REI X REI
+	
+Com duas Torres (ou duas Damas) não é preciso mover o rei, uma vez 
+que há peças com grande facilidade de movimento.
+	
+O princípio básico é colocar uma torre na diagonal da outra e então apenas 
+levar o rei adversário para a borda até o xeque-mate. Para isso, iniciamos com:
+	
+	
+1.Tc2 Rd3 2. Te8
+	
+As brancas forçam:
+	
+2... Rd4
+	
+Agora seguimos com:
+	
+2. Td2+
+	
+Forçando o rei preto a ir para a coluna c e depois para a coluna b:
+                                                     
+	
+3... Rc3 4. Tc8+ Rb3
+	
+Agora colocamos a torre da coluna d próxima da torre da coluna c, em 
+diagonal:
+                                                      
+	
+5. Td7 Rb2 6. Tb7+
+	
+Forçando o rei preto a ir para a coluna a. Independente da jogada das 
+pretas as brancas dão mate:
+	
+6... Ra1 7. Ta8#
+	
+Perceba que o rei branco não foi necessário para dar esse mate.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+39
+11.4 MATE DE BISPO E CAVALO
+	
+Este é sem dúvida o mate elementar mais difícil de ser conseguido. Veja 
+a posição inicial:
+	
+Jogam as pretas. As brancas forçam o mate em no máximo 33 lances.
+	
+Existem muitos métodos e sistemas inventados para se conseguir este 
+mate, e aqui daremos um deles:
+	
+1- O mate será dado na casa angular (a1, a8, h1 ou h8) de mesma cor a 
+do bispo, ou em casa vizinha da angular.
+	
+2- O mate será realizado em duas fases distintas.
+	
+Primeira Fase: Forçar o Rei preto caminhar em direção à casa angular do 
+tabuleiro (a1, h1, a8 e h8) de cor oposta a do bispo. No caso ilustrado aqui as 
+casas pretas a1 ou h8.
+	
+Segunda Fase: Forçar o Rei preto caminhar em direção à casa angular 
+do tabuleiro de mesma cor da do bispo, onde será dado o mate. No nosso caso 
+servem as casas a8 ou h1.
+	
+Algumas estratégias necessárias para a manobra:
+	
+1- As três peças, Rei, bispo e cavalo, devem atuar em grande harmonia 
+dominando o maior número de casa possíveis ao redor do Rei inimigo. As peças 
+mais difíceis de harmonizar são o cavalo e o bispo, de modo que se deve dar 
+especial atenção a elas não permitindo que dominem as casas de mesma cor, 
+mas pelo contrário, se o bispo é da casa branca o cavalo deve fazer o papel de 
+bispo da casa preta e vice-versa.
+	
+2- O mate é forçado em qualquer posição incial no tabuleiro, movendo-
+se o Rei preto para suas melhores casas, em no máximo 34 lances. Note que 
+no caso de se aplicar a regra de empate por 50 lances não há tempo para duas 
+tentativas!
+	
+Veja um exemplo:
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+40
+	
+1- ..., Rc6
+	
+2- Cb3, Rd6
+	
+3- Rb5, Rd5
+	
+4- Bf7+, Re5
+	
+5- Rc5, Rf6
+	
+6- Bc4, Re5
+	
+7- Cd2, Rf4
+	
+8- Rd6, Rf5
+	
+9- Bd3+, Rf6
+	
+10- Cf3, Rf7
+	
+11- Re5, Rg7
+	
+12- Cg5, Rg8
+	
+13- Rf6, Rf8
+	
+14- Cf7, Rg8
+	
+A primeira fase está feita. Agora é preciso levar o Rei até a fatal casa a8.
+	
+15- Bf5, Rf8
+	
+16- Bh7, Re8
+	
+17- Ce5, Rd8
+	
+18- Re6, Rc7
+	
+Parece que aqui o Rei preto irá escapar do seu triste destino, mas...
+	
+19- Cd7, Rb7
+	
+20- Bd3, Rc6
+	
+21- Ba6, Rc7
+	
+22- Bb5, Rd8
+	
+23- Cb6, Rc7
+	
+24- Cd5+, Rd8
+	
+25- Rd6, Rc8
+	
+26- Re7, Rb7
+	
+27- Rd7, 
+	
+Note a harmonia: o cavalo domina as casas pretas, o bispo as brancas e 
+o Rei fecha o cerco.
+	
+27- ..., Rb8
+	
+28- Ba6, Ra7
+	
+29- Bc8!, Rb8
+	
+30- Ce7, Ra7
+	
+31- Rc7, Ra8
+	
+32- Bb7+, Ra7
+	
+33- Cc8++
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+41
+	
+	
+Posição após lance 33.
+	
+Agora veja outras posições de mate e de empate:
+	
+Em todas as posições acima jogam as pretas. Nas duas de cima é 
+xeque-mate. Nas duas de baixo empate por afogamento. Na figura de baixo e a 
+esquerda o Rei preto está na casa angular oposta e precisaria ainda ser levado 
+até a casa angular branca (a8 ou h1).
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+42
+12. TEMAS DE COMBINAÇÃO
+	
+“Combinação” é uma sequência de lances que um jogador desenvolve 
+para conseguir algum tipo de vantagem. Quando jogamos com alguém, não 
+devemos esperar que as peças adversárias sejam capturadas sem esforço. 
+Aqui, veremos os temas separados, mas na maioria dos exercícios assim 
+como nas partidas é preciso unir mais de um tema na mesma posição. Um 
+bom enxadrista deve conseguir unir grande parte dos temas para obter alguma 
+vantagem durante uma partida.
+12.1 SACRIFÍCIO 
+O “sacrifício” é a entrega de material, visando conseguir vantagem mais tarde.
+12.2 ATAQUE DUPLO
+“Ataque duplo” é a denominação dada a um ataque a duas peças adversárias 
+por uma peça de menor valor.
+12.3 XEQUE DESCOBERTO
+O “xeque descoberto” ou “ataque descoberto” é outra forma de ataque duplo.
+12.4 CRAVADA
+Uma peça está “cravada” quando não pode ser movimentada, pois deixaria 
+uma peça de maior valor desprotegida. 
+Existem dois tipos de cravada: 
+Cravada Absoluta: É quando o rei está atrás da peça cravada.
+Cravada Relativa: É quando outra peça, exceto o rei, encontra-se atrás da peça 
+cravada. A peça atrás da peça cravada tem maior valor que a peça cravada.
+12.5 RAIO X
+O “Raio X” nada mais é do que uma cravada ao inverso. Na cravada, uma 
+peça ameaça duas peças inimigas ao longo de uma linha em que exerce sua 
+influência, e a peça inimiga de menor valor serve de escudo para a mais valiosa. 
+No raio X, a peça de maior valor está diretamente ameaçada. Deve-se retirá-la 
+deixando a peça de menor valor exposta à captura.
+12.6 DESVIO
+O “desvio” tem como objetivo “distrair” alguma peça adversária que esteja 
+executando uma função importante.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+43
+13. TOP 10 MELHORES JOGADORES DE XADREZ DE TODOS 
+OS TEMPOS
+10O LUGAR - Paul Morphy – Estados Unidos (1837-1884)
+	
+Paul Charles Morphy foi um jogador de xadrez Americano. Ele é 
+considerado o maior mestre de xadrez de sua era e um não oficial Campeão 
+Mundial de Xadrez.
+	
+Ele foi um prodígio do xadrez e foi chamado de “O Orgulho e Tristeza do 
+Xadrez”. Após aprender sozinho a jogar quando criança, assistindo membros 
+da família jogadores, ele foi considerado um dos melhores jogadores em New 
+Orleans com 9 anos de idade.
+9O LUGAR - Wilhelm Steinitz – Áustria (1836-1900)
+	
+Wilhelm Steinitz foi um jogador austríaco de xadrez e primeiro campeão 
+mundial de xadrez, de 1886 a 1894. Steinitz perdeu seu título para Emanuel 
+Lasker em 1894 e também perdeu a revanche em 1897. Ele foi um dos jogadores 
+mais dominantes na história do jogo.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+44
+8O LUGAR - Viswanathan Anand – Índia (1969)
+	
+É um grande mestre de xadrez indiano, o atual campeão mundial e jogador 
+mais bem classificado do mundo. Anand é um dos 6 jogadores da história a 
+quebrar a marca 2800 na lista FIDE, e aos 37 anos de idade, pela primeira vez 
+se tornou o número 1 do mundo.
+	
+Anand se tornou o primeiro grande mestre da Índia em 1987. E foi descrito 
+como o campeão do mundo mais versátil, como é o único jogador a ter vencido 
+o campeonato mundial de xadrez em vários formatos.
+7O LUGAR - Alexander Alekhine – Rússia (1892-1946)
+	
+Alexander foi o quarto Campeão Mundial de Xadrez. E é muitas vezes 
+considerado um dos maiores jogadores de xadrez de todos os tempos. Aos 20 
+anos de idade, estava entre os mais fortes jogadores de xadrez no mundo. E 
+durante a década de 1920, venceu a maioria dos torneios que disputou. Em 1927, 
+ele se tornou o campeão de xadrez mundial por derrotar Capablanca.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+45
+6O LUGAR - Mikhail Botvinnik – Rússia (1911-1995)
+	
+Mikhail foi um Grandmaster Internacional russo e 3 vezes Campeão 
+Mundial de Xadrez. Ele trabalhou como um engenheiro elétrico enquanto 
+jogando xadrez de alto nível. Ele também desenvolveu um algoritmo de xadrez 
+projetado para pensar como um jogador humano.
+Jogando classe de xadrez por décadas, sendo um autor eminente de xadrez, 
+um dos pioneiros do xadrez de computador e um mestre de xadrez em seus 
+últimos anos, Botvinnik é amplamente considerado como o mais importante 
+contribuinte para xadrez no século 20.
+5O LUGAR - José Raúl Capablanca – Cuba (1888-1942)
+	
+José Raúl Capablanca foi um jogador de xadrez cubano que foi campeão 
+mundial de xadrez de 1921 a 1927. Um dos maiores jogadores de todos os 
+tempos, ele foi famoso por sua excepcional habilidade de fim de jogo e 
+velocidade para jogar.
+	
+Pelas suas realizações no mundo de xadrez, maestria sobre o tabuleiro 
+e seu estilo de jogar relativamente simples, ele foi apelidado de Máquina de 
+Xadrez Humana.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+46
+4O LUGAR - Bobby Fischer – Estados Unidos (1943-2008)
+	
+Bobby foi um jogador americano e décimo primeiro Campeão Mundial. É 
+amplamente considerado como um dos melhores jogadores de xadrez de todos 
+os tempos. Fischer foi também o autor do Xadrez best-selling.
+	
+Considerado uma lenda do xadrez. Aos 13 anos, Fischer se tornou 
+famoso por seu jogo, “O Jogo do Século” contra Donald Byrne em Nova York. 
+Aos 15 anos de idade se tornou o mais novo GM e candidato para Campeonato 
+Mundial.
+3O LUGAR - Emanuel Lasker – Alemanha (1868-1941)
+	
+Emanuel foi um jogador alemão, matemático e filósofo que foi campeão 
+mundial de xadrez por 27 anos. Em seu primeiro, Lasker foi um dos campeões 
+mais dominantes, e ainda é considerado um dos jogadores mais fortes na 
+história.
+	
+Seus contemporâneos afirmaram que Lasker usava jogo mental, e até 
+se movia deliberadamente errado para confundir os adversários. Uma recente 
+análise, no entanto, indica que ele foi à frente do seu tempo e usava uma 
+abordagem mais flexível que seus contemporâneos. Ele publicou 5 livros e 
+revistas de xadrez.
+
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+Centro Educacional Sesc Cidadania
+47
+2O LUGAR - Anatoly Karpov – Rússia (1951)
+	
+É um grande mestre de xadrez soviético/russo e ex-Campeão Mundial. 
+Ele foi o oficial campeão mundial de 1975 a 1985 quando foi derrotado por Garry 
+Kasparov.
+	
+Ele jogou 3 partidas contra Kasparov para o título de 1986 a 1990, antes 
+de se tornar Campeão Mundial FIDE mais uma vez Kasparov rompeu de FIDE em 
+1993. Por suas décadas de longa data permanecendo entre a elite do mundo, 
+Karpov é considerado um dos maiores jogadores de todos os tempos.
+1O LUGAR - Garry Kasparov – Rússia (1963)
+	
+Nascido em Baku, Azerbaijão em 1963, Kasparov é um grande mestre 
+de xadrez que se tornou o campeão mundial em 1985 por derrotar Anatoli 
+Karpov. Nenhum outro jogador dominou o xadrez por tanto tempo como ele. E 
+é considerado por muitos como o melhor jogador na história do xadrez. Garry 
+também aparece em nossa lista das pessoas vivas mais inteligentes do mundo 
+com um QI de 192 pontos.
+
+Centro Educacional Sesc Cidadania
+Manual de Xadrez | Desenvolvimento Físico-Esportivo
+48
+REFERÊNCIAS
+Hodgoson, Julian. Xadrez – nocautes fulminantes. Rio de Janeiro: Ciência 
+Moderna, 2001. 126p.
+Nottingham, Ted; Lawrence, AI; Wade, Bob. Xadrez - táticas e estratégias dos 
+campeões. Rio de Janeiro: Ciência Moderna, 2001. 153p.
+Pereira, Álvaro. Introdução ao Xadrez. Lisboa: Caminho, 1998. 2ed. 189 p.
+Seirawan, Yasser. Xadrez vitorioso: estratégias/Yasser Seirawan, Jeremy Silman; 
+tradução Denise Regina Sales. Porto Alegre: Artmed, 2006. 232p.
+Xadrez vitorioso: táticas / Yasser Seirawan, Jeremy Silman; tradução Denise 
+Regina Saies. Porto Alegre: Artmed, 2006. 218p. 
+Tirado, Augusto C. S. B. Meu primeiro livro de xadrez: curso para escolares / 
+Augusto C. S. B. Tirado, Wilson da Silva. Curitiba: Expoente, 1995. 122 p.

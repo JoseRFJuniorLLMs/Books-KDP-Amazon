@@ -1,0 +1,2997 @@
+Libro proporcionado por el equipo
+Le Libros
+Visite nuestro sitio y descarga esto y otros miles de libros
+http://LeLibros.org/
+Descargar Libros Gratis, Libros PDF, Libros Online
+
+Garri Kasparov, gran maestro internacional, nos explica las peculiaridades
+del ajedrez, describiendo jugadas reales de partidas entre grandes maestros
+y sacando lecciones y consejos prácticos de gran interés. El texto va
+acompañado de 42 esquemas con los movimientos más destacados, que
+permiten al lector seguir sobre los mismos el desarrollo de las jugadas que
+se describen.
+
+Garry Kasparov
+24 Lecciones de ajedrez
+
+Introducción
+Estimados lectores:
+En muchas cartas a la redacción, ustedes solicitan abrir en la revista El
+deporte en la URSS una sección donde algún gran maestro conocido, en forma
+popular, accesible, haga conocer a los aficionados al ajedrez las aperturas más
+difundidas, elementos del medio juego y final, combinaciones típicas en todas las
+fases.
+Cumpliendo sus pedidos abrimos en la revista una escuela de ajedrez, en la
+que enseñará Garri Kasparov.
+Él es gran maestro internacional, nació el 13 de abril de 1963 en Bakú.
+Campeón mundial juvenil en 1980, campeón de la Olimpiada Mundial en 1982,
+campeón europeo en 1980 y 1983, campeón nacional en 1982, ganador del torneo
+interzonal de Moscú, Premio Oscar al mejor ajedrecista del orbe en 1982.
+En las clases de nuestra escuela de ajedrez de dos años, Garri Kasparov
+explicará a los lectores la estrategia y táctica de apertura, mediojuego y final,
+mostrará con ejemplos concretos de la práctica de mejores grandes maestros del
+planeta cómo se crean y realizan combinaciones de ajedrez, etc.
+Esperamos que las recomendaciones del notable gran maestro amplíen los
+horizontes de los aficionados al ajedrez, les ayuden a elevar su calificación.
+
+Lección 1
+¿Para qué estudiar ajedrez?
+La propuesta que me hizo la revista El deporte en la URSS de dar clases a sus
+lectores fue para mi algo inesperada, porque yo todavía sigo estudiando el arte
+del ajedrez. Pero después de pensarlo decidí que el relato de cómo comprendo,
+interpreto el juego ciencia sería también provechoso para mí.
+Amo mucho el ajedrez, lo amo desde hace tiempo y tal vez para toda la vida.
+Estudio ajedrez continua y minuciosamente. Sin embargo, de vez en cuando al
+valorar lo aprendido y planear lo que debo hacer en un futuro próximo, me
+asombro de la inagotabilidad del ajedrez. Juzguen ustedes mismos. Se jugaron
+millones de partidas, se escribieron miles de obras, se analizaron diferentes
+aspectos del juego, pero hasta ahora no existe formula universal del ajedrez ni
+método que garantice el triunfo, no hay criterios matemáticos rigurosos de
+valoración ni siquiera de una jugada, ya sin hablar de posiciones. Los entendidos
+en ajedrez no discuten que en la mayoría de posiciones hay no una, sino varias
+continuaciones aproximadamente equivalentes y cada cual eligen la suya,
+mejor, guiándose por su experiencia propia, gusto, capacidad de cálculo y hasta
+carácter. El intento de recurrir a ordenadores por ahora no da el resultado
+apetecido, porque no se ha hallado el algoritmo del juego de ajedrez ni el
+programa que indique la salida justa de situaciones complicadas. Pero que qué
+hablar de detalles, situaciones y fases de la partida, cuando hasta el momento no
+hay respuesta a la pregunta « ¿Qué es el juego de ajedrez? ¿Deporte? ¿Ciencia?
+¿Arte?» .
+Los ajedrecistas juegan en torneos, luchan por la victoria, por el resultado.
+Entonces el ajedrez es deporte que forja la voluntad, permite autoafirmarse,
+dicen unos.
+Otros se admiran de la belleza de las combinaciones, de la lógica de ideas
+ajedrecísticas. El sacrificio elegante de dama, incluso en partida perdida, les
+reporta placer, mientras que la victoria aburrida los deja indiferentes. 2 Para
+ellos el ajedrez es arte que dona alegría y hace ameno el descanso.
+Al mismo tiempo hay muchos aficionados al ajedrez que se pueden pasar
+
+tardes enteras buscando respuesta a la pregunta « ¿Por qué aquí las negras
+movieron la torre a d8 y no el caballo a c6? ¿Por qué las negras están mejor en
+dada posición?» . Para ellos el ajedrez es fundamentalmente ciencia, ciencia de
+pensamiento lógico.
+Por su carácter multifacético amo todavía más al ajedrez. Precisamente con
+la belleza, con el brillo de golpes tácticos, el ajedrez me fascinó en temprana
+infancia. Al principio admiración de la belleza, después búsqueda de ella en mis
+ideas, luego la aspiración de jugar partidas bellas, tales son las etapas de mi
+formación cautivado por el arte ajedrecístico. Pero llegó el momento de
+competir con otros, de participar en torneos. Y eso significó que inicié la senda
+del deporte ajedrecístico. A mí como antes me gusta jugar partidas bellas, pero
+no me es indiferente que puesto ocuparé en la tabla.
+Quiero vencer, derrotar a todos, pero estoy obligado a hacerlo con esplendor
+y en lucha deportiva honesta. El excampeón mundial Mijail Botvinnik, a quien
+considero mi maestro, fue un verdadero académico del ajedrez, gracias a sus
+obras empezaron a hablar del aspecto científico del juego. Él me inculcó amor al
+trabajo investigador en el tablero, me enseño a buscar respuestas a los infinitos
+« ¿por qué?» . Durante la preparación para competiciones, al estudiar partidas,
+analizar variantes de aperturas, descubrí de pronto que procuro hacer eso
+meticulosa, detallada y multilateralmente con el espíritu metódico y sucesión que
+caracterizan las acciones del científico. Ahora estoy convencido que la afición a
+todos estos aspectos del ajedrez me permitirá amarlo toda la vida.
+Mis padres me explicaron los movimientos de las piezas cuando yo tenía
+cinco años. Y esos movimientos intrincados me cautivaron. Un año después me
+llevaron al Círculo de Ajedrez del Palacio de los Pioneros de mi ciudad natal
+Bakú y me pareció ingresar en el reino escaqueado. En una de las primeras
+clases, el pedagogo, queriendo asombrar a los novatos con lo paradójico del
+ajedrez, colocó las piezas del modo siguiente:
+
+Esta posición, donde los débiles peones vencieron al temible ejército
+adversario, influyó en mi imaginación cual admirable cuento de hadas y desde
+entonces no puedo vivir un día sin ajedrez. Hasta ahora sigo admirándome de
+esta posición.
+Desde la infancia me gusta atacar. También hoy día amo la ofensiva. Pero
+para conquistar el titulo de Gran Maestro y ganar importantes torneos
+internacionales tuve que dedicar mucho tiempo al estudio de los fundamentos del
+juego.
+En el ciclo de lecciones que daré a través de la revista El deporte en la URSS
+durante dos años, quisiera exponer mi comprensión de los fundamentos del juego
+en un idioma comprensible para vasto auditorio, examinar sutilezas que deben
+conocer los verdaderos aficionados del ajedrez. Estimaría mi tarea cumplida y el
+tiempo (de ustedes y propio) no perdido en balde si al terminar las clases vieran
+
+mayor sentido y lógica en los intrincados movimientos de las piezas de ajedrez,
+aprendieran a dar a sus partidas contenido más profundo y amaran todavía más
+este juego maravilloso.
+Gary Kasparov
+Publicado en la Revista El Deporte en la URSS, 1984
+
+Lección 2
+Riqueza de ideas y métodos
+Antes de empezar a estudiar nociones básicas del juego de ajedrez quiero
+darles a conocer un fragmento de partida relativamente sencilla, acompañándola
+de comentarios para simples aficionados.
+Kasparov, G (2675) - Gheorghiu, F (2535) [E12]
+Moscow Interzonal (12), 1982
+1. d4
+Los ajedrecistas expertos saben que esta jugada, así como la jugada con el
+peón rey (1.e4) son las más lógicas, mejores en la posición inicial. A esta
+conclusión puede llegar cada uno de ustedes luego de estudiar durante 2-3 horas
+los principios (reglas) generales que deben observarse en la primera fase de la
+partida: poner rápido en acción las piezas propias y controlar el centro del
+tablero.
+1… Cf6
+Es una de las mejores respuestas a la jugada blanca. Las negras ponen en
+acción su pieza, no permiten al adversario que saque el peón rey y fortalezca
+todavía más el dominio en el centro.
+2. c4
+Ahora, las blancas impiden el movimiento libre del peón d5, pues en este caso
+después de 3.cxd5, las negras deben elegir entre Dxd5 y Cxd5, A 3… Dxd5 4.
+Cc3, cuando las blancas ponen en juego el caballo y las negras se ven obligadas a
+mover dos veces seguidas la dama, o sea, a no poner en acción sus piezas, a
+detenerse en el desarrollo. Si las negras capturan el peón con el Caballo 3…
+Cxd5, permiten la jugada 4.e4, dan a las blancas, fuerte pareja de peones en el
+centro, amenazando atacar todas las posiciones avanzadas importantes del bando
+negro (casillas c5, d5, e5, f5). Volvamos a los primeros renglones de nuestro
+análisis, la jugada 2.c4, « Las blancas impiden…»  Este es el inicio de conflicto
+consciente en la partida de ajedrez. Surge lucha de ideas, empieza la partida de
+ajedrez propiamente dicha. Cuanto mayores capacidades y conocimientos posee
+
+el jugador tanto mejor verá los microconflictos que surjan, innumerables en
+cada partida, evaluará más correctamente sus consecuencia y adoptará
+soluciones más justas.
+2… e6
+Las negras abren camino al alfil y como queriendo recuperar lo perdido se
+disponen a mover el peón dama a d5.
+3. Cf3
+Las blancas tienen amplia elección de buenas continuaciones. Como 3. Cc3 y
+hasta 3. Ag5 o bien 3. Af4.
+En la apertura tiene suma importancia desarrollar con rapidez las piezas
+propias.
+3… b6
+Las negras se preocupan del alfil en c8, asegurando su salida a la posición
+principal de combate b7 y a la de reserva a6.
+4. a3
+Para hacer esta jugada, a primera vista pasiva, hay que comprender
+profundamente el papel de la profilaxis en el ajedrez. La modesta jugada del
+peón blanco no permite al alfil negro ocupar posición activa en b4 y al mismo
+tiempo asegura al caballo blanco la salida a la casilla c3, donde podrá
+desempeñar importante papel en la lucha por el centro.
+4… Ab7 5. Cc3
+Ambos bandos se apuran a poner en acción las piezas, para reforzar al
+máximo su influencia en el desarrollo del combate que se perfila en el centro del
+tablero.
+5… d5
+Las negras fortalecen radicalmente sus posiciones en el centro. Pero en esta
+situación adelantar el peón a d5 tiene de malo que obstruye la diagonal al alfil en
+b7.
+6. cxd5 Cxd5
+Después de 6. … exd5, el alfil en b7 tropezaría con su propio peón y
+arriesgaría a estar cierto tiempo inactivo. Aunque esta sola peculiaridad de la
+posición de las negras no pueda predeterminar el éxito de las blancas.
+La acumulación de pequeñas ventajas permitirá al experto gran maestro
+cambiar inexorablemente el giro de la lucha a su favor.
+7. Dc2
+En la escena ajedrecística surge un nuevo micro conflicto, en torno a la
+jugada e4, que permitiría a las blancas ocupar el centro. Al elegir la jugada, las
+blancas tuvieron en cuenta que después de 7.e4? Cxc3 8.bxc3 Axe4 las negras
+quedan con peón de más
+7… c5
+Las negras podían impedir el plan de las blancas jugando 7… f5, pero a caro
+
+precio. En su bando aparecerían el peón atrasado e6 y el punto débil e5
+8. e4 Cxc3 9.bxc3 Ae7
+Este es el nuevo logro de las blancas, que obtienen en el centro fuerte grupo
+de peones y luchan fructuosamente por dominar las casillas de la quinta fila del
+tablero, es decir, por el territorio enemigo. Los ajedrecistas definen a esta
+situación con el termino «supremacía de espacio».
+10. Ab5+! Ac6 11. Ad3
+En ajedrez, la línea recta no siempre es la distancia más corta entre dos
+puntos. Al poner el alfil en d3 en dos jugadas, las blancas obtuvieron mayor
+ventaja que si hubiesen ido a d3 de golpe. Porque la ligazón, por ejemplo: 10.
+Ab5+ Cc6 11. Ce5 Tc8 12. Da4 Dc7 13. Dxa7 Ta8? 14. Axc6+ con ganancia
+impedía a las negras protegerse del jaque del modo más natural, con caballo.
+Mientras que el alfil no ocupa en c6 su sitio y solo molesta a sus piezas. Los
+ajedrecistas en tal caso hablan de mala posición de las piezas y mala
+coordinación de acciones.
+11…Cd7
+El torpe alfil obligó al caballo a ocupar posición pasiva, en lugar de la activa
+c6; donde atacaría a las blancas en el centro. Tal vez, las negras no querían crear
+al rival la ventaja de dos alfiles después de 11…0-0 12. Ce5, pero eso sería el
+menor de los males en dada situación, ya que ahora el rey negro queda en el
+centro. Sin embargo, es más sensato, para los principiantes preocuparse ante todo
+de la seguridad de su rey, tratando de sacarlo cuanto antes del centro.
+12.0–0
+Por cuanto el rey negro tarda claramente en ocupar sitio seguro, las blancas
+deben abrir a toda costa el centro (limpiar de peones las columnas centrales). Por
+eso su rey huye del sitio peligroso y cede su lugar a la torre.
+12… h6?!
+Esto, igual que 4.a3 es una jugada profiláctica. Encontrar el momento exacto
+para tal o cual operación es importante elemento del juego del ajedrecista. El
+Gran Maestro Florian Gheorghiu escoge el momento inoportuno para profilaxis.
+13.Td1
+Las blancas previendo la apertura de la línea d, ponen ahí a la torre
+13…Dc7?!
+Ahora es tarde para que enroquen las negras. Después de: 13…0-0 14.d5
+(sacrificio de peón) 14…exd5 (Está mal: 14… Ab7 15.dxe6 fxe6 16. Ab5! y
+arruina a las negras la situación del caballo en d7) 15.exd5 Ab7 16.c4 Af6 17.
+Ab2 las blancas obtienen un fuerte peón pasado en el centro del tablero
+14. d5
+
+« El que tiene supremacía está obligado a actuar enérgicamente» , tal es uno
+de los preceptos del gran pensador ajedrecístico Wilhelm Steinitz (1836-1900)
+primer campeón mundial de ajedrez, quien formuló las leyes básicas de la
+estrategia ajedrecística. Estudiar la herencia clásica que dejaron corifeos de años
+pasados es provechoso para todos los aficionados al ajedrez y absolutamente
+indispensable para quienes estudian a fondo el ajedrez, procuran enriquecer y
+fortalecer su juego.
+Las blancas, en la partida, sacrifican solo peón, pero logran todo lo que
+aspiraban: Abren las verticales centrales, atan a las piezas negras por la línea d y
+dejan al rey adversario en el centro del tablero. Ellas ganaron a todas luces la
+apertura, primera fase de la partida, a cuenta de un plan más consecuente de sus
+acciones. Ahora para consolidar y aumentar su ventaja deben operar con
+energía y precisión. Los acontecimientos posteriores servirán de ilustración a uno
+
+de los temas siguientes de nuestros encuentros.
+Nota del Editor:
+(14… exd5 15.exd5 Axd5 16.Ab5 a6 [16…Ac6 17.Af4 Db7 18.Axc6 Dxc6
+19.Te1± Rf8 20.Tad1 Te8 21.Df5 Cf6 22.Ce5 Dc8 23.Cd7+! Cxd7 24.Dxd7 Dxd7
+25.Txd7 g5 26.Tdxe7! Txe7 27.Ad6+-] 17.Af4! [17.Axd7+ Dxd7 18.c4 Ae4!]
+17…Dxf4 [17…Db7 18.Axd7+ Dxd7 19.c4 Dg4 20.Txd5 Dxf4 21.Te1 Ta7 22.Ce5
+Tc7 23.Cg6 fxg6 24.Dxg6+ Df7 25.Td8+!+-] 18.Axd7+ Rxd7 19.Txd5+ Rc7?
+[19…Rc8 Ta8-a7-c7] 20.Te1! Ad6 [20…The8 21.Tde5 Df6 22. De4+-; 20…Af6
+21.Te4+-] 21.Tf5 Dc4 22.Te4! [22.Cd2? The8!] 22…Db5 23.Txf7+ Rb8 24.Te6
+Td8 25.c4 Dc6 [25…Da5 26. De4 Ta7 27.Txd6!+-] 26. Ce5 Dc8 27.Db1!
+[27.Db1! b5 28.cxb5] 1–0)
+
+Lección 3
+Papel de las correlaciones materiales en la partida
+Para valorar bien la correlación de las fuerzas en el tablero escaqueado, ante
+todo hay que saber la escala de valores comparativos de cada pieza de ajedrez.
+En esa escala el rey ocupa lugar especial. Es inapreciable. No se puede cambiar
+y cualquier amenaza a su existencia debe eliminarse sin falta, pues en caso
+contrario acabará la partida. La pieza más fuerte del ajedrez es la dama, que en
+general es un alfil y un peón y medio más fuerte que la torre. La torre es un peón
+y medio más fuerte que el alfil o caballo. Y por fin, el alfil o el caballo equivalen,
+aproximadamente a 3 peones.
+Pero además de valor nominal de cada pieza existe el valor real, que cambia
+en el transcurso del juego. Este concepto, más sutil y significante refleja la
+importancia de cada figura según el volumen de trabajo que desempeñe en dado
+momento, perspectivas dictadas por la posición en el tablero y plan de juego. La
+valoración correcta de la fuerza real de cada pieza determina mucho el potencial
+ajedrecístico del jugador.
+Para caracterizar la desigualdad de fuerzas en el ajedrez existe el concepto
+de ventaja material. Si uno de los bandos obtiene ventaja material procura
+acrecentarla para quebrar la resistencia del rival o, conservando esa ventaja,
+cambiar más piezas y pasar a la fase final. Pero a menudo ocurre que uno de los
+adversarios accede conscientemente a perdida de material. A mi, por ejemplo,
+me gusta mucho atacar la posición del rey enemigo y para destruir su fortaleza
+no me detengo ante sacrificios de mis piezas por peones que protegen
+directamente al rey contrario.
+Así disputé hace poco (En Niksic, 1983) la siguiente partida con el Gran
+Maestro húngaro Lajos Portisch:
+Kasparov, G (2690) - Portisch, L (2600) [E12]
+Niksic (4), 1983
+1.d4 Cf6 2.c4 e6 3.Cf3 b6 4.Cc3 Ab7 5.a3 d5 6.cxd5 Cxd5 7.e3 Cxc3 8.bxc3
+Ae7 9.Ab5+ c6 10.Ad3 c5 11.0–0 Cc6 12.Ab2 Tc8 13.De2 0–0 14.Tad1 Dc7
+
+15.c4! cxd4 16.exd4 Ca5
+Si quitamos mentalmente del tablero el peón d4 notaremos que los alfiles
+blancos tienen apuntados a los dos peones negros que custodian al rey. Otros
+defensores por ahora el no tiene. Estas circunstancias dan motivo para efectuar
+rápido ataque donde el objetivo (privar al rey contrario de los últimos
+defensores) justifica los medios (perdida de peón y dos temibles alfiles blancos).
+Al principio se abre el camino al alfil b2:
+17.d5! exd5 18.cxd5 Axd5
+Después se reduce el número de custodios del rey negro.
+19.Axh7+ Rxh7 20.Txd5
+Cuando el rey vuelve a esconderse detrás del peón
+20… Rg8
+
+El alfil blanco al precio de su propia vida aniquila al último bastión del rey
+adversario
+21.Axg7! Rxg7
+Pasó el torbellino combinatorio y dejó al rey en soledad ante la amenaza de
+ataque blanco, en primer término por la dama
+22. Ce5! Tfd8 23. Dg4+ Rf8 24. Df5 f6 25.Cd7+ 25…Txd7 26.Txd7 Dc5
+27.Dh7 Tc7
+En el tablero hay igualdad material aproximada. La torre y peón blancos se
+oponen al alfil y el caballo. Pero las piezas negras ocupan posiciones
+desafortunadas, sobre todo el rey. Al mismo tiempo, las dos piezas blancas más
+temibles irrumpieron en la séptima horizontal y el desenlace de la lucha está
+cerca.
+Todo dependerá de cuán rápido las blancas alcanzarán con una de sus torres
+
+la casilla g3. Sin embargo, la ultima jugada negra contiene picara trampa para
+jugadores presurosos.
+28. Dh8+!
+Si las blancas jugaran en el acto: 27.Td3 trazando el itinerario Td3-g3-g8. Se
+llevarían un chasco después del impresionante sacrificio de dama: 27… Dxf2+!!
+28. Rxf2 Ac5+ y luego Txh7. Todavía peor irían sus asuntos si: 29. Txf2? Tc1+ 30.
+Tf1 Ac5+! 31. Rh1 Txf1++
+28…Rf7 29.Td3 Cc4 30.Tfd1!
+Siempre es útil poner en juego esta reserva.
+30… Ce5 31. Dh7+ Re6
+No se puede retroceder de vuelta: [30… Rf8 31. Td8+! Axd8 32. Txd8++]
+hay que ir al centro del tablero y esto en el 99% de los casos equivale a la
+derrota.
+32. Dg8+ Rf5 33.g4+ Rf4 34.Td4+ Rf3 35. Db3+ 1–0
+Naturalmente todos los ajedrecistas deben conocer y respetar los principios
+ajedrecísticos fundamentales, incluida la escala de valores comparativos de las
+piezas. Pero uno de los atractivos del ajedrez consiste precisamente en las
+numerosas excepciones a las reglas, que con frecuencia conducen a situaciones
+y correlaciones no típicas, donde el camino justo es muchas veces sugerido por
+la intuición y experiencia almacenada. Como parte de esa experiencia guardo en
+mi memoria un fragmento de la partida Mijail Tal-Oscar Panno, disputada en el
+Interzonal de Portoroz en 1958, ver diagrama:
+Tal, M - Panno, O [C92]
+Portoroz Interzonal Portoroz (17), 1958
+1.e4 e5 2.Cf3 Cc6 3.Ab5 a6 4.Aa4 Cf6 5.0–0 Ae7 6.Te1 b5 7.Ab3 d6 8.c3 0–0
+9.h3 Cd7 10.d4 Cb6 11.Ae3 exd4 12.cxd4 Ca5 13.Ac2 c5 14.e5 dxe5 15.Cxe5
+Cbc4 16.Dd3 f5 17.Ab3 f4 18.Ad2
+
+Sin haber terminado de desarrollar las piezas, los contrincantes emprendieron
+rápida lid, donde la correlación material retrocede a segundo plano y además se
+hace en absoluto no típica. Lo fundamental ahora es valorar con exactitud la
+actividad de las piezas que participan directamente en la lucha.
+18… Cxb3 19. Cc6!
+Con esta jugada las blancas quieren ganar la dama a gran costo de material
+19… Cxa1 20. Cxd8 Af5! 21. Df3 Taxd8 22.Txe7 Axb1 23.Axf4 Txd4
+En 5 jugadas, la posición se hizo irreconocible. Dos caballos y una torre valen
+no menos que la dama. Además el alfil blanco no puede encontrar de ningún
+modo su lugar en el juego. Por lo visto, el desenlace de la contienda depende de
+la actividad de la dama blanca
+24. Dg4! Ag6 25. De6+ Af7 26. Df5 Cc2 27.b3 Ag6
+Tal temía más el contraataque de las negras después de: 27…Td1+ 28.Rh2
+
+Cd2] las negras hacen una sólida movida obligando a las blancas a embrollar más
+el juego
+28.Txg7+ Rxg7 29. Ah6+ Rxh6 30.Dxf8+ Rg5 31.bxc4 bxc4
+De nuevo cambió bruscamente la posición. Las blancas tienen en el ataque
+sólo a la dama y varios peones.
+32. g3 Ae4 33.h4+ Rg4 34.Rh2 Af5!
+Las negras se defienden magníficamente. Entregando una pieza después de:
+35.f3+ Rxf3 36.Dxf5+ Re3! irrumpen con el rey en el flanco de dama. Por eso
+las blancas buscan la posibilidad de dejar al rey en el flanco derecho, donde hay
+peones blancos.
+35. Df6 h6 36. De5 Te4 37.Dg7+ Rf3 38.Dc3+ Ce3
+A tablas más simples conducía: 38… Rxf2 39. Dxc2+ Rf3
+39. Rg1 Ag4 40.fxe3 h5 41.De1 Txe3
+A tablas conducía: 41… Te6 42.e4 c3, después de lo cual las piezas negras se
+protegían mutuamente y el rey blanco quedaba enjaulado.
+42. Df1+ Re4 43. Dxc4+ Rf3 44. Df1+ Re4 45. Dxa6
+Ahora, la dama blanca tiene ayudante, el peón pasado a2, que en fin de
+cuentas decidirá el resultado de la lucha. Pero eso ya es tema de otra cita
+nuestra.
+Nota del Editor:
+Por considerarlo de interés para el lector, reproducimos a continuación el
+final integro de la partida: 45… Rd4 [Esta vez al despreciar la jugada obvia Tg3,
+Panno pudo haber perdido su última posibilidad de tablas. Vuckovic publicó unos
+análisis donde consideraba que las negras lograban tablas después de: 45…
+Txg3+ 46. Rf2 Tf3+ y el rey blanco no pude escapar al flanco de dama y
+después de 47.Rg2 Rd4 el peón blanco puede ser frenado. Sin embargo, hay
+muchas variantes que considerar que requieren un cálculo exacto en tan
+compleja situación.] 46. Dd6+ Rc4 47.a4 Te1+ 48. Rf2 Te2+ 49. Rf1 Ta2 50.
+Da6+ Rd4 51.a5 c4 [51…Ae2+ 52. Dxe2 Txe2 53. Rxe2 Rd5 54.g4! y gana] 52.
+Db6+ Rd5 53.a6 Ta1+ 54. Rf2 c3 55.a7 c2 56. Db3+ Rd6 57. Dd3+ [57. Dd3+
+Re6 58. Dxc2 Txa7 59. De4+ y la torre caerá con un jaque] 1-0
+
+Lección 4
+Superioridad en el centro, superioridad en la partida
+Las casillas del centro del tablero e4, d4, e5, d5 son muy importantes. Como
+una altura desde la que se ve bien todo el campo de la batalla ajedrecística y
+desde la que es más fácil asestar el golpe de gracia a cualquier objetivo del
+tablero. Conceptos como « lucha por el centro» , « dominio del centro» , « ruptura
+del centro» , también reflejan los momentos más importantes del duelo y son
+bien conocidos por cualquier ajedrecista experto.
+La lucha por el centro empieza ya desde las primeras jugadas. El bando que
+logra la superioridad en el centro del tablero (ocupa el centro del tablero)
+generalmente obtiene posibilidades de trasladar fácilmente sus piezas de un
+sector del tablero a otro, creando superioridad de fuerzas ahí donde empieza el
+combate.
+Un siglo atrás, la lucha por el centro era más despreocupada y franca. Las
+blancas de inmediato procuraban ocupar el centro con peones, sin detenerse ante
+sacrificios materiales. A la sazón estaban de moda los gambitos, es decir,
+comienzo de partida con sacrificio obligatorio.
+1. e4 e5 2.f4! exf4
+En nuestros tiempos, con mayor frecuencia emplean el contragambito: 2…d5
+3.exd5 e4! y la lucha por el centro es más sutil.
+3. Cf3
+Al primer campeón mundial oficial Wilhelm Steinitz (1836-1900) le gustaba
+jugar 3.d4 admitiendo 3… Dh4+ 4. Re2. Él estimaba que la supremacía en el
+centro es más importante que un buen refugio para el rey.
+3… g5 4.Ac4 g4 5.0–0! gxf3 6.Dxf3 Df6 7.d3 Ah6 8.Cc3 Ce7 9.Axf4 d6
+10.Axh6 Dxh6 11.Dxf7+ Rd8 12.Tf6 Dg5 13.Taf1
+Así se prolongó una de las partidas del gran ajedrecista ruso Mijail Chigorin,
+disputada en 1878. Las blancas sacrificaron pieza y obtuvieron fuerte ataque, con
+la particularidad de que su ventaja en el centro desempeño papel decisivo.
+Con mayor nitidez, la estrategia blanca se vio en una de las partidas del
+eminente ajedrecista norteamericano Paul Morphy (1837-1884):
+
+Morphy, P - De Riviere, J [C51]
+Paris m, 1863
+1. e4 e5 2. Cf3 Cc6 3.Ac4 Ac5 4.b4 Axb4 5.c3 Ac5 6.0–0 d6 7.d4 exd4
+8.cxd4 Ab6 9.Cc3
+Esta posición interesantísima por aquella época fue no menos popular que
+ahora la partida española. Al precio de un peón, las blancas obtuvieron clara
+superioridad en el centro.
+9… Df6
+No se puede jugar: 9… Cf6 10.e5! dxe5 11. Aa3! Axd4 12. Db3! Ae6 13.
+Axe6 fxe6 14. Dxe6+ Ce7 15. Cxd4 exd4 16. Tfe1!; la mejor respuesta negra se
+considera: 9… Ag4 y si 10. Ab5 se puede elegir entre 10… Ad7 y 10… Rf8.
+Riviere hizo la jugada natural, pero adversa, que permitió a las blancas
+aprovechar otra ventaja de la pareja central de piezas, a saber, su movilidad y
+dinamismo.
+10. Cd5 Dg6 11. Cf4 Df6 12.e5!
+
+El peón central avanzó y creó en el acto una situación donde las negras en
+lugar de desarrollar tranquilamente sus piezas, deben proteger al rey de
+amenazas concretas, que es difícil hacer porque la mayoría de las piezas negras
+se estancaron en sus puntos iniciales.
+Ahora, aprovechando su ventaja en cantidad de piezas puestas en juego las
+blancas efectúan una operación típica, abren el centro (lo limpian de peones
+propios y ajenos), para dar campo de acción a sus piezas. Con el centro abierto,
+la actividad de las piezas crece mucho y la ventaja de su ubicación o, por el
+contrario, la mala ubicación de algunas piezas tiene primerísima importancia
+para valorar la situación en el tablero.
+12… dxe5 13.dxe5 Df5
+Claro, no se puede tomar el peón: 13… Cxe5? 14. Cxe5 Dxe5 15. Te1 ganando
+dama. Pero el peón e vuelve a avanzar…
+
+14. e6! f6
+También estaba mal para las negras si: 14…fxe6 15. Cxe6 Axe6 16. Axe6!
+Df6 17. Dd7+ Rf8 18. Ab2! (es por esto que el peón debía salir de e5) 18… Dxb2
+19. Df7++. Ahora el peón de e6 corta la posición de las negras en dos partes y
+tiene no menos valor que una pieza. Las blancas sólo no deben permitir la huída
+del rey negro al flanco.
+15. Ch4 Dc5 16. Ae3 Dg5 17. Cf3 Da5 18. Axb6 Dxb6 19. Cd5 Da5 20. Cd2!
+Ahora las negras no pueden protegerse contra la amenaza de perder la torre
+en a8 después de 21. Cb3 y 22. Cc7+ y contra la no menor amenaza Dh5. El
+resto está predeterminado.
+20… Cd4 21.Cb3 Cxb3 22.axb3 Dc5 23.Dh5+ Rd8
+Después de 23…g6 24. Cxf6+ se pierde la dama.
+24.Tad1 1–0
+Ahora no hay salvación contra las terribles consecuencias del jaque 25.
+Cb6+, el caballo sale de la línea d y el rey negro cae bajo jaque de la torre
+blanca) y por eso las negras se rindieron.
+Indudablemente, cada bando tiene que preocuparse por todos los medios de
+sus peones centrales, para conservarlos en cantidad necesaria y ocupar con ellos
+posiciones ventajosas.
+A veces en el centro queda sólo un peón por bando. Entonces surgen nuevos
+problemas, en particular, cómo apoderarse del puesto avanzado en el centro, que
+con mayor frecuencia permite operar activamente con las piezas y obtener
+supremacía sobre el rival. Veamos el siguiente ejemplo:
+Petrosian, T (2645) - Kozma, J [A46]
+Munich ol (Men) fin-A Munich (5), 1958
+1.d4 Cf6 2.Cf3 e6 3.Ag5 c5 4.e3 b6?!
+El método sencillo de apertura blanca disminuyó la atención de las negras, y
+estas, con una jugada que parece natural permiten al adversario tomar el puesto
+avanzado en el centro.
+5. d5! exd5 6.Cc3 Ab7 7.Cxd5! Axd5 8.Axf6 Dxf6 9.Dxd5
+
+Las blancas se apoderaron sólidamente del punto d5, pues las negras en un
+tiempo próximo no podrán expulsar a la dama de su poderosa posición. Al mismo
+tiempo, las debilidades negras en la línea d son constantes y bastantes dolorosas.
+Los ajedrecistas experimentados nunca inician operaciones serias en los
+flancos antes de asegurar sus posiciones en el centro.
+Las blancas (ver diagrama), sin haber hecho la jugada Cc3, iniciaron la
+ofensiva de peones en el flanco de rey. De por si, esto no es muy peligrosos, pero
+en el duelo Hans Neegord (Dinamarca)-Vladimir Simaguin (URSS) (partida por
+correspondencia 1964), las negras demostraron su extraordinaria peligrosidad
+para las blancas y lo hicieron de forma muy convincente, veamos:
+
+1… b5!! 2.cxb5 d5!! 3.exd5 e4! 4. Dxe4
+Si 4.fxe4 resolvía Ce5!, pero también así las blancas se ven duras
+4…Axg4 5. Df4 Ah5 6. Rf2 Ce5 7. Ag2 Ad6 8. Da4 Tc8! 9. Td2 Df6
+En pocas jugadas, los reductos blancos, que parecían fuertes, se
+desmoronaron después del contragolpe oportuno en el centro.
+O sea
+¡Luchen por los escaques centrales, cuiden el centro, valoren el centro!
+Continuación de la partida Petrosian-Kozma.
+9… Cc6 10.Ac4 Ae7 11.0–0–0 Td8 12.Td2 0–0 13.c3 Ca5 14.Ae2 De6
+15.Thd1 Dxd5 16.Txd5 d6 17.Cd2 f5 18.f4 g6 19.g3 Tf6 20.e4 fxe4 21.Cxe4 Te6
+22.Af3 Rg7 23.b3 Cc6 24.T5d3 Cb8 25.Cf2 h5 26.Rd2 Af8 27.Ad5 Te7 28.Ce4
+Ca6 29.Re3 Cc7 30.Rf3 Cxd5 31.Txd5 Tde8 32.Te1 Te6 33.Te2 b5 34.h3 a5 35.g4
+hxg4+ 36.hxg4 Ae7 37.f5 Te5 38.Txe5 dxe5 39.Td2 Tf8 40.Td7 Tf7 41.Txe7 1–0
+
+Lección 5
+Cómo Ganar Espacio
+Por cuanto las piezas de ajedrez luchan en espacio limitado a 64 escaques del
+tablero, el espacio, es decir, la cantidad de casillas en la que cada bando puede
+ubicar sin obstáculos sus fuerzas, habitualmente influye mucho en el curso de la
+contienda. Antes de empezar la partida, blancas y negras controlan igual espacio.
+Pero por lo general cualquier jugada de apertura persigue controlar la mayor
+cantidad posible de casillas del tablero, sobre todo en territorio ajeno. El papel
+principal en la conquista de espacio corresponde a los peones, que desplazan a las
+piezas rivales y proporcionan a las suyas libertad de maniobra. Pero el avance de
+peones debe acompañarse sin falta de apoyo de las piezas. En caso contrario, el
+ejército de peones perecerá con rapidez. El ajedrecista experto procura ante todo
+obtener dominio en el sector central del tablero, limitado por las verticales c y f,
+pues ahí están las mejores posiciones para las piezas.
+A fin de que nuestra conversación sea más concreta probemos analizar dos
+partidas. La primera se disputó a fines del siglo pasado.
+Tarrasch, S - Charousek, R [B09]
+Nuremberg, 1896
+1. d4 d6 2.e4 Cf6 3. Cc3 g6 4.f4 Ag7 5.Cf3 0–0 6.Ae2
+Apenas fueron hechas cinco jugadas y ya las blancas conquistaron gran
+espacio, tres peones suyos controlan importantísimas casillas de la quinta
+horizontal, en territorio enemigo. Con apoyo de sus piezas ellos podrán seguir
+adelante, aislando, cual cerca, para las blancas nuevos sectores de terreno
+contrario.
+En ajedrez contemporáneo, método estratégico eficaz de lucha contra tales
+cadenas de peones se considera el contraataque opuesto de peones (con mayor
+frecuencia apoyado por piezas), para impedir el avance de la cadena. Después
+de eso se trata de romper la cadena en eslabones o, como dicen los ajedrecistas,
+islitas. La variante 6… c5! 7.d5 e6 8.0-0 exd5 9.exd5 caracteriza del mejor modo
+semejante método.
+
+Charousek, dicho sea de paso, uno de los mejores ajedrecistas de aquella
+época, también intenta detener la cadena de peones blancos, pero lo hace con
+poca fortuna. Él impide la libertad de movimiento de sus piezas y, lo
+fundamental, hace imposible la ruptura del centro blanco de peones.
+La situación de las negras al cabo de tres jugadas se agrava extremadamente.
+6… d5? 7.e5 Ce8 8. Ae3 e6
+Bajo protección del tridente de peones d4-e5-f4, las piezas blancas tienen
+muchas casillas para maniobrar y pueden ser trasladadas con facilidad a
+cualquier sector del tablero. El gran ajedrecista alemán Tarrasch resuelve muy
+fácil el problema de materialización de la supremacía. El inicia un ataque raudo
+de peones del flanco rey. Sus peones deben abrir líneas para las piezas mayores,
+mientras que las piezas negras, apretadas en las dos últimas horizontales, sólo se
+molestarán unas a otras y no podrán organizar la defensa.
+9. h4!
+Una de las reglas principales de la lucha ajedrecística reza: La ofensiva en el
+flanco 
+es 
+mejor 
+detenerla 
+mediante 
+contraataque 
+en 
+el 
+centro.
+Desgraciadamente, las negras con su jugada 6… d5 se privaron a sí mismas de
+esa posibilidad y su derrota está predeterminada.
+9… Cc6 10.h5 Ce7 11.g4 f5 12.hxg6 Cxg6 13. Ad3 h6 14.g5 Rh7 15.De2 Th8
+16.Dg2 c5 17.gxh6 1–0
+La segunda partida puede servir como ilustración de métodos modernos de
+lucha por el espacio. Para mí, esta partida es particularmente memorable como
+primera victoria al estilo posicional puro, obtenida en importante competición
+sobre fuerte adversario.
+Kasparov, G (2545) - Giorgadze, T (2535) [C24]
+URSS-ch47 Minsk (1), 12.1979
+1. e4 e5 2. Cf3 d6 3. Ac4 Ae7 4.d3 Cf6 5.c3 0–0 6.0–0 c6 7. Ab3 Ae6 8. Ac2
+h6 9.Te1 Cbd7 10. Cbd2 Dc7
+Ambos bandos maniobran sin apresurarse y da la impresión de que sus logros
+son idénticos. Pero sólo a primera vista. Las blancas empiezan a conquistar
+espacio.
+11. d4! Tfe8 12.h3!
+Limitar las posibilidades del rival (ahora el alfil negro no se colocará en g4)
+también es conquistar espacio.
+12… Cf8 13.c4! Cg6 14.d5 Ad7 15. Cb1! Af8 16. Cc3 c5? 17. Aa4
+En tal situación apretada, cualquier cambio es conveniente a las negras
+excepto ese. Su alfil de casilla blanca defiende importantes escaques y tiene la
+mayor libertad de maniobra.
+17… a6 18.Axd7 Cxd7 19.g3 Ae7 20.h4!
+En el flanco rey, las blancas resolvieron por ahora como estrategia limitar el
+movimiento de las piezas negras y preparan la ofensiva principal en el flanco
+
+dama.
+20… Cf6 21.Ch2 Dd7 22.a4 Dh3 23.Df3 Dd7 24.a5!
+Las blancas cruzaron la frontera también en el flanco dama apretando
+todavía más a las negras. Su plan próximo está claro para ambos bandos, pero las
+negras ya no pueden hacer nada. Maniobrar con reservas en poco espacio es
+prácticamente imposible.
+24… Cf8 25.Ad2 Tec8 26.Cf1 Cg4 27.Ca4 Ad8 28.Tec1 Tab8 29.b4! cxb4
+30.Axb4 h5 31.Cb6!
+A primera vista continuación ilógica, pues por la línea b se podía acentuar la
+presión. Pero las blancas se propusieron abrir la línea c, y en tal caso es muy
+importante para ellas tener una casilla de irrupción en esa línea. La casilla c7 es
+la mejor plaza para el desarrollo blanco.
+31… Axb6 32.axb6 De7 33.Da3 Td8
+La última posibilidad de resistencia consistía en frenar el avance del peón c,
+sacrificando torre por alfil 33… Tc5! 34. Axc5 dxc5. La marcha de
+acontecimientos, verdad, se hace más lenta, pero las blancas conservan todas las
+posibilidades de vencer. Mientras que ahora la ofensiva blanca se desarrolla con
+rapidez y conforme al plan.
+34.f3 Ch6 35.c5! dxc5 36.Axc5 Df6 37.Rg2 Te8 38.Ae3 Cd7 39.Tab1 De7 40.
+Dxe7 Txe7 41. Tc7. 1–0
+Las negras se rindieron, porque ya en la jugada siguiente empiezan a sufrir
+pérdidas.
+De modo que valoren el espacio, procuren ganarlo, pero no pierdan la
+cabeza. Pues la cadena de peones muy adelantada puede ser detenida y
+destruida. Y por la brecha irrumpirán piezas contrarias.
+
+Lección 6
+Himno y réquiem a los peones
+Aunque los peones son las piezas más débiles de la lid ajedrecística,
+precisamente ellos determinan su marcha y desenlace. Si uno de los bandos tiene
+dos – tres peones más, eso a menudo basta para la victoria. El asunto se complica
+cuando hay igual cantidad de peones. Entonces, la valoración de la posición será
+predeterminada, en gran parte, por la ubicación de los peones de cada bando.
+A principio de la partida, los peones adversarios se alinean en dos filas,
+formando cadena. Avanzan apoyándose mutuamente y entorpeciendo la
+actividad de las piezas rivales. Losa ajedrecistas expertos para obtener una fila
+móvil, flexible de peones que se defienden mutuamente, con frecuencia acceden
+incluso a sacrificios materiales. Ver diagrama.
+Petrosian, T - Pfeiffer, G [D45]
+Leipzig ol (Men) fin-A (7), 03.11.1960
+1.Cf3 d5 2.c4 c6 3.e3 Cf6 4.Cc3 Cbd7 5.d4 e6 6.Dc2 a6 7.b3 b6 8.Ad3 Ab7
+9.0–0 Ae7 10.Ab2 dxc4 11.bxc4 c5 12.Ce5 cxd4 13.exd4 Cxe5 14.dxe5 Cd7 15.f4
+Cc5 16.Ae2 g6 17.Tad1 Dc7
+
+18.Cd5!! exd5 19.cxd5
+Ahora justo dos peones d5 y e5 resuelven la lucha
+19… Dc8 20.e6! 0–0 21.Dc3 f6 22.d6 Ca4
+No se puede 22… Dxe6 por pérdida de la dama 23. Ac4.
+23.Dxc8 Tfxc8 24.Aa1 Tc2 25.dxe7 Txe2 26.Td8+ Rg7 27.Tc1
+Sería equívoco poner en el acto e8=D, porque 27… Txg2+!! 28. Rh1 Tg3 y
+las blancas inesperadamente reciben mate.
+27… Txe6 28.Tc7
+Amenaza 29.e8=D Rh6 13. Axf6.
+28… Rh6 29.Axf6 Ae4 30.Ag5+ 1–0
+¿Cómo oponerse a esta temible cadena de peones? El método radical es
+evidente: aniquilar toda la cadena o por lo menos su eslabón central. En otras
+palabras, romper la cadena en pequeños islotes privados de ayuda mutua.
+
+Pero con frecuencia, el método más eficaz de lucha contra la cadena móvil
+de peones es limitar su movilidad, es decir, bloquearla. Digamos, teniendo bajo
+fuego las casillas que están delante de los peones. Por ejemplo, a la cadena de
+peones negros c4, d5 y e6 es capaz de contener el alfil blanco ubicado en la
+diagonal a1-h8. Pero si aunque sea el caballo negro de casilla c6 apoya la
+ofensiva de los citados peones, el alfil blanco solo no estará en condiciones de
+oponerse al avance de la cadena de peones.
+El mejor método de bloquear es detener a los peones con peones. Si en vez de
+amenazar a los peones negros c4, d5 y e6 con el alfil ponemos tres peones
+blancos en los escaques c3, d4 y e5, alzaremos una barrera infranqueable.
+En las partidas contemporáneas de ajedrez, los bandos adversarios procuran
+limitar la movilidad de las cadenas de peones ya al comienzo del juego. Como,
+por ejemplo, en este sistema de apertura:
+1.d4 Cf6 2.c4 e6 3.Cc3 Ab4 4.e3 c5 5.Ad3 Cc6 6.Cf3 Axc3+ 7.bxc3 d6 8.e4
+e5 9.d5 Ce7
+Como ven, ante el trío de peones c4, d4, e4, las negras ponen el dúo c5, e5,
+defendido por el peón d6. Y esto resulta suficiente para estabilizar la situación en
+el centro. Pero no todos los ajedrecistas procuran limitar hasta tal punto la
+movilidad de los peones. El dinamismo de la cadena de peones ofrece ricas
+posibilidades para el juego combinatorio, y esto igualmente peligroso y atractivo,
+máxime si los rivales prefieren el juego abierto. Por el contrario, la cadena de
+peones inmóvil, bloqueante a menudo predetermina el desarrollo lento y
+tranquilo de la partida.
+Los lectores, seguramente habrán tropezado en la literatura ajedrecística, en
+comentarios de partidas, con los términos « peón débil» , « peón aislado» , etc.
+Cada uno de ellos testimonia el defecto en la cadena de peones que limita su
+movilidad y aumenta la vulnerabilidad.
+Un ejemplo simple. Ver diagrama.
+
+A pesar de la amenaza por parte del rey negro, las blancas jugando
+correctamente pueden defender al peón y hasta coronarlo. Pero basta trasladar
+el rey blanco, digamos, a la casilla g3 para que el peón se haga débil, porque lo
+ataca con éxito el rey negro.
+Otro defecto corriente de la cadena de peones son dos o tres peones en una
+vertical. Voluntariamente pocas veces se colocan uno tras otro. Es difícil
+defenderlos, sobre todo al final de la partida, donde originan grandes problemas.
+Pero no hay regla sin excepción, máxime en ajedrez.
+Vean este bello final de la partida Ortueta-Sants, jugada 50 años atrás. Ver
+diagrama.
+
+1…Td2 2.Ca4 Txb2 3.Cxb2 c3 4.Txb6 [4.Cd3 c4+ 5.Txb6 cxd3! 6.Rf2 c2
+7.Tc6 d2] 4…c4!! [4…axb6 5.Cd3] 5.Tb4 a5!! 6.Cxc4 [6.Txc4 cxb2] 6…c2
+Después de las jugadas evidentes 1… Td2 2. Ca4, en el tablero empiezan a
+ocurrir milagros. 2… Txb2. Los defectos de la estructura de peones (vean los
+peones negros) resulta que pueden ser compensados con juego ingenioso. Las
+negras entregan torre 3. Cxb2 c3 (después de 4. Cd3 c4+ entra en acción el alfil
+negro dormido y eso resuelve. 5. Txb6 cxd3 6. Rf2 c2 7. Tc6 d2 y el peón se
+promociona. Si 5…axb6, sigue 6. Cc1 y las blancas quedan con pieza de más)
+4.txb6 Pero las negras asestan golpe 4… c4! Ahora quitan ala caballo la casilla d3
+y luego de 5. Cxc4 el peón c se transforma en dama. ¿Acaso dos piezas no
+pueden arreglárselas con dos peones inválidos que se arrastran por la línea c? 5.
+Tb4. Parece que las ahora blancas vencerán. Porque contra la amenaza 6. Txc4
+no se ve defensa. 5…a5!! Verdadero himno a los peones. El peón olvidado, que
+
+antes no capturó a la torre, resuelve la lucha con salto a primera vista inverosímil.
+Ahora, si 6. Txc4 sigue 6… cxb2, después de lo cual, la casilla b4 se hace
+inaccesible para la torre, y el peón se corona por la línea b. Si 6. Cxc4, sigue 6…
+c2 y el peón igual se convierte en dama.
+¡Final asombrosamente bello!
+
+Lección 7
+Actividad y cooperación de las piezas
+Las leyes de la lucha en la partida de ajedrez se asemejan a las leyes de la
+lucha en cualquier deporte, y no sólo deporte. Triunfa el más activo, hábil,
+experto en la utilización de los recursos disponibles.
+¿Qué es actividad en el juego de ajedrez? A mi modo de ver es la aspiración
+de fortalecer con cada jugada la posición de sus piezas y crear amenazas a las
+piezas rivales. Pero para que las jugadas activas puedan garantizar éxito deben
+corresponder a las leyes generales de ajedrez y asentarse en sólida base
+estratégica.
+El ajedrecista que tiene reputación de jugador activo, como regla procura
+imponer al adversario su táctica de lucha ya desde los primeros movimientos,
+obligándole de entrada a resolver problemas de diferente complejidad.
+Para que los lectores comprendan mejor los principios de actividad y
+cooperación de las piezas analizaremos la partida del campeón mundial Anatoli
+Kárpov, que en este sentido puede considerarse ejemplar.
+Karpov, A (2695) - Dorfman, J (2405) [B81]
+URS-ch44 Moscow (8), 07.12.1976
+1.e4 c5 2.Cf3 d6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 e6 6.g4 Ae7 7.g5 Cfd7 8.h4
+Saquemos las primeras conclusiones de la apertura. Las blancas con su
+actividad en el flanco rey desplazaron a las piezas rivales a las dos últimas
+horizontales, mientras que el caballo de la casilla d7 obstruye camino al alfil c8 y
+hasta cierto punto a la dama.
+8… Cc6 9.Ae3 a6 10.De2!?
+Muy interesante y activo es el plan que contribuye al desarrollo armonioso de
+las piezas. Kárpov coloca a la dama en la línea e, donde no molestará a la torre
+d1 y creará amenazas combinatorias. La dama tampoco obstaculiza al alfil de f1,
+que se propone salir a la casilla h3 con la posterior amenaza de sacrificio Axe6.
+Como vemos, cada jugada blanca es enérgica e intensifica su potencial ofensivo.
+10… Dc7 11.0–0–0 b5
+
+La actividad contraria tiene carácter obligado. Las negras están arrinconadas
+y tratan de realizar contrajuego capaz de distraer a las blancas de la preparación
+del ataque decisivo. Pero están visiblemente atrasadas en su desarrollo. Por eso,
+en su última movida hay más desesperación que actividad fundamentada.
+12.Cxc6 Dxc6 13.Ad4! b4
+Las negras procuran al principio desplazar al caballo del escaque d5 para
+después mover e5. Ellas son consecuentes en la realización de su línea ofensiva,
+pero por desgracia tienen débil base estratégica: piezas mal desarrolladas,
+ubicadas desafortunadamente. ¿Cómo aprovechar esas insuficiencias?
+14.Cd5!
+La jugada más activa. Ahora adquiere fuerza terrible el alfil d4 e
+inesperadamente (para las negras) entra en acción la dama blanca.
+14… exd5 15.Axg7 Tg8 16.exd5 Dc7 17.Af6
+Las blancas obtuvieron por el caballo dos peones y buenas perspectivas de
+ataque al rey atascado en el centro.
+17… Ce5!
+Única posibilidad de mantener la posición. Por cuanto amenaza 18… Ag4, las
+blancas no tienen tiempo para 18.f4. Hay que debilitar el potencial ofensivo.
+18.Axe5 dxe5 19.f4
+Al ataque de piezas sigue el asalto de peones. Las negras no pueden impedir
+la formación de poderosa pareja de peones blancos, porque si 17… e4, gana
+18.d6 Axd6 19. Dxe4, etc.
+19… Af5 20.Ah3
+La aspiración de limitar al máximo el contrajuego adversario es muy típica
+para el estilo del campeón mundial. Las blancas podían llevar de inmediato
+20.fxe5, sin temer a 20… Tc8 debido a 21. Th2 Da5 22. Dxa6 Dxa6 23. Axa6,
+Karpov accede al cambio de su última pieza menor, pero anula la amenaza al
+punto c2.
+20… Axh3 21.Txh3 Tc8 22.fxe5 Dc4!
+Las negras ponen la dama en posición activa y la balanza empieza a oscilar.
+23.Tdd3
+Las maniobras con torre en la tercera horizontal son uno de los métodos
+estratégicos predilectos del campeón mundial. Aquí esta jugada no sólo previene
+el cambio de damas, sino que también sirve para mejorar la cooperación de
+piezas blancas. La cooperación de piezas es un factor muy importante que
+determina la fuerza del ajedrecista. Saber coordinar las jugadas de cada pieza,
+de cada peón, para que actúen mancomunadamente en la ejecución de cualquier
+plan negro y de paso se protejan entre sí es un gran arte, indicio de alto nivel.
+También aquí ambas torres de la tercera fila están listas para apoyar el
+movimiento de la pareja central de peones, mientras que la dama defiende el
+punto c2 y está dispuesta a ayudar a las torres. La cadena de peones (d5, e5),
+
+defendida por piezas, representa temible fuerza. Generalmente tales cadenas
+pueden desplazar las piezas enemigas a las últimas horizontales y desorganizar
+por completo sus acciones.
+23… Df4+
+La mejor respuesta.
+24.Rb1 Tc4! 25.d6 Te4! 26.The3
+Hay que cambiar otra pareja de piezas cifrando todas las esperanzas en la
+posición desafortunada del rey y torre negros.
+26… Txe3 27.Txe3 Dxh4 28.Df3!
+La cuña de peón blanco rompió la posición de las negras en dos partes y nada
+puede impedir la irrupción de la dama a c6 o bien a8. El peón bien afirmado que
+penetra en el campo adversario o la pieza también allí afirmada a veces pueden
+desorganizar por completo las acciones de las fuerzas contrarias, dividir su
+ejército en dos grupos aislados y por lo tanto débiles.
+28… Dxg5 29.Te1 Dg2?! 30.Df5 Tg6 31.Tf1 Dd5 32.dxe7 Rxe7 33.Df4!
+Las blancas recuperaron pieza y conservaron el ataque. La poca cantidad de
+piezas restantes sólo aumenta un poco las posibilidades de salvación de las negras.
+Con esas unidades combativas que siguen la lucha todo lo decide la calidad de las
+fortalezas en que se hallan los reyes. Pues bien, el rey negro prácticamente no la
+tiene y de las blancas se requiere sólo precisión en la ofensiva, que el campeón
+mundial realiza de forma ejemplar.
+33… a5 34.Dh4+ Re8 35.Dxh7 Df3 36.Dh8+ Re7 37.Dh4+ Re8 38.Dc4! Db7
+39.b3 Te6 40.Tg1! Txe5 41.Tg8+ Re7 42.Dh4+ Rd7 43.Df6 Te7 44.Df5+ Rd6
+45.Dxa5 Te5 46.Dd8+ Re6 47.Rb2! f6 48.Tf8 Dg7 49.Dc8+ Rd5 50.Dc4+ 1–0
+De modo que sean activos en la lid ajedrecística. Entonces recibirán
+verdadero placer de juego. Que vuestras piezas sean amigas, se ayuden
+mutuamente. Entonces experimentarán más a menudo la alegría de victorias que
+amarguras de derrotas.
+
+Lección 8
+Cómo evitar catástrofes en la apertura
+Apenas conoce los principios básicos del juego, cada aficionado al ajedrez
+nota que las acciones al comienzo de la partida, cuando en el tablero se
+conservan casi todas las piezas, con mayor frecuencia predeterminan el
+desarrollo de la lucha y a veces el resultado del duelo. En ocasiones el
+ajedrecista se ve obligado a pasar toda la partida en triste defensiva tratando
+vanamente de tapar las brechas de su posición abierta ya al comienzo del juego.
+Eso ocurre por desconocimiento de la teoría de aperturas, por falta de hábitos
+necesarios en la primera fase de la partida.
+La lid ajedrecística hasta cierto punto se parece a acciones militares, donde,
+como sabemos, mucho decide no sólo la preparación técnica y el equipamiento
+de las tropas, sino también la capacidad que tiene el jefe militar para prever el
+carácter de la próxima batalla y de acuerdo a eso ubica correctamente lasa
+tropas, poner en combate sus fuerzas a tiempo y en la mejor sucesión. Por eso,
+cada ajedrecista que dirige las acciones de su ejército de madera, si quiere salir
+victorioso debe reconocer los principios básicos del juego al comienzo de la
+batalla.
+Cualquier batalla de ajedrez puede conservarse para la historia porque se
+registra con ayuda de notación. Durante la existencia del ajedrez fueron anotadas
+innumerables partidas, mediante cuyo análisis se elaboró con toda las sutilezas la
+estrategia del juego en la apertura o, como dicen a menudo, la teoría de
+aperturas.
+No me propongo ofrecer a los lectores todas las aperturas ahora conocidas y
+sus particularidades. Eso sería imposible por la profusión de material. Me limitaré
+a examinar algunos principios generales de la lucha en la apertura.
+PRINCIPIO 1
+Gana la lucha de apertura quien pone en juego más rápido sus fuerzas
+principales.
+
+Esta regla es cardinal y tiene suma importancia utilizarla correctamente.
+Tomemos un ejemplo simplísimo. 1.e3 e5 2.Ac4 Cc6 3.Df3 Ac5 4.Dxf7++.
+Parece que las blancas hicieron todo como se debe, pusieron en combate de
+golpe dos piezas y dieron mate. Sin embargo, su juego merece rigurosa crítica.
+El primer movimiento fue desafortunado. En una de las lecciones anteriores dije
+qué importante es ocupar con los peones el centro del tablero. A eso debe
+aspirarse justamente en la apertura, para colocar las piezas en las mejores
+posiciones. Por eso, la jugada e4 sin lugar a dudas es más fuerte y lógica que la
+tímida 1.e3. Vuelvo a subrayar, procure ganar espacio con sus peones y ante todo
+las casillas centrales.
+La segunda movida de las blancas (2…Ac4) resulta mucho más complicado
+de refutar, aunque su calidad es baja por dos razones. La experiencia de
+generaciones anteriores sugiere la mejor forma de sacar las piezas. Primero
+salen los peones al centro, después entran en juego caballos, alfiles y sólo
+entonces las piezas mayores: torres y damas. Aquí, el alfil saltó a posición
+temible olvidando la posible réplica de las negras 2… d5. Estas tendrían poderoso
+centro de peones y el alfil blanco quedaría desplazado a los escaques poco
+promisorios d3 o bien e2.
+El ajedrez es un juego lógico y la combinación de la tímida 1.e3 con la
+agresiva 2…Ac4 carece de lógica. Por eso debe ser castigada. Las negras en
+respuesta movieron 2… Cc6 que debe estimarse continuación normal, aunque no
+las más fuerte en dada situación. En efecto, la jugada 2… Cc6 responde al
+principio de desarrollo más rápido de las piezas, pero no alza ante las blancas
+tareas dificultosas, que surgirían en caso de 2… d5! La tercera jugada blanca 3.
+Df3 parece más eficaz, pero el ajedrecista experto no la hubiera hecho ni
+tampoco pensado. Porque si las negras reaccionan correctamente 3… Cf6! El
+ataque de la dama sería estéril. Por si fuera poco, la dama en f3 quitó cómodo
+escaque al caballo de rey y a éste no le quedaba otra cosa que ocupar posición
+pasiva en la casilla e2 o hallándose en la casilla h3 apartarse lo máximo de los
+sucesos en el centro. La dama, pieza más potente de ajedrez, no debe apresurar
+su salida a la arena de combate, pues en caso contrario las piezas menores del
+enemigo podrán lanzarse a la caza de la dama. La contestación de las negras 3…
+Ac5?? Es lógica sólo desde el punto de vista de la lógica formal (sacan la segunda
+pieza en sucesión debida) y pierden en el acto la partida. Porque no tuvieron en
+cuenta la amenaza concreta del adversario. Todo esto nos revela el análisis atento
+de una partida tan corta, llena de errores recíprocos.
+Ilustraremos el primer principio de apertura, poner en juego las piezas lo más
+rápido posible, utilizando una partida de más de siglo atrás.
+Schulten, J - Morphy, P [C32]
+New York blind m New York, 1857
+
+Nota del Editor:
+Esta partida fue jugada a ciegas por Paul Morphy lo que demuestra la gran
+calidad de juego del genio norteamericano.
+1.e4 e5 2.f4
+Con este inicio antiguo y romántico que recibió el bello nombre de gambito de
+rey, la rápida puesta en acción de las piezas resuelve a menudo el desenlace de la
+pugna. La teoría moderna estima que la mejor defensa de las negras aquí es el
+contraataque. Esto lo demuestra claramente el genial ajedrecista norteamericano
+Paul Morphy.
+2… d5! 3.exd5 e4!
+Capturar cualquier peón sería pusilanimidad. Las negras procuran aventajar
+al contrincante en el desarrollo, pues cualquiera de las piezas de ellas tiene buena
+perspectiva.
+4.Cc3 Cf6 5.d3 Ab4 6.Ad2
+Después de 6.dxe4 Cxe4 7. Dd4 De7 8. Ae2 0-0 9. Ad2 Cxd2 10. Dxd2 Ag4, a
+las blancas no les sería fácil activar sus piezas.
+6… e3!
+Osado sacrificio de peón con largo objetivo. Después de enrocar, la torre
+negra ocupa la línea e.
+7.Axe3 0–0 8.Ad2 Axc3 9.bxc3 Te8+! 10.Ae2 Ag4 11.c4?
+Podemos Afirmar con certeza que esa fue la jugada mala de las blancas.
+Ellas deberían liberarse de la ligazón por la línea e, mejor que todo con 11. Rf2.
+¡Pero querían tanto conservar un peón central de más!
+11… c6! 12.dxc6?!
+Todavía no era tarde para jugar 12. Rf2 o bien 12.h3. Al conservar
+supremacía material, las blancas permiten al adversario poner eficazmente en
+acción al caballo b8; después de eso, la ventaja de las negras en el sector
+determinante del tablero se hace aplastante.
+12… Cxc6 13.Rf1
+Es difícil dar buen consejo a las blancas. Si 13. Ac3 Cd4 14. Axd4 Dxd4
+15.g3, sigue 15…Txe2! 16. Cxe2 Te8 con ataque decisivo. Por lo visto, luego de
+12… dxc6 la posición blanca era indefendible.
+13… Txe2! 14.Cxe2 Cd4
+Los acontecimientos principales se avecinaban por la línea e, donde papel
+terminante debía desempeñar la ligazón vertical. Así ocurrió en efecto.
+Precisamente las amenazas por la línea e obligaron a las blancas a perder otro
+tiempo para que el rey blanco huyera de la aciaga línea e. Pero entonces siguió
+una pequeña combinación que transformó la ligazón vertical en diagonal, aún
+más funesta para las blancas.
+15.Db1 Axe2+ 16.Rf2 Cg4+ 17.Rg1
+El rey se agita desesperado en su campo persistiendo la catástrofe. A quienes
+
+deseen perfeccionarse en el arte de ataque les aconsejo dejar a un lado la revista
+y encontrar por su cuenta la victoria forzada de las negras. Al cabo de 20-30
+minutos comparen su solución con la escogió Paul Morphy.
+17… Cf3+! 18.gxf3 Dd4+ 19.Rg2 Df2+ 20.Rh3 Dxf3+ 21. Rh4 Ce3 22.Tg1
+Cf5+ 23. Rg5 Dh5++ 0–1
+En clases posteriores seguiremos estudiando los principios del juego al
+comienzo de la partida.
+
+Lección 9
+¿Hay que aceptar sacrificio?
+En la lección anterior nos convencimos de que el dominio en el centro y el
+rápido desarrollo de las piezas determinan bastante el resultado de la lucha de
+apertura, sobre todo en partidas de ajedrecistas expertos. Antes de seguir delante
+de profundizar en la teoría de aperturas, analizaremos errores de la fase inicial
+del juego que cometen a menudo aficionados al ajedrez de poca experiencia.
+Ante todo vale la pena recordar que los más vulnerables en el sistema
+defensivo de fortalezas del rey son los puntos defendidos sólo por el rey. En la
+posición inicial se trata de los peones f2 y f7, y con enroque corto, de los peones
+h2 y g2, h7 y g7. De la seguridad de estas casillas hay que preocuparse en
+primer término. La práctica muestra que precisamente en ellas, como regla,
+ocurren catástrofes en muchos sistemas de apertura absolutamente distintos por
+su carácter.
+Veamos la posición que surge en la partida italiana. Antigua y llena de
+romanticismo.
+Greco, G - NN [C54]
+Rome, 1620
+1.e4 e5 2.Cf3 Cc6 3.Ac4 Ac5 4.c3 Cf6 5.d4 exd4 6.cxd4 Ab4+ 7.Cc3!
+En lugar de la prudente 7.Ad2, las blancas para el desarrollo acelerado de sus
+piezas sacrifican peones y piezas, método típico de ajedrecistas de estilo
+ofensivo. Los métodos modernos de lucha de apertura, basados en la experiencia
+de generaciones precedentes, condenan el juego siguiente de las negras, pero
+tengamos en cuenta que así jugaban 100 años atrás, cuando el principio « el
+sacrificio debe aceptarse sin falta»  no se discutía.
+7… Cxe4 8.0–0 Cxc3 9.bxc3 Axc3?
+Las negras aniquilaron a dos peones enemigos pero se atrasaron mucho en le
+desarrollo de las piezas. El castigo por semejante violación de los fundamentos de
+apertura por lo común es inminente y severo. Este análisis antiguo muestra bien
+las consecuencias nefastas de la avidez a comienzos del juego. Pero no piensen
+
+que tiene sólo importancia histórica. Esta posición es frecuente en simultáneas de
+hoy día. No se apasionen capturando peones adversarios en la apertura en
+perjuicio de la movilización de sus fuerzas.
+10.Db3 Axa1
+Las negras son consecuentes en su aspiración de capturar la máxima cantidad
+posible de peones y pierden la última oportunidad de sacar el rey al flanco.
+Tenían esa oportunidad: 10… d5 11. Axd5 0-0.
+11.Axf7+ Rf8 12.Ag5 Ce7 13.Ce5!
+Llegó la rápida condena por haber menospreciado el desarrollo de las piezas,
+por la angurria en la apertura. Y fíjense, la catástrofe ocurrió precisamente en el
+escaque f7. Las negras, por más que ahora se defiendan, pierden.
+13… Axd4
+13…d5 14.Df3! Af5 15.Ae6 g6 16.Ah6+ Re8 17.Af7++. ¡De nuevo el
+escaque f7!
+14.Ag6 d5 15.Df3+ Af5 16.Axf5 Axe5 17.Ae6+ Af6 18.Axf6 Re8
+18…gxf6 19.Dxf6+ Re8 20.Df7++. ¡De nuevo el escaque f7!
+19.Axg7 1–0
+Además de la caza de peones, muchos aficionados al ajedrez cometen otro
+error típico, se demoran en evacuar al rey del centro. En la práctica de los
+maestros existen partidas donde los reyes de ambos bandos quedan en el mismo
+centro de la lucha y no perecen. Pero es una excepción de la regla, excepción
+basada en conocimientos profundo de la situación creada y en técnica elevada de
+defensa. A los ajedrecistas noveles, así como a quienes no tienen suficiente
+experiencia les conviene enrocar en la primera oportunidad. Si el rey queda en la
+posición inicial mediante sacrificios se le puede atraer al mismo centro del
+tablero. Entonces la desgracia será inminente. Vean una partida instructiva en
+este sentido.
+Vasiukov, E - Lebedev, B [C41]
+Moscow, 1960
+1.e4 e5 2.Cf3 d6 3.d4 Cd7
+Una distribución de piezas negras tan ingenua es frecuente en partidas de
+aficionados.
+4.Ac4 h6
+Esta ya es una decisión dudosa. En lugar de desarrollar las piezas (digamos
+4…Ae7), las negras, queriendo poner su caballo en f6 pierden tiempo al tratar de
+conjurar la incursión del caballo blanco en g5. Pero para demostrar que la
+estrategia de apertura de las negras es errónea se necesitó el juego
+excepcionalmente resuelto y enérgico de las blancas.
+5.dxe5 dxe5
+Después de 5…Cxe5 6.Cxe5 dxe5 7.Axf7+ Re7 la posición de las negras era
+
+desesperada.
+6.Axf7+!
+El primer golpe se asesta al lugar más vulnerable.
+6… Rxf7 7.Cxe5+ Rf6
+Porque todo lo restante pierde todavía más rápido.
+8.Cc3!
+Para obligar al rey negro a efectuar el paseo, las blancas sacrifican el
+caballo. Las amenazas 9. Cd5+ y 9. Dd4 pueden rechazarse sólo de un modo,
+porque las otras variantes no salvan. Por ejemplo 8…c6 9.Df3+ Rxe5 10.Df5+
+Rd6 11.Af4+ Ce5 12.Dxe5+ Rd7 13.Td1+!; o bien 8…Ac5 9.Df3+ Rxe5 10.Df5+
+Rd6 11.Af4+ Re7 12.Cd5+ Re8 13.Cxc7+!; y después de 8…De8 9.Cd5+ Rxe5
+10.Af4+ Re6 11.Cxc7+ las negras pierden en el acto.
+8… Rxe5
+Corto resultó el camino desde la casilla e8 hasta la casilla e5, pero igualmente
+corto puede resultar el camino de vuelta. Por eso, las blancas deben atacar
+impetuosamente.
+9.Dh5+ g5 10.Axg5!
+Golpe brillante. Si 10… Dxg5 conduce a la victoria 11.f4+! Rxf4 12.0-0+ Re5
+(12… Re3 13. Tad1! Dxh5 14. Txd3++.) Tf5+ Dxf5 14. Dxf5+ Rd6 15. Td1+ Re7
+16. Cd5+ Rd8 17. Cb6! cxb6 18. Dxf8+ Rc7 19. Dg7. Ahora las negras intentan
+« pagar rescate»  con torre.
+10… hxg5 11.f4+! Re6 12.f5+ Re7 13.Cd5+ Rd6 14.Dxh8 Cgf6 15.0–0–0
+Rc6 16.The1 b6 17.Cb4+ Axb4!
+En difícil situación, las negras encuentran ingeniosa posibilidad de complicar
+la lucha sacrificando dama. Si 17…Rb7 18.e5
+18.Dxd8 Ab7!
+¡Diabólico plan! La dama blanca cayó en la trampa y debe perecer. Pero el
+ajedrez es un juego lógico y no puede ser que las blancas jugando bien, ganando,
+de repente se hallen al borde de la derrota. Hay que buscar otra movida,
+buscar…
+19.Txd7! Cxd7
+A final ventajoso para lasa blancas conduce 19…Txd8 20.Txd8 Axe1 21.e5!
+Cg4 22.e6 Ab4 23.Td4.
+20.Dxg5 Axe1 21.De3!
+Ahora, la situación se aclara definitivamente. El alfil negro está condenado a
+perecer, porque si 21…Ab4 22.Dd4!; o si 21…Aa5 22.Dd4!]
+21… Ah4 22.Dh6+ Af6 23.e5 Tf8 24.exf6 Txf6
+En realidad, la lucha con esto terminó. La falange de peones blancos en el
+flanco rey, apoyada por la dama, es imposible de contener.
+25.Df4 Ac8 26.g4 Cc5 27.b4 Cb7 28.De4+ Rd7 29.Dd4+ Td6 30.Dg7+ Rc6
+31.f6 Cd8 32.f7 Cxf7 33.Dxf7 Ae6 34.De8+ Rd5 35.Da8+ Re5 36.Dxa7 Tc6
+
+37.Da4 Tc4 38.Db5+ Rf4 39.g5 c6 40.Dxb6 1–0
+Como confirmación de las tesis básicas enunciadas quiero ofrecer a los
+lectores, para su análisis individual, una partida muy bella e instructiva, jugada
+1000 años atrás.
+Chigorin, M - Alapin, S [C52]
+San Petersburgo, 1883
+1.e4 e5 2.Cf3 Cc6 3.Ac4 Ac5 4.b4 Axb4 5.c3 Aa5 6.0–0 Cf6 7.d4 0–0 8.dxe5
+Cxe4 9.Ad5! Axc3 10.Axe4 Axa1 11.Axh7+!
+Sacrificio de alfil y de nuevo golpe al punto más vulnerable. Como ven, en g8
+el rey, naturalmente, está mejor que en e8, pero no hay seguridad total.
+11… Rh8
+En caso de 11…Rxh7 las blancas ganan así: 12.Cg5+ Rg6 13.Dg4 f5 14.exf6
+Ce5 15.Dg3! Rxf6 16.f4 Re7 17.Te1 d6 18.Cc3!
+12.Cg5 g6 13.Dg4 Axe5 14.Dh4 Rg7 15.Ce6+ fxe6 16.Dh6+ Rf7 17.Axg6+
+Re7 18.Dh4+! Tf6 19.Aa3+! d6 20.Dh7+ Rf8 21.Dh8+ Re7 22.Dg7+ Tf7
+23.Dxf7++. 1–0
+
+Lección 10
+Objetivos de las acciones en la apertura
+Las dos lecciones anteriores fueron dedicadas a los errores más típicos que
+comenten los ajedrecistas poco avezados en la fase inicial de la partida. Ahora,
+convencidos por experiencia cómo no hay que jugar en la apertura,
+procuraremos aclarar qué se debe emprender para obtener buena posición desde
+el mismo comienzo.
+Prácticamente, todas las indicaciones al respecto se dan en la lección octava,
+donde se expone el principio Nº 1 de conducción de la lucha en la apertura. Este
+principio determina los puntos de referencia principales, justos en cualquier
+construcción de apertura. Cabe recordar que la puesta en acción de las piezas
+debe en tal o cual grado dar provecho concreto precisamente a mitad de la
+partida, cuando se desarrollan los acontecimientos fundamentales. Tiene suma
+importancia, sobre todo para los ajedrecistas con poca práctica, que al desplegar
+sus fuerzas observen armonía, es decir, dejen en su campo espacio para
+maniobra de las piezas, eviten su amontonamiento. Al mismo tiempo hay que
+dificultar al adversario el cumplimiento de esa tarea.
+Independientemente del carácter de la apertura, las mejores jugadas de
+ambos siempre están subordinadas a un objetivo: luchar por el centro. Con la
+particularidad de que las blancas, teniendo la ventaja de la primera jugada, son
+capaces de lograr más rápido ese objetivo, mientras que las negras harán lo
+posible para impedirlo. Veamos, como ejemplo, las primeras jugadas de dos
+complicadísimos sistemas de teoría contemporánea, la partida española 1.e4 e5
+2.Cf3 Cc6 3.Ab5, y la defensa Nimzowitsch 1.d4 Cf6 2.c4 e6 3.Cc3 Ab4. Está
+claro que la lucha desde el mismo comienzo se entabla en torno a las casillas
+centrales e5 y e4. Eso es natural. La supremacía en el centro del tablero (se trata
+no sólo de ocupar con los peones las casillas centrales, sino también de controlar
+con las piezas) permite crear cabeza de puente para operaciones activas en
+medio juego.
+Procuraremos ilustrar lo dicho con un ejemplo bastante simple.
+1.e4 e5 2.f4 Cc6 3.Cf3 exf4 4.d4 d6 5.Axf4 Cf6 6.Cc3 Ae7 7.Ae2 0–0 8.0–0.
+
+Así, dicho sea de paso, empiezan a menudo las partidas entre novatos o en
+sesiones de simultáneas. Ambos bandos trataron de desarrollar las piezas en igual
+medida, pero las blancas consiguieron mucho más. Tienen fuerte pareja de
+peones en el centro y sus piezas disponen de espacio operativo. Claro, la posición
+de las negras está lejos de ser perdedora, ¿pero por qué desde el mismo
+comienzo condenarse voluntariamente a pasividad?
+En mi tarea no entra dar recomendaciones concretas respecto a tal o cual
+apertura, pero teniendo en cuenta la enorme popularidad del gambito de rey
+entre ajedrecistas poco expertos puedo aconsejar estos métodos de juego.
+1.e4 e5 2.f4 exf4 3.Cf3 d6 4.d4 g5 5.Ac4 Ag7 6.0–0 h6.
+O bien 1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Cf6. Este intento de pasar al
+contraataque entraña bastante peligro para ambos bandos, exige buen
+conocimiento de múltiples variantes.
+Ahora, con ejemplo tomado de la práctica de grandes maestros veremos
+cómo el menosprecio de los principios del desarrollo en la apertura condujo a las
+blancas a rápida catástrofe.
+Bogoljubow, E - Botvinnik, M [E14]
+Nottingham, 1936
+1.d4 Cf6 2.Cf3 b6 3.e3
+En esencia, las blancas renuncian a juego en el centro. Los intentos de
+obtener supremacía en la apertura están vinculados con la movida c4 o bien Cc3.
+3…c5 4.c4 Ab7 5.Cc3 cxd4 6.exd4 e6 7.Ad3 Ae7 8.0–0 0–0?
+Si las negras jugasen 8…d5 hubiesen resuelto los problemas de apertura.
+9.b3?
+Momento significativo. Las blancas se apasionaron por el desarrollo de sus
+piezas, sin pensar en las consecuencias, y no advirtieron la jugada 9.d5! que haría
+imposible el desarrollo armonioso de las piezas adversarias. La variante 9…exd5
+10.cxd5 Cxd5 11.Cxd5 Axd5 12.Axh7+! Rxh7 13.Dxd5 es claramente ventajosa
+para las blancas, porque las negras tendrían que resignarse a la existencia del
+peón d5, que obstaculiza su posición.
+9…d5 10.Ae3?
+Diremos con franqueza, jugada conforme al principio « después veremos» .
+El alfil en e3 está ubicado al extremo desafortunadamente, molesta a sus piezas e
+impide a las blancas controlar la casilla importante e4, donde se afirma sin
+demora el caballo negro. La lógica del juego anterior de las blancas requiere las
+jugadas Ab2 y De2, para después, según el plan trazado, seguir Tac1 y Tfd1 o
+bien Tad2 seguido de Tfe1. En este caso, las blancas tendrían juego libre y
+podrían atisbar con seguridad el futuro.
+10… Ce4 11.Tc1 Cd7 12.De2
+Continuación del mismo juego despreocupado que permitió a las negras
+reforzar sin obstáculos su posición. Ahora, las blancas pierden la última chance
+
+de disputar a las negras el dominio del centro: 12.cxd5 exd5]
+12… Tc8
+Ahora, el cambio cxd5 ya es imposible.
+13.Tfd1 f5
+Las negras fortalecieron al caballo ubicado en el centro. Ahora es evidente
+que las blancas tropezaron con serias dificultades. En primer lugar, las negras
+dominan en el centro. En segundo lugar, empieza a manifestarse el
+debilitamiento de las casillas negras en el flanco dama. Recordemos que todo eso
+se podía evitar poniendo el alfil en b2, ¡el lugar más natural para él en dada
+situación! Con este ejemplo uno se convence en la práctica que la ubicación
+incorrecta de una pieza puede influir en la solidez de toda la posición.
+14.Af4?
+Las blancas demasiado tarde —¡y en momento inoportuno!— procuran
+controlar la casilla e5. Era más razonable pasar a la defensiva y con la jugada
+14.Cb1 luego cxd5 o bien Txc8 procurar por medio de cambios aliviar algo su
+situación.
+14… g5!
+Bajo abrigo del poderoso puesto avanzado central Ce4, las negras pasan a
+ofensiva resuelta sin turbarles lo mínimo el debilitamiento de la posición del rey.
+15.Ae5 g4 16.Ce1 Cxe5 17.Axe4 dxe4 18.dxe5 Dc7
+La suerte de la partida estaba decidida. El peón e5 perece y el vigoroso puño
+de las negras en el centro, apoyado por los dos alfiles de largo alcance, debe
+obligar a las blancas a capitular en breve.
+19.Cb5 Dxe5 20.Td7 Ag5!
+Última sutileza. El alfil escapa rápido al golpe.
+21.Tcd1 Ac6 22.Txa7 Tcd8
+Además de todo, las negras se apoderan de la línea d. El final de la partida
+fue:
+23.a4 Txd1 24.Dxd1 Td8 25.Dc2 Ad2 0–1
+Pienso que aquí valdría la pena citar la observación de Mijail Botvinnik a otra
+partida, con el maestro Alexandr Sokolski de la semifinal del campeonato
+nacional de 1938: « … Y el control de las casillas centrales pasa a las negras. Se
+aclara paulatinamente que las blancas no tienen plan de juego y están ocupadas
+sólo en desarrollar las piezas. Tal vez era admisible jugar así a comienzo del siglo,
+pero en nuestra época, cuando cada maestro aproximadamente desde la sexta-
+octava jugada traza el plan de medio juego, no hay “mejor” forma de caer en
+posición incómoda que aspirar al simple desarrollo»
+Esta observación crítica del excampeón mundial puede considerarse axioma
+ajedrecístico, es decir, regla vigente para todos los que juegan al ajedrez.
+
+Lección 11
+Abiertas, semiabiertas, cerradas
+Después de estudiar las lecciones anteriores, usted colocó las piezas y piensa
+con qué jugada empezar. No se apresure a tomar el manual de apertura, sólo
+confundirá al aficionado poco experto. Probemos hacer juntos la elección. Ante
+todo recuerde, en la posición inicial no existe jugada mejor ni más fuerte. Hay
+varias jugadas correspondientes a los principios del desarrollo de las piezas en la
+apertura y entre ellas debe elegir conforme a sus gustos, conocimientos y
+experiencia ajedrecística.
+Yo le propondría iniciar las partidas moviendo dos casillas uno de los peones
+centrales. Mientras no era GM., me gustaba mucho empezar la partida con la
+jugada del PR. 1. e4! Esa jugada reflejaba osadía caballeresca y disposición a
+entrar en combate de golpe. El peón blanco en la casilla e4 tiene bajo fuego el
+importante escaque d5 y espera refuerzo en d4. Como ven, los objetivos de las
+blancas son bien claros, abiertos, y no por casualidad todas las aperturas que
+empiezan con la jugada 1.e4 corresponden a la clase de abiertas o semiabiertas.
+De modo que las blancas jugaron 1.e4 ¿Cuál será la mejor respuesta de las
+negras? Aunque parezca extraño, ellas tienen bastante amplia elección. La
+respuesta más cardinal, sin dudas, es igual contraataque del OPR negro: 1… e5.
+Todas las aperturas que empiezan 1.e4 e5, constituyen la clase de:
+Aperturas abiertas, con la historia y práctica más ricas.
+Gambito de Rey 1.e4 e5 2.f4 exf4 3.Cf3 d6 4.d4.
+
+Esta magnífica apertura ahora desapareció de la práctica seria de torneos, en
+gran parte debido a las ideas contragambito de las negras, que les permiten
+luchar exitosamente por la iniciativa mediante 2… d5! 3.exd5 e4! O bien 2…
+exf4 3. Cf3 d5 4.exd5 Cf6.
+Gambito del Centro. Otro intento de quitar en el acto el peón del centro 1.e4
+e5 2.d4 exd4 3.Dxd4.
+
+Encontró menos partidarios. Durante el paseo de la dama blanca 3… Cc6
+4.De3 Cf6, las negras tienen el tiempo de poner en juego a dos caballos y
+obtienen de golpe posibilidades iguales que las blancas en la lucha inminente.
+Partida Italiana. 1.e4 e5 2.Cf3 Cc6 3.Ac4 Ac5.
+
+La idea de este comienzo es aprovecharse del centro y atacar el punto f7.
+Una de las aperturas más antiguas del ajedrez resultó extraordinariamente
+múltiple. Ahí, las tentativas de apoderarse en el acto del centro, sin parar en
+sacrificios 1.e4 e5 2.Cf3 Cc6 3.Ac4 Ac5 4.b4 Axb4 5.c3 Ac5 6.d4. O bien 1.e4 e5
+2.Cf3 Cc6 3.Ac4 Ac5 4.c3 Cf6 5.d4 exd4 6.0–0. Se combinan con métodos
+modernos de desarrollo no presuroso de las fuerzas combativas después de 1.e4
+e5 2.Cf3 Cc6 3.Ac4 Ac5 4.d3 d6 5.c3 Cf6 6.0–0 0–0 7.Ag5.
+La partida Española. Corona la clase de aperturas abiertas. 1.e4 e5 2.Cf3 Cc6
+3.Ab5.
+
+Apertura profunda por su contenido estratégico y táctico. Los mejores
+grandes maestros del orbe consideran medida de la fuerza ajedrecística saber
+jugar con blancas y negras posiciones españolas. Este comienzo satisface
+cualquier gusto. Aquí hay esquema de variante de cambio relativamente no
+complicado para la comprensión (1.e4 e5 2.Cf3 Cc6 3.Ab5 a6 4.Axc6 dxc6);
+lucha acentuada con precisión por el centro en variante abierta (1.e4 e5 2.Cf3
+Cc6 3.Ab5 a6 4.Aa4 Cf6 5.0–0 Cxe4 6.d4 b5 7.Ab3 d5 8.dxe5 Ae6); famoso
+contraataque Marshall (1.e4 e5 2.Cf3 Cc6 3.Ab5 a6 4.Aa4 Cf6 5.0–0 Ae7 6.Te1
+b5 7.Ab3 0–0 8.c3 d5! 9.exd5 Cxd5 ó incluso 9… e4) y, por fin, esquema clásico
+excepcionalmente rico de contenido, que pueden aplicar de forma correcta sólo
+ajedrecistas expertos y eruditos (1.e4 e5 2.Cf3 Cc6 3.Ab5 a6 4.Aa4 Cf6 5.0–0
+Ae7 6.Te1 b5 7.Ab3 0–0 8.c3 d6 9.h3 Ca5 ó bien 9… Cb8 10.d4).
+Volvamos a la posición después de la primera movida blanca. Además de la
+
+rectilínea 1… e5, las negras pueden empezar el juego siguiendo otros esquemas,
+cuya estrategia de apertura no está delineada con tal precisión como en la partida
+española.
+No en vano todas las aperturas donde a 1.e4, las negras responden de otro
+modo que 1… e5, constituyen la clase de:
+Aperturas Semiabiertas.
+La apertura más simple por el delineamiento de la lucha es la llamada:
+Partida Escandinava. 1.e4 d5 2.exd5 Dxd5 3.Cc3 Da5.
+Al precio de pérdida de tiempo para el retroceso de la dama, las negras
+hacen menos tensa la situación en el centro y quieren desarrollar las piezas de
+este modo: 1.e4 d5 2.exd5 Dxd5 3.Cc3 Da5 4.d4 Cf6 5.Cf3 Ag4 6.Ac4 e6 7.0–0
+Cc6, con el posterior enroque largo. Este comienzo no es popular entre los
+
+ajedrecistas expertos (no nos gusta perder tiempo en vano), pero para la masa
+fundamental de ajedrecistas es una apertura bastante aceptable.
+Defensa Siciliana. La apertura de esta clase empleada más a menudo y que
+surge luego de 1… c5.
+Las negra impiden formar fuerte pareja de peones y después de 1.e4 c5
+2.Cf3 Cc6 3.d4 cxd4 4.Cxd4, muy a menudo surgen posiciones donde se entabla
+una lucha muy complicada por controlar con las piezas las casillas centrales, y
+los ajedrecistas tienen abundancia de posiciones tácticas.
+Yo aconsejaría iniciar el estudio de la defensa siciliana por algunas partidas
+conocidas. Jugadas en la Variante del Dragón: 1.e4 c5 2.Cf3 Cc6 3.d4 cxd4
+4.Cxd4 Cf6 5.Cc3 d6 6.Ae3 g6 7.f3 (o bien 7. Ae2) o en el Sistema Scheveningen
+1.e4 c5 2.Cf3 Cc6 3.d4 cxd4 4.Cxd4 Cf6 5.Cc3 d6 6.Ae3 e6.
+
+La Defensa Caro-Kann (1.e4 c6 2.d4) y La Defensa Francesa 1.e4 e6 2.d4 d5)
+Se asemejan por sus ideas estratégicas fundamentales.
+
+Las negras no impiden crear el centro de piezas ideal, pero limitan
+resueltamente su movilidad, alzando un puesto avanzado bien fortalecido en d5.
+Las posiciones más actuales en la Defensa Caro-Kann pueden considerarse las
+siguientes. Primera: 1.e4 c6 2.d4 d5 3.e5 Af5 4.Cc3 e6; Segunda: 1.e4 c6 2.d4 d5
+3.Cc3 dxe4 4.Cxe4 Af5 5.Cg3 Ag6. Las blancas mantienen pequeña supremacía
+en el espacio controlado, pero en las posiciones de las negras no hay debilidades
+y sus piezas se desarrollan sin obstáculos. En la Defensa Francesa, la variante
+básica 1.e4 e6 2.d4 d5 3.Cc3 Ab4 4.e5 c5, conduce a la posición en que la pareja
+de peones bloqueada d4, e5 se halla continuamente bajo amenaza.
+Ambas aperturas se estiman bastante eficaces y llevan a complicada lucha
+de maniobras. A quienes aman el trabajo meticuloso en el tablero de ajedrez y
+están dispuestos a esperar pacientes su hora puedo recomendarles que estudien
+una de estas aperturas. Me gusta más la Defensa Caro-Kann. Ahí nada impide
+
+desarrollar las piezas negras, mientras que en la Defensa Francesa el alfil de c8
+largo tiempo no puede entrar en acción.
+Mucho más despacio transcurren los acontecimientos en el tablero de ajedrez
+si las blancas con su primera movida adelantan en lugar del PR el PD. 1. d4.
+Aquí, en los primeros tiempos, los planes de los bandos son completamente
+ininteligibles, están ocultos del adversario. Y todas las aperturas con la primera
+movida 1.d4 forman la clase de:
+Aperturas Cerradas. Para jugarlas correctamente hay que tener hábitos
+posicionales y cierta experiencia. Por eso aconsejo al principio emplear durante
+un año aperturas Abiertas y sólo después estudiar las Cerradas.
+Como en el caso 1.e4, la respuesta cardinal a 1.d4 es 1… d5. Luego de 2.c4,
+surgen diferentes esquemas de gambito de dama.
+
+Respondiendo 2… c6 o bien 2… e6 las negras procuran mantener el puesto
+avanzado de peones en d5, mientras las blancas irán creando metódicamente
+condiciones propicias para que el peón blanco llegue a e4.
+En nuestro siglo se elaboraron otros métodos de desarrollo, donde las negras
+luchan por el centro de forma no tan rectilínea. Así nació la Defensa
+Nimzowitsch (1.d4 Cf6 2.c4 e6 3.Cc3 Ab4) y la Nueva India (1.d4 Cf6 2.c4 e6
+3.Cf3 b6)
+
+Donde las negras tratan de luchar por el control de la casilla e4.
+En la Defensa Antigua India (1.d4 Cf6 2.c4 g6 3.Cc3 Ag7 4.e4 d6) y en la
+Defensa Grunfeld (1.d4 Cf6 2.c4 g6 3.Cc3 d5 4.cxd5 Cxd5 5.e4)
+
+Las negras, al contrario, permiten que el enemigo cree un poderoso centro de
+peones y sólo después se ponen a socavarlo.
+Aquí terminamos nuestra breve familiarización con las principales aperturas.
+
+Lección 12
+El arte de planear
+Casi cada persona al iniciar cualquier tarea analiza qué acciones debe realizar
+para lograr el objetivo propuesto y después calcula en qué sucesión.
+Estoy firmemente convencido de que el ajedrez hasta cierto punto es un
+modelo de la vida y en este juego también tiene importancia saber planear.
+¿Qué es el plan en la partida de ajedrez? Un orden meditado de acciones para
+lograr determinado objetivo, un orden que considera la situación real en el
+tablero y que se corrige permanentemente según el proceder adversario del
+juego.
+La partida generalmente se distingue por la aplicación de varios planes. Al
+principio desarrollo de la apertura según determinado esquema, poniendo en
+juego las piezas con el propósito de obtener supremacía en algún sector del
+tablero. Después, gradual aumento de la presión parea lograr ventajas concretas
+posicionales o materiales en medio juego. Por último, materialización
+reflexionada de la superioridad en la fase final del juego para alcanzar tal
+correlación de fuerzas donde la resistencia de uno de los bandos sea inútil. El
+defensor tampoco construye su defensa espontáneamente, lo hace de acuerdo a
+un plan que tenga en cuenta el peligro real de amenaza enemiga y las debilidades
+propias que deben superarse en primer término.
+El plan de juego se efectúa en base a la estimativa de la situación concreta y
+sus particularidades. Por eso es tan importante saber analizar correctamente el
+estado del ejército propio y contrario, conocer todas las sutilizas de la situación
+creada. La posibilidad de trazar el plan de juego y aplicarlo incesantemente en el
+tablero constituye uno de los aspectos atractivos de la lid ajedrecística y a
+menudo reporta no menos satisfacciones que, digamos, un ataque bello al rey. Si
+tenemos en cuenta que los rivales no sólo ocultan uno del otro sus intenciones,
+sino en ocasiones disimulan minuciosamente la zona hipotética del futuro
+combate realizando ingeniosa maniobras distractivas, se torna claro que jugar
+conforme al plan adoptado es un gran arte. Indudablemente, el aficionado no
+puede aprender de golpe a calcular correctamente sus acciones. Claro, habrá
+
+errores que destruirán lo proyectado, así como pequeños descuidos. Pero, en mi
+opinión, es preferible aprender a planear en base a errores que prescindir por
+completo de plan.
+Para confirmarlo citaré dos ejemplos.
+Suetin, A - Bondarevsky, I [C72]
+URS-ch31 Leningrad (9), 11.1963
+1.e4 e5 2.Cf3 Cc6 3.Ab5 a6 4.Aa4 d6 5.0–0
+En el tablero vemos una de las viejas ramificaciones de la partida española.
+Al concluir la primera mitad del plan de desarrollo en la apertura (evacuación
+del rey del centro), las blancas empiezan a crear el centro de peones con las
+jugadas c3 y d4, intensificando la presión en el peón e5. Las negras
+generalmente tratan de mantener el puesto avanzado en e5 trasladando el caballo
+por el itinerario Cg8-e7-g6, con la posterior Ae7. O procuran erigir otra fortaleza:
+Cg8-e7, peón g6 y Ag7. Ambos bandos están preparados par una lucha de
+maniobras relativamente lenta. Pero inesperadamente, las negras hacen un
+brusco ataque antiposicional:
+5…g5? 6.d4!
+Las acciones enérgicas en el centro son la mejor reacción a tan prematuro
+ataque rival en el flanco. Justamente al abrir el centro se deja sentir más rápido
+la demora de las negras en el desarrollo. La sexta jugada de las blancas es un
+buen ejemplo de inmediata corrección del plan antes trazado, debido a las
+acciones arriesgadas del bando opuesto.
+6…g4 7.Axc6+ bxc6 8.Ce1 exd4?!
+Otra concesión posicional. Estimando que la ventaja de dos alfiles les da
+derecho a abrir el juego, las negras ceden sus posiciones en el centro,
+atrasándose como antes en el desarrollo.
+9.Dxd4 Df6 10.Da4 Ce7 11.Cc3
+Otra enmienda al plan de apertura. La situación creada no exige de las
+blancas que desplacen el peón a c3. El caballo ocupa esa casilla y se incorpora
+en el acto a la lucha por el centro, donde ahora ocurren los acontecimientos
+decisivos.
+11…Ad7 12.Da5!
+De nuevo las blancas modifican su plan de juego. Por cuanto el peón c7
+quedó debilitado, las blancas impiden al rey adversario que enroque, anulando de
+ese modo las intenciones enemigas de movilizar sus piezas. La pérdida de un
+tiempo de las blancas es bien compensada con largo período de desarmonía de
+las piezas negras.
+12…Rd8 13.Cd3 Ag7 14.e5!
+Con esta jugada, las blancas empiezan a aplicar su segundo plan, que tiene
+por objetivo organizar el ataque al rey estancado en el centro. El camino más
+corto a esa meta es limpiar las líneas del centro del tablero, privando al rey
+
+contrario de monolítica cobertura de peones.
+14…Df5
+Luego de 14…dxe5 15.Cc5 no se ve defensa contra la amenaza Td1.
+15.Te1 d5
+La única forma de salvar la posición es evitar la apertura de la línea d. Pero
+las casillas indefensas del bando negro deciden el desenlace del combate.
+16.Ce2 Cg6 17.Cg3 De6 18.Ag5+ Rc8 19.Cc5 De8 20.Ch5!
+Los caballos blancos destrozaron por completo la posición de las negras. La
+fase culminante del plan ofensivo blanco es conseguir ventaja material genuina.
+20…Tg8 21.Cxg7 Txg7 22.Cxa6 Ta7 23.Ae3 Txa6 24.Dxa6+ Rd8 25.Ag5+
+Ce7 26.Af6 Tg6 27.a4 Ac8 28.Dd3 Rd7 29.a5 Ab7 30.b4 Cg8 31.c4 De6 32.Dd4
+Re8 33.b5 cxb5 34.cxb5 Ce7 35.Dc5 Dd7 36.Tac1 1–0
+Otro ejemplo:
+Gligoric, S - Smyslov, V [A30]
+Candidates Tournament Zuerich (12), 19.09.1953
+1.c4 Cf6 2.Cc3 e6 3.Cf3 c5 4.g3 b6 5.Ag2 Ab7 6.0–0 Ae7 7.d4 cxd4 8.Dxd4
+0–0 9.Td1 Cc6 10.Df4 Db8 11.Dxb8 Taxb8 12.Af4 Tbc8 13.Ad6 Axd6 14.Txd6
+Ce7 15.Ce5 Axg2 16.Rxg2 Cf5 17.Td2 d6 18.e4 Cxg3 19.hxg3 dxe5 20.b3
+
+En la situación creada, la ventaja principal de las negras consiste no tanto en
+el peón de más, puesto que sólo podrá aprovecharse al final, cuanto en el control
+de muchas casillas del centro: d4, d5, c5, f4, f5. Las blancas tienen sus
+contrachances: supremacía de peones en el flanco dama y la línea d. ¿Cuántas
+partidas semejantes terminaron en tablas por juego impreciso! Pero Smyslov
+juega estos finales con mucha pericia. El divide su plan para lograr la victoria en
+las partes siguientes: Primera parte. Cambiar inmediatamente un par de torres
+para asegurarse contra amenaza de incursión por la línea d. Las negras tienen
+que dejar una torre para lucha posible contra los peones blancos del flanco de
+dama.
+20…Tfd8 21.Tad1 Txd2 22.Txd2 Rf8 23.f3 Re7
+Segunda parte. Esta parte está vinculada con la amenaza de aparición de peón
+pasado en la línea h. Para impedirlo, la torre blanca debe abandonar la línea d y
+
+la torre negra ocupa su sitio.
+24.Rf2 h5 25.Re3 g5! 26.Th2 Td8 27.Th1
+Tercera parte: Esta etapa prevé el ataque al peón e4.
+27…g4 28.fxg4 Cxg4+ 29.Re2 Cf6 30.Re3 Td4
+Ahora, cuando las piezas blancas están atadas al peón e4, entra en acción el
+rey negro, dirigiéndose de e7 a la casilla g4.
+31.Tf1 Cg4+ 32.Re2 Rf8 33.Tf3 Rg7 34.Td3 Rf6
+Corrección necesaria del plan. El itinerario del rey g7-g6-g5-h4 fue trazado
+bajo la condición de conservar las torres. Las blancas quieren hallar salvación en
+final de caballos. Por eso, el rey negro debe mantenerse más cerca del centro.
+35.Txd4 exd4 36.Cb5 Re5! 37.Cxa7 Rxe4 38.Cc8 d3+
+Claro, no 38… e5? porque 39.Cd6++
+39.Rd2 Rd4 40.c5 bxc5 41.Cd6 Ce5 0–1
+¿Cómo aprender a trazar correctamente los planes del próximo combate
+ajedrecístico? Mejor que todo analizando los comentarios de grandes maestros a
+partidas jugadas, prestando atención especial a la sucesión de acciones para
+lograr el objetivo final.
+Los comentarios a partidas jugadas por ajedrecistas altamente calificados
+prestarán gran ayuda a cada aficionado que desee elevar su nivel de juego.
+
+Lección 13
+Qué precede al sacrificio de la dama
+Para la mayoría de los aficionados, el ajedrez es ante todo un juego que se
+distingue por ataques vertiginosos y combinaciones sin fin. A todos les gusta
+atacar, hacer bellas combinaciones, pero no todos, ni mucho menos, ven la
+belleza auténtica en sutiles maniobras de piezas y planes estratégicos profundos.
+El arte de juego posicional, como regla, no es muy apreciado por los simples
+amadores del ajedrez. Mientras tanto, el ataque combinatorio eficaz surge con
+mayor frecuencia no de pura casualidad, sino que es preparado con el juego
+posicional, basado en la observancia de las leyes de la estrategia ajedrecística.
+Por eso, quien desea obtener éxito en el ajedrez no debe menospreciar el estudio
+de esas leyes. El juego combinatorio y posicional no tiene que oponerse, sino
+complementarse. Me gusta mucho atacar y sacrificar. Sin embargo estoy
+firmemente convencido de que el juego posicional es la base del ajedrez. Justo él
+refleja la lógica interna de la lucha ajedrecística, obliga a combatir en rigurosa
+correspondencia con las posibilidades de los bandos, teniendo en cuenta las
+peculiaridades de las situaciones que se dan en el tablero.
+La base del juego posicional es el plan, al que nos referimos detalladamente
+en la lección anterior. Trazar un plan profundo y eficaz (correcto) requiere a
+veces no menos fantasía y habilidad que calcular una difícil combinación. Si se
+tiene la idea de la combinación, calcular las jugadas que las componen es
+cuestión de técnica y tiempo. Los hechos aquí con mayor frecuencia tienen
+carácter forzado, son reales, concretos. Mientras que al trazar el plan de juego
+uno debe apoyarse en la posición que puede surgir después de algunas jugadas.
+El cálculo concreto de variantes es seguido a menudo de razonamiento semi
+abstractos, suposiciones y previsiones de posiciones finales del plan elaborado. La
+habilidad de jugar posicionalmente tiene suma importancia en situaciones
+complicadas que no se someten a cálculo concreto, cuando el objetivo del ataque
+no está claro, cuando es preciso maniobrar para reforzar la posición de las piezas
+y encontrar punto débil en el campo adversario.
+Muchos aficionados, al tratarse del genial ajedrecista norteamericano del
+
+siglo XIX Paul Morphy recuerdan sólo sus brillantes combinaciones ofensivas.
+Pero pocos saben que la base de ellas eran principios estratégicos profundos, tales
+como máxima centralización de las piezas propias, supremacía en el desarrollo,
+apertura de verticales en el centro. Morphy comprendió intuitivamente las leyes
+de la estrategia de ajedrez y merced a eso obtuvo muchas victorias notables.
+Wilhelm Steinitz, gran pensador ajedrecístico de fines del siglo XIX, primer
+campeón mundial oficial, formuló por primera vez las leyes fundamentales del
+juego posicional. Él demostró por primera vez que el plan no puede nacer de la
+fantasía del ajedrecista, debe apoyarse en algo, en la posición dada del tablero.
+Él demostró que cada posición del tablero se caracteriza por ciertos detalles cuya
+utilidad o al contrario debilidad para cada uno de los bandos deben valorarse
+aisladamente y después sumarse, a fin de comprender la situación creada. Y sólo
+entonces trazar el plan teniendo en cuenta las posibilidades reales de los bandos.
+La apreciación correcta de la situación en cualquier momento de la lid
+ajedrecística predetermina en gran parte la fuerza del jugador.
+Citaré un simple ejemplo de cómo valorar la posición.
+Boleslavsky, I - Kotov, A [D28]
+Candidates Tournament Zuerich (3), 02.09.1953
+1.d4 d5 2.c4 dxc4 3.Cf3 Cf6 4.e3 e6 5.Axc4 c5 6.0–0 a6 7.De2 cxd4 8.exd4
+Ae7 9.Cc3 b5 10.Ab3 Ab7 11.Ag5 0–0 12.Tfe1 Cc6 13.Tad1 Ca5 14.d5 Cxb3
+15.dxe6 Db6 16.axb3 fxe6 17.Cd4 Ad6 18.Dxe6+ Rh8 19.Cf3 Tad8
+
+A primera vista, las posibilidades de los dos bandos no están claras. Las
+blancas tienen un peón de más, pero los peones de su flanco dama son débiles,
+mientras que los dos alfiles de largo alcance de las negras en posición abierta les
+ofrecen juego contrario tal vez suficiente para igualar.
+20.Af4! Axf3 21.Txd6 Txd6 22.Dxd6 Dxd6 23.Axd6 Te8 24.Txe8+ Cxe8
+25.Ae5! Ac6 26.b4 h5 27.f3
+Si las negras lograran cambiar caballos, incluso dejando pasar el rey blanco
+al centro y entregando el peón a6, el empate sería evidente. Pero eso es irreal.
+No cuesta trabajo convencerse de que el alfil blanco está listo para capturar al
+caballo negro apenas este se mueva. El rey blanco penetra en el flanco dama por
+el camino más corto, después de lo cual perecen los peones negros ahí ubicados.
+Este simple ejemplo basta para comprender que las blancas plasmaron con
+tal facilidad su ventaja porque entre numerosas posiciones verosímiles de medio
+
+juego vieron la óptima, que surge luego de 25.Ae5! y 26.b4!, después de lo cual
+el cálculo de variantes resulta cosa fácil.
+Nota del Editor:
+27… Rh7 28.Ce2 g5 29.Rf2 h4 30.g3 hxg3+ 31.hxg3 Rg6 32.g4 Ab7 33.Re3
+Ac6 34.Cc3 Ab7 35.Ce4 Ad5 36.Cc5 Rf7 37.Cxa6 Re6 38.Ac3 Aa8 39.Cc5+ Rf7
+40.Ce4 Rg6 41.Ae5 Ad5 42.Cd2 Rf7 1–0
+Para apreciar correctamente la posición hay que aprender a sopesar la
+importancia de la ubicación de las piezas propias y contrarias, su centralización,
+calidad de la estructura de peones, su movilidad, existencia de líneas abiertas,
+correlación material de las piezas. La profundidad y sutilezas de apreciación
+general de la posición se asientan en las valoraciones particulares de cada uno de
+los factores citados en dada posición concreta. Por ejemplo, todos sabemos que
+la torre es más fuerte que el caballo, pero si el caballo está en el centro del
+tablero en posición bien reforzada y ahí se lucha, mientras la torre se halla en el
+extremo del tablero y no puede participar en la lucha, poco vale, el caballo es
+ahora evidentemente más importante y fuerte que la torre. En el final, la
+existencia de peones pasados y la centralización del rey predeterminan con
+mayor frecuencia la apreciación de la posición. En el medio juego, el rey, por el
+contrario, debe estar protegido más lejos del centro. El ajedrecista experto
+respeta el arte de juego posicional pues comprende el provecho de acumular
+sistemáticamente gajitos posicionales que dan en fin de cuentas la llamada
+ventaja posicional. Quien tiene supremacía posicional se siente dueño de la
+situación. Él de improviso descubre abundantes posibilidades para sus piezas,
+buena elección de continuaciones de la lucha tanto combinatoria como más
+tranquila. Si usted toma una decena de bellas combinaciones ofensivas de
+cualesquiera grandes maestros y procura valorar las posiciones en que
+empezaron, verá que esas combinaciones se basaron sin falta en la supremacía
+posicional, expresa, por ejemplo, en el mejor desarrollo o mayor movilidad de
+las piezas. La teoría del juego posicional, en los cien años de su existencia reveló
+muchos de sus secretos y continúa revelándolos a los investigadores profundos y
+ávidos de saber. Los principios básicos de la estrategia ajedrecística, formulados
+por el gran maestro Steinitz, quedaron inmutables, pero se dedica más atención a
+factores como dinámica de la posición, compensación de ciertos defectos de la
+posición con ciertas ventajas. Ahora se concede mayor importancia a la
+coordinación de las acciones de las piezas, pues con acciones bien coordinadas,
+es decir, subordinadas a un mismo objetivo, dos o tres piezas pueden vencer a un
+ejército enemigo numéricamente superior pero poco móvil.
+Por fin, si 150 años atrás las combinaciones tenían como meta capturar la
+fortaleza del rey, hoy día, al crecer el arte defensivo, con frecuencia se
+emprenden 
+combinaciones 
+enmarañadas 
+para 
+aumentar 
+las 
+ventajas
+posicionales. El « sacrificio posicional»  de material ajedrecístico pasó a ser uno
+
+de los métodos más eficaces de lucha, cuando para conseguir significativas
+ventajas posicionales (pero no decisivas) se sacrifican peones y hasta piezas.
+Para terminar quiero aconsejar a los aficionados que estudien con mayor
+perseverancia el arte del juego posicional. ¡Les aseguro que no lo lamentarán!
+
+Lección 14
+Cuando no hay elección de jugadas
+Mientras la partida de ajedrez se desarrolla tranquilamente obedeciendo a las
+leyes de la estrategia, en el tablero se mantiene la valoración jerárquica
+tradicional de las piezas de ajedrez. Claro, se puede discutir qué es más fuerte, la
+torre o el alfil con pareja de peones, según la posición que ocupen. Pero a veces
+sucede que inesperadamente las piezas de un bando adquieren cierta fuerza
+sobrenatural y empiezan a hacer milagros. Entonces se desmoronan
+catastróficamente las nociones habituales, digamos, el peón se hace más fuerte
+que la torre e incluso que la dama. Así ocurre a menudo cuando se aplica una
+combinación planeada de antemano.
+Sabemos que el juego combinatorio atrae sobre todo a los amadores del
+ajedrez. ¿Por qué? Ante todo por su belleza, sorpresividad e infalibilidad de su
+lógica, pues los rivales durante la tormenta combinatoria con mayor frecuencia
+hacen jugadas obligadas. Esta es una de las paradojas asombrosas del ajedrez.
+Cuando en el tablero se sostiene lucha estratégica, cada bando tiene variantes de
+continuación de la partida. Pero si de pronto surgen complicaciones
+combinatorias que alteran la correlación material acostumbrada, entonces el
+curso de la partida, el desarrollo de los acontecimientos posteriores, como regla
+de inmediato se limitan a un cauce estrecho y, lo fundamental, único. El
+adversario no tiene elección de jugadas.
+Veamos, por ejemplo, la partida entre Eduard Lasker y George Thomas (año
+1912).
+Lasker, E - Thomas, G [A83]
+London, 1912
+Al principio desarrollo tranquilo:
+1.d4 f5 2.e4 fxe4 3.Cc3 Cf6 4.Ag5 e6 5.Cxe4 Ae7 6.Axf6 Axf6 7.Cf3 0–0
+8.Ad3 b6 9.Ce5 Ab7
+Aquí pareció sonar la señal de ataque.
+10.Dh5! De7
+
+Las negras se niegan a cambiar 10… Axe5, estimado que después de De7, si
+11. Cxf6+ amenazando mate en h7 las salva 11… gxf6. ¡Si supieran lo que les
+espera!
+11.Dxh7+!!
+Sacrificio impresionante. Las blancas entregan la dama sólo por un peón y
+obligan al rey negro a escapar al extremo opuesto del tablero, donde le espera
+deshonroso fin.
+11… Rxh7 12.Cxf6+ Rh6
+Si retrocedieran al rincón h8, el desenlace sería inmediato luego de 13.
+Cg6++
+13.Ceg4+ Rg5 14.h4+ Rf4 15.g3+ Rf3 16.Ae2+ Rg2 17.Th2+ Rg1
+Esta casilla por lo común es un buen refugio, pero sólo para el rey blanco. Al
+negro ahí le espera la muerte.
+18.Rd2++! 1–0
+¿Bello? ¡Sí! ¿Súbito? ¡Sí! ¿Forzado? ¡Sí! ¿Pero por qué así de pronto? ¿Cómo
+prever y encontrar la solución combinatoria? El jugador experto sabe que la
+combinación no nace de la nada. Para que nazca se requieren determinadas
+ventajas posicionales de uno de los bandos, que surgen paulatinamente, jugada
+tras jugada. El proceso de su acumulación, claro, pueden acelerarlo bastante los
+errores del contrario.
+¿Por qué fue posible la combinación con sacrifico de dama en la partida que
+acabamos de ve? Las blancas no tenían supremacía en el desarrollo, pero sus
+cuatro piezas menores apuntaron a la posición del rey negro, en la que estaba
+particularmente mal defendido el punto h7. La ausencia de peón negro en el
+escaque f7 creaba premisas de posición de mate: los caballos blancos ocupaban
+los puntos f6 y g6; el rey enemigo, la casilla h8, y el peón, g7.
+Analicemos el final de la partida Grigori Rotlevi-Akiba Rubinstein, jugada en
+1907. Ver diagrama.
+Rotlewi, G - Rubinstein, A [D40]
+Lodz, 1907
+1.d4 d5 2.Cf3 e6 3.e3 c5 4.c4 Cc6 5.Cc3 Cf6 6.dxc5 Axc5 7.a3 a6 8.b4 Ad6
+9.Ab2 0–0 10.D 10…De7! 11.Ad3 11…dxc4 12.Axc4 b5 13.Ad3 Td8 14.De2 Ab7
+15.0–0 Ce5 16.Cxe5 Axe5 17.f4 Ac7 18.e4 Tac8 19.e5 Ab6+ 20.Rh1 Cg4!
+21.Ae4 Dh4 22.g3
+
+22…Txc3!! 23.gxh4
+No se puede 23… Axc3 porque 23… Axe4+ 24. Dxe4 Dxh2++
+23…Td2!!
+La dama está llena de preocupaciones acuciantes: defensa del punto h2,
+vitalmente importante, y del alfil en e4. La única jugada negra hace su tarea
+irrealizable.
+24.Dxd2 Axe4+ 25.Dg2 Th3!!
+¡Brillante! La dama atada no puede proteger de ningún modo al rey de mate
+en la casilla h2 (26. Dxe4 Txh2++) e impide hacer eso a sus torres. Semejantes
+combinaciones sutiles se recuerdan toda la vida.
+0–1
+¿Cómo surgen? ¡Cuál es su esencia? Para responder a estas preguntas
+consagraremos varias lecciones. Ahora sólo especificaremos qué condiciones se
+
+requieren para efectuar las combinaciones.
+La combinación —ya dijimos— no nace en cualquier momento
+arbitrariamente escogido de la partida. La idea de realizarla puede surgir en la
+mente del ajedrecista cuando la situación en el tablero se caracterice por
+determinadas peculiaridades. Ellas sugieren el motivo o tema de la explosión
+combinatoria.
+Entre dicha peculiaridades de la posición se halla, por ejemplo, la debilidad
+de la primera (para las blancas) u octava (para las negras) horizontales, que
+ofrecen las piezas adversarias la posibilidad de penetrar en la zona de abrigo del
+rey. Si eso ocurre, por regla general, el bando en defensiva para evitar mate
+sufre grandes pérdidas materiales. Después de lo cual la lucha pierde sentido.
+Ejemplo clásico de tal combinación es el fragmento del tope Edward Adams-
+Carlos Torre en 1920. Ver diagrama.
+Adams, E - Torre Repetto, C [C62]
+New Orleans, 1920
+1.e4 e5 2.Cf3 d6 3.d4 exd4 4.Dxd4 Cc6 5.Ab5 Ad7 6.Axc6 Axc6 7.Cc3 Cf6
+8.0–0 Ae7 9.Cd5 Axd5 10.exd5 0–0 11.Ag5 c6 12.c4 cxd5 13.cxd5 Te8 14.Tfe1
+a5 15.Te2 Tc8? 16.Tae1 Dd7 17.Axf6 Axf6
+
+18.Dg4!! Db5 19.Dc4!! Dd7 20.Dc7!! Db5!
+Este fantástico auto sacrificio de la dama es bello, pero aparentemente inútil.
+¿Qué lograron las blancas? Si seguimos en le mismo plano 21.Dxb7, luego de
+21… Dxe2! 22. Txe2 Tc1+ 23. Ce1 Txe1+! 24. Txe1 Txe1, ¡mate por debilidad
+de la primera horizontal reciben las blancas! Por eso hay que sacar al rey negro
+de la casilla e8 de modo más astuto. Ahí está el juego combinatorio.
+21.a4! Dxa4 22.Te4!!
+¡Brillante golpe noqueador! La negras no tienen tiempo de abrir la ventanilla
+22… h6 23. Dxc8! Txc8 24. Txe4 con ganancia de torre. Tampoco pueden jugar
+22… Dxe4, porque 23. Txe4 después de lo cual la dama blanca es inmune.
+Queda el retroceso de la dama.
+22… Db5 23.Dxb7!!
+Este sacrificio resuelve el desenlace del pleito. La dama negra no tiene
+
+posibilidad de permanecer en la diagonal a4-e8. Perece o después de aniquilar al
+ofensor crea peligro mortal a su rey. Por eso, las negras se ven obligadas a
+reconocer la derrota.
+1–0
+En la lección próxima seguiremos estudiado las condiciones de aparición de
+combinaciones ofensivas durante la partida.
+
+Lección 15
+El molino y otros recursos eficaces
+La clase anterior explicamos cómo y por qué nacen las combinaciones en la
+partida de ajedrez, examinamos variantes de ataques eficaces basados en la
+utilización de la primera (u octava) horizontal. Esta vez analizaremos otras
+regularidades que permiten realizar la combinación.
+Primera: debilidad de la segunda (o séptima) horizontal. La debilidad de la
+segunda o séptima horizontal a menudo entraña amenaza de aniquilamiento de
+los peones que protegen al rey, después de lo cual es fácil obtener la victoria. En
+la lección 14 vimos un fragmento de la partida Grigori Rotlevi-Akiba Rubinstein,
+donde las bancas fueron derrotadas por la debilidad de su segunda horizontal,
+cuando ora una ora otra torre negra amenazaba el punto h2. Ofrecemos una
+situación análoga del tope Carlos Torre-Emanuel Lasker (Moscú 1925).
+Torre Repetto, C - Lasker, E [A46]
+Moscow, 1925
+1.d4 Cf6 2.Cf3 e6 3.Ag5 c5 4.e3 cxd4 5.exd4 Ae7 6.Cbd2 d6 7.c3 Cbd7
+8.Ad3 b6 9.Cc4 Ab7 10.De2 Dc7 11.0–0 0–0 12.Tfe1 Tfe8 13.Tad1 Cf8 14.Ac1
+Cd5 15.Cg5 b5 16.Ca3 b4 17.cxb4 Cxb4 18.Dh5 Axg5 19.Axg5 Cxd3 20.Txd3
+Da5 21.b4 Df5 22.Tg3 h6 23.Cc4 Dd5 24.Ce3 Db5
+
+Parece que las negras pueden estar satisfechas de su posición, más
+inesperadamente una jugada brillante del alfil blanco cambia de golpe la
+situación en el tablero y permite aplicar un recurso técnico que en la
+terminología ajedrecística se llama « molino» .
+Terminología ajedrecística se llama «molino». 25.Af6!! Dxh5 26.Txg7+ Rh8
+27.Txf7+ Rg8 28.Tg7+ Rh8 29.Txb7+ Rg8 30.Tg7+ Rh8 31.Tg5+!
+Con reiterados jaques la torre « molió»  todo el ejército negro ubicado en la
+séptima horizontal y después llegó hasta la dama en la quinta horizontal.
+31… Rh7 32.Txh5 Rg6 33.Th3 Rxf6 34.Txh6+ Rg5 35.Th3 Teb8 36.Tg3+
+Rf6 37.Tf3+ Rg6 38.a3 a5 39.bxa5 Txa5 40.Cc4 Td5 41.Tf4 Cd7 42.Txe6+ Rg5
+43.g3 1–0
+Como indica la práctica, el método más eficaz para aprovechar la debilidad
+de la segunda (séptima) horizontal es introducir en ella al mismo tiempo dos
+
+piezas mayores.
+Todo saben lo difícil que es atacar al rey enemigo cuando está resguardado
+por una cadena de peones. Otra cosa sucede cuando en la defensa de peones hay
+brechas, como en la partida Kaesia-Vukovic (1940).
+Kaesia - Vukovic [C55]
+1940
+1.e4 e5 2.Cf3 Cc6 3.Ac4 Cf6 4.d4 exd4 5.0–0 Ac5 6.e5 d5 7.exf6 dxc4 8.Te1+
+En esta posición, las negras deben entregar el peón tratando de movilizar sus
+piezas, por ejemplo 8… Ae6 9.fxg7 9.Ag5 Dd5. Pero ellas resolvieron conservar
+el peón y luego de…
+8…Rf8? 9.Ag5 gxf6 10.Ah6+ Rg8
+Los peones f7, f6 y h7, más bien le hicieron al rey una trampa que una
+fortaleza. El alfil blanco en h6 cumple el papel de guardián que impide la huída
+del rey. Sólo queda traer la pieza que dará mate. ¿Quién desempeñará ese papel?
+El caballo blanco si cae en la casilla f6, la torre en e8 o la dama en g4. Es curioso
+que en esta partida pudieran darse situaciones en que el golpe de gracia era capaz
+de asestarlo cualquiera de las piezas citadas.
+11.Cc3! Ag4 12.Ce4 b6 13.c3 Ce5? 14.Cxe5 Axd1 15.Cd7! Ae7 16.Cexf6+!!
+Axf6 17.Te8+!! Dxe8 18.Cxf6# 1–0
+Por cuanto la cadena de peones cumple importantísima función defensiva
+existen varias combinaciones típicas en que lo atacantes sirviéndose de sacrificios
+aniquilan a los defensores del rey enemigo. Veamos un ejemplo característico de
+aniquilamiento de la defensa de peones con ayuda de sacrificios. Ver diagrama.
+Lasker, E - Bauer, J [A03]
+Amsterdam (1), 26.08.1889
+1.f4 d5 2.e3 Cf6 3.b3 e6 4.Ab2 Ae7 5.Ad3 b6 6.Cf3 Ab7 7.Cc3 Cbd7 8.0–0
+0–0 9.Ce2 c5 10.Cg3 Dc7 11.Ce5 Cxe5 12.Axe5 Dc6 13.De2 a6 14.Ch5 Cxh5
+
+Después de la natural 15.Dxh5 f5, no es fácil demostrar la superioridad de las
+blancas. Pero basta dejar al rey negro sin los peones g7 y h7 para que la
+incursión de la torre desde f1 a través de f3 traiga a las negras grandes
+infortunios.
+15.Axh7+! Rxh7 16.Dxh5+ Rg8 17.Axg7!! Rxg7 18.Dg4+ Rh7
+Claro, no Rf6? Porque 19. Dg5++.
+19.Tf3 e5
+Las negras deben entregar la dama.
+20.Th3+ Dh6 21.Txh6+ Rxh6
+Las negras reciben material bastante equivalente por la dama, pero
+desgraciadamente sólo para una jugada.
+22.Dd7!
+Las blancas debían prever esta maniobra al empezar la combinación con
+
+sacrificio de alfiles. Emmanuel Lasker con la jugada siguiente recupera un alfil
+negro y conserva chances de victoria.
+22… Af6 23.Dxb7 Rg7 24.Tf1 Tab8 25.Dd7 Tfd8 26.Dg4+ Rf8 27.fxe5 Ag7
+28.e6 Tb7 29.Dg6 f6 30.Txf6+ Axf6 31.Dxf6+ Re8 32.Dh8+ Re7 33.Dg7+ Rxe6
+34.Dxb7 Td6 35.Dxa6 d4 36.exd4 cxd4 37.h4 d3 38.Dxd3 1–0
+Para terminar esta lección veremos el ejemplo clásico de brillante juego
+combinatorio utilizando la « distracción» . A menudo durante el ataque hay que
+suprimir alguna pieza adversaria que protege uno o varios puntos. El método más
+simple —captura o cambio— no siempre es posible. Entonces surge la idea: ¿no
+se puede distraer la pieza enemiga con algún regalo? Cien años atrás Johannes
+Zukertort era famoso por su gran arte de juego combinatorio. Él creó esta
+magnífica miniatura jugando con blancas contra Joseph Blackburne.
+Zukertort, J - Blackburne, J [A13]
+London, 1883
+1.c4 e6 2.e3 Cf6 3.Cf3 b6 4.Ae2 Ab7 5.0–0 d5 6.d4 Ad6 7.Cc3 0–0 8.b3 Cbd7
+9.Ab2 De7 10.Cb5 Ce4 11.Cxd6 cxd6 12.Cd2 Cdf6 13.f3 Cxd2 14.Dxd2 dxc4
+15.Axc4 d5 16.Ad3 Tfc8 17.Tae1 Tc7 18.e4 Tac8 19.e5 Ce8 20.f4 g6 21.Te3 f5
+22.exf6 Cxf6 23.f5 Ce4 24.Axe4 dxe4
+
+Las negras rehusaron a capturar el peón f5, pusieron la torre en c8 y
+amenazan con incursión de la torre en c2.
+Las blancas, a su vez, tienen posibilidad de atacar: 25.d5 Tc2 26. Dd4, lo que
+de hecho obliga a las negras a matar con la torre en b2. No obstante, ellas
+eligieron un método más complicado pero bello de solucionar el conflicto.
+25.fxg6! Tc2
+Las negras no tienen elección, pues si 25… hxg6, la defensa del rey negro se
+hace tan débil que las blancas para vencer no deben acudir a recursos muy
+enérgicos.
+26.gxh7+ Rh8!
+Método rudo pero muy eficaz de defensa. El rey se oculta de las amenazas
+por la línea h tras el peón enemigo. Las blancas no pueden capturar a su peón y
+deben obligar a que hagan eso las negras, pues en caso contrario el ataque
+
+fracasará.
+27.d5+ e5 28.Db4!!
+Es rigor, el inicio de la combinación. Concanetación lógica de razonamiento:
+si desaparece el peón h7, las dos torres y el alfil darán mate al rey; no se puede
+obligar al rey que coma al peón envenenado mientras el peón negro e5
+permanezca en su sitio y lo proteja la dama desde e7. A ellas hay que apartarlas
+de la casilla e5 y del rey lo más lejos posible. Si las negras aceptan tan generoso
+regalo reciben mate en seis jugadas: 28… Dxb4 29. Axe5+ Rxh7 30. Th3+ Rg6
+31. Tg3+ Rh7 32. Tf7+ Rh6 33. Af4+ Rh5 34. Th7++. Al descubrir la pérfida
+treta, las negras defienden a la dama, tratando a toda costa de conservar el peón
+e5. Pero aprovechando el debilitamiento de la octava horizontal, las blancas
+asestan un nuevo golpe distractivo:
+28… T8c5 29.Tf8+!!
+Este regalo no se puede aceptar. 29… Dxf8, porque seguirá 30. Axe5+ Rxh7
+31. Dxe4+ y el mate es inevitable.
+29… Rxh7 30.Dxe4+ Rg7 31.Axe5+! Rxf8
+Un poquito más y las negras llevarán al rey al flanco dama. Pero viene el
+último golpe combinativo.
+32.Ag7+!
+Ahora, en caso de 32… Dxg7 la dama negra tapa al rey el camino de
+repliegue y sigue mate en la casilla e8.
+32… Rg8 33.Dxe7 1–0
+En la siguiente lección terminaremos de estudiar los principios del juego
+combinativo.
+
+Lección 16
+Final, campo para la fantasía
+Muchos aficionados al ajedrez estiman que la parte final, la última fase de la
+partida es bastante aburrida y no requiere arte combinatorio. Cuando hablemos
+de las leyes que rigen el desarrollo del final podrán convencerse de cuán
+complicada y rica de contenido es esta fase. Hoy procuraremos demostrar que
+las capacidades combinatorias y hábitos del ajedrecista tienen suma importancia
+para el éxito en la parte final.
+Al realizar combinaciones en medio juego y tanto más en la apertura, la
+mayoría de piezas y peones están parados. Mientras que en la combinación de
+final de partida participan casi todas las piezas que quedaron en el tablero, y una
+de las unidades de combate más activas pasa a ser el rey. Veamos un ejemplo
+simple.
+
+Mueven las blancas y la mano se extiende enseguida hacia el peón h6. Pero
+después de 1.h7 e4! No hay perspectivas para avanzar con el peón blanco, ya
+que todas las casillas de la gran diagonal están controladas por el alfil negro. O
+sea para avanzar con el peón hay que sacar al alfil de la gran diagonal o impedir
+el movimiento del peón e. Probemos el primer camino.
+1.Aa7!
+Motivo combinatorio conocido de distracción. No se puede capturar al alfil
+porque el peón h se promociona y si 1… Rg5 sigue 2.h7, luego de 2… e4 el alfil
+blanco pasa a d4. Queda la única respuesta.
+1… Ac3 2.Rc2
+Las negras no tienen elección.
+2… Aa1
+A primera vista, las blancas extrajeron de la posición todo lo que podían. Sin
+
+embargo, no lograron impedir el movimiento del peón e5 salvador para las
+negras. Pero resulta que el sacrificio del alfil blanco en la primera jugada no es
+un truco e ingenuo sino el comienzo de una bella combinación:
+3.Ad4!!
+Golpe pasmoso por lo inesperado. Ahora no es difícil ver que en caso de 3…
+exd4 sigue 4.Rd3! y las blancas impiden el avance del peón d. El alfil negro en d1
+es incapaz de impedir la aparición de la dama blanca en h8. Pero se puede
+capturar al alfil con el alfil:
+3… Axd4 4.Rd3!
+Todo se pone claro. El peón e5 se ve obligado a quedarse en su sitio
+defendiendo al alfil. Pero si 4… Ab2 sigue 5. Re4!, el rey vuelve a bloquear al
+peón e5 y el peón blanco del escaque h6 se corona sin dificultad.
+¿Lindo espectáculo, no es cierto? Hay apenas seis artistas, pero todos actúan
+al máximo. No menos sutil será el desempeño de los artistas del pequeño elenco
+en la vieja posición clásica de F. Saavedra (1895)
+
+1.c7
+La primera jugada blanca es evidente. Después de ella, las negras tienen dos
+posibilidades, permitir la aparición de la dama blanca o dar jaque que parece
+muy peligroso.
+1… Td6+
+Pero no es tan simple esta jugada. Resulta que si 2.Rb7 sigue 2… Td7. Y si
+2.Rc5 se obtiene tablas en el acto 2… Td1 3.Rb6 Tc1.
+2.Rb5! Td5+ 3.Rb4 Td4+ 4.Rb3 Td3+ 5.Rc2!
+Terminaron los jaques, la casilla c1 es inaccesible para la torre. Pero la
+contienda no terminó:
+5… Td4!
+¡Pérfida trampa! Ahora si 6.c8=D sigue una combinación no complicada 6…
+Tc4+! 7.Dx4 ¡Ahogado! ¿Tablas?, será posible?
+
+6.c8T!
+Las blancas realizan un ataque que de mate incomparable con las mínimas
+fuerzas posibles y la participación activísima del rey.
+6… Ta4 7.Rb3!
+Ahora sí que se acabó. Las negras, para salvarse del mate deben entregar la
+torre.
+Este ejemplo ilustra claramente las peculiaridades importantes de las
+combinaciones de final, a saber: participación activa de los reyes y mucho
+mayor valor de los peones pasados.
+Otra partida.
+La situación de las blancas no es fácil, porque resulta difícil defender al peón
+a5. El sacrificio de peón que traman se parece más a un gesto de desesperación.
+
+1.c6 bxc6
+Ahora, en respuesta al repliegue lógico de la torre, digamos 2.Tc5, puede
+seguir 2… Rd7. Después de lo cual la torre de a4 a través de b4 pasa a b5 y las
+blancas se ven en situación grave. ¿No es posible impedir que la torre negra tenga
+bajo tutela al peón pasado b6?
+2.Tb5!! axb5 3.b7
+Cómo cambió bruscamente la situación en el tablero. Ahora ya las negras
+están al borde del abismo, porque la parición de la dama blanca es inevitable.
+3… Txa5 4.b8D+ Rd7 5.Dh8.
+Las negras pierden el peón h6 y con él la última esperanza de salvación. Si en
+el tablero no estuvieran el peón negro f7 y el blanco g2, las negras se salvarían
+construyendo una posición en la que sería imposible plasmar la ventaja material
+decisiva. La fortaleza resultaría después de:
+
+1.c6 bxc6 2.Tb5! cxb5! 3.b7 Td4 4.b8D+ Rf7.
+Con la jugada siguiente, la torre ocupa el escaque d6 y se desplaza
+posteriormente sólo por las casillas d6 y f6. Usted podrá poner las piezas blancas
+en cualquier posición y cada vez se convencerá de que es imposible tomar la
+fortaleza.
+Conociendo esta asombrosa peculiaridad del final procuraremos encontrar
+salvación en la siguiente situación triste para las negras.
+Tsiuri Kobaidze-Mzia Tsereteli (Tbilisi, 1970)
+1…Re8!
+En caso de 1…Ca8 2.Ad7 con la siguiente Ac6, la derrota de las negras
+parece inevitable.
+2.Axb6 Re7!
+
+Aquí se aclara que la fortaleza de las negras alzada en las casillas negras, no
+es capaz de destruirla el alfil b6 encerrado, ni el alfil de g4, completamente inútil
+en la situación dada.
+Ya que hablamos de las fortalezas inherentes sólo a la fase final y que
+reportan tablas, cabe mencionar otras combinaciones en particular, aquellas que
+conducen la partida al ahogado.
+La situación de las negras parece peligrosa, pero…
+1…Td7!!
+Si 1…Tc1 2.Rd6 Rc8 3.c7 Txc7! 4.Ag4+! (pero no 4.bxc7 ¡Ahogado!)
+2.Ad5 Tb7!!
+Ahora, las blancas tienen elección. Hacer tablas « sosas»  luego de 3.Rd6
+Txb6 4.Ae6 Ta6. U obtener enorme ventaja material y sólo medio punto, ya que
+
+después de 3.cxb7 en el tablero surge la posición de ahogado.
+Pero no siempre la posición de ahogado garantiza salvación al bando más
+débil. A veces resulta la emboscada en la que perece el rey.
+A pesar de la supremacía material, las blancas deben tener cuidado. Si el
+peón h2 se transforma en dama, las negras ganan. En ayuda de las blancas acude
+la idea de atraer al rey negro a la casilla de ahogado, seduciéndolo con rico botín.
+1.Af3+ Rg1 2.Ah1!! Rxh1 3.Rf1!
+¡Posición asombrosa! Las negras tienen dos peones de más, pero su rey,
+después de capturar al alfil, se condenó a inmovilidad y puede mover sólo uno de
+los tres peones.
+3…d5 4.exd5 e4 5.d6 e3 6.d7 e2+ 7.Rxe2 Rg2 8.d8D h1D
+Las negras hicieron todo lo posible, pero ahora las mata la posición pasiva de
+
+la dama, que no le permite ayudar a su rey.
+9.Dg5+ Rh3 10.Dh5+ Rg2 11.Dg4+ Rh2 12.Rf2!
+Las negras deben rendirse, no hay defensa de mate con la dama desde la
+casilla h4 o bien h5.
+Así pudieron convencerse de que el final, en opinión de muchos aficionados
+las fase más aburrida de la partida, ofrece vasto campo de creación
+combinatoria.
+
+Lección 17
+Cuando el objetivo justifica los medios
+Cada ajedrecista, maestro o simple aficionado (estos últimos suman
+millones), sienten arrebato cuando en el tablero surge una posición en la que
+puede iniciar el ataque, sobre todo si el objetivo es el rey enemigo. Pero para
+organizar el ataque hay que poseer hábitos de juego posicional, saber asestar
+golpes combinatorios, que estudiamos en las clases anteriores.
+En la mayoría de las partidas, uno de los bandos mediante gradual
+acumulación de pequeñas ventajas posicionales obtiene predominio posicional,
+que debe convertir en algo real, por ejemplo, superioridad material. En tal
+situación, el mejor recurso es pasar a acciones enérgicas, cuando el juego
+planeado de maniobra cede lugar al brusco ofensivo, espontáneo, con
+permanentes amenazas concretas.
+Se trata de un método de conducción del juego que se llama ataque. Existen
+muchos tipos de ataque: raudo, en dos-tres movidas, lento, prolongado, en diez y
+más movidas, etc. Con mayor frecuencia, el objetivo del ataque es el rey
+enemigo. Las piezas atacantes llegan hasta él por distintos caminos, a menudo sin
+contar las bajas de sus propias filas. En dicho caso, el objetivo, como regla,
+justifica los medios.
+Quisiera mostrar los tipos de ataque analizando dos partidas. Primero un
+ejemplo de mi práctica.
+Magerramov, E - Kasparov, G [D58]
+Baku training3 Baku, 12.1977
+Al principio, nada presagiaba la tormenta.
+1.Cf3 Cf6 2.d4 e6 3.c4 d5 4.Cc3 Ae7 5.Ag5 0–0 6.e3 h6 7.Ah4 b6 8.Db3 Ab7
+9.Axf6 Axf6 10.cxd5 exd5 11.Td1 c5! 12.dxc5 Cd7 13.c6!? Axc6 14.Cd4?! Axd4!
+15.Txd4?! Cc5! 16.Dd1 Ce6! 17.Td2
+El traslado erróneo del caballo a d4 condujo a que el rey blanco se atascara
+en el centro y las piezas del flanco rey blanco no entraran en juego. Por eso, la
+primera fase del ataque es sacrificio de peón, con ayuda del cual se abre la gran
+
+diagonal para el alfil y la vertical central para la torre.
+17… d4! 18.exd4 Te8 19.f3
+Las blancas encontraron un plan interesante de defensa. Si 19… Cxd4+,
+contestan 20. Rf2! Sin embargo, su plan tiene un defecto sustancial, al retrasarse
+en el desarrollo pierden todavía un tiempo.
+19…Axf3!!
+Golpe combinatorio oportuno y sobre todo eficaz. Ya que no se puede 20.
+Dxf3 debido a 20… Cxd4+, las negras destruyen por completo el abrigo de
+peones del rey blanco y lo retienen largo tiempo en el centro. Además se altera
+la coordinación de acciones de las piezas blancas. Todo esto representa suficiente
+compensación por la pieza sacrificada, pero con una condición: ataque enérgico
+en sus fases siguientes.
+20.gxf3 Dh4+ 21.Tf2
+Perdía de golpe 21. Re2 Cf4++.
+21… Cxd4+ 22.Ae2 Cxf3+ 23.Rf1 Dh3+ 24.Tg2 Ch4 25.Thg1 Tad8!
+Concluyó otra fase del ataque. Como resultado, las negras pusieron en
+combate a todas sus piezas e inmovilizaron al máximo las piezas adversarias. Ya
+ahora pueden restablecer prácticamente el equilibrio material capturando con el
+caballo a la torre. Pero no se apresuran a hacer eso, estimando correctamente
+que las piezas blancas reunidas en torno a su rey sólo le impiden salir de la
+emboscada.
+26.De1?
+El deseo natural de colocar a la dama más cerca del sector decisivo de
+combate arruina a las blancas, porque su rey pierde posibilidad de maniobrar. El
+único recurso de defensa consiste en trasladar con dos jugadas la dama a la
+casilla g4. Sólo 26.Da4! permitía evitar la derrota inmediata, aunque entonces
+también luego de 26… Cxg2 27.Txg2 Te5 28.Dg4 Dxg4 29.Axg4 f5 30.Af3 g5, a
+las blancas les aguardaba dura defensiva. Después de 26.De1? sobre la posición
+de las blancas inesperadamente cae una nueva ola de ataques con la
+particularidad de que su objetivo es no sólo el rey, sino también la dama.
+26…Td3!
+No se puede tomar esta torre porque luego de 27.Axd3 Txe1+ 28.Rxe1 el rey
+se ve obligado a abandonar la torre a su suerte en la casilla g2.
+27.Df2
+Amenazaba 27… Tf3+!
+27… Cf3!
+Ahora, las blancas no tienen posibilidad de hacer no sólo jugadas activas, sino
+aunque sea algo provechosas. Así, de nuevo no pueden capturar a la torre porque
+28… Cxh2++! También amenaza mate en caso de cualquier repliegue del
+caballo, 
+por 
+ejemplo: 
+28.Cb1 
+Td1+! 
+29.Axd1 
+Cxh2++! 
+Concluye
+deplorablemente el intento de hacer activa a la dama: 28.Dg3 Cd2+. Quedan sólo
+
+desplazamientos obligados de la torre a los escaques g1 y h1.
+28.Th1 Tde3! 29.Thg1 Rh8 30.Th1 b5!! 0–1
+Luego de la evidente 31.a3 a5! No hay defensa contra el avance decisivo del
+peón b5-b4 y por eso las blancas se rindieron.
+No siempre ni mucho menos, el ataque que termina con la derrota de las
+fuerzas enemigas. A veces se tejen finos encajes de amenazas combinatorias
+para obtener ventajas materiales no muy visibles pero sustanciales. Ejemplo
+brillante de acciones ofensivas puede ser la partida del eminente gran maestro
+ruso Alexandr Aliojin (Alekhine).
+Alekhine, A - Rubinstein, A [D64]
+Karlsbad, 1923
+1.d4 d5 2.c4 e6 3.Cf3 Cf6 4.Cc3 Ae7 5.Ag5 Cbd7 6.e3 0–0 7.Tc1 c6 8.Dc2 a6
+9.a4 Te8 10.Ad3 dxc4 11.Axc4 Cd5 12.Af4 Cxf4 13.exf4 c5 14.dxc5 Dc7 15.0–0
+Dxf4
+La supremacía posicional de las blancas está determinada por su predominio
+de peones en el flanco dama, y lo fundamental, por el desarrollo insuficiente del
+flanco rey negro, que permite el ataque de piezas al rey. Pero antes de atacar
+hay que debilitar la defensa enemiga. Vean con qué arte lo hace Aliojin.
+16.Ce4! Cxc5
+Las negras eran condenadas a defensa pasiva con otra captura de peón 16…
+Axc5 17.Ceg5! g6 (17… Cf8 18.Ad3! con golpes a los puntos h7 y c5) 18.Tfe1
+Cf8 19.g3 Df6, aunque ésta era tal vez la mejor forma de defensa.
+17.Cxc5 Axc5 18.Ad3! b6 19.Axh7+ Rh8 20.Ae4
+Así las bancas lograron su primer objetivo. En la cadena de peones que
+defiende al rey negro fue abierta una brecha, desapareció el peón h7 y las
+blancas obtuvieron posibilidad de trasladar las piezas mayores a la línea h. Pero
+hay que operar con energía, en caso contrario dentro de dos jugadas el alfil
+negro ocupará la casilla b7 y el ataque se extinguirá.
+20… Ta7? 21.b4!
+Comienzo de una maniobra muy eficaz de distracción que persigue maniatar
+las piezas negras, quitarles libertad de maniobra y crear supremacía de piezas en
+el flanco rey.
+21… Af8
+No se puede 21… Axb4? Porque 22.Dxc8!
+22.Dc6! Td7 23.g3 Db8
+
+Si 23… Dd6, Aliojin consideraba la solución más simple ganar material
+después de 24. Dc4! De7 (o bien 24… Rg8 25. Ac6 Tc7 26. Tfd1 De7 27. Dd3!)
+25. Ce5 Td6 26. Ag6! Sacando la dama a b8 (para defender al peón b6), las
+negras dejan prácticamente sin protección a su rey, lo que persigue Aliojin. El
+crea en el acto amenazas directas al rey. El efecto del ataque está claro. Las
+piezas blancas se trasladan en un santiamén de una mitad del tablero a la otra.
+24.Cg5! Ted8
+Amenazaba 25. Cxf7+ Txf7 26. Dxe8
+25.Ag6!!
+Golpe muy fuerte y, lo fundamental, inesperado. De nuevo cruje el punto f7
+y no hay tiempo para defenderlo, porque la dama blanca se abre paso al escaque
+h4. Por ejemplo: 25… Ab7 26. Dc4! O bien 25… fg6 26. De4! Axb4 27. Dh4+
+Rg8 28. Dh7+ Rf8 29. Dh8+ Re7 30. Dxg7+ Re8 31. Dg8+ Af8 32. Dxg6+ Re7
+
+33. Dxe6++. Las negras se ven obligadas a entregar calidad conservando todos
+los defectos de su posición. El final de la partida está claro sin comentarios.
+25…De5 26.Cxf7+ Txf7 27.Axf7 Df5 28.Tfd1! Txd1+ 29.Txd1 Dxf7 30.Dxc8
+Rh7 31.Dxa6 Df3 32.Dd3+ 1–0
+Estimados aficionados al ajedrez: espero que las partidas descritas y
+analizadas les permitan adquirir hábitos de organización y realización de acciones
+ofensivas.
+
+Lección 18
+Buen escudo no teme a espada
+¿Qué es más importante, el ataque o la defensa? Pregunta actual que cada
+ajedrecista resuelve individualmente. Los impetuosos y poco expertos procuran
+terminar la lid con ataque directo, buscan con insistencia golpes tácticos bellos e
+inesperados, en todas partes creen ver brillantes combinaciones. Los moderados,
+que participaron en diferentes batallas ajedrecistas, prefiere tener ante todo
+fuerte posición, cuando ningún ataque enemigo es temible.
+Los amadores del juego saben que en el siglo pasado dominaba el estilo
+ofensivo o, como lo llaman, romántico. Entonces no había métodos ingeniosos de
+defensa. Si te sacrificaban un peón o pieza era costumbre tomar la ofrenda y
+luego defenderse. Sólo a fines del siglo XIX, cuando se formó la teoría sobre el
+juego posicional del gran pensador ajedrecístico Wilhelm Steinitz y floreció el
+talento del campeón mundial Emmanuel Lasker empezó a valorarse la habilidad
+de saber defenderse y aparecieron ases del ajedrez que alcanzaron en esto
+grandes alturas.
+¿Cuáles son las concepciones modernas sobre este problema? Ellas rezan:
+tienen igual importancia el escudo y la espada. Hoy es evidente que no se puede
+ser fuerte ajedrecista sin saber defenderse bien.
+Todavía veinte años atrás, los sacrificios intuitivos, los sacrificios de peones
+por iniciativa, eran frecuentes en torneos internacionales. Hoy, la técnica
+defensiva creció tanto que hasta el sacrificio de peón debe respaldarse con
+variantes concreta, en caso contrario la defensa triunfará.
+¿Para qué precisamos aquí esa digresión histórica? La respuesta es simple:
+cualquier ajedrecista al perfeccionar su habilidad pasa el camino de
+generaciones anteriores. Nuestros antepasados ajedrecistas mucho no sabían y
+avanzaban con el método de pruebas y errores, atesorando para nosotros ingenio
+ajedrecístico en sus partidas y libros. Por eso, aquello que en martirios de
+creación les exigía decenios, el ajedrecista actual lo aprende de manuales
+prácticamente en un año.
+¿Cómo aprender a defenderse bien? Hay muchos métodos y procedimientos.
+
+Veremos los principales en esta lección y siguientes. Empecemos por la defensa
+de malas posiciones. Todavía Lasker decía que la posición nunca es tan mala
+como para no poder defenderla. No en balde dice el adagio ajedrecístico:
+« Nunca es tarde para rendirse» . La práctica muestra que por más desastrosa
+que sea la posición, siempre habrá posibilidad de enconada resistencia. Su tarea
+consiste en hallar esa posibilidad. Entonces, el adversario que saborea la victoria
+a cada jugada tropezará con nuevas dificultades, por agotamiento podrá cometer
+error y se le escapará la victoria. Claro, si en tal situación ambos rivales juegan
+bien, por más obstinada e ingeniosa que sea la defensa, una posición mala seguirá
+siendo mala. Pero hay que continuar luchando hasta el final con toda energía.
+Como lo hacía, por ejemplo, Lasker.
+Lasker, E - Nimzowitsch, A [B16]
+St Petersburg preliminary St Petersburg, 1914
+1.e4 c6 2.d4 d5 3.Cc3 dxe4 4.Cxe4 Cf6 5.Cxf6+ gxf6 6.Ae2 Af5 7.Af3 Da5+
+8.c3 h5 9.Axh5 Cd7 10.Ag4 Axg4 11.Dxg4 0–0–0 12.Ce2 e6 13.Af4 Db5 14.0–0–
+0 Cb6 15.Cg3 Dd5 16.Rb1 Dxg2 17.Tdg1 Dxf2 18.Ce4 Dh4 19.Df3 Cc4 20.Ra1
+f5 21.Cg5 Ad6 22.Ac1 Td7 23.Tg2 Ac7 24.Thg1 Cd6 25.De2 Ce4 26.Cf3 Dh3
+
+Las negras tienen un peón de más, magnífico caballo en el centro y ausencia
+de peones débiles. Pocos sabrían organizar aquí enconada resistencia. Pero el
+gran Lasker notó que el caballo negro podía cambiarse y el peón de más negro
+por el momento estaba doblado, comprendió que la supremacía del contrario
+aunque era evidente no tenía carácter decisivo. Por eso, las negras aún debían
+encontrar un plan para fortalecer su posición. Entonces, a las blancas les
+convenía esperar tranquilamente lo que emprendería el rival.
+27.a3 a6 28.Ae3 Thd8 29.Ra2 Th8 30.Ra1 Thd8
+Primer éxito de las blancas, Nmzovich hizo la maniobra con la torre de ida y
+vuelta, mostrando que no tenía plan claro de encarnación de su ventaja. Eso era
+buen estímulo para elevar la oposición de las blancas.
+31.Ra2 Te8 32.Tg8 Txg8 33.Txg8+ Td8 34.Tg7 Td7 35.Tg8+ Td8 36.Tg7 Tf8
+De nuevo las blancas dificultaron al adversario el camino a la victoria. El
+
+cambio de torres debilitó la presión sobre el único peón débil h2. Además, la torre
+blanca ocupó posición más activa que la negra, pero su actividad debe ser
+apoyada, en caso contrario la dama negra puede desalojar a esa pieza. Lasker
+crea amenaza de irrupción d4-d5.
+37.c4 Cf6?
+Primer error. Al tropezar con fuerte oposición, las negras se desconcertaron y
+buscan defensa a la única amenaza de repente surgida, la actividad de las
+blancas. Las negras estaban obligadas a sacar a la torre blancas de su posición
+activa por otro medio 37… Dh8!
+38.Ag5 Ch5?
+La desgracia nunca viene sola. Tras el primer error con frecuencia sigue el
+segundo. Por lo visto, las negras, al no hallar modo enérgico de materializar la
+supremacía pasaron a maniobras tácticas. Ahora esperanzas en final ganador
+después de 39.Th7 Cf4! 40.Txh3 Cxe2 o bien 39.Ae7 Cxg7 40.Axf8 Ch5. Al
+concluir la partida se estableció que las negras conservaban posibilidad de éxito
+sólo en el caso de 38… Ce4 39.Ae7 Te8 40.Txf7 Dg4! 41.Ah4! Dg6! 42.Te7 Th8!
+Pero el análisis después de la partida y el juego directo en el tablero son dos
+cosas completamente distintas. Nimzovich no encuentra la continuación ganadora
+y agotado por la lucha pierde definitivamente la supremacía.
+39.Txf7! Txf7 40.Dxe6+ Td7 41.Ce5! Axe5 42.De8+! Rc7 43. Dxe5+. ½–½
+A pesar de tener una torre de más, las negras no pueden evitar el jaque
+perpetuo. Por eso, los contrincantes aceptan tablas.
+Lasker a menudo se salvaba de posiciones difíciles mediante su resistencia
+violenta y hábil.
+Pocas veces perdía otro gran ajedrecista del pasado, el cubano José Raúl
+Capablanca. Él también sabía defenderse maravillosamente. Con un ejemplo de
+su práctica terminaremos la primera parte de nuestra charla sobre métodos de
+defensa.
+Rubinstein, A - Capablanca, J [D64]
+St Petersburg preliminary St Petersburg, 1914
+1.d4 d5 2.Cf3 Cf6 3.c4 e6 4.Cc3 Cbd7 5.Ag5 Ae7 6.e3 0–0 7.Tc1 Te8 8.Dc2
+c6 9.Ad3 dxc4 10.Axc4 b5 11.Ad3 a6 12.Ce5 Ab7 13.Cxd7 Dxd7 14.Axf6 Axf6
+15.Axh7+ Rh8 16.Ae4 e5 17.dxe5 Txe5 18.0–0 De7 19.Af3 Tc5 20.De2 Axc3
+21.Txc3 Txc3 22.bxc3 Td8 23.Td1 Txd1+ 24.Dxd1 Rg8 25.h4 c5 26.Axb7 Dxb7
+27.Dd6
+
+Da la impresión que las blancas tienen enorme supremacía en el final: peón
+de más y fuerte posición de la dama. Parece natural 27… c4, pero entonces
+luego de 28.f3 Dc8 29.e4 la dama negra queda atada en la maniobra y la derrota
+se hace inevitable. Capablanca por todos los medios procura activar la dama y
+obtener peón pasado.
+27… b4!
+Ahora, en caso de 28.cxb4 Dxb4 29. Dxa6 c4!, el peón c salva a las negras.
+Las blancas deberían haber seguido el único camino de éxito 28.c4! Dc8 29.
+Db6! (amenazaba 29… a5) Df5! 30. Dxa6 Rh7!! 31. Da7 De5 (32. Dxf7?! Da1+
+33.Rh2 Dxa2), Rubinstein decide que hay otro camino de victoria.
+28.Dxc5 bxc3 29.Dxc3 Db1+ 30.Rh2 Dxa2 31.Dc8+ Rh7 32.Df5+ g6 33.Df6
+La situación se aclaró. La enorme supremacía de peones blancos en el flanco
+rey no vale nada en comparación con el modesto peón negro en la casilla a6.
+
+33…a5 34.g4 a4 35.h5 gxh5 36.Df5+
+Reconocimiento de la supremacía del adversario en el juego de final. En
+efecto, luego de efectuar las movidas 36.gxh5 De6! Arriesgaban perder sólo las
+blancas.
+36… Rg7 37.Dg5+ Rh7 38.Dxh5+ Rg7 ½–½
+Asombrosa la facilidad con que Capablanca defendió su peor posición. Pero
+esa facilidad demuestra su extraordinario virtuosismo.
+Valoren la defensa, aprendan a defenderse, un escudo fuerte puede resistir el
+golpe de cualquier espada.
+La lección siguiente estará consagrada al estudio de los principales métodos
+modernos de defensa.
+
+Lección 19
+La hora del contraataque
+En los últimos, digamos, 50 años, el ajedrez se hizo mucho más dinámico,
+más refinado y sutil es el arte del ataque. Esto, a su vez, provocó reacción
+contraria. A medida que se afilaba la espada, iba modernizándose y adquiría
+mayor solidez el escudo.
+Ante todo creció bruscamente el papel de la defensa activa, llamada a crear
+contra amenazas. En otras palabras, bajo la lluvia de proyectiles fueron
+perfeccionándose con rapidez y eficacia los métodos de contraataque.
+Tuve la suerte de enfrentar muchas veces al magnífico académico del
+ajedrez Tigram Petrosian, prematuramente fallecido. En pláticas me donaba
+generosamente su inapreciable experiencia. Los topes en el tablero con este
+maestro fenomenal de la defensa fueron para mí de extraordinaria utilidad.
+Largo tiempo yo no podía comprender cómo, o más justo cuándo se frustró mi
+ofensiva que parecía irresistible en la partida del supertorneo de Tilburg en 1981.
+Kasparov, G (2630) - Petrosian, T (2585) [D22]
+Interpolis Tilburg (7), 10.1981
+1.d4 d5 2.c4 dxc4 3.Cf3 Cf6 4.e3 Ag4 5.Axc4 e6 6.h3 Ah5 7.Cc3 a6 8.g4 Ag6
+9.Ce5 Cbd7 10.Cxg6 hxg6 11.Af1 c6 12.Ag2 Dc7 13.0–0 Ae7 14.f4 Cb6 15.g5
+Cfd7 16.Dg4 0–0–0 17.Tb1 Rb8 18.b4 Cd5 19.Ca4 f5 20.Dg3 Cxb4 21.Ad2 Cd5
+22.Tfc1 Ra7 23.De1 Aa3 24.Tc2 Dd6 25.Tb3 De7 26.De2 Tb8 27.Dd3 Ad6
+28.Cb2 Thc8 29.Cc4 Ac7 30.a4
+
+Luego se sacrificar un peón en la apertura, logré estrechar al máximo las
+piezas negras. Además era evidente que el rey negro se hallaba mal ubicado.
+Ahora por ejemplo, amenaza a4-a5 y no está claro cómo evitar el peligro de Tb2
+y Db1. La situación constreñida de las piezas negras hace una defensa pasiva sin
+perspectivas. Y Petrosian se decide a una jugada que parece embate de
+desesperación.
+30…b5 31.axb5 cxb5 32.Ta2!
+Yo tenía la impresión de que las negras estaban al borde de la catástrofe,
+porque el desmoronamiento de sus posiciones en todas las líneas abiertas del
+flanco dama parecía inevitable. Pero Tigram Petrosian desde ese momento
+encuentra tales jugadas que todo lo que ocurre en el tablero se asemeja a algo
+místico.
+32… Rb7!
+
+La mayoría de maestros, sin dudas, preferiría aquí 32… Ad6 devolviendo el
+peón 33… Txb5 34. Cxd6 Dxd6 35. Dxb5, y al obtener peor posición, de todas
+formas evitar la catástrofe. No sé con qué olfato mi respetado adversario
+determinó que en b7 el rey estaría más seguro, pero esa decisión me causó
+efecto psicológico inesperado. Como antes, yo seguía viendo que la potencia
+ofensiva de mis piezas era grande, pero la jugada sorpresiva del rey embrolló
+mis ideas.
+33.Ab4?
+Aunque parezca extraño, esta jugada, a primera vista natural, que
+intensificaba la tensión, resultó grave error. Yo comprendía que el sostén de la
+posición de las negras era el punto d5, pero no veía la forma de alcanzarlo. Ya
+cuando volví a Moscú encontré el plan ganador: 33.Ca3! Ab6 34.Cc2! Ta8 35.Cb4
+Dd6 36.e4! fxe4 37.Dxe4 Ta7 38.Dxg6 Axd4+ 39.Rh1 C7b6 40.f5!+-. Como ven,
+la victoria no era fácil y para descubrirla se requería tiempo, había que penetrar
+hondo en los secretos de la posición.
+33… De8!
+Sólo ahí, el peón b5 debe estar bien protegido. Si 33…Dd8? 34.e4! fxe4
+35.Dxe4 De8 36.Dxd5+! exd5 37.Axd5+ Ra7 38.Txa6+! Rxa6 39.Ta3+ Aa5
+40.Txa5++.
+34.Ad6 Ta8 35.Db1
+Aquí sentí la primera vez vagos temores por el feliz desenlace de mi ofensiva
+y resolví simplemente sacar las piezas a posiciones de ataque con la esperanza de
+asestar algún golpe combinatorio. Pero la réplica siguiente del excampeón
+mundial me dejó completamente azorado.
+35… Rc6!!
+¡Qué jugada! El propio rey da un paso al encuentro del ejército blanco
+saliendo del refugio de peones. Pero eso no fue imprudencia, sino cálculo
+concreto. Ahora, inesperadamente las blancas deben preocuparse del liberar a
+sus piezas enredadas sin pérdidas materiales. Todavía habría salvación, mas
+desgraciadamente, atolondrado por la ingeniosa defensa del contrincante, no
+encontré mejor continuación y perdí en pocas jugadas.
+36.Tba3? bxc4 37.Txa6+ Txa6 38.Txa6+ Ab6 39.Ac5 Dd8 40.Da1 Cxc5
+41.dxc5 Rxc5! 0–1
+¡El rey además de defenderse a si mismo condujo a su ejército a la victoria!
+La conclusión principal que se debe hacer al analizar este caso es: hay que
+aprender a conservar siempre sangre fría y claridad de pensamiento al chocar
+con el ataque enemigo. Entonces usted podrá no sólo rechazarlo con éxito, sino
+también elegir el momento adecuado para pasar a contraataque, en fin de
+cuentas el método más eficaz de defensa.
+Vean un ejemplo clásico de contraataque en la estupenda partida de dos
+
+titanes del ajedrez.
+Geller, E - Euwe, M [E28]
+Candidates Tournament Zuerich (2), 31.08.1953
+1.d4 Cf6 2.c4 e6 3.Cc3 Ab4 4.e3 c5 5.a3 Axc3+ 6.bxc3 b6 7.Ad3 Ab7 8.f3
+Cc6 9.Ce2 0–0 10.0–0 Ca5 11.e4 Ce8 12.Cg3 cxd4 13.cxd4 Tc8 14.f4 Cxc4 15.f5
+f6 16.Tf4
+El ataque blanco parece temible. Necesitan apenas dos jugadas para trasladar
+la dama y la torre a la línea h, después de lo cual, prácticamente, todas sus piezas
+(excepto otra torre en la casilla a1) participarán en el asalto a los reductos del rey
+enemigo. Pero el excampeón mundial Max Euwe en toda su vida jugó más de 70
+partidas con el magnífico artífice del ataque Alexandr Alekhine y es difícil
+turbarlo.
+
+16…b5!!
+No es pérdida inútil de tiempo, sino comienzo de encarnación de un plan
+maravilloso. La defensa pasiva de la fortaleza real a las negras no ofrece
+perspectivas porque sus piezas disponen de ínfimo espacio para maniobrar y la
+mitad de ellas no puede participar en la defensa del rey. Comprendiendo esto,
+Euwe decide efectuar lo antes posible contrajuego en el centro, donde las
+posiciones de sus piezas no son peores que de las blancas.
+17.Th4 Db6 18.e5! Cxe5 19.fxe6 Cxd3 20.Dxd3
+Las negras cambiaron el alfil de casilla blanca peligroso en el ataque. Y
+abrieron la gran diagonal a su alfil, que tomó bajo fuego el punto g2, vital para las
+blancas. Pero de todas formas da la impresión que las blancas consiguieron más,
+ya que irrumpieron con su dama en la fortaleza real.
+20…Dxe6! 21.Dxh7+ Rf7 22.Ah6
+La situación de las negras parece crítica. A las blancas sólo les queda
+trasladar la torre de a1 a f1 y de inmediato surgirán amenazas de mate al rey
+contrario. Pero justamente ahora, Euwe asesta un golpe táctico de distracción y
+realiza un ataque relámpago.
+22…Th8?!!
+
+23.Dxh8 Tc2!
+La situación en el tablero cambió de golpe y bruscamente. Ahora, ya
+amenaza mate a las blancas: 24… Txg2+ 25. Rf1 Dc4+, etc. Cuando acabó el
+torneo, los grandes maestros después de muchas horas de análisis llegaron a la
+conclusión de que las blancas podían salvarse haciendo varias movidas únicas y
+difíciles de encontrar durante el juego. Una de las variantes era: 24.d5! Db6+ 25.
+Rh1 Df2 26. Tg1 Axd5 27. Te4 Axe4 28. Cxe4 Dh4 29. Axg7 Dxe4 30. Df8+ Re6,
+etc. Agotado por la lucha, Gueller no encontró solución justa y la partida terminó
+muy rápido.
+24.Tc1? Txg2+ 25.Rf1 Db3! 26.Re1 Df3! 0–1
+¿Por qué fracasó ese ataque, aparentemente tan peligroso, de las blancas?
+Porque fueron a la ofensiva con grandes fuerzas, pero inquietó al rey, de hecho,
+sólo la dama, mientras que las demás piezas jugaron el papel más bien de
+
+observadores. En el contraataque de las negras, enfilado al punto g2, por el
+contrario, actuaron varias piezas. Euwe logró triunfar también porque se defendió
+con las mínimas fuerzas. Fue una defensa típica económica, que el gran Lasker
+consideraba exponente de alto nivel de juego.
+De modo que al defenderse no pierdan la calma, cuando amenaza el rival no
+lancen todas las piezas a la defensiva, economicen fuerzas para el contraataque y
+esperen pacientes el momento oportuno.
+
+Lección 20
+Reyes en oposición
+El ajedrez para la mayoría de los aficionados es ante todo un juego que
+permite encarnar diferentes variantes tácticas de bellas e inesperadas
+combinaciones. Cuantas menos piezas queden en el tablero, tanto menos
+interesante, en su opinión, se hace la partida. Y el final para muchos se asemeja
+a un triste y aburrido desierto con raros oasis. ¡Cómo se equivocan!
+El final, última fase de la lucha ajedrecística, encierra en sí una riqueza
+inagotable para plasmar ideas originales, llevar a efecto planes de largo alcance.
+Sólo que en la ejecución de los planes trazados se requiere mucha mayor
+precisión que en el medio juego. La posición después de una apertura no muy
+afortunada puede corregirse con acciones emprendedoras en medio juego, a la
+vez que los yerros en esta fase de la partida pueden compensarse con juego hábil
+en el final. Pero las fallas en el final, igual que las fallas del guardameta en el
+fútbol, con mayor frecuencia son irreparables. Recuerde: el ajedrecista no
+logrará grandes éxitos si no ama, y lo fundamental, no sabe jugar los finales.
+No por casualidad, todos los campeones mundiales pasaban gustosos a la fase
+final de la partida, donde se destacaban por su arte. Auténticos virtuosos de
+finales eran Emmanuel Lasker, José Raúl Capablanca y Mijail Botvinnik.
+Enorme provecho en la asimilación de la técnica de finales me dieron las
+lecciones del excampeón mundial Mijail Botvinnik. Diez años atrás, él me
+convenció de la necesidad de estudiar minuciosamente y recordar las posiciones
+y métodos tipo en esta fase del juego.
+El gran Capablanca aconsejaba iniciar el perfeccionamiento del juego del
+final por estudio de finales simples de peones. ¿Para qué? Pues la posibilidad de
+que tropiece con ellos en sus partidas es ínfima. La primera refutación de este
+pragmatismo ingenuo la recibí en 1978, en el torneo clasificatorio del
+campeonato nacional, celebrado en Daugavpils. En las postrimerías del torneo,
+en una partida que jugué con negras, después de la 45ª. Movida de las blancas en
+el tablero se dio esta posición.
+
+Alburt, L (2510) - Kasparov, G (2200) [E74]
+URS-ch sf Daugavpils (8), 06.1978
+1.c4 Cf6 2.Cc3 g6 3.d4 Ag7 4.e4 d6 5.Ae2 0–0 6.Ag5 c5 7.d5 h6 8.Af4 e6
+9.dxe6 Axe6 10.Axd6 Te8 11.Cf3 Cc6 12.0–0 Da5 13.Cd2 Ted8 14.Cb3 Db6
+15.Ca4 Db4 16.Cbxc5 Axc4 17.Axc4 Dxc4 18.Cxb7 Cxe4 19.Tc1 Db5 20.Cxd8
+Txd8 21.Dc2 Cd4 22.Dxe4 Ce2+ 23.Rh1 Cxc1 24.Txc1 Txd6 25.Dc2 Dg5
+26.Td1 Df5 27.Dc1 Txd1+ 28.Dxd1 Dxf2 29.Dg1 Dc2 30.b3 Dxa2 31.Cc5 Dd2
+32.Db1 Ad4 33.Cd3 De3 34.Cb4 h5 35.Dd1 h4 36.Cc2 Dxb3 37.Dxd4 Db1+
+38.Dg1 Dxc2 39.Dxa7 Dd1+ 40.Dg1 Dxg1+ 41.Rxg1 Rg7 42.Rf2 Rf6 43.Re3
+Re5 44.Rf3 f5 45.Re3 g5 46.h3
+En este momento, numerosos espectadores ponían en duda que las negras
+fuesen capaces de vencer. Yo, mientras tanto, comprobé mi método conocido de
+
+ganancia. Al principio las negras deben obtener peón pasado aprovechando la
+amenaza de eludir al rey blanco por el flanco:
+46… Rd5 47.Rd3 Rc5! 48.Rc3
+Las blancas no tienen elección.
+48.… g4! 49.Rd3 gxh3 50.gxh3 Rd5 51.Re3 Re5 52.Rf3 f4 53.Rf2 Re4
+54.Re2 f3+ 55.Rf1
+A primera vista, el rey negro no puede seguir abriéndose paso, resulta
+ahogado después de 55… Rf4 56.Rf2 Re4 57.Rf1 Re3 58.Re1 f2+ 59.Rg1 Rf3.
+Pero yo sabía que no era así. En la situación creada hay que entregar el turno a
+las blancas, ponerlas en situación de zugzwang, cuando no hay jugadas útiles. Eso
+se logra con oposición lejana de reyes.
+Aquí llegó la hora de explicar a los aficionados qué es oposición y cómo se
+manifiesta. La actividad del rey en el final de peones es la base del éxito. El rey
+debe procurar, ante todo ocupar el mayor espacio posible, desplazando con este
+objeto al rey enemigo cada vez más lejos. Por eso, con mayor frecuencia esta
+pieza de ajedrez debe ir delante de los peones. En la lucha de los reyes por el
+espacio tiene suma importancia aprovechar hábilmente la oposición de los reyes.
+La más eficaz es la llamada oposición cercana. Veamos un ejemplo clásico.
+
+Ambos reyes están en oposición. Esta es ventajosa para quien la ocupó, es
+decir, hizo la última jugada. Si ahora mueven las blancas, ellas se ven obligadas a
+permitir que eludan a su rey y se corone el peón:
+1.Rg2 Re3! 2.Rf1 f4 3.Re1 f3 4.Rf1 f2 5.Rg2 Re2, etc.
+Si mueven las negras, ellas no están en condiciones de desplazar al rey y
+deben resignarse a tablas, ya que después de:
+1.… Re4 2.Re2! f4 3.Rf2 f3 4.Rf1! Re3 5.Re1 f2+ 6.Rf1 Rf3, surge la posición
+de ahogado. La oposición lejana, cuando separan a los reyes no una sino tres
+horizontales, es un método más fino con el cual se asegura el paso a la oposición
+cercana.
+En nuestro caso, el peón f3 no permite al rey blanco, obligado antes de eso a
+ubicarse en f1, ocupar la casilla e2 estando el rey negro en e4.
+55.… Rf5! 56.Rg1
+
+Después de 56. Rf2 Rf4, de la oposición cercana se apoderan las negras y
+luego de 57. Rg1 Rg3 capturan el último peón blanco.
+56.… Re5 57. Rf1 Re4! 0-1
+Ahora, la casilla e2 para el rey blanco es inaccesible y eso hace su
+resistencia inútil.
+Es interesante que al cabo de cinco años, en el gran torneo internacional de la
+ciudad yugoslava de Niksic, logré ganar la partida con igual procedimiento.
+Seirawan, Y (2605) - Kasparov, G (2690) [D34]
+Niksic (1), 1983
+1.d4 d5 2.c4 e6 3.Cc3 c5 4.cxd5 exd5 5.Cf3 Cc6 6.g3 Cf6 7.Ag2 Ae7 8.0–0
+0–0 9.Ag5 cxd4 10.Cxd4 h6 11.Axf6 Axf6 12.Cb3 d4 13.Ce4 Ae7 14.Tc1 Db6
+15.Cec5 Td8 16.Tc4 Axc5 17.Cxc5 Dxb2 18.Dc2 Dxc2 19.Txc2 Tb8 20.Tb2 Td6
+21.Td1 b6 22.Cb3 Ab7 23.Tbd2 Tbd8 24.Rf1 Aa6 25.Axc6 Txc6 26.Cxd4 Tc5
+27.Cb3 Txd2 28.Txd2 Tc7 29.Td8+ Rh7 30.Re1 Ac4 31.Rd2 g6! 32.Cc1 Rg7
+33.a3 Rf6 34.e3?! Re7 35.Td4 Td7 36.Rc3 Txd4 37.Rxd4 b5 38.Cd3 Axd3
+39.Rxd3 Rd6 40.e4?? g5! 41.f4 gxf4 42.gxf4 Rc5 43.Rc3 a5 44.Rd3 h5 45.h4! b4
+46.a4 f6 47.f5!
+
+De inmediato salta a la vista la posibilidad de irrupción del rey negro hacia los
+peones del flanco rey 47… b3 48. Rc3 b2 49. Rxb2 Rd4. Pero si continúa 50. Rb3
+Rxe4 51. Rc4 Rxf5 52. Rb5 Rg4, a las pocas jugadas resulta un final de damas
+tablas con único peón negro h. Yo vi la posibilidad, aprovechando la oposición
+lejana y ponerlo en situación zugzwang.
+47… Rc6! 48.Rc4 Rc7! 49.Rd3 Rd7!
+Describiendo un triángulo, el rey negro alcanzó su objetivo y ahora está listo
+para la marcha triunfal de vuelta a c5.
+50.Re3 Rc6 51.Rd3 Rc5
+Ahora el rey blanco debe ceder camino.
+52.Re3 b3!
+La última jugada es la única precisa. La natural 52… Rc4 conducía a tablas:
+53.e5! Rd5 54.e6! Rd6.
+
+53.Rd3 Rb4 54.e5 Ra3! 0–1
+Y de nuevo la única respuesta precisa. Porque después de 54… b2 55. Rc2
+Ra3 56. Rb1 ganaban ya las blancas. Ahora se ve el desenlace lógico 55.exf6 b2
+56. Rc2 Ra2 57.f7 b1D+ A las blancas paras salvarse les falta un tiempo. Por eso
+se rindieron.
+La tercera vez, el conocimiento de métodos tipo en final de peones me salvó
+de larga continuación en la partida con Milan Vukic (Yugoslavia) por el
+campeonato europeo-80 de equipos, donde mi rival jugó con negras.
+Kasparov, G (2595) - Vukic, M (2460) [B19]
+EU-chT (Men) Skara (7), 1980
+1.e4 c6 2.d4 d5 3.Cd2 dxe4 4.Cxe4 Af5 5.Cg3 Ag6 6.h4 h6 7.Cf3 Cd7 8.h5
+Ah7 9.Ad3 Axd3 10.Dxd3 e6 11.Ad2 Dc7 12.0–0–0 Cgf6 13.Ce4 0– 0–0 14.g3
+Cxe4 15.Dxe4 Ae7 16.Rb1 The8 17.De2 Ad6 18.The1 Te7 19.c4 c5 20.Ac3 Cf6
+21.Ce5 cxd4 22.Txd4 Axe5 23.Txd8+ Dxd8 24.Axe5 Td7 25.Ac3 Db6 26.g4 Dd6
+27.f3 a6 28.a4 Dd3+ 29.Rc1 Rc7 30.Dxd3 Txd3 31.Tf1 Rc6 32.Rc2 Td7 33.a5!+-
+Ce8 34.Te1 Td6 35.f4 Cf6?
+
+Las blancas tienen ventaja posicional, merced a un fuerte alfil y dos cadenas
+de peones que estrecharon considerablemente a las negras en ambos flancos.
+Generalmente, para plasmar la ventaja posicional se requiere tiempo. Pero en
+este caso, la lucha termina asombrosamente rápido. Las blancas al principio
+cambian a su fuerte alfil.
+36.Axf6! gxf6 37.Td1! 1-0
+Ahora, a las negras no les queda otra cosa que entregar la partida, porque el
+final de peones 37… Txd1 38.Rxd1 Rd6 39.g5! se gana con facilidad. Sí, las
+negras tienen supremacía de peones en el flanco rey, pero por defecto de la
+estructura de peones (e6, f7, f6 y h6) no están en condiciones de impedir a las
+blancas que tengan ahí peón pasado. Sólo pueden alcanzarlo con el rey 39… fxg5
+40.fxg5 Re7 41.gxh6 Rf8. Pero entonces las blancas inician las acciones en el otro
+extremo del tablero 42.b4 Rg8 43.b5. Se origina un segundo peón pasado que es
+
+imposible de parar.
+Pido disculpa a los lectores porque todos los ejemplos citados fueron tomados
+de mi práctica. Eso lo hice para que se convencieran de cuán provechosos es
+tener conocimiento concreto de este tipo de final.
+Aconsejo analizar minuciosamente los finales, eso les reportará indudable
+utilidad. Les ayudarán manuales especiales. Por ejemplo, Últimas lecciones de
+ajedrez de José Raúl Capablanca, que dio en 1941, compiladas en un librito, y la
+obra de muchos tomos Finales de ajedrez del conocido gran maestro soviético
+Yuri Averbaj.
+
+Lección 21
+Ataque en la Fase Final
+En la lección anterior conocimos los principios fundamentales y algunos
+procedimientos técnicos de juego en la fase final. Recordaré a los aficionados al
+ajedrez una de las reglas básicas que es preciso observar en final de peones. El
+rey debe procurar ante todo conquistar el mayor espacio posible, desplazando
+cada vez más al rey enemigo.
+Ahora cuando se publican manuales de finales en grandes tiradas, para
+familiarizarse con ellos sólo se requiere deseo y tiempo. Además, las aperturas
+fueron estudiadas tan a fondo que ya al comienzo de la partida el ajedrecista está
+obligado a prever las singularidades de las posiciones finales probables.
+El ejemplo más simple sobre este tema es una de las variantes de la defensa
+Caro-Kan 1.e4 c6 2.d4 d5 3. Cc3 dxe4 4. Cxe4 Cf6 5. Cxf6+ exf6, cuando las
+negras voluntariamente, queriendo fortalecer la capacidad defensiva del futuro
+refugio de su rey, acceden a perspectivas sin dudas peores de final.
+En esta lección estudiaremos métodos de juego en final con alfiles de casillas
+de distinto color. Las partidas en las que los rivales tienen dichos alfiles a menudo
+terminan en tablas. Incluso en los casos en que uno de los bandos tiene dos peones
+de ventaja. Pero otras perspectivas ofrecen la situación cuando en el tablero,
+además de esos alfiles quedan torres. En tal caso, hasta con igual cantidad de
+peones y estructura normal de peones, puede asegurar considerable supremacía
+una distribución más activa de las piezas.
+Kasparov, G (2625) - Gheorghiu, F (2605) [E16]
+Moscow (2), 04.1981
+1.d4 Cf6 2.c4 e6 3.Cf3 b6 4.g3 Aa6 5.Cbd2 Ab7 6.Ag2 Ae7 7.0–0 0–0 8.Dc2
+d5 9.cxd5 exd5 10.Ce5 c5 11.Cdf3 Cbd7 12.Af4 Ce4 13.dxc5 Cxe5 14.Cxe5
+Axc5 15.Tad1 Dc8 16.Db3 Df5 17.Cd3 Tfd8 18.Cxc5 Cxc5 19.Db4 Tac8 20.Ae3²
+h6 21.Da3 Dd7?! 22.Ad4?! Db5 23.Ah3 Tc7 24.Df3 Ce6?! 25.Axe6! fxe6 26.De3
+De8 27.Tc1 Tdc8 28.De5± Tf7 29.g4!? Tc6 30.f4?! 30… Dd7 31.h4 Dc7?!
+32.Txc6 Dxe5 33.Axe5 Axc6 34.Tc1 Ab7 35.h5± Tf8 36.Tc7 Tf7 37.Tc3! Rh7
+
+38.Rf2 g6
+La situación de las negras es bastante difícil. El alfil blanco desde la casilla e5
+junto con el peón h5 priva al rey negro de la posibilidad de maniobras, hablando
+figuradamente, lo encierran en la jaula. La torre negra se ve obligada a moverse
+por las casillas de la séptima horizontal, no dejando pasar la torre blanca a c7.
+Después de 39.Re3! gxh5 40.gxh5, yo evitaba fácilmente contratiempos en
+zeitnot y durante el análisis casero por lo visto encontraría la forma de ganar.
+Ahora me imagino así: la torre negras defiende el escaque c7, el alfil negro no
+deja pasar la torre c8, el peón b6 mantiene bajo fuego la casilla c5, y debe
+liquidarse sin falta. Para eso, los peones blancos se colocan en a4 y b5, mientras
+que el rey se traslada a d4. Después las blancas cambian torres y el alfil captura
+con facilidad al peón b6. Luego el rey irrumpe a través de c5 al flanco dama y
+
+corona al peón b5. Pero este plan lo encontré fácil… en casa, cuando amargado
+me senté a analizar la partida que terminó tablas después de:
+39.hxg6+? Rxg6 40.Ta3 Ac6 ½–½
+Mi propuesta de concertar las paces asombró y alegró al adversario. Yo no
+quería seguir jugando, pues estaba presionado por el axioma aprendido en la
+infancia: «alfiles de distinto color siempre dan tablas».
+Ahora, incluso en la posición final jugaría a ganar aprovechando la pasividad
+de las piezas negras:
+41. Tc3 Ab7 42. Re3 h5 43.gxh5+ Rxh5 44. Tc1 Rg6 45. Tg1 Rh7 46. Rd4 Aa6
+47. Tg2!, no dejando pasar el alfil al flanco rey, como podría suceder si 47.e5
+Ae2! Y luego e3, b3, a4. Después de eso, el desenlace de la contienda dependería
+de la maña de la torre blanca.
+
+Dicen que nada enseña tanto al ajedrecista como el análisis de las causas de
+sus derrotas. Yo quisiera precisar esta afirmación sin dudas justa. Hay que
+investigar también la situación cuando usted hubiera podido reforzar la posición
+mas no lo hizo. Cualquier ocasión desaprovechada de jugar mejor incluso en
+partida tablas o ganada con dificultad es pérdida suya. Por eso hay que volver a
+analizar una y otra vez los errores propios independientemente del resultado del
+cotejo. Después de analizar el juego en dicha partida con Florin Gheorghiu me
+liberé para siempre de ingenuidad al valorar situaciones finales.
+Un año después, enfrentando al gran maestro Bent Larsen, obtuve con negras
+mejor final de pocas piezas.
+Larsen, B (2565) - Kasparov, G (2690) [D34]
+Niksic (7), 1983
+1.c4 e6 2.Cc3 d5 3.d4 c5 4.cxd5 exd5 5.Cf3 Cc6 6.g3 Cf6 7.Ag2 Ae7 8.0–0
+0–0 9.b3 Ce4 10.Ab2 Af6 11.Ca4 Te8 12.Tc1 b6 13.dxc5 Axb2 14.Cxb2 bxc5
+15.Ca4 Aa6 16.Te1 c4 17.Ch4 Da5 18.Cf5 g6 19.Cd4 Tac8 20.h4 Ce5 21.Ah3
+Tc7 22.Cc2 cxb3 23.axb3 Ac8 24.Ag2 Cg4 25.Tf1 Ad7 26.Ta1 Axa4 27.Txa4
+Dc3 28.Axe4 dxe4 29.e3 Dxb3 30.Txe4 Txe4 31.Dd8+ Rg7 32.Dxc7 Tc4 33.Cd4
+Txc7 34.Cxb3 Tc2 35.Cd4 Ta2 36.e4 Td2 37.Cc6 a6 38.e5 Te2 39.Ta1 Txf2
+40.Txa6 Tc2
+
+A primera vista, las negras no tienen problemas. Su torre penetró en la
+segunda horizontal. Es evidente la debilidad de los peones blancos en e5 y g3.
+Pero en el tablero quedaron pocas unidades combativas. Para colmo, Larsen hizo
+la fuerte jugada
+41.h5!
+Provocando ulteriores cambios.
+Como sabemos, no tienen defectos sólo las jugadas que dan mate. Las
+blancas, queriendo simplificar al máximo la posición, permiten que el rey negro
+se haga más activo. Ahora, él está dispuesto a participar en… el ataque a los
+reductos de su adversario. ¡No se asombren! En la fase final también se puede
+caer elementalmente bajo ataque.
+41… Rh6! 42.hxg6 hxg6 43.Ta4! Rg5 44.Cd4 Tc3!
+Las negras necesitan sólo atacar al rey. La aspiración de ventajas materiales,
+
+digamos 44…Tc1+ 45. Rg2 Cxe5 46. Cf3+ conducía el juego a final de torres
+teóricamente igualado.
+45.e6!
+Luego de 45. Rg2 Cxe5, las negras ganan peón sin permitir cambio de
+caballos. Y aunque las chances de las blancas a empate continúan siendo
+significativas, no se ve el camino preciso para lograrlo
+45… Txg3+ 46.Rh1?
+De dos caminos hacia el resultado pacífico, las blancas eligen el más
+escabroso, donde el peligro se sufrir ataque de mate es superior. Si jugaran con
+mayor precisión 46. Rf1! f5 47.e7 Te3 48. Cc6! Cf6 49. Ta8 Te6 50. Tf8! f4 51.
+Rf2, las negras no tendrían recursos para consolidar su posición y el empate sería
+inevitable.
+46… f5 47.e7 Te3 48.Cc6 f4!
+Ahora las blancas tienen que defenderse del serio peligro que las amenaza.
+Por ejemplo 49. Ta8 Te1+ 50. Rg2 Te2+ 51. Rf1 f3! 52.e8D Ch2+ 53. Rg1
+f2+. La idea que parece haber sido tomada de un problema de ajedrez; 49.e5
+Txe5 50. Ta5! tampoco salva las dificultades en la lucha por el empate, pues
+sigue 50… Txa5 51.e8D Tf5. El hielo por el que marchan las blancas hacia el
+empate es muy fino y sólo la respuesta paradójica 49. Cd4!! las salvaría. El
+control de la casilla f3 es el secreto de la posición, y eso se ve en las variantes.
+Por ejemplo 49… Txe7 50. Cf3+ Rf5 51. Ch4+. O bien 49… Rh4 50. Rg2! A total
+agotamiento conduce 49… Cf6! 50. Ta6! Txe7 51. Ce6+ Rg4 52. Cxf4. Pero
+movidas como 49. Cd4!! es increíblemente difícil encontrarlas durante el juego.
+49.Ta5+? Rh4 50.Ta8
+Es esta posición, el intento de plasmar una idea impresionante. Conduce a
+derrota: 50. Ce5! Porque sigue 50… Cxe5 51.e8D Te1+ 52. Rg2 f3+ 53. Rf2 Cd3+
+50… Cf6! 51.Rg2 f3+ 52.Rf1 Rg3 53.Cd4 Cg4!
+Ahora si 54.e8D, resuelve el desenlace de la lid 54… Ch2 55. Rg1 f2+. Hay
+que entregar el caballo.
+54.Cxf3 Txf3+ 55.Rg1 Ch2! 56.Tf8 Tc3 0–1
+Las blancas se rindieron, porque luego de 57. Tg1 Te3 desaparecieron sus
+últimas posibilidades de salvación.
+Con el ejemplo de mis propios errores, esta vez quise persuadirles de que
+busquen chances en cualquier posición de la fase final. Incluso habiendo en el
+tablero pocas fuerzas e igualdad material puede crearse un ataque irresistible.
+
+Lección 22
+Fortalezas en el tablero
+Uno de los métodos de defensa en la fase final es construir fortalezas
+inexpugnables, para lo cual sirven de material de construcción fundamental
+cadenas de peones. Veamos como ejemplo el final de la partida disputada en el
+campeonato de Georgia entre las maestras Tsiuri Kobaidze y Mziei Tsereteli.
+
+La suerte del rey negro está decidida. A la jugada natural 1… Ca8, las
+blancas mueven 2.Ah5+, y después trasladan el rey al flanco dama, donde él
+aniquila a todas las piezas negras. Pero qué pícaras son las mujeres. ¡Apenas dos
+jugadas necesitaron las negras para hacer tablas! Apenas dos, pero qué brillante.
+Kobaidze, T - Tsereteli, M
+Tbilisi
+1…Re8! 2.Axb6 Re7!!
+¡El objetivo fue logrado!
+Al rey negro es imposible sacarlo de la casilla e7. En cuanto al alfil, nada
+puede impedirla andar por la diagonal a5-e1. Por cuanto los acontecimientos
+fundamentales pueden ocurrir sólo en lasa casillas negras, uno de los alfiles
+blancos es completamente inútil y el otro está cautivo para siempre en el campo
+adversario.
+
+Otra fortaleza todavía más sutil fue construida en la partida del excampeón
+mundial Max Euwe con el canadiense Daniel Janowsky en el gran torneo
+internacional de 1946 en Groningen.
+Euwe, M - Yanofsky, D [E46]
+Staunton mem Groningen (1), 1946
+1.d4 Cf6 2.c4 e6 3.Cc3 Ab4 4.e3 d6?! 5. Cge2 0–0 6.a3 Axc3+ 7.Cxc3 e5
+8.Ae2 De7 9.0–0 Af5 10.f3 Cc6 11.Cd5! Cxd5 12.cxd5 Cb8 13.e4 Ac8 14.Ae3
+exd4 15.Dxd4 f5 16.Tac1 c5! 17.dxc6 Cxc6 18.Da4 fxe4 19.Dxe4 19…Dxe4
+20.fxe4 Txf1+ 21.Axf1 Ae6 22.Ab5 Tc8 23.Axc6 Txc6 24.Txc6 bxc6 25.Axa7=
+Rf7 26.a4 Ab3 27.a5
+27… Ac2?
+Después de 27…c5 28.a6 Aa4 29.e5 Re6 las negras conseguían tablas sin
+
+particular dificultad, pero estimando que al objetivo conducían todos los caminos
+jugaron rectilíneamente y negligentemente…
+28.Ac5!
+Así, las blancas tienen dos peones de más. Pero tal es la particularidad de los
+finales con alfiles de distinto color que tan gran ventaja material no garantiza de
+ningún modo la victoria. Las negras emprenden la construcción de la fortaleza y
+al principio lo hacen con bastante habilidad.
+28…Ad3 29.Axd6 Axe4 30.a6 c5 31.Axc5 h5! 32.Rf2 Ad3! 33.a7 Ae4 34.g3
+Re6 35.Re3
+En rigor, la fortaleza ya está construida, sólo hay que saber sus dimensiones
+exactas. Las negras razonaron muy simple: los peones blancos del flanco dama
+sin ayuda del rey no pueden coronarse, pero el rey no puede prestarles concurso.
+Hallándose en la casilla b6, el rey blanco no tiene posibilidad de avanzar si el rey
+negro está en d7. Si el rey blanco ocupa la casilla c5, sus maniobras serán
+estorbadas por el rey negro desde e6. ¿Y si el rey blanco queda en su sitio, dónde
+en qué posición debe estar el rey negro? Quien siguió atentamente nuestros
+razonamientos, sin titubear responderá: « ¡En la casilla f5!» , Janofsky vio la
+jugada 35…Rf5!, que garantizaba tablas luego de 36.Af8 g6 37.Rd4 Aa8 38.Rc5
+Re6 39.b4 Rh1 40.b5 Aa8 41.Rb6 Rd7 42.Ra6 Ah1 43.b6 Rc8, etc. Pero Janofsky
+resolvió demostrar que el rey no debe ir sin falta al flanco rey, porque ahí las
+blancas no podrán organizar la incursión de peones. ¡Error fatal!
+35…Ag2? 36.Rf4! 36…g6 37.g4! hxg4 38.Rxg4 Ah1 39.Rg5 Rf7 40.Ad4 Ag2
+41.h4 Ah1 42.b4 Ag2
+¿Pero a lo mejor las negras podían impedir el paso del rey a f5, jugando 42…
+Ae4 desgraciadamente no. Luego de 43.h5 gxh5 el rey se abre paso al objetivo
+44.Rf4! Ah1 45.Re5 Re8 46.Rd6 etc.
+43.b5 Ah1
+A primera vista, las blancas no mejoraron en absoluto su posición y después
+de 18.b6 Aa8, en efecto, no pueden irrumpir con el rey en el flanco dama. Pero
+siguió
+44.Af6
+Y de pronto se aclaró que la fortaleza negra tan bella por fuera fue destruida
+con una sola jugada imprudente 35… Ag2. ¡Qué impresionante es el final de la
+partida!
+44…Ag2 45.h5!+- gxh5 46.Rf5!!
+46.Rf5 Ah1 (46…Ad5 47.Re5 Ah1 48.Ah4 Re8 49.Rd6 etc.) 47.Ah4 Ag2
+48.Re5 Ah1 49.Rd6 Re8 50.Rc7 O] 1–0.
+Analicemos otro final, donde los rivales tienen asimismo alfiles de distinto
+color. En esas posiciones, el ajedrecista con ventaja debe tratar de crear peones
+pasados en diferentes flancos. Si logra eso, el rey no tendrá dificultad de abrirse
+camino a uno de tales peones y la victoria estará cerca. Veamos un ejemplo
+
+simplísimo que ilustra otro método para romper la fortaleza en el tablero.
+Las negras tienen dos peones de más. Pero al flanco dama no pueden entrar.
+Si el rey negro va al flanco rey, allí se dirigirá su custodio, el rey blanco. Sin
+embargo, aquí no hay ni indicio de fortaleza. Para convencerse de esto basta
+hacer apenas tres jugadas:
+1…f5! 2.exf5 e4! 3.fxe4 Re5 El momento en que las fuerzas se emparejaron,
+desaparecieron las chances de salvación de las blancas, pues el rey no puede
+emparchar en dos flancos. Lo que viene después está claro. 4.Rd3 Rf4 5.Ad5
+Rg3 6.Re2 g4 7.Rf1 Rh2. Y las negras vencen.
+Así conocimos algunos métodos de defensa al final de la partida. Otro método
+de defensa es crear micro fortalezas de 2-5 piezas. Pongan al rey negro en a8, al
+blanco en b6, y un peón blanco en cualquier casilla de la línea a. Se convencerán
+fácilmente que el rey negro se afirmó en el escaque a8 y será imposible
+
+promocionar al peón.
+Lo más asombroso consiste en que si ponemos todavía un alfil blanco
+maniobrando por las casillas negras, las chances de victoria de las blancas no
+crecerán.
+
+Otro reducto defensivo no menos bello puede construirse cuando a los
+adversarios, además de reyes les quedan dama, torre y un peón por bando. Que
+la dama es mucho más fuerte que la torre saben todos, pero no cada uno sabe
+que hay posiciones donde esto es imposible demostrarlo. Veamos una fortaleza
+básica, clásica, sobre el tema. Noten que el rey de la parte más débil se escondió
+en un rincón.
+
+Las negras tienen gran ventaja material, pero lo máximo que pueden
+conseguir es cambiar dama por torre y peón obteniendo supremacía simbólica
+en forma de peón h excedente en todos los sentidos. Para confirmar lo
+indestructible de su defensa, las blancas no tienen necesidad de efectuar ciertas
+maniobras complicadas. Su torre debe moverse por las casillas f3 y h3, y el rey
+maniobrar por el triángulo g1, h1, h2.
+Otro ejemplo sobre el tema de pugna entre la dama y torre, donde el maestro
+soviético Víctor Jenkin demostró que gana el bando más fuerte.
+
+No es difícil ver que las piezas negras se defienden eficazmente. Pero se trata
+de situación temporaria. Si privamos al rey negro de la posibilidad de moverse,
+nos convenceremos fácilmente de que cualquier jugada de las negras lleva a la
+pérdida del peón e5 y después le tocará el turno al peón d4. Impedir las
+maniobras del rey se puede sólo de una forma, ahogándolo. Vean cómo se hace.
+1…Ra4 2.Dc4+ Ra5 3.Dc5+ Ra4!
+Si 3…Ra6 4.Db4 Las blancas ahogaban al rey sin gran obstáculo.
+4.Db6 Ra3 5.Db5 Ra2 6.Db4 Ra1
+Primera dificultad, la torre controla el escaque b3 y ella por ahora impide
+que la dama llegue a la casilla c2, en sumo grado debido a la posición
+desafortunada del rey blanco. Por eso él se dirige a la otra mitad del tablero.
+7.Rc1 Tc3+ 8.Rd1 Td3+ 9.Re1 Te3+ 10.Rf2 Ra2 11.Rf1 Tf3+ 12.Rg2 Te3
+13.Rf2
+
+La micro tarea fue cumplida.
+13…Ra1 14.Dd2! Rb1 15.Rg2 Ra1 16.Dc2 Ta3 17.Dd1+ Rb2 18.De2+ Rc3
+19.Dxe5
+Se ha ganado el peón. Ahora, el rey blanco se traslada a la zona del escaque
+d2 y de forma análoga gana al peón d4.
+Así, pues, al defenderse en la fase final de la partida no olviden las
+posibilidades y métodos de construcción de fortalezas. Aunque mucho mejor es
+no cometer errores burdos y no obtener malas posiciones finales.
+
+Lección 23
+Cita con lo bello
+El tema de la clase de hoy es la composición de ajedrez, admirable,
+enigmático campo del arte ajedrecístico. Sí, precisamente arte. En esta
+definición no existe la mínima exageración. Porque los problemas y estudios
+creados por la fantasía del hombre, no en la lucha enconada con el adversario,
+sino en el silencio casero, reportan a millares de amadores del juego alegría y
+placer.
+La composición de ajedrez tiene sus leyes. Los ajedrecistas prácticos
+recuerdan largo tiempo y consideran magnífica la partida donde sobre el fondo
+de la grandiosa combinación pasan desapercibidos varios errores. En cambio, los
+creadores de problemas y estudios inmediatamente olvidarán la composición que
+obtuvo las más altas distinciones pero en cuya solución descubran no sólo una
+jugada incorrecta, sino incluso otro camino a la victoria.
+En la partida práctica hay situaciones donde una o a veces varias piezas en
+dado momento concreto no participan directamente en los sucesos. En las
+miniaturas de composición eso es imposible. Por intención del autor, todos los
+personajes del tablero son participantes activos.
+Me gusta mucho resolver problemas de ajedrez y en particular estudios. El
+tiempo que empleo en hallar la respuesta me da noción de mi forma deportiva.
+Además. Muchas ideas y métodos de solución logro utilizarlos en el juego
+práctico o en el trabajo de perfeccionamiento del estilo.
+Los problemas de ajedrez me encantan por su idea paradójica y enseñan a
+pensar con originalidad. Para convencernos de eso analicemos la obra del
+célebre compositor norteamericano Sam Loyd.
+
+Las blancas juegan.
+Si usted resuelve este problema significa que es capaz de hallar
+continuaciones originales.
+En el tablero hay verdadera confusión de piezas. Da la impresión que el rey
+blanco acabará mal. Porque las negras, con la jugada siguiente pueden coronar
+al peón.
+No obstante:
+1.Re2!! f1D+ 2.Re3!!
+Fantástica idea. Las negras pueden dar jaque de diez maneras distintas, pero
+en respuesta a cada una de ellas reciben mate.
+Veamos otra miniatura del mismo autor.
+
+Las blancas empiezan y dan mate en tres jugadas.
+La variante principal de solución se basa en las maniobras de la dama de un
+extremo a otro del tablero:
+1.Df1! h6
+1…g3 2.Cg6+! hxg6 3.Dh3++
+2.Db1 g6
+2…g3 3.Dh7++
+3.Dxa1++.
+Sin dudas, la solución de problemas contribuye a desarrollar en el ajedrecista
+una cualidad tan importante como es el pensamiento original. Pero mayor
+provecho reportan al ajedrecista práctico los estudios. Ellos son auxiliares
+eficaces en el perfeccionamiento del medio juego. En la composición, la idea del
+autor se expresa por lo común en forma económica al extremo. La solución de
+
+miniaturas educa en el ajedrecista la capacidad de aprovechar lo máximo las
+posibilidades de cada pieza y también forma el importante hábito de alcanzar el
+objetivo con los mínimos recursos. Vea cómo se desarrolla la lucha en el estudio
+del conocido compositor de ajedrez Abram Gúrvich.
+Las blancas empiezan y ganan.
+¿Cómo pueden ganar las blancas? La pérdida de su peón en la casilla c7 es
+inevitable. Tampoco está claro el futuro del alfil. Cierto, el rey es activo.
+1.Ah5! Axc7 2.Txf7+ Rd8
+Señal alarmante, las negras no tienen elección. El repliegue del rey a d6
+pierde luego de 3. Tf6+
+3.Txc7 Tg8! 4.Tc4!!
+Magnífica idea que constituye la médula del estudio.
+4… Tg5+ 5.Re6! Txh5 6.h4!
+
+De nuevo en el tablero se restableció la igualdad total de fuerzas, pero sólo
+por una jugada. Las negras están en zugzwang y sufren inmediata derrota.
+En los manuales a menudo citan el concepto geometría del tablero de ajedrez.
+¿En qué consiste? Pienso que mucho se aclarará después de conocer la obra del
+famoso gran maestro checo Richard Reti.
+Las blancas empiezan y hacen tablas.
+El problema parece completamente insoluble. El peón negro salió muy lejos
+adelante y el rey blanco puede ver a su peón sólo con largavista. Por eso, las
+jugadas iniciales parecen sólo confirmar la inútil resistencia.
+1.Rg7 h4 2.Rf6
+El rey blanco sigue estando lejos de ambos peones y las negras tienen
+posibilidad de capturar al peón, ya que para eso necesitan dar un solo paso.
+
+2…Rb6 3.Re5!
+La situación en el tablero cambió bruscamente.
+3… h3
+Si 3…Rxc6, las blancas pueden retener al peón negro luego de 4.Rf4.
+4.Rd6 h2 5.c7 Rb7 6.Rd7.
+Aquí tienen la geometría del tablero de ajedrez. El movimiento del rey por la
+diagonal resultó el camino más corto para alcanzar el objetivo.
+Esta obra hasta ahora causa admiración y no deja tranquilos a los
+compositores de ajedrez, quienes tratan de superar al autor. En 1929, los
+hermanos Alexandr y Viril Sárichev, maestros de composición de Bakú,
+publicaron una regia miniatura añadiendo a las piezas del estudio de Reti un alfil
+negro.
+
+Las blancas juegan.
+La situación de las blancas parece completamente irremediable. Poner la
+dama es absurdo, igual que tratar de impedir que el alfil pase a f5 mediante
+1.Re6. A eso seguirá 1… Re4. Las dos primeras jugadas de las blancas parecen
+descabelladas.
+1.Rc8! b5 2.Rd7! b4
+Las blancas sufren grave déficit material y empujan a dama al peón ajeno.
+Pero…
+3.Rd6 Af5
+En caso contrario, las blancas pondrán dama. Ahora usted tendrá que
+recordar el estudio anterior.
+4.Re5! Ac8 5.Rd4!
+¿No es cierto, conocido vaivén del rey? La partida terminó en tablas.
+5… b3 6.Rc3 Ae6 7.c8D Axc8 8.Rxb3
+Entre mis estudios predilectos hay varios que yo realmente admiro. Por
+ejemplo, la obra de Alexandr Seletski, creada en 1933.
+
+Las blancas empiezan y ganan.
+Estudio típico del medio juego. Las blancas no tienen supremacía material,
+porque su peón está condenado a perecer. Pero en el tiempo que la negras
+pierden para aniquilarlo, las blancas aumentan con inesperable energía la
+actividad de sus piezas.
+1.Dg5! Re6+
+No se puede capturar de golpe al peón 1… Axd7 porque 2. Cf4 con irresistible
+amenaza, después de 3. Ah5+.
+2.Rg1 Rxd7
+Así en el tablero tenemos plena igualdad material. Pero justo ahora viene el
+ataque de mate.
+3.Cc5+ Rc8 4.Aa6+ Rb8 5.Dg3+ Ra8 6.Ab7+! Axb7 7.Cd7!!
+Jugada de fuerza colosal.
+
+7… Dd8 8.Db8+!! Dxb8 9.Cb6++!
+¡Fantástico! Como si una fuerza fatídica amontonara las piezas negras en un
+rincón apartado, de tal manera que una sola pieza blanca se impone sobre
+armada negra.
+
+Lección 24
+¡No escatime tiempo!
+Estimados aficionados al ajedrez: Llegó la hora de nuestra última lección. El
+ciclo que di en las páginas de El Deporte en la URSS fue el primero de mi vida,
+pero espero que hasta cierto punto haya logrado cumplir mi cometido. Verdad,
+hoy al leer los materiales publicados llegué a la conclusión de que en algunas
+lecciones debí explicar las ideas con mayor detalle, en otras dar ejemplos más
+claros.
+El ajedrez es un juego asombroso. Sus piezas de madera ya existen quince
+siglos y en lugar de aburrirnos ganan mayor popularidad. El progreso incesante
+de la cultura y el intelecto humano influye en el contenido de la lid escaqueada,
+la hace todavía más intensa, sutil al mismo tiempo adecuado al carácter y
+particularidades de la fantasía creadora y el pensamiento lógico del hombre
+contemporáneo.
+Para millones y millones de aficionados, el ajedrez sigue siendo un juego
+grato y ocio ameno. Ellos no se fijan altas metas deportivas: participan en
+torneos, analizan partidas, resuelven problemas y estudios. Pero no poca gente
+para la cual el ajedrez es la razón de su vida. Para esa gente, el tablero de 64
+casillas es un campo de batalla, y la partida de ajedrez, arte enigmático y
+seductor. En la rivalidad nacen joyas que excitan largo tiempo la imaginación, se
+forjan y doblegan caracteres.
+¿Por qué amamos el ajedrez, qué nos da este juego? Igual que muchos veo en
+la lid ajedrecística el modelo asombrosamente exacto de la vida humana con su
+lucha cotidiana, subidas y caídas. En el tablero de ajedrez tenemos posibilidad de
+guiar los acontecimientos, trazar planes y plasmarlos sucesivamente hasta el
+final. ¿Acaso no es análogo lo que hacemos cada día? Usted no podrá lograr éxito
+en ningún lado si no se educa tesón, amor al trabajo, capacidad de valorar
+objetivamente 
+sus 
+aptitudes, 
+de 
+plantearse 
+objetivos 
+y 
+encarnarlos
+perseverantemente con energía y decisión. El ajedrez le ayudará a forjar esos
+rasgos del carácter. La seguridad en sí, en sus fuerzas, que se adquiere después de
+dominar los secretos fundamentales del juego de ajedrez y obtener los primeros
+
+éxitos significativos en competiciones, ¡cuánto es precisa en la vida! El ajedrez
+ofrece el método para adquirir tal seguridad.
+¿Cómo se revelan los auténticos amadores del ajedrez? Igual que en otros
+deportes. Recuerdo que cuando mi abuelo me llevó al círculo de ajedrez adjunto
+al Palacio de Pioneros de Bakú ahí había muchos niños que deseaban aprender a
+jugar bien. Pero pasó muy poco tiempo y la mitad de ellos dejó de ir a las clases
+y de participar en torneos. Las primeras derrotas, que al principio fueron más
+que las victorias aparataron a los inestables. Quedaron sólo quienes desde la niñez
+eran capaces de luchar. Gracias al ajedrez, esa capacidad de luchar en cualquier
+situación se afirmó, se forjó la voluntad, el carácter se hizo más fuerte.
+Al despedirme quisiera dar varios consejos a los aficionados que desean
+perfeccionarse en este juego.
+Ante todo aprendan a analizar las partidas que jugaron, busquen los errores
+que cometieron usted y su adversario, la continuación justa. Como regla, las
+posiciones de medio juego no se repiten, pero las situaciones parecidas son muy
+frecuentes y después del análisis usted sabrá cómo actuar en casos.
+Acostúmbrese a analizar partidas ajenas haciéndose la pregunta: « ¿Por qué
+jugaron así? ¿No sería mejor jugar de otro modo?» . Como resultado, la cantidad
+de situaciones conocidas aumentará y eso le permitirá orientarse con mayor
+seguridad en la partida. Ayuda mucho a perfeccionarse en el ajedrez el estudio
+meticuloso, renglón tras renglón, de los comentarios de ajedrecistas eminentes a
+las partidas que ellos jugaron. Esta labor le permitirá entender cómo resuelven
+los maestros auténticos problemas concretos, qué factores consideran principales
+al valorar tal o cual situación. Al principio usted no comprenderá mucho esos
+comentarios, después todo le parecerá indiscutible, pero más tarde llegará el
+momento en que preguntará al comentarista: « ¿Por qué usted piensa que se debe
+mover así y no…?» . Esto significará que su nivel de juego habrá crecido. Yo
+aprendí de comentarios de corifeos como Alekhine, Capablanca, Botvinnik y
+Keres. Hasta ahora les estoy agradecido por sus brillantes lecciones.
+Cada gran ajedrecista deja sus partidas para las futuras generaciones, y lo
+fundamental, sus comentarios, que muestran su capacidad de conducir la partida
+de ajedrez, su método de resolver los problemas. El estudio de la herencia clásica
+es un verdadero El Dorado para los ajedrecistas jóvenes que desean
+perfeccionarse. Al jugar continuamente sólo se puede pulir la maestría,
+adquirirla sólo es posible estudiando la herencia ajedrecística. Si usted estudió
+atentamente, digamos, alrededor de cien partidas de Capablanca, eso no significa
+que jugará como Capablanca, sino que aprenderá a aplicar en determinadas
+posiciones el método que utilizó el genial ajedrecista. Eso ya es mucho. En aras
+de eso vale la pena perder decenas de horas.
+Si usted estudia y comprende los métodos y vías de desarrollo de apertura,
+medio juego y final tendrá garantizado el éxito en el ajedrez. Recordar el
+
+enorme volumen de información acumulada en miles de manuales, compilados
+de partidas, monografías sobre la obra de eminentes ajedrecistas, enciclopedias
+de aperturas y mediojuegos es simplemente imposible. Pero hay que conocerlos
+todo sin falta. Aquí la única salvación es saber el método de juego. No se puede,
+por ejemplo, recordar todas las variantes del sistema Scheveningen de la defensa
+siciliana, todas las partidas de este tema. Pero empleando 30-40 horas se puede
+estudiar en manuales de aperturas las ramificaciones más importantes de este
+sistema, anotar en el cuaderno las variantes principales, decenas de partidas
+modelo, y comprender el método de desarrollo de posiciones tipo de este
+sistema. El repertorio de aperturas del ajedrecista no consta de un solo sistema,
+sino de decenas, y su estudio, determinación del método de juego requiere
+bastante tiempo. Pero para el buen ajedrecista eso es necesario. De modo que si
+usted quiere descifrar los secretos del juego de ajedrez no escatime tiempo. ¡Le
+deseo muchos éxitos!
+GARRI KIMOVICH KASPAROV
+
+GARRI KÍMOVICH KASPÁROV (nacido el 13 de abril de 1963, en Bakú, Unión
+Soviética, hoy Azerbaiyán).
+Es un Gran Maestro de ajedrez azerí de origen armenio, Campeón del mundo de
+ajedrez, escritor y activista político ruso.
+Kaspárov se convirtió en el Campeón del Mundo más joven de la historia en
+1985. Mantuvo el título mundial oficial de la FIDE hasta 1993, cuando una disputa
+con la Federación lo llevó a crear una organización rival, la Professional Chess
+Association. Continuó manteniendo el Campeonato del Mundo de Ajedrez
+« Clásico»  hasta su derrota frente a Vladímir Krámnik en 2000.
+Kaspárov ha encabezado la clasificación mundial de la FIDE de forma casi
+continua desde 1986 hasta su retirada en 2005, alcanzando en julio de 1999 una
+puntuación de 2851, la mayor obtenida hasta ahora. Además ha ganado en once
+ocasiones el Óscar del Ajedrez. También es conocido por sus enfrentamientos
+con computadoras y programas de ajedrez, especialmente luego de su derrota en
+1997 ante Deep Blue; esta fue la primera vez que una computadora derrotó a un
+campeón del mundo en una partida con ritmo de juego de torneo.
+Kaspárov anunció su retirada del ajedrez profesional el 10 de marzo de 2005,
+para dedicar su tiempo a la política y a la escritura. Formó el movimiento Frente
+de Unión Civil y se unió como miembro de La Otra Rusia, una coalición
+opositora a la administración de Vladímir Putin.
+El 28 de septiembre de 2007, Kaspárov entró en la carrera presidencial de Rusia,
+
+recibiendo 379 de 498 en un congreso celebrado en Moscú por La Otra Rusia.
+Aunque finalmente su partido no concurrió a las elecciones de marzo de 2008,
+debido, según el propio Kaspárov a la imposibilidad de conseguir un local donde
+reunir a su partido, requisito indispensable según la ley electoral rusa.
+Ampliamente considerado en el Oeste como símbolo de oposición a Putin, el
+apoyo de Kaspárov en Rusia es considerado bajo.

@@ -1,0 +1,661 @@
+AD-A158  539 
+
+
+FTD-ID(RS)T- 1144-84 
+
+
+FOREIGN  TECHNOLOGY  DIVISION 
+
+
+THE  EFFECT  OF  FLUOROCARBON  SURFACTANT  ADDITIVES  ON  THE  EFFECTIVE  VISCOSITY 
+OF  ACETONE  SOLUTIONS  OF  CELLULOSE  D I ACETATE 
+
+by 
+
+L.A.  Shits,  N.  Yu.  Kal'nova 
+
+
+Approved  for  public  release; 
+distribution  unlimited. 
+
+
+85  8 
+
+
+27  05 
+
+
+FTD-ID(RS)T-1  144-84 
+
+
+EDITED  TRANSLATION 
+
+
+FTD-ID(RS)T-1144-84  29  July  1985 
+
+MICROFICHE  NR:  FTD- 8S-C- 000636 
+
+THE  EFFECT  OF  FLUOROCARBON  SURFACTANT  ADDITIVES  ON  TH 
+EFFECTIVE  VISCOSITY  OF  ACETONE  SOLUTIONS  OF  CELLULOSE 
+D I ACETATE 
+
+By:  L.A.  Shits,  N.  Yu.  Kal'nova 
+English  pages:  4 
+
+Source:  Struktura  i  Svoystva  Poverkhnostnykh  Sloyev 
+
+Polimerov,  Publishing  House  "Naukova  Dimka", 
+Kiev  1972,  pp.  60-63 
+
+
+IrrerZ-lOtl  rOf 
+
+dtt: 
+
+f  Jur-tir 
+
+3P.A&I  ilf 
+
+;b  U 
+
+.in  c  e  d  □ 
+
+|  Dirtributlon, 
+
+P  /vailatilit' 
+
+/  _ 
+
+y  Codes 
+
+;Dist  j 
+
+W1 
+
+Avail  £ 
+Sped 
+
+md/or 
+
+Lai 
+
+Country  of  origin:  USSR 
+Translated  by:  Marilyn  Olaechea 
+Requester:  FTD/TQTR 
+
+Approved  for  public  release;  distribution  unlimited. 
+
+
+THIS  TRANSLATION  IS  A  RENDITION  OF  THE  ORIGI¬ 
+NAL  FOREIGN  TEXT  WITHOUT  ANY  ANALYTICAL  OR 
+EDITORIAL  COMMENT.  STATEMENTS  OR  THEORIES 
+
+PREPARED  BY: 
+
+ADVOCATED  OR  IMPLIED  ARE  THOSE  OF  THE  SOURCE 
+ANODO  NOT  NECESSARILY  REFLECT  THE  POSITION 
+
+TRANSLATION  DIVISION 
+
+OR  OPINION  OF  THE  FOREIGN  TECHNOLOGY  Dt- 
+
+FOREIGN  TECHNOLOGY  DIVISION 
+
+VISION. 
+
+WP.AFB,  OHIO. 
+
+- . - 
+
+FTD-ID(RS)T-lU4-84  Date  MJuly  19  85 
+
+
+tv 
+
+
+*  •• 
+
+
+■2  V.  Vi  fc. 
+
+
+• ;  \*  .  •*•  ■**«•  *  •  .  •  •  *  •  '  -  ‘‘•C*  j 
+
+ft  ft  *■  ft  •  ft  —  J 
+
+H  ^  ft  -  ft  -  »■  —  ft  !»  _  «.  Jft  ft  -  «J 
+
+
+U.  S.  BOARD  ON  GEOGRAPHIC  NAMES  TRANSLITERATION  SYSTEM 
+
+
+Block 
+
+Italic 
+
+Transliteration 
+
+Block 
+
+Italic 
+
+Transliteratio 
+
+A  a 
+
+A 
+
+a 
+
+A,  a 
+
+P'  P 
+
+P 
+
+p 
+
+R,  r 
+
+B  6 
+
+B 
+
+6 
+
+B,  b 
+
+C  c 
+
+C 
+
+e 
+
+S,  s 
+
+3  a 
+
+B  * 
+
+V,  v 
+
+T  T 
+
+T 
+
+m 
+
+T,  t 
+
+r  r 
+
+r  t 
+
+G,  S 
+
+Y  y 
+
+y 
+
+y 
+
+U,  u 
+
+E  A 
+
+n 
+
+9 
+
+D,  d 
+
+cb  b 
+
+* 
+
+* 
+
+F,  f 
+
+E  e 
+
+E  4 
+
+Ye,  ye]  E,  e* 
+
+X  x 
+
+X 
+
+X 
+
+Kh ,  kh 
+
+to  w 
+
+M  OK 
+
+Zh,  zh 
+
+U  u 
+
+u 
+
+H 
+
+Ts ,  ts 
+
+3  3 
+
+3  i 
+
+Z,  z 
+
+4  4 
+
+H 
+
+V 
+
+Ch,  ch 
+
+H  w 
+
+H  u 
+
+I,  i 
+
+Hi  w 
+
+Ul 
+
+u 
+
+Sh,  sh 
+
+ft  M 
+
+a 
+
+a 
+
+y,  y 
+
+m  m 
+
+m 
+
+•¥ 
+
+Shch,  shch 
+
+H  H 
+
+K  K 
+
+K,  k 
+
+b  b 
+
+b 
+
+t 
+
+If 
+
+.1  /I 
+
+n  a 
+
+L,  1 
+
+bl  a 
+
+u 
+
+w 
+
+y,  y 
+
+I'l  . . 
+
+M  M 
+
+M,  m 
+
+b  b 
+
+b 
+
+4 
+
+t 
+
+H  H 
+
+H  H 
+
+N,  n 
+
+3  3 
+
+3 
+
+• 
+
+E,  e 
+
+0  o 
+
+0  O 
+
+0,  o 
+
+Id  to 
+
+JO 
+
+to 
+
+Yu,  yu 
+
+n  n 
+
+n 
+
+H 
+
+P,  P 
+
+R  R 
+
+a 
+
+A 
+
+Ya,  ya 
+
+*ye  initially,  after  vowels,  and  after  t,  b]  e  elsewhere. 
+When  written  as  e  in  Russian,  transliterate  as  ye  or  e. 
+
+RUSSIAN  AND  ENGLISH  TRIGONOMETRIC  FUNCTIONS 
+
+
+Russian 
+
+English 
+
+Russian 
+
+English 
+
+Russ 
+
+ian 
+
+Engli 
+
+sin 
+
+sin 
+
+sh 
+
+sinh 
+
+arc 
+
+sh 
+
+s  inn” 
+
+cos 
+
+cos 
+
+ch 
+
+cosh 
+
+arc 
+
+ch 
+
+oosh” 
+
+ts 
+
+tan 
+
+th 
+
+tanh 
+
+arc 
+
+th 
+
+tann” 
+
+ctg 
+
+cot 
+
+cth 
+
+coth 
+
+arc 
+
+cth 
+
+coth” 
+
+sec 
+
+sec 
+
+sch 
+
+sech 
+
+arc 
+
+SCh 
+
+sech” 
+
+cosec 
+
+CSC 
+
+csch 
+
+csch 
+
+arc 
+
+csch 
+
+csch” 
+
+Russian 
+
+English 
+
+rot 
+
+curl 
+
+lg 
+
+log 
+
+GRAPHICS  DISCLAIMER 
+
+
+All  figures,  graphics,  tables,  equations,  etc.  merged  into  this 
+translation  were  extracted  from  the  best  quality  copy  available. 
+
+
+^  A, 
+
+
+1 
+
+
+THE  EFFECT  OF  FLUOROCARBON  SURFACTANT  ADDITIVES  ON  THE  EFFECTIVE 
+VISCOSITY  OF  ACETONE  SOLUTIONS  OF  CELLULOSE  DIACETATE 
+
+L.  A.  Shits,  N.  Yu.  Kal'nova  (Institute  of  Physical  Chemistry  of 
+the  AS  USSR,  Moscow) 
+
+
+— : ^The  fact  that  the  viscosity  of  acetone  solutions  of  cellulose 
+diacetate  (CDA)  [DATs]  can  be  reduced  by  the  addition  of  small 
+quantities  of  water  has  been  known  for  a  long  time'+^jT"  It  is  given 
+practical  application  in  the  production  of  acetone  fibe  r'^  An 
+analogous  viscosity  reduction  effect  is  achieved  when  water  or  butanol 
+(about  3%  by  volume)  is  added  to  acetone  solutions  of  partially 
+saponified  polyvinlyl  acetate The  literature  contains  recom¬ 
+mendations  on  the  introduction  of  CDA  together  with  aqueous  semi- 
+colloidal  surfactants  (PAV)  of  the  alkylbenzol  sulfonate  type  into 
+acetone  solutions'-f^Pf'T^ 
+
+"Yn  our  study,  using  Na  salts  of  perf luoroenanthic  (perfluoro- 
+gentylol)  acid  we  showed  that  it  was  possible  to  reduce  the  effect 
+of  viscosity  in  CDA  solutions  in  acetone  by  introducing  small  quantitie 
+of  highly  surface-active  fluorocarbon  substances  ( f luorothenzides ) 
+in  the  presence  of  water^  In  the  experiment  CDA  with  a  molecular 
+mass  of  about  28,000  was  i^sed.  Viscosity  measurements  (7j)  were  taken 
+in  centipoise  using  a  "Rhebtest  RV”  rotation  viscosimeter  at  different 
+shear  stresses  (•f*)  in  a  range  of  150-4000  dynes/cm^.  Prior  to 
+viscosity  measurement  the  solution  specimens  were  held  in  a  thermostat 
+for  two  days. 
+
+
+1 
+
+
+Curves  Iggilgx)  for  9%  solutions  of  CDA  in  acetone  with  different 
+concentrations  of  water  (up  to  8%  of  the  volume  of  the  solvent)  at 
+30°C  are  shown  in  Fig.  1.  The  dependence  of  $  on  the  concentration 
+of  water  in  the  solvent  is  given  for  x  =  500  dynes/cm^;  this  is  the 
+range  of  r  values  in  which  the  viscosity  depends  on  shear  stress  to 
+the  least  degree.  The  2  value  minimum  in  the  studied  solutions  falls 
+within  a  water  content  of  about  1$. 
+
+Sodium  salt  of  perf luoroenthanic  acid  in  quantities  of  up  to  1$ 
+by  weight  of  the  polymer  was  introduced  in  a  dissolved  form  into  9% 
+solutions  of  CDA  containing  0.3,  0.9,  and  1.8  %  by  volume  of  water. 
+
+The  change  in  viscosity  of  these  solution  as  a  function  of  the 
+f luorothenzide  is  shown  in  Fig.  23  (curves  1,  2  and  3).  Also  shown 
+here  is  curve  4  for  a  20^6  solution  of  CDA  containing  about  1%  water. 
+
+In  Fig.  2  viscosity  is  presented  in  relative  units,  i.e.,  values 
+e'  are  determined  by  the  ratio  of  the  viscosity  of  the  studied  solu¬ 
+tion  to  the  viscosity  of  CDA  of  the  same  concentration  but  without 
+the  additives.  When,  instead  of  the  salt  of  perf luoroenthanic  acid,- 
+we  used  a  standard  type  of  surfactant  (sodium  dodecylbenzosulfonate , 
+sodium  dialkylsulfosuccinate,  polyglycol  esters  of  alky lphenols)  in 
+the  same  quantities  and  under  the  same  experimental  conditions,  no 
+decrease  in  the  viscosity  of  the  solutions  was  observed,  and,  in  a 
+number  of  experiments,  a  pronounced  increase  in  viscosity  was  recorded. 
+
+Thus,  the  effect  of  reducing  viscosity  in  CDA  solutions  under 
+the  influence  of  small  concentrations  of  surfactants  (tenths  of  %  in 
+relation  to  the  weight  of  the  polymer)  is  observed  only  in  the  case 
+of  f luorothenzide .  The  effect  of  the  reduction  in  viscosity  with  a 
+concentration  of  the  polymer  depends  on  the  concentration  of  the  non¬ 
+solvent  (water)  in  the  solvent  (acetone)  and  passes  through  the  maximum 
+where  the  f luorothenzide ,  as  the  agent  which  reduces  viscosity,  is 
+most  effective  when  the  concentration  of  water  is  one  which  assures 
+a  minimal  2  value  under  conditions  where  surfactants  are  present  in 
+the  system.  The  minimum  on  the  curve  representing  viscosity  versus 
+the  concentration  of  f luorothenz ide  with  an  increase  in  the  concen¬ 
+tration  of  water,  shifts  to  the  range  of  high  thenzide  concentrations. 
+
+
+As  the  concentration  of  the  polymer  decreases  (with  the  concentration 
+of  water  remaining  constant)  the  effect  of  viscosity  reduction  in  CDA 
+solutions  under  the  effect  of  fluorothenzide  decreases. 
+
+The  obtained  results  can  be  interpreted  as  follows.  As  the  non¬ 
+solvent  in  the  system  is  increased,  the  kinetic  unit  -  one  macromolecule 
+or  an  associate  of  the  group  of  macromolecules  -  becomes  more  compact, 
+combines  a  smaller  quantity  of  the  dissolving  medium,  and  changes  its 
+hydrodynamic  characteristics  toward  a  decrease  in  the  viscosity  of 
+the  solution.  At  the  same  time  the  intermolecular  (or  interassociate) 
+relationship  increases.  With  an  increase  in  the  concentration  of  the 
+nonsolvent  the  first  tendency  approaches  a  certain  limit,  while  the 
+second  intensifies,  arriving  at  a  progressive  growth  in  the  structural 
+component  of  viscosity.  Thus  arises  the  minimum  on  the  curve  repre¬ 
+senting  viscosity  versus  the  concentration  of  water  in  the  solution 
+(see  Fig.  1).  When  between  the  structural  elements  of  the  solution 
+with  increased  density  ("kinetic  units")  sufficiently  strong  cohesion 
+no  longer  exists  (the  concentration  of  water  is  below  1%),  the  intro¬ 
+duction  of  fluorothenzide  leads  to  their  screening  and  a  weakening 
+of  the  interaction.  This  occurs  because  of  the  low  molar  cohesion  of 
+the  fluorocarbon  molecules,  which,  may  be  concentrated  around  structural 
+elements  of  increased  density.  With  an  increase  in  the  density  and 
+cohesion  strength  of  the  structural  elements  (water  consentration 
+above  1$)  the  screening  effect  of  the  fluorothenzide  becomes  less 
+effective. 
+
+
+3 
+
+
+T-SOOOuh/cm1  h 
+
+
+r  ■ 
+
+7 
+
+t 
+
+Jk 
+
+15 Jd  45  tff 
+
+Fig.  1.  Viscosity  of  .9$  solutions  of  celulose 
+diacetate  on  the  concentration  of  water  in 
+water-acetone  mixture  (vol.  %) :  1  -  0,  2  -  0.9, 
+
+3  -  3.6,  4  -  4.5,  5  -  8.1. 
+
+
+KEY:  (1)  Dynes/cm.? . 
+
+
+Fig.  2.  Viscosity  of  celulose 
+diacetane  solutions  as  a  function 
+of  the  concentration  of  Na-salt  of 
+perf luoroenthanic  acid  [in  %  to 
+weight  of  polymer]:  1-3  -  9%  solu¬ 
+tions  of  CDA  containing  0.3,  0.9, 
+and  1.8  vol.  %  water  respectively 
+(<t '  =  500  dynes/cm2);  4  -  20$  solution 
+CDA  containing  0.9  vol.  %  water 
+(^tr  =  1500  dynes/cm2). 
+
+
+0  42  4*  4#  % 
+
+BIBLIOGRAPHY 
+
+1.  Kryuger  D.  Acetyl  celulose  and  other  organic  esters  of  celulose. 
+[Atseti ltsellyuloza  i  drugiye  organicheskiye  efiry  tsellyulozy] . 
+Translated  from  German.  M. ,  1938. 
+
+2.  Rogovin  Z.  A.  Chemistry  and  Technology  of  Artificial  Fibers 
+[Khimiya  i  tekhnodogiya  iskusstvennykh  volokon].  M. ,  1952. 
+
+StAtfKCJH  J.,MesAint  Sawada  t ,  Tama  A/  K.  -  Nippon  Kaoaku 
+lass*/.,  rol.  S9J96S. 
+
+*•  Brandntr  J.t.  flam.  CU1A%N» 2966412 ,  1961, 
+
+

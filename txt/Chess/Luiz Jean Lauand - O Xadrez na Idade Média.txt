@@ -1,0 +1,1267 @@
+Luiz Jean Lauand 
+ 
+ 
+ 
+O Xadrez na Idade Média 
+Prefácio de Herman Claudius 
+ 
+ 
+ 
+ 
+ 
+http://groups.google.com/group/digitalsource
+
+CONTRA-CAPA 
+ 
+A imaginação medieval soube encontrar no xadrez não só o fascínio pela engenhosidade das manobras e 
+problemas (muitos deles autênticos desafios para o enxadrista de hoje), mas também uma base para 
+alegoricamente descrever e criticar a sociedade da época. O Xadrez na Idade Média apresenta ao leitor 
+contemporâneo estudos introdutórios e textos, como o Libro del Acedrex de D. Alfonso o Sábio - o primeiro 
+tratado clássico escrito no Ocidente -, que permitem uma melhor compreensão da sociedade medieval como 
+também na história de algumas das idéias fundamentais dos problemas de xadrez. 
+ 
+Próximo lançamento 
+A Dança do Sozinho 
+ 
+ 
+ 
+ 
+O Xadrez na Idade Média 
+Coleção Elos 
+Dirigida por J. Guinsburg 
+ 
+Equipe de realização - Revisão: Cristina Ayumi Futida; Produção: Plinio Martins Filho. 
+ 
+ 
+obra publicada em co-edição com a 
+EDITORA DA UNIVERSIDADE DE SÃO PAULO 
+Reitor: José Goldemberg 
+Vice-reitor: Roberto Leal Lobo e Silva Filho 
+COMISSÃO EDITORIAL 
+Presidente: José Carneiro. Membros: Antônio Brito da Cunha, 
+José E. Mindlin, Luiz Bernardo F. Clauzet e Oswaldo Paulo Forattini.
+
+Luiz Jean Lauand 
+ 
+O Xadrez na Idade Média 
+Prefácio de Herman Claudius 
+ 
+ 
+ 
+EDITORA PERSPECTIVA 
+EDITORA DA UNIVERSIDADE DE SAO PAULO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dados de Catalogação na Publicação 
+(CIP) Internacional (Câmara Brasileira do Livro, SP, Brasil) 
+Lauand, Luiz Jean, 1952-L388x        O xadrez na Idade Média / Luiz Jean Lauand. — São Paulo: 
+Perspectiva: Editora da Universidade de São Paulo, 1988. 
+(Coleção elos; 47) 
+1. Civilização medieval 2. Xadrez - História I. Título.II. Série: Elos; 47 
+88-1159 CDD-794.10902 
+ 
+índices para catálogo sistemático: 
+1. Idade Média: Xadrez: História 794.10902 
+2. Xadrez: História medieval 794.10902 
+Elos 47 
+ 
+Direitos reservados à 
+EDITORA PERSPECTIVA S.A. 
+Av. Brigadeiro Luís Antônio, 3025 01401 - São Paulo – 
+Brasil Telefones: 885-8388 / 885-6878 1988
+
+Para Rosa, João Sérgio, e Jan, naturalmente! 
+ 
+ 
+ 
+SUMÁRIO 
+Prefácio - Hermann Claudius van Riemsdÿk   
+Introdução  
+1. O Xadrez na Idade Média  
+2. As Regras do Xadrez na Idade Média  
+3. Jogando o Xadrez Medieval: Alguns Exemplos   
+4. A Literatura Enxadrística Medieval  
+4.1. As Obras Didáticas: o Poema de Deventer   
+4.2. As Obras Morais  
+Moralitas de Scaccario  
+4.3. Coleções de Problemas  
+5. O Libro del Acedrex de Alfonso  
+5.1. Introdução     
+5.2. Libro del Acedrex de D. Alfonso o Sábio   
+6. O Problema de Xadrez na Idade Média  
+Introdução  
+6.1. Problemas Medievais que Não Pressupõem Regras Diferentes das Atuais  
+6.2. Problemas especificamente Medievais
+
+PREFÁCIO 
+A Biblioteca Nacional possui uma raridade: um dos dois exemplares existentes do Arte Breve y Introducción 
+Muy Necesaria para Saber Jugar el Axedrez... do espanhol Lucena. O outro exemplar encontra-se no British Museum 
+e esta obra, provavelmente de 1497, é considerada uma das mais antigas da Europa sobre xadrez. Cita-se também, 
+entre os livros antigos, o Libre del Jochs Partitis del Scachs Enombre de 100, per Francesch Vincent, impresso em Valença 
+com a data de 15 de maio de 1495, mas não se conhece nenhum exemplar existente, supondo-se que o último (e 
+único?) tenha perecido no incêndio do Mosteiro de Montserrat, próximo de Barcelona, no ano de 1834. Digno de 
+menção é também o Guldin Spil do mestre Ingold, que foi escrito em 1432-33 e impresso em 1472 em Augsburgo 
+(reimpresso com o título Das goldene Spiel em Estrasburgo, no ano de 1892, por Schrõder). 
+Altair de Souza publicou em dezembro de 1974, no Rio de Janeiro, um fac-simile da obra de Lucena, na 
+realidade o segundo volume - referente ao xadrez - do Repetición de Amores & Arte de Axedrez con CL Juegos de 
+Partido, editado em Salamanca (juegos de partido é o que hoje denominamos "problemas"). 
+Afora essa reprodução e a coincidência da existência desse raro volume na Biblioteca Nacional, desco-
+berta pelo jogador e historiador Heydebrand von der Lasa — autor do célebre Handbuch — quando de sua visita 
+ao Brasil, pouca atenção foi dada em nosso país à história do xadrez (Idel Becker em seu Manual de Xadrez dedica 
+quatro páginas ao assunto). 
+A presente obra do Prof. Luiz Jean Lauand extrapola, pela razão exposta, o seu próprio e inegável valor, 
+para tornar-se pioneira numa relegada faixa da literatura enxadrística no Brasil. 
+Foi no fim da Idade Média, já com cheiro de Renascença, que o xadrez moderno encontrou a sua forma 
+atual e por isso a abordagem do xadrez medieval é tão importante para uma melhor compreensão de sua história. 
+A ênfase nos textos de Alfonso X o Sábio, também é feliz, pois trata-se de um verdadeiro inventário, ini-
+ciando a tradição da grande literatura nova do xadrez e avalizando um jogo que havia sido proibido há menos de 
+30 anos por Luiz IX, rei da França. 
+É notável observar como muitos dos problemas medievais ainda mantêm interesse para o solucionista 
+atual. Como exemplo curioso, aponto o problema da página 113, uma verdadeira "antecipação" (um problema é 
+dito "antecipado" quando um problema idêntico ou muito análogo foi publicado anteriormente, por isso ao divul-
+gar-se o resultado de um concurso de problemas, dá-se geralmente um certo tempo — por exemplo três meses 
+— para permitir a descoberta de eventuais antecipações, 14  antes de considerar-se o resultado como definitivo). 
+No exemplo, o problema de W. A. Shinkmann foi antecipado em centenas de anos pelo problema medieval. 
+A oportuna seleção e apresentação do xadrez medieval e de seus problemas pelo medievalista Lauand é obra de 
+valor que será acompanhada com interesse e prazer pelos leitores. 
+Herman Claudius van Riemsdÿk
+
+INTRODUÇÃO 
+Pretendemos com este livro oferecer ao leitor brasileiro um breve contato com as origens do xadrez no 
+Ocidente. 
+Para isto apresentamos a tradução, comentário e notas a um texto que foi, na sua época, o principal tra-
+tado europeu sobre o assunto: o Libro del Acedrex1, de D. Alfonso o Sábio, escrito em 1283, junto com uma 
+seleção de problemas de xadrez desse livro. Recolhemos também duas pequenas amostras de literatura 
+enxadrística medieval: o poema de Deventer e a Moralitas de Scaccario (ambas de autoria incerta). 
+Nosso trabalho não tem pretensões de originalidade: há muito boas histórias do xadrez, sobretudo a 
+clássica obra de Murray2, fartamente documentada, de que tantas vezes nos valemos neste pequeno livro. 
+Não é nosso objetivo fazer xadrez feérico ou alternativo, mas prestar uma contribuição — pequena e mo-
+desta — à divulgação da história do xadrez propriamente dito: daí termos dado destaque aos problemas 
+enxadrísticos medievais que, por suas circunstâncias, são idênticos aos atuais. E, também por essa mesma razão, 
+procuramos mostrar como algumas idéias do xadrez de hoje já estão presentes na Idade Média. 
+Por isso, em alguns casos, comparamos os problemas medievais com os de uma recente antologia dos 
+melhores problemas do xadrez contemporâneo3. 
+Para a compreensão deste opúsculo não há outros pré-requisitos que os mínimos conhecimentos do 
+xadrez atual. 
+A idéia de tratar do xadrez medieval surgiu no curso de História da Educação Medieval que, em colabora-
+ção com as colegas: Profa. Silvia Gasparian Colello e Profa. Cynthia Vilhena, tenho ministrado na Faculdade de 
+Educação da Universidade de São Paulo. 
+A realização deste livro, porém, só foi possível graças ao solícito concurso de três estudiosos, que tanto 
+nos ajudaram. 
+Ao Mestre Internacional, o renomado enxadrista Herman Claudius, nossos mais profundos 
+agradecimentos pelo prefácio com que quis nos honrar e pela colaboração que com sua vasta cultura nos prestou: sugerin-
+do bibliografia, realizando uma paciente e acurada revisão e indicando oportunas notas e correções. Nossa gratidão também 
+ao ilustre medievalista Dr. D. João Mehlmann O.S.B., que reviu as. traduções e apontou sugestivas notas. 
+E a Jan Miguel Lauand, pela contínua assessoria enxadrística e estímulo ao longo de todo o trabalho. 
+Luiz Jean Lauand 
+Professor da Faculdade 
+de Educação da Universidade 
+de São Paulo 
+                                                          
+1 O texto original encontra-se no Cap. V de JOSÉ BRUNET Y BELLET, El Ajedrez-Investigaciones sobre su Origen, Barcelona, L'A-vens, 1890; RAINER A. 
+MÚLLER, Der Arzt im Schachspiel, München, Verlag Karl Thiemig, 1981, pp. 60-67 e como Apêndice ao Cap. III da Parte II da obra de Murray (vide nota 
+seguinte). Nestes dois últimos casos, incompleto. Uma edição completa dos problemas de xadrez de D. Alfonso é a de J.B.S.P., El Ajedrez de D. Alfonso, Madrid, La 
+Franco Espanola, 1929. 
+2 H. J. R. MURRAY, A History of Chess, Oxford at the Clarendon Press, 1913, reimpresso em 1962. Uma bibliografia atualizada pode ser encontrada em 
+RICHARD EALES, Chess: The History of a Game, London, Batsford, 1985. 
+3 A. S. M. DICKINS e H. EBERT, 100 Classics of the Chessboard, Pergamon, 1983.
+
+1. O XADREZ NA IDADE MÉDIA 
+A história da educação na Idade Média caracteriza-se por ser um grande aprendizado: inicialmente como 
+assimilação da cultura antiga, romana e grega, em condições muito precárias de acesso a fontes. 
+E, posteriormente, sobretudo a partir do século XII, dá-se a recepção desse mesmo legado também 
+através dos árabes que, tendo tomado em sua expansão centros de cultura grega como Alexandria, acolheram e 
+desenvolveram esse patrimônio cultural. 
+Como sempre, os grandes impulsos culturais na Idade Média começam pelas traduções: o século XII, de 
+autêntico renascimento, é um século de traduções. Por meio delas, o Ocidente recebe de volta dos árabes, com 
+juros, a Matemática, a Filosofia, a Medicina e outras ciências. 
+Em Toledo, no século XII, sob o patrocínio do Bispo D. Raimundo, está o principal centro de traduções 
+da Europa e, naturalmente, a Espanha é lugar privilegiado da recepção da cultura árabe (que, além do mais incor-
+porara a si também conhecimentos dos indianos, persas etc.). 
+E o xadrez será parte dessa influencia árabe na Península. 
+Com o xadrez ocorrerá o mesmo que com a cultura em geral: toda aprendizagem é, num primeiro momento, 
+assimilação, tradução, cópia; só depois é que podemos esperar originalidade. De início, o enxadrista ocidental aprende; no 
+século XIII, já começam a surgir suas contribuições: no livro de D. Alfonso aparecem, timidamente, as primeiras 
+composições de problemistas europeus. Mas o tom ainda é o da pouca originalidade do aprendiz. O futuro, porém, será — 
+também no xadrez — de predominância européia. 
+Como e quando foi o xadrez introduzido na Europa? Richard Eales responde: 
+Todas as conclusões devem ser tratadas com cautela; parece certo, porém, que o jogo entrou pela 
+Espanha como parte do intercâmbio cultural geral entre muçulmanos e cristãos na península (...) Em vista da pri-
+meira aparição de fontes documentais em torno do ano 1000 e pelas evidências filológicas e arqueológicas, parece 
+adequado - como data de referência - o século X1. 
+Como se pode notar no texto alfonsino há, de fato, diversos termos tomados ao árabe para designar as peças do 
+xadrez: Alfil (que é como ainda hoje os espanhóis denominam a peça que nós chamamos Bispo), Alferza (que ocupa o lugar 
+da nossa Dama) e Roque (que é o que chamamos Torre). 
+Afinal, é o que costuma acontecer quando uma realidade cultural, um jogo por exemplo, é levada de um país para 
+outro: preserva na terminologia, ao menos de início, traços que revelam sua proveniência. Pense-se por exemplo no football e 
+seus termos como penalty, corner etc. E, ainda há poucos anos atrás, eram de uso corrente entre nós, por exemplo, 
+goal-keeper e off-side (goleiro e impedimento, respectivamente). 
+Se os jogos, como se sabe, tinham grande importância na educação medieval, o xadrez2 atinge em todo o 
+último período da Idade Média, principalmente nos séculos XIII a XV, uma extraordinária difusão. 
+Murray chega a afirmar que nessa época o xadrez gozou de uma popularidade jamais igualada no futuro. E 
+a historiadora Helena M. Gamer3 expressa exatamente o mesmo parecer para o período que se estende dos sécu-
+los XII a XV. 
+                                                          
+1 Chess:TheHistory...,p.4H. 
+2 Para o tema das referências ao xadrez na educação e na literatura medievais, veja-se, por exemplo, MURRAY, Op. cit., Parte II, Cap. II e IX. 
+3 No seu artigo "The Earliest Evidence of Chess in Western Literature", Speculum, 1954, pp. 740-744.
+
+Há inúmeras referências ao xadrez na literatura do Ocidente; registram-se, por exemplo, sua prática por 
+crianças (e mesmo a reprovação de brigas e desavenças surgidas entre elas por causa do xadrez), a superioridade 
+do xadrez em relação a outros jogos, a perícia enxadrística como honra e distinção para o cavaleiro e a prática 
+freqüente do xadrez pelas mulheres4. 
+Sobre este último ponto, note-se que o livro de D. Alfonso afirma ser o xadrez atividade bastante apta 
+para as mulheres, e considera inclusive invenção feminina uma determinada modalidade de xadrez: o "jogo força-
+do", de que trataremos mais adiante. 
+D. Alfonso explica o gosto medieval pelas diversões dizendo ser vontade de Deus que os homens estejam 
+alegres: e, por isso, foram inventados os esportes e os jogos de tabuleiro. O xadrez — continuamos seguindo o 
+Libro del Acedrex — leva vantagem sobre os esportes, pois pode ser praticado todos os dias (independendo do 
+bom ou mau tempo), à noite, pelas mulheres, pelos presos e - note-se a aguda observação psicológica - por 
+aqueles que preferem ter suas distrações privadamente. E dentre os jogos "que se fazem sentados", o xadrez é o 
+mais nobre, pois — como explica D. Alfonso na fábula dos três sábios — não depende da sorte, mas somente da 
+inteligência. 
+Finalmente, observemos que para se compreender a literatura enxadrística medieval — como aliás a Idade 
+Média em geral — é necessário que se tenha em conta o acentuado caráter alegórico da cultura da época. Procu-
+ram-se símbolos em tudo: nos números, na natureza, na terra e no céu. O xadrez (como se pode verificar nos 
+textos que neste livro recolhemos) - não constituí exceção: o tabuleiro e as peças representam algo - a guerra, a 
+sociedade ou o drama moral do homem. 
+Desse modo, cada peça do xadrez, seu movimento, seu modo de tomar outras peças, tem um significado, 
+é símbolo de algo5. 
+Também por essa razão, para o bom entendimento dos textos da época é necessário que apresentemos 
+desde já as regras do xadrez medieval. 
+                                                          
+4 Como é natural, predominante entre os estratos mais altos da sociedade; fato que não deve ser apressadamente considerado como tipicamente 
+"medieval", pois persiste ainda hoje. 
+5 D. João Mehlmann fez-me notar que numa das mais antigas gramáticas da língua portuguesa, a de João de Barros (que, imprecisamente afirma ser "o primeiro que 
+pôs a nossa linguagem em arte"), ainda aparece o xadrez como princípio de comparação para as leis da linguagem: "E como pera o jogo de enxedrez se requerem 
+dous reis, um de üa cor e outro de outra e que cada um deles tenha suas peças postas em casas próprias e ordenadas, com leis do que cada uma deve fazer (segundo o 
+ofício que lhe foi dado), assim tôdalas linguagens têm dous reis, diferentes em gênero e concordes em ofício: a um chamam nome e ao outro verbo. "Cada um destes 
+reis tem sua dama: à do nome chamam pronome e à do verbo advérbio. "Participio, artigo, conjunção, interjeição são peças e capitães principais, que debaixo da 
+sua jurdição têm muita pionagem de dicções, com que comummente servem, a estes dois poderosos reis: nomes e verbo" (JOÃO DE BARROS, Gramática da 
+Língua Portuguesa, ed. de 1540, edit. por J. P. Machado, 1957).
+
+2. AS REGRAS DO XADREZ NA IDADE MÉDIA 
+Daremos a seguir as regras do xadrez medieval, tal como aparecem no livro de D. Alfonso. Essas regras são 
+idênticas às do xadrez árabe de onde provêm, com três ligeiras inovações que indicaremos oportunamente. 
+Como o xadrez de hoje tem sua origem no medieval, o melhor procedimento, parece-nos, é apontar em que o 
+xadrez praticado naquela época difere do atual: 
+1. Não havia Dama e no seu lugar estava a peça chamada Alferza (ou, em outros textos Regina, Rainha, ou outros 
+nomes, mas com movimento de Alferza). O Alferza move-se apenas uma casa em diagonal (para frente ou para trás) e toma 
+deste mesmo modo. 
+2. Os Alfiles (que ocupam o lugar dos atuais Bispos) saltam exatamente duas casas na diagonal (para 
+frente ou para trás) mesmo que haja peça de permeio. E tomam desse mesmo modo. 
+3. Peão que atinge a oitava casa transforma-se em Alferza, se o Alferza original já tiver sido tomado (no 
+regulamento árabe1 esta condição não era necessária). E, em seu primeiro lance como Alferza, goza também do 
+privilégio do salto de duas casas (ainda que esta regra não seja explicada no regulamento alfonsino, subjaz a 
+problemas como o 81, à p. 110). 
+4. Um jogador que perca todas as suas peças ficando só com o Rei é considerado derrotado. (Ainda que 
+esta regra não seja explícita no regulamento alfonsino subjaz a problemas como os de número 93 e 94, pp. 115-
+116.) Como também quando, por afogamento, está impossibilitado de dar o lance. 
+5. Não existem os lances: tomar en passant e rocar. 
+Note-se na leitura do Libro del Acedrex que, à época de sua composição, está a se firmar a possibilidade do 
+peão mover-se duas casas em seu primeiro lance — também algo de novo em relação às regras árabes. 
+Como se vê, as regras propostas por D. Alfonso são substancialmente iguais às que existiam entre os 
+árabes e diferentes em alguns pontos essenciais das do xadrez 
+No seu primeiro lance, pode o Alferza saltar duas casas (privilégio análogo ao do peão) na diagonal ou em linha 
+reta, para frente ou para os lados, mesmo que haja peças de permeio. Este salto inicial, no entanto, é só para mover-se: não 
+pode valer-se dele para tomar peças adversárias, nem o Rei inimigo estaria em xeque em alguma daquelas casas. A permissão 
+para saltar em seu primeiro lance é uma novidade nas regras européias: o Alferza não gozava desse privilégio no 
+regulamento árabe atual. Só em fins do século XV2 é que surge a disputa de popularidade entre o velho xadrez e o 
+recém-surgido, em que Dama e Bispo adquirem os movimentos que têm hoje3, tornando o jogo já muito próximo 
+do que é praticado atualmente. 
+Há, no entanto, uma instância em que o leitor contemporâneo vê o jogo exatamente do mesmo modo que 
+o enxadrista de há 700 anos atrás: os problemas em que não figuram Bispo e Dama. Por essa razão, ao selecio-
+narmos os problemas, demos especial destaque aos que se encontram nesse caso. 
+Para nos familiarizarmos com o xadrez medieval, apresentamos, a seguir, alguns exemplos de problemas 
+da época e uma partida: a mais antiga de que se tem notícia. 
+                                                          
+1 Muitos problemas de D. Alfonso são cópias de originais árabes. Em se tratando de problemas, admitem-se situações artificiais, como é o caso do problema da 
+"roda d'água" à p. 34 é do problema 94 à p. 116. Em outros casos, D. Alfonso "europeiza" o problema ou a solução do original árabe. 
+2 Naturalmente, a época de adoção do novo xadrez varia de região para região. 
+3 O que mudará também o caráter do Peão que se promove a Dama.
+
+3. JOGANDO    O   XADREZ    MEDIEVAL:     
+ALGUNS EXEMPLOS 
+Uma das preocupações na época - e D. Alfonso insiste neste tema — é a lentidão com que o jogo se 
+desenrola. Daí as tentativas de acelerá-lo: as novas regras autorizando salto de duas casas no lance inicial do 
+Alferza e Peões. E também uma curiosa modalidade: o xadrez com dados, onde, de acordo com o número sortea-
+do, é-se obrigado a mover esta ou aquela peça. 
+O desejo de evitar a lentidão explica também o especial gosto pelos problemas de xadrez, pois no pro-
+blema já se parte de uma posição dada e, além disso, especialmente interessante. 
+Assim sendo, apresentamos os seguintes exemplos de mansubat (nome que os árabes — mestres no 
+assunto - davam ao problema de xadrez) que tanto entusiasmaram o enxadrista medieval4. 
+Por razões de ordem prática, para efeitos da notação e diagramas, utilizaremos Dama, Bispo etc. (e não 
+Alferza, Alfil, etc.). 
+ALF. 54 - Problema de Dilaram5 
+Alguns problemas, como este, vêm acompanhados de histórias com que a imaginação dos antigos sabia 
+colorir a realidade: 
+Dilaram era a amada de um nobre que, certa vez, cometeu a imprudência de apostá-la numa partida de 
+xadrez. A posição era-lhe muito desfavorável, até o ponto em que o oponente poderia dar mate em seu próximo 
+lance. Nesse momento (Diagrama 1), Dilaram, que angustiada assistia ao jogo, interveio e gritou ao seu amado: 
+"Sacrifique suas duas Torres mas não a mim!" E ele assim o fez, e viveram felizes etc. 
+ 
+Diagrama 1: A brancas jogam e dão mate em cinco lances. 
+                                                          
+4 São os problemas de n. 83, 82 e 553 que Murray recolhe no Cap. XV da Parte I de seu livro (o 83 é o de n. 54 em D. Alfonso; o 82 é semelhante ao de n. 1 em D. 
+Alfonso 
+5 Abreviaremos por ALF. n o n-ésimo problema da coleção de D. Alfonso. Quando se trata do xadrez medieval com suas regras específicas, utilizaremos diagramas 
+como o que se vê nesta página seguinte: peças voltadas para o oponente. Para diagramas do xadrez atual, valemo-nos da convenção usual.
+
+1. T8T+ RXT 
+2. B5B+ R1C 
+3. T8T+ RXT 
+4. P7C+ R1C 
+5. C6T mate 
+ 
+Problema da "Roda d'Água" 
+ 
+Diagrama 2: As brancas jogam e dão mate em 36 lances. 34 3. Apud MURRAY,op.cit. 
+ 
+ 
+ 
+ 
+ 
+1. C4T+ 
+R2C 
+2. C5T+ 
+R1B 
+3. C6C+ 
+R1D 
+4. C7C + 
+R2R 
+5. C8B + 
+R2B 
+6. C8D+ 
+R3C 
+7. C7R + 
+R4C 
+8. C7B + 
+R5B 
+9. C6C+ 
+R6B 
+10. C5C+ 
+R7R 
+11. C4B + 
+R7D 
+12. C3B + 
+R6B 
+13. C2R + 
+R6C 
+ 
+14. 
+R5T 
+15. C3B + 
+R4T 
+16. C3C+ 
+R3C 
+ 
+17. C4T+ 
+R2C 
+ 
+18. 
+R1B 
+ 
+(Nos lances 19 a 29 repentem-se os lances
+ 
+30. C2D+ 
+R5T
+
+31. C3B + 
+R4T 
+32. C3C+ 
+R3C 
+ 
+33. C4T+ 
+R2C 
+34. C5T+ 
+R1B 
+ 
+35. C6C+ 
+36. 
+CXP 
+mate 
+R1D 
+ 
+ 
+ 
+ ALF. 1 - Em D. Alfonso encontramos uma variante do belo problema anterior. 
+36 Diagrama 3: As brancas jogam e empatam. 
+ 
+1. 
+C
+R1B 
+2. 
+C
+R1R 
+3. 
+C
+R2D 
+4. 
+C
+R2B 
+5. 
+C
+8R+
+R3C 
+(Se 
+R1C
+6. 
+C
+R4C 
+7. 
+C
+R5B 
+8. 
+C
+R6B 
+9. 
+C
+R7D 
+10. 
+C
+R7R 
+11. 
+C
+R6B 
+12. 
+C
+R6C 
+13. 
+C
+R5T 
+14. 
+C
+R4T 
+15. 
+C
+R3C 
+16. 
+C
+R2C 
+e, pelo xeque perpétuo (repetiu-se a posição inicial), a partida está empatada  
+Uma Versão Moderna 
+Uma versão deste tipo de problema com as regras do xadrez moderno é a de W. S. Branch de 19196 
+Diagrama 4: As brancas jogam e dão mate em 33 lances, em 8R, movendo só os Cavalos. 
+                                                          
+6 APUD DICKINS-EBERT, 100 Classics..., p. 166.
+
+1. C7C+ R2D 
+2. C8B+ R2B 
+ 
+14. C4T + 
+15. C(3C)XT+ 
+ 
+31. C5T+ 
+32. C6C+ 
+33. CXP mate 
+Exércitos em Guerra 
+ 
+Diagrama 5: As brancas jogam e ganham (antes de incisar o problema, retire-se a Dama preta do 
+tabuleiro). 
+Uma epidemia dizimou o exército branco e seu rei vê-se forçado a tentar a paz com o rei preto. O rei 
+preto ordena a seu vizir (Alferza) que traga o rei branco à sua presença, mas o vizir, alegando indisposição, não 
+vai e ordena a dois soldados (PBD e PCD) que avancem e cumpram a ordem do rei. O rei, furioso com a 
+desobediência, mata o vizir (a Dama preta é excluída do tabuleiro). Tal ato convence o rei branco de que não deve
+
+esperar clemência e, então, envia seus fiéis cavaleiros para um desesperado ataque: à meia-noite surpreendem as 
+sentinelas e acossam o rei adversário. O rei preto tenta fugir. Começa uma implacável perseguição, à qual se 
+juntam o vizir e o elefante (D e B) brancos que liqüidam o inimigo: 
+CXP+ 
+R1D 
+CXPBR+ 
+R2B 
+C8R+ 
+R2C 
+C8D+ 
+R3T 
+C7B + 
+R4T 
+C7C+ 
+R5T 
+D3C+ 
+R6T 
+BlB mate 
+ 
+ 
+ 
+Uma Versão Moderna: a Retirada de Napoleão de Moscou 
+Uma versão que retoma a temática medieval com as regras do xadrez moderno é o problema composto 
+por Petrov (1794-1867): "A retirada de Napoleão"7. 
+ 
+Diagrama 6: Mate em Paris. 
+O Rei preto representa Napoleão: a Dama branca, o Mal. Kutusov; o Rei branco, o Czar Alexandre I; a 
+casa 8TR, Paris; 1CD, Moscou; a diagonal maior de casas brancas, o rio Berezina; e, finalmente, os Cavalos bran-
+cos, os cossacos. 
+ 
+C2D + 
+R7T 
+C3B + 
+R6T 
+C(2D)1C+ 
+R5C 
+C2T+ 
+R4C 
+C3T+ 
+R3T 
+C4C+ 
+.R2T 
+C5C+ 
+R1C 
+C6T+ 
+R1B 
+C7T+ 
+R2D 
+C8C+ 
+R2R 
+C8B + 
+R1B 
+C7D + 
+R1C 
+C7R+ 
+R1T 
+R2C mate 
+ 
+ 
+ 
+                                                          
+7 Apud I. M. LINDER, Chess in Old Rússia, Zürich, Kühnle, 1979, 42    p. 168. Este problema foi-nos apontado por Herman Claudius.
+
+A Partida Mais Antiga 
+Ainda para familiarizarmo-nos com as regras medievais8, transcrevemos9 a mais antiga partida que se co-
+nhece: século X, Bagdá, Califa Al-Nuktadi - Al Suli: 
+P3CR 
+P3CR 
+P4CR 
+P3BR 
+P3R 
+P3R
+C2R 
+P3D
+T1C 
+P3B
+P3BR 
+P3C
+P4B 
+P3TD 
+P5B 
+PCXP 
+PXP 
+PXP
+B3TR 
+C2R
+T1B 
+T1C
+C3C 
+T4C
+BXP 
+P3T
+B3TR 
+C2D
+P3D 
+P4D
+P3B 
+D2B
+P3C 
+T2T
+P4B 
+B3D
+C3B 
+B3R
+PXP 
+PXP
+P4D 
+B1BR 
+T2B 
+D3D
+P4C 
+T2B
+R2D 
+P4C
+B3T 
+C3CD 
+B5BD 
+C3B
+P3T 
+R2B
+ 
+28. D2B 
+29. TD1BR 
+30. C5T 
+31. CXP+ 
+32. CRXPD 
+33. TXB + 
+34. B5B + 
+35. C4B mate 
+B5B 
+T3C 
+R1R 
+R1D 
+T2CD 
+R2D 
+R3R 
+                                                          
+8 . Lembrar que o Peão nas regras árabes não pode avançar duas casas em seu lance inicial. 
+9 Apud FRANÇOIS LE LIONNAIS & ERNST MAGET, Dic-tionnaire des Échecs, Paris, PUF, 1967, verb.: "Anciennes".
+
+4. A LITERATURA ENXADRÍSTICA MEDIEVAL 
+Os textos dedicados ao xadrez na literatura medieval são classificados por Murray em: 1) obras didáticas, 
+2) obras morais e 3) coleções de problemas. 
+4.1. As Obras Didáticas: Poema de Deventer 
+São em geral poemas que não chegam a dar uma descrição clara, nem definições precisas do jogo. Como 
+exemplo apresentamos agora - em forma resumida por Murray1 - um desses textos, o poema de Deventer, cujo 
+manuscrito mais antigo que se possui é do século XIII. 
+Sobre o Xadrez (Poema de Deventer) 
+Quem quiser conhecer o belo jogo do xadrez ouça este poema. 
+A batalha se dá num tabuleiro quadrado, com casas alternadas de cores diferentes. 
+Os dois Reis dispõem suas forças em duas linhas.  
+A vanguarda é constituída pelos oito Peões. 
+Atrás estão as ágeis Torres, os ferozes Cavaleiros,  
+que lutam deslealmente, o Rei, a Rainha e dois Bispos2. 
+O Peão como arqueiro inicia a batalha, ele toma na diagonal e quando atinge o fim do tabuleiro é 
+promovido a Alferza. O Cavaleiro vai saltando e mudando de cor, a Torre vai em linha reta e agilmente, para um 
+lado ou para o outro. O Bispo salta e se assemelha a um espião ou ladrão3; se começa em casa branca nunca cairá 
+em casa vermelha. O Alferza move-se em quatro sentidos e só percorre casas de sua cor. O Rei pode ir para 
+qualquer das oito casas que o circundam e deve mover-se quando recebe xeque e se não puder escapar do xeque, 
+então todos gritam: Mate! Mate! Mate! 
+4.2. As Obras Morais: Moralitas de Scaccario 
+Já o segundo grupo, o das obras morais (homilias, sátiras etc.), é o da interpretação alegórica moral do xa-
+drez. 
+No seguinte texto, um dos mais significativos, a famosa Moralitas de Scaccario4, vê-se como o xadrez torna-
+se base para considerações morais de acentuado caráter bíblico. 
+Moralitas de Scaccario 
+Este mundo todo é como um tabuleiro de xadrez: uma casa é branca, outra é preta, e assim representa o 
+duplo estado de vida ou morte, de graça ou pecado. 
+A família que habita esse tabuleiro é formada pelos homens deste mundo, que — tal como as peças saídas 
+todas da mesma bolsa (sacculus) — procedem todos de um só ventre (sacculus) — materno5. 
+                                                          
+1 Op. cit., p. 505. 
+2 Regina, Rainha, ainda que adiante o poema designe esta peça com outros termos, como Alferza. O nome Bispo não é usado, e sim Stul-tus, o bobo, ou outros 
+termos. 
+3 É freqüente a referência ao Alfil como "espião" ou "ladrão" pois é a peça mais apta a surpreender o adversário distraído. 
+4 Valemo-nos para esta tradução do original latino do século XIII, outrora atribuído a lnocêncio III(1198-1216), que vem recolhido em MURRAY, pp. 560-561. 
+Veja-se também o artigo de LYNN THORNDI-KE, "All the World's a Chess-Board",Speculum, 1931, pp. 461-465. 
+5 De um ventre: o de Eva ou o da Terra.
+
+E, tal como as peças, assumem seus postos nos diferentes lugares deste mundo, cada um com sua própria 
+denominação. O primeiro é o Rei, depois a Rainha, em terceiro lugar a Torre (rocus), em quatro o Cavalo (miles), 
+em quinto o Bispo (alphinus) e em sexto o Peão. 
+E o caráter do jogo é tal que um toma o outro e, com o jogo terminado, assim como todos tinham saído 
+da mesma bolsa, a ela voltam. E então já não há diferença entre o Rei e o pobre Peão, pois acabam do mesmo 
+modo o rico e o pobre6. 
+E com freqüência acontece que, quando se devolvem as peças, o Rei fica por baixo, no fundo do saco; e 
+assim também acontece com os grandes que ao sair deste mundo são sepultados no inferno; enquanto os pobres 
+são levados ao seio de Abraão7. 
+Neste jogo o Rei se move e toma em todas as direções, simbolizando o fato de que tudo o que o Rei faz é tido por 
+justo, já que o que apraz ao Rei tem força de lei8. 
+A Rainha, que se denomina Ferce (ou Alferza) move-se e toma na diagonal, de modo torto, pois a mulher é tão 
+cobiçosa que só toma tortamente, por obra da rapina e da injustiça. 
+A Torre é o justiceiro que percorre toda a terra em linha reta como sinal da justiça com que tudo julga e de que por 
+nada deve seu ofício corromper-se. Mas, agora, se corrompe, como está escrito: "perverteste o juízo em amargor e o fruto 
+da justiça em absinto"9. 
+O movimento do Cavaleiro é composição de reto e torto. O reto, representando o direito que tem, em justiça, 
+como senhor da propriedade, de cobrar impostos e de impor justas penas conforme o exija o delito; representando as 
+injustas extorsões a que submete os súditos. 
+Os Alfines são os bispos com cornos (mitra), não como Moisés por ter falado com Deus, mas elevados por 
+mandado do rei, por influências ou alto preço. Movem-se oblíqua e tortuosamente duas casas porque muito prelados se 
+pervertem pelo ódio, amor, presentes ou favores para não corrigir os delinqüentes nem ladrar contra os vícios, tratando os 
+pecados como um terreno arrendado por uma taxa anual. E assim enriquecem o diabo, fomentando os vícios ao invés de 
+extirpá-los e se tornam procuradores do diabo. 
+Os Peões são os pobres que andam uma casa em linha reta, pois enquanto o pobre permanece na sua sim-
+plicidade vive honestamente, mas, para tomar, se corrompe e o faz tortamente, pois pela cobiça de bens ou 
+honras, sai do reto caminho com falsos juramentos, adulações ou mentiras. 
+E, por ultimo, ao atingir o fim de sua carreira de Peão transforma-se em Alferza, amplia e consuma sua 
+iniqüidade como se diz em Alexandre: "Não há ninguém mais intratável do que um pobre que ascendeu". 
+Neste jogo, o diabo diz: xeque! incitando ao mal e ferindo com o dardo do pecado. E se o atingido não sai 
+rapidamente dizendo: livrei, pela penitência e compunção do coração, o diabo lhe diz: mate!, levando sua alma ao 
+inferno de onde não se poderá livrar de modo algum10. 
+E assim como o caçador tem diversos cães para diversas presas, também o diabo e o mundo têm diversas 
+tentações para apanhar os homens, pois tudo que há no mundo é concupiscência da carne ou concupiscência dos 
+olhos ou soberba da vida11. 
+ 
+                                                          
+6 Diz o original: simul in unwn dives et pauper o que na realidade, é o Salmo 48, 3. Esta, como as demais notas bíblicas, devo-as a D. João Mehlmann. 
+7 Cf. Luc. 16, 22: "... et sepultus est in inferno", morreu o rico... e foi sepultado no inferno. A Neovulgata corrige a pontuação: "... e foi sepultado. No inferno 
+8 É a célebre sentença do Corpus luris Civitis: "quidquid principi placet, legis habet vigorem". 
+9 Amos 5, 7, em citação livre. 
+10 Esta sentença: "in inferno nulla est redemptio" 6 do Oficio de Defuntos. 
+11 Cf. I/o., 2, 16.
+
+4.3. Coleções de Problemas 
+Das coleções de problemas, o terceiro grupo de textos, trataremos mais adiante a propósito do Libro del 
+Acedrex de D. Alfonso, o Sábio. 
+ 
+5. O "LIBRO DEL ACEDREX" DE D. ALFONSO 
+5.1. Introdução 
+Mais do que por sua discutível atuação como estadista, D. Alfonso X (1221-1284) que sucedeu a seu pai, 
+Fernando III, como rei de Castela e Leão em 1252, notabilizou-se por relevantes realizações culturais. 
+Além do Livro das Leis (Las Partidas), um dos mais importantes códigos da Idade Média, e das cantigas de 
+Santa Maria, considerada obra totalmente pessoal do rei e uma das mais importantes da literatura galaico-
+portuguesa, sob sua coordenação escreveram-se também obras históricas, científicas e recreativas. 
+De especial interesse é o Livro do Xadrez, Dados e Tábulas, composto em 1283 e que, rapidamente, difundiu-
+se pela Europa. A introdução dessa obra teria sido escrita pessoalmente pelo próprio D. Alfonso. 
+O manuscrito original tem 98 folhas (39,5x28cm) frente e verso (seis páginas em branco) e ilustrado com 
+150 miniaturas. 
+Nas folhas 1 a 64 trata-se do xadrez: Introdução (1 a 5) e problemas (5v. a 64). Já as folhas 65 a 71v. são 
+dedicadas a jogos de dados; 72 a 80, a jogos de tábulas (que envolvem sorte e habilidade); 81 a 85v., "Grande 
+Xadrez", que se joga em tabuleiro de 144 casas com dado de oito faces (ou tabuleiro de 100 casas com dado de 
+sete faces); 87 a 89v., ao "Acedrex de 4 Tiempos" e o jogo "O Mundo", para quatro jogadores; 91 a 93v., aos 
+jogos de Alquerque e as páginas finais, ao "Escaques", o jogo astronômico. 
+ 
+ 
+O "Grande Xadrez". 
+ 
+Brancas
+
+VERMELHAS 
+O Xadrez de 4 Tempos. 
+O Jogo de Escaques. 
+ 
+ 
+ 
+Entre as variedades do xadrez no tabuleiro de 64 casas, D. Alfonso fala do xadrez com dados, onde a 
+sorte do dado é que determina que peça há de ser movida (6-Rei, 5-Alferza,... 1-Peão). E também do "xadrez 
+forçado", com a regra adicional que obriga a tomar sempre que possível, o que, naturalmente, conduz a um jogo 
+muito fechado. D. Alfonso dá o seguinte exemplo de abertura no xadrez forçado:
+
+Como é óbvio, diferentes regras de movimentos de peças determinam diferentes critérios teóricos: se 
+nossas aberturas estão dimensionadas para explorar as possibilidades dos Bispos e da Dama; na abertura medieval 
+o avanço do Peão da Torre pode ser uma opção conveniente. 
+Alguns exemplos de aberturas medievais:
+
+Como também o chamado Gambito de Damiano (1. P4R P4R 2. C3BR P3BR), considerado um resquício do xadrez 
+medieval, seria, para a época, uma boa defesa. 
+O Libro del Acedrex chama a atenção do principiante para duas jogadas interessantes para a época: a alferzada e a 
+alfilada: Alferza e Peões em mútua defesa; Alfil e Peões em mútua defesa. E o problema 69 lembra o perigo do Cavalo que 
+ataca simultaneamente Rei e Torre.
+
+A parte mais extensa e mais importante do livro é dedicada aos problemas, de que trataremos após a leitu-
+ra do regulamento e introdução ao xadrez de D. Alfonso. 
+Quanto à notação, D. Alfonso utiliza a descritiva, como se pode ver no seu texto de solução ao problema 
+78, à p. 108 (que recolhemos a título de exemplo): "a quarta casa do Rei branco", "a segunda casa do Alferza 
+preto" etc. 
+5.2. Libro del Acedrex de D. Alfonso o Sábio 
+Introdução 
+Deus quis que os homens naturalmente tivessem todas as formas de alegria para que pudessem suportar 
+os desgostos e tribulações da vida, quando lhes sobreviessem. 
+Por isso os homens procuraram muitos modos de realizar com plenitude tal alegria e criaram diversos jogos12 que 
+os divertissem. 
+Alguns desses jogos se praticam a cavalo: bafordar13 e manejar lanças e escudos, atirar com besta ou arco, e 
+quaisquer outros que se pratiquem cavalgando. E embora envolvam uso de armas, são chamados jogos porque se trata de 
+mera simulação de combates. 
+Há outros que se praticam a pé como esgrimir, lutar, correr, saltar, lançar pedra ou dardo, bater a pelota e 
+outros jogos de diversas modalidades com que os homens fortalecem o corpo e se divertem. 
+Há ainda outros jogos que se praticam sentados como o xadrez, tábulas, dados e muitos outros jogos de 
+tabuleiro. 
+E ainda que todos esses jogos sejam muito bons, cada um no seu lugar e tempo adequados, os que se jo-
+gam sentados são cotidianos e podem ser realizados tanto de noite como de dia, como podem também ser 
+praticados pelas mulheres - que não cavalgam e ficam em casa —, pelos velhos e por aqueles que preferem ter 
+suas distrações privadamente para não serem incomodados, ou ainda pelos que estão sob poder alheio em prisão 
+                                                          
+12 No orig.: iuegos e trebeios. Iuegos é termo mais geral, que pode designar também esportes a cavalo etc.; trebeios indica jogos de tabuleiro. D. Alfonso emprega 
+trebeios também para as peças do xadrez. Cf. verbete "Trebelhos-I" no Elucidário das Palavras, Termos e Frases que em Portugal Antigamente se Usaram de FR. 
+JOAQUIM SANTA ROSA VITERBO, Lisboa, ed. A.J. Fernandes Lopes, 1865. 
+13 Bafordar ou bofordar: brincar com lanças no jogo de armas fingindo combate militar. Cf. Elucidário...
+
+ou cativeiro, ou viajando pelo mar. E, para todos em geral, quando há mau tempo e não se pode cavalgar, nem 
+caçar, nem ir a parte alguma e forçosamente têm de ficar em suas casas e procurar algum tipo de jogo com que se 
+distraiam, se ocupem e se reconfortem. 
+Portanto, Nós, D. Alfonso, pela graça de Deus, Rei de Castela, de Toledo, de Leão, de Galícia, de Sevilha, 
+de Córdoba, de Múrcia, de Jaen e do Algarve, mandamos fazer este livro em que tratamos dos jogos de maior 
+compostura como o xadrez, dados e tábulas. 
+E sendo estes jogos praticados de diversas maneiras, por ser o xadrez o mais nobre e o que requer maior 
+maestria é dele que trataremos primeiramente. 
+Antes, porém, queremos expor as razões pelas quais, segundo disseram os sábios antigos, foram criados 
+estes três tipos de jogos: xadrez, dados e tábulas. Pois sobre este assunto muito se tem falado, cada um querendo 
+mostrar por que foram inventados esses jogos. Mas o mais certo e verdadeiro é o que narramos a seguir. 
+Segundo as antigas histórias, houve na Índia Maior14 um rei que prezava muito os sábios e os tinha sempre 
+consigo, e amiúde requeria deles reflexões sobre os acontecimentos que surgiam das coisas. E havia três desses 
+sábios que tinham ponderadas concepções: um dizia que mais vale a inteligência do que a sorte, pois quem se guia 
+pelo juízo inteligente faz suas coisas ordenadamente e, mesmo que perdesse não teria culpa, pois estaria agindo 
+segundo o modo conveniente. 
+Outro dizia que mais vale a sorte do que a inteligência, pois ante o fado de perder ou ganhar não há juízo 
+e inteligência que possam conseguir outra coisa. 
+O terceiro dizia que o melhor era o oportunismo: viver tomando de um e de outro. Pois para que o juízo 
+inteligente se realize cabal e acertadamente, são necessários enormes cuidados e, por outro lado, quanto mais se 
+depende da sorte, tanto maior é o perigo, pois a sorte é incerta. Assim, o oportunismo tomaria tanto da inteli-
+gência quanto da fortuna, o que lhe fosse de proveito. 
+E, depois de exporem suas afincadas reflexões, ordenou o rei que cada um trouxesse algo que demons-
+trasse o que havia exposto. Deu-lhes o prazo que lhe pediram e lá se foram eles examinar diligentemente seus 
+livros, cada um de acordo com sua concepção. 
+Findo o prazo, compareceram ante o rei trazendo cada qual sua amostra. 
+O que propugnava pela inteligência trouxe o xadrez com suas peças15 mostrando que aquele que maior 
+inteligência tivesse e mais atentamente se aplicasse poderia vencer o adversário. O segundo, que defendia a sorte, 
+trouxe os dados para contradizê-lo e mostrar que é pela sorte que se chega a ganhar ou a perder. O terceiro dis-
+pôs peças ordenadamente em suas casas num jogo em que os movimentos dependiam dos dados, como falare-
+mos mais adiante neste livro. Com o que mostrou que, para quem souber bem jogar, ainda que a sorte dos dados 
+lhe seja contrária, pelo oportunismo poderia com habilidade jogar as tábulas de modo a esquivar-se à derrota que 
+lhe poderia advir da má sorte dos dados. 
+E por ser o xadrez jogo mais sereno e nobre que os dados ou as tábulas, é dele que falaremos 
+primeiramente: mostrando como há de ser feito o tabuleiro, quantas casas há nele, quantas e quais são as peças, o 
+nome de cada uma delas e as casas que devem ocupar, como se movem e tomam e que vantagens têm umas peças 
+                                                          
+14 Índia Maior ou índia, em contraposição à índia Menor, a Etiópia (Nota de D.J.M). 
+15 No orig.: troxo Acedrex cos sus iuegos. Iuegos poderia ser traduzido também por jogos, uma vez que, como explica D. Alfonso mais 8    adiante, há diversas 
+modalidades de xadrez.
+
+sobre as outras. E, também, como devem ser aplicados os jogadores a fim de que vençam e não sejam vencidos; e 
+como dão xeque ao Rei, que é a maior de todas as peças, sendo o xeque uma maneira legítima de afrontar o 
+senhor do inimigo e como lhe dão mate, que é fazer-lhe grande desonra: tal como se o vencessem ou matassem. 
+E outros jogos há e muito variados, mas todos foram feitos à semelhança das coisas que aconteceram se-
+gundo os tempos que foram, são ou poderiam ser, mostrando como os reis em tempos de guerra — em que se 
+constitui exército — hão de guerrear com seus inimigos lutando por vencê-los, prendendo-os, matando-os ou, expulsando-
+os da terra. Como também, em tempo de paz, mostram seus tesouros e riquezas e as coisas nobres e raras que possuem16. 
+E assim, fizeram-se jogos: uns de 12 casas, outros de 10, de 8, de 6 e de 4; descendo até uma casa que dividiram em 
+8 partes. E tudo isto se fez segundo os saberes antigos, em conformidade com os sábios. Mas, dentre todos os outros jogos 
+escolheu-se como o melhor e mais comum o das 8 caseis porque não é tão lento como os de 10 ou mais, nem tão rápido 
+como os de 6 ou menos. E por isso é jogo comum em todas as terras, mais do que os outros jogos. 
+O tabuleiro deve ser quadrado, com 8 linhas, cada linha com 8 casas, num total de 64. E metade das casas deve ser 
+de uma cor, metade de outra; e assim também as peças. 
+Das cores das peças do xadrez 
+As peças são 32. As 16, de uma cor, devem ser enfileiradas nas duas primeiras linhas do tabuleiro; as 16 da outra cor 
+devem ser enfileiradas do mesmo modo, defrontando, as primeiras, no outro extremo do tabuleiro. 
+ 
+Peças que ilustram os problemas no livro de D. Alfonso. 
+                                                          
+16 Há diversos jogos e uns representam as coisas que sucedem em tempos de paz; outros, a guerra. O xadrez que D. Alfonso descreve neste texto é um jogo à 
+semelhança da guerra.
+
+Das 16 peças, 8 são menores, à semelhança da plebe que compõe a hoste. Das peças maiores, uma representa o Rei, 
+senhor do exército, e deve ficar numa das casas centrais. A seu lado, na outra casa central, fica outra peça que 
+representa o Alferes, portador do estandarte do Rei. Alguns não lhe sabem o nome e chamam-no Alferza. Estas 
+duas peças são singulares e não há nenhuma outra igual a elas. 
+Nas duas casas ao lado das ocupadas pelo Rei e pelo Alferza colocam-se duas peças semelhantes que em 
+árabe se chamam Alfiles, o que em nossa língua significa elefantes: cada Rei costumava levar nas batalhas ao 
+menos dois elefantes: se um morresse, ficaria o outro.
+
+Nas duas casas ao lado das ocupadas pelos Alfiles colocam-se duas peças iguais, comumente chamadas 
+Cavalos, ainda que seu nome correto seja Cavaleiro: são capitães que por mandado do Rei comandam as filas do 
+exército. 
+Nas duas casas extremas estão duas peças também iguais chamadas Torres (Roques)17 e são largas e esten-
+didas à semelhança de linhas de combate de cavaleiros. 
+Na primeira fila ficam as peças maiores de que falamos; na segunda, os peões. E, embora sejam muitas 
+peças quanto às casas que ocupam, são apenas seis se contarmos o par como uma só: Alfiles, Cavalos e Torres 
+(contados não como 6, mas 3 peças); Rei, Alferza e Peões (contados como 1 peça só). 
+As peças são assim duplicadas para no caso de uma ser tomada, ficar outra de sua natureza para dar xeque 
+e mate ao Rei adversário, ou defender o próprio Rei. É também o caso do Alferza, que, se tomado, qualquer Peão que 
+atingir a última casa do outro lado do tabuleiro, onde se situam inicialmente as peças maiores do adversário, torna-se, daí em 
+diante, Alferza e se pode dispor dele e movê-lo como o Alferza original. E isto porque são promovidos de condição inferior 
+a condição superior. 
+O Rei não pode ser tomado mas se pode lhe dar xeque e fazê-lo sair, desonrado, do lugar onde estiver. E se o 
+cercam de modo a não ter casa para onde ir é o que se chama xamat, isto é, morto. E isto foi estabelecido assim para 
+abreviar o jogo, pois alongar-se-ia muito se fosse necessário tomar todas as peças até ficarem só os dois Reis ou um deles. 
+Do movimento das peças do xadrez18 
+O movimento das peças foi estabelecido pelas razões que diremos a seguir. Tal como o Rei, que não se deve deixar 
+arrebatar nas batalhas mas deve ir muito devagar, vencendo sempre seus inimigos e esforçando-se por triunfar, assim 
+também o Rei do xadrez não deve andar mais que uma casa em linha reta ou diagonal, como quem está atento a tudo o que 
+acontece a seu redor refletindo sobre o que deve fazer. 
+O Alferza anda uma casa na diagonal para guardar o Rei, não se afastar dele e cobri-lo de eventuais xeques e 
+tentativas de mate e para ir à sua frente ajudando-o a vencer quando o jogo estiver em situação favorável. 
+Pode, no entanto, em seu primeiro lance, saltar duas casas em linha reta ou diagonal, mesmo que haja outra peça de 
+permeio. E isto porque, como bom capitão, deve ir à frente nos momentos decisivos e nas batalhas, e acorrer a todas as 
+partes em que sua presença seja necessária. Com este movimento ajunta-se com seus Peões e volta-se para eles fazendo um 
+bloco, esforçando-se para que não saiam e dando o melhor de si para manter a unidade, onde ele guarda a frente 
+posicionando-se ante os que estão atrás, defendido por eles e defendendo-os. E, quando o Alferza está deste modo 
+engrenado com os Peões, diz-se que se trata de uma alferzada. 
+Os Alfiles saltam duas casas na diagonal à semelhança dos elefantes que outrora os reis levavam consigo. Ninguém 
+ousava deter-se diante deles e os que os montavam faziam-nos investir em diagonal contra as linhas do inimigo, de modo 
+que não se podiam defender. 
+Os Cavalos saltam movendo-se uma casa em linha reta e uma em diagonal (afastando-se da casa de origem). Tal 
+como bons oficiais que capitaneiam as linhas de combate dirigindo o cavalo para a direita e para a esquerda para defender os 
+seus e vencer os inimigos. 
+As Torres movem-se quanto quiserem em linha reta e podem ir para a frente e para trás, para a direita ou para a 
+esquerda. E isto à semelhança das filas de cavaleiros que investem quanto podem para a frente ou na direção mais adequada 
+para vencer aqueles contra quem lutam. 
+                                                          
+17 Dos trebeios que se semeiam, duas peças que se assemelham, diz o original a propósito dos 2 Alfiles, 2 Cavalos e 2 Torres. No caso dos Alfiles (um corre por 
+casas pretas; outro, por brancas) dissemos que se parecem; já dos Cavalos e Torres, dissemos, nesta tradução, que são iguais. 
+18 D. Alfonso inclui na contagem a casa onde a peça está. E assim, quando diz que o Alfil salta três casas, traduzimos por duas casas, mais adequado para a 
+compreensão do enxadrista contemporâneo.
+
+Os Peões não vão mais do que uma casa para a frente tal como os Peões do exército, que andam pouco porque vão 
+a pé e levam às costas suas armas e outras coisas de que hão mister. Alguns jogadores, porém, costumam movê-los duas 
+casas na primeira vez, simbolizando o fato de que os da plebe, à medida que avançam, vão roubando coisas e, assim, depois 
+do primeiro lance, andam mais devagar. 
+De que modo as peças tomam no xadrez 
+O tomar das peças umas às outras se dá do modo como descreveremos. O Rei toma em todas as casas a que pode 
+ir e pode tomar qualquer peça do adversário que não esteja defendida. E o mesmo (tomar em qualquer casa a que possa ir) o 
+fazem as outras peças maiores como os Alfiles, os Cavalos e as Torres. O Alferza, porém, se quiser ir à terceira casa em seu 
+primeiro lance não o poderá fazer tomando; mas, excetuado este caso, toma tal como seu movimento, na casa diagonal. 
+Também os Peões que, se quiserem, podem andar — mas não tomar — duas casas na primeira vez. Os Peões não 
+tomam segundo seu movimento reto, mas somente nas duas casas diagonais imediatamente à sua frente. E isto é à 
+semelhança dos peões do exército que não se podem ferir estando um em frente do outro e atentos defendem-se, mas só 
+ferem em diagonal o inimigo desprevenido. 
+ 
+Das vantagens das peças do xadrez 
+As vantagens que umas peças têm sobre outras são grandes. O Rei, por exemplo, é privilegiado de modo que pode 
+tomar qualquer peça e nenhuma o pode tomar. E isto à semelhança dos reis, que fazem justiça a todos os que o merecem 
+mas, por isso mesmo, ninguém pode levantar a mão contra ele: nem para prendê-lo, nem para feri-lo, nem para matá-lo; 
+ainda que ele fira, prenda ou mate. E, no entanto, pode-se-lhe envergonhar de três modos: obrigando-o a sair da casa onde 
+está, obstruindo-lhe uma casa aonde ele queria entrar ou impedindo-o de tomar o que deseja. 
+O Alferza tem igualmente grandes vantagens: porque, mais que as outras peças, guarda de perto o Rei e é melhor 
+do que os Alfiles porque tem mais casas pelas que pode andar e tomar. 
+E além disso — e é algo que os Peões não podem fazer -, o Alferza guarda e toma para a frente e para trás, daí que 
+possa fazer alferzada com eles, como dissemos acima. 
+Os Alfiles têm vantagens sobre os Peões porque tomam mais de longe. E fazem também alfilada com eles: o Alfil 
+defendido por um Peão que está em casa diagonal imediatamente anterior, e este Peão é defendido por outro Peão atrás de 
+si na mesma linha diagonal que, por sua vez, é defendido pelo Alfil. E deste modo defendem-se mutuamente e isto é 
+denominado alfilada. 
+O Cavalo tem mais vantagens que todas as outras peças, exceção feita à Torre, pois quem souber bem jogar o 
+Cavalo poderá movê-lo de um canto do tabuleiro tomando peças em qualquer das outras 63 casas: tal é seu movimento que 
+não falha em tomar (ver nota e ilustração na página seguinte). 
+A Torre é a peça que mais vantagens tem, pois pode ir em linha reta de uma só vez à casa que quiser de um a outro 
+extremo da fila ou da coluna da casa em que se encontra, desde que não haja no seu caminho uma peça de sua cor que a 
+estorve ou da cor contrária; neste caso, a Torre pode tomá-la ocupando a casa da peça que tomou.      
+O cavalo, como se sabe, pode percorrer todo o tabuleiro sem passar duas vezes pela mesma casa. Na 
+ilustração - extraída do 100 Classics... - o cavalo pode mover-se seqüencialmente também pelos números quadrados 
+perfeitos (1,4, 9, ...64) ou cubos perfeitos (1, 8, 27, 64).
+
+De como o Rei e todas as outras peças do xadrez podem andar e tomar: algumas, em todas as casas do tabuleiro; outras, 
+só em algumas casas 
+O Rei pode andar e tomar em todas as casas do tabuleiro em 64 lances e voltar para sua casa. 
+O Alferza pode andar todas as casas que lhe são permitidas pelo seu tipo de movimento em 32 lances19, 
+descontadas as casas em que forçosamente tem de entrar duas vezes numa mesma casa. 
+O Alfil pode andar e tomar por seis casas20 do tabuleiro — incluída a sua — e não mais. 
+O Peão pode ser promovido a Alferza em seis jogadas (se não andar duas no primeiro lance) e, uma vez alferzado, 
+pode voltar a sua casa em tantas vezes quanto o Alferza original: descontando as vezes em que não possa evitar de entrar 
+duas vezes na mesma casa. 
+O andar da Torre não pode ser contado porque anda longe e perto21 por onde quiser, desde que em linha reta, 
+segundo as leis de seu movimento. 
+Todos os que queiram bem jogar o xadrez devem conhecer estes movimentos, sem o que não entenderão o jogo 
+nem os problemas. Os problemas deleitam por que não exigem o desdobramento de toda uma partida, que, por alongar-se, 
+pode aborrecer. E esta é também a razão da introdução de dados no xadrez: para que mais breve fosse sua duração. 
+E assim o 6, que é o maior número do dado, corresponde ao Rei, que é a mais nobre peça do tabuleiro; o 5, ao 
+Alferza; o 4, à Torre; o 3, ao Cavalo; o 2, ao Alfil e o 1, a que chamam ás, ao Peão. 
+E como há diversos modos de jogar xadrez — alguns que envolvem as peças todas; outros, só parte delas —, 
+trataremos inicialmente do jogo que se faz com todas as peças e mostraremos como é feito o tabuleiro e como deve ser a 
+figura das peças. As peças, da maneira melhor e mais perfeita, devem ser assim feitas: 
+O Rei deve estar em seu trono com a coroa na cabeça e a espada na mão como se estivesse a julgar ou a fazer 
+justiça. 
+O Alferza deve assemelhar-se ao alferes-mor do rei, que porta os estandartes do rei quando começa a batalha. 
+Os Alfiles devem assemelhar-se a elefantes com torres superpostas, cheias de homens armados e prontos para a 
+luta. 
+                                                          
+19 O original diz 33 lances. 
+20 O Alfil, naturalmente, atinge oito e não seis casas. Neste caso, portanto, deve tratar-se de uma referência às casas a que pode chegar sem passar duas vezes pela 
+mesma casa. 
+21 Como não contavam com os nossos atuais Bispo e Dama, a Torre era a única peça cujo raio de ação não era fixo.
+
+Os Cavalos devem assemelhar-se a cavaleiros armados, como capitães que por mandado do rei comandam as filas 
+do exército. 
+As Torres devem assemelhar-se a uma linha cerrada de cavaleiros do rei em combate. 
+Os Peões devem assemelhar-se à plebe que vai armada e equipada para a luta. 
+Mas, já que em todas as terras em que o xadrez é praticado seria muito trabalhoso fazer-se peças como estas, os 
+homens buscaram maneiras mais fáceis e baratas de produzi-las guardando alguma semelhança com as que descrevemos. E 
+a forma mais usada em todas as terras, especialmente em Espanha, é a que está aqui descrita. 
+Uma vez que acabamos de tratar da partida completa, 84  queremos falar a respeito dos problemas que são como 
+coisas novas e inauditas. Por essa razão, encontram os homens agrado neles, como também porque são mais breves: são 
+situações de jogo em que se sabe em quantos lances deve a partida acabar. Exporemos inicialmente problemas com todas as 
+peças e iremos apresentando outros com menos peças, até um mínimo delas. 
+E falaremos também do jogo de xadrez a que chamam forçado. E isto porque há nele uma restrição à liberdade do 
+jogador que o faz ir contra sua vontade em certas situações e trocar — quer queira, quer não — uma peça melhor por uma 
+pior pois é forçado a tomar, sempre que possível. A disposição, o movimento das peças e seu modo de tomar é igual ao do 
+xadrez normal; mas tomar, nessa modalidade, é obrigatório. E por isto exige especial habilidade do jogador: a de não expor 
+suas peças mais fortes em ocasião de serem sacrificadas em troca de peças mais fracas e vis. 
+Como o tomar, como dissemos, é obrigatório, este jogo é chamado jogo forçado, mas porque alguns contam que foi 
+inventado por donzelas de Ultramar11, chamam-no também jogo das donzelas.
+
+6. O PROBLEMA DE XADREZ NA IDADE MÉDIA 
+Introdução 
+Antes de oferecer ao leitor uma seleção de problemas do Libro del Acedrex, apresentamos algumas consi-
+derações - seguindo sobretudo a criteriosa obra de Murray — sobre os problemas na Idade Média. 
+O problema, que é justamente considerado a poesia do xadrez, teve extraordinária importância no mundo 
+árabe. E basta examinar as primeiras coleções européias de problemas de xadrez para constatar que se apóiam em 
+fontes árabes. 
+Junto com a dimensão estética, o problema tem uma missão formativa: desenvolver a habilidade do 
+enxadrista. Além do mais, no problema desaparece o inconveniente do xadrez medieval: sua excessiva 
+morosidade. No problema, tanto na Idade Média como hoje, tudo se desenvolve a partir de uma posição 
+previamente dada; artificial, é certo, mas por isso mesmo didática. E no problema que se aprendem manobras e 
+seqüências fundamentais para uso nas partidas1. 
+O problema de xadrez é denominado em latim jocus partitus, expressão que passou para as nascentes línguas 
+européias: juego de partido em D. Alfonso; jeopardy em inglês (que, por extensão, passou a significar perigo) etc. 
+A coleção de juegos de partido do Libro del Acedrex inclui algo de novo: problemas compostos por europeus. E certo 
+que os juegos de partido de D. Alfonso são, em sua quase totalidade, coletados de diversas fontes árabes: o estilo é árabe e há 
+repetições de estruturas fundamentais de posição (11 posições se repetem duas vezes; 1, três vezes e 2, quatro vezes), o que 
+parece indicar que se trata de uma justaposição de coleções de problemas árabes. 
+E o caso, por exemplo, dos 69 primeiros problemas (dos quais mais de 50 são idênticos a problemas propostos em 
+manuscritos árabes mais antigos): são dispostos em ordem decrescente de número de peças: 30 no problema 1, 6 no 
+problema 69. O que sugere tratar-se de cópia de uma lista árabe. 
+Porém, como destaca Murray, há 14 problemas, os de n. 73 a 87 (87 = 82), que contrastam com os demais: 
+— Apresentam poucas peças, em média 8, menos da metade da média de peças dos primeiros 69 problemas: 18. 
+— Pede-se, além disso, em alguns desses problemas, como o 78, p. 108, mate em um número exato de lances, nem 
+mais nem menos (mesmo que houvesse solução mais rápida). 
+— Há peças, como no problema 77, p. 107, que, por condição do problema, estão atreguados, isto é, não podem ser 
+tomadas. 
+— Há problemas cuja solução exige que o peão transformado em Alferza salte 2 casas (novidade alfonsina, como 
+dissemos, em relação às regras árabes). É o caso do problema 81, à p. 110. 
+— Problemas elaborados para que não tenham solução mais que aparente, como o 78, à p. 108. 
+Trata-se, pois, do nascimento do problema europeu. Nos problemas que recolhemos a seguir, optamos pela 
+seguinte ordem de apresentação: 
+6.1. Problemas medievais que não pressupõem regras diferentes das atuais 
+São problemas onde não figuram Dama e Bispo e são resolvidos de idêntico modo no xadrez medieval e no atual. 
+6.2. Problemas especificamente medievais 
+Selecionamos os que nos pareceram mais bem elaborados e de maior interesse para o leitor de hoje. 
+6.1. Problemas Medievais que Não Pressupõem Regras Diferentes das Atuais 
+                                                          
+1 Devemos esta oportuna observação a Herman Claudius.
+
+São os problemas ALF: 58, 63, 65, 67, 68, 80 e 87. 
+ALF. 58 - As pretas jogam e dão mate em três lances (na época, não vigorava a atual convenção de problemas: lance inicial das brancas etc.). 
+ 
+1. C5T+ 
+2. TXC TXC+ 
+3. RXT T6D mate 
+As brancas teriam mate em um lance: 1. T1TD mate. 
+ALF. 63 - As pretas jogam e dão mate em três lances. 
+ 
+1. C5C + 
+2. TXC T6B + 
+3. RXT T6R mate 
+Note-se que também aqui a parte contrária, no caso as brancas, teria mate em um lance: 1, T1TD mate ou 
+T1CD mate. Esta circunstância, ameaça de mate imediato por parte do que vai perder, freqüente nos problemas 
+de D. Alfonso, facilita a resolução: em geral, o primeiro lance deve ser um xeque. 
+ALF. 65 - (Problema árabe que, após o 32 lance, recai em ALF. 65). As brancas jogam e dão mate em cinco lances.
+
+1. T7T+ R1C 
+2. C6B+ R1B 
+3. P7R+ CXP 
+4. T7B+ CXT 
+5. C6R mate 
+ALF. 67 - As brancas jogam e dão mate em três lances. 
+ 
+1. C6D+ R1C 
+2. T7C+ R1T 
+3. C6C mate 
+ALF. 68 - As brancas jogam e dão mate em três lances.
+
+1. C6D+ R3C   (ou   1. C3R+   ou   1. C6C+   ou 
+1. C5R+) 
+2. T2C+ R4T 
+3. T1T mate. 
+Embora seja problema aristocrata (sem peões), trata-se, para os critérios atuais, de um problema muito 
+fraco: não admite solução única. (Nota 96    de H.C). 
+ALF. 80 - As pretas jogam e dão mate em três lances. 
+ 
+1. TXC 
+2. P5B+ R3R 
+3. R8R T1B mate
+
+ALF. 87 (= ALF. 82) - "As brancas dão mate em três lances, na segunda casa do Rei preto, jogando o Rei 
+e as duas Torres." 
+ 
+1. TXC R8D 
+2. R2B R7D 
+3. TR3D mate 
+ 
+6.2. Problemas Especificamente Medievais 
+Selecionamos os seguintes: 
+ALF. 55, seguido de uma partida (moderna) de Paul Morphy. 
+ALF. 72, seguido de um problema (moderno) de S. Loyd. 
+ALF. 76 
+ALF. 77 
+ALF. 78, (recolhemos, a título de exemplo, o texto da solução do próprio D. Alfonso a este problema). 
+ALF. 81  
+ALF. 83, seguido de um problema medieval (da Casanatense) e de um problema (moderno) de Shinkmann. 
+ALF. 93  
+ALF. 94 
+ALF. 96, seguido de um problema medieval (do Bônus Socius), de um problema (moderno) de Carpenter e 
+de um problema medieval de mate inverso (do Bônus Socius).  
+ALF. 55 - As pretas jogam e dão mate em três lances.
+
+1. T1C + 
+2. R2T T7C + 
+3. TXT C6B mate 
+É o surgimento do tradicional mate por afogamento. No xadrez moderno, encontramos um belo exemplo 
+na seguinte partida do legendário 100    Paul Morphy (Apud 100 Classics..., p. 6). 
+1 P4R P4R 9. CXC B3R 17. C7B+ DXC 
+2 C3BR C3BD 10. CD5C B5C 18. B5C+ B2R 3. B4B C3B 11. TXB+ PXT 19. C6R+ R1B 4 P4D PXP 
+12. CXP(6R) D2B 20. C5B+ R1C 5. O-O CXP 13. C(3B)5C D2R 21. C7D + R1B 6. T1R P4D 14. D2R B3D 22. 
+C6C+ R1C 7. BXP DXB 15. CXPC+ R2D 23.. D8B+ TXD ,S         D4TR     16.D4C+         R1D 24.C7D mate 
+(diagrama) 
+ 
+ 
+ALF. 72 - Um problema do tipo "2 em 1".
+
+As pretas jogam e dão mate em dois lances. 
+1. T(7T)XP+ 
+2. R3D T(7B)7D mate 
+ou 
+As brancas jogam e dão mate em cinco lances. 
+1. C8R + RXB 
+2. C7D+ R4C 
+3. C6D+ R4T 
+4. C7C+ R4C 
+5. B3D mate 
+ 
+Um problema "2 em 1" do xadrez moderno é o da "Roda na Roda" de S. Loyd (Apud 100 Classics...,p. 
+167): quem tiver o primeiro lance dá mate em 2. 
+1. DXC+ RXD 
+2. R5C mate 
+OU 
+1. C2R+ 
+2. R4R TXB mate 
+O problema também comporta 2 mates inversos em 2 lances. 
+1. D3C+ DXD 
+2. C6C+ D(ouB) XC mate 
+ou, também em dois lances (de cada cor). 
+1. C2R+ 
+2. R4R C4C + 4           3. D(ouB)XC mate
+
+ALF. 76 - "As pretas jogam e dão mate com o Bispo, na casa do Cavalo, em exatamente cinco lances." 
+ 
+1. T7D 
+2. R1C T8D + 
+3. R2T T8T + 
+4. RXT R6C 
+5. R1C B6D mate 
+ALF. 77 - As brancas jogam e dão mate em sete lances, com as seguintes condições: o Rei preto deve 
+mover-se sempre que possível e não pode tomar os Alferzas, que estão atreguados.
+
+1. D7B P5B 
+2. D8D R1C 
+3. D7C R2T 
+4. D7B P6B 
+5. D6T R1T 
+6. D8C P7B 
+7. D7C mate 
+ALF. 78 (Texto original de D. Alfonso) 
+Este é outro problema com 11 peças, dispostas como se vê no tabuleiro. E é o seguinte; as brancas jogam 
+primeiro e devem dar mate ao Rei preto em três lances, nem em mais, nem em menos. Se as pretas conseguirem 
+resistir por mais de três lances, as brancas se consideram derrotadas. 
+O primeiro lance é pôr o peão branco na segunda casa do Alfil preto, dando xeque. Se o Rei for para a 
+casa de seu Alfil, o segundo lance será pôr o Alfil branco na quarta casa do Alfil preto e nem o Rei nem as Torres 
+podem dar lance que impeça o mate no terceiro lance: peão branco na segunda casa do Cavalo preto, ou com o 
+Cavalo branco dando xeque-mate ao Rei preto. 
+Assim, é melhor para as pretas - ante o xeque do peão branco - que seu Rei vá para a casa da Torre. O 
+melhor lance para as brancas é agora o Alfil na sua quinta casa. Para defender-se, as pretas devem jogar a Torre 
+tomando o Peão que está em sua terceira casa e assim ficam as brancas vencidas, pois não podem dar mate no 
+terceiro lance como se pedia (o peão fica 108    cravado). O problema é engenhoso porque, afinal, não tem 
+solução.
+
+ALF. 81 - As pretas jogam e dão mate em sete lances. 
+ 
+1. D(8C)6C 
+2. R1C D(8R)7D 
+3. R1T D6T 
+4. R1C D6D 
+5. R1T D6B 
+6. R1C D(6D)7B + 
+7. RlT ou (RlB)      D(6T)7C mate 
+ALF. 83 - As brancas jogam e dão mate em cinco lances, na quarta casa do Rei branco.
+
+1. B5B RXP 
+2. T8C RXD 
+3. T7C RXP 
+4. T6C RXC 
+5. T6R mate 
+Ainda com as regras do xadrez medieval, num manuscrito do século XV (da Bibl. Casanatense) figura o 
+seguinte problema (Apud 100 Clas-sics..., p. 164). 
+As brancas jogam e dão mate em seis lances. 
+ 
+1. C3C RXP 
+2. T8T RXP 
+3. T7T RXP 
+4. T6T RXP
+
+5. T5T RXP 
+6. T5R mate 
+No xadrez moderno temos um problema análogo: mate em oito lances. 
+ 
+W. A. Shinkmann (1847-1933), St. Louis Globe Democrat, 1887. 
+1. R2D! RXP 
+2. T1R RXP 
+3. T7R RXP 
+4. T6R RXP 
+5. T5R RXP 
+6.   R3B! RXP (Se 6......               R5T 
+7. T1R R6T        7. T5D             R6T 
+8. TIT mate 8. T5T mate). 
+Outra variante: 
+1. R2D! RXP 
+2. T1R R1C 
+3. T8R+ R2T   (Se 3......              R2B 
+4. R3B RXP         por exemplo 
+5. T7R RXP         4. P7T              R3B 
+6. T6R RXP        5. P8T = D+     R2B 
+7. T5R RXP         6. D8D+          R3B 
+8. T5T mate 7. T7R             R4B 
+8. T7B mate). 
+Ou ainda, a solução original. 
+1. O-O-O! RXP 
+2. T8D RXP
+
+3. T7D RXP 
+4. T6D RXP 
+5. T5D RXP 
+6. T4D RXP 
+7. T3D R8T 114    8. T3T mate 
+ 
+ALF. 93 - As brancas jogam e ganham em exatamente três lances. (Rei que perde todas suas peças está 
+derrotado.) 
+ 
+1. P7C+ CXP 
+2. C6B C joga 
+3. Toma C 
+ou 
+1. P7C+ R joga 1. P7C+ R joga 
+2. C6B+ CXC 2. C6B+ R joga 
+3. RXC ou 3. CXC  
+ALF. 94 — Lance inicial das pretas, mas as brancas ganham.
+
+1. TXB + 
+2. R5C T8B 
+3. R6T T8T+ 
+4. DST T8C 
+5. D7C+ TXD 
+6. D(5T)6C T joga 
+7. toma T e ganha porque o Rei preto perdeu todas suas peças. 
+ 
+ALF.96 - Um exemplo medieval de Zugzwang. 
+As pretas jogam e dão mate com a Torre no quarto lance. 
+ 
+A obrigação de dar o lance é fatal para as brancas. 
+1. P7C+
+
+2. R2T P6C+ 
+3. R3T C3C 
+4. D7B T1T mate 
+ 
+Um exemplo semelhante no xadrez moderno: as brancas jogam e dão mate em dois lances (Apud 100 
+Classics..., p. 53) 
+ 
+G. Carpenter (1844-1924) Dubuque Chess Journal, 1873. 
+1. D3TR! R5R 
+2. T4B mate 
+ 
+No Bônus Socius, coletânea também do século XIII, figura o seguinte problema, onde também a obrigação 
+de dar o lance é fatal: 
+As brancas jogam e dão mate em dois lances (Apud 100 Classics..., p. 52). ____
+
+1. TR7CR C joga 
+2. T8.. mate 
+Finalmente, ainda no Bônus Socius, surge o curioso problema de mate inverso que apresentamos a seguir: 
+As brancas forçam as pretas a dar-lhes mate (Apud 100 Classics..., p. 126) 
+ 
+1. C6B R3C 
+2. C5T R4C 
+3. C4B R5C 
+4. C3T R6C 
+5. C2B R7C 
+6. C1T R8C 
+7. T(8B)8C +   R8B 
+8. T2T R8D
+
+9. T8BD R8R 
+10. T8D R8B 
+11. T3D R8R 
+12. C3C R8B 
+13. C4D R8R 
+14. C3B+ R8B 
+15. T2CR PXT mate

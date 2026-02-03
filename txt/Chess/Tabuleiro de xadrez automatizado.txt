@@ -1,0 +1,623 @@
+Tabuleiro de xadrez automatizado 
+ 
+ 
+ 
+Mais 3 imagens 
+Bem-vindo, 
+Gosto de jogar xadrez e até agora joguei muito na Internet ou 
+em diversos Apps. Mas fiquei frustrado por passar todo esse 
+tempo atrás de uma tela. 
+Comecei a me interessar pelos jogos eletrônicos de xadrez, mas 
+rapidamente percebi que a melhor opção era fazer isso sozinho.
+
+Reservei um tempo para aprender sobre IA, mecanismo de jogo 
+e detecção de peças de xadrez para finalmente projetar meu 
+próprio jogo de xadrez. 
+Portanto, este Instructable descreve um tabuleiro de xadrez 
+automatizado com dois modos de jogo. O primeiro, Humano vs 
+Humano, com controle dos deslocamentos das peças de xadrez. 
+O segundo, Humano vs Computador, com movimento 
+automático das peças de xadrez para o jogador do computador. 
+As peças de xadrez do jogador de computador têm um 
+deslocamento fantasma graças a um mecanismo de movimento 
+oculto. 
+O tabuleiro de xadrez automatizado é composto por uma mesa 
+XY com um eletroímã no carrinho móvel. O tabuleiro de xadrez 
+é colocado acima da mesa XY e as peças de xadrez são 
+equipadas com ímãs. Quando o eletroímã está abaixo da peça 
+de xadrez, um contato magnético pode ser gerado através do 
+tabuleiro de xadrez, de modo que a peça de xadrez siga o 
+carrinho quando ele se mover. 
+Tela LCD e botões arcade são adicionados para interagir com 
+os jogadores (selecionar os modos de jogo, controlar o 
+cronômetro, informar sobre os eventos…) 
+• Dimensões totais: 460 mm x 460 mm x 100 mm 
+• Tamanho das peças de xadrez: Staunton 3 
+• Linguagem de programação: Arduino C/C++ 
+• Alimentação: 12V / 2A
+
+Etapa 1: lista de peças
+
+Mais 2 imagens 
+Tabela XY: 
+• 2 x trilho linear com ranhura em V 20x20, comprimento = 
+345 mm 
+• 1 x trilho linear com ranhura em V 20x20, comprimento = 
+315 mm 
+• 1 x trilho linear com ranhura em V 20x20, comprimento = 
+350 mm
+
+• 1 x trilho linear com ranhura em V 20x20, comprimento = 
+395 mm 
+• Suporte de canto de 10x90 graus 
+Transmissão : 
+• 2 x polias GT2, 20 dentes, furo de 5 mm 
+• 8 x polia desdentada GT2 
+• Cinto 3,5m x GT2 
+Eletrônicos : 
+• 1 x ArduinoNano 
+• 2 x Motor de Passo - Adafruit - Tamanho Nema 17 - 200 
+passos/rev, 12V 350mA 
+• 2 x porta-driver de motor de passo - Pololu - A4988 
+• 1 x Módulo LCD - Serial I2C - 2,6“ 
+• 2 x botão Arcade - Furo 23,5 mm 
+• 1 x eletroímã-força de retenção de 5kg 
+• 1 x diodo de roda livre - 1N4001 
+• 1 x Transistor de Potência - DICA 120 
+• 2 x rolo de interruptor de micro limite 
+• 64 x Interruptor Reed - Diâmetro 2 x 14,5 mm 
+• 1 x Resistor - 1K ohm 
+• 4 x fuga MUX - SparkFun - CD74HC4067 
+• 1 x bloco terminal-tomada DC 
+• Cabeçalhos femininos 
+• 10 x terminal de parafuso 
+• 3 x Placa de Prototipagem - 50 x 100 mm
+
+• 4 x conectores HE10 
+• 8 x cabo de fita - 8 
+Xadrez : 
+• 1 x conjunto de peças de xadrez - Staunton 3 
+• 1 x adesivo de tabuleiro de xadrez - tamanho dos 
+quadrados: 37 x 37 mm 
+• 32 x ímã, diâmetro 8 x 3 mm 
+Caixa : 
+• 1 x placa de espuma - 462 x 462 x 5 mm 
+• 1 x placa de espuma - 462 x 462 x 10 mm 
+• 2 x Placa de espuma - 462 x 80 x 10 mm 
+• 2 x Placa de espuma - 442 x 80 x 10 mm 
+Aparafusamento: 
+• 8 x roda mini v 
+• 4 x espaçador de alumínio - ID: 5mm - Altura: 6mm 
+• 4 x Espaçador Excêntrico - M5 
+• 4 x hexadecimal. Porca de travamento - M5 
+• 4 x hexágono fino. Porca - M5 
+• 8 x Mini Calço de Precisão - OD: 8 mm - ID: 5 mm - 
+Espessura: 1 mm 
+• 26 x Porcas T - M5 
+• 14 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 8 mm 
+• 12 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 12 mm
+
+• 2 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 35 mm 
+• 2 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 30 mm 
+• 2 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 25 mm 
+• 8 x hexadecimal. Parafuso de cabeça cilíndrica com 
+soquete - M5 x 15 mm 
+• 4 x Parafuso de Cabeça Fenda - M2 x 15 mm 
+• 4 x Porca - M2 
+• 8 x hexadecimal. Parafuso de cabeça cilíndrica - M3 x 10 
+mm 
+• 1 x hexadecimal. Parafuso de cabeça cilíndrica - M4 x 15 
+mm 
+• 4 x parafuso de cabeça escareada com fenda - M5 x 20 
+mm 
+• 4 x Porca - M5 
+Modelo 3D: 
+Todas as peças estruturais foram projetadas para impressão 
+3D.
+
+Etapa 2: Tabela XY
+
+Apresentação: 
+A 
+mesa 
+XY 
+realiza 
+os 
+deslocamentos 
+do 
+carrinho 
+eletromagnético (descritos no próximo passo). A mesa XY é 
+composta por dois carros lineares motorizados, um para o 
+movimento do eixo X e outro para o movimento do eixo Y.
+
+Descrição : 
+As principais funcionalidades dos slides lineares (orientação e 
+movimentação) são inspiradas no universo das impressoras 3D. 
+• Orientando: 
+A orientação dos carros lineares é baseada no conceito de 
+ranhura em V. O design da ranhura em V utiliza perfil de alumínio 
+padrão com usinagem em V nas ranhuras centrais, para permitir 
+a centralização de rodas específicas. A viga atua como um trilho 
+linear quando a roda está assentada na ranhura em V. 
+ 
+A principal vantagem destas vigas é combinar duas 
+funcionalidades, fornecer suportes rígidos para a estrutura do 
+chassi e trilhos lineares para o guiamento das rodas.
+
+Para o deslocamento X o guiamento é realizado por meio de 4 
+rodas, duas em cada extremidade das vigas laterais. 
+ 
+Para o deslocamento em Y, o guiamento é realizado também por 
+meio de 4 rodas, duas de cada lado da viga do carrinho. 
+ 
+Para um bom funcionamento do deslizamento, a força de contato 
+ou folga entre as rodas e as vigas é fundamental. Se a folga for 
+muito estreita, o deslizamento será difícil e se for muito frouxa, a 
+orientação não será precisa. 
+É impossível obter uma boa força de contato apenas na 
+construção, portanto um sistema configurado deve ser 
+implementado. Espaçadores excêntricos são usados para definir 
+um bom ajuste de folga entre as rodas e as vigas. Girar os 
+espaçadores excêntricos aumenta ou diminui a folga e 
+proporcionará o melhor compromisso entre a orientação e o 
+deslizamento.
+
+Vista explodida da disposição das rodas: 
+ 
+• Movendo: 
+A motorização do carrinho é baseada no conceito Core XY. 
+Dois motores com duas correias são usados para mover o 
+carrinho seguindo os eixos X e Y. 
+A principal vantagem do conceito Core XY em comparação com 
+a cinemática cartesiana é evitar a presença de um motor a bordo 
+da viga do trole. Assim, a viga horizontal é mais compacta e 
+permite uma maior envolvente de trabalho.
+
+O Core XY requer mais atenção, a disposição das correias é 
+mais complexa e há mais polias para alinhar. Mas o tabuleiro de 
+xadrez automatizado não precisa da mesma precisão que uma 
+impressora 3D. 
+Como funciona : 
+Se apenas um motor girar, será gerado um deslocamento 
+diagonal. Mudar o sentido de rotação do motor dará um 
+deslocamento invertido. 
+Se dois motores girarem no mesmo sentido, será gerado um 
+deslocamento horizontal. 
+Se dois motores girarem em direções opostas, será gerado um 
+deslocamento vertical.
+
+CW: Sentido horário / ACW: Anti-horário 
+ 
+Na inicialização, o X & As coordenadas Y do carrinho serão 
+desconhecidas, portanto, a cada início, o sistema precisa definir 
+0 para os eixos X e Y. A configuração consiste em movimentar 
+o carrinho seguindo os eixos X e Y até os fins de curso. As 
+chaves fim de curso são fixadas no quadro para que a cada nova 
+partida o 0 fique no mesmo local.
+
+Etapa 3: carrinho eletromagnético
+
+Apresentação: 
+O carrinho é montado na mesa XY. Está equipado com um 
+eletroímã. O eletroímã pode gerar um campo magnético que cria 
+a ligação entre o carrinho e as peças de xadrez. Assim, quando 
+o carrinho se move, as peças de xadrez o seguem. 
+Descrição : 
+Um eletroímã é um tipo de ímã que produz um campo magnético 
+a partir de uma corrente elétrica. A principal vantagem de um 
+eletroímã em comparação com um ímã permanente é que o 
+campo magnético é sob demanda. O eletroímã cria um campo 
+magnético somente se uma corrente elétrica passar por ele; se 
+a corrente elétrica for desligada, o campo magnético para. 
+O Arduino não pode alimentar diretamente o eletroímã com seus 
+pinos de saída porque eles não conseguem fornecer energia 
+suficiente. Portanto, o eletroímã deve estar conectado a uma 
+corrente elétrica independente. Um componente de transistor de 
+potência pilotado pelo Arduino é usado como uma chave para 
+alimentar o eletroímã quando necessário. A vantagem do 
+transistor de potência é que uma amperagem baixa é suficiente 
+para controlá-lo, podendo ser pilotado pelo Arduino.
+
+Transistor de potência: 
+ 
+O transistor de potência é usado como uma chave. Se receber 
+baixa potência no pino B (Base), permite que a corrente flua do 
+pino C (Coletor) até o pino E (Emissor). 
+ 
+Etapa 4: tabuleiro de xadrez
+
+Apresentação: 
+O papel do tabuleiro de xadrez é, obviamente, representar as 64 
+casas pretas e brancas, mas não só. Ele também precisa 
+localizar a posição das peças de xadrez e interagir com o jogador 
+humano. 
+Descrição : 
+• Tabuleiro de xadrez: 
+Os tabuleiros de xadrez padrão são feitos de material de madeira 
+de alta densidade e alta espessura, o que pode perturbar 
+fortemente o campo eletromagnético. 
+O material de espuma foi o preferido. É mais fácil de modelar, 
+tem boa planicidade e não perturba tanto o campo magnético. 
+Foi utilizada uma placa de espuma de 5mm de espessura. 
+Nele foi aplicado um adesivo de tabuleiro de xadrez para 
+materializar as casas de xadrez. Você pode encontrar na internet 
+alguns adesivos de tabuleiro de xadrez sob demanda com suas 
+próprias dimensões. 
+• Localização de peças de xadrez:
+
+A localização das peças de xadrez é essencial. O objetivo é 
+informar ao software o deslocamento das peças de xadrez do 
+jogador humano. 
+Sensores magnéticos são colocados abaixo de cada quadrado 
+de peça de xadrez. Assim, quando o ímã da peça de xadrez 
+estiver acima do sensor, o sensor será ativado. Ao comparar os 
+sensores 
+ativados 
+antes 
+e 
+depois 
+do 
+movimento, 
+o 
+deslocamento da peça de xadrez pode ser determinado. 
+O sensor magnético ou Reed switch é composto por um 
+envelope de vidro hermético com dois contatos metálicos 
+flexíveis em seu interior. O contato normalmente está aberto 
+quando não há campo magnético e fechado se houver campo 
+magnético. 
+ 
+As 64 casas de xadrez devem ser equipadas com sensores para 
+garantir o monitoramento adequado e evitar a perda de 
+deslocamentos. 
+Isso significa 64 sensores, sendo impossível conectar todos eles 
+diretamente ao Arduino Nano, simplesmente não há pinos 
+suficientes nas placas. Multiplexadores são usados para 
+aumentar os pinos do Arduino. Os multiplexadores são descritos 
+na etapa 7. 
+• Interface do jogo: 
+Botões de arcade e tela LCD são colocados no tabuleiro de 
+xadrez para interagir com os jogadores. Permitem definir os 
+modos de jogo e especificar se os movimentos não são 
+autorizados.
+
+Eles também permitem gerenciar o tempo de contagem 
+regressiva, são alocados 10 minutos para cada jogador. Cada 
+jogador deve pressionar seu botão no final do seu turno. Assim, 
+sua contagem regressiva é interrompida e a contagem 
+regressiva do oponente é iniciada. 
+ 
+Etapa 5: caixa 
+ 
+Apresentação: 
+A caixa permite ocultar o mecanismo, dar uma boa estética e 
+fixar a distância entre o eletroímã e o tabuleiro de xadrez. 
+Descrição : 
+Nada complicado, apenas algumas placas de espuma de 10 mm 
+de espessura são montadas para formar uma caixa. 
+O Foamboard foi preferido por sua facilidade de construção. 
+A altura das paredes da caixa é importante, pois fixa a distância 
+entre o eletroímã e o ímã das peças de xadrez. Dependendo da 
+sua configuração e seleção do material, você precisa investigar
+
+a boa distância para permitir uma boa interação do campo 
+magnético e permitir que as peças de xadrez se movam. 
+ 
+Um orifício em uma parede é adicionado para conectar o 
+conector da fonte de alimentação. 
+Etapa 6: IA – Inteligência Artificial 
+ 
+Apresentação: 
+No modo humano versus humano, o software verificará se os 
+movimentos estão autorizados e para o modo humano versus 
+computador, o software precisa decidir quais serão os próximos 
+melhores movimentos. Um algoritmo de IA (Inteligência Artificial) 
+é usado para tomar as decisões. 
+Descrição: 
+A IA proposta por este Instructable é baseada em uma já 
+existente. Existem vários programas eficientes de xadrez de IA 
+disponíveis na Internet.
+
+Para este projeto, o programa de xadrez Micro Max da H.G. 
+Muller e portado para Arduino por Diego Cueva foi o preferido. É 
+muito inteligente, eficiente e é particularmente pequeno (<2kB). 
+A outra vantagem principal é que este programa é de código 
+aberto, para que possamos brincar livremente com ele, 
+AGRADECIMENTOS especiais a H.G. Muller & Diego Cueva. 
+O princípio deste programa é baseado nos algoritmos Minimax 
+(ou MinMax) e Alpha-Beta. 
+• Mínimo: 
+O algoritmo Minimax funciona exatamente como um cérebro 
+humano. Quando chegar a sua vez de jogar, a IA analisará todos 
+os seus próximos movimentos possíveis. Avalie todas as 
+respostas possíveis do jogador Humano e quais serão suas 
+respostas etc., etc. 
+Esta análise pode ser representada por um gráfico de árvore de 
+decisão: 
+ 
+Este gráfico não representa um jogo de xadrez real, são tantas 
+caixas para mostrar, é uma versão simplificada. 
+No topo (A), a posição atual da peça de xadrez a ser analisada 
+e o objetivo é definir qual a melhor jogada a ser jogada (B1 ou 
+B2).
+
+Cada caixa azul (B, D) representa todos os movimentos 
+possíveis para a IA e cada caixa verde (C, E) todos os 
+movimentos possíveis para o humano. 
+Como funciona : 
+As caixas inferiores (E) são classificadas por uma função de 
+avaliação que lhes atribuirá um valor. A classificação é calculada 
+dependendo dos seguintes critérios: 
+• Valores restantes das peças de xadrez 
+• Posicionamento de peças de xadrez 
+• Peão isolado 
+• Posição de xeque ou xeque-mate 
+O objetivo da função de avaliação é avaliar a posição atual das 
+peças de xadrez para saber se a posição é vantajosa ou não. 
+Quanto maior a classificação, maior a chance de a IA vencer. 
+ 
+Após a avaliação de todas as caixas inferiores, suas 
+classificações sobem na estrutura em árvore. 
+Para o turno do jogador do computador, a IA manterá o valor 
+máximo, o que maximiza sua chance de vitória. E para o turno
+
+do jogador humano, a IA considerará que o humano fará sua 
+melhor jogada, de modo que manterá o valor mínimo, o que 
+minimizará a chance de vitória da IA. Daí o nome de Minimax. 
+ 
+A classificação da caixa E3 vai até a caixa A, então a melhor 
+jogada para jogar pela IA é B1. 
+Para alguns movimentos a serem avaliados e uma baixa 
+profundidade de jogo (como jogo da velha), este algoritmo é 
+pertinente. Mas para um jogo de xadrez com muitos movimentos 
+para avaliar e com maior profundidade de jogo, os recursos de 
+processador necessários para avaliar todas as possibilidades 
+não são possíveis com uma placa Arduino. 
+Precisamos podar os ramos e esse é o papel do algoritmo Alfa-
+Beta. 
+• Alpha Beta: 
+Não é necessário avaliar todos os ramos da árvore de decisão. 
+Se a classificação de uma caixa não for pertinente, não há razão 
+para continuar a avaliar o resto desse ramo. É exatamente o 
+papel do algoritmo alfa-beta, é podar a árvore de decisão. 
+Por exemplo, vamos nos concentrar no interesse de avaliar a 
+posição E5 do gráfico da árvore de decisão acima.
+
+O irmão do cargo E5 é o cargo E4, eles estão no mesmo ramo. 
+Seu pai D2 selecionará o Min, portanto se a posição E5 for 
+avaliada acima de 2, ela não será retida e se estiver abaixo de 
+2, será retida. Assim, qualquer que seja o valor da posição E5, 
+podemos ter a certeza que o rating de D2 não pode ser superior 
+a 2. 
+Além disso, o avô C1 das posições E4 e E5 também é avô das 
+posições E1, E2, E3, e escolherá o Max dos seus dois filhos D1 
+e D2. 
+Assim, para alterar o valor do avô C1, o segundo irmão D2 deve 
+ser superior ao primeiro irmão D1. E não pode ser o caso porque 
+D2 não pode estar acima de 2. 
+Portanto, não é necessário continuar avaliando esse ramo. 
+ 
+Todas as caixas cinzas não precisam ser exploradas. 
+O algoritmo Alfa-Beta compara todos os ramos com o objetivo 
+de podar a árvore de decisão e reduzir o tempo de cálculo. 
+ 
+Etapa 7: fiação
+
+Motor: 
+Os motores de passo utilizados são bipolares, o que significa 
+que necessitam de um circuito de ponte H dupla para alimentar 
+alternativamente suas bobinas. A placa driver do motor de passo 
+A4988 foi selecionada para controlar os motores. 
+Trocar: 
+Os botões de arcade e interruptores de limite são conectados ao 
+Arduino com os resistores pull up internos. O botão arcade A e 
+a chave fim de curso X estão conectados ao mesmo pino, o 
+mesmo para o botão arcade B e a chave fim de curso Y. O 
+número de pinos disponível é limitado, portanto dois pinos são 
+usados para 4 switches. Os botões arcade e os interruptores 
+limitados não são usados ao mesmo tempo, portanto não há 
+risco de confusão. 
+Eletroímã: 
+O transistor de potência é usado como uma chave para pilotar o 
+eletroímã e o diodo de roda livre é usado para proteger o Arduino 
+da corrente de descarga, consulte a etapa 3. 
+Tela: 
+A tela LCD é conectada via comunicação I2C (Inter Integrated 
+Circuit), com o objetivo de limitar o número de pinos utilizados,
+
+são necessários apenas dois pinos para comunicação com a tela 
+(SCL e SDA). 
+Isso significa que para a placa Arduino nano, a linha SCL deve 
+ser conectada ao pino A5 e a linha SDA ao pino A4. 
+Interruptor Reed: 
+São 64 reed switches, é impossível conectá-los diretamente à 
+placa 
+Arduino, 
+não 
+há 
+pinos 
+suficientes 
+disponíveis. 
+Multiplexadores são usados para aumentar o número de pinos. 
+Apenas 9 pinos são necessários para conectar os 64 
+interruptores reed. 
+Um multiplexador pode controlar 16 sensores, então 4 
+multiplexadores foram usados para os 64 sensores. 
+Os reed switches são conectados aos multiplexadores por meio 
+de pinos de canal (C0 a C15). Cada pino do canal possui um 
+endereço binário específico de 4 bits. Por exemplo: 
+- C0 = 0000 
+- C1 = 0001 
+- C4 = 0100 
+- C10 = 1010 
+Os quatro pinos de seleção (S0 a S3) permitem ativar o canal. 
+Ou seja, se S0=0, S1=1, S2=1 e S3=1 o canal C7 será ativado. 
+Caso você não perceba porque 0111 corresponde a 7, talvez 
+seja hora de revisar como contar em binário;). 
+Uma vez selecionado o canal, seu sinal do sensor reed pode ser 
+recuperado por meio do pino SIG. 
+Assim, para saber o estado de todos os sensores, o primeiro 
+multiplexador é ativado, todos os canais são explorados e o 
+multiplexador é desligado. O segundo multiplexador é ativado, 
+todos os canais são explorados e assim por diante para os 
+demais multiplexadores.
+
+Etapa 8: Código 
+ 
+Apresentação: 
+O código orienta todas as ações do tabuleiro de xadrez 
+automatizado. 
+Interaja 
+com 
+os 
+jogadores, 
+detecte 
+os 
+movimentos humanos do jogador, calcule os movimentos da IA 
+e controle os motores da mesa XY. 
+Descrição: 
+• Em geral : 
+Este instrutível é baseado no ambiente Arduino e na linguagem 
+C, se você não estiver familiarizado com eles, precisará de um
+
+tempo para treiná-lo. Existem muitos Instrutables e tutoriais 
+eficientes na Internet para ajudá-lo. 
+Para usar o código, você precisa instalar estas duas bibliotecas: 
+- Fio.h 
+- LiquidCrystal_I2C.h 
+Para melhor legibilidade, as variáveis globais e a IA foram 
+colocadas em arquivos separados. 
+- Global.h 
+-Micro_Max.h 
+-Micro_Max.cpp 
+• IA: 
+A IA proposta é baseada no conceito Minimax, veja passo 6. 
+O código AI é extremamente otimizado, todas as variáveis têm 
+um nome de caractere, então para o significado das variáveis 
+clique neste link. 
+Detecção de movimentos do jogador humano: 
+O IA precisa conhecer o deslocamento dos jogadores humanos 
+para realizar seu cálculo. Para isso necessita conhecer as 
+coordenadas de partida e as coordenadas de chegada do 
+movimento. 
+As coordenadas são definidas por uma letra para a coluna e um 
+número para a linha. 
+Por exemplo, deslocamento do peão branco central: e2e4
+
+Representação do jogo de xadrez do monitor serial 
+(Letra maiúscula para o jogador branco e minúscula para o 
+jogador preto) 
+Para determinar o deslocamento do jogador humano, o código 
+compara o status dos reed switches antes e depois do 
+movimento. Para o exemplo acima (e2e4), os mapeamentos do 
+interruptor reed serão exibidos: 
+ 
+Os reed switches são conectados por meio do pull up interno do 
+Arduino, ou seja, para presença de peça de xadrez o sensor 
+indica 0 e 1 se não houver peça de xadrez. 
+Portanto, se 0 virar 1 significa partida do movimento e se 1 virar 
+0 significa chegada. 
+• Tabela XY: 
+A casa de partida e a casa de chegada do movimento são 
+definidas. Para o exemplo acima (e2e4), o deslocamento
+
+horizontal será 0 porque a saída e a chegada estão na mesma 
+coluna (e). E o deslocamento vertical será de 2 quadrados 
+porque há 2 quadrados de diferença entre a saída (2) e a 
+chegada (4). Assim, a direção e a distância são conhecidas, os 
+motores podem ser acionados. 
+Movimentos especiais: 
+Alguns movimentos de peças de xadrez precisam cruzar outras 
+peças de xadrez, como deslocamentos de bispo e roque. Para 
+evitar qualquer contato entre as peças de xadrez, o caminho de 
+deslocamento impõe a movimentação entre duas casas e não 
+para o meio. 
+ 
+O mesmo para a captura. Uma peça capturada é empurrada 
+para fora do tabuleiro, esse deslocamento segue a intersecção 
+de duas casas e não passa pelo meio das casas. 
+ 
+Etapa 9: montagem
+
+Mais 2 imagens 
+Tabela XY e Carrinho :
+
+1. Monte o carrinho 
+2. Deslize o carrinho até a viga do carrinho. Ajustadas as 
+folgas de fricção com os espaçadores excêntricos visando 
+obter um deslizamento fácil. Monte e adicione os dois 
+suportes de polias em cada extremidade da viga do trole 
+3. Monte a estrutura principal. Certifique-se de ter um bom 
+paralelismo entre as vigas. 
+4. Monte os suportes da polia 
+5. Deslize a viga do carrinho até a estrutura principal e 
+ajuste as folgas de fricção. Adicione os suportes da polia 
+6. Adicione os motores de passo 
+7. Adicione os cintos. Ajuste o comprimento das correias 
+para ter uma boa condução dos motores, novamente é 
+um compromisso entre muita tensão e muita folga.
+
+Tabuleiro de xadrez: 
+1. Na face superior, coloque o adesivo e faça os furos para 
+os botões do arcade e a tela lcd 
+2. Para a face inferior, desenhe o tabuleiro de xadrez 
+correspondente à face superior com o objetivo de colocar 
+as casas do tabuleiro na face inferior no mesmo local que 
+as casas do tabuleiro superior 
+3. Monte os 8 conjuntos dos 8 interruptores reed por meio 
+de cabo plano. A distância entre os sensores reed deve
+
+corresponder ao tamanho do quadrado do tabuleiro de 
+xadrez. 
+4. Cole os conjuntos de interruptores reed, adicione os 
+botões arcade e a tela LCD 
+5. Finalize a fiação 
+ 
+Peças de xadrez : 
+1. Removido o feltro inferior 
+2. Cole o ímã e seu suporte dentro das peças de xadrez
+
+Caixa : 
+1. Corte as paredes seguindo as dimensões dadas no passo 
+2, tome cuidado para ter um bom paralelismo das laterais 
+das paredes 
+2. Monte as paredes com cola 
+ 
+Eletrônico: 
+1. Monte as placas de prototipagem 
+2. Coloque os cabeçalhos e os conectores 
+3. Cole as placas de prototipagem em seus suportes. Solde 
+os conectores, conectores e fios seguindo o esquema de 
+fiação, consulte a etapa 8 
+4. Coloque as placas em seus suportes
+
+Etapa 10: Conclusão 
+ 
+Jogar xadrez online traz muitas vantagens, você pode jogar a 
+qualquer hora, com vários jogadores diferentes (humanos ou IA), 
+gravar o jogo e reservar um tempo para analisá-lo. Mas jogar 
+xadrez de verdade traz outra visão do jogo, uma experiência 
+diferente. Não fique atrás de uma tela, toque nas peças de 
+xadrez, tenha a visão 3D que permite pensar de forma diferente. 
+Este Instructable propõe combinar as vantagens destes dois 
+mundos, aproveitar os benefícios do modelo digital e as
+
+vantagens de jogar xadrez real com um toque adicional de 
+diversão para os deslocamentos fantasmas. 
+Além disso, a IA proposta para este Instructable é poderosa, mas 
+limitada devido ao desempenho da placa Arduino. Mas é 
+possível adicionar um sistema de computação mais poderoso 
+com uma placa Raspberry ou com um PC. 
+Outro recurso útil, você pode criar sua própria IA ou melhorar a 
+existente adicionando algumas funcionalidades. Por exemplo, 
+eu gosto da abertura escocesa, então adicionei vários 
+lançamentos desta abertura na IA (os 6 primeiros movimentos 
+são selecionados aleatoriamente entre várias aberturas 
+escocesas e a IA assume o revezamento para o resto do jogo) 
+no objetivo de praticar e melhorar minha compreensão. 
+Eu realmente espero que este Instructable inspire você e você. 
+dar-lhe o desejo de ser criativo.

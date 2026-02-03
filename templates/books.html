@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livros - BooksKDP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">BooksKDP</a>
+            <div class="nav-links">
+                <a href="/">Dashboard</a>
+                <a href="/books" class="active">Livros</a>
+                <a href="/authors">Autores</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1>Livros</h1>
+
+        <!-- Filters -->
+        <div class="filters-panel">
+            <form method="GET" class="filters-form">
+                <div class="filter-group">
+                    <label>Buscar:</label>
+                    <input type="text" name="q" value="{{ query }}" placeholder="Título ou autor...">
+                </div>
+                <div class="filter-group">
+                    <label>Idioma:</label>
+                    <select name="language">
+                        <option value="">Todos</option>
+                        {% for lang in languages %}
+                        <option value="{{ lang.code }}" {% if language == lang.code %}selected{% endif %}>
+                            {{ lang.code }} ({{ "{:,}".format(lang.count) }})
+                        </option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Status:</label>
+                    <select name="status">
+                        <option value="" {% if not status %}selected{% endif %}>Todos</option>
+                        <option value="processed" {% if status == 'processed' %}selected{% endif %}>Processados</option>
+                        <option value="pending" {% if status == 'pending' %}selected{% endif %}>Não Processados</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn">Filtrar</button>
+                <a href="/books" class="btn btn-secondary">Limpar</a>
+            </form>
+        </div>
+
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="alert alert-{{ category }}">{{ message }}</div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        <!-- Books Table -->
+        <div class="panel">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Título</th>
+                        <th>Autor</th>
+                        <th>Idioma</th>
+                        <th>Status</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for book in books %}
+                    <tr>
+                        <td>{{ book.id }}</td>
+                        <td>
+                            <a href="/book/{{ book.id }}">
+                                {{ book.title[:50] }}{% if book.title|length > 50 %}...{% endif %}
+                            </a>
+                        </td>
+                        <td>{{ book.author_name[:30] if book.author_name else 'Desconhecido' }}</td>
+                        <td>{{ book.language }}</td>
+                        <td>
+                            {% if book.processado %}
+                            <span class="badge badge-success">Processado</span>
+                            {% elif book.downloaded %}
+                            <span class="badge badge-warning">Baixado</span>
+                            {% else %}
+                            <span class="badge badge-secondary">Não baixado</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <div class="action-buttons">
+                                <a href="/book/{{ book.id }}" class="btn btn-sm">Ver</a>
+                                <form method="POST" action="/book/{{ book.id }}/toggle-processed" style="display:inline;">
+                                    {% if book.processado %}
+                                    <button type="submit" class="btn btn-sm btn-secondary">Desmarcar</button>
+                                    {% else %}
+                                    <button type="submit" class="btn btn-sm btn-success">Marcar</button>
+                                    {% endif %}
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="6" class="empty-message">Nenhum livro encontrado</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination">
+            {% if current_page > 1 %}
+            <a href="?page={{ current_page - 1 }}&q={{ query }}&language={{ language }}&status={{ status }}" class="btn btn-sm">&laquo; Anterior</a>
+            {% endif %}
+
+            <span class="page-info">Página {{ current_page }}</span>
+
+            {% if books|length == per_page %}
+            <a href="?page={{ current_page + 1 }}&q={{ query }}&language={{ language }}&status={{ status }}" class="btn btn-sm">Próxima &raquo;</a>
+            {% endif %}
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>BooksKDP - Sistema de Processamento de Livros</p>
+        </div>
+    </footer>
+</body>
+</html>

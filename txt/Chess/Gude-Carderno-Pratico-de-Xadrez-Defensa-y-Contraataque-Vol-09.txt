@@ -1,0 +1,2183 @@
+cuadernos prdcticos 
+deAJEDREZ m 
+ANTONIO GUDE 
+DEFENSA 
+y contraataque 
+128 ejercicios tematicos para 
+un entrenamiento 
+estructurado
+
+Editor: JesUs Domingo 
+Coordinaci6n editorial: Paloma Gonz4lez 
+No esl" pcrmilido 10 reproduc:cion 10lal 0 partial de esle libro. ni lampoco su lralamienlo 
+inrOrm"lico. ni II lransmision de ningunl rorma 0 por cualquier medio. ya sea electr6nico. 
+mcainico. por rOlocopia. por regislro u olros m4!lodos. sin el pcrmiso previo )' por cscrilo 
+de los lilullres del Cop.vright. 
+© 2008 by Antonio Gude Fernandez 
+© 2008 bv EDICIONES nrrOR, S.A. 
+Marques de Urquijo. 34. 28008 Madrid 
+T d.: 91 5599832. Fax: 91 541 02 35 
+E-mail: info@edicionestutor.com 
+www.edicionestutor.com 
+• 
+Socio fundador 
+I 
+de la World Sport Publishers' Association 
+1 __ (WSPA) 
+~taquetaci6n: Juan Morano 
+ISBN: 978-84-7902-706-3 
+Dep6sito legal: M-9042-2008 
+Impreso en Graficas Muriel, S.A. 
+Impreso en Espana - Printed in Spain 
+~ 
+-
+~ 
+"--1 
+Sumar,;. 
+' . ,: 
+_ 
+_ 
+..... _ . 
+_ . 
+_J 
+pags. 
+IDtroduccioD 
+3 
+1 Posidones dBsicas 
+Ejercicios 1 - 16 
+5 
+2 Defensa 
+Ejercicios 17 - 80 
+9 
+3 Contrastaque 
+Ejercicios 81 - 112 
+25 
+4 Finales y estudios 
+Ejercicios 113 - 128 
+33 
+Soludones 
+37
+
+Introducc;"n 
+ala serie CUADERNOS pRA.cncos DE AJEDREZ 
+L a teoria trata de establecer modelos 
+did4cticos en el tratamiento de posi-
+ciones, 0 en el estudio de los distintos te-
+mas t~cnicos, pero la pr4ctica se encarga 
+de crear el caos con su diversidad, 10 que 
+constituye precisamente uno de los gran-
+des atractivos del ajedrez. 
+Los manuales Escuela de Ajedrez (1 y 
+2) tienen una marcada orientaci6n pr4cti-
+ca, como 10 demuestra el hecho de que, 
+adem4s de las numerosas posiciones co-
+mentadas en el cuerpo principal, ambos li-
+bros contengan un bloque adicional de 
+160 y 128 ejercicios, respectivamente. 
+No obstante, el esfuerzo por sistema-
+tizar el material, reduci~ndolo a modelos 
+v4lidos, en aras de la mejor orientaci6n di-
+d4ctica posible, no basta para que el juga-
+dor pueda captar la variedad y riqueza del 
+ajedrez de competici6n. 
+Esta iniciativa editorial responde a la 
+necesidad del jugador activo de cuItivar 
+un entrenamiento sistem4tico, y estos cua-
+deroos, con 128 ejercicios cad a uno, en 
+tres niveles de dificultad, contribuir4n a 
+resolver ese aspecto, porque vienen a ser 
+parques lemalicos, con posiciones que am-
+plian aspectos monogrMicos desarroUados 
+te6ricamente en los manuales. 
+3 
+Cada cuademo estar4 dividido en sec-
+ciones, y los ejercicios de ~tas son califi-
+cados con una, dos 0 tres estrellitas, segUn 
+el grado de dificultad, conforme a la t~cDi­
+ca empleada en Escuela de Ajedrez (1 y 2). 
+Medir la dificultad de un ejercicio no 
+es f4cil. No s610 porque la valoraci6n obje-
+tiva sea en si misma dificil, sino porque el 
+grado de dificultad es distinto para cada 
+persona. La aspiraci6n de estos cuademos 
+es Uegar al mlis amplio n1lmero posible de 
+ajedrecistas, pues s610 asi se justificar4 su 
+publicaci6n. En t~rminos generales, creo 
+que el tiempo de resoluci6n debe ser de: 
+• Primer nivel (1 estreUa) 
+1-3 minutos 
+• Segundo Divel (2 estreUas) 
+5 - 10 minutos 
+• Tercer Divel (3 estreUas) 
+10 - 20 minutos. 
+EI tiempo de reflexi6n no tiene por 
+qu~ ser excesivamente riguroso. Los auto-
+didactas pueden guiarse por esta estima-
+ci6n orientadora, mientras que ~mo 
+ya se 
+ha sugerido en Escuela de Ajedrez-Io ideal 
+es que, en su caso, el instructor asigne a un 
+grupo de jugadores 0 a un jugador determi-
+nado el tiempo exacto que considere oportu-
+no para cada ejercicio, 0 bloque de ejercicios.
+
+DEFENSA Y CONTRAATAQUE 
+En ajedrez. la defensa es vital. Cuando es-
+ta siendo atacado. el jugador esta obligado 
+a defenderse con tenacidad. tratando de 
+explotar las opciones que a menudo Ie 
+brinda el impulso del atacante. Rcsulta 
+sorprendente la cantidad de partidas que 
+en la practica pucdcn salvarse gracias a 
+una ferrea defensa. 
+Cuando la of ens iva va estrellandose 
+hasta lIegar a pun to muerto. el entonces 
+defensor puede asumir la iniciativa con el 
+cOlltraaraqlle. culminacion optima de la 
+defensa que permite invertir los papeles. 
+general mente con resultados previsiblcs. a 
+saber: si el ataque no ha triunfado. el con-
+traataque tiene todos los numeros para 
+imponerse. puesto que las piezas atacan-
+tes suelen quedar descoordinadas. dejan-
+do numerosos puntos debiles en su posi-
+ci6n. 
+Para progresar en ajedrez s610 se conoce una f6rmula: jugar eI mayor numero posible 
+de tomeos. junto con el estudio te6rico y el analisis de las propias partidas. EI comple-
+mento ideal de esa formula es. como recomiendan muchos grandes maestros. que el ju-
+gador desarrolle y perfeccione su capacidad tactica y estrategica. mediante la resolu-
+cion de numerosos ejercicios. especialmente seleccionados por su utilidad. Como los 
+que aqui Ie ofrecemos. 
+SIGN OS CONVENCIONALES 
+En ajedrez se utiliza una serie de signos. universalmente aceptados. para complemen-
+tar 0 matizar el valor de una jugada. 0 bien para evaluar posiciones. Los principales. em-
+pleados a 10 largo de la obra. son estos: 
+x 
+Captura 
+Buena jugada 
++ 
+Jaque 
+" 
+Jugada excelente 
+++ 
+Jaque mate 
+'? 
+Malajugada 
+± 
+Ventaja de las blancas 
+?? 
+Grave error 
+=+= 
+Ventaja de las negras 
+!? 
+Jugada interesante 
++-
+Ventaja decisiva de las blancas 
+?I 
+Jugada dudosa 
+-+ 
+Ventaja dccisiva de las negras 
+= 
+Posicion igualada (0 tablas) 
+0-0 
+Enroque corto 
+00 
+Posici6n complicada. 
+0-0-0 
+Enroque largo 
+dificil de evaluar 
+4
+
+1. POSICIONES CLASICAS 
+1 
+Jllegan negras 
+* 
+Las blancas acaban de jugar 4S 'irb6+. 
+pero se llevaron una sorpresa mayUscula. 
+i,Cual rue la respuesta de su rival? 
+2 
+Jllegan blancas 
+* 
+Las negras han jugado ...&5-84. crean-
+do 10 que parece una posici6n insosteni-
+ble. i,Que sucedi6? 
+5 
+3 
+Jllegan blancas 
+* 
+Ante la amenaza ... lIVh3+ 
+y 
+... lIVxg4++. i,que pueden responder las 
+blancas? 
+4 
+Juegan negras 
+* 
+La posici6n es extraiia. pero es obvio 
+que la ventaja esta dellado blanco. i,Que 
+pueden hacer las negras?
+
+POSICIONES CLAslCAS 
+S 
+Juegan negras 
+** I--
+Ii~_ -
+La amenaza "xh6++ no parece tener 
+soluci6n. pero si indaga en los entresijos 
+del tablero.la encontrani. i,Cmil es? 
+6 
+Juegan negras 
+** 
+Las blancas han jugado 21 ttJxt7. que 
+parecc fuerte. i,Existe una buena defensa 
+para las negras? 
+6 
+7 
+Juegan negras 
+** 
+Las blancas acaban de jugar 32 b4-bS. 
+como defensa activa. i.Es posible tomar la 
+dama blanca? i,Cual es la mejor replica? 
+8 
+Juegan negras 
+** 
+Las negras jugaron aqui 1 ••• ttJg3+. 
+para responder a 2 hxg3 con 2 ... l:l f6. 
+i, Tienen defensa las blancas?
+
+POSICIONES CLAslCAS 
+9 
+J"egan blancas 
+** 
+Con -Wg4-b3. las negras espeeularon 
+con un trueo eombinativo que se vuelve en 
+su eontra.l.C6mo se salvan las blaneas? 
+10 
+Juegan negras 
+** 
+La doble amenaza de mate y la gran 
+ventaja material hacen la situaci6n de las 
+negras desesperada. Pero ... 
+7 
+11 
+J"egan blancas 
+** 
+Las blaneas pareeen totalmente perdi-
+das. pero siempre hay que busear la cara 
+oculta de la verdad ... 
+u 
+Juegan negras 
+** 
+La amenaza Wff6 eondiciona toda la 
+posici6n. l.C6mo deben las negras afron-
+tarla?
+
+POSICIONES CLAslCAS 
+13 
+Jllegan negras 
+*** 
+Las blancas amenazan mate en una y. 
+si la torre de rs se mueve. en cuatro. No 
+parece haber forma de evitarlo. i,o sf? 
+14 
+JlIegan blancas 
+*** 
+La te6rica ventaja blanca no significa 
+nada y 10 cierto es que. con su ultima juga-
+da. 41 _ l:l h3. las negras crean problemas. 
+i, Que hacer? 
+8 
+15 
+Jllegon negras 
+*** 
+La dama negra esta perdida. pero 
+i,tambien 10 esta la partida? i,Que sugiere? 
+16 
+JlIegan negras 
+*** 
+Las blancas tienen posici6n dominan-
+te y amenazan g7. i,C6mo se defenderfa 
+usted? i,Con ... l:lSe7 •... l:lSe7. 0 alguna 
+otra idea?
+
+2. DEFENSA 
+17 
+J"egall blallc:as 
+** 
+EI doble ataque a torre y alfil parcce 
+dcjar a las blancas sin muchas opciones. 
+Pero alguna tienen ... 
+18 
+J"egan Ilegras 
+** 
+Las blancas han jugado 16 e5. y las nc-
+gras rcplicaron con sorprendente facilidad 
+y eficiencia. i.C6mo? 
+9 
+19 
+J"egan IIegras 
+** 
+La idea es ex pulsar a la dama negra 
+para entrar en f7. i.C6mo refutan las ne-
+gras las intenciones de su oponente? 
+20 
+J"egall blullc:as 
+** 
+Las negras acaban de jugar 17 ••. 
+llJf4xgl. i.Como se refula esa captura?
+
+DEFENSA 
+21 
+Juegan blancas 
+** 
+i,Se Ie ocurre alguna defensa para las 
+blancas? Ganadora. por supuesto. 
+22 
+Juegan blancas 
+** 
+La amenaza ... .i.g4+ deberia preocu-
+par a las blancas. i,Oue soluci6n propone? 
+10 
+23 
+Jilegan blancas 
+** 
+Las negras se han adelantado en el 
+ataque y el alfil blanco est a encerrado. 
+i,C6mo pueden defenderse las blancas? 
+Jilegan blancas 
+** 
+Con su ultima jugada (22 _ .i.h4). las 
+negras plantean serias amenazas al rey 
+blanco. i,Cual es la mejor defensa?
+
+DEFENSA 
+15 
+Juegan negras 
+** 
+En esla situaci6n, que parece indefendi-
+ble para las negras. las blancas acaban de 
+jugar 23 l:txg6. i,Cual es su respuesta? 
+JlIegall lIegras 
+** 
+Con su torre comprometida en la ma-
+niobra precedente. las negras deben neu-
+tralizar las amenazas contrarias. 
+11 
+27 
+Juegan negras 
+** 
+- -~ 
+8D _ ................. . 
+.................. 
+---
+Las blancas despJiegan una importan-
+te presion contra el enroque, en igualdad 
+de condiciones materiales. i,Que haria? 
+28 
+Juegan negras 
+** 
+La amenaza lOg6+. ganando la dama, 
+es mas que evidente. i,Hay alguna defensa 
+aceptable?
+
+DEFENSA 
+29 
+JlIegan negras 
+** 
+Con varias piezas atacadas. la situ a-
+ci6n no esta clara. Pero las negras encuen-
+tran un procedimiento convincente ... 
+30 
+Juegan blancas 
+** 
+EI problema es claro: evitar el mate 
+en a1. C6mo impedirlo ya es otra cuesti6n. 
+12 
+31 
+Juegan negras 
+** 
+La situaci6n de las negras parece mas 
+que comprometida. pero 10 cierto es que 
+su posici6n resiste. i,C6mo? 
+32 
+Juegan negras 
+** 
+Las blancas acaban de jugar 18 :e3. 
+i,De que forma conduciria usted la de-
+fensa?
+
+DEFENSA 
+33 
+Juegan negras 
+** 
+Con 9 ~e5-c6?las blancas han come-
+lido una importante pifia. como demostra-
+ra de inmediato su rival. 
+34 
+Juegan negras 
+** 
+Las blancas acaban de capturar el ca-
+ballo de f6. i,Cual es la mejor continuaci6n 
+para las negras? 
+13 
+35 
+Jllegan blancos 
+** 
+El ataque parece haber fracasado. La 
+cuesti6n ahora es: iPueden las blancas sal-
+varse? 
+36 
+Jllegan blancas 
+** 
+La doble amenaza ... ~d3 y. sobre to-
+do .... e4. definen la inferioridad de las 
+blancas. que deben buscarse la vida. iOue 
+haria?
+
+DEFENSA 
+37 
+Jllegan negras 
+** 
+Con dos piezas atacadas. se requiere 
+Mucha precisi6n y destreza por parte de 
+las negras. para salir airosas. 
+38 
+Jllegan negras 
+** 
+Los dos peones de ventaja y la activi-
+dad de las piezas blancas hacen que las 
+perspectivas de las negras sean sombrias. 
+i,Que se Ie ocurre? 
+14 
+39 
+Jllegan negras 
+** 
+Las blancas tienen una peligrosa ror-
+maci6n de ataque. i,C6mo la podra desac-
+tivar su oponente? 
+40 
+Jllegan negras 
+** 
+La torre blanca acaba de capturar un 
+pe6n en e6. i, C6mo deben responder las 
+negras?
+
+DIFENSA 
+41 
+Jllegan lIegras 
+** 
+Las blancas han sacrificado pieza para 
+explotar su peon pasado y la precariedad 
+de la posici6n negra. i Cual es su propues-
+ta de fens iva? 
+42 
+Juegan lIegras 
+** 
+43 
+Juegall blallcas 
+** 
+La primera jugada es practicamente 
+unica. pero 10 importante es que trace un 
+plan de campana en toda regia. 
+44 
+Jllegan negras 
+** 
+En su impulsivo ataque. las blancas 
+Las blancas han creado una amenaza-
+han cometido un error. con 43 i.. xh6. 
+dora constelaci6n de piezas y peones en el 
+iC6mo 10 refutaria usted? 
+flanco de rey. iQue hacer? 
+15
+
+DEFENSA 
+45 
+Jllegan negras 
+** 
+i. Cual es el mejor plan defensivo para las 
+negras? De momento. la torre de e7 esta 
+clavada. 
+46 
+Jllegan negras 
+** 
+La situaci6n es muy tensa. y es obvio que 
+la amenaza de mate requiere una respues-
+ta eficaz e inmediata. 
+16 
+47 
+Jllegallllegras 
+** 
+Con su fuerte pareja de alfiles. bateria 
+1i'+.i. y torre en septima. las blancas pare-
+cen. definitivamente. Ilevarse la palma. 
+48 
+JlIegan negras 
+** 
+Con el pe6n de f7 atacado y la dama ne-
+gra obJigada a defender su alfil. las blancas 
+parecen estar mejor. Sin embargo ...
+
+DEFENSA 
+49 
+JlIegan negras 
+*** 
+Las blancas amenazan con un ataque 
+muy fuerte por casillas negras. i.Hay algun 
+modo de desactivarlo? 
+50 
+JlIegan negras 
+*** 
+Las blancas estan apretando, pero un 
+fino instinto siempre es capaz de hallar los 
+resquicios mas ocultos. 
+17 
+51 
+Juegall negras 
+*** 
+Han saltado chispas y la posici6n aun 
+sigue al rojo vivo. i.C6mo organizaria la 
+defensa? 
+52 
+Juegan negras 
+*** 
+Las negras tienen dificultades. Para em-
+pezar. valore las jugadas 22 ... : xf4 y 22 ... 
+~e6. Actue en consecuencia.
+
+DEFENSA 
+53 
+Juegan blancas 
+*** 
+Las negras ternan clara ventaja, pero pre-
+cisamente con su ultima jugada (31 ••• 
+J: xa2) han permitido una combinaci6n 
+salvadora. 
+54 
+Juegan blancas 
+*** 
+"C6mo pueden resolver las blancas el 
+problema de su dama encerrada? 
+18 
+55 
+Juegan blancas 
+*** 
+Se requiere (como siempre) precisi6n. 
+y las blancas habian previsto su maniobra 
+defensiva. 
+56 
+Juegan negras 
+*** 
+"C6mo debe responderse a este ja-
+que? En general, "que plan defensivo 
+adoptaria usted?
+
+DEFENSA 
+57 
+Juegan negras 
+*** 
+"Que pueden hacer las negras ante la 
+creciente presi6n cnemiga sobre su enro-
+que? 
+58 
+Juegan negras 
+*** 
+Con las tres piezas contrarias cerca de 
+su rey. las negras parecen tener dificulta-
+des. "Que opina? 
+19 
+59 
+Juegan negras 
+*** 
+Tras el sacrificio tematico de alfil en h7. 
+las blancas han jugado 21 :. d3. amen a-
+zando seguir el ataque par la columna h. 
+60 
+Juegan negras 
+*** 
+Las negras tienen la partida virtual-
+mente perdida. a causa de la dramatica si-
+tuaci6n de su rey. Es obligado hacer de la 
+necesidad virtud ...
+
+DEFENSA 
+61 
+Juegan blancos 
+*** 
+Con calidad de menos y obligadas a de-
+finirse. las blancas se encuentran en situa-
+ci6n limite. jImaginaci6n! 
+62 
+Juegan negras 
+*** 
+Las blancas acaban de cometer un 
+grave error. con 28 b4?? l,De que forma 
+podian haberlo explotado las negras? 
+20 
+63 
+Juegan negras 
+*** 
+La situaci6n del rey negro condiciona to-
+da la posici6n. La amenaza inmediata es 
+f5. l,C6mo contrarrestarla? 
+64 
+Juegan negras 
+*** 
+Un pe6n y el fuerte caballo no parecen 
+compensar la calidad. habida cuenta de 
+que el rey negro tiene dificil enrocar.
+
+DEFENSA 
+65 
+JlIegan negras 
+*** 
+La ultima jugada (29 "14) ha creado 
+considerables problemas a las negras. con 
+su alfil atacado. i,Que jugaria usted? 
+66 
+Juegan negras 
+*** 
+i, C6mo defenderse de la amenaza de 
+mate en f7 y. en general. cual es el mejor 
+entramado defensivo para las negras? 
+21 
+67 
+JlIegan negras 
+*** 
+Las blancas han entregado pieza por 
+dos peones. pero los pasados y apoyados 
+por sus piezas mayores parecen decisivos. 
+68 
+Juegan negras 
+*** 
+Sacrificio tematico en dS. por otra 
+parte obligado. pues el caballo no tenia ca-
+silla. i, Cuales son los recursos de las ne-
+gras?
+
+DEFENSA 
+69 
+Juegan negras 
+*** 
+La dama negra esta atacada. y a 
+... Wxa4 seguiria l:txb7. i,Cual es su pro-
+puesta? 
+70 
+Juegan blancas 
+*** 
+La disposici6n amenazadora de las 
+piezas negras crea cierta inquietud. i,C6-
+mo actuaria usted con las blancas? 
+22 
+71 
+Juegan negras 
+*** 
+Con superioridad de espacio y el pe6n de 
+c3 a punto de caer. las blancas parecen te-
+nerlo todo a su favor. pero ... 
+n 
+Juegan negras 
+*** 
+Tomar 0 no tomar: he ahi el dilema. A 
+... .i.xd6 sigue c4 y la dama negra no tiene 
+casilla. R6mpase la cabeza.
+
+DEFENSA 
+73 
+Juegan negras 
+*** 
+Las negras van a perder su pe6n de 
+a5. i.C6mo evahla esta posici6n y c6mo la 
+defenderia? 
+74 
+Juegan negras 
+*** 
+14 It'bS ha creado amenazas molestas 
+y. entalegadas las piezas del ala de dama. 
+est a claro que las negras tienen un pro-
+blema. 
+23 
+7S 
+Juegan negras 
+*** 
+Posici6n dificil para las negras que. de 
+la mana del gran Kasparov. demostraran 
+que 10 tenian todo controlado. 
+76 
+Juegan negras 
+*** 
+Un sacrificio de aIm ha dejado muy 
+expuesto al rey negro. i. Conseguira usted 
+encontrar la defensa acertada?
+
+DEFENSA 
+77 
+JlIegan negros 
+*** 
+EI puesto avanzado de d5 y el pe6n de b3 
+son los factores m~s desequilibrantes de la 
+posici6n. i,C6mo deben actuar las negras? 
+78 
+JlIegan negras 
+*** 
+EI caballo blanco acaba de capturar 
+un alfil enemigo en g5. i,Cu~1 es la res-
+puesta para las negras? 
+24 
+79 
+JlIegan negros 
+*** 
+EI pe6n b crea muchos problemas a las 
+negras. que deber~n hilar muy fino para 
+mantenerse a flote. 
+80 
+JlIegalJ negros 
+*** 
+i,Quien ataca a quien? Ambos bandos 
+atacan y ambos. por tanto. tienen que de-
+fenderse. Usted juega.
+
+3. CONTRAATAQUE 
+81 
+JlIegan negras 
+** 
+En su afan por atacar. las blancas han 
+omitido un detalle que pennitira a su rival 
+hacerse con la iniciativa. i,Cual? 
+82 
+. JlIegan Ilegras 
+** 
+Las blancas acaban de jugar 32 cIS? i,C6-
+mo aprovecharse de este error. que tira 
+por tierra la ventaja? 
+25 
+83 
+Juegan negras 
+** 
+La posici6n parece muy dificil para las 
+negras. con piezas atacadas. Pero la ultima 
+jugada (20 ~c3-a4) ha sido un error. 
+84 
+Juegan negras 
+** 
+Las negras han estado muy presionadas. 
+pero han podido recomponerse y ahora 
+disponen de una buena opci6n de contraa-
+taque.
+
+CONTRAATAQUE 
+85 
+Juegan negras 
+** 
+Con el alfil incrustado en (6 y la dama 
+blanca act iva y centralizada. sc dina que el 
+rey negro tiene problemas. Pero ... 
+86 
+Jllegall negras 
+** 
+Las negras han sobrevivido a la peli-
+grosa iniciativa de las blancas en el flanco 
+de rey, y consideran que ha Uegado el mo-
+mento de emprender actividad. 
+26 
+87 
+Juegan negras 
+** 
+EI ataque blanco parece amenazador. 
+pero su rival no pierde los nervios y juega 
+con temple. i,Para empezar. c6mo? 
+88 
+Jllegan blancas 
+** 
+La tlnica baza que oponer a la pieza 
+de desventaja es el pe6n avanzado de b7. 
+Las blancas demostraran que tienen con-
+trajuego suficiente.
+
+CONTRAATAQUE 
+89 
+Juegan negras 
+** 
+Las cosas pintan feas para las negras. 
+pero si profundiza un poco, vera que pue-
+den luchar incluso con aspiraciones. 
+90 
+Juegall negras 
+** 
+Las blancas tienen dos peones de ven-
+taja (aunque cuatro est an aislados) y plan-
+tean una amenaza de mate. i,Respuesta? 
+27 
+91 
+Juegan negras 
+** 
+EI sacrificio de alfil en g6 parece de-
+moledor, pero no es menos contundente 
+la replica de las negras. 
+92 
+Juegan negras 
+** 
+Las blancas han at acado mucho y 
+bien, pero su utlima jugada (llllJf6) es un 
+error. i,C6mo 10 castigarfa?
+
+CONTRAATAQUE 
+93 
+Jllegan negras 
+** 
+Las blancas han abierto la columna h 
+y ganado calidad. Pero ahora las negras 
+tienen algo que decir. 
+94 
+Jllegan negras 
+** 
+EI contrajuego negro pasa por la ruptura 
+... f7-fS. EI problema es que g6 est4 locado 
+por el caballo blanco. 
+28 
+9S 
+Jllegan negras 
+** 
+Las negras han entregado dos peones 
+en la apertura y ahora se disponen a asu-
+mir la iniciativa. iDe que modo? 
+96 
+Jllegan negras 
+** 
+Las blancas emprendieron aqui. con 21 
+lLlxf6. una combinaci6n incorrecta. iDe 
+que modo la refutaron las negras?
+
+CONTRAATAQUE 
+97 
+Juegan negras 
+*** 
+EI caballo es tabu. pero en esta tensa 
+posici6n no es (acil descubrir la mejor con-
+tinuaci6n para las negras. ,,0 si? 
+98 
+Jllegan negras 
+*** 
+Las blancas tienen la pareja de alfiles 
+y parecen lIevar la iniciativa. pero su posi-
+ci6n esta cogida con alfileres. 
+29 
+99 
+Juegan negras 
+*** 
+Las blancas han planteado un Gambi-
+to Evans aI mismisimo Anand. tal vez ins-
+piradas por la victoria de Kasparov. diez 
+aiios atras. 
+100 
+Juegan negras 
+*** 
+Una vez capt ado el concepto. 10 de-
+mas ... no es que sea (acil. pero si menos di-
+(icil.
+
+CONTRAATAQUE 
+101 
+Juegan negras 
+*** 
+De los escarceos atacantes de su rival. 
+s610 queda el orgulloso caballo de f5. 
+Ahora las negras pueden tomar el mando 
+de las acciones. 
+102 
+Juegan negras 
+*** 
+A la captura en c3 las blancas han res-
+pondido con la intennedia : xd6. que pa-
+rece ganar un pe6n. i.C6mo reaccionarfa 
+usted? 
+30 
+103 
+Juegan negras 
+*** 
+Las blancas presionan. pero la presi6n 
+no es excesiva. Las negras decidieron. sin 
+embargo. activar al maximo sus piezas. 
+104 
+Juegan negras 
+*** 
+i.C6mo responder a las blancas. que 
+atacan con superioridad de material?
+
+CONTRAATAQUE 
+lOS 
+Juegan negras 
+*** 
+Las blancas dominan la apertura y. 
+por supuesto. no sirve .... xb2. por 0-0. 
+con vcntaja decisiva. "Que opina? 
+106 
+Juegan negra.~ 
+*** 
+Las negras se han defendido de la 
+amenaza de mate con ... tOfS y las blancas 
+han replicado g4. "Cultl era el as en la 
+manga de las negras? 
+31 
+107 
+Juegan negras 
+*** 
+Las blancas han presionado mucho. 
+desde el final de la apertura. Pero las ne-
+gras no carecen de recursos. "Cultles? 
+108 
+Juegan negras 
+*** 
+EI joven fen6meno Carlsen ha cstado 
+sufriendo. pero ahora se dispone a asumir 
+el mando de la lucha. "C6mo?
+
+CONTRAATAQUE 
+109 
+Jilegan biancos 
+*** 
+Cuando la dama se retire. y tras 
+... Wxg7. parece que las blancas se queda-
+ran con pe6n de menos. Pero (.son asi las 
+cosas'? 
+110 
+Jilegan negras 
+*** 
+La ultima jugada ha sido 13 IOxg6. a 
+cuya captura seguiria Wg3. con destruc-
+ci6n. (.Hay defensa 0 alguna reacci6n po-
+sible? 
+32 
+111 
+Jilegal! negras 
+*** 
+EI desenroqlle del rey negro es inquie-
+tante. pero la actividad de sus piezas per-
+mitira a las negras ejecutar un brillante 
+contraataque. 
+Itl 
+Jilegan negras 
+*** 
+En esta posici6n hipertensa las blan-
+cas parecen lIevar todas las de ganar. Pero 
+las negras van a crear un activo reagrupa-
+mien to de piezas.
+
+4. FINALES Y ESTUDIOS 
+113 
+Juegan Ilegras 
+** 
+La posici6n parece perdida para las ne-
+gras que, sin embargo. encuentran un inte-
+resante recurso salvador. 
+114 
+Jllegan blallcas 
+** 
+La ventaja de las negras radica no s610 en 
+su pe6n extra. sino en la superior actividad 
+de su pieza menor. 
+33 
+115 
+Juegan negras 
+** 
+Se dina que las negras 10 tienen dificil. 
+Sin embargo. bay un resorte oculto ... 
+116 
+Jllegan negras 
+** 
+Torre contraria en septima. pe6n ata-
+cado. caballo fuera de juego ... i.C6mo se 
+las arreglaron las negras para levan tar este 
+final?
+
+FINALES Y ESTUDIOS 
+117 
+Juegan blancas 
+** 
+Con el pe6n de g6 practicamente imltil. 
+se diria que las dos piezas negras se bastan 
+y sobran para contener al otro pe6n y 
+ganar. 
+118 
+Juegan negras 
+** 
+Las negras tienen aquf problemas con 
+su pe6n de gS. l,Se considera usted capaz 
+de defender su posici6n? 
+34 
+119 
+Jilegan blancas 
+** 
+EI pe6n b cae y el resto parece cosa de ni-
+nos para las tres piezas negras. jPero no es 
+asi! 
+120 
+Jllegan negras 
+** 
+La unica forma de salvarse aqui es forzar 
+tablas por jaque perpetuo. l,1..o conseguira 
+usted?
+
+FINALES Y ESTUDIOS 
+121 
+Jllegan blancas 
+*** 
+Parece dificil que el enunciado se cum-
+pIa. y 10 es. Pero usted puede lograrlo. 
+122 
+Jllegan blancas 
+*** 
+123 
+Jllegan blancas 
+*** 
+Con el rey blanco tan alejado. la tarea 
+de bacer tablas se antoja poco menos que 
+imposible. Sin embargo, jes posible! 
+Jllegan blancas 
+*** 
+Impedir la promoci6n del pe6n a pa-
+La dificultad tecnica de bacer tablas de 
+rece imposible. En cualquier caso, a usted 
+este final Ie bani sentirse orgulloso. si 10 
+Ie corresponde resolver el dilema. 
+consigue. Asi pues, jintentelo! 
+35
+
+FINALES Y ESTUDIOS 
+Juegan blancas 
+*** 
+Frenar a los peones negros se antoja ta-
+rea poco menos que imposible. jPero no 
+se trata s610 de los peones! 
+Juegan blancas 
+*** 
+Que las blancas puedan salvar este final 
+debe ser cuesti6n de magia. y no precisa-
+mente blanca. Devanese los sesos. 
+36 
+U7 
+Juegan blancas 
+*** 
+Las blancas s610 tienen dos peones por 
+un caballo. pero Gelfand demostrani que 
+puede hacer tablas. 
+128 
+Juegall blancas 
+*** 
+Hacer tablas aqui es labor de orfebreria. 
+Pero seguro que su fino instinto analitico y 
+capacidad de calculo 10 consiguen.
+
+SOLUCIONES 
+1. POSICIONES CLAslCAS 
+• 1. 
+4S ... <itaS! (0,5-0,5). Si 46 'ilxc7. aho-
+gado. Tampoco sirve 46 <ita6. por 46 ... 
+W'c8+. Chigorin-Schlemter. Ostende 1906. 
+.2. 
+1 W'f6+ <itgS 2 Wg7+! ri;xg7 3 h6+. 
+ahogado (0,5-0,5). Bartolich-Atkin, San Pe-
+tersburgo 1902. 
+• 3. 
+1 W' xe6+! <it xe6 2 gxfs+ Iitt xfs 
+3 l:I. xg2 (D,S-D,S). Lipnitsky-Aficionado. 
+Berlin 1945. 
+.4. 
+1 ••• l:I. xh3+! (1 ... 'ifd7?! 2 ~g3) 2 
+<itxh3 'ile6+! 3 'ilxe6. ahogado (0.5-0,5). 
+Walter-Nagy. Gyor 1924. 
+.5. 
+1 ... 'ilxgl+! 2 <itxgl (2 'ilxg2 ~xf6) 
+2 ... ~xf6 3 'ilxgS+ IittxgS 4 l:I.fel bs (0-1). 
+Posicion didactica. 
+.6. 21 ... l:I.l8! (21 ... l:I.xf7 22 l:I.xf7 <itxf7 
+23 'ilxe6+) 22 lLles? (22 b4 'iic6 23 g6 hxg6 
+24 ltJg5 'ilxc3 25 l:I. xfB+ ltJxfB +) 22 ••• 
+l:I. xn+ -+ 23 ltJxn (23 l:I. xfl? 'ilxe5) 23 ... 
+ltJxes 24 'ilxes 'ilf2! 25 'ilbS+ (25 'iig3 
+~xg2+ 26 'ilxg2 'ilxel) 25 ... <itf7 ... 37 j. 
+(0-1). Duras-Przepiorka, Breslau 1912. 
+• 7. 
+32 ... W'hs? (la mejor defensa era 32 
+... l:I.xd4! -+ 33 exd4 g5!) 33 g4 l:I.xd4? (33 ... 
+W'h4 34 'ilxa4 l:I.xd3 00 Neishtadt) 34 exd4 
+f63s gxhs (I-D). Saint-Amant - Staunton. 
+Match (9). Paris 1843. 
+• S. 
+1 ... ltJg3+? 2 hxgJ l:I.f6 3 l:I.f2!! (1-0). 
+3 ... l:I. h6+ (3 ... 'ilxf2?? 4 'it'xa8+) 4 c;t,gl. L. 
+Paulsen-Anderssen. Match (5) IIno. 
+.9. 
+1 'ilxf4! gl+ 2 ri;f2 l:I. f6 3 <itgl! (3 
+'ilxf6? ltJe4+ 4 <itgl ltJxf6 -+) 3 ... l:I.xf4 
+(0,5-0,5). Zagoriansky-Tolush. Moscu 1945. 
+• 10. 
+1 ... ltJg3+!! 2 fxg3 l:I. cl+ 3 Cith2 
+l:I.hl+ 4 <itxhl l:I.bl+ 5 <ith2 (5 'ilxbl) 5 ... 
+l:I.hl+ 6 c;t,xhl, ahogado. Posici6n didac-
+tica . 
+.11. 
+1 l:I. n! dnW 2 'ile6+! <ith7 (2 ... 
+'ilxe6?? 3 l:I.f8+ <ith7 4 l:I.hB++) 3lLll8+ 
+<ithS (3 ... 'ilxf8 4 "'g6+ ri;g8 5 'ile6+ =) 4 
+ltJg6+, tablas por jaque perpetuo. Rjumin-
+Verlinsky. URSS 1933. 
+• 12. 
+En la partida se jug6 1 ... W'd8?? y 
+despues de 2 -.f6!. las negras tuvieron que 
+rendirse en el acto. pues si 2 ... W'xf6. 3 
+l:I. xe8+ y mate. Habia una defensa efectiva: 
+1 ... l:I.xe3! 2 fxe3 (2 -.f6 l:I.el+ 3 <ith2 [3 
+<itg2 -'c6+ 4 f3 <itf8 5 lLlxg6+ <ite8 -+] 3 ... 
+<itfB 4ltJxg6+ hxg6 5 h7 l:I.hl+! 6 <itxhl 
+-.h3+ 7 <itgl W'xh7 -+) 2 ... W'e8 3 <itf2 (3 
+-.f6 'iif8) 3 ... -.f8 +. Terpugov-Kan. URSS 
+1951. 
+• 13. 
+21 ... -'xc4+! -+ 22 ~d3 .i.e2+! (22 
+. .. l:I. fd8!! 23 'ilh7+ Iittf8 24 f3 l:I. xd3 
+25 l:I.xd3 ~e6) 23 ~xe2 (23 <itxe2 -.g4+ 24 f3 
+-.g7 -+) 23 _ -.e6 24 -.g5+ -.g6 25 -'xes 
+l:I. adS 26 l:I. cl l:I. feS 27 'ilcs l:I. xe2 (0-1). 
+28 <itxe2 -.d3+ 29 <itel l:I.e8+. Honlinger-
+Becker. Viena 29.3.1927. 
+.14. 
+42 IS!? (42 l:I.f2 l:I.xe3 43 l:I.e2 l:I.f3 
+44 l:I. f2 l:I. b3 45 l:I. b2; 42 l:I. e 1 l:I. f3 43 g5 
+l:I. hh3 44 -'e2 l:I. hg3+) 42 ••• gxfs 43 gxfs 
+l:I.g7 44 fxe6ltJxe6 (44 ... l:I.xg2+? 45 <itxg2 
++-) 45 : f6 l:I. hgJ 46 -'xg3! l:I. xg3+ 47 ri;h2 
+l:I. xe3 48 l:I. xe6 d4 49 l:I. g6! (0,5-0,5). Ale-
+khine-Euwe. Match (5), Amsterdam 1926. 
+.15. 
+42 ... W'n+!! 43 <itxn (43 Wh2? 
+lLl xh4 -+) 43 ... ltJ xe3+ 44 <ite2 (44 rj; g 1 
+ltJxdl -+) 44 ... ltJc4+! (0,5-0,5).45 rj;f\ (45 
+37 
+c;t,d3?? ltJxb2+) 45 ... ltJe3+. Kopaev-Vista-
+neckis. Vilnius 1949. 
+• 16. 
+(a) 26 ... l:I.8e7 permite a las blancas 
+forzar tablas con 27 l:I. xf6+ gxf6 28 "'xf6 
+l:I.f7 29 'ilxh6+ <ite7 30 -.h4 ri;f8 (30 ... l:I.f6 
+31 l:I.g6) 31 'ilh8+. (b) 26 ... l:I.5e7 27 h3 ±.
+
+(c) 26 ••• Wxf5!! (como en la partida) 27 
+l:xf'6+ (27 exfS?'! l:cl+ 28 ~f2 l:fl++) 27 
+••• Wxf6 28 l:0 l:8e6 29lbxa4 (19 l:xf6+ 
+l:xf6 30 h3 ~h3 -+) 29 ••• lbxa4 30 ~xa4 
+J:t xe4 31 l: xf6+ l: xf6 32 g4 (31 Wxe4?? 
+l:fl++) 32 ••• ~e2 (0-1). Kmoeh-Reti. Sem-
+me ring Baden 1926. 
+2.DEFENSA 
+.17. 
+IS ~e2!! ~xal 16 ~g5 h6 (16 ... 
+l:e8'! 17 ~xh7+ <ittffi 18 l:xa1 a619lbc3 ±) 
+17 ~xh6! gxh6 (17 ... a6 18 ~xg7) 18 'Mfxh6 
+a6 19 WgS+ ~h8 20 Wh6+ ~g8 21 'iWgS+ 
+~h8 22 'Wh6+ ..tg8 (0.5-0.5). Rustemo\'-Na-
+vara. Campeonato de Polonia por equipos. 
+Lubniewice 11.9.2005. 
+.18. 
+16 ••• dxeS 17 fxe5 hxgS 18 hxgS (18 
+exf6 ~xf6 19 hxg5 ~xc3 20 bxc3 Wxg5) 18 
+_.ltJg819 l:h8 ~b4 -+ 20 Wh4 (10 g6 ~xc3 
+21 gxn ~xf7 22 bxc3 Wb6+ 13 <ittal Wc5 
+24 'iWn ~e7) 20_ ~xc321 g6 'W'b422 l:xg8+ 
+~ xg8 23 gxn+ q; f8! (O-l). Rodin-Jar-
+lov. Campeonato de Rusia por equipos 
+13.6.1998. 
+.19. 
+37 .•• ~xb4! 38 l: xe4 (38 'ilfxb4 
+l:cl+ 39 l:fl 'iWxe3+ 40 ~g2 l:c2+ 41 ~h3 
+WgS! 42 lbf3 'ifh5+ 43 lbh4 g5 -+) 38 .•• 
+~xe139 l:f4 f6 40 lbdJ ~d2 41 ~f2 l:e2! 
+42 l:f5 as ... 51 j. (0-1). Shulman-Veseo\·i. 
+Campeonato Continental. Buenos Aires 
+16.M-2005. 
+.20. 
+18 l:d3! +- ~xh3 19 'ilt'xh4lbxh4 
+20 l: xh3 ... 2S j. (1-0). Fette-Chiburdanidze. 
+Berlin 1968. 
+.21. 
+1 l: e8!! 'iWg7 (I ... l: xeS?? 2 e6+ 
+'fIg73 'ilt'xg7++) 2 Wxg7+ 9;;xg7 3 e6+ ~h6 
+4 l: xg8 (1-0). Posicion didactica. 
+.22. 
+21 lbxe4!! ~g4+ (21 ... ~xe4 
+22 ~d2) 22 ~d2 ~xdl 23 lbxd6+ ~f8 
+24 l:xdl 'iWxhS 25 ~e2 'iWg6 26 l:hllbh6 
+27 a4? (27 e4! Wf6 28lbfS lba4 29 l:h3! +-
+Volokitin). 27 .•• l:d8! = ... 35 j. (0,5-0.5) • 
+Azmajparashvili-Volokitin. Grecia 200S. 
+.23. 
+1 'iWd7! axb3 (I ... Wxd7? 2 l: xd7 
+axb3 3 cxb3! +-) 2 Wxe7 lbdS! (O.S-O.S). 
+3 exdS bxc2+ 4 q;xc2 l:xa2+ 5 ~bl l:al+! 
+6 ~xal Wxc3+ =. Smeets-Bu Xiangzhi. 
+Wijk aan Zee 2007. 
+.24. 23 Wxc6! (23 l:xffi+ J:txfH 24 'ilt'xc6 
+~xel 25 ~xel We2 -+) 23 ••• ~xf2+ 
+24 lbxf2 1::txf2 2S ~xf2 l: xd2+ 26 9;;gl h6 
+27 h3 'ilt'xe4 (27 ... 'iWg6 28 l:n) 28 b3 'ilt'd4+ 
+(28 ... 'ilt'dS 29 WxdS exdS =) 29 9;;hl 'iWdS 
+30 WxdS exdS 31 l:el (0.5-0.5). Larsen-Tal. 
+Interlonal de Amsterdam 1964. 
+• 25. 
+En la partida Megaranto-Konguvel. 
+Campeonato de Asia Individual. Hydera-
+bad 6.1O.2lX)S. sigui6 23 ••• l:g8? y dcspues 
+de 24 l:xg8+ ~xg8 2S l:tdl. las ncgras SI! 
+rindieron (2S ... ~e6 26 fxe6. etc.). Sin em-
+bargo. las negras podlan defendcrse con 23 
+... ~xf5! 24 l: xf6 (24 l:g3 iLg6 +) 24 ... l:g8 
+25 g4 'ilt'fl+ 26 ~h2 'ilt'f2+ =. 
+38 
+.26. 
+35 ••• l:e4! + 36 l:dl (36 l:hl lbg4 
+37 'iWgl fS +) 36 _lbg4 37 'iWgl (37 'iWf3 f5 -+) 
+37 ••. ~xh6 38 ttJd3 q;g7 39 ttJeS l:e3 
+40 ltJd3 We7 41 ttJf4 gS 42 l:d3 (42 'ilt'xc3 
+ttJxd 43 lbe6+ q;g6 -Mlbxc7 ltJxd I -+) 42 
+••• l:e443 ttJg2 Wb6 44 ~n 'tIff2 (O-l). Aza-
+rov-Akopian. Moscu (Aeroflot) 9.2.2lKl6 . 
+• 27. 
+24 ••• l: xd3! (24 ... ~bS 25 hxg6 
+hxg6 26 ~xg6 fxg6 27 'iWxg6+ J:g7 28 'iWh6 
+l:ee729 J:h3) 25 ':xd3WxcS26hxg6hxg6 
+27 Wd4 Wxd4 28 J: xd4 eS 00 ••• 47 j. (0.5-
+0.5). Radziewicz-Kosie. Budapest 1lKlS. 
+.28. 
+27 ••• l:dl! 28 'ilt'b3 (28 'fIxdl?? 
+iLe6+: 28 'fin We8) 28 ••• 'tiffS 29 c3 (29 e6 
+·~t'fl!) 29 •.• l:el -+ 30 'iWd5 ~e8 31 e6 
+l: xe6 (0-1). Istrateseu-Hraeek. Krynica 
+7.9.199K
+
+.29. 
+1 ... fxg3! (I ... 'it'xb3 2ltJxf7 
+,i,xe4 [2 ... fxg3?? 3 J..d4+) 3 J..d4+ ~xf7 
+4 ~xe4 ±) 2 J..xd5 l:txf2! 3 l:txf2 gxf2 
+4 J..c4 ~xh6 .+ ... (0·1). Keene·Piasetski. 
+Alicante 1977. 
+• 30. 
+28 J..a6!? (28 l:tg8+ ~xg8 29 
+l:l xg8+ Wxg8 30 'it'gS+) 28 ... 'it'xa6 (28 ... 
+l:t xa6'? 29 l:t gS+ ~ xg8 30 II xg8+ W xgX 
+31 'it'gS+ Wh832 ~g7+! ~xg7 33 -.d8+ +-) 
+29 l:tgS+ ltJxg8 30 l:lxgS+ ..tJxg8 31 Wg5+ 
+(0.5·0.5). Lopez Martinez·Guseinov. Cam-
+peonato de Europa Individual. Varsovia 
+23.6.2(X)5. 
+.31. 
+37 ... l:tll!! 38 l:txll 1:el+ 39 lln 
+rlxn+ 40 'it'xn "'xb6 41 hxg6 fxg6 42 'it'b5 
+'iWe643 "b8+ wg7 44 "c7+ Wh6 45 h3 
+"e3! 46 as d4 47 a6 d3 48 a7 dl 49 'it'd6 (.N 
+as'it'?? dl"+ 50 ~h2 "dgl++) 49 ... "e1+ 
+SO Whl dl'if 51 Wxdl "xdl 52 aSiV iVd6+ 
+... 67 j. (0.5·0.5). Morrison.Farago. Budapest 
+2006. 
+.32. 
+18 ... ~hS! 19 a3 (19 l:tf3 J..xf3 20 
+'i't'xh6 tOf1l21 'iWgS+ WfS 22 'i't'h6+ =) II} ... 
+tOd5 20 ltJxd5 ~xd5 21 "d3? (21 :tf3!! 
+J..xf3 22 W'xh6 tOf6 23 Wg5+ ~ffi 24 'iVh6+ =) 
+21 ... f5 22 l:th3 1:c8!·+ 23 iVdl ~f4 
+24l:tc3 (24 1:g3+ ~h7: 24 llxh6? llcl 
+25 iVxcl ltJe2+) 24 ... .i.d6 25 llxc8 WxcS 
+26 .:.ta2 J..xa2 (0·1). Sulskis·Riazantsev. 
+Tallinn 2006. 
+.33. 
+9 ... b2! 10 ~xb4 (10 ~xd8 bxa 1 'it' 
+II J..xb4 -+) 10 ... bxal" 11 ""c3 -'xc3+ 
+12 tOxc3 c6 (0·1). Petran.Adorjan. Szirak 
+1985. 
+• 34. 
+27 ... e4! (27 ... gxf6 28 ltJe4 "c2 
+29 ~xf6+ ~g7 =) 28 ~xe4 gxf6 29 tOxf6+ 
+~g7 30 liJd7 llfeS 31 lldl ~hS?! (31 ... 
+llxe2! 32 lld5 ~h8) 32 'Wf4? (32 "xf7 
+'fig7 -+) 32._ llxe2! 33 lld4 fS 34 ~h3lle7 
+(0·1). Korchnoi.Hjartarson. Candidatos (4). 
+Saint John 198M. 
+39 
+.35. 
+20 llhK+! 'it;>xhS 21 'it'h5+ ~g8 22 
+g6 :t r7 23 'iWh7+ ~f8 24 'it'h8+ we7 2S gxr7 
+~xr7 (25 ... J..b7'? 26 "'xg7 1: fS 27 'it'f6++) 
+26 Wh5+ ~f8 (26 ... we7 27 'it'g5+: 26 ... 
+~g8,?,? 27 "e8+ ~h7 28 l:thl++) 27 'fihS+ 
+~r7 28 "'hS+ ~f8 (0.5·0.5). Frolyanov.Le • 
+niart. Campeonato de Europa Individual 
+30.6.2005. 
+.36. 27 :tel! (la clave es cI bloqueo de la 
+casilla e4) 27 ... liJd3 28 l:tfe21Uxel 
+29 "xci l:te8 30 c5 l:t08 31ltJe4 (0.5-0.5). Pe· 
+trosian·Gligoric. Olimpiada de Varna 1962. 
+.37. 
+44 ... l:tdl! 45 l:te4 (45 l:txd6 fxg3 
+46 ~f1 llxf2+ 47 ~gl g2! -+) 45 ... fxg3 (45 
+... "" b8) 46 l:t xg4 hxg4 47 II xd6 gxf2 
+48lLlfJ (48 ~c2 l:txc2 49 llg6 :d2 50 :txg4 
+l:t xd5) 48 ... gxf3+ 49 ~ f1 as! SO h5 a4 
+51 llf6 a3 S2 llxfJ a2 53 ll&3+ ~b6 54 ~g2 
+n'i't'+ S5 Wxn lldl+ 56 wg2 al'it' (0·1). 
+Volkov·Potkin. Abu Dhabi 19.8.2(X)S. 
+.38. 46 ... 'ilill! 47 llxdl 'i't'xdl 48""d5= 
+"gS 49 ",d6 Wd8 SO WxdS II xd8 SI .i.c6 
+g6! = S2 ~e8 wg7 53 fxg6 hS! S4 a4 h4 
+S5 wgl lldl 56 gJ hxgJ 57 h4 l:t hl 58 h5 WfS! 
+(58 ... llxhS?? 59 [8W+ Wxflol tiO g7+ +-) S9 
+Wn wg760 wgl WfS 61 Wn (0.5·0.5). To· 
+palov.Morozevich. Campeonato Mundial 
+FIDE. San Luis Potosi 9.1O.2(X)5. 
+.39. 
+26 ... J..c6! 27 llb4 (27 exd6 ..tJa8!) 
+27 ... iVxb4 28 J..a7+ ~xa7 29 Wxb4 dxeS + 
+30 llc2 l:td4 31 WaS lld5 (31 ... f6'?'! 32 
+l:txc6 bxc6 33 Wc7+) 32 Wc7 lld7 33 WaS 
+e434 "'0+ ~aS35 lle2 l:td5 36 'it'd llxfS 
+37 Wxg7 e3 38 Wd4 l:tfe5 ... 59 j. (0.1). Haz· 
+nedaroglu.Ribli. Copa de Europa de c1ubes . 
+Saint Vincent 22.9.2005. 
+.40. 
+36 ... ""xe6 37 Wf6 .i.d5! 38 Wd8+ 
+~g7 39 l:txd5 "Il! 40 l:td7+ ~h6 41 'ii'f8+ 
+wg5 42 "e7+ Wf4! 43 "d6+ (43 Wb4+ 
+'it;>g544 "xc3?'? "f1 ++) 43 ... wg5 44 'it'e7+ 
+..tJf445 "d6+ (0,5·0,5). Adams·Topalov.
+
+Campconato Mundial FIDE. San Luis Po-
+tosf 10.1 0.200S. 
+• 41. 
+16 ... 1'6! (16 ... ltJc6? 17 d7+ <ittb8 H~ 
+d8"'+ ltJxdS 19l:txdS+ ~a7 20 :adl ~xc2 
+21 :xcS+ <ittxa8 22 :dS+ <itta7 23 iLe3!) 17 
+dxe7 ~xe7 18 ltJd5 ..idS 19 ..ie3 b6 20 b4 
+~ b7! = 21 bxc5 bxc5 22 .i. xc5 l:l cS 
+23 :abl+ <ittaS 24..ib6 ..ixc2 25 :dcl ..ifS 
+26 : xcS+ (0.5-0,5). Izoria-Sorokin. Moscu 
+(Aeroflot) 12.2.2006. 
+.42. 
+En la partida Ni Hua-A. Filippov. 
+Campconato de Asia. Hyderabad KIO.200S. 
+se jug6 43 ... ..ixh6 44 "'xh6 gxfS 45 "'hS+ 
+<itte746 "'h4+ <itteS 47 gxfS :ec6?? (47 ... 
+'ii'd3 48 Cxc6 'ii'xb3+ 00) 4S "'hS+ <itte7 
+49 1'6+ <itte6 50 "'h3+ <ittxe5 51 :tel+ ~d6 
+52 "'g3+ (1-0). Sin embargo. las negras podfan 
+dcfenderse mejor: 43 ... gxCS! 44 ..ixffi ",d3 
+4S "'xCS "'xb3+ 46 :b2 Wd5 + (Finkel). 
+• 43. 
+IS ..i xb4 : xdl+ 16 : xdlltJc6 
+17 ..icS! '6'xf3 IS :gl ..ig4 19 :d2! ltJd4! 
+20 ..ixd4 (20 exd4? "'e3+ 21 ..ie2 "'xgl+ 
+22..in ..ih323 :f2 b6 -+ Stohl) 20 ... exd4 
+21 :d3 'tIfc6 22 :g2! Wcl+ 23 ~t2 dxe3+ 
+24 :xe3 't!t"xb2+ 25 ..ie2 h5 26 :eS+ ~h7 
+27 <ittgl 'Wcl+ 2S ..in ..ih3 29 : f2 ..ixn 
+30 :xn "'cS+ 31 :1'2 "'cl+ 32 :n "cS+ 
+(0,5-0,5). Harikrishna-Sutovsky. Hoogeveen 
+27.10.2005. 
+.44. 17 ... ltJb5 IS ..ib2 ..ih6 (18 ... gxfS!? 
+19 gxf5 ltJd6 20 eS ltJxCS 21 ..ie4 f6! Krasen-
+kow) 19 h4 f6 20 ltJO gxf5 21 exf5 ltJd6 
+22 :fet <ittn 23 ..ih3 :gS 24 <ittf2 ..if4 
+25lL1eS+ f'xe5 26 dxe5 ltJc4 27 eM <ittf8 28 exd7 
+ltJxb2 -+ ... 45 j. (0-1). Aronian-Ivanchuk. 
+Wijk aan Zee 14.1.2006. 
+.45. 41. ..... xel+(unica)42 ... xel :xd7 
+43 ~b2 <ittn 44 ~b3 :0+ 45 c3 :c7 46 
+"'e5 : fxc3+! (el peon b garantiza las ta-
+bias) 47 "'xcJ l:l xcJ+ 48 <itt xc3 <itte6 49 ~c4 
+<ittd6 50 ~b5 ~c7 51 <ittc5 <ittb7 52 ~d5 
+<ittb6 53 <itte5 <ittb5 54 <itt1'6 <itt xb4 55 h4 <ittcS 
+56 <ittg7 h5 57 <ittxg6 <ittd6 (0,5-0.5). Sigfus-
+son-Bischoff. Copa de Europa de c1ubes . 
+Saint Vincent 21.9.2005. 
+.46. 
+34 ltJxf5 35 '6'xf5 (35 e7 "'a7+ 
+36 <itthl "'f2 37 :blltJg3+ 38 "'xg3 Wxg3 
+39 hxg3 gxC6 40 :xb5 Wf7 = Juzman) 35 ••• 
+:xg2+ 36 <ittn gxl'6 37 :d7 :g7 = ... 46 j. 
+(0,5-0.5). Bologan-Rublevsky. Copa de 
+Europa de dubes. Saint Vincent 22.9.2005 . 
+• 47. 
+23 ... ltJd5! 24 ..ixd5 ~xd5 25 ~gl 
+(25 a5 g4 26 axb6 l:lfb8 27 :eS ..ixf3+ 28 
+<ittg1 :xb629 :xcS :g6 -+ Ftacnik) 25 ... 
+: adS 26 : ael f6 27 as Wh3 2S 1: 7e3 g4 
+(0-1).29 "'d3 gxf3 30 "'g6 b5 31 :e7 Wh7 -+. 
+Bologan-Macieja. Stepanakcrt 6.10.2(0). 
+.4S. 
+33 ... "'xb3! 34 : xd4 (34 : xa6 
+1Wc4! 35 : xd6 1Wb4!) 34 ... 1Wc3! 35 : n 
+1Wxd4 36 'W'xn 1: gS 37 "'h5 "'xe4 38 h3 
+"'d339 :el "'d2 40 :gl h641 "'0 :1"8 
+42 :n Wd4 43 g4 :eS 44 'jib3 Wc4 45 '6'xc4 
+:xc4 46ltJt2 as 47 :dl l:le2 48 ~gl l:lcc2 
+49 ltJhl a4 (0-1). Sandipan-Kempinski. 
+BlIIuiesliKll 23.10.2005. 
+.49. 31 ... d6! 32 "'g5 (32 cxd6'? "'xd6 +) 
+32 ... dxe5 33 'iWh6 : xf6 34 : xf6 : e7 
+35 h4! e436 h5 : e5 37 g4 e3 38 : xn Wh I + 
+39 <ittg3 "'gl+ 40 <itth3 (40 ~h4 'Wh 1+) 40 ... 
+"'hl+ 41 .: h2 ..ig2+ 42 ~g3 "'el+ 43 
+~xg2 ~xn 44 'iWxh7+ ~e6 = 45 "xg6+ 
+<itte746 'iWg7+ <itte6 47 'iWg6+ <itte7 48 Wg7+ 
+(0.5-0,5). M. Carlsen-Zhang Pengxiang. 
+Skanderborg 17.1O.2(X)S. 
+40 
+• SO. 
+19 ... ..ixg2! (19 ... : Cd8 20 'iWxc6! +-) 
+20 ..ixl'8 (20 Wxg2 : xc4 21 ..ixC8 'Wxa2!) 
+20 ... ..ixhl 21 ..ixe6 :xf8 (21 ... :eH'? 
+22 ..ie7 +-) 22 ..ixn+! :xn (22 ... <itth8 
+23 :xhl ±: 22 ... ~xf7'?? 23 'iWe7+ ~g8 
+24 'iWg7++) 23 1We8+ .: f8 24 'tWe6+ : n 
+25 We8+- :18 26 We6+ :f7 27 '6'e8+ l:l18 (0,5-
+0.5). Asrian-Dreev. Stepanakcrt RI 0.2005.
+
+.51. 
+2S ... Wg6! 26 'W'xg6+ (26 Wh3 ~c8 
+27 g4 ~e6 + Ftacnik) 26 ... ~xg6 27 lDb6! 
+l:t ae8! 28 lD xd5 ~ xd5 29 ~ xb4 ~ xb4 
+30 l:txe8 l:txe8 31 1:xdS l:tel+ 32 l:tdl 1:el ... 
+45 j. (0-1). Motyle,,-Dologan. Moscu (Aero-
+not) 16.2.2006. 
+.52. 
+22 ... ~f3+! (22 ... l:t xf4? 23 exd5 
+1: xe I 24 1:. xc I cxd5 25 ~xd5+ ~ffi 26 ~g3 
++-: 22 ... ~c6,?! 23 exd5 ~xd5+ 24 ~xd5+ 
+cxd5 25 l:t e5 ±) 23 <it> xfJ l:t xf4+ 24 ~ g3 
+l:t fxc4 25 l:t xe4 .I: xe4 26 fJ l:t c5 27 c4! 
+bxc4 28 ~xc4 as 29 1:.c1 ~f8! ... 39 j. (0.5-
+0.5). J. Polgar-S"idier. Campeonato Mun-
+dial FIDE. San Luis POtoSI 13.10.2005. 
+.53. 32 ~xg6! l:txl2 (32 ... l:tal+ 33 ~h2 
+hxg634 Wxg6+ ~f8 35 l:tg2 Wf7 36 Wh6+ 
+~e8 37 l:t g7 Wf5 38 'iWh8+ 'iff8 39 'ifh6 
+Wf5 =) 33 ct>xf2 hxg6 34 'ifxg6+ ~f8 
+35 'ifh6+ ~g8 (0.5-0.5). Dologan-), Soko-
+lov. StepanakcrtIUO-2005. 
+• 54. 
+28 e6! ~ xb5 29 ~ xc7 i. xd4 
+30 lDxd4 (30 exf7+ l:t xf7 31 lDxd4 ~c4!'? 
+32 ~g3 lDe4 = Ftacnik) 30 ... ~xd4 fxe6 
+31lDxb5 lDxc7 32lDxc7 l:tll! 33 ltJxaS itJa4 
+34 l:td3 (34 ~e4!? dxe4 35 l:tdS+ ~f7 36 .l:tc8 
+l:t xh2+) (0.5-0.5).34 ... l:t xb2+ 35 ct>c1 
+.l:c2+ 36 ~bl (36 ~dl'? lDh2+) 36 ... l:tb2+. 
+Svidler-Kasimdzhanov. Campeonato Mun-
+dial FIDE. San Luis PotOSI 8.10.2005. 
+.55. 
+2S 'ifxh4! 'iWxh426 l:te8+! ct>d7 (26 
+... l:t xeS 27 gxh4 l:t h8 28 ~g5 ltJd7 29 1:. e I 
+f6 30 ~f4 lDb6 31 ~g3 ~d7 32 b3 ± Lu-
+kacs) 27 l:t xg8 'if c4 28 ~ f4 lDc4 29 1: b8 b5 
+30 l:tb7+ ~e6 31 b3 lDa3 ... 50 j. (0.5-0.5). 
+Dvoiri .. -Chuprov. Kazan 4.9.2005. 
+• 56. 
+16 ... ct>d7! (16 ... We7 17 ~g5 'i!t'xc I 
+18 llaxd+) 17 Wg3 <;t>c8! 18 .i.g5 Wd7?! 
+(18 ... 'ifd6! Mikhalcvski) 19 1:.acl! f6! 
+20 ~c1 gS 21 b4 cxb3 22 axb3 ~f8! 23 j"aJ'! 
+(24 ~ xf8 lLl xd4 25 cxd4 l:t xf8 +) 23 ... 
+lLl xb3! 24 ~ xb3 ~ xa3 25 l:t e6 ~ c5 26 
+41 
+~hl! ~b7 27 l:txf6 ~xd4 28 cxd4 l:the8!? 
+... 41 j. (0-1). Ncelo.pal-Mikhalcvski. Port 
+Erin 27.9.2005. 
+.57. 
+21 ... lDf4! (21 ... lZJxh4,? 22 ~xh6 
+lDg6 [22 ... gxh6 23 Wxh6+ lDh7 24 l:tg7) 23 
+l:thlitJh7 24 ~g5 +- Golod) 22 ~xf4 
+itJxc4! 23lZJxe4 exf4 24 l:tg4! (24 Wxf4? 
+'if xc4 25 W xe4 l:t xe4 26 1:. e3 1:. ge8 
+27 l:txc4 l:txe4 + Golod) 24 _ Wxe4 2S ~d3 
+Wc5 26 l:t IS Wd4 27 l:t f4 We5 28 l:t IS Wd4 
+29 l:t f4 'iWc5 30 l:t f5 (0.5-0.5). I. Sokolov-
+Ivanchuk. Stcpanakcrt 10.10.2005. 
+.58. 
+34 ... ~aJ!! -+ (34 ... ~f7 35lDd8+ 
+~f8 36ltJde6+ ~f7 =) 35 l:txg7+ ~h8 36 
+itJd5 (36 bxa3?'? itJxc3. con mate impara-
+ble) 36 ... ~xb2+ 37 ct>a2 itJxc3+ 38 itJxc3 
+J..xc3+ 39 ~b3 ~e5 40 l:txa7 l:txg3+?! (40 
+... l:tb2+ 41 ~a3 l:te2) 41 ~c4l:tc3+? (41 ... 
+l:tg142 l:tb7l:tbl)42~dSb543l:tb7l:tb3 
+44 ~e4 l:tbl 45 ~f5 ~g8? (45 ... b4!? 46 
+~g6 l:tgl+ 47 ~fS ~c3 4SlDf4 l:tg7 -+) 
+46 l:tg7+ <;t>h847 l:ta7~g8? (rcloj:47 ... b4) 
+48 l:tg7+ ~h8 (O.s-o.5). Cebalo-Zeshkovsky. 
+Borovo 9.8.2005. 
+.59. 
+21 ... f5! 22 l:t h3 ~c5 23 l:t ff3 
+(23 Wg6!? l:tf7 24l:th7 Wc7 25 Wh5 ~f8 
+26 l:th8+ ~e7 27 Wg5+ ~d7 28itJxd5 exd5 
+29 c6+ 00 Finkel) 23 _ ~xd4 24 l:tfg3 l:tb7 
+25 'ifh7+ ~n 26 Wxg7+ ~e8 27 Wxf8+! 
+(0.5-0.5).27 ... ~xffl28 l:th8+ ~f7 29 l:th7+ 
+~ f8. Anand-Morozevich. Campeonato 
+Mundial FIDE. San Luis PotosI 13.1O.200S. 
+.60. 
+2S ... Wxe3!! (25 ... .i.xh2+ 26 ~hl! 
++-: 25 ... l:txbl+ 26 l:txbl +-) 26 l:txb2 (26 
+fxc3? 1:hxg2+ 27 ~f1 [27 c;thl l:txh2++j26 
+... 1: xg2+! 27 ~xg2 WfJ+ 28 ~gl Wg4+ 
+29 ct>f1 Wh3+ (0.5-0.5). L. Gongora-M • 
+Gongora. Las Tunas 2005. 
+.61. 
+36 l:td7! (36 l:txe8+ l:txe8 37 Wc3 
+1:.c73Xi.f7 l:te5-+)36 ... l:txe637l:txg7= 
+(amcnaza 37 it'xh6++) 37 ... 'ifxa2+ 38
+
+'tWxa2 :xa2+ 39 wxa2 ~fJ 40 :h7+ CltgS 
+41 :g7+ rJ;;h8 (0,5-0,5). 41 ... Wffi'! 42 : 17+ 
+we8 (42 ... wg843 :g7+) 43 tjjg7+. Svid-
+ler-Volokitin. Campeonato de Rusia por 
+equipos. Sochi 21.4.2(X)5. 
+• 62. 
+En la partida siguio 28 ••• wg7? 
+29 b5? (29 :g2 :f3 30 "d2!) 29 ••• Wh6?? 
+30 :g3 "f5 31 :g4 h3 32 :f4 (1-0). Las 
+negras pod ian haberse salvado con la ma-
+niobra combinativa 2X ... : fI +! 29 "xfl 
+"xe3+ 30 "f2 "xg5+ 31 cotfl ,*cl+ 32 
+1fe I (32 wg2 h3+) 32 ... "f4+ 33 ~c2 ,*f3+ 
+34 c;t>d2 "d3+ 35 Wcl "a3+ 36 wc2 "a2+ 
+37 Clte3 "a3+ = 38 we4?'? "d3+ 39 wc5 
+'it'a640 h:'i "a3+ 41 "b4 (41 we4?'? d5++) 
+41 ... d6+. Bareev-Goloshchapov. Copa de 
+Europa de c1ubes 9.10.2006. 
+.63. 
+19 ••• ~g4! 20 "d5+ ~g7! (20 ... 
+~e6? 21 "d2 =) 21 iLd4+ tjjf6 22 "b7 
+"d723 xd7+ (23 ~xf(-)+ Wxf6 24 :xd6+ 
+.. xd6 25 c5+ ... xe5 26 lb d5+ ..w xd5 
+27 'i!t'xd5 : hd8!? + Shirov) 23 ••. ~xd7 
+24 tjjd5 : hfS 25 : hfl? (25 c;filhl iLg4 
+26 lbxf6! : xf6 27 ..i..xf6+ c;filxf6 2X : xd6+ 
+~e7 + Ftacnik) 25 ••• .i'..h3! 26 na :ad8+ 
+... 44 j. (0-1). Leko-Shiro,·. Sarajevo 
+17.5.1999. 
+.64. 
+19 ••• "e7! 20 ,*xe7+ (20 ,*h6 0-0) 
+20 ••• <t;xe7 21 Wbl ~c6 22 f3 :g8 23 :eI 
+IS 24 :c4 :b8 2S b3 (25 ngl <itd626 :cl 
+e4 +) 25 ••• f4 26 <itb2 f5 27 h4 Wd6 28 h5 
+iLd529 :eI c4! 30 fxc4 fxc4 31 ':h4 weS 
+(31 ... : [X 32 .: g4 : [5 :q 32 : g4 e3 
+33 %lg6 ~c4 ... 40 j. (0-1). Jobava-M. Carl.'iCn. 
+Skanderhorg IKIO.2(X)5. 
+• 65. 
+29 ••. "xt7! 30 : xf7 : xf7 (tres pic-
+zas por la dama blanca) 31 Wh5 :e7 32 f4 
+tjj~33~~~~~~m~fS~fS~pfS 
+:g7 37 'iWfJ tjjb6 38 ':hl ~b4+ 39 Wei c3 
+40 f6 : f7? (40 ... tjjc4!! -+) 41 bxc3 ~a3+ ... 
+116 j. (0.5-0,5). Jakovenko-Evseev. Kaz.in 
+3.9.2(X)5. 
+42 
+• 66. 
+15 ••• ~f6! 16 g4 h6 17 h4 "c5 
+18 :tgl gS 190-0-0 hS! (19 ... a5 20 e5! "xeS 
+21 "x(:6 00) 20 gxhS g4 21 "d3 as 22 f4 (22 f3 
+iL xc3 23 hxe3 a4 24 ~ (4) 22 ••• ~ xc3! 
+23 "xc3 Wxc3 24 bxc3! IS! 25 eS d5 26 c4 ~e6! 
+. .. 45 j. (0-1). Skold-Botvinnik. Estoeolmo 
+15.1.1962. 
+.67. 
+19 ••• tjjf6!! 20 'iWg6!? (20 gxf6 :c7) 
+20 ••• tjj xh7 21 h5 : c7 22 1:[ xc7 'i!Vxg6 
+23 hxg6 Cltxc7 24 gxh7 : xh7 25 Wf2 J:.c7 
+26 Wg3 :g7 27 ..th4 .i.c6?! (27 ... tjjd7 28 ~d2 
+tjjffi) 28 b3'! (28 J:.h3 :h7+ 29 wg3 ::tg7 =) 
+... 35 j. (0-1). Alonso-Valcrga. Campconato 
+de Argentina 2(X)5. 
+.68. 
+16 ... exdS 17 f4 dxc4 18 fxeS "'xe5 
+19 "'g4 O-O-O! 20 'it'xg6 tjjf4 21 ~xf4 (21 
+'tWg3 ~xh6) 21 ... "'xf4 22 tjjf5 wc7 
+23 Ac4? (23 ",xf6 : xh6!: 23 J:.e2 "'g5 
+24 : hg I 'iWxg625 : xg6 ~c5 26 J:.g4 Ribli) 
+23 ... e3 24 : d4 : xh6 + 25 : xf4 : xg6 
+26 l:lc1 .i.c5 27 tjjxe3? (27 h4 Ribli: 27 b3 Ru-
+hlcvsky) 27 ... :e8 -+ 28 tjjd5+ ~xdS (0-1). 
+Sakaev-Rublevsky. Copa Mundial FIDE. 
+Janty Mansiysk 6.12.2005. 
+.69. 
+23 ... ~g4! (23 ... ,*xa4 24 n xb7 
+'iWa6!) 24 tjjxg4 (24 'it'd2 .: xh3+ 25 wgl 
+tjjf3+ 26 iLxf3 Axf3 27 tjjg2 J:.xf2+) 24 ... 
+lbxg4+ 25 'ikxg4 '1Wxc2 -+ ... (0-1). Topalov-
+Kramnik. Linares 1997. 
+.70. 
+18 d5 tjj d4 ( 18 ..... g2 11) 'iW e4 
+'itxf2+ 20 Wd2 tjjd4) 19 tjjxd4 exd4 
+20 :xd4"'g2 21 "e4!! "'xf2+ 22 ~d2 tjjf6 
+23 'iWe3"'g2 24 "gl! (24 l:tgl 'iWh325 :h4 
+"'d7 26 Wd4) 24 ... '1Wh3 25 : h4 "'d7 
+26 'tWd4! +- .: e8 27 J:.d3 b6 28 : n (1-0) • 
+Petrosian-Filip. Torneo de Candidatos. 
+Cura<;ao 24.5.1962. 
+.71. 
+25 ... ~b5 26 :xc3 "xc3! 27lbxc3 
+~xn 28 ¢>gl ':c4 29 "e3 (29 "dl :xc3 
+30 Wxfl .i.xb4 31 ~e2 ~xa5 32 'iWal ':6 
+33 "a3! d6 34 '1Wxh3 :xc2 35 ..,b3 ncl+
+
+Tyomkin) 29 ... i.xb4 30 ~xn? (30 llJa4!) 
+30 ••• l:lxc3 31 Wb6 i.xa5! 32 WbS+ i.dS 
+33 i.dl as 34 WbS i.e7 -+ ... 42 j. (0-1). 
+Tyomkin-Macieja. Copa de Europa de du-
+bes. Saint Vincent 22.9.2005. 
+.72. 
+16 ••• ~xd617 c4llJe5! 18 i.xeS (IX 
+dxe5 Wxd3+ 19 l:t xd3 i. bX 20 .: xdX+ 
+c;Pxd8 21 l:td I + ~eX 22 exffl i.xf4 23 fxg7 
+l:t g8 24 llJe4 i.e5 Lukacs) 18 ••• WaS 
+19 We2?! (19 i.xf6) 19 ••• 0-020 i.xf6 gxf6 
+21liJe4 I'S 22ltJxd6 l:txd6 23 g4!? (23 l:th3!"! 
+c;tg7) 23 ... l:tfd8! 24 l:thgl l:txd4! 2S gxl'S+ 
+~1'8 26 l:t xd4 l:t xd4 27 fxe6 Wf5+ ... 40 j. 
+(0.5-0.5). Goloshehapov-Mehedlish\·i1i. Co-
+pa de Europa de c\ubes. Saint Vincent 
+22.9.2005. 
+.73. 27 ... Wb2! 28 Wd7! (2X Wxa5'? Ji..d4 
+29 l:lf1 .ixf2+ 30 ~hl e3) 28 ... 'i!fe5 29 
+l:tOO (29 :leX'? Wxd5 +) 29 ... Wf430 'iWxd6 
+i.e5 31 g3 Wdl 32 'i!kxe5 Wxel+ 33 wg2 e3! 
+34 Wxl'S (34 Wxe3 ~xc5 35 fxe3 l:taX 3f1 dfl 
+c;t ex 37 d7 :l LIS 38 : a6 : xd7 39 : xa5 
+l:t(2) 34 ... e2 35 Wg5+ ~h8 36 l:tel 'ilfdl 
+37 Wf6+ c;tg8 38 Wg5+ c;th8 39 Wf6+ (0.5-
+0.5). L. Dominguez-Felgaer. Cueroavaca 
+5.2.2006. 
+• 74. 
+14 ... l:t xe5! (14 ... gfl 15 Ji..xgfl! hxg6 
+16 llJxg6llJxgfl'? 17 Wxg6+ ~fX IX i.h6+ 
+~e719 l:tael+) 15dxe5fxe516 l:tfel?! (16 
+f3) 16 ... e417 Ji..n llJf618 Wh4 i.1'S 19 iVg3 
+We7 20 c3ltJe6 21 i.e3 lLlg4 22 h3llJxe3 
+23 l:txe3 l:t1'8 24 WeS i.g6 25 l:tdl Wf7 
+26 l:t dl lLlf4 27 b4 h6 28 a4 i.h7 29 Wd4 b6 
+30 l:tel We7! 31 We3 c5 32 bxc5 bxc5 33 g3 
+llJd3! 34 Ji..xd3 exd3 35 We6+ (35 c4) 35 ... 
+Wf7 36 Wxf7+ <ittxf7 + 37 l:tb2 c4! ... 4X j. 
+(0-1). Larsen-Petrosian. Olimpiada Lie La 
+Habana 1966. 
+75. 
+21 ... .i.xdl! 22 i.xd8 l:taxd8 23 Wxdl 
+(23 ~bl ~g3 24 Wxdl :txdl+ 25 l:txdl 
+iLxh2 =) 23 ... .i.f4+ 24 ~bl : xdl+ 
+25 l:t xdl i.. xh2 26 c3 bxc3 27 llJ xc3 l:t f4 
+43 
+28l:thl l:tf229 :tel <itth730 l:te2 l:txe2 
+31 llJxe2 ~g6 ... 54 j. (0.5-0.5). Hjartarson-
+Ka.'iparov. Olimpiada de Sal6nica 18.11.19AA. 
+.76. 
+17 ... i.e6! (17 ... ~g7? IX f5!) 18 
+~hl?! (IX i.xe6 fxe6 19 e5+ ~g7 20 l:tf3 
+llJf5 + Wedberg) 18 ... .i.xc4 19 Wxe4 ~g7 
+20 f5 f6 21 l:tf3 l:th8 22 ':g3+ ~fH 23 We6 
+llJg8 + 24 l:t el We8 25 We4 (25 Wd5'?! 
+llJe7!) 25 ... wn 26 Wc3 l:te8 27 l:tg4?! (27 
+llJLl2. 27 a4) 27 ... Wh5 28 Wg3 liJe7 29 h3 
+llJxf5! -+ ... 48 j. (0-1). Topalov-Leko. Dort-
+mund 11.7.1'N9. 
+• 77. 
+25 ... llJ xd5 26 llJ xd5 l:t xd5!? 
+27 cxd5 c4 28 l:tel? (28 We5 l:te8 29 Wd4 c3 
+00) 28 ... c3! 29 : xc3 Wxc3! 30 Wxc3 b2 
+31 l:tb6 l:txb6 32 Wc8+ llJe8 33 Wxe8+ ~g7 
+34 We5+ ~g8 (34 ... f6'?'? 35 Wc7+) 35 We8+ 
+9i;g736 "'eS+ wg8 (0.5-0.5). C. Hansen-Ni-
+sipeanu. Skanderborg 14.10.2005. 
+.78. 
+26 ... Ji..d5!! (2f1 ... l:txg5 27 Ji..xefl+ 
+~g7 28 Wh4 cxd4 29 Ji..xd7 .: xfl + 30 l:t xf\ 
+l:t xe5 31 Wxd4 +-) 27llJf3? (27 i.xe6+! 
+i.xe62X :txffl+ llJxffi 29llJe4 :h7 30 Wdl 
+:xh2+! 31 c;txh2 Wh7+ 32 ~gl Wxe4 +) 
+27 ... cxb4 28 axb5 axb5 29 llJh4 'i!fg5! 
+30 :xfH+ lLlxfH 31 We8 l:t17 ... 42 j. (0-1) • 
+Kramnik-Anand. Belgrado 12.11.1997. 
+.79. 
+28 ... Wxd5 29 -.b5! Wd4 30 l:t e4 
+(30 b7 llJxf2! 31 Whfll31 :xf2'? l:tal+ 
+32.i.f1 l:ta2131 ... Wxb6 32 :xh6 Ji..d 
+33 bXW l:txb8 34 l:txbX+ ~g7 = Rogozcn-
+ko) 30 ... l:txe4 31 Wxe4 llJcJ! (31 ... Wxc4 
+32 ~xc4llJc5 33 l:tblltJxafl 34 i.xa6 :hX 
+35 h7 ±) 32 Ji..d3 Wxe4 33 Ji..xe4 d5 34 i.xd5 
+lLlxd5 35 b7 e4! 36 bSW l:t xb8 37 lLlxbS e3 
+38 fxe3 Ji..xe3+ 39 9i;hl ~g7 = ... 60 j. (0.5-
+0.5). Anand-Leko. Campeonato Mundial 
+FIDE. San Luis Potosi 3.1O.200S. 
+• SO. 
+En la partida Van Wely-Stellwagen. 
+Campconato de Holanda 15.9.200S. sc jugo 
+44 ... We4!? y desput!s de 45 Wa7 Wxb4
+
+46 a6 f4 47 'it'12 Wb5! 48 l:l a8 l:l fi! 49 Wd4 
+O! SO gxt3 'it'e2. las blancas se rindieron. La 
+jugada mas eficienle era 44 ... lLld5! 45 e7 
+~e3!! 46 l:lg8+! ~h7! 47 l:thS+! <itxhS 4S 
+eS'it'+ ~g7! (48 ... ~h7 49 Wf7+ =) 49 'it'xe3 
+lLlxe3 SO 'iWe7+ ~h6 SI 'it'ffi+ ~gS S2 'iWf6+ 
+~f4 53 'iWh4+ lLlg4 54 'ifg3+ ~c4 55 'it'f3+ 
+~xeS 56 'it'c2+ ~f6 57 'it'a6+ c;tg5 -+ (ami-
+lisis dc Mikhalevski). 
+3. CONTRAAT AQUE 
+.81. 
+21 ... ~h4! 22 'ilt'c4+ d5! 23 cxd6+ 
+'ilt'xc4 24 bxc4lLlx12 2S l:txh4lLlxdl26 <t>n 
+(26 ~c3 ltJxc3 27 ltJxc3 l:le5! 28 lLlf3 .i.xf3 
+29 gxf3 -+) 26 ... lLle3+ 27 q;,12 lLlxc4 28 d7 
+l:ld8 29 .i.c3 l:l xd7 30 lLle6 l:lc8 31 lLlac5 
+l:le732 l:ld4lLle5 33 .i.b2 l:lxe6 (0-1). 
+Dzhumaev-Dao Thien Hai. C'ampeonalo de 
+Asia Individual. 8.10.2005. 
+.82. 32 ... 'ilt'xb2+ 33 ~g3 ~b6! 34 .i.xb6 
+(34 'ilt'gl ~xe3 35 16xe3 'it'b6 36 16xh6 
+lLlxb6 37 dxe6lLldS + Psajis) 34 ... 'Mt'xb6 
+3S 'ilt'a4 (35 dxe6lLlc5!? 36 'it'd4lLle4+ 37 cot;>g2 
+'it'xe6 38 1rdS+ 'ilt'cS -+ Psajis) 35 ... lLlc5! 
+(0-1). Macieja-Aronian. Slepanakcrt 
+8.10.2005. 
+.83. 20 ... 'it'b421 b3?! (21 cxf6! Wxa422 
+'it'xc; Wxa2 23 16a3 Wc4 24 'i!fc3 00 Finkel) 
+21 ... 16a3+ 22 ~d2 (22 c;Ph I c4! -+) 22 ... 
+~e7 23 16c3 .i.e4! 24 1: h3 (24 f3 d4 2; 'it'b2 
+WM+ 26 c3 dxc3+ 27 "xc3 .i.xf3 -+) 24 ._ 
+d425 Wc4 l:tb5 26 ~el Wxal 27lLlc3 WaS! 
+28 ~e2 .i.c6 -+ ... 45 j. (O-l). Sveshnikov-
+Chibukchian. Stepanakert 10.10.2005. 
+.84. 
+31._ b3! 32 ~d3 (32 cxd5 bxc2+ 33 
+Wxc2 Wxd5 -+: 32 .i.xb3 'it'xb3 33 cxd5 
+~a3 -+) 32 ... ~b4 33 'it'e2 'it'a6 34 .:ith6 (34 
+~cl l:l gcS -+) 34 ... lLlc3+! 35 bxc3 .i.xc3 
+36 ~c1 Wa3+ 37 ~dl 'it'a1+ 38 .i.c1 b2 
+39 'it'e3 .i.xd4 40 Wdl bxcl'it'+ 41 'it'xcl Wal 
+(0-1). J. Polgar-Anand. C'ampeonalo Mun-
+dial FIDE. San Luis POtosI 28,9.2(X)5. 
+44 
+.85. 
+53 ... 'it'b4! 54 ~dl Wei 55 ~xh5 
+lLlxhS 56 'it'g4+ ~f8 57 'ilt'xh5 'it'hl+ 58 ~g4 
+Wdl+ 59 ~g5 Wdl+ 60 ~g4lLle3+ 61 ~f4 
+lLlfS+ 62 ~g4 We2+ 63 ~g5 'ilt'e3+ (O-l). 64 
+~ g4 'it'xg3++. Inarkie\·-Tomashevsky. 
+C'ampeonalo de Rusia 2006. 
+.86. 
+27 ... 'it'cI!! 28lLlfS? (28 f4 ~d4+ 29 
+~h2 'ilt'xh2 30 Wf3 'it'f2 -+: 28 l:l xci?? 
+1: xc 1+ 29 'it'fl ~h2+ 30 ~xh2 l:l xfl -+: 28 
+lLlf3 'it'xb2 29 'it'e3 ~xg7 30 e5 'ii'c3 31 'Wc4 
+.i.xe5 32 Wb7 'ilt'c6 33 ~e4 'Wxb7 34 ~xb7 
+Aac6 35 ~xc8 1:xcS + Bruz6n) 28._ .i.xfS 
+29 exf5 'Wxel+!! 30 Wxel lhc6 31 wn 
+l:l c1 32 ~d3 b4 33 ~b5 b3 34 axb3 axb3 
+35 .i.a4 l:lxn+ 36 ~xn l:lb8 (0-1). han-
+chuk-Bruzon. Skandcnborg 2(X);. 
+.S7. 
+19 ... 1:c2 20 An ..ixn 21 l:lxn 
+A fcS 22 fxg6 hxg6 23 lLlb3 (23 l:l xf6 exf6 
+24 'ilt'h7+ ~f8 25 'ilt'hS+ ~e7) 23 ... l:lxg2! 
+24 ~xg2 l:lc2+ 25 ~g3 'it'e3+ (0-1). Fedo-
+rov-Kasparo\·. Wijk aan Zee 14.1.2001. 
+.88. 
+42 e6!! fxe6 (42 ... ..igl + 43 ~xgl 
+W1'2+ 44 Wh 1 'ifxf4 45 e7! 1: b8 46 l:t as!! 
+lLlf2+ 47 ~gllLlxd3 4S e8W+ l:lxe8 49 
+l:lxc8+ ~h7 5U b8'" 'iWxd4+ 51 ~h2 = 
+Illcscas) 43 tWa3! ..igl+ (43 ... Wxa3 
+44 l:l xa3 ±: 43 ... 'it'bl 44 WxfS+ ~xf8 
+45 hS'iW+ 'it'xb8 46 .i.xb8 ~xd4 +) 44 ~hl 
+'it'bl 45 -'xf8+! ~xf8 46 bSW+ Wxb8 
+47 ~xb8 ii.xd4 48 l:lb7 (0.5-0.5). lIIescas-
+Felgaer. Barcelona 2005. 
+.89. 23 ... lLld3+! 24 ~bl Wxd5 2S exf7+ 
+~xt726b4..id827 l:lgl'it'e4(27 ... ~xf6!) 
+28 .i.d4 h6'! (28 '" ii.xf6 29 ~xf6 c;txf6 
+30 'Wh(1+ ~c7 31 l:lg7+ ~e8 32 'it'hS+ ~d8 
+33 tWa5+ ~e8 34 Wc7lLlxh4+ 35 ~al 'ilt'e6 
+36 'ifh7 ±: 28 ... lLlcS! 29 ~al ..ixf6 30 Adfl 
+l:laffl +) 29 ~al : ... 44 j. (0-1). Rychagov-
+Lugm·oi. Jyvaskyla 200S. 
+.90. 
+21 ... 'ilt'xc3!! 22 h3 l:l xn+! (22 ... 
+'tWb2 23 'it'gS!: 22 ... 'it'c5 23 ..ie2 g6! -+) 23
+
+l:lxn ltJxn 24 ~xn Wd4! (amenaza 25 ... 
+~b5+) 25 ~e2 Wxe4+ 26 ~f2 WfS+ (0-1). 
+Braun-Prusikin. Waischenfeld 2(X)6. 
+• 91. 
+16 ••• 'ti'f6! (16 ... fxg6 17 Wxg6+ 
+~h8 18 WhS Wd7 19 .i.e3+!) 17 ~h7+ ~h8 
+18 ~f4 ~xb2 19 :abl 1: xel+ 20 : xel 
+~g7! 21 ~e4 :e8 22 :e2 (22 : bl ~c5 
+23 :xb7 .1t.xf4 24 gxf4 Wxf4 25 Wc3+ :eS 
+26 ~dS 'ti'h4 27 :xc7 ~h6 IIIescas) 22._ b6 
+23 Wa4 %le724 Wc6 ~e5 25 ~xeS?! (25 ~g2) 
+25 ••• %I xeS 26 f4'!! :c5 27 We8 Wd4+ (0-1). 
+28 ~h2 :h5 29.1t.f3 ~d7+. Sanchez Guira-
+do-lIIescas. Campeonato de Espana por 
+equipos. Merida 27.8.200S. 
+• 92. 
+23 ._ ltJdxf6 24 exf6 ~xf6 25 : xf6 
+(25 ~xf6+ ltJxf6: 25 ~xh6 ~xd4+) 2S ... 
+lilxf6 + 26 ~xh6 Wd7 27 ~g6 : g8 -+ 28 hS 
+WdS 29 Wc2 (29 We2ltJxh5!) 29 ... ltJxhS 
+30 :el Wd631 :e8 %I xeS 32 ~xeS 'ti'xh6 
+(0-1). Vitiugoy-Kobalia. Kazan 3.9.2(X)S. 
+.93. 
+19._ ~bS 20 ltJf4 :d8 21 We7? (21 
+'tWxb4 Wb8 22 ltJe2 -':.f8 23 Wc3 ~g7 24 
+Wb4°o Rogozenko) 21 ... fxe4 22 ~f2 (22 
+fxe4 :eS -+) 22 ... WcS 23 'ti'gS .1t.a6 24 ~g3 
+:e82S :adl e3! ... 38 j. (0-1). Cheparinoy-
+Leon Hoyos. Cuernavaca 6.2.2006. 
+.94. 
+20 ... fS!! 21 ltJxg6 ltJxf3+ 22 ~hl 
+Wf6? (22 ... Wf7! 23 ltJ xf8 : xf8 24 exf5 
+~xf5 2S We2 ltJd4 26 ~xd4 exd4 27 ltJbS 
+d3 -+ Gelfand) 23ltJxf8 :xf8 24 exfS?! (24 
+a5) 24 ,_ ~xfS?! (24 ... lDd4! 25 ~xd4 exd4 
+26 lbe4 Wxf5 Gelfand) 2S Wg2 ~xbl 
+26 : xbl e427 ltJb5!'! (27 ttJc2) 27 ... 'iWe7 
+2S 'tW h3! a6 29 ltJ a3 lb d4 30 W g4 ltJ fS 
+31 ltJc2 WeS!? 32 ~f4 Wc3 33 We2 :eS 
+(0.5-0.5). Gelfand-Smirin. Copa de Europa 
+de c1ubes. Saint Vincent 22.9.200S. 
+.9S. 
+17 ... Wc7! (17 ... 'ti'b6 18 d6 ~g5 
+19 d7 .1t.xd7 20 'ti'xd7 'ti'xb2 21 0-0 'ti'xc3 
+22 WxfS Wxc4 23 'ti'xg5 =) IS f4?! (18 d6 
+~xd6! 19 exd6lbxd6 20 ~d5 :c8+ 21 ~f1 
+45 
+~f5 + Postny) 18 ... 'ti'cS 19 ~b5 ltJeJ 20 
+ltJa4 (20 Wd2 ~g4 21 d6 ~h4+ 22 g3 ~f3-+ 
+Postny) 20 ... ttJxg2+ 21 ~n tLJe3+ 22 'ito>e2 
+~g4+ 23 c;t;>d2 WxdS 24 tLJb6 (24 'ito>xe3 
+Wf3+ 25 ~d2 %I fdS -+) 24 ... Wg2+ (0-1) • 
+Efimoy-Romanishin. Reggio Emilia 
+5.1.200 I. 
+.96. 
+21 ... 'it'xe3 (21 ... Wxf6 22 ~xb7) 
+22 fxe3 ~a6! 23ltJg4 :112 24 b3? (24 tLJxh6 
+fS 25 g4 ~xc4 26 gxf5 : xb2 27 f6+ ~f8 
+28 : f4 ~xc2 29 ~h3 e5 + Ftacnik) 24 ... 
+~c3! 25 tLJxh6 fS 26 g4 iLg7 27 g5 :xe2 28 e4 
+(28 h4 ~c8!) 28 ... ~b7 29 :f4 ~eS 3O:n 
+~xe4 31 .1t.xe4 :xe4 32 ~g2 :h4 ... 73 j. 
+(0-1). I. Sokoloy-Ivanchuk. Wijk aan Zec 
+IS.I.2IX16. 
+.97. 
+19 ... :b4! (19 ... exf2+ 20 : xf2 
+'ti'a5 21 c3: 19 ... :xb2'? 20 :xd :b4 
+21 ~hl! :f4 22 %lgi Wa523 :xg7 :xf6 
+24 'ti'h4 WxeS! 25 .ll xeS ~xg7 26 Wd4 ± 
+Volokitin) 20 tLJg4 (20 :xe3 :f4 21 tLJg4 
+'ito>h7 +) 20 ... ~h7! 21 fxe3 fS! -+ 22 e4 
+(22 exfti Wg3+) 22 ... Wb6+? (22 ... :xb2) 
+23 ~hI WdS 24 tLJf2 :xb2 25 :gl We8! ... 
+37 j. (0-1). Carlsen-Volokitin. Biel2(X)S. 
+.9S, 
+18 ... "'a2! 19 .i.d3'!! (19 ~ xd8 
+: xdS 20 ~d3 tLJxa4 21 b3 Wa3+ 22 ~d2 
+W04+ 23 ~e2 tLJc3+ 24 ~f1 'ilt'xd4 Hubner) 
+19 ... : xd4 20 b3 ~h6+ 21 ~dl : xd3+! 22 
+'i/fxd3 tLJdS -+ 23 Wc2 "'al+ 24 ~e2 WeS+ 
+25 ~n (25 c;tf2 ~e3+ 26 ~fl "'xc7 -+) 25 
+._ ttJe3+ 26 ~f2 "'xe7 27 'it'c3 :e8 28 Wd4 
+"'83 29 :e2 gxfS 30 :hel f431 Wa7 Wb4 
+32 ~gl %IdS (0-1). Kuzuboy-Rubleysky. 
+Campeonato de Europa Individual. Varso-
+via 27.6.2005. 
+.99. 
+11 ... f6! 12 ~xg8 fxgS! 13 tLJxgS?! 
+(13 a4: 13 tLJbd2) 13 _. ~f8! + 14 tLJe6+'! (14 
+tLJxh7+ %lxh7 IS ~xh7 ..,xh7) 14._ ~xg8-+ 
+IS tLJxc7+ ~f8 16 tLJxa8 ~h3 17 g3 Wxe4 
+IS "'83+ tLJe7 (0-1). Kogan-Anand. Venacu 
+(nipidas) 2(x)S.
+
+• 100. 
+18 ••• q;,h8! (18 ... 1:tfd8 19 i.h5!) 
+19 ~xf8 l:txf8 20 l:tadl l:td8 21 ~gl .i.g7 
+22 Wfl l:t g8 23 Wh4? (23 l:t de I) 23 ••• f5! 
+24 l:tdelliJe4 -+ 25 .:laliJxb2 ... 37 j. (0-1). 
+Jasin-Stein. Campeonato de la URSS. Ta-
+llinn 1965. 
+.101. 
+22 ••• g6! + 23 liJxh6+ q;g7 24 g5 
+liJh7 25 h4 (25 lLlxf7! q;,xf7 26 h4) 25 ••• 
+liJxg5 26 hxg5 Wxg5+ 27 Wg2 Wxh6 28 
+liJd3 g5! -+ 29liJxf4 i.e7! 30 liJd3 (30 
+lLJ xe6+ -':. xe6 -+) 30 ••• g4! 31 fxg4 l:t g6 
+(0-1).32 liJf2 l:t xb2. Lahno-M. Carlsen. 
+Wijk aan Zee 29.1.2006. 
+• 102. 
+22 ••• -':.xb2! 23 l:tbl (23 l:txd8 
+l:t exd8 24 ~ xc5 :1 xd 1+ 25 l:t xd I h6 = 
+Erenburg) 23 ••• We724 .i.xc5 ~d4! 25 l:td5 
+(25 ~a3,? b4! 26 ~xb4 liJxb4 27 l:t xb4 
+Wxd6 28 l:t xd4 Wa3 +: 25 l:t xd4'? ltJ xd4 
+26 iLxd4 _xc2 -+ Erenburg) 25 ..• ~xe5 
+26 l:t xeS l:t ed8 27 'ihl (27 Wg4 We7 
+28 l:tg5 liJe5 29 .:lxg7+ q;,h8 30 Wg5 W(8 
+31 l:txh7+ ~xh7 32 Wxe5 WcS 33 "'f6 
+Wxc2 34 Wxf7+ = Erenburg) 27 ••• We7 
+28 We3liJa5 29 l:txe8 l:txe8 30 ~b3 
+(0.5-0.5). Timofeev-Carlsen. Skanderborg 
+14.10.2005. 
+• 103. 
+23 ••• Wxbl! (23 ... Wd8'? 24 ~b6 ±) 
+24 l:txbl l:txc5 25 'iWa4liJe4 26 Wxa6 .l:tel 
+27 Wd3 (27 a4liJc3 28 .:lei l:ta8 29 'iWd3 
+iLe4) 27 _ .l:txa2 28 l:tel (28liJe5!'?) 28 ••• 
+1:tra8 29liJel .l:tdl 30 ~xe4 .l:txd3 31 i.xd3 
+.l:ta432 h3 iLl'S 33liJO ~g7 ... 85 j. (0.s-0.5). 
+Aronian-Kramnik. Copa de Europa de c1u-
+bes. Saint Vincent 21.9.200S. 
+• 104. 
+24 ••• hxg6!! 25 Wxh8+ q;e7 
+26 Wh6 (26 Wxb8'?? We3++) 26 ••• l:t h8! -+. 
+Variante analitica de la partida Naiditseh-
+Sutovsky. Dortmund 2005. 
+.105. 
+14 ••• liJd4!? (14 ... Wh4+ IS q;,f1!) 
+15 Wxb6 axb6 16 liJd6+ ~e7 17 ~xb7 
+liJe2+ 18 Citd2liJxaI19liJxf7! (19 ~xa8 
+.l:t xa8 20 .l:t xal ~xd6 =) 19 ••• .l:t xa2! 
+(19 ... q;,xf7 20 ~xa8 l:lxa8 21 .l:txal ±) 
+20 lLlxh8 l:txb2+ 21 q;d3 l:tb3+ 22 ~e4 
+(22 ~d2 .l:tb2+) 22 _liJel 23 e3 b5!? ... 55 j. 
+(0-1). Baerot-Aronian. Morelia/Linares 
+26.2.2(X16 . 
+• 106. 
+15 •.• ~e6! 16liJxd5 (16 gxf5? 
+liJxc3) 16 ••• iLxd5 17 'iWf4lLJxd4! ISliJxd4 
+iLxd4 19 Wxd4 Wxh4 20 f3 ..ixO 21 .l:td2 
+fS! -+. Analisis de una linea te6rica del Ata-
+que Pano\'. en la Defensa Caro-Kann (Kar-
+pov y Podgaets). 
+.107. 
+28 ••• .l:txd4! (28 ... iLg6 29 Wxb5) 
+29 exd4 ~g6 30 Wxb5 ~xd4+? (30 ... 
+Wxb5! 31 .l:t xbS .l:t xc2 32 l:t b8+ q;f7 
+33 .l:th7+ ~f8 34 .l:td7 ..if5! -+) 31liJxd4 
+'iWxd4+ 32 ~g2 ~d3 (32 ... l:tc2+,! 33 l:te2 
+We4+ 34 ~h3 'it'fS+ 35 'tWxfS i.xfS+ 
+36 l:lxf5 l:txe2 37 .l:te5 .l:tb2 38 .l:txe6 .l:txb4 
+39 l:te7 +-) 33 Wb7! .l:te2+ 34 q;,h3 h6 35 
+'it'f3! ~f5+ 36 .l:t xf5 Wd2? (36 ... exf5 37 
+Wb3+ 'ifc4 38 Wxc4+ .l:t xc4 39 .l:t b I +-) 37 
+.l:txe6 Wxh2+ 38 ~g4 .l:tgl 39 .l:tf8+ (1-0). J. 
+Polgar-Xianghzi Bu. Copa Mundial a la cie-
+gao Bilbao 20.10.2007. 
+46 
+• lOS. 
+27 ••• .l:tb3! 28 .l:tel ~h4 29 g3? (29 
+:1 c2 e3 30 f3 ~ f2 + 31 ~ h I .l:t fb8) 29 ••. 
+l:t O! 30 b3 iLd8 31 l:t xe4 h5! 32 .l:t e2 (32 h4 
+gS! 33 hxg5 ~xg5 34 We2 h4 35 gxh4 'tWh5 
+Rogozenko) 32 ••• h4 33 .l:t b2 g6 34 ~g2'! 
+(34 Wd2 r3;g7 35 .l:te3) 34 ••• hxg3 35 hxg3 
+.:l xg3+! 36 q;,n (36 q;,xg3 Wf3+ 37 ~h2 
+~g7: 36 fxg3 'tWf1+ 37 ~h2 ~g7 38 .l:te4 
+l:t h8+ 39 .l:t h4 ~xh4 40 gxh4 .l:t xh4+ 41 
+~g3 .l:th3+ 42 r3;g4 _f3+ 43 ~g5 l:lh5++ 
+Rogozenko) 36 ••• WO ... oW j. (0-1). Smeets-
+M. Carlsen. Wijk aan Zee IS.1.2006. 
+• 109. 
+23 Wdl! ~xg7 24 Wd4+ ~g8 25 b4 
+Wa3 (25 ... liJb3 26 Wd1 Wxb4 27 Wxh3) 
+26liJbl! Wei 27liJd2 'iWc2 28 bxe5 liJxe5 
+29 ~gl ... 41 j. (1-0). Marin-Strikovie. Espa-
+na 2(x)5.
+
+• 110. 
+23 ••• .i.d3!! (23 ... hxg6? 24 'irg3 
+WhX 25 Wxg6 ~xg2+ 26 'iixg2 l:tg8 27 
+"'h3) 24 ~xd3 "'c7! 2S lbh4? (25 h3! hxg6 
+26 ~xg6 lbf5! =) 2S ••• ~h8! 26 h3?! (26 
+'iihl Wh6!) 26 ••• Wc3 -+ 27 We2 Wal+ 28 
+Wh2 Wd4 29 f4 :c1 30 lbfJ 'it'al 31 Wf2 
+:hl+ 32 wg3 :g8+ 33 ~h4 Wdl34 We3 
+: xg2 (0-1). Verzhansky-Slizhevsky. Novo-
+sibirsk 2005. 
+• Ill. 
+16 ••• lbf6! + 17 ",,-xe6 (17 exf6 
+: xd4 +) 17 •.• : xd4 18 'iie2 (IX 'iU3 c5 
+19 Wxf6 fxe6 Lutz) 18 ••• lbdS 19 ~xdS (19 
+.i.h3 :. xg3 -+) 19 ••• cxdS 20 ~h2 b4 
+21 lbdl : e4 22 Wd2 : gS 23 lbe3 d4 -+ 
+24 :adl (24lbxc4 l:th4+! 25 ct>gl We6! Lutz) 
+24 ••• ~c5 25 We2 (25 lbxc4 :h4+ 26 ~gl 
+: xg3!) 2S ••• dxe3 26 f4 : g8 27 b3 We6 
+28 f5 'it'xeS! (0-1).29 ':"xe5 :h4+ 30 ~gl 
+~xg2! 31 'iixg2 e2+ 32 ~d4 J..xd4+ 
+33 : xd4 : xg2+ 34 W xg2 exfl W + 
+3 5 ~ x fI : xd4. Timman-Vallejo. Pamplo-
+na 30.l2.19lJ9. 
+• 112. 
+24 N.lbc7!! 25 Wxc7 :c8 26 Wxe7 
+ltJc4! 27 g6 (27 ~d4 : xa3 2X bxa3 ltJxa3+ 
+29 Wb2 ltJc4+ 30 ~c3 Wa5+ 31 ~d3 'ira2 
+32 .Jtc5 Wc2+ 33 Wd4 W12+ 34 we3 'iixe5 -+: 
+27 iLc1 Wc6 -+: 27 -'.c5!? Ftaenik) 27 ••• 
+hxg6 28 fxg6ltJ xa3+ 29 bx&3 1: xa3 30 gxf7+ 
+(30 Wxf7+ ~hX 31 ~d4 :al+ 32 .i.xal 
+Wa2++) 30 ••• Wh7 31 f8lb+ : xf8 32 'itxf8 
+:a1+ 33 ~b2 :a2+ 34 we3 (34 ~xb3 
+'ita4+ 35 ~c3 :c2+ 36 ~d3 Wc4++) 34 N. 
+"'a5+ 35 r,td3 WbS+ 36 ~d4 : a4+ 37 ~c3 
+Wc4+ (0-1).38 Wd2 :a2+ 39 ~el Wc2++. 
+Karjakin-Anand. Wijk aan Zcc 14.1.2006. 
+4. FINALES Y ESTUDIOS 
+.113. 1_ :f7! (I ... :d7 2ltJe5 1:d83 d7 
++-)2 lbeS (2d7 :f123dXW :xg1+=:2 :f1? 
+:xfl+ 3 Wxfl :d2 -+) 2 •.• :ff2! 3lbO 
+: xg2+ 4 Whl :gfl 5 d7 : xf3 6 d8W 
+: xh3+ (0.5-0.5). Oms-H. Salgado. Albaeete 
+20<XI. 
+47 
+• 114. 
+6S 'itxgS+! WxgS 66 ltJxgS WxgS 
+67 r,th2 ~d4 (67 ... ~e5+ 68 ~hl =. pero no 
+6S ~h3,!,!. por 6X ... ~d6 69 g4 hxg3 70 ..tg2 
+..tg4 -+) 68 g4 (O,S-O,S). Sivanandan-Gan-
+guly. Campconato de Asia Individual. 
+Hydcrabad 9.10.2005. 
+.11S. S3 ••. :f3+! 54 ..te2 (54 ..txf3 =: 54 
+~g2 :xg3+!) 54 ••• :xg3 S5 :xf5+ ~xh4 
+S6 Wfl :a3 57 :gS :b3 S8 :gl ~hS 
+S9 ..te2 :&3 60 IS :&5 (0,5-0.5). Reshevsky-
+Geller. Torneo de Candidatos. Zurich 
+13.10.1953 . 
+• 116. 
+31 ••• ltJf8! 32 1: xbS ltJe6 33 bxa4 
+33 b4 a3 34 bxa3 : xa3: 33 : h7 axb3 34 
+: xb3 h4 ~ Stohl) 33 ••• :. xa4 34lbgS ltJxgS 
+3S fxgS :d4 36 :b3 (36 h4 :d3 37 h4 
+: b3) 36 N. h4!'! 37 gxh4 : xh4 38 wg3 : d4 
+39 :0 :dS 40 ~r4 rJ;;g7 41 :g3 (41 b4'! 
+1:d4+) 41 ... f6 42 ct>e4 :bS ... 70 j. (0.5-0.5). 
+Moskalenko-lIIesC8.fi. Barcelona 28.10.2005. 
+• 117. 
+I c6 ~g4 (I ... ltJe6 2 rJ;;b6 .i.g4 
+3 c7lbd4 4 ..tb7lbb5 5 c8llJ!) 2 c7ltJb7 
+3 c8lb! ~xe8 4 ..tb6! lbd6 (4 ... ~xg6 
+5 ..tc7 =) S ..te7 (O,S-O,S). Estudio de A. 
+Troitzky. No\"()e Vremia. 1896. 
+• 118. 
+74 ... ltJe7 7S e6 ..tcS 76 cateS as 
+77 Wf6 ~d6 78 ~xgS ~eS 79 ~b3 (79 ..th6 
+W f4 80 g5 ~ f5! 81 g6 ltJ xg6 82 .i. b 1 + 
+..txe6) 79 ... a4 80 ..ta2 a3 81 ~b3 ltJe6! 
+82 Wg6ltJe7+ 83 wgT ltJc6 84 gS WI'S 85 Wh6 
+lUe786 .:ial WeS! 87 wg7 (X7 g6 Wf6 X8 g7 
+ltJf5+) 87 ... WfS 88 Wn ltJg6 (O,S-O,5). 
+89 .i.bl+ Wxg.." 90 ~xg6 a2 91 e7 al"'92 e8W 
+"'f6+. Portisch-Botvinnik. Wijk aan Zee 
+1969. 
+• 119. 
+I b7! ltJxb7 2 ~c6 ltJd6! 3 ~xdS 
+ltJfS+ 4 ~hS (4 wg4? ltJe3+) 4 ... ~e2+ 
+5 wg6ltJe7+ 6 ~f7ltJxdS 7 g6 ~hS 8 Wf8!! 
+~xg6. ahogado (X ... ltJf6 l) g7+ ~h7 10 
+gSW+! lbxgS =). Estudio de F. Simkovich. 
+Slllljllltlly U RSS. 1940.
+
+.120. 
+En la partida Aronian-Bu 
+Xiangzhi. Stcpanakert 5.10.2005. siguio 63 
+... 'jU4+? y despues de 64 ~b5 We5+ 65 
+<;tb6 Wb2+ 66 <;t>a6 Wg2. las blancas ga-
+naron con 67 We8+ <;td6 68 Wd8+ <;te5 
+69 "'18+ (1-0). Segun el especialista en fina-
+les Karsten MUlier. las negras se salvaban 
+con 63 ... 1t'd6+ 64 <;tc3 (64 <;tb5 Wd7+ 65 
+~b4 Wd4+ 66 Wb3 'iWdl+ 67 ~a3 Wal+ 
+=) 64 ... Wg3+ 65 <;tb2 Wf2+ 66 ettal 
+WgI+ =. 
+• 121. 
+I <;tt7! (I <;te7'? <;tc6 2 ettdX <;txd6 
+3 d5 ettxd5! [3 ... exd5. ahogadoJ) I ... <;tc6 
+(I ... Wb6 2 Wf6! <;tb7 3 ettf7 =: I ... ~c8 2 
+<;te7 ~c6 3 c;ftdX! ~d7 4 <;te7 =) 2 ette7 ~e8 
+3 <;tdS ~a6 4 ette7! (4 d7? ettd6 5 ~eS ~b5 
+-+) 4 ... ~eS 5 ~dS ~b7 6 ~e7 (0.5-0.5). 
+Estudio de A. Motor. 
+• 122. 
+46 lLld4! a2 47 ~t7! ani' 48 ~xd5 
+'it'gl+ 49 ~g2 ~d3 50 lLlf5 ~e2 51 lLld4+ 
+ettdJ 52lLlfS Wct 53 ~f3 ~d2 54 ~g2 ~el 
+55lLld4""2 56 ~e2 Wbl57 ~f3 (0.5-0.5). 
+No se puede penetrar en la fortaleza hlanca. 
+Adianto-Mikhalevski. Biel 1998. 
+.123. 
+I <;tb6 e5 2 WXc6 e4 3 l:la3+! ~b2 
+4 :g3!! (4 :h3'? ~c2 5 ~d5 c3 6 ~e4 <it.>d2 
+-+ ZlIg:.U'allg mutuo) 4 ... e3 5 <it.>d5 ~c2 
+6 <;t>e4 ~d2 7 :h3! :e2 (7 ... :gl S ':xe3) 
+S ~d4 :el 9 c;fte4 c2 10 :d3+ c;ftc2 II .:te3! 
+(II c;fte3? :dl -+) 11 ... ~d212 .:r.d3+ (0.5-
+0.5). Estudio de D. Gurgenidze. 50." Allil'er-
+sario de 10/m NIIIIII. 2(K)5. 
+• 124. 
+I ~el!! We3! (I ... 'iWxc5 2 1&.f2 
+Wxf2 =) 2 ~g3!! Wxg3 (2 ... <;t>btl 3 :c2! 
+'iWxg34 :b2+) 3 :&5+ c;ftbS 4 :taS+! ~e7 
+5 : a7+ <;td6 6 : a6+ ~e5 7 : a5+ c;ftf4 
+8 :a4+ <it.>g5 9 :a5+ <;th4 10 :h5+! ~g4 
+11 :g5+ <;txg5 (0.5-0.5). Estudio de V. Hal-
+berstadt. Salrol'e Vlllellie. 1950. 
+.125. 
+I :h7+! (l :hl? b3: I :b6+ ~c7 
+2 :a6 b3 -+) I ... c;fteS 2 :hl! b33 <;tc6! (3 
+<;txc5? <;td7! -+) 3 ... c;ftdS (3 ... <;tb8 4 'Otb6 
+~c8) 4 ~d6! ~eS 5 <;tc6! <;tt'S 6 <;tf6! <;tgS 
+7 :gl+! ~f8 (7 ... <;thS 8 :hl+) 8 :hl! 
+(0.5-0.5). Estudio de Kling y Horwitz. IS51. 
+.126. 
+I c4! a4+! (1 ... d2+ 2 'Otc2 :d3 3 
+c;ftdl b4 4 :a8 c;ftg3 5 c5 q;,f3 6 c6 b3 7 c7 b2 
+8 :hR :c3 9 c;ftxd2 =) 2 <;tc3!! b4+! (2 ... 33 
+3 cxb5 a2 4 :a8 d2+ 5 ~xd2 =) 3 ~xb4 a3 
+4 cotc3 al 5 l:la8 d2+ 6 ~xd2 :gS! 7 :a7! 
+(7 :xa2?? :g2+: 7 :a6? :gl S :xa2 :g2+) 
+7 ... :g7 S :as :gS 9 :a7 :gl 10 :h7+! 
+c;ftg3 11 Ag7+ <;tfl 12 :17+ ~g2 13 :g7+ 
+~h2 14 : h7+. jaque perpetuo. (0,5-0.5). 
+Estudio de I. Akobia yD. Gurgenidze. ler. 
+Premio eeC-35 Azcrbayan 2006. 
+.127. 
+42 ... ~d3! :cl (42 ... lbxd6 
+43 ~xbl lLlb5 44 d5 lLlc5 45 d6) 43 :b6 g6 
+44 ~ xe4 : xe4 45 d5 lLl f8 46 gxf4 : xf4 
+47 :b8! :d4 (47 ... :c448 :c8) 48 e6 fxe6 
+49 dxe6 : e4 50 : c8! q.,g7 (50 ... : xc6 
+51 :xL'6lLlxe6 52 a4lLlc5 53 a'i c;Pf7 54 h4 ~f6 
+55 ~g3 c;ftf5 56 f3 ~e5 156 ... g5 57 hxg5 
+~xg5 58 f4+ <it.>f5 59 ~h4 =157 'Otf2 <i\>d5 
+58 c;fte3ltJe6 59 a6 c;ftc6 60 ~c4 c;Pb6 61 c;fte5 
+g5 62 hxg5 ltJxg5 63 ~f4 lLle6+ 64 Cittg3 
+c;ftxa6 65 ~h4ltJg7 66 f4 = Gofshtein) 51 f3 
+.: c5 52 : e7+ ~h6 53 f4 : e2+ 54 c;Pf3 
+.: xal 5S : cS lLlh7 56 c7 : a3+ 57 ~fl : a7 
+58 h4lLlf6 (58 ... c;Pg7? 59 :g8+ ~xg8 
+60 eSW+) 59 :thS+ c;ftg7 60 eS1t' ltJxcS 
+61 :xeS (0.5-0.5). Gelfand-Ivanehuk. Wijk 
+aan Zee 21U .2006. 
+48 
+• 128. 
+IltJgI (unica) I ... lLle3+ 2 ~h3! (2 
+~hl'!? elW: 2 'Oth2 ellLl! -+) 2 ... ltJf4+ 3 
+coth2 (unica) 3 ... lLlg4+ 4 ~hlltJfl+ (4 ... 
+e IltJ 5 ltJf3+! lLlxf3 =) 5 <ii;>hl cllb 6lLlf3+!! 
+liJxf3+ 7 ~g3 ~e3. ahogado. Estudio de A. 
+Herbstman y L. Kubbel. 1937.

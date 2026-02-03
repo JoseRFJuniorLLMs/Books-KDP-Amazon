@@ -1,0 +1,260 @@
+8 conceitos para
+
+Introdução
+03
+Jogo posicional e jogo tático
+05
+Conceitos
+09
+Conclusão
+12
+Sobre a Academia de Xadrez Rafael Leitão
+21
+
+INTRODUÇÃO
+
+4
+INTRODUÇÃO
+Para ser um bom jogador de xadrez, é preciso muita paciência, treino e dedicação para aprender a calcular, 
+visualizando algumas jogadas à frente e, também, compreender bem temas táticos importantes no jogo. 
+ 
+ 
+ 
+ 
+O jogo posicional envolve um entendimento quase instantâneo dos pontos mais relevantes de uma posição. 
+No entanto, esse não é um conhecimento que se adquire com pouco tempo de prática mecânica, mas 
+sim com muita reflexão, estudo, experiência e observação paciente. 
+Para ajudá-lo a acelerar esse processo individual de aprendizado,  reconhecendo mais rapidamente 
+a melhor forma de agir em determinadas posições para tirar vantagem de cada espaço no tabuleiro, 
+compartilhamos aqui alguns dos principais conceitos que envolvem o xadrez posicional. Nas próximas 
+páginas, você vai entender o que é jogo posicional, aprender a identificar elementos relevantes e conhecer 
+alguns princípios que possibilitarão melhorar o seu jogo. Vamos lá?
+O problema é que, se no caso do cálculo a resolução regular de exercícios enxadrísticos 
+pode deixá-lo craque em um tempo mais ou menos curto, quando falamos da compreensão 
+posicional, a coisa se complica.
+
+JOGO POSICIONAL E JOGO TÁTICO
+
+6
+JOGO POSICIONAL E JOGO TÁTICO
+Antes de qualquer coisa, vamos entender um pouco melhor o que é o jogo posicional, qual é a sua diferença 
+em relação ao jogo tático, por que é importante equilibrar esses dois estilos e qual é o seu perfil de jogador. 
+DIFERENÇAS
+No início da introdução já falamos um pouco sobre a diferença entre o cálculo, que você consegue praticar 
+de forma mais mecânica, e a compreensão posicional, que vem com muita experiência e observação. 
+Essa distinção é importante para entender o que é, afinal de contas, um jogo posicional, e em que ele se 
+diferencia de um jogo tático.
+Enquanto o jogo posicional é, digamos, mais amplo, precisando de um planejamento cuidadoso de onde 
+cada peça deve estar a longo prazo, onde atacar e onde defender, o jogo tático é mais dinâmico e diz 
+respeito ao cálculo específico de cada jogada.
+Isso não quer dizer, porém, que você deva escolher entre um modo de jogar e outro. Na verdade, um 
+não pode acontecer sem o outro, já que sem a tática você não consegue colocar o plano de jogo em 
+ação. É o jogo posicional que guia o jogo tático, o primeiro como alvo e o segundo como caminho até lá.
+
+7
+JOGO POSICIONAL E JOGO TÁTICO
+Para entender melhor, podemos comparar os dois tipos de jogo à construção de um edifício, por exemplo. 
+O jogo posicional é o trabalho do arquiteto, que projeta o conceito do prédio — onde vai ficar, quantos 
+andares terá, qual será a área interna etc. —, e o jogo tático se assemelha ao trabalho do engenheiro, 
+que faz os cálculos para verificar se o edifício pode ser construído daquela forma e o tira do papel. 
+PERFIS
+Apesar de jogo tático e posicional se completarem e serem ambos necessários ao bom desempenho do 
+enxadrista, existem sim perfis que tendem mais a um ou a outro tipo de jogo. 
+ 
+Quem tem perfil de jogador posicional prefere jogar com mais calma, por assim dizer, em posições mais 
+lentas, com manobras elaboradas e evitando riscos e sacrifícios materiais. É um jogo bem controlado, 
+ao estilo de grandes mestres como José Raúl Capablanca, Vasily Smyslov, Tigran Petrosian, Anatoly 
+Karpov e Vladimir Kramnik.
+Essa variação, normalmente, depende da personalidade e do estilo do jogador, mas o ideal 
+é pelo menos conhecer bem essas duas facetas do jogo para extrair o melhor de cada uma.
+
+8
+JOGO POSICIONAL E JOGO TÁTICO
+Já quem tem o perfil de jogador tático 
+costuma gostar de ataques fulminantes, 
+sacrifício de peças para construir um 
+ataque matador e posições em que 
+calcular jogadas específicas é mais 
+importante do que planejar-se a longo 
+prazo. Alguns grandes enxadristas com 
+esse perfil são Alexander Alekhine, 
+Mikhail Tal e Garry Kasparov.
+
+CONCEITOS
+
+10
+CONCEITOS
+Agora que você entendeu o que caracteriza o xadrez posicional, vamos ao principal: os conceitos 
+fundamentais para entender esse estilo de jogo.
+Primeiramente, vale ressaltar que, quando falamos de xadrez posicional, é preciso estar atento aos 
+elementos estáticos e aos elementos dinâmicos de determinada posição. 
+ 
+ 
+Já os elementos dinâmicos são aqueles influenciados pelo tempo, que surgem em determinada posição, 
+mas desaparecem rapidamente se não forem bem explorados. Eles estão ligados ao desenvolvimento 
+das peças, à má colocação de uma delas e, também, à segurança do rei.
+Para avaliar uma posição e saber como prosseguir — com mais rapidez ou em um desenvolvimento mais 
+lento, por exemplo —, o ideal é começar pelos elementos estáticos e, apenas depois de entendê-los 
+bem, pensar no aspecto dinâmico. 
+Os elementos estáticos são aqueles que não se alteram ao longo do jogo, isto é, continuam 
+tendo grande influência durante quase toda a partida. Eles são: material, estrutura de 
+peões, fraquezas duradouras e casas fortes.
+
+11
+CONCEITOS
+ 
+ 
+Dito isso, passemos a uma explicação mais detalhada dos itens que compõem esses elementos.
+O CENTRO
+O centro do tabuleiro (composto pelas casas d4, d5, e4, e5) é o lugar mais importante do jogo, assim 
+como o chamado “centro estendido” (representado pelas casas adjacentes ao centro).
+Uma das razões pelas quais esse lugar é tão importante é que nele a maioria das peças tem muito mais 
+mobilidade, o que significa que sua área de influência cresce consideravelmente. O cavalo, por exemplo, 
+precisa estar dentro do centro estendido para ter o máximo de movimentos possíveis, isto é, 8 casas para 
+as quais ele pode se mover de uma vez. Isso acontece com quase todas as peças. As únicas que não 
+têm um grande benefício em se posicionar no centro são a torre e, naturalmente, o rei, que deve ficar 
+escondido durante a maior parte da partida.
+Veja aqui o exemplo de uma partida vencida com a exploração de temas estáticos.
+Veja aqui o exemplo de uma partida vencida com a exploração de temas dinâmicos.
+
+12
+CONCEITOS
+De qualquer forma, mesmo que o centro seja de extrema importância no xadrez posicional, isso não 
+significa que você  deva negligenciar possibilidades de ataque e defesa pelos flancosl. Mas para entender 
+as exceções, primeiro devemos compreender as regras básicas.
+ATIVIDADE DAS PEÇAS
+Se estar no centro significa ter mais opções de movimento em uma jogada e, consequentemente, maior 
+domínio sobre o tabuleiro, tirar suas peças de suas posições iniciais e aproximá-las dali é, portanto, 
+fundamental. Ainda que o estilo posicional seja mais lento e menos arriscado, isso não significa  que você 
+deva evitar movimentos agressivos. Muito pelo contrário: uma das regras de ouro do xadrez posicional 
+é justamente observar quais peças podem ser ativadas durante a partida.
+Mais uma vez, vale lembrar que as peças que permanecem perto dos cantos dos tabuleiros têm menos 
+opções de movimento, o que pode não só dificultar sua ação como ainda facilitar um ataque por parte 
+do adversário, já que não há muito para onde fugir. Por isso, o ideal é, ao longo do desenvolvimento do 
+jogo, ativar peça por peça — até o rei, como veremos mais adiante, no tópico sobre a sua segurança, 
+deve ser ativado nos finais de jogo.
+
+13
+CONCEITOS
+LINHAS ABERTAS
+Outro elemento essencial no xadrez posicional diz respeito às linhas abertas, isto é, colunas e diagonais 
+que não estão obstruídas por peões. 
+Essas linhas são de extrema importância para peças como a torre, bispo ou a dama, que podem se mover 
+por um número ilimitado de casas. Ter linhas abertas próximas a essas peças significa, então, poder 
+chegar mais rapidamente a qualquer ponto do tabuleiro para realizar um ataque ou uma defesa ágil. 
+PONTOS FRACOS E FORTES
+No xadrez posicional, os pontos fortes são, basicamente, as casas controladas pelas suas peças, isto 
+é, em que elas podem atacar, enquanto os pontos fracos são as casas sobre as quais você não tem 
+nenhuma influência ou, pior, está sujeito ao ataque do adversário. Geralmente, seus pontos fortes são os 
+pontos fracos do oponente e vice-versa. 
+Veja aqui um clássico exemplo da exploração de uma coluna aberta.
+
+14
+CONCEITOS
+Na posição inicial de um jogo, por exemplo, pode-se dizer que f2 é um ponto fraco das brancas, enquanto 
+f7 é o ponto fraco das pretas. Isso porque essas duas casas, no início, só estão protegidas pelo rei, que 
+é uma peça fraca no princípio do jogo. 
+ESTRUTURA DE PEÕES
+A posição dos peões é outro fator muito relevante, também quando falamos de pontos fortes e fracos, assim 
+como de linhas abertas. Não é exagero afirmar que a estrutura de peões é o elemento mais importante 
+para a avaliação de uma posição e para determinar o plano de jogo.
+Algumas estruturas importantes envolvendo peões são:
+PEÕES ISOLADOS
+Essa estrutura é bastante comum no xadrez. Embora no final de jogo os peões isolados representem 
+uma fraqueza, já que não podem ser defendidos por outros peões, durante o meio jogo eles podem ser 
+úteis para conseguir mais liberdade para as peças e desenvolver um ataque. Devemos então equilibrar
+
+15
+CONCEITOS
+os elementos “estáticos” e “dinâmicos” para determinar se o peão isolado é uma força ou uma fraqueza 
+em uma determinada posição.
+PEÃO DAMA ISOLADO
+Um peão na coluna da dama (coluna “d”) que está posicionado no centro do tabuleiro sem peões nas 
+colunas “c” e “e“ é chamado de peão dama isolado, ou isolani. Esse peão pode representar uma fraqueza, 
+visto que também vai precisar de outra peça mais forte e flexível para protegê-lo e ainda não conseguirá 
+defender as casas centrais d4 e d5. 
+Assim como  nas posições genéricas de peão isolado, tudo dependerá dos fatores específicos de uma 
+determinada posição. A regra geral é: quem tem o peão dama isolado deve atacar e evitar os finais.
+ 
+Veja aqui um peão dama isolado sendo útil no ataque.
+Veja aqui um peão dama isolado sendo explorado em um final.
+
+16
+CONCEITOS
+PEÕES DOBRADOS
+São os peões que estão posicionados um atrás do outro e, portanto, não podem trabalhar de forma 
+complementar, defendendo um ao outro. Eles são considerados uma fraqueza   na maioria das posições
+PEÕES COLGANTES
+São peões que se encontram um ao lado do outro, porém isolados nas colunas à esquerda e à direita da 
+dupla. Essa é outra estrutura bastante típica no xadrez. Assim como acontece com o peão isolado, os 
+peões colgantes são uma fraqueza estática, porém podem ter muita energia dinâmica. O jogador com 
+peões colgantes deve atacar. Veja neste vídeo algumas ideias sobre essa estrutura típica.
+SEGURANÇA DO REI
+Já dissemos que, no começo do jogo, o rei é uma peça que deve ser protegida. No entanto, à medida 
+que a partida se desenvolve e chegamos no final, quando restam poucas peças no tabuleiro, o rei se 
+torna uma peça cada vez mais forte, devendo se mover para o centro do tabuleiro para tomar posições 
+mais ativas. Esse é um dos conceitos posicionais mais importantes do final de jogo.
+
+17
+CONCEITOS
+SUPERIORIDADE DO BISPO SOBRE O CAVALO
+Esse é um preceito elementar do xadrez posicional, mas que muitos enxadristas desconhecem. De fato, 
+muitos preferem jogar com os cavalos, por suas possibilidades táticas mais atrativas e seus devastadores 
+ataques duplos. Por essa razão, os cavalos são considerados peças “traiçoeiras”, particularmente perigosas 
+em partidas de ritmo de jogo rápido.
+ 
+ 
+ 
+Wilhelm Steinitz — estudioso de xadrez e primeiro campeão mundial da história — já discutia essa 
+superioridade desde o século XIX, e diversas partidas de grandes enxadristas já nos provaram esse fato. 
+Uma delas aconteceu recentemente, no Mundial de 2015, em uma partida entre Karjakin e Eljanov, que 
+analisamos aqui. Fischer e Kasparov também são exemplos de grandes enxadristas que se destacaram 
+na exploração da vantagem de um bispo contra um cavalo.
+Entretanto, se analisarmos cientificamente a evolução do jogo de xadrez, desde seus 
+primórdios até os dias de hoje, veremos que há um entendimento pacífico sobre a 
+superioridade do bispo contra o cavalo na imensa maioria das posições.
+
+18
+CONCEITOS
+PROFILAXIA
+Por fim, um dos mais importantes temas do xadrez posicional é a profilaxia, que significa a capacidade 
+entender o plano do adversário e jogar para combatê-lo. 
+ 
+ 
+Apesar de essa característica não ser adquirida da noite para o dia, ela é uma das mais importantes 
+no xadrez, e deve ser praticada sempre. Alguns dos enxadristas mais profiláticos do mundo, em cujas 
+jogadas você pode se inspirar, são, por exemplo, Anatoly Karpov e Tigran Petrosian. 
+Mas um dos exemplos mais impressionantes de profilaxia aconteceu em uma partida de Garry Kasparov. 
+Veja o exemplo aqui e pense como jogaria de pretas na jogada 49.
+Esse talvez seja o mais difícil conceito do jogo posicional, pois envolve “virar o tabuleiro” e 
+colocar-se na pele do seu adversário para, então, agir no intuito de frustrar suas estratégias.
+
+CONCLUSÃO
+
+20
+CONCLUSÃO
+Melhorar o seu jogo posicional é um trabalho de muita 
+observação a fim de aprender a avaliar determinadas 
+estruturas e reconhecer que ações você deve tomar 
+para dirigir o jogo para a  vitória. Uma das atividades 
+que podem ajudá-lo nessa questão é o estudo de 
+partidas clássicas, jogadas por grandes enxadristas 
+da história — e agora que você conhece os principais 
+conceitos do xadrez posicional, vai ficar mais fácil 
+fazê-lo e ir, pouco a pouco, tornando-se um grande 
+jogador!
+Continue estudando o xadrez com afinco, pratique 
+regularmente e mantenha este e-book acessível para 
+consultar sempre que necessário em sua jornada!
+
+A Academia de Xadrez Rafael Leitão é um projeto online 
+que oferece cursos, palestras e outros materiais com o 
+foco no treinamento para jogadores de xadrez. Esse é um 
+projeto do atual campeão brasileiro de xadrez, o próprio 
+Rafael Leitão. O projeto oferece os seguintes serviços:
+»»
+Cursos online;
+»»
+Palestras online;
+»»
+Materiais para estudo (e-books, base de dados).

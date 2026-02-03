@@ -1,0 +1,3984 @@
+APRIL
+2024
+Volume 144
+TOURNAMENT REPORTS: THE AMERICAN CUP 2024 ∙ PRAGUE MASTERS
+CHANGING THE 
+PERCEPTION OF CHESS 
+FROM A TOOL TO
+FIGHT DISTRACTION, 
+TO WACKY EVENTS AND 
+TAKING LESSONS FROM OTHER SPORTS
+INTERVIEW: 
+STEV BONHAGE
+A COMET IN THE
+CHESS WORLD
+
+| BRITISH CHESS MAGAZINE
+194
+BRITISH CHESS MAGAZINE
+Founded 1881 
+www.britishchessmagazine.co.uk
+Chairman Shaun Taulbut
+Director Stephen Lowe
+Editors
+Milan Dinic and Shaun Taulbut
+Photo editor
+David Llada
+Prepress Specialist
+Milica Mitic
+Photography 
+Stev Bonhage, U.S. Chess Champs Official,
+Prague International Chess Festival Official,
+biografiasyvidas.com, Shutterstock, 
+Wikipedia
+Advertising
+Stephen Lowe 
+Enquiries
+editor@britishchessmagazine.co.uk
+ISSN 0007-0440
+© The British Chess Magazine Limited
+Company Limited by Shares
+Registered in England No 00334968
+Postal correspondence:
+Albany House, 14 Shute End
+Wokingham, Berkshire RG40 1BJ
+Subscription
+support@britishchessmagazine.co.uk
+12 monthly issues 
+UK: £55 | RoW: £85
+Printed in the UK: by Lavenham Press Ltd
+Cover photography: 
+Stev Bonhage
+The American Cup 2024 
+The return of Levon Aronian
+By GM Aleksandar Colovic 
+Prague Masters
+It’s all about the new generation!
+By GM Aleksandar Colovic 
+Chess, Physics and me
+By Grandmaster Raymond Keene OBE
+4NCL Division One - Report
+By IM Shaun Taulbut
+Openings for Amateurs
+Attacking patterns out of 
+your Openings (Part I)
+By Pete Tamburro 
+Grandmasters’ Misevaluations
+By GM Aleksandar Colovic 
+The stories of Spielmann,
+Verlinsky and Rauzer
+By Peter O’Brien
+Quotes add Queries
+The century-old mastery of 
+Carlos Torre
+By Alan Smith
+196
+214
+225
+234
+238
+242
+244
+250
+BCM Interview: 
+Stev Bonhage, photographer
+A comet in the chess world
+204
+IMPRESSUM
+Contents
+
+April 2024
+BRITISH CHESS MAGAZINE | 195
+Chess as an antidote to distraction
+Arguments used in promotion of chess often emphasize that the game helps train 
+concentration and stimulates problem solving. In the era of information overflow, where 
+the fear of missing out (FOMO) is a key driver in the social life among many people, 
+particularly the young, could this present an opportunity for chess to be positioned as a 
+tool for combating distraction?
+At the beginning of April I was in the Swiss capital – Bern – for the celebration of 100 
+years of FIDE. The Swiss, together with FIDE, put on a great show which included the 
+procession of the FIDE’s torch relay in the centre of Bern, “something which we have 
+never had in our city,” as the mayor said later.
+A well thought out, well organised and well executed event (would you expect anything 
+different from the Swiss?!), also included the celebration of 50 years since the formation 
+of the Swiss Youth Chess Federation. The head of the organisation, Michael Hochstrasser 
+gave a speech in which he highlighted what to me seems as the most obvious benefit of 
+chess today for young people:
+"Young people are exposed to too many distractions. Multitasking is a key word of our 
+time. At the same time, young people are doing their homework, discussing the latest 
+events at school while listening to music and writing social media posts. But what young 
+people also have is more and more difficulties concentrating… By learning chess, children 
+learn how to concentrate and fight distractions…".
+While this seems like a very obvious point, it struck me that it’s not something which 
+is put forward by chess professionals and promoters when talking about the game nor 
+– to my knowledge – is it something that has been properly researched. Yes, it’s often 
+said that chess helps concentration, but chess as a tool against distraction is something 
+slightly different.
+It is no secret that children are easily more distracted. Whether a child plays videogames, 
+spends time on TikTok or plays chess – what’s the difference? Chess can also be a 
+distraction. But, various research has shown that chess does help build skills which are 
+helpful in life – such as concentration, analysis, problem solving, order, to name a few. (In 
+fairness, there are studies which have also shown the benefits of video games, but not to 
+the extent as chess). What if chess – as an education tool – could be used to supplement all 
+those distractions into one?
+This argument of chess being a tool to fight distraction can be useful, especially as 
+technology – despite its many benefits – is showing to have a detrimental effect on 
+children’s focus. Potentially, this may be a path to further promote chess and grant it more 
+recognition in society.
+Finally, when it comes to other ideas how to promote chess and change its public 
+perception, we invite you to read the interview with photographer Stev Bonhage whose 
+distinctive approach to life and work could bring in some new ideas on how to present the 
+game to the wider world.
+BCM Editor
+
+04/144
+   | BRITISH CHESS MAGAZINE
+196
+As if chess wasn’t already complicated 
+enough, the Americans decided to suspend 
+their customary pragmatism and introduced a 
+convoluted format that few could understand.
+The format:
+ ▪Double Elimination Bracket
+ ▪Classical time control: 90 minutes + 30 
+seconds
+ ▪Rapid time control: 15 minutes + 10 
+seconds
+ ▪Blitz time control: 3 minutes + 2 seconds
+ ▪Championship Bracket matches: two 
+classical and two rapid games, followed 
+by blitz tie-break if necessary
+ ▪Consolation Bracket matches: four rapid 
+games, followed by blitz tie-break if 
+necessary
+ ▪Grand Final Reset: four rapid games 
+followed by a blitz tie-break if necessary
+Looking at it, the main question is: why? 
+Why play a classical game followed by 
+a rapid game on the same day? Why the 
+championship bracket has classical games, 
+followed by rapid games in case of a tie, 
+but the consolation bracket has only rapid 
+games? Why have only rapid games in the 
+grand final?
+Perhaps somebody knew the answers to these 
+questions, but to this author’s knowledge 
+they were never shared with the public.
+One explanation that was promoted by the 
+Americans, perhaps under the influence of 
+the most dominant chess company in the 
+world, is the idea of a second chance. In 
+other words, a loss in one match shouldn’t 
+send the player home – he gets another 
+chance in the consolation bracket and if 
+he wins his matches there, he still has a 
+shot at the title, meeting the winner of the 
+championship bracket in the grand finale.
+This is certainly gracious, though it 
+could theoretically lead to a rematch 
+for first place. Imagine the winner of the 
+championship losing to the winner of the 
+consolation bracket: he must also get his 
+second chance, leading to a rematch. I think 
+Karpov, with his fondness for rematches, 
+would have liked this.
+By GM Aleksandar Colovic; www.alexcolovic.com; Photo: U.S. Chess Champs Official
+THE RETURN OF LEVON ARONIAN
+THE AMERICAN CUP 2024
+
+April 2024
+BRITISH CHESS MAGAZINE | 197
+After this lengthy introduction, it’s time to 
+move on to the games.
+The tournament saw an unexpected return 
+of Levon Aronian.
+After dropping out of the top 10, after 
+more than a decade in it, Aronian seemed 
+unlikely to come back. While always jovial, 
+he hasn’t shown much ambition in the past 
+period and his results were average at best.
+Garry Kasparov famously said that the 
+chess world is a better place with a happy 
+Aronian in it, but Aronian is always happy. 
+Financially secure, with a young daughter, 
+he enjoys life and at the age of 41 perhaps 
+nobody expects him to repeat his great feats.
+Except that, like all great players, Aronian 
+is ambitious. He may not always show it, 
+or the opposition won’t allow him to show 
+it, but there is no reason to doubt it’s there.
+The winner’s luck in Aronian’s case let 
+itself be known in the first round. Facing 
+Sevian, after a series of draws Aronian 
+took the lead by winning the first blitz 
+game. In the second, the following position 
+was reached.
+ Samuel Sevian - Levon Aronian 
+Open Saint Louis, US (1.6), 14.03.2024
+XIIIIIIIIY 
+9-+r+-+-mk0 
+9+-+-vl-zpp0 
+9p+-+N+n+0 
+9+-+-+Q+-0 
+9-+r+L+-+0 
+9zP-+-+-+-0 
+9-wqp+-zPP+0 
+9+-tR-tR-mK-0 
+xiiiiiiiiy
+In a must-win situation, Sevian burnt 
+bridges, which often means ending up in a 
+losing position. Objectively, White is lost 
+here, but with little time and a lot of pieces, 
+anything can happen. 
+43...¥f6? From winning to losing in one 
+move. It was the queen that should have 
+come to that square, not the bishop! 
+ 43...¥xa3 44.¤g5 £f6 parries all threats 
+and Black wins as he remains with two extra 
+pawns after 45.£h3 £xg5 46.£xa3 h6;
+
+04/144
+   | BRITISH CHESS MAGAZINE
+198
+43...£f6 was perhaps even simpler, though 
+it doesn’t win for Black after 44.¦e2 £xf5 
+45.¥xf5 ¥xa3 46.¦cxc2 ¦xc2 47.¥xc2 
+a5 when White should draw, but Black also 
+needed that result to win the match. 
+44.¤f4! Now White is winning. It’s very 
+likely that Aronian planned 
+44...¤f8 And missed the very beautiful 
+combination that Sevian also missed! 
+45.¤d5?? Missing a once-in-a-lifetime 
+opportunity. 
+45.£xh7+! 
+¤xh7 
+46.¤g6+ 
+¢g8 
+47.¥d5# is a combination that one rarely 
+gets to see at grandmaster level! 
+45...¦4c5 Now Black is safe again. 
+45...¦e8 was even better, but it doesn’t 
+matter as long as White doesn’t win. 
+46.£h3 ¥g5 47.f4 ¥h6 48.£f5 ¤g6 48...
+g6 49.£f7 £d4+ 50.¢h2 £f2 is the way 
+the engine wants to win, but needing a draw 
+Aronian’s move more than suffices. 
+49.¢h1 Insisting on keeping pieces on the 
+board, but now Black wraps it up. 
+49.¦xc2 ¦xc2 50.¥xc2 £d4+ 51.¢h1 
+¦f8 wins the f4–pawn and ensures Black 
+against trouble. 
+49...¦f8 50.£d7 ¤xf4 51.¤xf4 ¥xf4 
+52.¥f3 ¥xc1
+0–1
+ 
+ARONIAN'S GRUNFELD
+A lucky break is all Aronian needed.
+In the next round, he faced the main 
+favourite, Fabiano Caruana. These players 
+know each other well, they have worked 
+together, so in similar cases, the players 
+usually play openings that they haven’t 
+looked at together.
+In this match, Aronian unleashed the 
+Grunfeld Defence.
+The Grunfeld is an excellent opening, 
+theoretically impeccable and rich in counter-
+attacking chances. White suffers greatly 
+when facing it as even posing problems is 
+not an easy task, forget about an advantage! 
+Therefore, White’s approach to the Grunfeld 
+has been to use one-game ideas, which aim 
+to surprise the opponent. This is possible 
+because the choice of good lines White has 
+in the Grunfeld is big and the amount of 
+theory in them is considerable, which puts 
+tremendous pressure on the memory of the 
+Black player. This hit-and-run approach for 
+White, plus the whims of fashion, have led to 
+a decrease in the popularity of this opening.
+Aronian 
+never 
+played 
+the 
+Grunfeld 
+seriously and this must have been a big 
+surprise for his opponents. Combine this 
+with the innovative ideas he introduced in 
+the opening, and the result was a significant 
+practical advantage for him.
+ Sam Sevian - Levon Aronian
+Saint Louis, USA, 2024
+1.c4 g6 2.d4 ¤f6 3.¤c3 d5 4.cxd5 4.¤f3 
+¥g7 5.h4 was what Caruana tried in 
+his second attempt against the Grunfeld. 
+The advance of the h-pawn is common 
+nowadays, so Aronian wasn’t too surprised. 
+5...0–0 not fearing ghosts on the kingside. 
+Black allows the opening of the h-file and 
+the exchange of his dark-squared bishop, 
+but finishes development in the meantime. 
+6.cxd5 (6.h5 is another try, after 6...¤xh5 
+7.cxd5 c6 Black obtains good counterplay.) 
+6...¤xd5 7.h5 c5 8.hxg6 hxg6 9.¥h6 ¤xc3 
+10.bxc3 ¥xh6 11.¦xh6 ¢g7 12.£d2 cxd4 
+13.cxd4 ¤d7 the alternative is 13...¤c6. 
+14.e4 ¤f6 15.¦h4 ¦h8 and Black equalised 
+successfully. After 16.¦xh8 £xh8 17.£f4 
+£d8 with ...£a5 and ...¥g4 Black didn’t 
+have problems and the game was drawn in 31 
+moves. ½– ½ Caruana,F (2804)-Aronian,L 
+(2722) Saint Louis USA 2024 
+4...¤xd5 5.e4 ¤xc3 6.bxc3 ¥g7 7.¥e3
+
+April 2024
+BRITISH CHESS MAGAZINE | 199
+XIIIIIIIIY 
+9rsnlwqk+-tr0 
+9zppzp-zppvlp0 
+9-+-+-+p+0 
+9+-+-+-+-0 
+9-+-zPP+-+0 
+9+-zP-vL-+-0 
+9P+-+-zPPzP0 
+9tR-+QmKLsNR0 
+xiiiiiiiiy
+This 
+classical 
+approach, 
+popular 
+since Karpov’s use in the 1990 World 
+Championship match against Kasparov, 
+was Sevian’s choice. 
+Both Robson and Caruana tried the sharpest 
+7.¥c4 0–0 (7...a6!? was the most original 
+of Aronian’s innovations. It worked 
+wonders in his game against Robson after 
+8.h4 c5 9.¤e2 h5 10.0–0 0–0 11.¥e3 ¤d7 
+(Here 11...¤c6 may be an improvement, as 
+the knight on d7 exerts too little pressure 
+on the centre.) 12.£d2 (White could have 
+stopped Black’s expansion with 12.a4.)12...
+b5 13.¥d5 ¦b8 14.dxc5 £c7 with 
+unclear play where eventually Aronian 
+emerged victorious. 0–1 (62) Robson,R 
+(2696)-Aronian,L (2722) Saint Louis USA 
+2024) 8.¤e2 ¤c6 another rare line by 
+Aronian. (Nowadays Black’s plays nothing 
+but 8...c5, yet there are other moves like 
+this one, or 8...b6 (played sometimes 
+before castling) or 8...£d7.) 9.0–0 ¤a5 
+10.¥d3 e5!? the idea to attack White’s 
+centre with ...e5 is not new in the Grunfeld, 
+though rarely played here. (More common 
+alternatives are 10...c5 and 10...b6.) 11.¦b1 
+(11.dxe5 is the engine’s suggestion, but after 
+11...¥xe5 12.f4 ¥g7 13.¥a3 ¦e8 14.£c2 
+¥d7 Black is not without counterchances.) 
+11...b6 12.¥e3 ¥e6 provoking d5. 13.d5 
+¥d7 14.c4 ¤b7 15.£d2 £e7 16.¥c2 c5 the 
+immediate 16...f5 was also possible. 17.dxc6 
+¥xc6 18.¤c3 f5 with unclear play. ½– ½ 
+(54) Caruana,F (2804)-Aronian,L (2722) 
+Saint Louis USA 2024.
+7...c5 8.¤f3 £a5 9.£d2 ¤c6 10.¦b1
+XIIIIIIIIY 
+9r+l+k+-tr0 
+9zpp+-zppvlp0 
+9-+n+-+p+0 
+9wq-zp-+-+-0 
+9-+-zPP+-+0 
+9+-zP-vLN+-0 
+9P+-wQ-zPPzP0 
+9+R+-mKL+R0 
+xiiiiiiiiy
+A subtlety to provoke ...a6 (in view of 
+the threat ¦b5) with the idea to later take 
+advantage of the weakened b6–square on 
+the queenside. 
+10...a6 11.¦c1 cxd4 12.cxd4 £xd2+ 
+13.¢xd2 e6 Necessary to stop d5, as 
+allowing it would give White access to the 
+weakened b6–square with ¥b6. 
+14.¥d3 0–0 15.¦c4 ¦d8 The immediate 
+15...¥d7 is an alternative. Generally Black 
+doesn’t have problems in this endgame as 
+he’s prepared for a break in the centre with 
+d5, while otherwise White cannot make 
+progress. 
+16.¥g5 f6 17.¥e3 ¥d7 18.h4 ¥e8 
+Controlling the d-file in case of d5. 
+19.¦b1 b5 20.¦c3 ¥f8 21.¦cb3 ¤a5 
+Black is perfectly fine and decides to repeat 
+moves. 
+ 21...f5!? was an attempt to play for more. 
+Black wants to provoke e5 when he will 
+have an excellent square on d5 for the 
+knight or bishop. 
+22.¦c3 ¤c6 23.¦cb3 ¤a5 24.¦c3 ¤c6
+½–½
+ 
+The scenario from the match with Sevian 
+was repeated in the match against Caruana. 
+The classical and rapid games were drawn, 
+with Aronian winning both blitz games.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+200
+The match with Robson went the other 
+way round. Aronian won the first two 
+games and by drawing the third secured a 
+win in the four-game match. The second 
+win featured his surprising 7…a6 in the 
+Grunfeld mentioned above.
+The final against Wesley So was decided 
+in the last rapid game. Aronian won it with 
+Black and clinched the match 2.5-1.5.
+  Wesley So - Levon Aronian 
+Open Saint Louis, US (4.4), 20.03.2024
+1.d4 ¤f6 2.c4 e6 In the final Aronian 
+reverts to his usual openings. Perhaps he 
+feared So’s preparation in the Grunfeld. 
+3.¤c3 ¥b4 4.£c2 Capablanca’s favourite 
+move is one of the safest against the Nimzo-
+Indian. 
+4...0–0 Aronian has also played 4...c5 
+recently, a move that wasn’t considered as 
+theoretically sound as the text move and 4...
+d5, but with good preparation it’s perfectly 
+possible to play it. 
+5.e4 This move used to be an aggressive 
+way to meet 4...0–0, but today is often a 
+silent draw offer. 
+5...c5!? Aronian refuses the silent draw offer! 
+5...d5 is considered the main move. 
+After the forcing 6.e5 ¤e4 7.¥d3 c5 
+8.¤f3 cxd4 9.¤xd4 ¤d7 10.¥f4 £h4 
+11.g3 £h5 the theory continues and 
+draws are agreed around move 30. So 
+has played this line making draws quite 
+often in the past. 
+6.e5 cxd4 7.a3 ¥a5!? The real surprise! 
+The move hasn’t been frequently played 
+by human players, but does this hold 
+true when considering it is one of the 
+primary moves recommended by the 
+engine? So far the moves 7...¥xc3, 8...
+dxc3 and 8...£a5 have been played with 
+regular frequency. 
+8.exf6 dxc3 9.b4 ¥c7 10.fxg7 ¦e8 11.¤f3
+XIIIIIIIIY 
+9rsnlwqr+k+0 
+9zppvlp+pzPp0 
+9-+-+p+-+0 
+9+-+-+-+-0 
+9-zPP+-+-+0 
+9zP-zp-+N+-0 
+9-+Q+-zPPzP0 
+9tR-vL-mKL+R0 
+xiiiiiiiiy
+According to the engine Black should be 
+fine now. 
+11.¥d3 is the only(!) move to keep an 
+advantage. After 11...f5 12.£xc3 d5 
+13.¤f3 d4 14.£b3 ¤c6 15.c5 ¢xg7 16.0–0 
+e5 again White has an only (!) move to 
+keep an advantage and that is 17.¥g5 £d7 
+and again an only move 18.b5 ¤a5 19.£b4 
+there is also 19.£b2 as an alternative here, 
+at least. White should be better here, though 
+to a human eye, especially one that hasn’t 
+analysed this position before, it’s just a 
+mess and anybody’s game. 
+11...d5?! Aronian probably remembered 
+that ...d5 should be played sooner rather 
+than later, but here the timing isn’t right. 
+11...£f6! we enter the territory of only 
+moves again, this time for Black to keep the 
+balance. The position is unclear after 12.¥e3 
+¤c6 13.¦d1 d5 with chances for both sides. 
+12.£xc3?! Now Black is fine again. 
+12.¤g5! was the way to exploit Black’s 
+imprecision. After 12...f5 13.£xc3 White 
+threatens £h3. 13...£e7 14.¥e2 £xg7 
+15.£xg7+ ¢xg7 16.¥b2+ ¢g6 17.¤f3 
+White keeps the initiative in the endgame 
+after 17...dxc4 18.¥xc4 e5 19.0–0 ¤c6 
+20.¦ac1 as Black’s centre is rather loose. 
+12...e5 Black obtains good counterplay now. 
+Aronian explained his opening strategy
+
+April 2024
+BRITISH CHESS MAGAZINE | 201
+(at least in some of his games) that he 
+voluntarily went for dubious lines which he 
+had checked, safe in the knowledge that his 
+opponents hadn’t done the same. "Nobody 
+checks dubious lines" to paraphrase his 
+rationale, but perhaps soon enough people 
+will start. 
+13.cxd5 e4 14.¤d4 ¥e5 15.¥b2 ¤d7 
+16.¥b5 a6 17.¥xd7?
+XIIIIIIIIY 
+9r+lwqr+k+0 
+9+p+L+pzPp0 
+9p+-+-+-+0 
+9+-+Pvl-+-0 
+9-zP-sNp+-+0 
+9zP-wQ-+-+-0 
+9-vL-+-zPPzP0 
+9tR-+-mK-+R0 
+xiiiiiiiiy
+White wants to castle as soon as possible, 
+but this gives up the bishop pair and also 
+has a tactical problem. 
+17.¥a4 was better. After 17...b5 18.¥b3 
+¥b7 White remains on top. With an extra 
+pawn (the pawn on g7 doesn’t count, but 
+the one on d5 does) and a safe position, he 
+has very good prospects. 
+17...¥xd7 18.0–0 Continuing the plan. 
+18...£h4 Natural, though there was a 
+stronger continuation. 
+18...¥b5! 19.¦fd1 £f6 was very strong. 
+The pressure on the long diagonal is 
+tremendous and this limits the mobility of 
+White’s pieces. Black simply wants to pick 
+up the pawn on d5 with ...¦ad8xd5. 
+19.g3 £h3 20.f4 ¥f6 21.£e3?! The queen 
+is rarely a good blockading piece. 
+21.¦ae1 ¦ad8 22.£b3 was better, when 
+White has good coordination and the 
+position is balanced. 
+21...¥g4 Controlling the d1–square and 
+keeping the bishop close to the kingside, 
+though it was possible to do the same from 
+the other side, from the a4–square. 
+22.¦f2 ¦ad8 23.¤b3 ¦xd5 Threatening 
+...¦d3. 
+24.¦e1 White must keep the e4–pawn 
+under control. This prevents ...¦d3. 
+AFTER DROPPING OUT OF THE
+TOP 10, AFTER MORE THAN A
+DECADE IN IT, ARONIAN SEEMED
+UNLIKELY TO COME BACK. WHILE
+ALWAYS JOVIAL, HE HASN’T MUCH
+AMBITION IN THE PAST PERIOD 
+AND HIS RESULTS WERE
+AVERAGE AT BEST
+
+04/144
+   | BRITISH CHESS MAGAZINE
+202
+24.¥xf6? ¦d3! 25.£e1 ¦xb3 with ...e3 to 
+come and Black wins. 
+24...¥xb2 
+24...¦d3? 
+25.£xd3 
+exd3 
+26.¦xe8+ ¢xg7 27.¥xf6+ ¢xf6 28.f5 is 
+excellent for White. 
+25.¦xb2 £h6 26.¦d2 If White manages 
+to keep the blockade on the dark squares he 
+should be fine. 
+26...£d6 27.¦xd5 £xd5 28.¤d2 Ideally, 
+White would like to put his knight on e3 - 
+the queen is still a bad blockading piece. 
+28...¥f5 29.¤f1 ¥h3 30.¤d2
+XIIIIIIIIY 
+9-+-+r+k+0 
+9+p+-+pzPp0 
+9p+-+-+-+0 
+9+-+q+-+-0 
+9-zP-+pzP-+0 
+9zP-+-wQ-zPl0 
+9-+-sN-+-zP0 
+9+-+-tR-mK-0 
+xiiiiiiiiy
+Now it was possible to either exchange 
+queens (suitable for the side with a 
+weaker king, in this case White) or 
+to put the knight on e3 with 30.£d2 
+£xd2 (30...£e6?! 31.¤e3 is mission 
+accomplished for White.) 31.¤xd2 f5 
+32.¦c1 ¦d8 33.¤c4 ¦d3 34.¢f2 ¢xg7 
+35.¤e3 and the blockade on the dark 
+squares should steer the game towards 
+a draw. 
+30...¦e6 Aronian avoids the repetition 
+of moves. 
+31.¦c1 ¢xg7 32.¦c5 £d3 33.¦g5+ This 
+is possible, but sending the rook away from 
+the back rank looks a bit risky. 
+ 33.¢f2 was more consistent with White’s 
+blockading strategy. 
+33...¢f8 34.£c5+? White got carried 
+away. It may seem there is counterattack, 
+but Black refutes it nicely. 
+34.¢f2 was again fine for White;
+Even 34.£xd3 exd3 35.¦e5 should 
+have drawn. 
+34...¦d6 35.¦h5 £xd2 36.¦xh3
+XIIIIIIIIY 
+9-+-+-mk-+0 
+9+p+-+p+p0 
+9p+-tr-+-+0 
+9+-wQ-+-+-0 
+9-zP-+pzP-+0 
+9zP-+-+-zPR0 
+9-+-wq-+-zP0 
+9+-+-+-mK-0 
+xiiiiiiiiy
+It’s hard to imagine what made So send this 
+rook from the perfectly sensible placement 
+on the first rank to the utterly ridiculous 
+h3–square. 
+36...b6 White gets mated after the pin on 
+the rook is lifted. 
+0–1
+ 
+In an interview after the event Levon 
+said – “It’s great to play well and to 
+control the flow of the game… It’s a 
+really good feeling”.
+Aronian won the American Cup without 
+losing a single game. It is an impressive 
+feat. After such a triumph, it is natural to 
+ask if Aronian is capable of returning to 
+the top 10. Can he muster the same flair 
+that made him the fans’ favourite for many 
+years? I would like to think so, though 
+in light of the fierce competition from a 
+surge of young talent, it would require 
+an extraordinary effort by the seasoned 
+veteran to reclaim his former glory.
+
+April 2024
+BRITISH CHESS MAGAZINE | 203
+
+04/144
+   | BRITISH CHESS MAGAZINE
+204
+Interview: Stev Bonhage, photographer
+A comet in the chess world
+By Milan Dinic
+Photo: Stev Bonhage
+
+April 2024
+BRITISH CHESS MAGAZINE | 205
+In the history of the 64-squared game, there have been several 
+“chess comets” – people who appear out of nowhere, shine a 
+light and move on, never to be seen again. Most of them were, 
+of course, chess players. But not all.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+206
+The unseen heroes of chess
+The chess world seldom acknowledges and even more seldomly recognises and 
+remembers the people who put things together – those who help make it possible 
+to play chess professionally. Namely, the organisers and the fundraisers, event 
+managers, journalists who spread the word about the game and the players and, also 
+– the camera crews and photographers who caught on camera some of the most 
+iconic chess moments.
+In the chess world in recent years several names have stood out when it comes to 
+taking photos – David Llada (who is also a great friend of BCM), Leonard Ootes, Niki 
+Riga, Maria Emelianova and, more recently – a phenomenon in the chess arena, Stev 
+Bonhage.
+Unconventional style, iconic work
+Heavily tattooed, leisurely dressed and informal – Stev looks more like a street 
+breakdancer or a character akin to Hunter S Thompson, with a German-Scandinavian 
+twist. His unconventional style is also visible in the work he has done in the chess 
+world so far and it is not always to everyone’s taste.
+As the first exhibition of his chess photos is set to start touring Europe (as a part of 
+FIDE’s 100th-anniversary celebration), BCM spoke to Steve Bonhage about his work 
+and chess photography.
+From a small place to the world stage
+Stev Bonhage was born in 1985 in the former “Deutsche Demokratische Republik” - 
+East Germany, but the family moved to Sweden when he was young.
+“I grew up in a small place, in the middle of the forest. We had to ride 40, 50 kilometres 
+to school. For me, the camera was the way out. Also, I'm an introvert. I know how to put 
+the switch when I have to, but I prefer to be for myself. The camera has always been a 
+way to express myself,” explains Steve.
+At 17 he dropped out of school but thanks to the famous Scandinavian social support 
+programmes, he fell on the safety net of a government youth employment scheme 
+which landed him his first job and, as it would turn out, his life calling – in photography.
+“I was working for a couple who were prominent photographers, doing ordinary stuff 
+– cleaning the studio, tidying up things, setting the lights, assisting. Then something 
+happened that stuck with me. I was cleaning up the digital archive and I saw these 
+maps and folders neatly organised – the date, the customer/client and the location 
+where the photos were taken. Oslo, Gothenburg, Malmo… These were all big places in 
+Scandinavia and I thought it would be cool if people sent me to places to take photos. 
+Soon, as I started to travel – all my photos were labelled this way.”
+
+April 2024
+BRITISH CHESS MAGAZINE | 207
+
+04/144
+   | BRITISH CHESS MAGAZINE
+208
+As it turned out, the camera didn’t open just a new world for Stev, but also – a new 
+language.
+“Whenever you have the camera in front of your face, nobody's really talking to you and 
+it's more a sign communication which takes place. I got to know some amazing people 
+just by sign language or gestures and stuff connected to photography. Once, I got to 
+know Madonna’s yoga teacher just by taking a photo of him in Berlin”.
+From breakdancing to MMA and Formula One
+Stev’s first big break was in South Korea, taking photos at the R-16 festival, an annual 
+international event for urban arts. A trip that was supposed to last just two weeks 
+turned into a decade-long spell in Southeast Asia. From a run-down hostel in Bangkok, 
+where backpackers, life chancers and enthusiasts on psychedelics played chess and 
+got drunk on the rooftop, to running a hostel in Laos, Stev comes across as a real-life 
+character from Alex Garland’s adventure drama, “The Beach” – travelling through life 
+in search of adventure.
+“Laos is another crazy story. I was just going there for a visa run and the next day, I had 
+my own hostel thanks to some friends and people I got to know! We built everything 
+from the ground up. I invited graffiti artists that I knew living in South East Asia. They 
+were coming in and spraying the walls, and some other friends helped me build a 
+volleyball court and it was really fun!”
+Just as it seemed Steve was parting ways with his camera, a friend got in touch and 
+invited him to take photos for a shocking story – a documentary about a secret war
+
+April 2024
+BRITISH CHESS MAGAZINE | 209
+on Laos from 1964 to 1973, during the US invasion of Vietnam, where the Americans 
+dropped more than two million tons of bombs. This amounts to having one planeload 
+of bombs dropped every eight minutes! To this day, Laos remains the most heavily 
+bombed country in the world.
+“The documentary was about the people living in these areas – who use remains of 
+the bombs to make jewellery or cutlery, and then end up harming themselves or even 
+losing their lives. You have kids playing in the fields full of these bombs, it’s crazy…”.
+Steve’s curiosity took him from the bombed fields of Laos to MMA championships in 
+Asia, to taking photos for Red Bull (his most successful partnership), Formula One, 
+Heineken, Puma, Ferrari…
+All of these opportunities came just by word of mouth and friendships!
+“I don't have any business cards or anything - I write to people. I tell them that I would 
+like to get access to take some photos. I will share the content with them. I would 
+pay for my own flight. I would pay for my own accommodation. And, if you like the 
+photos then we can start to discuss if you want to work with me or not. Also, I’m not 
+an extrovert, so the camera is a way for me to communicate”.
+The cooperation with Red Bull was particularly fruitful for Stev.
+“I did a lot of work for them and for their Formula One team and driver Max Verstappen. 
+They work 24/7 and think out of the box. They are very open to ideas and want to go 
+one step further. For example, in their Formula One hangar, they organised a ‘world
+
+04/144
+   | BRITISH CHESS MAGAZINE
+210
+competition in throwing paper aeroplanes’. It was fun and turned out to be very popular 
+with the crowd and great for their brand”.
+“Chess could also benefit from thinking more like that,” argues Steve.
+But Stev isn’t someone from the chess world and his views are seen as too radical by 
+some.
+“I learnt chess when I was six or seven but never played it consistently. I enjoy playing the 
+game and it’s fun. Also, I am interested in philosophy and history, so the political backdrop 
+to chess has been very interesting to me. So, I started taking chess-related photos.”
+Photographing the champions
+Usually, chess photographers are former players/organisers or people who have in 
+one way or another had a longer-term connection to the game. This often means they 
+know the chess players and the players know them. This was not the case for Steve 
+whose first official chess event was the 2022 Candidates in Madrid. He was hired by 
+David Llada, an accomplished photographer himself, who was at the time FIDE’s Chief 
+Marketing Officer.
+“In the photos, I take of chess players and chess events – I try to be more unconventional. 
+After all, rules are there to be broken”, explains Steve.
+“There are documentaries about why a certain tone makes you feel a certain way. It’s 
+similar to photos/videos – if you have a dark picture, you will automatically always go 
+to the brightest spot. That's how I direct you where I want you to look. It’s a concept I 
+took from film. And then, you can explore the picture for yourself.
+As with all good things in life – it’s in the detail. It’s the love for detail that got me so 
+deep into exploring why a good picture is a good picture and why certain things are 
+wrong or right,” Stev argues.
+“As a photographer covering a chess event, you find yourself in a position that 95 per 
+cent of the people don’t find themselves in – you are face-to-face with the players. 
+You’re among them, you see things that are not shown in the broadcast and that are 
+not noticeable unless you are there – from the background scenery and feel of the 
+venue to the body language and behaviour of players away from the board.”
+Speaking about his experience of taking photos of Magnus Carlsen, Stev compares it 
+to the experience he had of taking photos of other famous sports people, such as the 
+Formula One driver Sebastian Vettel or the tennis player Roger Federer.
+“They just want to be treated normally. So, when I want to take a special photo of 
+Magnus or do a quick shoot, I don’t beat around the bush, but just put it straight to 
+him – level with him, and say ‘Let's just do it’. And I found it that people of that stature 
+prefer the straight talk and doing things quickly”.
+
+April 2024
+BRITISH CHESS MAGAZINE | 211
+
+04/144
+   | BRITISH CHESS MAGAZINE
+212
+
+April 2024
+BRITISH CHESS MAGAZINE | 213
+Telling a joke or acting funny also helps in getting a great photo, Steve notes. “Creating 
+energy through smiling and laughing and making a fool out of yourself like I did with 
+the kids in the refugee camp in Kenya where FIDE is doing work to support them. 
+Because I used to do a lot of acrobatics and breakdancing, I pull that off with the kids 
+and they enjoy it. Why do this? It relaxes people and then when they slowly start to 
+forget me and why I am here. Then - I start taking photos”.
+Since Madrid in 2022, Stev has photographed many chess events, including the World 
+Championship Match between Nepo and Ding, but has also covered FIDE’s social 
+initiatives, such as Chess for Freedom, where he visited convicts in prisons who play 
+chess, and the Chess for Protection project in Kenya.
+"Capture" - a new perspective on chess
+Just this year, Stev published a book – “CAPTURE – AN EXCHANGE BETWEEN 
+PHOTOGRAPHY AND CHESS”, where he exhibited some of his best works related to 
+chess. Now, he has turned the book into an exhibition due to travel to several countries, 
+starting from Switzerland in April.
+“The exhibition is not primarily for chess players because they already know my work. 
+I just want people to just have a walk and get into it, and to get into their head without 
+them even knowing we’ve done that. Overall, I want to change the way people look at 
+chess. Also, I want to change the way chess photography works”.
+“I think a lot of people are not interested in chess, because they have nothing to relate 
+to. They don't play the game, and we don't know the person and their lifestyle, and, and 
+world opinions might not be with us. The perception of chess needs to change,” Stev 
+says, pointing to Formula One as a good example.
+“Look at the development of Formula One. It has always been like it is today in terms 
+of the sport – but the audience today is completely different than in the 1990s or 
+even before. Why – because they made it more accessible and explained it in a way 
+that everyone can relate to it. They’ve dumbed it down. And now you have the Netflix 
+show Drive to Survive and there you have a storyline – the historical rivalries, the 
+competition, the drama. I think chess needs that”.
+He points to Ian Nepomniachtchi as a potential hero of that story. “You have this guy 
+who is desperately trying to become World Champion. He comes close and then in the 
+most critical moments he fails, but he is not giving up. You have the rivalry between 
+him and Carlsen, you have the story there”.
+There is another aspect to explore, he notes: female chess versus male chess.
+“If you reach people with something they can relate to, it becomes more personal. I 
+think these broad narratives, combined with more dynamic time controls, could truly 
+change the perspective of chess”.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+214
+The Prague Masters (27 February – 7 
+March) was the last tournament before 
+the Candidates for the Indian trio. As I 
+mentioned in the preview published in 
+the March issue, the youth has infinite 
+energy and playing non-stop comes 
+naturally for them.
+Apart 
+from 
+the 
+Indians 
+(Gukesh, 
+Praggnanadhaa and Vidit), the organisers 
+assembled an exciting field featuring two 
+more prodigies, Keymer and Abdusattorov, 
+local representatives Navara and Nguyen 
+and 
+creative 
+players 
+like 
+Rapport, 
+Maghsoodloo and Bartel.
+The mix proved a successful one. The 
+tournament abounded in exciting games 
+and decisive results.
+In a tight field like in Prague, it’s hard 
+to expect somebody to dominate, but 
+that is exactly what happened. Nodirbek 
+Abdusattorov scored an incredible 6.5/9, 
+winning five games, losing one and 
+finishing full point and a half ahead of the 
+field. He even secured tournament victory 
+with a round to spare, not a common sight 
+in short nine-round tournaments.
+This victory, with the 15 rating points 
+gained thanks to it, propelled the 19-year-
+old Uzbek to number four in the world.
+Abdusattorov played powerful chess in 
+Prague. He started with a technical win 
+over Nguyen in round one, but he needed 
+a good deal of winner’s luck in round three.
+ Nodirbek Abdusattorov –
+ David Navara
+6th Prague Masters 2024 Prague CZE (3.3)
+XIIIIIIIIY 
+9-+-tr-tr-mk0 
+9+q+-+Lzp-0 
+9-+R+-+-zp0 
+9+P+-+lsN-0 
+9-zp-vl-+-+0 
+9+-+-+-+-0 
+9-+-+QzPPzP0 
+9+-+-tR-+K0 
+xiiiiiiiiy
+Abdusattorov misplayed a position with a big 
+advantage and here Navara had a great chance 
+to send the tournament in another direction. 
+TOURNAMENT REPORT: PRAGUE MASTERS
+By GM Aleksandar Colovic; www.alexcolovic.com
+ Photo: Prague International Chess Festival Official 
+IT’S ALL ABOUT THE NEW GENERATION!
+
+April 2024
+BRITISH CHESS MAGAZINE | 215
+28...¦xf7?? Oftentimes it is a single move 
+that separates winning from losing. Navara 
+makes the losing one. 
+28...¥h7! was winning for Black. White’s 
+knight on g5 and the bishop on f7 are 
+hanging, but so is the pawn on f2. 29.£h5 
+(29.¤xh7 ¦xf7 and the knight won’t make it 
+out of h7 alive; 29.¤e6 £xf7 30.¤xf8 ¦xf8 
+is winning for Black, the two bishops will 
+easily deal with the white rook.) 29...¥xf2! 
+Not touching anything on the kingside and 
+letting White’s pieces to hang there for a 
+while. 30.¦f1 ¥e3 Now the knight has to 
+move. 31.¤e6 ¦xf7! and in view of the 
+threat of a back-rank mate, Black emerges 
+with an extra piece after 32.¦e1 ¦g8.
+29.¦d6! Black would be winning, if it had 
+not been for this refutation. The undefended 
+rook attacks both the rook on d8 and the 
+bishop on d4. It’s likely this move that 
+Navara missed. 
+29...¦c8 29...¦ff8 30.¦xd8 ¦xd8 31.£e8+ 
+¦xe8 32.¦xe8# is a back-rank mate;
+29...¦xd6 30.£e8+ is another version of 
+the back-rank mate. 
+30.¤xf7+ £xf7 31.¦xd4 White won 
+the exchange and has an easily winning 
+position. 
+31...b3 32.b6 ¦c2 33.£f3 b2 34.b7 £f8 
+35.¦dd1 ¦c5 36.£b3
+1–0
+ 
+It is pretty certain that had Navara found 
+the win Abdusattorov would not have 
+continued in the confident and impressive 
+style. A lucky win always gives the player 
+that extra boost of confidence, thanks to the 
+knowledge that luck is on his side.
+After a draw against Gukesh in the next 
+round, Abdusattorov played, in his own 
+words, a “very, very clean game” against 
+Bartel.
+ Mateusz Bartel -
+ Nodirbek Abdusattorov
+6th Prague Masters 2024 Prague CZE (5.3)
+1.e4 c5 2.¤f3 ¤c6 3.¤c3 g6 Without 
+the possibility of a Maroczy bind after 
+c4, Black happily invites his opponent to 
+discuss the sharp lines of the Dragon. 
+4.d4 cxd4 5.¤xd4 ¥g7 6.¥e3 ¤f6 7.¥c4 
+This is White’s most principled move, but 
+soon enough he admits that he isn’t ready 
+for a fully-fledged Dragon fight. 
+7...0–0 8.¥b3 d6 9.h3 Here it is. If White 
+is to achieve anything he must castle long 
+in the Dragon. This can be done starting 
+with the move 9.f3, leading to the Yugoslav 
+Attack. With this timid move White gives up 
+any hope of achieving something out of the 
+opening. The only advantage of the move is 
+that it takes the game to calmer waters. 
+9...¥d7 
+Abdusattorov 
+will 
+employ 
+Kasparov’s plan, but only a move later and 
+with a bishop on d7 rather than on b7. 
+9...¤a5 10.0–0 b6 has been known to be 
+very good for Black since the game Anand-
+Kasparov from Linares 2003. After 11.¦e1 
+¥b7 12.¥g5 ¤xb3 13.axb3 h6 14.¥h4 £d7 
+15.£d2 ¤h5 16.f3 e5 17.¤de2 f5 it was Black 
+who took over the initiative, though eventually 
+the game was drawn. ½–½ (32) Anand,V 
+(2753)-Kasparov,G (2847) Linares 2003.
+10.0–0 ¤a5 11.£d3 a6 12.¦fe1 ¦c8 
+Black’s play is simple on the queenside: 
+play ...b5, ...¤c4 or ...¤xb3, use the c-file 
+to create activity. White, on the other hand, 
+has only one constructive idea and that is 
+the ¤d5 jump. 
+13.¦ad1 b5 14.¥g5 White prepares the 
+¤d5 jump by placing the bishop on g5 
+because he anticipates an exchange on d5, 
+which after exd5, will see the bishop on g5 
+and the rook on e1 attack the pawn on e7. 
+With the same anticipation in mind, Black 
+plays his next move.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+216
+14...¦e8 Abdusattorov was quite content 
+with this prophylactic move, defending the 
+pawn on e7 in advance. 
+15.¤d5 White is fully mobilised, so he 
+executes his main idea, but Black is well 
+prepared to meet it. 
+15...¤xd5 16.exd5 ¤c4 Black obtains the 
+bishop pair now as the knight on c4 cannot 
+be tolerated. 
+17.¥xc4 bxc4 Gaining tempo for attack on 
+the queenside. 
+ 17...¦xc4 was a possible alternative. After 
+18.¥e3 (18.c3 ¥xd4!? 19.cxd4 f6 wrecks 
+White’s pawns, though the position is still 
+unclear, with the opposite-coloured bishops 
+still on the board.) 18...£c7 19.c3 £b7 
+with chances for both sides - White is solid 
+in the centre and Black has no problems. 
+18.£e3?!
+XIIIIIIIIY 
+9-+rwqr+k+0 
+9+-+lzppvlp0 
+9p+-zp-+p+0 
+9+-+P+-vL-0 
+9-+psN-+-+0 
+9+-+-wQ-+P0 
+9PzPP+-zPP+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+White eyes the h6–square for ¥h6, but 
+Black is faster on the queenside. 
+18.£e4! was more precise, as it prevents 
+Black’s counterplay. The idea is that after 
+18...£a5 White has 19.¥d2! and the pawn 
+on a2 is taboo in view of 19...£xa2?? 
+20.¥c3 and the queen is trapped and lost 
+after ¦a1 next. 
+18...£a5 Now the threat of ...£xa2 is real. 
+19.£e4? Wasting time like this is too much. 
+19.£c1! was best. The idea is to remove 
+the queen from the e-file (so there is no 
+pin there when White takes on e7) and 
+defend the b2–pawn at the same time. 
+19...¦c5 is likely best. (19...£xd5?! 
+20.¤e6! puts Black in danger, who now 
+should sacrifice the queen, as 20...£a5? 
+21.¤xg7 ¢xg7 22.¥xe7 leaves him 
+fatally exposed on the dark-squares; 
+19...£xa2 20.¥xe7 is fine for White.) 
+20.¦xe7 ¦xe7 21.¥xe7 ¦xd5 22.¤f3 
+when White should be able to hold the 
+balance; 
+Abdusattorov 
+thought 
+that 
+19.¥xe7?! ¥e5! is what his opponent 
+missed. Indeed, Black is much better here 
+after 20.f4 ¦xe7 21.fxe5 ¦xe5.
+19...£xa2 This is what the queen came for. 
+20.£h4? Third dubious move in a row, this 
+time giving Black a decisive advantage. 
+20.¥xe7 £xb2 21.£f4 was the most 
+resilient. 21...¥a4! 22.¤c6! ¥xc6 23.dxc6 
+¦xc6 24.¥xd6 and even though he’s a 
+pawn down, White should have enough 
+activity to hold the balance. 
+20...£xb2 Black keeps on taking pawns 
+and White has nothing to show for it. 
+21.¥xe7
+XIIIIIIIIY 
+9-+r+r+k+0 
+9+-+lvLpvlp0 
+9p+-zp-+p+0 
+9+-+P+-+-0 
+9-+psN-+-wQ0 
+9+-+-+-+P0 
+9-wqP+-zPP+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+21...h6! Threatening ...g5. 
+22.£f4 ¥a4 Another good move, forcing 
+White’s next, which leads to simplifications 
+that are favourable for Black.
+
+April 2024
+BRITISH CHESS MAGAZINE | 217
+23.¤c6 ¥xc6 24.dxc6 ¦xc6 25.¥xd6 
+Please take a moment to compare this 
+position to the one arising after White’s 
+24.¥xd6 in the comment to White’s 20th 
+move. There is only one difference - in this 
+position the black pawn is on h6, while 
+there it is on h7. Here Black is winning 
+(no problems with the back rank) while 
+there White should draw. Chess is indeed a 
+tragedy of a single tempo! 
+25...¦xe1+ 26.¦xe1 £xc2 27.g4 27.¦e8+ 
+¢h7 makes all the difference. 28.£xf7 
+£d1+ 29.¢h2 £xd6+ is a check and Black 
+wins 30.g3 h5 with a clean extra piece. 
+27...¦c8 Two extra pawns should suffice. 
+28.£f3 £b3
+XIIIIIIIIY 
+9-+r+-+k+0 
+9+-+-+pvl-0 
+9p+-vL-+pzp0 
+9+-+-+-+-0 
+9-+p+-+P+0 
+9+q+-+Q+P0 
+9-+-+-zP-+0 
+9+-+-tR-mK-0 
+xiiiiiiiiy
+0–1
+ 
+After this win, Abdusattorov played three 
+more decisive games in a row! First, he 
+lost to Praggnanandhaa in a game that 
+had its ups and downs, with Abdusattorov 
+blundering at the end (see below). He 
+bounced back immediately with a win over 
+Keymer with the black pieces in a game 
+where he went after his opponent’s king 
+in the centre – not something one would 
+expect in the Queen’s Gambit Accepted, 
+but modern chess can make the most solid 
+openings full of fireworks.
+Still, that was nothing compared to his game 
+with Maghsoodloo in the penultimate round.
+ Nodirbek Abdusattorov -
+ Parham Maghsoodloo
+6th Prague Masters 2024 Prague CZE (8.5)
+XIIIIIIIIY 
+9-+-wq-+-+0 
+9+-+-+pmk-0 
+9LzpPzp-+p+0 
+9zp-+-zp-sn-0 
+9P+-+P+P+0 
+9+-tR-+P+-0 
+9-zP-+-+-sN0 
+9+K+-+-+-0 
+xiiiiiiiiy
+Just 
+after 
+the 
+time-control 
+White 
+sacrificed his queen for a strong passed 
+pawn, rook and bishop. This puts Black 
+under severe pressure as White’s position 
+is easy to play - he just seeks ways to 
+promote that pawn. 
+41...¤e6 The knight must control the 
+c7–square. 
+42.¥c4 ¤c7 43.¤f1 The knight on c7 
+is a good blockading piece, but it can 
+be exchanged, which is what White sets 
+out to do: ¤e3–d5 will exchange the 
+blockader. 
+43...£e8 
+Black 
+disrupts 
+White’s 
+coordination by attacking the pawn on c6 
+and forcing the bishop to occupy the d5 or 
+b5 square. 
+44.¥d5 White prefers the keep the pawn 
+control of the d5–square and allow a break 
+with ...b5. 
+44.¥b5 allows a break from the other side 
+with 44...d5! 45.exd5 ¤xd5 46.¦c1 ¤c7 
+and without a pawn support White can no 
+longer use the d5–square to exchange the 
+blockading knight. 
+44...b5 45.¤e3?! Ambitious play, but 
+crossing the line a bit.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+218
+45.axb5 ¤xb5 gives Black sufficient 
+counterplay, but was still better than the 
+game move. 
+45...bxa4 46.¦c2 White defends the b2–
+pawn in advance and plans ¥a3 and (d5, 
+but Black obtains strong counterplay now. 
+The immediate 46.¥a2 is met by 46...
+a3! with the threat of ...£b8, while after 
+47.bxa3 ¤b5 White cannot defends both 
+pawns on a3 and c6. 
+46...£b8
+XIIIIIIIIY 
+9-wq-+-+-+0 
+9+-sn-+pmk-0 
+9-+Pzp-+p+0 
+9zp-+Lzp-+-0 
+9p+-+P+P+0 
+9+-+-sNP+-0 
+9-zPR+-+-+0 
+9+K+-+-+-0 
+xiiiiiiiiy
+Not bad, but not the best either. 
+46...a3! was very strong again. After 47.¢a2 
+(47.bxa3 £b8+ 48.¢a2 £b5 activates 
+the queen and threatens ...a4.) 47...£b8! 
+48.¢xa3 (48.bxa3 £b5 transposes to the line 
+47.bxa3.) 48...£b4+ 49.¢a2 £a4+ 50.¢b1 
+£d4 and the queen starts to show its full 
+strength, though the game is far from over. 
+47.¥c4 White continues with his plan, 
+threatening ¤d5. 
+47...a3 48.¤d5 ¤e6 Black must keep the 
+knight alive, in a worst case scenario it can 
+be sacrificed for the passed c6–pawn. 
+49.b3? Leaving the pawn on a3 is 
+dangerous, though at first sight it doesn’t 
+look like Black can use it. 
+49.¢a2 axb2 50.¦xb2 £a7 51.¦c2 is 
+unclear, in an objectively equal position. 
+49...¤d4? Letting the pawn advance. 
+49...£a7! would have activated the 
+queen immediately, with devastating 
+effect. 50.¤c3 ¤d4 51.¤b5 may 
+look like a mission accomplished for 
+White, who manages to exchange the 
+opponent’s knight, but after 51...£b6! 
+52.¤xd4 exd4 53.¥d5 d3! Black’s 
+counterplay is faster than the c6–pawn 
+and Black wins. 
+50.c7 £h8 51.¦d2 £h1+ 52.¢a2 £c1 
+It seems like Black should have enough to 
+hold the balance with the white pawn on 
+the verge of promotion. 
+53.¦h2 a4 54.g5 Suddenly White creates 
+mating threats with ¤f6. 
+54.c8£? axb3+ wins for Black as White 
+must give up the newly promoted queen 
+immediately. 
+54...¤xf3 
+Harassing 
+the 
+rook 
+and 
+preventing the mating threats after ¤f6 
+and ¦h7. 
+55.¦f2 axb3+ 56.¥xb3 ¤d2
+XIIIIIIIIY 
+9-+-+-+-+0 
+9+-zP-+pmk-0 
+9-+-zp-+p+0 
+9+-+Nzp-zP-0 
+9-+-+P+-+0 
+9zpL+-+-+-0 
+9K+-sn-tR-+0 
+9+-wq-+-+-0 
+xiiiiiiiiy
+Black threatens mate, too, forcing White to 
+sacrifice an exchange. 
+57.¦xd2 
+£xd2+ 
+58.¢xa3 
+An 
+incredible position. White is playing for 
+a win with only a bishop and knight for 
+a queen and pawn, all thanks to the far-
+advanced c7–pawn.
+
+April 2024
+BRITISH CHESS MAGAZINE | 219
+58...£a5+? Black cannot possibly win, so 
+a perpetual was the best he could hope for. 
+This was achieved with 58...£c1+ 59.¢b4 
+£c5+ 60.¢a4 £a7+ 61.¢b5 £b7+ 
+62.¢c4 £c6+ and now if White wants to 
+avoid the perpetual with 63.¢d3 then with 
+the king far away from the c7–pawn White 
+cannot make progress after 63...£c5 
+59.¥a4 White is winning now. Either the 
+king will approach the c7–pawn or the bishop 
+will aid its promotion with ¥d7 or ¥c6. 
+59...£a6 60.¢b4 £b7+ 61.¥b5?
+XIIIIIIIIY 
+9-+-+-+-+0 
+9+qzP-+pmk-0 
+9-+-zp-+p+0 
+9+L+Nzp-zP-0 
+9-mK-+P+-+0 
+9+-+-+-+-0 
+9-+-+-+-+0 
+9+-+-+-+-0 
+xiiiiiiiiy
+This allows Black to save the game, though 
+that chance is by no means obvious. 
+61.¢c3! 
+threatening 
+¥d7. 
+61...£c8 
+62.¥c6 with the idea to return with the 
+king to b4 and proceed all the way to b6. 
+62...£a6 63.¥d7 £a1+ 64.¢b4 £d4+ 
+65.¢b5 £xe4 66.¥c6! and White will 
+promote while keeping both his pieces. 
+61...¢h7? The king had to move, only not 
+in that direction! This is an unfortunate 
+square that allows White a small trick two 
+moves later. 
+61...¢f8! was the correct move. The king 
+cannot approach the pawn on c7, but this 
+means that the knight and bishop must stay 
+on d5 and the a4–e8 diagonal respectively to 
+keep it at bay, thus limiting their mobility. 
+White cannot make progress now. 62.¢c4 
+£c8 and there is no ¥d7 trick now. 
+62.¢c4 Now ¥d7 comes. 
+62...¢g7 62...£c8 63.¥d7! is the trick 
+thanks to the fork ¤f6 is Black takes the 
+bishop. 
+63.¥d7 Black has only a couple of checks. 
+63...£a6+ 64.¢b3 £b7+ 64...£d3+ 
+65.¤c3 
+65.¢c2 £a6 66.c8£ £e2+ 67.¢b3 £xe4 
+68.£g8+! Again the knight fork is decisive. 
+1–0
+ 
+The future of chess
+
+04/144
+   | BRITISH CHESS MAGAZINE
+220
+Truly an appropriate game to wrap up a 
+tournament. This win gave Abdusattorov 
+the tournament victory with a round to 
+spare. He drew with Rapport in the last 
+round and kept his point-and-a-half gap.
+Even though he didn’t qualify for the Candidates 
+(he wasn’t really close) this victory and the 
+break into the top 5 cements Abdusattorov’s 
+status as one of the main players who will fight 
+for the title in the next cycle.
+THE INDIANS
+The Indian players had their minds set on 
+the Candidates and playing with one’s mind 
+set on another tournament never bodes well 
+for the tournament at hand. This happened 
+to all three of them, though with different 
+outcomes and to different extent.
+Praggnanadhaa had a run of 47 classical 
+games without a loss before coming to 
+Prague. In Prague, he lost two.
+Those two losses were in a row. After 
+starting 
+with 
+a 
+win 
+over 
+Keymer, 
+Praggnanandhaa lost to Maghsoodloo and 
+Rapport. The second loss was particularly 
+painful as it was from a winning position.
+ R Praggnanandhaa - Richard Rapport
+6th Prague Masters 2024 Prague CZE (3.1)
+XIIIIIIIIY 
+9r+l+n+k+0 
+9zp-+-+rzPp0 
+9-+p+pwq-+0 
+9+p+-+-+-0 
+9-+-+-+-+0 
+9+-sN-+-zp-0 
+9PzPLwQ-+-+0 
+9+-mKR+-+R0 
+xiiiiiiiiy
+26.¦xh7 White’s attack is irresistible. The 
+threats are ¦h8 or ¦dh1. Rapport gives 
+up a piece. 
+26...e5 27.¦h8+ ¢xg7 28.¦xe8 £f4 And 
+hopes that in the endgame the two connected 
+passed pawns will give him counterchances. 
+29.¦h1? Choosing from the several winning 
+continuations Praggnanandhaa chooses a non-
+winning one! This tells us one thing - if a 
+superb calculator like Praggnanandhaa couldn’t 
+calculate a clear win, then the win wasn’t trivial. 
+29.£xf4 exf4 30.¦dd8 is the most forcing 
+way. 30...¥b7 (30...g2 31.¦g8+ ¢f6 
+32.¤e4+ ¢e5 33.¦xg2 is pretty simple, 
+winning one of the pawns.) 31.¦g8+ ¢f6 
+32.¤e4+ ¢e5 33.¦ge8+ ¢f5 34.¦xa8 
+¥xa8 35.¦xa8 and White manages to control 
+both pawns as 35...g2 36.¦g8 f3 37.¢d2 ¢f4 
+38.¤f2 stops both pawns; 
+29.¥e4! was probably the most "automatic" 
+way to win. White centralises the bishop and 
+controls both pawns. This move didn’t really 
+need any calculation so it was the safest bet. It 
+seems that Praggnanandhaa wanted to calculate 
+the win until the end and miscalculated, an 
+impractical decision when he had this simple 
+move at his disposal. 
+29...£xd2+ 30.¢xd2 ¦f2+ 31.¢e3 ¦xc2 
+32.¦hh8?? The game should have ended in 
+a draw before this blunder. 
+Praggnanadhaa – the best performing 
+Indian in Prague
+
+April 2024
+BRITISH CHESS MAGAZINE | 221
+32.¦xe5 ¦h2 33.¦g1 and after eliminating 
+the pawn on g3 the position will be a draw. 
+32...¥e6 Stopping ¦g8. White cannot stop 
+the g-pawn now. 
+33.¦xa8 g2
+0–1
+ 
+To his credit, Praggnanandhaa pulled 
+himself together and after the draw in the 
+next round he won two games in a row, 
+defeating his compatriot Vidit and the 
+leader Abdusattorov. 
+ Nodirbek Abdusattorov -
+ R Praggnanandhaa  
+6th Prague Masters 2024 Prague CZE (6.5)
+The game had ups and downs and the 
+position here is approximately balanced. 
+Abdusattorov misses a tactic with his 
+next move. 
+36.¦e2?? White defends the pawn on b2, 
+but loses more material now! 
+36.¥e2! with the idea of ¥c4 was very 
+good. After 36...£xb2 37.¥c4 £xf2+ 
+38.¢xf2 White will regain the pawn with 
+an equal position;
+36.¥h5 would have repeated the position 
+as this was the position on the board 
+two moves earlier, when Black played 
+34...£d5. Possibly White was worried 
+about 36...¥xb2 but White has 37.¤xf7! 
+and after the forcing 37...£xf7 38.£xb2 
+£f5 39.£a2+! a precise check to be able 
+to take on g6 with check, too. 39...¢h7 
+(39...¢h8 40.£a5! attacks the rook on d8. 
+40...¦d2 41.¥f3 and White managed to 
+bring the bishop back to the defence of the 
+kingside.) 40.¥xg6+ £xg6 41.£b1 White 
+manages to exchange queens and even 
+though his kingside is weak on the light 
+squares, White should draw this after 41...
+b3!? 42.£xb3 £c6 43.£c2+ ¢h8 44.£f2.
+36...¦xd6! The problem is that the rook 
+on e2 blocks the bishop’s control of the 
+d1–square. 
+37.¦e8+ Perhaps White was hoping 
+on this zwischenschach, but Black had 
+seen deeper. 
+37.¥xd6 £d1+ is elementary. 
+37...¢h7 38.¥xd6 ¥d4! This is the 
+refutation of White’s defence. 
+39.£xd4 £xf3 40.£f2 £d1+ Black 
+eliminated the bishop that covered the 
+d1–square and returns there to pick up the 
+bishop on d6. 
+41.¦e1 £xd6 The two pieces easily deal 
+with White’s lone rook. 
+XIIIIIIIIY 
+9-+-tr-+k+0 
+9+-+-+pzp-0 
+9-+-sN-vlnzp0 
+9+-vL-+-+-0 
+9-zp-+-zP-+0 
+9+q+-+LzPl0 
+9-zP-+-wQ-zP0 
+9+-+-tR-mK-0 
+xiiiiiiiiy
+
+04/144
+   | BRITISH CHESS MAGAZINE
+222
+42.£e3 ¥e6 43.¦e2 ¤e7 44.£e5 £b6+ 
+45.£e3 £xe3+ 46.¦xe3 b3! Eventually 
+Black will get to the b2–pawn. 
+47.¢f2 g6 48.g4 ¢g7 49.h3 ¢f6 
+50.¦e4 h5 51.¢g3 ¤d5 52.¢h4 hxg4 
+53.hxg4 ¢g7 54.g5 ¥f5 55.¦c4 ¥c2 
+56.¢g3 ¤e3
+0–1
+ 
+He should have also won a third one, 
+but misplayed his winning advantage 
+against Gukesh.
+Eventually the tournament was a decent 
+one for Praggnanandhaa, sharing second 
+place with Nguyen and Maghsoodloo 
+with 5/9. In retrospect, he is probably 
+glad he lost those games in Prague and 
+not in Toronto. Still, his play was not as 
+stable as we got used to, something that 
+won’t be the case in Toronto.
+Gukesh was similarly wobbly.
+He started with a win with the black 
+pieces against Nguyen, but then he also 
+lost two games in a row, both of them 
+with the white pieces to Navara and 
+Bartel. The problem for Gukesh was 
+that in both games he had an advantage, 
+with Navara even a winning one, but he 
+didn’t play well.
+Even more so, Gukesh should have lost a 
+third game in a row, but managed to save 
+a lost endgame against Praggnanandhaa, 
+thus stopping the bleeding. In the next 
+round he beat Keymer convincingly, 
+coming back to 50%.
+His unstable play continued in the 
+last round, when he was outplayed by 
+Maghsoodloo and should have lost again.
+ 
+Parham Maghsoodloo – Gukesh D  
+6th Prague Masters 2024 Prague CZE (9.2)
+XIIIIIIIIY 
+9-+-+-+k+0 
+9+-+-+pzp-0 
+9R+-+p+-zp0 
+9wQ-+-+-+-0 
+9-zp-+-+-+0 
+9+P+qzPLzPK0 
+9P+r+-+-zP0 
+9+-+-+-+-0 
+xiiiiiiiiy
+White is winning and had time to 
+think after the time-control. Yet, in 
+spite of being an incredible calculator, 
+Maghsoodloo missed the following 
+combination. 
+41.¦a7? Throwing away the win. 
+41.¦a8+! 
+¢h7 
+42.¦h8+!! 
+¢xh8 
+(42...¢g6 43.£h5+ ¢f6 44.£h4+ 
+would soon lead to mate or an exchange 
+of queens.) 43.£a8+ ¢h7 44.¥e4+ 
+winning the queen and the game. 
+Not the best performance by Gukesh
+
+April 2024
+BRITISH CHESS MAGAZINE | 223
+41...£f1+ 42.¢g4 ¦f2 And Black managed 
+to draw. 
+½–½
+ 
+Not a tournament to be proud of for 
+Gukesh, but like Praggnanandhaa, he is 
+likely happy the blunders and the losses 
+came before Toronto. These shocks will 
+compose him and at the Candidates 
+we will likely see a focused and sharp 
+Gukesh as in his best tournaments.
+Worst of all the three Indians was Vidit. 
+He ended up last, with three losses and 
+no wins. Starting with four solid draws 
+he suddenly lost three games in a row, 
+a feat both his compatriots managed to 
+avoid by the skin of their teeth. 
+The heartbreak happened in round six. 
+After outplaying Keymer, Vidit obtained a 
+winning position.
+ Vidit S - Vincent Keymer
+6th Prague Masters 2024 Prague CZE (6.2)
+XIIIIIIIIY 
+9-+-+-snk+0 
+9zp-zp-tr-+-0 
+9-zpP+-+-+0 
+9+-+P+p+-0 
+9-+-+-+p+0 
+9+-+P+lzP-0 
+9P+-vL-+-+0 
+9+-+-+QmK-0 
+xiiiiiiiiy
+White is winning. It’s hard to imagine 
+Black winning in two moves now, but that 
+is exactly what happened. 
+33.¥b4?? Unbelievable. 
+33.£a1 with the idea to activate the queen 
+with £f6 would have been decisive;
+33.£c1 ¥xd5 34.¥c3 with £h6 or £g5 
+to come was another way to win. 
+33...¦h7 All of a sudden the threat of ...¦h1 
+traps the queen and wins the game for Black. 
+34.¢f2 ¦h1
+0–1
+ 
+Instead of reaching 50% with a win, Vidit sank 
+to -2 and in the next round lost to Maghsoodloo 
+for a third loss in a row. Ironically, in that game, 
+while having an advantage, he again allowed 
+his queen to be trapped!
+Vidit finished last, which cannot be 
+encouraging before the greatest test in 
+Toronto. Doubts will creep in, but he’s 
+capable of rising to the challenge.
+Prague Masters was all about the new 
+generation. It is a state of affairs we all 
+must get used to.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+224
+PRAGUE INTERNATIONAL CHESS FESTIVAL 2024
+RESULTS - MASTERS
+Rk
+Name
+Rating
+Pts.
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+1 GM Abdusattorov Nodirbek
+2744
+6.5
+1
+1
+0
+1
+½ ½
+1
+1
+½
+2 GM Nguyen Thai Dai Van
+2630
+5
+0
+1
+½ ½
+1
+0
+1
+½ ½
+3 GM Maghsoodloo Parham
+2715
+5
+0
+0
+1
+½ ½ ½
+1
+½
+1
+4 GM Praggnanandhaa R
+2747
+5
+1
+½
+0
+½
+0
+½ ½
+1
+1
+5 GM Navara David
+2667
+4.5
+0
+½ ½ ½
+½
+1
+½ ½ ½
+6 GM Rapport Richard
+2717
+4.5
+½
+0
+½
+1
+½
+½ ½ ½ ½
+7 GM Gukesh D
+2743
+4.5
+½
+1
+½ ½
+0
+½
+0
+1
+½
+8 GM Bartel Mateusz
+2660
+3.5
+0
+0
+0
+½ ½ ½
+1
+½ ½
+9 GM Keymer Vincent
+2738
+3.5
+0
+½ ½
+0
+½ ½
+0
+½
+1
+10 GM Vidit Santosh Gujrathi
+2747
+3
+½ ½
+0
+0
+½ ½ ½ ½
+0
+
+April 2024
+BRITISH CHESS MAGAZINE | 225
+By Grandmaster 
+Raymond Keene OBE
+CHESS,
+PHYSICS
+AND ME
+Albert Einstein; Source: wikipedia.org
+
+04/144
+   | BRITISH CHESS MAGAZINE
+226
+Two of the greatest Jewish intellectuals, 
+Lasker (1868-1941) and Einstein (1879-
+1955) were contemporaries and friends. 
+Emanuel Lasker, son of a Jewish cantor, 
+and world chess champion from 1894 to 
+1921, shared many concerns with that 
+genius of Relativity, Albert Einstein.  
+Not least was his preoccupation with the 
+future of European Jews. Towards the 
+end of his career, Lasker published The 
+Community of the Future. This was a 
+political tract, in which he demonstrated 
+many of his ideas to create an ideal society. 
+Two problems were especially prominent in 
+his lucubrations: the fate of European Jews, 
+highlighted of course by the irresistible rise 
+of the Nazis in Germany, and the spectre of 
+widespread unemployment.
+To resolve the first problem, Lasker even 
+proposed the near geographical homonym, 
+Alaska, as a possible refuge for Jewish 
+immigration, a proposal that at that time 
+of intractable emergency did not sound as 
+outlandish as it might today. Lasker also 
+pondered deeply on the origins of anti-
+Semitism and identified unemployment as a 
+major cause of resentment against the Jews. 
+His remedy to cure the evil of unemployment 
+was to establish communities modelled on 
+the Kibbutz system, then popular in Israel, 
+in order to prepare and train people for 
+the job market. Lasker comprehended that 
+work did set free and empower populations, 
+a stance in complete opposition to the 
+Satanic Nazi parody, erected over the gates 
+of Dachau, Theresienstadt and Auschwitz: 
+Arbeit macht frei.  
+While winning and holding the World 
+Chess Championship for 27 years, Lasker 
+had earned a PhD in Mathematics, with 
+his 100-page 1905 thesis Zur Theorie der 
+Moduln und Ideale. This work is regarded 
+as one of the foundations of modern algebra. 
+A confirmed polymath, he published 
+several philosophical works, wrote one 
+verse drama and regularly commented 
+upon political events. In his prime Lasker 
+was one of the most dominant champions, 
+only losing the title to Capablanca in 1921. 
+In addition, he was a first-class contract 
+bridge player, writing about this and other 
+games, including Draughts, Go and his own 
+invention, the equally homonymic Lasca.
+At the age of eleven Lasker was sent to 
+Berlin to study mathematics, where he 
+lived with his brother Berthold, eight 
+years his senior, who, around 1879, the 
+year of Einstein’s birth, taught him how 
+to play chess. To supplement their income 
+Emanuel Lasker played chess and card 
+games for modest stakes, principally at the 
+Cafe Kaiserhof. His rise was rapid and by 
+1893 Lasker was beginning to look like a 
+convincing aspirant to world honours.
+The incumbent champion, Wilhelm Steinitz, 
+had already twice despatched the Russian 
+Titan, Mikhail Tchigorin, and with the next 
+natural challenger, Dr Siegbert Tarrasch, 
+puzzlingly reluctant to enter the lists, 
+Lasker travelled to the new world, where 
+his challenge to Steinitz was played out in 
+1894, at venues in New York, Philadelphia, 
+and Montreal. Steinitz had previously 
+announced that he would win easily against 
+his relatively inexperienced opponent, so 
+it came as a something of a shock to the 
+chess world, when it was Lasker who won 
+the first game. Thus, on the transatlantic 
+field of honour, two German-speaking Jews 
+battled it out for the supreme chess title, 
+while a third, Tarrasch, watched helplessly 
+from the sidelines, as his dream of chess 
+imperium vanished before his eyes.
+Lasker won convincingly with ten wins, 
+five losses and four draws, thus becoming 
+the second universally recognised World 
+Chess Champion, and confirmed his title 
+by beating Steinitz even more convincingly 
+in their re-match in 1896-1897 (ten wins, 
+five draws, and a mere two losses).
+Einstein was, of course, a serious candidate 
+for the supreme genius of all time. Yet, like 
+Lasker, he was deeply concerned by the 
+plight of European Jewry, and at one point, as 
+we shall see, he even declined the presidency
+
+April 2024
+BRITISH CHESS MAGAZINE | 227
+of the newly formed state of Israel. In just 
+a few years, his brilliant insights entirely 
+changed the way the universe is perceived, 
+while his mighty equation, E=MC2, was 
+to make available both for creative and 
+destructive purposes, an energy source of 
+hitherto unimagined intensity — atomic 
+power. Indeed, Einstein’s investigations 
+ushered in the atomic age. For the very first 
+time, human beings were actually placed 
+in the position of understanding how the 
+universe works, while simultaneously being 
+given the terrifying capacity to annihilate 
+their own world.
+Einstein has the reputation of having been 
+a relative dunce at his school in Munich, 
+but this is a misapprehension. Although 
+precocious, he did not excel in those 
+subjects taught by the Luitpold Gymnasium, 
+where he was a pupil. Einstein was later to 
+denounce their lessons as “lies”, and he 
+was in fact expelled from the school on the 
+grounds that he was a “disruptive influence” 
+on his fellow students. He had an enquiring 
+mind and often used to daydream. When he 
+applied himself to something that he really 
+enjoyed doing, he would excel.
+Two games of chess won by Einstein do 
+survive. My heart likes to believe that 
+these are as genuine, like well attested 
+games by Tolstoy, Randolph Churchill and 
+Prokofiev, though my head warns that they 
+might belong in the apocryphal category, 
+inhabited by games attributed to Napoleon 
+and Pope John Paul II.
+Einstein studied music as a boy and 
+eventually 
+became 
+an 
+accomplished 
+violinist, playing for relaxation. While 
+playing a duet with a professional violinist, 
+Einstein missed a few notes and beats. This 
+prompted his exasperated companion to 
+ask “What’s the matter with you, Einstein? 
+Can’t you count?”
+It is clear, though, that early in his life 
+(he was fascinated by a compass at the 
+age of five), Einstein was determined to 
+probe the secrets and solve the riddle of 
+the physical world. He was inspired by a 
+book of Euclid’s geometry and he made a 
+particular point of studying Michelangelo’s 
+pictures. By the age of 16, Einstein had 
+already written a scientific paper on the 
+relationship between electricity, magnetism 
+and the ether. He reported at the time that he 
+came up with his theories by encouraging 
+himself to play mind games, in which he 
+allowed his imagination to run riot.
+Einstein 
+also 
+reported 
+that 
+in 
+one 
+daydreaming session, he had imagined 
+riding on a sunbeam to the end of the 
+universe. To his amazement, when he got to 
+“the end of the universe”, he found he was 
+back where he had started his “journey”, 
+and thus concluded that the universe must be 
+both finite and curved. In his paper, Einstein 
+explored the question “what would happen 
+if one could follow a beam of light at the 
+speed of light?” As a result, he discovered 
+a paradox which, in scientific jargon, is “a 
+spatially oscillating electromagnetic field at 
+rest”. In other words, in spite of moving at 
+a vast speed, one would appear to have not 
+moved at all.
+In 1895, Einstein joined the Swiss Federal 
+Polytechnic School at Zurich, at an age two 
+years below the standard age of enrolment. 
+There Einstein studied under Professor 
+Hermann Minkowski, the Russo-German 
+mathematician, whose special interests 
+were the theory of numbers, space and time. 
+Einstein could not have found a teacher 
+more in tune with his own predilections. 
+Einstein took Swiss nationality in 1901, and 
+in 1902 he was appointed Examiner at the 
+Swiss Patent Office. From this point on, his 
+achievements begin to take on the aspect of 
+an intellectual roller coaster.
+Einstein published a steady stream of 
+scientific papers on a number of problems 
+in the field of physics. One concerned the 
+quantum theory of Germany’s greatest 
+physicist, Max Planck (1858-1947), which 
+held that energy changes or emissions occur 
+in violent, abrupt instalments, packages or 
+quanta. Planck himself was to become a
+
+04/144
+   | BRITISH CHESS MAGAZINE
+228
+Nobel Prize winner, President of the Berlin 
+Science Academy and a member of the 
+Royal Society.  
+In 1905, Einstein applied Planck’s quantum 
+theory to light and published his revolutionary 
+paper on Special Relativity. From 1909 
+onwards, the scientific world realised that 
+a new Galileo or Newton was upon them, 
+and showered  Einstein with Professorships 
+– for example, in  Zurich, Prague and Berlin. 
+In 1916, Einstein published his theory of 
+General Relativity. Three years later, two 
+British expeditions confirmed, through 
+their observation of eclipses, that Einstein’s 
+theories were correct.
+The world of science was now in ferment, 
+but excitement also gripped the world at 
+large. As the Times of  London wrote: “The 
+scientific conception of the fabric of the 
+universe must be changed. It is confidently 
+believed by the greatest experts that enough 
+has been done to overthrow the certainty of 
+ages, and to require a new philosophy of 
+the universe. A philosophy that will sweep 
+away nearly all that has hitherto been 
+accepted as the axiomatic basis of physical 
+thought. The ideals of Aristotle and Euclid 
+and Newton, which are the basis of all our 
+present conceptions, prove in fact not to 
+correspond with what can be observed in 
+the fabric of the universe. Space is merely 
+a relation between two sets of data and an 
+infinite number of times may coexist. Here 
+and there, past and present, are relative 
+not absolute and change according to 
+the ordinates and coordinates selected. 
+Observational science has in fact led back 
+to the purest subjective idealism.”
+Lasker disagreed with Einstein’s theories and 
+wrote forcefully in opposition to them. This, 
+however, did not deter the great physicist 
+from contributing a magnificently insightful 
+foreword to Dr J Hannak’s standard 
+biography of the great chess master. Einstein 
+wrote: “Emanuel Lasker was undoubtedly 
+one of the most interesting people I came 
+to know in my later life. Few indeed can 
+have combined such a unique independence 
+of personality with so eager an interest in 
+all the great problems of mankind.” One of 
+these, of course, was Einstein’s Theory of 
+Relativity, which Lasker hated.
+Einstein again: “Lasker’s keen analytical 
+brain 
+had 
+immediately 
+and 
+clearly 
+recognised that the entire problem hinged 
+on the constancy of the velocity of light in 
+empty space. He clearly saw that, once such 
+constancy was admitted, the relativisation 
+of space was unanswerable, whether one 
+liked it or not, and he did not like it at all… 
+I rather liked Lasker’s stubborn intellectual 
+independence, a most rare quality in a 
+generation whose intellectuals are almost 
+invariably mere camp followers. And so 
+I let the matter rest.” “Stubborn” here is 
+Einsteinspeak for “wrong”. Nevertheless, 
+one wonders how Einstein and Lasker 
+would have fared within the groupthink 
+corral of our modern woking classes.
+Hitler’s rise to power in the 1930s, and 
+the particularly pernicious version of 
+Nazi-inspired groupthink which infected 
+Germany in the 1930s, led to Einstein 
+leaving Europe and establishing himself 
+at Princeton in the United States, where he 
+lived for 20 years. In September 1939 he 
+wrote to President Roosevelt, advising him 
+to start work on an atomic bomb project 
+and warning of the dangers of a possible 
+German initiative in this field. This was 
+to lead directly to the Manhattan Project, 
+so brilliantly depicted in the recent Oscar 
+dominating film Oppenheimer. 
+The equation, E=MC2, where energy 
+equals mass multiplied by the speed of 
+light, squared, demonstrates that a very 
+small amount of mass is the equivalent of 
+a vast amount of energy. By utilising this 
+theory, two German scientists, Otto Hahn 
+and Fritz Strassman, were already engaged 
+in 1938 in splitting the uranium  atom. 
+They were thus on the brink of unleashing 
+untold energy for Germany. Fortunately, 
+though, Werner Heisenberg, Germany’s 
+top physicist during the 1940s, succeeded 
+in leading the Nazi authorities down a
+
+April 2024
+BRITISH CHESS MAGAZINE | 229
+blind alley, as befits the originator of the 
+Uncertainty Principle, and thus helped to 
+deflect Nazi science from concentrating on 
+the creation of an atomic weapon.
+After the detonation of atomic bombs 
+on Hiroshima and Nagasaki, and the 
+subsequent cessation of global hostilities, 
+Einstein, who had earlier written an anti-
+war book with Sigmund Freud (Why War?, 
+1933), urged international control of all 
+atomic devices. Then, in common with 
+Charlie Chaplin, Einstein also protested 
+against the communist witch-hunt of 
+Senator Joseph McCarthy’s Un-American 
+Activities Committee. In 1952, Einstein 
+was offered the presidency of the newly 
+created state of  Israel, but declined to 
+accept the honour, saying: “Equations are 
+more important to me, because politics are 
+for the present, but an equation is something 
+for eternity!”
+Examination of Einstein’s brain after his 
+death revealed that it contained 400 per 
+cent more glial cells per neurone than 
+usual, which would have had the effect of 
+boosting his power of association between 
+seemingly  disparate items way beyond the 
+average. But whether this was the cause or 
+effect of his genius, it is impossible to tell.
+Einstein’s great predecessor, Sir Isaac 
+Newton, wrote of his three inspirational 
+friends, 
+Amicus 
+Platonis, 
+Amicus 
+Aristoteles and Amicus Veritas. Plato and 
+Aristotle knew nothing of chess, but in my 
+heart of hearts I yearn to believe that those 
+two quasi-apocryphal Einstein games are, 
+indeed, a true indication of the chess ability 
+of possibly the greatest genius humankind 
+has ever known.
+Now for my own experiences with physics, 
+somewhat less illustrious, I fear, than those 
+of Lasker and Einstein. During my thirteen 
+years at Dulwich College and Trinity 
+College Cambridge (1959-1972) I observed 
+a curious phenomenon. According to the 
+eminent British scientist and novelist C. 
+Emanuel Lasker; 
+Source:  World Chess Hall of Fame
+
+04/144
+   | BRITISH CHESS MAGAZINE
+230
+P. Snow, in his Rede lecture of 1959, a 
+major problem had gradually arisen in the 
+intellectual life of Western society. Snow 
+described it as a split into “two cultures” 
+with science on the one hand and the 
+humanities on the other. He lamented this 
+development as being a major handicap to 
+solving the world’s most pressing problems.
+As a pupil at Dulwich, I sympathised with 
+his argument. Already struggling with 
+maths, I never did manage to work out 
+what logarithmic tables were and why they 
+were useful. Accordingly, I arrived at my 
+first physics lesson, armed with a certain 
+degree of scepticism. Once the class was 
+seated, a gushingly enthusiastic physics 
+master proceeded to explain why the 
+human eye and the camera worked in the 
+same way. His fervour failed to make the 
+leap between his mind and mine. Descartes 
+may have said that the human body is a 
+machine, but I instinctively rebelled against 
+this proposition, reasoning as follows: that 
+consciousness 
+(definitely), 
+intelligence 
+(sometimes) and quite possibly even a soul, 
+animated human vision, while a camera 
+functioned purely mechanically, and then 
+only according to its operator’s instructions.
+Sensing that I was never going to excel at 
+physics, I decided to devote any time that 
+might have gone to physics, to studying and 
+playing chess.
+Whereas my preferred field of academic 
+endeavour focused on Latin, French, 
+German and English literature, most of 
+my contemporary young chess hopefuls 
+were mathematicians. Indeed, the head of 
+the mathematics department at Dulwich 
+College personally tried to persuade me 
+to specialise in maths. Little did he know. 
+He had only looked at my chess results 
+and drawn what he thought was the 
+appropriate conclusion. Had he examined 
+my maths papers he might have spared 
+himself the effort.
+Allegedly the Napoleonic-era Prussian 
+military theoretician Carl Philipp Gottfried 
+von Clausewitz once remarked that cash is 
+to the economy, as war is to international 
+politics and diplomacy, in other words, 
+crunch time.
+Adopting the politics to war analogy, 
+whether apocryphal or not, exams are an 
+unfortunate fact of life. They are balanced 
+on the opposite side of the equation 
+attributed to Clausewitz by how much 
+attention you were paying in class. In my 
+case, none, so I was fully prepared to score 
+zero in ‘O’ Level Physics, the Cretaceous 
+Period equivalent of modern GCSE’s. 
+Come the exam, I sat down at my desk, 
+wrote my name at the top of the paper, 
+waited for the obligatory thirty minutes to 
+expire and then walked out, the exam page 
+unblemished by even the most microscopic 
+intervention from my part.
+But then came the physics practical where, 
+to my horror, I discovered that the rules 
+were different. No one was permitted 
+to leave before the full three hours had 
+elapsed. Which Torquemada of the ‘O’ 
+Level inquisitory board, I asked myself, 
+had devised that particular torture?
+There was nothing for it, but to try to 
+answer the question, and here there dawned 
+a faint glimmer of hope. The invigilator 
+handed out Vernier Calipers to measure 
+the distance which formed the substance 
+of the question. If there was one thing 
+I accidentally remembered from the 
+generally abortive physics lessons I had 
+been forced to attend over the previous 3 
+years, it was that Vernier Calipers measured 
+microdistances.
+So, I set to work and sought to fill the 
+three tedious hours by actually answering 
+the question. After two hours and fifty-
+nine minutes had elapsed, I came up with 
+the answer of 120 meters. This seemed 
+instinctively to be wrong. Summoning 
+my chess skills, which regularly required 
+thinking quickly in a crisis, and when short 
+of time, I hastily inserted a decimal point, 
+shifting it as far to the left of 120 meters as
+
+April 2024
+BRITISH CHESS MAGAZINE | 231
+seemed consistent with a micro distance. I 
+then submitted my answer.
+Needless to say, it was not correct. Combined 
+with contributing a blank sheet of paper 
+(apart from my name at the top, of course) 
+for the theory exam, my expectations of a 
+high grade after the catastrophic viva were, 
+to put it mildly, on the low side of zero. 
+Imagine, however, my indignation when the 
+overall result came out as “ungraded”! This 
+struck me as monstrously unfair. According 
+to The Inquisition’s own rules, grade one 
+was top (budding physics genius) while 
+grade nine was bottom (confirmed physics 
+sub moron). There was no “ungraded.” That 
+level of disastrous non achievement simply 
+did not exist at the time.
+Less determined spirits might have given up 
+at this point, but fired by an unquenchable 
+hunger and thirst for academic justice, 
+I submitted a formal complaint to 
+Torquemada’s office and demanded the 
+just desserts of my well earned grade nine. 
+To my astonishment, a few weeks later, 
+Inquisition HQ came back to me with an 
+apology, a correction and confirmation of 
+my grade nine. Justice had triumphed.
+Several years later, a doubtless vitally 
+important government reform of education, 
+reversed the polarity of ‘O’ Level grades. 
+Grade one had now been recalibrated 
+as bottom, while grade nine had been 
+redefined  as the new top, pinnacle and 
+Everest of Physics excellence.
+As stated earlier, Sir Isaac Newton had 
+once famously said, when asked who 
+were his sources of scientific inspiration: 
+“Amicus Platonis”, “Amicus Aristotelis” 
+and “Amicus Veritas”. Armed with my 
+splendidly revised, shiny grade nine I 
+felt, with Newton, that I could now claim 
+Amicus Einstein, Amicus Heisenberg and 
+in particular Amicus Blind Chance, as my 
+new best friends.
+From the above it should be clear that I 
+was definitely on the humanities side of 
+the Niveous Equation, but what impressed 
+me, as I progressed through the groves of 
+Academe, was that, on the whole (with one 
+or two exceptions) mathematicians tended 
+to be far more receptive to the arts, than vice 
+versa. This was the curious phenomenon 
+mentioned in my opening paragraph.
+Take, for example, my old friend Nick 
+Patterson. As a junior chess player I had 
+become used to all opposition crumbling 
+before me. Even if I did not necessarily 
+win a tournament, I experienced no 
+sensation of having encountered a superior 
+chess intellect, talent or understanding. 
+That changed when I faced Nick in the 
+penultimate round of the 1962/63 London 
+Under-16 Chess Championship. I had 
+been on course to win the title, but Nick 
+demolished me in our game and I had to 
+be content with a share of second place, 
+behind the precocious Bill Hartston, a two 
+times future British champion. 
+Nick was a brilliant mathematician but also 
+a polymath who went on to become a code-
+breaker at GCHQ, Irish chess champion, 
+alternating top / second board for Ireland 
+in the 1970 chess Olympiad at Siegen in 
+Germany, a financial data analyst in New 
+York and now a key member of the David 
+Reich Institute at Harvard, analysing DNA 
+to detect the origins of humanity. Nick 
+has come up with the theory that humans 
+diverged genetically from chimpanzees but 
+then briefly (in geological time) merged 
+again, before we branched out decisively 
+on our own. From my own experience, I can 
+well believe it. The theory of a regression 
+is eminently plausible. Nick’s DNA work 
+also has potential in identifying and 
+tracking historic and pre-historic patterns 
+and outbreaks of disease.
+The New York Times interviewed Nick, 
+on December 12, 2006, and, apropos the 
+two cultures divide, wrote: “Dr Patterson 
+belongs to a new breed of biologist. The 
+shelves of his office in Cambridge Mass. 
+carry arcane maths titles, yet he can 
+converse just as deeply about Buddhism or
+
+04/144
+   | BRITISH CHESS MAGAZINE
+232
+Thucydides, whose writings he has studied 
+in Ancient Greek.”
+Will The New York Times one day reach 
+the astonishing conclusion that I am an 
+expert in Bayesian statistics or Conway’s 
+Group Theory, or even acknowledge the 
+fact that I am an undoubted physics genius 
+with a stratospheric grade nine at ‘O’ 
+Level? Somehow I doubt it.
+In the C. P. Snow Lecture at Christ’s 
+College Cambridge on October 14, 2009 
+(reported in Issue 235 of The Christ’s 
+College Magazine, the following year) 
+Professor Lisa Jardine explained the chief 
+ongoing danger connected with C. P. 
+Snow’s identification of the Two Cultures 
+Syndrome. The problem stems from 
+the fact that politicians responsible for 
+national and international policy tend to 
+have little or no scientific training. Prime 
+Minister Margaret Thatcher was a rare 
+exception, having been a research chemist 
+at Somerville College, Oxford, while 
+Angela Merkel actually studied Physics at 
+Karl Marx University of Leipzig.
+As a rule, however, in matters requiring 
+scientific 
+knowledge, 
+Presidents 
+and 
+Prime Ministers have little scientific 
+background. 
+For 
+example, 
+the 
+now 
+disgraced Jair Bolsonaro studied at The 
+Brazilian Military Academy, Donald 
+Trump (Economics at Wharton School of 
+the University of Pennsylvania), Pedro 
+Sanchez (Economics at Complutense 
+University 
+Madrid), 
+David 
+Cameron 
+(PPE, Oxford), Theresa May (Geography, 
+Oxford), Vladimir Putin (Law, Leningrad 
+State University) and, of course, Boris 
+Johnson (Classics and Ancient History, 
+Oxford). Such world leaders must perforce 
+surround themselves with scientific gurus, 
+whose expertise they cannot verify from 
+personal experience.
+The relevance to the Coronavirus situation 
+and the widespread debate over the 
+scientific advice given to governments 
+around the world is manifest. Perhaps from 
+now on, we should require all world leaders 
+to hold a degree in epidemiology before 
+being elected to office. More realistically, 
+unlike my younger self, aspiring world 
+leaders should follow Leonardo da Vinci’s 
+exhortation: to see the science in art / the 
+art in science, and aim to acquire some 
+basic training in scientific method.
+As Nick Patterson wrote to me, at least I 
+should know the logarithm of 1. Answers 
+on a postcard please….
+This month’s game is Nick Patterson’s win 
+against me, which halted my progress in 
+the London Junior Chess Championship. 
+My idea of sacrificing rook for knight was 
+strategically sound, but tactically defective, 
+and should have been prefaced on move 
+19 by taking White’s pawn on h4 with my 
+queen, giving check.
+ Nicholas J Patterson (2345) - 
+ Raymond Keene (2455) [C18]
+London Junior Championship England, 
+04.01.1963
+1.e4 e6 2.d4 d5 3.¤c3 ¥b4 4.e5 c5 5.a3 
+¥xc3+ 6.bxc3 £c7 7.¤f3 f5?! A very rare 
+beast, indeed!
+8.¥e2 
+XIIIIIIIIY 
+9rsnl+k+ntr0 
+9zppwq-+-zpp0 
+9-+-+p+-+0 
+9+-zppzPp+-0 
+9-+-zP-+-+0 
+9zP-zP-+N+-0 
+9-+P+LzPPzP0 
+9tR-vLQmK-+R0 
+xiiiiiiiiy
+It would not be until 25 years later, 
+that a Master game would follow in 
+these footsteps, but 8. c4 fared no better 
+[Maksimovic(2400)-Rasidovic(2370),
+
+April 2024
+BRITISH CHESS MAGAZINE | 233
+0–1, GMA Open, Belgrade, 1988. Engines 
+suggest that both: 8.h4 ¤e7 9.¦h3 O-O 
+10.h5, and 8.¦b1 ¤e7 9.h4 b6 10.¦h3 h6 
+11.¦g3; offer White a very pleasant game.
+8...¤e7 9.0–0 b6 10.a4 0–0!?
+11.¤g5 h6 12.¤h3 ¥d7? The text is not 
+disastrous, but 12...¥a6 and ...¢h7 are 
+definite if only slight, improvements.
+13.¤f4 ¤bc6 14.h4 a5? Again, I could 
+have ceded less with either, 14...¢h7 or 
+14...¤a5.
+15.£d2 ¦ac8 16.¥b2 ¤b8 17.¦fc1 
+£d8 17...¤bc6 offered a somewhat more 
+resistant profile.
+18.¢h2 Over-cautious. White stood very 
+well after both 18. dxc5! and c4.
+18...¤ec6 19.¦h1 £e7? 
+XIIIIIIIIY 
+9-snr+-trk+0 
+9+-+lwq-zp-0 
+9-zpn+p+-zp0 
+9zp-zppzPp+-0 
+9P+-zP-sN-zP0 
+9+-zP-+-+-0 
+9-vLPwQLzPPmK0 
+9tR-+-+-+R0 
+xiiiiiiiiy
+The move is alluded to in the preamble. 
+Black should have played, 19...£xh4 + 
+immediately.
+20.¤g6 £f7 21.¤xf8 ¦xf8 Anything but. 
+Both 21...£xf8, or ¢xf8, were preferable 
+to diverting the rook from the c-file.
+22.¥a3 £e7 23.¦ab1 £xh4+ 24.¢g1 
+£d8 25.dxc5 £e7 26.¦xb6 Winning-post 
+nerves? 26.¦h3 bxc5 27.¦b5 £g5 28.f4 
+£d8 29.¥xc5 is crushing.
+26...¤xe5 27.c6
+Powerfully more effective would have been, 
+27.c4! Black is swept away after either: 27...¥c6 
+28.¥b2 ¤f7 29.¦h3, or 27...¤xc4 28.¥xc4 
+dxc4 29.¦b7 c3 30.£d6 £xd6 31.cxd6.
+27...£xa3 28.cxd7 £e7 29.¦b7 ¤bxd7 
+30.¥b5?! White jettisons yet more impetus. 
+Correct was 30.c4, when after 30...dxc4, 
+31.¦h3 ¦f7 32.£xa5 £d6 33.¦b1, when 
+White enjoys a significant advantage.
+30...¦b8?! Both players playing with 
+openly exposed nerves. Black should have 
+played 30...£a3 in order to constrain 
+White’s growing initiative.
+31.¦xb8+ 
+¤xb8 
+32.£d4? 
+Further 
+evidence of fear of flying. White should 
+have played 32.¦h3, with a healthy edge.
+32...¤bc6 33.¥xc6 ¤xc6 34.£b6 £a3??
+Thar’ she blows! 34...£d6 defers the 
+inevitable, but resistance is futile!!
+35.£xc6 £c1+ 36.¢h2 £f4+ 37.g3 £xf2+ 
+38.¢h3 £e2
+1–0
+XIIIIIIIIY 
+9-sn-+-trk+0 
+9+-+lwq-zp-0 
+9-tRP+p+-zp0 
+9zp-+psnp+-0 
+9P+-+-+-+0 
+9vL-zP-+-+-0 
+9-+PwQLzPP+0 
+9+-+-+-mKR0 
+xiiiiiiiiy
+XIIIIIIIIY 
+9-+-+-+k+0 
+9+-+-+-zp-0 
+9-wQn+p+-zp0 
+9zp-+p+p+-0 
+9P+-+-+-+0 
+9wq-zP-+-+-0 
+9-+P+-zPP+0 
+9+-+-+-mKR0 
+xiiiiiiiiy
+
+04/144
+   | BRITISH CHESS MAGAZINE
+234
+By IM Shaun Taulbut
+4NCL DIVISION ONE - REPORT
+After six rounds in the 4NCL Division One 
+Wood Green are in top spot, having won 
+all their matches, closely followed by The 
+Sharks and Manx Liberty. (See the placings 
+at the end of the article.) 
+We shall look at two games by younger 
+players, starting with a fine win on the top 
+board by William Claridge-Hansen against 
+Lupulescu in the match Manx Liberty 
+against Oxford 1.
+ Constantin Lupulescu -
+ William Claridge-Hansen 
+4NCL 2023–24 England ENG (5.1)
+1.e4 c5 2.¤f3 e6 3.c3 White avoids the 
+Open Sicilian, potentially transposing 
+to a French Defence with one important 
+difference in that White has not yet played 
+d4.
+3...d5 4.e5 d4 Black prevents White from 
+following up with d4: a good and combative 
+decision.
+5.¤a3 ¤c6 6.¥d3 6.¥b5 ¥d7 is also 
+playable for White but Black has equality.
+6...¥d7 7.0–0 Allowing Black a good 
+option on the kingside.
+7...g5 Black can now attack the white 
+knight on f3 with …g4 and put pressure 
+on the white pawn on e5; Black plays 
+energetically to generate a kingside attack.
+8.£e2 h5 Black gains space and also plans 
+a further advance of the h-pawn against the 
+castled white king.
+9.¤e1 If 9.¤c4 g4 10.¤e1 b5 11.¤d6+ 
+¥xd6 12.exd6 c4 13.¥e4 d3 slightly 
+favours Black.
+9...£b8 10.f4 10.¤c4 b5 11.¤d6+ ¥xd6 
+12.exd6 c4 13.¥e4 £xd6 14.a4 ¦b8 15.d3 
+is slightly better for White.
+10...gxf4 11.¤f3 ¤h6 
+XIIIIIIIIY 
+9rwq-+kvl-tr0 
+9zpp+l+p+-0 
+9-+n+p+-sn0 
+9+-zp-zP-+p0 
+9-+-zp-zp-+0 
+9sN-zPL+N+-0 
+9PzP-zPQ+PzP0 
+9tR-vL-+RmK-0 
+xiiiiiiiiy
+11...h4 12.¥e4 h3 is a good alternative, 
+weakening g2.
+12.¦e1 ¦g8 13.b3 a6 14.¥b2 dxc3 
+15.¥xc3 15.dxc3 ¤g4 is good for Black.
+15...b5 
+XIIIIIIIIY 
+9rwq-+kvlr+0 
+9+-+l+p+-0 
+9p+n+p+-sn0 
+9+pzp-zP-+p0 
+9-+-+-zp-+0 
+9sNPvLL+N+-0 
+9P+-zPQ+PzP0 
+9tR-+-tR-mK-0 
+xiiiiiiiiy
+Black expands on the queenside as well, 
+cramping White’s minor pieces; the threat 
+of a fork forces White to retreat further.
+
+April 2024
+BRITISH CHESS MAGAZINE | 235
+16.¤c2 £a7 17.¢h1 ¦d8 18.¦f1 ¤e7 
+19.¤g1 ¥c6 20.¤e1 If 20.¥e4 ¥xe4 
+21.£xe4 b4 22.¥b2 ¦xd2 Black is 
+much better.
+20...£b7 21.¤ef3 ¤ef5 
+XIIIIIIIIY 
+9-+-trkvlr+0 
+9+q+-+p+-0 
+9p+l+p+-sn0 
+9+pzp-zPn+p0 
+9-+-+-zp-+0 
+9+PvLL+N+-0 
+9P+-zPQ+PzP0 
+9tR-+-+RsNK0 
+xiiiiiiiiy
+Black has strong pressure against g2.
+22.¦ae1 ¦xd3 23.£xd3 c4 23...b4 
+24.¥b2 ¤h4, with an attack on g2, is 
+decisive as the knight cannot be captured 
+and defending g2 with a rook allows 
+either …¥b5 or …¤g4.
+24.bxc4 ¥c5 25.£e2 h4 26.d4 26.¤h3 is 
+better for White here but now Black has a 
+winning attack.
+26...¥xd4 27.¥xd4 ¤xd4 28.£d3 ¤hf5 
+XIIIIIIIIY 
+9-+-+k+r+0 
+9+q+-+p+-0 
+9p+l+p+-+0 
+9+p+-zPn+-0 
+9-+Psn-zp-zp0 
+9+-+Q+N+-0 
+9P+-+-+PzP0 
+9+-+-tRRsNK0 
+xiiiiiiiiy
+The black knights dominate the game.
+29.cxb5 ¥xb5 30.£b1 h3 31.¤xh3 
+¦xg2 
+XIIIIIIIIY 
+9-+-+k+-+0 
+9+q+-+p+-0 
+9p+-+p+-+0 
+9+l+-zPn+-0 
+9-+-sn-zp-+0 
+9+-+-+N+N0 
+9P+-+-+rzP0 
+9+Q+-tRR+K0 
+xiiiiiiiiy
+32.¤xf4 If 32.¢xg2 ¤h4+ 33.¢h1 ¤dxf3 
+34.£e4 ¥c6 35.£xf4 ¤g5+ 36.¢g1 
+¤xh3#.
+32...¦g4 33.¤h5 ¤xf3 34.¤f6+ ¢f8 
+XIIIIIIIIY 
+9-+-+-mk-+0 
+9+q+-+p+-0 
+9p+-+psN-+0 
+9+l+-zPn+-0 
+9-+-+-+r+0 
+9+-+-+n+-0 
+9P+-+-+-zP0 
+9+Q+-tRR+K0 
+xiiiiiiiiy
+White has no defence to the threatened 
+discovered checks, ie … ¤xe1+ and … 
+¤d2+
+0–1
+
+04/144
+   | BRITISH CHESS MAGAZINE
+236
+Now an excellent win by Scottish Junior 
+Freddy Gordon against John Emms
+ Frederick Waldhausen Gordon -
+ John Emms
+4NCL 2023–24 England ENG (5.2)
+1.d4 ¤f6 2.c4 e6 3.¤f3 d5 
+XIIIIIIIIY 
+9rsnlwqkvl-tr0 
+9zppzp-+pzpp0 
+9-+-+psn-+0 
+9+-+p+-+-0 
+9-+PzP-+-+0 
+9+-+-+N+-0 
+9PzP-+PzPPzP0 
+9tRNvLQmKL+R0 
+xiiiiiiiiy
+4.¤c3 c5 5.cxd5 ¤xd5 6.e4 ¤xc3 7.bxc3 
+cxd4 8.cxd4 ¥b4+ 9.¥d2 ¥xd2+ 
+10.£xd2 0–0 11.¥c4 
+A standard Semi-Tarrasch position well 
+known to theory; White has a slight edge 
+with his pawn centre.
+XIIIIIIIIY 
+9rsnlwq-trk+0 
+9zpp+-+pzpp0 
+9-+-+p+-+0 
+9+-+-+-+-0 
+9-+LzPP+-+0 
+9+-+-+N+-0 
+9P+-wQ-zPPzP0 
+9tR-+-mK-+R0 
+xiiiiiiiiy
+11...¤d7 12.0–0 b6 13.¦fe1 ¥b7 14.¦ad1 
+¦c8 15.¥b3 ¦e8 16.h3 ¤f6 17.£d3 h6 
+17...£e7 is an alternative here.
+18.¤e5 £c7 19.f4 
+White has the initiative here, with more space 
+for his pieces, and the white knight is very 
+active, so Black plays to exchange this knight.
+19...¤d7 20.£g3 ¤xe5 21.fxe5  White 
+has the half open f-file to mount pressure 
+against the black king and his bishop is 
+superior to its counterpart.
+XIIIIIIIIY 
+9-+r+r+k+0 
+9zplwq-+pzp-0 
+9-zp-+p+-zp0 
+9+-+-zP-+-0 
+9-+-zPP+-+0 
+9+L+-+-wQP0 
+9P+-+-+P+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+21...¦ed8 22.¢h2 ¥a6 22...a5 is also 
+worth consideration, with the idea of … b5 
+and … a4. White advances in the centre to 
+create a passed pawn.
+23.d5 ¥c4 24.d6 £b7 25.¦e3 b5 26.£f4 
+£b6 27.¦g3 ¢h8 28.£xf7 28.d7 ¦b8 
+29.¦d6 £c7 30.£xf7.
+28...¦g8 29.¥xc4 bxc4 30.d7 ¦cf8 
+31.£e7 c3 If 31...¦d8 32.¦d6 £a5 
+33.£xe6 c3 34.£xh6+ gxh6 35.¦xh6#.
+32.¦xg7 ¦xg7 33.£xf8+
+The d-pawn queens.
+1–0
+XIIIIIIIIY 
+9-+r+r+k+0 
+9zplwq-+pzp-0 
+9-zp-+psn-zp0 
+9+-+-sN-+-0 
+9-+-zPPzP-+0 
+9+L+Q+-+P0 
+9P+-+-+P+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+
+April 2024
+BRITISH CHESS MAGAZINE | 237
+4NCL DIVISION ONE - THE PLACINGS AFTER SIX ROUNDS
+Rk Name
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+MP
+GP
+1 Wood Green
+4½-3½
+6-2
+5½-2½
+6-2
+7-1
+5½-2½
+12
+34½
+2 The Sharks 1
+3½-4½
+5-3
+5½-2½
+6½-1½ 7½-½ 6½-1½
+10
+34½
+3 Manx Liberty
+3-5
+4½-3½
+5-3
+6-2
+6½-1½
+10
+30
+4 Wood Green Youth
+3½-4½
+6-2
+6-2
+8
+29½
+5 Cheddleton
+2-6
+3-5
+4-4
+5½-2½
+5-3
+7½-½
+7
+27½
+6 Alba
+2½-5½
+1½-6½
+4-4
+4½-3½
+5-3
+4½-3½
+7
+27½
+7 Blackthorne
+2-6
+2-6
+2½-5½
+4-4
+4-4
+4½-3½
+5-3
+6
+23
+8 Chessable White Rose 1
+2½-5½
+2-6
+2½-5½ 3½-4½
+7½-½
+4½-3½
+4
+22½
+9 Barnet Knights A
+1-7
+3-5
+3½-4½
+4-4
+6-2
+3
+19½
+10 Chessable White Rose 2
+1½-6½
+2-6
+3-5
+½-7½
+4-4
+4½-3½
+3
+15½
+11 Celtic Tigers 1
+2½-5½ ½-7½
+½-7½ 3½-4½
+2-6
+4½-3½
+2
+13½
+12 Oxford 1
+1½-6½ 1½-6½
+3-5
+3½-4½
+3½-4½ 3½-4½
+0
+16½
+
+04/144
+   | BRITISH CHESS MAGAZINE
+238
+Openings
+    for Amateurs By Pete Tamburro; ptamburro@aol.com 
+Attacking patterns out of your Openings (Part I)
+I’ve often talked about the "ten-move rule," 
+where amateurs lose the thread of their 
+opening somewhere between moves ten and 
+fifteen. However, once you get to the early 
+middle game, do you know the attacking 
+patterns that emerge out of the opening you 
+pick? In browsing through my 1937 BCM 
+volume, I ran across this brilliancy prize 
+game by George Koltanowski in the Belgian 
+Championship. It’s a Colle System, which 
+Kolty made famous in his simul tours and a 
+little booklet he used to sell. There’s a joke 
+among collectors that the rarest book in chess 
+is that Colle book that isn’t signed by him!
+The brilliancy calculation must have taken him 
+all of 30 seconds to figure out as there were 
+two famous wins by Lasker and Tarrasch with 
+the same two bishop sacrifice (also included 
+in this article). His opponent apparently, and 
+innocently, wandered into it because he either 
+forgot or never played over those two games. In 
+myriad conversations with GMs over the years, 
+I was always impressed by their ability to refer 
+to either certain games or positions going back 
+many years. In Openings for Amateurs, I’ve 
+always tried to bring some of these old classics 
+in because younger players seem to have no 
+idea who played before they were born!
+ Koltanowski - Defosse
+Belgium National Championship, 1937
+1.d4 ¤f6 2.¤f3 e6 3.e3 d5 4.¥d3 c5 5.c3 
+¤c6 6.¤bd2 ¥e7 7.0–0 0–0 8.dxc5! Very 
+important! White wants to play e2–e4, but 
+doesn’t want Black playing cxd4 when that 
+thrust happens, so white captures on c5. 
+8...¥xc5 9.e4 £c7! 
+XIIIIIIIIY 
+9r+l+-trk+0 
+9zppwq-+pzpp0 
+9-+n+psn-+0 
+9+-vlp+-+-0 
+9-+-+P+-+0 
+9+-zPL+N+-0 
+9PzP-sN-zPPzP0 
+9tR-vLQ+RmK-0 
+xiiiiiiiiy
+
+April 2024
+BRITISH CHESS MAGAZINE | 239
+This is not easy to find, but it is easy 
+to understand. Black develops a piece 
+(notice how many times we say that?), 
+prevents e4–e5, and even supports Black 
+doing his own thing by putting a piece or 
+a pawn on e5, or even f4. 
+10.£e2 The Black queen move comes in 
+handy after: 10.exd5 ¤xd5 11.¤e4 ¥e7 
+12.£e2 b6 13.c4 ¤f4 
+10...¥d6
+XIIIIIIIIY 
+9r+l+-trk+0 
+9zppwq-+pzpp0 
+9-+nvlpsn-+0 
+9+-+p+-+-0 
+9-+-+P+-+0 
+9+-zPL+N+-0 
+9PzP-sNQzPPzP0 
+9tR-vL-+RmK-0 
+xiiiiiiiiy
+One move suggested in several sources 
+and by Stockfish 16 is 10...h6; however, 
+the "equal" should be "complicated!" 
+Just take one possibility that leads to 
+an exchange sacrifice idea that White 
+should know: 11.e5 ¤g4 12.¤b3 ¥b6 
+13.¤bd4 ¤cxe5 14.¤xe5 ¤xe5 15.¥f4 
+f6 16.¦ae1 ¥d7 17.£h5 £c8 (17...¥c8 
+18.¦xe5!! fxe5 19.¥xe5 £f7 20.¥g6 
+£e7 21.¥c2 ¥c7 (21...£f7 22.£e2 
+¥c7 23.¤f3 b6 24.£d3 g5 25.¥xc7 
+£xc7 
+26.h4 
+gxh4 
+27.¤xh4 
+£g7 
+28.f4±) ) 18.¦xe5!! fxe5 19.¥xe5 £e8 
+20.£g4 £f7 21.f4²; In OFA, I looked 
+at 10...e5 11.exd5 ¤xd5 12.¥xh7+ and 
+was satisfied with the win of a pawn. 
+Reconsidering it years later, it seems 
+Black has play for the pawn: (12.¤e4 
+¥e7 13.¦e1 (13.¥c4 ¤b6 14.¥b3 ¥f5 
+15.¤g3) ) 12...¢xh7 13.£e4+ ¢g8 
+14.£xd5 ¥e7 That’s why it is always 
+good, as I also wrote back then, to do 
+your own homework and re-evaluate 
+positions and moves. 
+11.¦e1 ¤g4 "White wants to enforce 
+e4–e5. Black wants to prevent it. It’s that 
+simple."-Openings for Amateurs book. 
+12.h3 ¤ge5 "White chases the defender 
+of the e5 square, but the defender becomes 
+the occupant--one way to prevent e4–e5!" 
+– OFA. 
+13.¤xe5 13.¥c2 
+13...¤xe5 14.exd5 exd5!? Black should 
+always consider getting rid of that "Colle" 
+bishop. 14...¤xd3 15.£xd3 ¦d8 16.¤f3 h6 
+17.¤d4 exd5 18.¤b5=.
+15.¤f3 ¤xf3+? Much better, as pointed 
+out in OFA, is 15...¤xd3 16.£xd3 £c4 
+17.£xc4 dxc4 .The flurry of exchanges 
+is over. Where swapping queens didn’t 
+work before, it works now because 
+Black rid himself of his isolated d-pawn 
+and created an equal balance of pawns 
+on both sides. Black also has the two 
+bishops. The position is equal. White 
+has a slightly freer position, an excellent 
+outpost on d4 for his knight, and easy 
+access to the open files for his rooks. 
+Black has to bring his rooks and his 
+king to the centre to encourage further 
+exchanges. It can still get exciting: 
+18.¦e4 ¥e6 19.¤g5 ¥c5 20.¤xe6 fxe6 
+21.¥f4 ¦ad8 22.¦xc4 ¥xf2+ 23.¢xf2 
+e5 
+24.¢e3 
+exf4+ 
+25.¦xf4 
+¦xf4 
+26.¢xf4 ¦d2 Black really has to be 
+on his toes in this line. This is a pretty 
+solid way to defend the Colle, although 
+you can see how dangerous it can be. 
+It’s good to know the ideas of both 
+sides. You can see that one little misstep 
+for White on move eight or Black on 
+move nine can make a difference in 
+the game’s direction. Developing your 
+pieces is good. Developing them with 
+an overall idea in mind is better. Now 
+we come to the part where a mistake by 
+the defence in the early middle game 
+sets up an opportunity for a decisive 
+attack. Just as Black has to know what 
+not to do, White has to know what to do 
+when Black falters.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+240
+16.£xf3 ¥e6 17.¥e3 ¦ad8 18.¥c2 b5 
+19.¥d4 ¥c5 20.¦ad1 b4 
+XIIIIIIIIY 
+9-+-tr-trk+0 
+9zp-wq-+pzpp0 
+9-+-+l+-+0 
+9+-vlp+-+-0 
+9-zp-vL-+-+0 
+9+-zP-+Q+P0 
+9PzPL+-zPP+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+P.S. Milner-Barry, in the 1937 BCM, wrote 
+"There does not seem to be much wrong 
+with Black’s game apart from the minor 
+inconvenience of the isolated Pawn. But, as 
+usual, the Colle variation is more dangerous 
+than it looks."
+Indeed. Too often all of us get a little lazy and 
+are seduced by the superficial harmlessness 
+of a quiet-looking position. In this game, 
+¤xf3+ seemed to reduce the material on 
+the board, but after this, the very nature of 
+the game changed. Even after 20...¥xd4 
+21.¦xd4 g6 22.¥b3 a5 23.a3 a4 24.¥xd5 
+¥xd5 25.¦xd5±, White’s extra pawn is on 
+the queenside and his queen and rook are in 
+dominant positions. 
+21.¥e5 ¥d6?
+XIIIIIIIIY 
+9-+-tr-trk+0 
+9zp-wq-+pzpp0 
+9-+-vll+-+0 
+9+-+pvL-+-0 
+9-zp-+-+-+0 
+9+-zP-+Q+P0 
+9PzPL+-zPP+0 
+9+-+RtR-mK-0 
+xiiiiiiiiy
+Again Milner-Barry: "Black is unaware 
+of the impending catastrophe." He did 
+note that Black really didn’t have a good 
+move. For example: 21...£b6 22.£g3 g6 
+23.h4 bxc3 24.bxc3 ¦fe8 25.£f4 ¥d6 
+26.h5 ¥xe5 27.¦xe5 £c5 28.¥a4 £xc3 
+29.¥xe8 ¦xe8 30.h6 £a3 31.¦dxd5+–; 
+and 21...£d7 22.cxb4 ¥xb4 23.¥xg7 
+¢xg7 
+24.£d3 
+f5 
+25.£d4+ 
+¦f6 
+26.£xb4.
+22.¥xh7+! When you consider that the 
+famous Lasker-Bauer game was played in 
+1889 and Nimzovich-Tarrasch followed 
+the theme in 1914, Kolty must have been 
+pleased to join the immortals. Defosse, on 
+the other hand, had to resolve to study more 
+classic games. 
+22...¢xh7 
+23.£h5+ 
+¢g8 
+24.¥xg7 
+¢xg7 The double-bishop sacrifice could 
+be ignored by Black; however, the result 
+would be the same. 24...f6 25.£h8+ ¢f7 
+26.¥xf8 ¥xf8 27.£h5+ ¢e7 28.£h7+ 
+¢d6 29.¦xe6+ ¢xe6 30.£xc7+–.
+25.£g5+ ¢h7 26.¦d4 Black could have 
+resigned after the rook lift. 
+26...¥h2+ 
+27.¢h1 
+£f4 
+28.¦xf4 
+¥xf4 29.£xf4 ¦g8 30.¦e5 and Black 
+achieves his goal of avoiding the 
+miniature games books.
+1–0
+  
+That’s the first lesson. It’s important to 
+recognize positions that give you decisive 
+attacks. Now, if you do that, you’re 
+only halfway there. The second half is 
+recognising those patterns as they start 
+to emerge. It’s one thing to have seen the 
+Lasker or Tarrasch games and another 
+to study how they emerged out of the 
+opening. That’s the flaw in many tactical 
+study books today. They give you the 
+position and essentially say, "OK, here’s 
+the mate. Find it!" Very few show you 
+the whole game so you can see it form 
+as you approach it. For defenders, such 
+as Defosse, they also have to be aware of 
+those emerging possibilities.
+
+April 2024
+BRITISH CHESS MAGAZINE | 241
+Both these games are the double bishop 
+sacrifice, but both have more to it than 
+Kolty’s quickie. Two good reasons to play 
+over classic games.
+ Lasker-Bauer
+Amsterdam, 1889
+XIIIIIIIIY 
+9r+-+-trk+0 
+9+l+-vlpzpp0 
+9pzpq+psn-+0 
+9+-zppvL-+-0 
+9-+-+-zP-+0 
+9+P+LzP-sN-0 
+9P+PzPQ+PzP0 
+9tR-+-+RmK-0 
+xiiiiiiiiy
+1.¤h5!  ¤xh5 2.¥xh7+ ¢xh7 3.£xh5+ 
+¢g8 4.¥xg7 ¢xg7 5.£g4+ ¢h7 6.¦f3 
+e5 7. ¦h3+ £h6 8.¦xh6+ ¢xh6 9.£d7 
+¥f6 10.£xb7 ¢g7 11.¦f1 ¦ab8 12.£d7 
+¦fd8 13.£g4+ ¢f8 14.fxe5 ¥g7 15.e6 
+¦b7 16.£g6 f6 17.¦xf6+ ¥xf6 18.£xf6+ 
+¢e8 19.£h8+ ¢e7 20.£g7+ ¢xe6 
+21.£xb7 
+1–0
+ Nimzovich - Tarrasch
+St. Petersburg, 1914
+XIIIIIIIIY 
+9-+-tr-trk+0 
+9zp-+-wqp+p0 
+9-+lvl-+p+0 
+9+-zpp+-+-0 
+9-+-+n+-+0 
+9+P+-zPN+-0 
+9PvLQsN-zPPzP0 
+9+-tR-+RmK-0 
+xiiiiiiiiy
+1...¤xd2! 2.¤xd2 Nimzo walks right into 
+it. A bit stiffer, but still losing, resistance 
+was: 2.£xd2 d4 3.£e2 ¦fe8 4.¦fd1 ¥b7 
+5.¦d2 ¥f4 6.¦e1 ¥c7 7.£d1 ¥xf3 
+8.£xf3 ¥a5.
+2...d4 3. exd4 3.¦fe1 ¦fe8.
+3...¥xh2+ 4.¢xh2 £h4+ 5.¢g1 ¥xg2 
+6.f3 6.¢xg2 £g4+ 7.¢h1 ¦d5.
+6...¦fe8 7.¤e4 £h1+ 8.¢f2 ¥xf1 9.d5 
+f5 10.£c3 £g2+ 11.¢e3 ¦xe4+ 12.fxe4 
+f4+! 13.¢xf4 ¦f8+ 14.¢e5 £h2+ 15.¢e6 
+¦e8+ 16.¢d7 ¥b5#.
+
+04/144
+   | BRITISH CHESS MAGAZINE
+242
+I was going over Nigel Short’s games 
+from his book “Winning”. I always liked 
+Nigel and rooted for him in the 1980s 
+and 1990s as he was the “best from the 
+West” and I was curious to see how far 
+he could go.
+The games in the book are very 
+interesting and revealing. One aspect that 
+I found surprising was how sometimes 
+these great players could have bad days 
+and how easily they could be affected by 
+psychological factors. 
+The following two games are good 
+examples of both of these factors.
+In the game Short-Timman from 
+Reykjavik 1987, Black obtained a 
+decent position in the French. However, 
+instead of slower moves that improve 
+GRANDMASTERS’
+MISEVALUATIONS
+By GM Aleksandar Colovic
+
+April 2024
+BRITISH CHESS MAGAZINE | 243
+his position (Short proposed …¢b8-a8) 
+he lashed out with 14…f5??, which only 
+gave him a hopeless position in exchange 
+for a couple of tempi spent to bring the 
+knight to e4, from where it was duly 
+chased away.
+Here’s the position after seven moves, when 
+Black is positionally lost. I found it really 
+strange that a player of Timman’s strength, 
+easily a top five player at the time, could 
+commit such a bad positional mistake.
+ 
+In the game Polugaevsky-Short from 
+the same event, Short obtained a good 
+position from the obscure opening 
+1.¤f3 d6. It resembles a Sicilian, 
+where Black is very comfortable. 
+Instead of simple play 17…a6 and b5, 
+Short played 17…d5, which while not 
+bad (though he criticises this decision 
+in the book) shows a desire to force 
+matters. In fact, Short admits to being 
+rattled and feeling uncomfortable after 
+the loss in the previous round. After 
+18.e5 ¤e4 19.¥xe4 dxe4 20.¥e3 he 
+started to see ghosts and feared losing 
+his e4-pawn.
+So, instead of calmly doubling on 
+the d-file, he lashed out with 20…f5? 
+21.exf6 ¥xf6 22.¥f2 and what he feared 
+he single-handedly made happen – he 
+lost the pawn on e4. He managed to draw 
+the game, but it was not a good pair of 
+decisions. In this case, the curious part 
+is his confession of playing under the 
+influence of his previous game.
+This example shows that when GMs 
+demonstrate clear misevaluations or 
+play bad moves, there is always an 
+underlying reason for that. It’s just that 
+we rarely get to know it, a sin Timman’s 
+case, as honesty is rarely the best policy 
+in the world of elite sport – revealing 
+too much about oneself can easily help 
+the opposition.
+Not everybody will be honest even after 
+their career ends, which makes these 
+glimpses even more valuable.
+Photo David Llada
+
+04/144
+   | BRITISH CHESS MAGAZINE
+244
+In the last few years, the publishing 
+house Elk and Ruby has been providing 
+an invaluable service to English-
+speaking chess players who do not 
+read Russian by producing splendid 
+translations of works about players 
+and events mostly involving the Soviet 
+Union. The three books reviewed here 
+reinforce this service, at the same 
+time as adding a volume (originally 
+in Russian) on one of the outstanding 
+players of the German-speaking realm, 
+Rudolf Spielmann. All of these books 
+are labelled “Chess Biographies”. What 
+this term means is that, while each work 
+gives us something about the life and 
+times of the player, their biographies 
+are traced through their chess-related 
+activities. The focus on the “chess 
+personality” of the player almost 
+inevitably invites a reassessment of the 
+contribution made to the development 
+of chess and to the circumstances in 
+which the player made that contribution. 
+Seen from this perspective of hindsight, 
+the three players in question offer an 
+unusually rich array of insights.
+Spielmann is the best known, and the 
+standard picture of him is that of a hugely 
+gifted combinative master who could give 
+as good as he took with the world’s best 
+during his lifetime. Rauzer is recognizable 
+to most through his contributions to chess 
+theory, especially in a couple of openings, 
+the Sicilian and the French. Verlinsky is 
+maybe less well-known outside Russia. It 
+WHAT HINDSIGHT CAN GIVE US
+THE STORIES OF SPIELMANN,
+VERLINSKY AND RAUZER
+A REVIEW OF:
+“A CHESS BIOGRAPHY OF RUDOLF SPIELMANN: FROM VIENNA TO MUNICH TO 
+STOCKHOLM” BY GRIGORY BOGDANOVICH, ELK AND RUBY, 2023
+“A CHESS BIOGRAPHY OF BORIS VERLINSKY: FIRST GRANDMASTER OF THE SOVIET 
+UNION” BY SERGEI TKACHENKO, ELK AND RUBY 2023
+“OBSESSION: A CHESS BIOGRAPHY OF VSEVOLOD RAUZER”, BY ALEXANDER 
+KONSTANTINOPOLSKY, ELK AND RUBY 2023
+By Peter O’Brien
+
+April 2024
+BRITISH CHESS MAGAZINE | 245
+may surprise many to learn that he was, 
+in fact, the first grandmaster of the Soviet 
+Union. How come more has not been heard 
+of such a player? The trio of volumes 
+here seek to adjust our ways of seeing 
+these players, both through deepening 
+our understanding of what we think we 
+already knew and throughopening our 
+horizons on many things of which we 
+were most likely unaware. 
+Despite the differences in the contexts in 
+which the three lived, they shared some 
+key characteristics. All were Jewish 
+and had to cope with the unprecedented 
+horrors of those times and places. For 
+them, 
+chess 
+effectively 
+represented 
+their lives. Spielmann stated that it 
+was his profession  and that at a time 
+when very few would make the same 
+affirmation. Unfortunately, the epoch in 
+which he lived offered scarce prospects 
+for sustaining such a profession and he 
+died in chronic poverty in 1942. Rauzer, 
+as the title of Konstantinopolsky’s book 
+indicates, became literally obsessed with 
+the game. Though his friends eventually 
+found him a plausible job providing 
+little income, he in fact devoted all of 
+his waking hours to the search for truth 
+within chess. His theoretical insights 
+therefore went far beyond the opening 
+theory ideas which have traditionally 
+been the source of his fame. He too died in 
+1942, in appalling circumstances during 
+the siege of Leningrad. As for Verlinsky, 
+let us listen to that wonderful player 
+and incomparable authority on chess 
+in the USSR, namely Yuri Averbakh. 
+He was a good friend of Verlinsky and 
+said: “Chess was everything for him, 
+and he brought the philosophy of this 
+wise game to everyone who was ready to 
+receive it” (cited on p.10 of Tkachenko’s 
+book). Verlinsky died in 1950, at the age 
+of 62, While this may appear seem like 
+longevity compared with Spielmann and 
+Rauzer, the first grandmaster of the USSR 
+had in fact been virtually deaf since birth, 
+survived several Jewish pogroms and 
+suffered other brutal difficulties. Hence 
+for all three adversity was a constant in 
+their lives.
+The core of Bogdanovich’s reassessment 
+of Spielmann is contained in five chapters, 
+occupying over 300 pages, of which one, 
+roughly 100 pages in length, examines 
+his legendary attacking skills, The next 
+four, 
+however, 
+highlight 
+successively 
+Spielmann’s art as a defender, his positional 
+mastery, the knowledge of opening theory, 
+and his prowess in the endgame. It is 
+after these very important chapters that 
+Bogdanovich takes us into a series of issues 
+which would be a real bonus to find in other 
+biographies of players and their games. 
+The first of those issues is what the author 
+labels “The Costs of Style”. A risk-taker
+Despite the differences in the contexts in 
+which the three lived, they shared some 
+key characteristics. All were Jewish and 
+had to cope with the unprecedented 
+horrors of those times and places. For 
+them, chess effectively represented 
+their lives
+Verlinsky is maybe less well-known 
+outside Russia. It may surprise many 
+to learn that he was, in fact, the first 
+grandmaster of the Soviet Union
+
+04/144
+   | BRITISH CHESS MAGAZINE
+246
+condemns himself to occasions when the 
+endeavour backfires, and he loses. Some 
+of these defeats are at the hands of the 
+greats, such as Botvinnik, Schlechter and 
+Nimzowitsch. But some also happened 
+with somewhat less renowned, though 
+still superb, players. If you play with fire, 
+the chances of being burned are all too 
+real. Think of Real Madrid waiting for 
+added time to score the decisive goals, of 
+Djokovic risking innumerable tie-breaks, 
+or of Goggia, Schifrin and Brignone 
+banking everything on split seconds. 
+The spectators want nail-biting tension. 
+A second issue relates to what John 
+Nunn enunciated as the DAUT principle 
+(‘Don’t Analyse Unnecessary Tactics”). 
+Simply put, Nunn gives us the very 
+sound advice that, if we can reinforce 
+our position (especially an attacking one) 
+through straightforward moves involving 
+little risk, we should do so. Spielmann 
+certainly did not always follow this. 
+Hence Bogdanovich gives examples 
+of the extent to which an ”anti-DAUT” 
+approach might not be so good. A third 
+issue, once more revolving around the 
+subject of risk assessment in chess, relates 
+to the cases where “pragmatism” prevails. 
+Bogdanovich, 
+following 
+well-known 
+remarks of Tartakower, calls this cynicism 
+and asks whether Spielmann could also 
+be labelled a chess cynic. The answer 
+is that there are many instances where 
+the great Viennese master calculated his 
+options very well. His style may have had 
+its costs, but they were mostly kept well 
+under control.
+The Rauzer book has the valuable feature 
+of bringing together older contributions by 
+Soviet players who knew the man and his 
+work very well. Thus a Konstantinopolsky 
+article of 1989 describes Rauzer as its author 
+knew him; Yudovich and Fogelevich, in a 
+short piece probably written in the mid-
+1930s, provide an early look at Rauzer’s 
+theoretical contributions: Lazarev, writing 
+in 1975, underlines how Rauzer went 
+about his theoretical work and highlights 
+also the contributions to endgame theory;
+ 
+while Botvinnik, in a vignette published 
+in 1990, states categorically that “there 
+is every reason to place V Rauzer among 
+the founders of the Soviet school, 
+which defined the development of chess 
+thought for many years” (p.48). These 
+assessments are followed by a large 
+selection of games showing the depth of 
+Rauzer’s work. He was unquestionably 
+driven by the idea that the game 
+contained absolute truth and this should 
+be sought whatever the circumstances. 
+That notion was bad both for practical 
+results and Rauzer’s mental and physical 
+health. It also led to huge generalisations, 
+in particular his total conversion, from 
+the early 1930s onwards, to playing 
+only 1.e4. This was in direct contrast 
+to Breyer’s earlier statement that, after 
+this opening move, White’s game was 
+in its last death throes. Breyer was in 
+the hypermodern vein, while Rauzer’s 
+enormous theoretical efforts were in 
+defence of classicism in the game.
+I am not sure I can do full justice to 
+Tkachenko’s 
+magnificent 
+book 
+on 
+Verlinsky in a short review. Partly this 
+“…There is every reason to place V 
+Rauzer among the founders of the Soviet 
+school, which defined the development 
+of chess thought for many years”
+
+|
+is because his life as a Ukrainian Jewish 
+person living in a terrible era is a 
+theme which is of personal interest to 
+me, while here I must sell Tkachenko’s 
+detailed observations short. It is also 
+partly because we are talking about 
+a brilliant player who could beat the 
+world’s very best and did indeed win 
+the 1929 Soviet championship. That 
+this master of the attack is nowhere 
+near the first name that comes to mind 
+when discussing “the Soviet school” 
+is most likely due to a mix of the way 
+the USSR itself officially presented 
+its players and to gaps in our research. 
+Tkachenko has gone a very long way 
+towards correcting things. There are 
+130 games and game fragments where 
+the opponents represent more or less 
+the “Who’s Who” of Soviet chess till 
+the end of the 1940s. The material 
+leaves us in no doubt that Verlinsky 
+was a superb competitor, fighting 
+lifelong battle against severe obstacles, 
+somehow surviving through most of 
+the Stalinist times, and never failing 
+to produce works of art. Indeed, the 
+author’s opening lines are “dedicated to 
+Chess Heroes who produce works of art 
+against the Odds!” The book contains a 
+large selection of photos which portray 
+many of Verlinsky’s chess opponents, 
+but also splendid historical pictures of 
+places significant in Ukrainian history. 
+Thus, somewhat in contrast to the 
+books on Spielmann and Rauzer, this 
+work is devoted both to the man and 
+his circumstances.
+In earlier BCM articles, I have argued 
+that excellent volumes on outstanding 
+players of the past not only tell us much 
+about the real history of the game, but 
+are also major insights into historical 
+periods and their consequences. With 
+this fine set of books, Elk and Ruby has 
+once more reiterated the message.
+DAVID'S DOUBLE
+Two British Chess Solving Championships on 
+the trot for David Hodge. He was the winner 
+last year, and he retained his title this year 
+David only won narrowly, both times, because 
+the evergreen Professor Jonathan Mestel came 
+very close to overtaking him. Mestel has 
+himself won the title many times and is also a 
+former World Chess Solving Champion.
+Third place - one of the regulars? No, a 
+newcomer. Audrey Kueh, with no previous 
+experience 
+at 
+solving 
+championships, 
+although a strong over-the-board player, 
+achieved a superb score. Audrey narrowly 
+edged ahead of Kamila Hryshchenko for 
+the bronze medal position. Kamila did get 
+a major prize, however - that for the best 
+solving performance over the last 12 months. 
+During 2023/24, she won multiple prizes, 
+had a massive increase in solving Elo rating, 
+and became a regular member of the British 
+solving team at international competitions.
+In parallel with the British Championship 
+there is an Open held, at the same time and 
+with the same problems to solve. This was 
+won by one of the world’s best solvers, Eddy 
+van Beers from Belgium, with Vidmantas 
+Satkus of Lithuania and Abdelaziz Onkoud 
+of France in silver and bronze positions. 
+The competitions were held at the splendid 
+site of Harrow School, on February 17th. 
+They were sponsored by Winton, the 
+quantitative investment management firm 
+(winton.com). 
+In chess solving events, competitors try to 
+solve chess problems, such as White to play 
+and force mate in three moves, against the 
+clock. Points are awarded for how much of 
+the solution the solver finds. 
+The British 
+Chess Solving 
+Championships
+See the next page  »
+
+04/144
+   | BRITISH CHESS MAGAZINE
+248
+ian@irwatson.uk
+by Ian Watson
+M. Travasoni
+L’Italia Scacchistica 1979
+win
+S. Abramenko
+Tsjernobyl Ty 1990
+win
+ 
+Y. Afek
+EBUR 2002 (version)
+draw
+G. Zachodjakin
+Shakhmaty v SSSR 1951
+draw
+Endgame Studies
+
+April 2024
+BRITISH CHESS MAGAZINE | 249
+Your challenge this month is to solve the studies used in the Winton British Chess Solving 
+Championship. If you can, you will have beaten every competitor. No-one got a perfect 
+score in the study-solving round. 
+At this year’s finals, some of the world’s top solvers came to Britain to compete against 
+the British solvers. Even the overall winner, Eddy van Beers from Belgium, did not fully 
+solve either of the two studies in the Open event. Five competitors did succeed with the 
+first of those two studies, but no-one fully solved the second one. David Hodge, who won 
+the British Champion title, got five out of five for the first, but only one out of five for 
+the second. 
+There is also another event (the Minor) that takes place simultaneously with the main 
+event, but with somewhat easier problems to solve. In this event there are also two studies; 
+only the winner, Gautam Jain, fully solved both of them. 
+The first two studies, composed by Travasoni and Afek, are the ones from the Minor. The 
+Abramenko and Zachodjakin are the ones from the Open event. I have put the four studies 
+in ascending order of difficulty so that you can build up to the toughest.
+The usual solving procedures apply: You’ll need to set up these positions on a board. In 
+solving events, you can use a chess set and you can move the pieces to try and help you 
+solve. You solve against the clock; for these four studies give yourself an average of 30 
+minutes for each one, so 120 minutes in total. Points are awarded according to how much 
+of the composer’s solution you find, with five points available for each study if you find 
+it all. In the answers, I’ll show you where the points were awarded. You need to find the 
+composer’s main line; you can also write down sidelines if you’re not sure what the main 
+line is, but only the main line moves earn points. So, look for the most artistic, elegant line. 
+All the problems used in the events are on the British Chess Problem Society website; 
+visit www.theproblemist.org and click on WBCSC. There you can also access the 2023-
+24 Postal Round problems; the British Championship is an annual event with qualifying 
+stages, including a stage in which a set of problems are sent out by e-mail/post. So, you 
+can practice your solving using the 2023-24 problems to get yourself ’match-fit’ for the 
+2024-25 qualifying stages! 
+The solutions are on page 253.
+BEAT THE BEST SOLVERS
+
+04/144
+   | BRITISH CHESS MAGAZINE
+250
+6253 The breakthrough player of 1924 was 
+that of Carlos Torre Repetto. He won the 
+Louisiana championship in 1923, scoring 
++12 =2, then moved to New York and was 
+not overawed by the challenge. 
+Torre entered for the championship of the 
+New York State Chess Association, to be held 
+at Rochester. There were nine entrants, Torre 
+scored +6=2 and tied for first place with 
+1915 champion Harold Jennings. Roy Black 
+was third a point behind. Here is Torre’s game 
+against the player placed fourth.
+ Carlos Torre - Edward Bradford Adams
+Rochester 1924
+1.e4 e5 2.¤f3 ¤c6 3.¥b5 g6 Steinitz and 
+Pillsbury both played this with success.
+4.d4 exd4 5.¤xd4 ¥g7 6.¥e3 £e7 A 
+novelty which appeared a few times later.
+7.¤c3 ¤f6 8.0-0 ¤xd4 8...¤xe4 9.¤xe4 
+£xe4 does not work 10.¥xc6 dxc6 11.¦e1 ¥g4 
+12.¥c5! ¥xd1 13.¦xe4+ ¢d7 14.¦xd1+.
+9.¥xd4 c6 10.e5! ¤h5 10...cxb5?? 11.exf6 
+is a disaster.
+11.¥c4 0-0 12.¦e1 b5 13.¥e2 ¤f4 
+14.¥f3 ¥a6 15.a4 b4 16.¤e4 ¥xe5 
+17.¤c5! ¤e2+ 18.¥xe2 ¥xd4 19.£xd4 
+¥xe2 20.¦ad1 ¦fe8 21.¦d2 £g5 22.f4 
+£f5 Black could have called it a day here.
+23.¦dxe2 ¦xe2 24.¦xe2 d6 25.¤e4 ¦e8?? 
+26.¤f6+ £xf6 27.¦xe8+ ¢g7 28.¦g8+
+1-0
+Brooklyn Daily Eagle, 28th August 1924
+Torre moved swiftly on and just a couple 
+of days later he was competing at Detroit 
+in an eighteen-player all play all. This 
+was a much tougher event, where his 
+opponents included the previous year’s 
+winners Norman Whitaker and Stasch 
+Mlotkowski, draughts champion Newell 
+Banks plus two players of Polish origin 
+who would go on to represent the USA 
+in olympiads, Sam Factor and young 
+Sammy Reshevsky.
+A couple of early withdrawals clouded 
+the picture for a while. Torre had +8=1 
+at the end of round ten, a win by default 
+followed and +3=3 thereafter. He won 
+the event by a two-and-a-half-point 
+margin. The next game was played in the 
+opening round.
+ Carlos Torre - Bertram Jenkines
+Detroit 1924
+1.e4 e5 2.¤f3 ¤c6 3.¥b5 a6 4.¥xc6 
+bxc6  This is one way to avoid the 
+stodgier positions in the Exchange 
+variation, 4...dxc6 5.¤c3 f6 6.d4 exd4 
+7.£xd4 £xd4 8.¤xd4 was Torre - 
+Whitaker five rounds later.
+5.d4 exd4 6.¤xd4 6.£xd4 £f6 7.0-0 
+£xd4 8.¤xd4 ¦b8 worked well for black 
+in Duras - Alekhine Mannheim 1914
+6...¥c5 7.0-0 ¤e7 8.¤c3 0-0 9.¥e3 
+Threatening 10.¤xc6 9...¥xd4 9...¥b6 
+seems more sensible.
+10.£xd4 d5 11.¦ad1 f5  Trying to force 
+white’s hand in the centre.
+12.¥g5! fxe4 13.£c5 ¦f7 13...¦fe8.
+THE CENTURY-OLD MASTERY OF 
+CARLOS TORRE
+By Alan Smith
+QUOTES AND QUERIES
+
+April 2024
+BRITISH CHESS MAGAZINE | 251
+14.¤xe4 ¥f5 15.¤g3 ¥e6 16.¦fe1 £d7 
+17.¥xe7 ¦xe7 18.¦e2 ¦ae8 19.¦de1 
+£d6 20.£xd6 cxd6 21.¤f5 A  simple 
+tactic carries the day.
+21...¥xf5 21...¦f7 is refuted by 22.¤xd6.
+22.¦xe7 ¦xe7 23.¦xe7 ¥xc2 24.¦d7 
+d4 25.¦xd6 d3 26.¢f1 ¥b1 28.¦xc6 
+¥xa2 29.¦xa6 ¥b1 30.¢d2 ¢e7 
+31.b4 ¢d7 32.¦a7+ ¢c6 33.¦xg7 ¢b5 
+34.¦xh7
+1-0
+Brooklyn Daily Eagle, 28th August 1924
+ 
+When he returned to New York Torre 
+contested a four-game tie match with 
+Jennings. Torre lost game one, but equalised 
+at once, demonstrating exemplary skill with 
+the two bishops in the endgame. 
+Game three was a French Defence where 
+the players castled on opposite wings. 
+Torre’s attack was the swifter, which 
+left Jennings having to win with black in 
+game four.
+ Carlos Torre - Harold Jennings 
+Match game 4 New York 1924
+1.d4 ¤f6 2.¤f3 g6 3.¤c3  Introduced in 
+the game Tartakower - Wahltuch London 
+1922. 
+3...¥g7 3...d5 4.¥f4 c6 5.e3 ¥g7 6.¥d3 
+0-0 7.0-0 ¤bd7 8.¦e1 c5 9.£d2 a6 10.¤e5 
+Torre - Yates Baden Baden 1925.
+4.e4 b6 4...d6 transposes into what we now 
+call the Pirc Defence.
+5.¥d3 ¥b7 6.¥f4 0-0 Black should stake 
+a claim to the centre with 6...c5 before he 
+commits his king.
+7.£d2 ¦e8?! 8.0-0-0 d5 9.e5 ¤fd7 
+9...¤e4 runs into trouble 10.¥xe4 dxe4 
+11.¤g5 f5 12.¤e6 £d7 13.¤xg7 ¢xg7 
+14.¥h6+ ¢g8 15.h4.
+10.¥h6 ¥h8 11.h4 c5 12.¤e5 ¦f8 
+13.¥xf8 £xf8 14.¥xf8 £xf8 15.exf7+ 
+¢g7 16.h5! 1-0 16...h6 17.hxg6 h5 is met 
+by 18.¦xh5! ¤xh5 19.¦h1 cxd4 20.¦xh5 
+dxc3 21.£h6+.
+Brooklyn Daily Eagle, 25th September 1924
+ 
+All four match games were published in the 
+same column.
+Torre finished in second place in a thematic 
+opening event at the Marshall CC. Frank 
+Marshall was first, but Torre was the only 
+player to defeat him.
+Finally, in December, he played two 
+exhibition games defeating Morris Schapiro 
+and Janowski.
+ Carlos Torre - Morris Schapiro 
+Manhattan CC 1924
+1.d4 d5 2.c4 e6 3.¤f3 ¤f6 4.¥g5 h6 
+5.¥xf6 £xf6 6.¤c3 c6 7.e3 ¤d7 Play has 
+transposed into a variation of the Queen’s 
+Gambit Slav.
+8.¥d3 £d8 9.0-0 ¥e7 10.e4 dxc4 
+11.¥xc4 0-0 12.£e2 b5 13.¥d3 £b6? 
+13...b4 was a subsequent improvement, 
+14.¤a4 £a5 15.b3 ¥b7 16.¦ac1 ¦fd8 
+¦ee - Sveshnikov Wijk aan Zee 1981.
+14.e5 ¦d8 15.£e4 ¤f8 16.¦fd1 ¥b7 
+17.£g4 c5 18.¤e4 c4 19.¤f6+! ¥xf6 
+20.exf6 g6 21.£h4 e5 22.dxe5 ¥xf3 
+23.£h6 ¤e6 24.¥xg6 fxg6 25.£xg6+ 
+¢f8 26.gxf3 £b7 27.f4 ¤d4 28.¦xd4! 
+¦xd4 29.e6 ¦d7 30.¦e1 ¦e8 31.£xe8+! 
+1-0 31...¢xe8 32.exd7+ ¢d8 33.¦e8+ 
+¢xd7 34.¦e7+.
+Brooklyn Daily Eagle, 31st December 1924
+
+| BRITISH CHESS MAGAZINE
+252
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xiiiiiiiiy
+Leonid Lyubashevsky and 
+Leonid Makaronez (Israel)
+Mate in 3
+Original
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xiiiiiiiiy
+Stanislav Hudak (Slovakia)
+Helpmate in 3 – 2 solutions
+Original
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xiiiiiiiiy
+Paul Michelet and Steven Dowd 
+(London/USA)
+Mate in 7
+Original
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xiiiiiiiiy
+Ljubomir Ugren (Slovenia)
+Helpmate in 3 – 2 solutions
+Original
+Solutions are given on page 254
+Problem 
+World
+by Christopher Jones
+cjajones1@yahoo.co.uk
+Grandmaster of Chess Composition
+
+April 2024
+BRITISH CHESS MAGAZINE | 253
+Travasoni
+1.¥h3+ (1 point) ¦g2 2.¤g4 (+1 point =2) ¥h5 3.¤f5 (+1 = 3) ¥xg4+ 4.¥xg4 ¦g3 
+5.¤xg3+ (+1 = 4) ¢g2 6.¤f1 ¢xf1 7.¥h3 (+1 = 5) mate.
+This was the easiest because White has to keep Black bottled-up and so has very little 
+choice at each move. 
+Afek
+1.¤a4 (1 point) ¦b2 2.¤xb2 d1£ 3.¤xd1 (+1 point = 2) h2 4.¤b2 h1£ 5.¤a4 (+1 
+= 3) £b1 6.¤b6+ £xb6+ 7.¢xb6 a4 8.¢a7 (+1 = 4) a3 9.¢a8 a2 10.¥a7 (+1 = 5) 
+a1£ stalemate.
+It’s obvious that White must keep threatening mate, but unless you envisage the eventual 
+stalemate you won’t know why the knight has to go to a4 and not take on c4.
+Abramenko
+1.¦c1 (1 point) ¦g1 2.¦c7+ (+1 point = 2) ¢e6 3.¤c5+ ¢f5 4.¦f7+ (+1 = 3) ¢g4 
+5.¤d3 (+1 = 4) f1£ 6.¤e5+ ¢h3 7.¦h7+ ¢g2 8.¦h2 (+1 = 5) mate.
+Quite a lot of options in this one, as you would expect in a competition for the best solvers. 
+Still, 1.¦c1 followed by 2.¦c7+ seemed to me to the most plausible. What I didn’t find 
+was the manoeuvre 5.¤d3 and 6.¤e5+ which is only plausible if it occurs to you that you 
+might be able to mate the Black king on the right-hand edge of the board.
+Zachodjakin
+1.¦h7+ (1 point) ¢e6 2.¦h1 ¤c3+ 3.¢a6 (+1 point = 2) ¤b1 4.¦e1+ (+1 = 3) 
+¢f7 5.¥d6 (+1 = 4) a1£ 6.¦e7+ ¢g6 7.¦e6+ ¢f5 8.¦e5+ ¢f6 9.¦xa5 (+1 = 5) 
+drawing because the queen will be exchanged - the White bishop will finally get to the 
+long diagonal. Black’s choices of king moves were to prevent the bishop getting to the 
+long diagonal. The White king needs to have gone to a6 to avoid there being any Black 
+queen checks in the final position.
+Once you notice that Black will play ...¤c3+ and ¤b1 when you play ¦h1, the rook 
+check on h7 feels like a good idea as it gives you the option of a check from e1 which 
+will protect the bishop. I got that far but didn’t know where to place the White king after 
+...¤c3+. I even had the idea that the solution would finish with the rook delivering a 
+perpetual check, but I couldn’t find the only correct way to achieve that. So, only 1 out of 
+5. Oh, well, I was in strong company.
+Solutions to Endgames
+(See page 248)
+
+04/144
+   | BRITISH CHESS MAGAZINE
+254
+Solutions to Problems
+A neatly keyed three-mover
+One expects that in a good three-mover 
+the key move will not be too obviously 
+strong, but it is especially commendable 
+when the second move that the key 
+move threatens is itself also a quiet 
+move. Thus in our first problem 1.¥d2! 
+threatens 2.£g5, after which Black 
+would be unable to defend against the 
+impending 3.£e3#. So Black must 
+use his first move to prepare a second-
+move defence. Such a defence would 
+be 2…¥xd3, preparing a defence by 
+3…¢xc4. Black cannot prepare this 
+by 1…¥c2 (2.Sxf3#), but why not 
+1…¥e2? The answer is the continuation 
+2.¤e4!, threatening 3.£c3#. On move 
+one this move, intercepting the h7-d3 
+line, would fail against 1…¢xd3, and if 
+2.£c3+ then 2…¢e2. But after 1.¥d2 
+¥e2 the defence 2…¢e2 is impossible. 
+In problem parlance, it turns out that 
+1…¥e2 is a remote self-block – always 
+testing for a solver to visualize, and 
+adding to the aesthetic charm of the 
+problem. A similar requirement for 
+foresight is required in the line 1…
+f2 (threatening to guard e3 by means 
+of 2…f1=¤) 2.¥c3+ and now after 
+2…¢e3 3.£e5 is mate because Black 
+has obligingly blocked f2. The other 
+lines are 1…e5 2.¥e4 when 3.¤f5# is 
+unavoidable and 1…¥xf6 2.¢xf6 and 
+when Black prevents 3.£e5 by playing 
+2…c5 there is 3.£c3#.
+Déjà vu?
+Regular readers may recognize that 
+our second problem bears a similarity 
+to a five-mover by Paul Michelet that 
+appeared in the January Problem World. 
+Steven Dowd, who had also contributed 
+an original problem to that issue, upon 
+seeing the five-mover saw a way to 
+add a couple of introductory moves 
+that would (he felt, I’d feel, and, much 
+more to the point, Paul felt) enhance the 
+problem. Now it is the case that mating 
+Black does still rely upon advancing the 
+white pawn, but trying to do so straight 
+away is unsuccessful. Instead White 
+prepares the way by playing 1.¤g5! 
+¢g7 2.¤hf7!, and now after 2…¢f6 or 
+2…¢f8 we get the previously seen and 
+very appealing sequence 3.e4 ¢g7 4.e5 
+¢f8 5.e6 ¢g7 6.e7 ¢f6 7.e8=¤#. 
+Some people may deprecate such two-
+move intros that serve only to set up 
+the main play – others (including me) 
+find that this sort of intro not only adds 
+to solving difficulty but, by hiding the 
+beautiful idea more deeply, adds also 
+to aesthetic appeal. (This can also be 
+an issue when evaluating endgame 
+studies.) What do you think – which 
+camp are you in?
+Two three-move helpmates
+In Stanislav’s helpmate, the white 
+knight is well placed to deliver mate, 
+This month’s problems
+As usual, we start with the shortest direct mate problem, but this time the three-
+mover, typically for its composers, requires you to find a neat key move, against 
+which there are a number of defences, each refuted by a specific white second move, 
+and so may well not be the easiest to solve (you may prefer just to enjoy reading 
+through the solution); while our second problem, a first collaboration by another 
+two of our valued regular contributors, may be more tractable, especially if you 
+remember another recent offering by Paul Michelet in this column. Finally we have 
+two helpmates – in each we are looking for two collaborative bwbwbw sequences of 
+moves ending in Black being mated.
+
+April 2024
+BRITISH CHESS MAGAZINE | 255
+but we must somehow deal with the 
+black king’s potential flight squares. 
+A pleasing element of contrast is seen 
+in that although in one solution we 
+activate the white rook to guard flight 
+squares – 1.a4 (remember that, as per 
+helpmate convention, this is in fact 
+Black‘s first move) ¢e2 2.¢a5 ¦b1 
+3.¦a6 ¤b7# - in the other solution 
+the white rook must be sacrificed so 
+that Black can block a flight square 
+– 1.e2 ¦f1 2.exf1=¥ ¤b7 3.¥b5 
+¤c5#. A nice blend of similarities and 
+dissimilarities, albeit in a perfect world 
+one might perhaps want not to have to 
+play …¤b7 in both solutions.
+In Ljubomir’s helpmate, we find that 
+pawn promotion (a feature, one way or 
+another, in all our problems this month) 
+comes centre stage in two well matched 
+solutions – 1.¦e7+ fxe7 2.¥d8 exd8=¥ 
+3.c4 ¥b6# and 1.£g7 fxg7 2.¦h8+ 
+gxh8=¦ 3.e3 ¦h4#. When I say that 
+promotions are a feature I could be more 
+specific and say under-promotions - in 
+contrast to games of chess this is the norm 
+in chess composition. Note too that in 
+this problem White promotes to the same 
+type of piece that Black sacrifices on 
+move two (Phoenix theme). And in both 
+Stanislav’s and Ljubomir’s problems we 
+have two nice model mates.
+ACMchess.com
+(See page 252)
+
+We have some great news to share!
+BCM goes interactive! 
+We are delighted to announce an exciting new partnership with one of the world’s most innovative 
+publishers of Chess eBooks, Forward Chess. Using state of the art technology, Forward Chess 
+now enables BCM readers to witness the magic of the chess board 
+unfold onscreen literally before their eyes. 
+Check it out and contact Forward Chess at forwardchess.com and experience the magic of movement!
+Purchase or renew your subscription and have BCM delivered to your door:
+On-line: visit our website www.britishchessmagazine.co.uk
+Email: contact support@britishchessmagazine.co.uk, we’ll get back to you right away
+By post: write to BCM at Albany House, 14 Shute End, Wokingham, Berkshire, England RG40 1BJ 
+with a cheque payable to British Chess Magazine Limited, your post and 
+email addresses (and if possible a contact phone number)
+It´s 
+now 
+even easier 
+to subscribe to 
+British Chess Magazine 
+An exclusive chess magazine!
+Thank you for your continuing support!
+BRITISH CHESS MAGAZINE, the World’s Oldest Chess Journal
+£55 UK
+printed magazine
+$11499 Non-UK
+12 issues per year postage included

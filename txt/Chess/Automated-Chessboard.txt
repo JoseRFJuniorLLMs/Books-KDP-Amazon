@@ -1,0 +1,657 @@
+instructables
+Automated Chessboard
+by Greg06
+Welcome,
+I like playing chess game and up to now I played a lot on the Internet or with dierent Apps. But I was frustrated to pass
+all this time behind a screen.
+I started to look into the electronic chess games, but I rapidly realize that the best choice was to do it by myself. I took
+time to learn about AI, game engine, chess pieces detection to nally design my own chess game.
+So, this Instructable describes an automated chessboard with two game modes. The rst one, Human vs Human, with a
+control of the chess pieces displacements. The second one, Human vs Computer, with an automatic chess pieces
+movement for the computer player. The computer player chess pieces have a phantom displacement thanks to a hidden
+moving mechanism.
+The automated chess board is composed of an XY table with an electromagnet on the moving trolley. The chessboard is
+placed above the XY table and the chess pieces are equipped with magnets. When the electromagnet is below the chess
+piece a magnetic contact can be generated through the chessboard, so that the chess piece follows the trolley when it
+moves.
+LCD screen and arcade buttons are added to interact with the players (select the game modes, timer control, inform
+about the events…)
+Overall dimensions : 460mm x 460mm x 100mm
+Chess pieces size : Staunton 3
+Programming Language : Arduino C/C++
+Powering : 12V / 2A
+https://youtu.be/pr_EUNSYxKE
+Automated Chessboard: Page 1
+
+Automated Chessboard: Page 2
+
+Automated Chessboard: Page 3
+
+Automated Chessboard: Page 4
+
+Step 1: Parts List
+XY table :
+2 x V slot 20x20 linear rail, Length = 345 mm
+1 x V slot 20x20 linear rail, Length = 315 mm
+1 x V slot 20x20 linear rail, Length = 350 mm
+1 x V slot 20x20 linear rail, Length = 395 mm
+10 x 90 degree Corner Bracket
+Transmission :
+2 x GT2 Pulley, 20 teeth, 5mm bore
+8 x GT2 Toothless pulley
+3.5m x GT2 Belt
+Electronics :
+1 x Arduino Nano
+2 x Stepper Motor - Adafruit - Nema 17 size - 200 steps/rev, 12V 350mA
+2 x Stepper Motor Driver Carrier - Pololu - A4988
+1 x LCD Module - I2C Serial - 2.6“
+2 x Arcade button - Bore hole 23.5 mm
+1 x Electromagnet - 5Kg Holding Force
+1 x Freewheeling diode - 1N4001
+Automated Chessboard: Page 5
+
+1 x Power Transistor - TIP 120
+2 x Micro Limit switch roller
+64 x Reed Switch - Dia 2 x 14.5 mm
+1 x Resistor - 1K ohm
+4 x MUX breakout - SparkFun - CD74HC4067
+1 x Terminal Block - DC Jack
+Female Headers
+10 x Screw Terminal
+3 x Prototyping Board - 50 x 100 mm
+4 x HE10 Connectors
+8 x Ribbon Cable - 8
+Chess :
+1 x Chess pieces set - Staunton 3
+1 x Chessboard Sticker - Squares size : 37 x 37 mm
+32 x Magnet, Dia 8 x 3 mm
+Box :
+1 x Foamboard - 462 x 462 x 5 mm
+1 x Foamboard - 462 x 462 x 10 mm
+2 x Foamboard - 462 x 80 x 10 mm
+2 x Foamboard - 442 x 80 x 10 mm
+Bolting :
+8 x Mini V Wheel
+4 x Aluminium Spacer - ID : 5mm - Height : 6mm
+4 x Eccentric Spacer - M5
+4 x Hex. Locking Nut - M5
+4 x Thin Hex. Nut - M5
+8 x Mini Precision Shim - OD : 8 mm - ID : 5 mm - Thickness : 1 mm
+26 x T-Nuts - M5
+14 x Hex. Socket Button Head Cap Screw - M5 x 8 mm
+12 x Hex. Socket Button Head Cap Screw - M5 x 12 mm
+2 x Hex. Socket Button Head Cap Screw - M5 x 35 mm
+2 x Hex. Socket Button Head Cap Screw - M5 x 30 mm
+2 x Hex. Socket Button Head Cap Screw - M5 x 25 mm
+8 x Hex. Socket Button Head Cap Screw - M5 x 15 mm
+4 x Slotted Head Screw - M2 x 15 mm
+4 x Nut - M2
+8 x Hex. Socket Head Cap Screw - M3 x 10 mm
+1 x Hex. Socket Head Cap Screw - M4 x 15 mm
+4 x Slotted Countersunk Head Screw - M5 x 20 mm
+4 x Nut - M5
+3D Model :
+Automated Chessboard: Page 6
+
+All the structural parts were designed for 3D printing.
+Download the les from Thingiverse
+Automated Chessboard: Page 7
+
+Automated Chessboard: Page 8
+
+Automated Chessboard: Page 9
+
+Step 2: XY Table
+Presentation :
+The XY table performs the displacements of the electromagnetic trolley (described on the next step). The XY table is
+composed of two motorized linear slides, one for the X axis motion and one for the Y axis motion.
+Automated Chessboard: Page 10
+
+Description :
+The main functionalities of the linear slides (guiding and moving) are inspired by the 3D printer universe.
+Guiding :
+The guiding of the linear slides is based on the V-slot concept. The V-slot design uses standard aluminum prole with a V
+machining at the central grooves, to allow the centering of a specic wheels. The beam is acting like a linear rail when the
+wheel is seated into the V groove.
+The main advantage of these beams is to combine two functionalities, provide rigid supports for the frame structure and
+linear rails for the guiding of the wheels.
+For the X displacement, the guiding is performed by means of 4 wheels, two at each extremity of the lateral beams.
+For the Y displacement, the guiding is performed by means of 4 wheels as well, two on each side of the trolley beam.
+Automated Chessboard: Page 11
+
+For a proper functioning of the sliding, the contact force or gap between the wheels and the beams is essential. If the
+gap is too tight, the sliding will be diJcult and if it is too slack, the guiding will be not accurate.
+It is impossible to obtain the good contact force only from construction, so a set up system shall be implemented.
+Eccentric spacers are used to set the good gap adjustment between the wheels and the beams. Turning the eccentric
+spacers increases or decreases the gap and will give the best compromise between the guiding and the sliding.
+Exploded view of wheels arrangement:
+Moving :
+The trolley motorization is based on the Core XY concept. Two motors with two belts are used to move the trolley
+following the X and Y axes.
+The main advantage of the Core XY concept compared to cartesian kinematics is to avoid having a motor on board the
+trolley beam. Thus, the horizontal beam is more compact and allow to have a bigger working envelope.
+Automated Chessboard: Page 12
+
+The Core XY requires more attention, the belts arrangement is more complex and there are more pulleys to align. But the
+automated chessboard does not need the same accuracy than a 3D printer.
+How it works :
+If only one motor turns a diagonal displacement will be generated. Changing the motor rotation direction will give an
+inverted displacement.
+If two motors turn in the same direction a horizontal displacement will be generated.
+If two motors turn in opposite directions a vertical displacement will be generated.
+CW : Clockwise / ACW : Anti Clockwise
+At the start-up, the X & Y coordinates of the trolley will be unknown, so at each commencement, the system needs to set
+the 0 for the X and Y axes. The setting consists in moving the trolley following the X and Y axes up to limit switches. The
+limit switches are xed to the frame so that at each new start the 0 will be at the same location.
+https://youtu.be/BgguuRcPPps
+https://youtu.be/XdwE9bxk4nM
+Automated Chessboard: Page 13
+
+https://youtu.be/oL0wla8_nPY
+Automated Chessboard: Page 14
+
+Automated Chessboard: Page 15
+
+Automated Chessboard: Page 16
+
+Step 3: Electromagnetic Trolley
+Presentation :
+The trolley is assembled on the XY table. It is equipped with an electromagnet. The electromagnet can generate a
+magnetic eld which creates the link between the trolley and the chess pieces. So, when the trolley moves the chess
+pieces follow it.
+Description :
+An electromagnet is a type of magnet which produces a magnetic eld from an electric current. The main advantage of
+an electromagnet compared to a permanent magnet is that the magnetic eld is on demand. The electromagnet creates
+a magnetic eld only if an electric current run through it, if the electric current is turned o the magnetic eld stops.
+The Arduino cannot directly power the electromagnet with its output pins because they cannot deliver enough power.
+So, the electromagnet must be connected to an independent electric current. A power transistor component piloted by
+the Arduino is used as a switch to power the electromagnet when needed. The advantage of the power transistor is that
+a low amperage is enough to control it, so it can be piloted by the Arduino.
+Power transistor :
+Automated Chessboard: Page 17
+
+The power transistor is used like a switch. If it receives a low power to the pin B (Base), it allows the current to Mow
+through the pin C (Collector) to the pin E (Emitter).
+https://youtu.be/BWxKoAFrFTk
+Automated Chessboard: Page 18
+
+Step 4: Chessboard
+Presentation :
+The role of the chessboard is of course to represent the 64 black and white squares but not only. It also needs to localize
+the chess pieces position and interact with the human player.
+Description :
+Chessboard :
+Standard chessboards are made of high density wooden material and a high thickness, which can heavily disturb the
+electromagnetic eld.
+Foamboard material was preferred. It is easier to model, has a good Matness and does not disturb the magnetic eld so
+much. A foamboard sheet of 5mm thickness was used.
+A chessboard sticker was applied on it to materialize the chess squares. You could nd on the internet some chessboard
+stickers on demand with your own dimensions.
+Localization of chess pieces :
+Automated Chessboard: Page 19
+
+The chess pieces localization is essential. The objective is to inform the software of the displacement of the human player
+chess pieces.
+Magnetic sensors are placed below each chess piece square. So, when the magnet of the chess piece is above the sensor,
+the sensor will be activated. By comparing the activated sensors before and after the move, the chess piece
+displacement can be determined.
+The magnetic sensor or Reed switch is composed of a hermetic glass envelope with two Mexible metal contacts inside.
+The contact is normally open when there is no magnetic eld and close if a magnetic eld is present.
+The 64 chess squares must be equipped with the sensors to be sure to properly monitor and avoid missing any
+displacements.
+That means 64 sensors, which is impossible to connect all of them directly to the Arduino Nano, there are simply not
+enough pins on the boards. Multiplexers are used to increase the Arduino pins. The multiplexers are described in step 7.
+Game interface :
+Arcade buttons and LCD screen are placed on the chessboard to interact with the players. They allow to set the game
+modes and specify if the moves are not authorized.
+They allow to manage the countdowns time too, 10min are allocated for each player. Each player must press his button at
+the end of his turn. So, his countdown is stopped and the countdown of the opponent is started.
+Automated Chessboard: Page 20
+
+Automated Chessboard: Page 21
+
+https://youtu.be/FEcARIQu50U
+Automated Chessboard: Page 22
+
+Automated Chessboard: Page 23
+
+Step 5: Box
+Presentation :
+The box allows to hide the mechanism, give a good esthetic and x the distance between the electromagnet and the
+chessboard.
+Description :
+Nothing complicated, just some foamboard sheets of 10 mm thick are assembled to form a box.
+Foamboard was preferred for its ease of being constructible.
+The height of the box walls is important, it xes the distance between the electromagnet and the chess pieces magnet.
+Depending on your setup and material selection you need to investigate the good distance to allow a good magnetic
+eld interaction and allow the chess pieces to move.
+A hole on one wall is added to plug the power supply connector.
+Automated Chessboard: Page 24
+
+Step 6: AI - Artiﬁcial Intelligence
+Presentation:
+In human Vs human mode, the software will check that the moves are authorized and for the human vs computer mode,
+the software needs to decide what will be the next best moves. An AI (Articial Intelligence) algorithm is used to make
+the decisions.
+Description:
+The AI proposed by this Instructable is based on an existing one. There are several eJcient AI chess programs available
+on the internet.
+For this project, the Micro Max chess program from H.G. Muller and ported for Arduino by Diego Cueva was preferred. It
+is a very smart, eJcient and it is particularly small (<2kB).
+The other main advantage is this program being an open source, so we can freely play with it, special THANKS to H.G.
+Muller & Diego Cueva.
+The principle of this program is based on Minimax (or MinMax) and Alpha-Beta algorithms.
+Automated Chessboard: Page 25
+
+Minimax:
+The Minimax algorithm works exactly like a human brain. When it is its turn to play, the AI will analyze all its next possible
+moves. Evaluate all the possible answers from the Human player and what will be his answers etc., etc.
+This analysis can be represented by a decision tree graphic:
+This graphic does not represent a real chess game, there are so many boxes to show, it is a simplied version.
+At the top (A), the current chess piece position to analyze and the aim is to dene what is the best move to play (B1 or
+B2).
+Each blue box (B, D) represents all the possible moves for the AI and each green box (C, E) all the possible moves for the
+human.
+How it works :
+The bottom boxes (E) are rated by an evaluation function which will attribute a value to them. The rating is calculated
+depending on the following criteria :
+Remaining chess pieces values
+Chess pieces positioning
+Isolated pawn
+Check or checkmate position
+The objective of the evaluation function is to rate the current chess pieces position in the aim to know if the position is
+advantageous or not. Higher the rating is, better the AI has a chance to win.
+Automated Chessboard: Page 26
+
+After the evaluation of all the bottom boxes, their ratings go up the tree structure.
+For the computer player turn, the AI will retain the max value, which Maximize its chance to win. And for the human
+player turn, the AI will consider that the human will play his best move so it will retain the min value, which Minimize the
+AI chance to win. Hence the name of Minimax.
+The rating of the E3 boxe is go up to the box A, so the best move to play for the AI is B1.
+For a few moves to evaluate and a low game depth (like tic-tac-toe game), this algorithm is pertinent. But for a chess
+game with a lot of moves to evaluate and with a higher game depth, the required processor resources to evaluate all the
+possibilities are not possible with an Arduino board.
+We need to prune the branches and it is the role of the Alpha-Beta algorithm.
+Alpha-Beta:
+It is not necessary to evaluate all the branches of the decision tree. If the rating of one box is not pertinent, there is no
+reason to continue to evaluate the rest of that branch. It is exactly the role of the alpha-beta algorithm, it is to prune the
+decision tree.
+For example, let us focus on the interest to evaluate the position E5 of the above decision tree graphic.
+Automated Chessboard: Page 27
+
+The brother of the position E5 is the position E4, they are in the same branch. Their parent D2 will select the Min, so if the
+position E5 is evaluated above 2, it will not be retained and if it is below 2, it will be retained. So, whatever the value of
+the position E5, we can be sure that the rating of D2 cannot be above 2.
+In addition, the grandparent C1 of the positions E4 and E5 is also the grandparent of the positions E1, E2, E3, and it will
+choose the Max of his two children D1 and D2.
+So, to change the value of the grandparent C1, the second brother D2 must be superior to the rst brother D1. And it
+cannot be the case because D2 cannot be above 2.
+So, it is not necessary to continue to evaluate this branch.
+All the gray boxes are not necessary to be explored.
+The Alpha-Beta algorithm compares all the branches in the aim to prune the decision tree and reduce the calculation
+time.
+Automated Chessboard: Page 28
+
+Step 7: Wiring
+Motor:
+The stepper motors used are bipolar, which means that they need a double H bridge circuit to power alternatively their
+coils. The A4988 Stepper Motor driver board was selected to control the motors.
+Switch:
+The arcade buttons and limit switches are connected to the Arduino with the internal pull up resistors. The arcade button
+A and the X limit switch are connected to the same pin, same for the arcade button B and the Y limit switch. The pin
+number available is limited so two pins are used for 4 switches. The arcade buttons and the limited switches are not used
+at the same time, so there is no risk of confusion.
+Electromagnet:
+Power transistor is used as a switch to pilot the electromagnet and free-wheeling diode is used to protect the Arduino
+from the discharging current, see step 3.
+Screen:
+The LCD screen is connected via the I2C (Inter Integrated Circuit) communication, in the aim to limit the pin number
+used, only two pins are necessary to communicate with the screen (SCL and SDA).
+It means for the Arduino nano board, the SCL line shall be connected to the A5 pin and SDA line to the A4 pin.
+Reed Switch:
+There are 64 reed switches, it is impossible to connect them directly to the Arduino board, there are not enough pins
+available. Multiplexers are used to increase the pin number. Only 9 pins are necessary to connect the 64 reed switches.
+One multiplexer can control 16 sensors, so 4 multiplexers were used for the 64 sensors.
+The reed switches are connected to the multiplexers by means of channel pins (C0 to C15). Each channel pin has a
+specic 4-bit binary address. For example:
+- C0 = 0000
+- C1 = 0001
+- C4 = 0100
+- C10 = 1010
+The four select pins (S0 to S3) allow to activate the channel. Meaning that, if S0=0, S1=1, S2=1 and S3=1 the channel C7
+will be activated. In case you do not realize why 0111 corresponds to 7, it is may be time to review how to count in binary
+;).
+Once the channel is selected, its signal of the reed sensor can be recovered by means of the pin SIG.
+So, to know the status of all the sensors, the rst multiplexer is activated, all the channels are explored and the
+multiplexer is switched o. The second multiplexer is activated, all the channels are explored, and so on for the other
+multiplexers.
+Automated Chessboard: Page 29
+
+Step 8: Code
+Presentation:
+The code drives all the actions of the Automated Chessboard. Interact with players, detect the human player moves,
+compute the AI moves and control the XY table motors.
+Description:
+General :
+This instructable is based on the Arduino environment and the C language, if you are not familiar with them, you need to
+take time to train you. They are a lot of eJcient Instrutables and tutorials on Internet to help you.
+To use the code, you need to install these two libraries:
+- Wire.h
+- LiquidCrystal_I2C.h
+For a better readability, the global variables and the AI were placed on separate les.
+- Global.h
+- Micro_Max.h
+- Micro_Max.cpp
+AI:
+Automated Chessboard: Page 30
+
+The proposed AI is based on the Minimax concept, see step 6.
+The AI code is extremely optimized, all the variables have one character name, so for the variables meaning click on this
+link.
+Human player moves detection:
+The IA needs to know the human players displacement to perform its calculation. For that it needs to know the
+departure coordinates and the arrival coordinates of the move.
+The coordinates are dened by a letter for the column and a number for the line.
+For example, displacement of the central white pawn: e2e4
+Chess game representation of the serial monitor
+(Capital letter for white player and lowercase letter for black player)
+To determine the displacement of the human player, the code compares the status of the reed switches before and after
+the move. For the above example (e2e4), the reed switch mappings will display:
+The reed switches are connected by means of the internal pull up of Arduino, it means that for the chess piece presence
+the sensor indicates 0 and 1 if there is no chess piece.
+So, if a 0 becomes 1 it means departure of the move and if 1 becomes 0 it means arrival.
+XY Table:
+The departure square and the arrival square of the move are dened. For the above example (e2e4), the horizontal
+displacement will be 0 because the departure and the arrival are in the same column (e). And the vertical displacement
+will be of 2 squares because there are 2 squares of dierence between the departure (2) and the arrival (4). So, the
+direction and the distance are known, the motors can be activated.
+Special moves:
+Some chess pieces movements need to cross other chess pieces, like a bishop and castling displacements. To avoid any
+contact between the chess pieces, the displacement path imposes to move between two squares and not to the middle.
+Automated Chessboard: Page 31
+
+Same for the capturing. A captured piece is pushed out of the chessboard, this displacement follows the intersection of
+two squares and do not pass through the middle of the squares.
+https://www.instructables.com/ORIG/FMX/FOB8/L4R1DNUM/FMXFOB8L4R1DNUM.ino
+Download
+https://www.instructables.com/ORIG/F66/KOPZ/L4R1DNUJ/F66KOPZL4R1DNUJ.h
+Download
+https://www.instructables.com/ORIG/F4S/KQ4F/L4R1DNUK/F4SKQ4FL4R1DNUK.cpp
+Download
+https://www.instructables.com/ORIG/FQ1/6SMN/L4R1DNUL/FQ16SMNL4R1DNUL.h
+Download
+Automated Chessboard: Page 32
+
+Step 9: Assembling
+XY Table & Trolley :
+1. Assemble the trolley
+2. Slide the trolley to the trolley beam. Adjusted the friction gaps with the eccentric spacers in the aim to
+obtain an easy sliding. Assemble and add the two pulley supports at each extremity of the trolley beam
+3. Assemble the main frame. Ensure to have a good parallelism between the beams.
+4. Assemble the pulley supports
+5. Slide the trolley beam to the main frame and set the friction gaps. Add the pulley supports
+6. Add the stepper motors
+7. Add the belts. Adjust the bels length to have a good driving by the motors, again it is a compromise
+between too much tension and too much slack.
+Chess Board :
+1. To the top face, place the sticker and cut the holes for the arcade buttons and the lcd screen
+2. To the bottom face, draw the chessboard corresponding to the top face in the aim to have the
+chessboard squares to the bottom face at the same location that the top chessboard squares
+Automated Chessboard: Page 33
+
+3. Assemble the 8 sets of the 8 reed switches by means of ribbon cable. The distance between the reed
+sensors shall be corresponding to the chessboard square size.
+4. Glue the reed switches sets, add the arcade buttons and the lcd screen
+5. Finalize the wiring
+Chess pieces :
+1. Removed the bottom felt
+2. Glue the magnet and its support inside the chess pieces
+Box :
+1. Cut the walls following the dimensions given to the step 2, take care to have a good parallelism of the
+sides of the walls
+2. Assemble the walls with glue
+Automated Chessboard: Page 34
+
+Electronic :
+1. Assemble the prototyping boards
+2. Place the headers and the connectors
+3. Glue the prototyping boards to their supports. Solder the headers, connectors and the wires following
+the wiring schema, see step 8
+4. Place the boards to their supports
+Automated Chessboard: Page 35
+
+Automated Chessboard: Page 36
+
+Automated Chessboard: Page 37
+
+Automated Chessboard: Page 38
+
+Automated Chessboard: Page 39
+
+Step 10: Conclusion
+Playing chess online brings a lot of advantages, you could play anytime, with a lot of dierent players (human or AI),
+record the game and take time to analyze it. But playing real chess brings another vision of the game, a dierent
+experience. Be not behind a screen, touch the chess pieces, have 3d vision allow to think dierently.
+This Instructable proposes to combine the advantages of these two worlds, take the benets of the digital model and the
+advantages of playing real chess with an additional funny touch for the phantom displacements.
+Moreover, the AI proposed for this Instructable is powerful but limited due to the Arduino board performances. But it is
+possible to add a more powerful computation system with a Raspberry board or with a PC.
+Other useful feature, you could create your own AI or improve the existing one by adding some functionalities. For
+example, I like the Scotch opening, so I have added several releases of this opening into the AI (the 6 rst moves are
+randomly selected among various Scotch openings and the AI takes the relay for the rest of the game) in the aim to
+practice and improve my understanding.
+I truly hope this Instructable will inspire you & give you the desire to be creative.
+Do not hesitate to contact me if you have any questions.
+Automated Chessboard: Page 40
+
+ENJOY!
+Automated Chessboard: Page 41
+
+the motors are not working what should i do
+Hello. 
+Many probable situations. The ﬁrst...
+1. Do you probe the motor and the driver, to work alone, with Arduino? like this attached. (Or
+search in youtube similar one to test it alone)
+Hello, I just add images of my advance...I change the wiring for PCB.
+Hey, I really want to make this, but I'm having a really hard time ﬁnding the right parts. Do you
+have a speciﬁc website you ordered your parts from? Many of the parts you listed have several
+diﬀerent types of that part. Thanks!
+$100, including everything, I have it ready for you, but not including shipping, UPS air.
+Can you send me the list?
+I like open source DIY very much, and I have learned a lot. You can privately message me your
+(delivery information) (name, phone address, zip code), and I can send you all the items in the
+BOM list for free, UPS freight collect.
+I ordered most of them from Amazon, just watch out when you order the angle brackets, mos of
+them are too large. I ﬁnally found 20 mm angles, but I had to grind one of the sides ﬂat, they have
+protrusions that are designed to ﬁt in the slot of the extruded 20x20 mm rail.
+The electromagnet can be ordered from Adafruit, it's a 5 VDC unit, so you need to power it from
+the 5 volt out connection on the Arduino. Not wanting to risk the Arduino with a voltage spike
+coming from the inductive load (if the ﬂywheel diode failed, for example) I used an LM7805
+regulator that is powered from the 12 volt input and delivers 5 volts for the electromagnet.
+Hello.
+I made a lot of mistakes in purchases. I have been spendindg the last 6 weeks on purchasings.
+Of course I bought bad angle brackets, ﬁnaly i found the 20mm (Becouse you have diferent
+models for the V bosch 2020)
+Anotherone, the wheels...they are Mini wheels (15mm exterior)
+Anotherone, the microswitch ...then i made zoom on one picture of the original proyect and see
+the brand: Below the link:
+https://www.amazon.de/-/en/Micro-Switch-ECE-ESS-05...
+Mistakes on the Electromagnet it's 12V and no 5V (Greg answer that in other question) But...in
+Argentine, the name of that is "Ventosa", For reference, see the page: The problem: The heigh
+dimension is 15mm and not 20mm and the hole for the bolting, it´s diferent.
+https://www.tecnicagama.com.ar/contenido.asp?id=62...
+I recomend to see the sizes in the *.step model to see dimensions of each thing before buying it.
+Regards.
+Automated Chessboard: Page 42
+
+The best way to succeed in your project is to appropriate the functionalities. If you have diﬀerent
+limit switches, no worry, understand how they work and redesign the support to match with the
+new dimensions
+Much needs to be changed in the design to use the TMC2208 instead of the A4988?
+Absolutely fantastic project! Congrats!
+This is so cool! I plan to share with my autonomous systems class, super clever and great
+supporting graphics with your descriptions. Thank you for sharing!
+Thanks
+Hello, I am making a robotic chessboard but with a diﬀerent design but can you post the link for
+the magnets you used? I see the size but can I see the exact ones. I have done a ton of testing
+with diﬀerent kinds and can't ﬁnd ones that work well with each other(Don't push each other when
+moving around each other). Thank you so much and great project! I wish I had though to core XY
+instead of what I am doing now!
+Yes , there is a risk of attraction between the magnets of the chess pieces if they are close. I
+increased the dimensions of the chess game squares in the aim to avoid this phenomenon.
+I used these magnets : https://www.velleman.eu/products/view/?id=404966
+I like it, however I thought how cool would it be to have a RGB LCD screen under a thin clear
+surface to pay chess on... The electromagnet would no aﬀect the LCD, the use of reed switches
+could still be applied, or discarded by reading symbols oﬀ the bottom of the pieces using a CCD
+camera as they do with some touch screens. Then the computer can SEE what pieces are there.
+Using a CCD camera would eliminate the reed switches, but then a game could be resumed later.
+The electromagnet could still move pieces around the board/screen and since LCD screens are
+wider than they are large, a portion of the screen could be used to display data, and the Chess
+Board portion of the screen could be customized using various color and designed chess boards.
+You could also teach it how to play chess, chess pieces only need two symbols to denote black
+and white. The diﬀerence between Black and White chess pieces or Red and Black checkers
+would be two concentric rings on the base for black pieces one ring for white or red. Pawns have
+no symbol inside the ring(s), King have a criss-cross or X. Queens use a inner ring since Q are
+just rings, only we don't need a tail. Rooks use an uppercase R. Bishops use a lowercase b,
+since it less resembles an R. Knights use a minus or slash that connects to the middle ring if
+there is one. Checkers would have no symbol on one side, on the opposite side they too would
+have a criss-cross or X like the kings in chess. The rings and symbols would be raised so that
+they touch the screens surface. A CCD camera could sit close to the back of the screen so it can
+see only one piece at a time reducing the depth needed to use it, and ride on the same
+mechanism as the electromagnet. They camera scans the board by being moved around it move
+over one square for the electromagnet can take it's place to move the piece.
+I am sure I won't be up to this as I have little money or resources, and my programming skills are
+from 8-bit computers like the CoCo1,2,3, Commodore, et cetera. Today I do some HTML, PHP
+and Javascript and the like but have not programmed in python, C++, or even BASIC for more
+modern computers. Sound like fun though.
+Wow, these comments are very interesting, THANKS.
+And I agree, these implementations represent a certain money investment and an important
+technical knowledge.
+Thanks for sharing
+This should win the grand prize!! I'll be adapting this one soon!
+Automated Chessboard: Page 43
+
+Grand Prize? We can vote this project in some place? Give me the link for vote, please.
+Nah, it's judges only now. More fair. 
+Thanks
+Hi Greg, my son and I love the project. No other option for me, just to make it :).
+I have studied the description and have following question:
+Adafruit is selling 5V electromagnets, but your schematic shows it is connected to 12V supply. Is
+my understanding correct or am I reading something wrong?
+I hope during the build I can come back in case of more questions.
+Greetings
+Oops you right ! I ordered the electromagnet from a french website and I gave an international
+link for the partlist of the Instructable. I was not vigilant enough, the electromagnet proposed by
+Adfaruit is for 5V and I used an electromagnet for 12V.
+If you have the 5V one, you need just modify the wiring and if it is not ordered you could take the
+12V one to follow the proposed wiring.
+Thanks
+Thanks for sharing! It is such a good project! How much did it cost aprox? Thanks from Spain!
+Hi, thanks for your comment.
+it is diﬃcult to reply, I already had some components, I ordered the missing ones to French
+compagnies and I commanded the "oﬃcial"boards.
+But it is around 250€
+This is like the coolest DIY project I have ever seen. People were talking about commercializing
+this. I strongly agree. With the right approach, you could make millions. Like check out this
+automatic chessboard that doesn't even move its own pieces: Nice work, Greg
+this is the coolest instructable ever! I agree about how you should commercialize this.
+I do not have the ambition and the time to commercialize this project. Thanks for your
+encouragement.
+your welcome
+Hello Greg!
+Congrats for this amazing work! I got interested to reproduce it here. 
+In your opinion, do you believe that is possible to include places outside the board where we can
+position the pieces to be automatically moved to their correct position before the game starts?
+When you capture the piece the system can automatically move to these proper position, this
+way the system can help the player and maybe play alone :)
+Thanks for this amazing instructable!
+Thanks a lot for your message.
+Yes it is possible to implement your suggestion. but not with the current design, the displacement
+of the XY table corresponds to the chessboard dimensions only. you need to increase the XY
+table dimensions.
+Good suggestion thanks
+Automated Chessboard: Page 44
+
+Absolutely great!
+I was thinking to do the same project but in addition to connect it to chess.com via an API.
+Was just an idea; nothing started now.
+Could you enhance your project to do it?
+The project inside the project was to train me to code the Minimax algorithm. So I did not try to
+implement the chess.com API.
+I agree with you it will be a great improvement but I'm not sure that chess.com shares their API
+without commercial agreement, to be discussed with them.
+Nice project! This will easily win the Grand Prize. 
+Just one question, how do the knights move? do you make them go diagonal to the target square
+in order to avoid hitting a piece?
+Never mind, I saw the answer in a question below.
+Wow. This is an extremely detailed instructable and I leaned a lot from it. It seems you have
+solved the problem for all permutations and combinations, but there are a few edge cases I'm
+thinking how you handled:
+1. How do you handle a rogue human player? For example someone who does not follow the
+rules, either on purpose or mistakenly(elbow hit). Like moving two pieces at once or moving the
+opponent's piece?
+2. When taking a piece, the player picks up the opponent's piece and places his own on that
+square. What if the pieces are close enough at all times so the reed switch is not turned oﬀ to
+register it as a completed action?
+A small correction: TIP120 is not a MOSFET, it is a power transistor. But since you won't be
+powering the electromagnet continuously for long periods of time, it is good enough for your use
+case.
+Thanks for your comment. 
+There are several possibilities to trick the machine. The main reason is the chessboard detects
+only the presence of the chess pieces but not value (Queen, Pawn ect. ).
+So if the chess pieces are not placed to the correct squares at the beginning or if a rogue human
+player inverted some chess pieces during the party the chess board will not detect these
+cheatings.
+Thanks a lot for your correction, I will implement it.
+What if you program each piece on the board with location of piece that will eliminate cheaters. It
+will keep track of gameplay and mabie in future models show a playback or have good games
+recorded so users can improve on performance.
+Absolutely amazing project! I would like to build one myself, only I want to design it with some
+bigger homemade chess pieces, and therefor, a bigger ﬁeld. However, I could not ﬁnd the "board
+dimension" settings in your code. Does the program calculate this by itself after calibration?
+Furthermore, did you use a particular scale between the footprint of the pieces and the
+dimensions of the individual spaces?
+Thank you very much in advance!
+Thanks
+After the calibration, the trolley is placed to square e7. The displacement of the trolley from the
+limit switches to the square e7 is deﬁned by the variables :
+const ﬂoat TROLLEY_START_POSITION_X
+const ﬂoat TROLLEY_START_POSITION_Y
+The dimensions of the chessboard squares is deﬁned by the variable : const byte SQUARE_Size
+Thank you for your quick answer! Don't see how I could have missed these lines... It might be a
+good idea for me not to poke around on Instructables during work hours ;). On e thing though still
+isen't clear to me: how did you get these values? I tried to ﬁgure them out based on your square
+Automated Chessboard: Page 45
+
+size of 37x37 but I did not succeed in doing so.
+You could click on this link to ﬁnd the theory of the Core XY and the associated equations.
+https://corexy.com/theory.html
+For my project, to ﬁnd the good motor rotation time to correspond to the distance to place the
+trolley to the starting point and the distance to match with the 37x37 squares, I just did some
+tests and retained the best values.
+Would combining this with a Raspberry Pi require major modiﬁcations?
+Not for the hardware. but for the software, Arduino used a C language and Raspberry used
+Python, so probably you need write a new code. I am not familiar with the Raspberry board.
+However there are many projects that use connected Arduino and Raspberry boards. It can be a
+good starting point to understand how they do and what are the possible.
+I appreciate the detail that went into creating this! It's amazing!
+Say I wanted to build two of these chess boards, one with me and the other in another location
+with my opponent. What do you think it would take for the two boards to communicate with each
+other? Acknowledging each move made. So that I could make a move on my board and I
+suppose through an internet connection, make the move on my opponent's board.
+For long chess games lol
+Hi thanks for your message.
+Yes you could use some Ethernet shields to communicate at distance.
+Wow! This is amazing! What happens for example with a knight, when it has to jump over a piece,
+does it just go around?
+Correct !
+Really. reallyyyy, well done! Congratulations! One of the best Instructables I have seen!. Well
+thought through, well executed, great instructions! As @TiboC1 said, you should really try to
+commercialize this. May I make a suggestion? If you can extend this design to be played through
+smartphones remotely, this could also make a great coﬀee table/park bench show piece played
+by famous players from anywhere!! - Do go for it! - Kudos!
+My apologies to @GerritG3, I missed his post!
+Thanks for your encouragement message. My aim is just to share with the community my
+pleasure to create. I do not have ambition to commercialize it. 
+Moreover, to prototype at home is completely diﬀerent to designing a commercial product.
+Automated Chessboard: Page 46

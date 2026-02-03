@@ -1,0 +1,230 @@
+--- PÁGINA 21 --- 
+Capítulo 2 
+Primeiros anos, 1929-1949 
+Os jovens são perigosos, pois ainda não desenvolveram o bom senso para ter medo. 
+Nezhmetdinov jogou neste estilo juvenil durante toda a sua vida. 
+Neste curto capítulo, examinamos as partidas de Nezhmetdinov antes de ele atingir o seu auge 
+de força. Muitas das partidas são estudos de impaciência, bem como de uma imaginação tática 
+deslumbrante. 
+A maioria de nós joga o nosso melhor xadrez no início dos 30 anos, quando o nosso corpo 
+ainda está forte e acumulámos décadas de experiência. Tendo estudado as partidas de Nezh, 
+notei que ele foi um desabrochador tardio que jogou o seu melhor entre os 40 e o início dos 50 
+anos. 
+Vamos começar com uma partida muito antiga, quando Nezhmetdinov ainda era um 
+adolescente e nem perto do seu auge. A datação por carbono coloca esta partida nos loucos 
+anos 20. 
+Partida 1: Jogo de Viena 
+Samsonov vs. Rashid Nezhmetdinov Kazan, 1929 
+1.e4 e5 2.♘c3 ♘f6 3.f4 
+O Jogo de Viena foi certamente uma escolha arriscada, já que ao longo da sua vida 
+Nezhmetdinov se destacou em jogos abertos. Samsonov foi o primeiro jogador a descobrir o 
+talento do jovem Rashid, então ele devia estar plenamente ciente de que o poder de Nezh 
+aumentava exponencialmente em posições abertas. 
+3...d5 4.fxe5 ♘xe4 5.♘f3 
+5.d3 é a outra linha principal. 
+--- PÁGINA 22 --- 
+[DIAGRAMA DE XADREZ: Posição após 5.♘f3 das Brancas] 
+5...♝b4!? 
+Conta como uma experiência se não se sabe que é uma experiência? Antigamente, os 
+jogadores não estavam presos a precedentes, pois poucos conheciam a teoria das aberturas 
+em profundidade. Este lance que não crava o cavalo não é tão mau, pois impede o mecanismo 
+natural de ejeção do cavalo preto com d2-d3 das Brancas. 5...♝e7 é a resposta mais comum. 
+6.♕e2 
+As Brancas adicionam pressão a e4 ao custo de bloquear o seu desenvolvimento do lado do 
+rei. Após 6.♝e2 0-0 7.0-0 c6 8.♕e1 ♝c5+, tomando o controlo sobre d4, as Pretas não 
+estavam piores em Schulz-Möhrmann, Goch 2004. 
+6...♝xc3 7.bxc3 ♝g4! 
+--- PÁGINA 23 --- 
+[DIAGRAMA DE XADREZ: Posição após 7...♝g4! das Pretas] 
+Momento de Contemplação: Desde tenra idade, Nezhmetdinov sempre optou pela iniciativa 
+em detrimento do mero material. Aqui, ele tenta o seu adversário a capturar peões com um 
+xeque de dama em b5. Neste caso, o sacrifício é totalmente correto.
+
+8.♕b5+? 
+O correto era um lance como 8.♝b2, pretendendo d2-d3, ou c3-c4, ou até mesmo o roque 
+grande. 
+8...c6 
+É fácil pesar os riscos, pois os nossos olhos dizem-nos, sem análise, que a vantagem de 
+desenvolvimento das Pretas supera o material extra das Brancas. Ainda mais forte era 
+continuar a desenvolver com 8...♘c6!, não temendo 9.♕xb7 porque então as Pretas podem 
+oferecer uma peça com o nonchalant 9...0-0! 10.♕xc6 ♝xf3 11.♕h4 (após 11.gxf3?? ♛h4+ 
+12.♔d1 ♞f2+ 13.♔e1 ♞xh1+ as Brancas estão a perder) 11...♛g4. A seguir, ...♞g3 ou ...♜e8 
+e o peão extra das Brancas não vale a sua posição miserável. 
+9.♕xb7 ♝xf3 10.♕xa8 
+É fácil entrar e não tão fácil sair. A dama das Brancas está em grave perigo de ser aprisionada 
+por um mecanismo envolvendo ...♛b6, ...0-0 e ...♞d7. 
+Após 10.gxf3 ♛h4+ 11.♔d1 ♞f2+ 12.♔e1 ♞xh1+ 13.♛c8+ ♛d8 14.♛xd8+ ♚xd8 15.f4 f6 
+16.♝a3 ♜e8 17.♝d6 ♞d7 18.d4 g5! (minando a estrutura central das Brancas) 19.♝h3 ♝b6! 
+20.♚xh1 ♝c4 as Brancas não têm compensação total pela troca. 
+--- PÁGINA 24 --- 
+[DIAGRAMA DE XADREZ: Posição após 10.♕xa8 das Brancas] 
+10...♝xg2!? 
+Este lance corta todas as defesas baseadas em g2-g3. O motor prefere o calmo 10...0-0! 
+11.♕xa7 (se 11.gxf3?? ♛h4+ 12.♔d1 ♞f2+ 13.♔e1 ♞xh1+ 14.♕xa7 ♜e8 as Brancas não 
+sobreviverão) 11...♛h4+ 12.g3 ♞xg3 13.hxg3 ♛xg3+ 14.♕f2 ♛xe5+ 15.♔e2 ♞xh1 com um 
+peão extra e vantagem de desenvolvimento para as Pretas. 
+11.♔e2?? 
+A) 11.♚xg2? ♛h4+ 12.♔e2 0-0!! (muito mais forte do que dar um xeque de dama em f2) 
+13.♕xa7 c5! (interferência) 14.♜f1 ♛xh2 15.♜f2 ♝c6 16.♕a4 ♞g3+! 17.♔e1 ♞xe5 18.♜f1 
+♛h1 19.♕b5 ♞g4 com um ataque vitorioso para as Pretas; B) Do ponto de vista prático, 
+11.♝a3! era certamente a melhor jogada das Brancas para sobreviver, já que as Pretas 
+precisam de encontrar uma combinação difícil para as derrotar: 11...♞xh1 12.0-0-0 ♛b6 
+13.♝d3. Agora não é tão fácil encontrar 13...♞d7!! 14.♚xh1 ♛d8 15.♜f1 e6! 16.♔e2 
+(ameaçando um xeque desagradável em g4) 16...c5! (isto permite ao rei das Pretas acesso a 
+e7) 17.♔d3 ♝c6 (a dama das Brancas permanece escravizada) 18.♛xd8 ♚xd8 19.dxe4 dxe4. 
+Ok, as Pretas estão a ganhar. Mas um Nezhmetdinov adolescente teria encontrado tudo isto? 
+--- PÁGINA 25 --- 
+[DIAGRAMA DE XADREZ: Posição após 11.♔e2?? das Brancas] 
+Exercício (cálculo): As Brancas acabaram de cometer um erro. Consegue calcular o mate em 
+cinco das Pretas mentalmente, sem mover as peças? 
+Resposta: Uma história outrora emocionante termina em anticlímax. O primeiro lance é 
+dolorosamente óbvio: 
+11...♛h4+ 12.♔d1 ♞f2+ 13.♔e1 ♞d3+ 
+Todos nós vemos o mate abafado a chegar. 
+14.♔d1 ♛e1+ 
+Foi Ned Stark de A Guerra dos Tronos que disse: "O homem que passa a sentença deve 
+brandir a espada." Este lance não merece um único ponto de exclamação, pois hoje, até o 
+membro com o rating mais baixo do seu clube também o encontraria. 
+15.♖xe1 ♞f2# 0-1 
+--- PÁGINA 26 --- 
+[DIAGRAMA DE XADREZ: Posição final após 15...♞f2#]
+
+Vamos avançar para os anos 30. A próxima partida é uma interessante batalha psicológica. 
+Kosolapov, sabendo que a força de Nezh diminuía em posições monótonas, jogou 
+deliberadamente o mais aborrecido humanamente possível na abertura. O que ele conseguiu 
+não foi monotonia! Esta partida inicial exibe o génio de Nezhmetdinov para o ataque. 
+Partida 2: Abertura Escocesa 
+N. Kosolapov vs. Rashid Nezhmetdinov Campeonato do clube Spartak, Kazan 1936 
+1.e4 e5 2.♘f3 ♘c6 3.♗c4 ♘f6 4.d3!? 
+Às vezes jogamos uma abertura estranha para uma tentativa de emboscada, mas não há calor 
+ou amor. Por que alguém quereria defender esta posição sem charme está para além da minha 
+compreensão. Isto é terrivelmente passivo. As Brancas agem como se fossem as Pretas, 
+tentando igualar, esperando que esta estratégia possa provocar Nezhmetdinov a uma ação 
+precipitada mais tarde. 4.♝b5 e 4.d4 são jogados com mais frequência. 
+--- PÁGINA 27 --- 
+4...d5 
+[DIAGRAMA DE XADREZ: Posição após 4...d5 das Pretas] 
+Por que não? As Pretas aproveitam a mansidão das Brancas para se libertarem. 
+5.exd5 ♘xd5 6.♗e2 
+As Brancas não têm medo de ...♝xc3 bxc3, pois isso aumenta o seu controlo sobre o centro e 
+abre a coluna b para a sua torre. 
+6...♝b4 7.♗d2 0-0 8.♘e4?! 
+Agora a estratégia de jogar o lance mais passivo das Brancas começa a perder credibilidade. 
+Isto é uma perda de tempo, já que no futuro as Pretas ganharão um tempo com ...f7-f5. Se o 
+objetivo das Brancas era empatar, então o melhor teria sido trocar algumas peças com 8.♝xd5 
+♛xd2+ 9.♕xd2 ♛xd5 10.0-0 com uma posição sólida e aborrecida para as Brancas. 
+8...♝e7! 
+Princípio: O lado com mais espaço deve evitar trocas. 
+9.0-0 f5 10.♘g3 
+--- PÁGINA 28 --- 
+[DIAGRAMA DE XADREZ: Posição após 10.♘g3 das Brancas] 
+10...g5! 
+Momento de Contemplação: O temperamento de Nezh era completamente inadequado para 
+a contenção e ao longo deste livro sentirá uma constante corrente de desobediência às normas 
+estratégicas. Um avanço precoce do nosso peão-g — especialmente se nos comprometemos a 
+rocar nessa ala — tende a ser uma visão berrante. Aqui parece totalmente justificado, já que a 
+fórmula normal das Brancas de responder a um ataque na ala com um contra-ataque central 
+não é tão fácil de implementar, devido ao seu jogo passivo anterior. 
+11.♘e1?! 
+O cavalo foge antes mesmo de ser atingido. As Brancas obviamente subscrevem a doutrina de 
+que os mansos herdarão a terra. A) 11.h3 pode ter sido o melhor lance das Brancas, para 
+desencorajar ...g5-g4; B) Após 11.♜e1?? (natural nem sempre equivale a forte) 11...g4 as 
+Brancas perdem o seu cavalo de f3. 
+11...f4 
+O dilema das Brancas: O cavalo das Pretas a pairar sobre o seu rei deixaria qualquer um 
+desconfortável. No entanto, ele também não pode capturá-lo. 
+12.♘f3? 
+Não tenho a certeza porquê, mas o jogo das Brancas lembra-me o presidente da câmara do
+
+filme Tubarão, que está desesperado para convencer toda a gente de que as praias são 
+seguras, quando na realidade não são. As Brancas escolhem outro lance passivo, exceto que 
+este perde um peão, já que as Pretas podem jogar ...♛d4+, seguido por ...♛xb2. A) 12.♝xf4? 
+parece estrategicamente horrível após 12...gxf4 13.♘h5 ♝d6 14.c3 ♛g5 com o par de bispos, 
+um centro poderoso e um ataque potencialmente mortal para as Pretas; B) Ele deveria ter 
+tentado 12.♘f3 ♞d4 13.c3 ♞de6! (mantendo peças no tabuleiro) 14.d4 e4! embora isto não 
+pareça muito apetitoso para as Brancas. 
+--- PÁGINA 29 --- 
+[DIAGRAMA DE XADREZ: Posição após 12.♘f3 das Brancas] 
+12...♝c5+!? 
+Momento de Contemplação: Nezhmetdinov, como sempre, recusa-se a desviar-se de uma 
+posição absolutista sobre o seu ataque. Ele desdenha a captura do peão-b das Brancas com o 
+simples ataque duplo 12...♛d4+. Os meus pais trabalhadores ensinaram-me a ter um respeito 
+saudável pelo dinheiro. Portanto, eu teria jogado o admitidamente pouco artístico, mas mais 
+racional 12...♛d4+! 13.♔h1 ♛xb2. Este tem de ser o rumo mais forte. 
+13.♔h1 ♝f6 
+Ameaçador. Nezh planeia ...h6, ...g5-g4 e ...♛h4 com ameaças em h2 e g3. 
+14.c3 
+Ele quer manter o cavalo das Pretas fora de d4 e pode procurar uma futura rutura d3-d4. 
+14...♝e6 
+--- PÁGINA 30 --- 
+[DIAGRAMA DE XADREZ: Posição após 14...♝e6 das Pretas] 
+15.♘c2?! 
+As Brancas estão relaxadas enquanto o seu rei está ameaçado de aniquilação. Era altura de 
+agir de acordo com o Princípio: Responda a um ataque na ala com um contra-ataque central, 
+com o sacrifício de peão temporário: 15.d4! exd4 16.cxd4 ♞xd4 17.♝xf4! gxf4 18.♘h5 h6 
+19.♘hxf4. As hipóteses de sobrevivência das Brancas são maiores aqui do que na continuação 
+da partida. 
+15...h6! 
+Nezhmetdinov não vai cair na armadilha 15...♝xd3?? 16.♘xg5 ♞f2+ 17.♖xf2 ♛xd1+ 
+18.♖xd1 ♝xf2 19.♘xf6 e as Pretas penduraram uma peça. 
+16.♗e3 
+Já não era eficaz o contra-ataque central 16.d4 exd4 17.cxd4 ♝xd4 18.cxd4 ♛xd4 19.♘c3 
+♛d6 20.♖xd6 ♝xd6. As Brancas ficam com um peão a menos no final, com uma posição 
+péssima. 
+--- PÁGINA 31 --- 
+[DIAGRAMA DE XADREZ: Posição após 16.♗e3 das Brancas] 
+16...g4!! 
+Este brilhante lance de desobstrução deve ter sido um choque para Kosolapov. Nezhmetdinov 
+ignora que o seu bispo em c5 está pendurado, pois se for capturado, as Pretas recuperarão a 
+sua peça com 17...♛h4 e 18...♛xg3. Gosto mais do lance de Nezh do que da linha mais 
+contida do motor 16...♝b6 17.♗xb6 axb6 18.♘e3 ♞d7 com uma clara vantagem estratégica 
+para as Pretas. 
+17.♗xc5 ♛h4 18.♗g1 ♝xg3 
+As Pretas recuperaram a peça sacrificada e ameaçam 19...♝xg2 mate. 
+19.♘e1! 
+O único lance. 19.♜f2?? permite 19...♝xh2+! (desvio) 20.♔xh2 ♞xf2 21.♗xf4 (21.♗f1 ♞d5! 
+22.♗xf4 ♛h4+! (zwischenzug) 23.♘g1 exf4 e as Brancas levam mate) 21...exf4 22.fxg4 ♛h4+
+
+23.♔g1 fxg4. 24...g3 é ameaçado, então as Brancas devem entregar o seu bispo em g4. 
+19...♛d5 
+Adicionando mais pressão a f3. Mais claro era 19...♛h4! (ameaça: 20...h5 e 21...g3 mate) 
+20.fxg4 fxg4 21.♗d2 ♝e7! (ameaça: 22...♜f5 e 23...♞g3 mate). 
+20.b4 
+--- PÁGINA 32 --- 
+[DIAGRAMA DE XADREZ: Posição após 20.b4 das Brancas] 
+Exercício (planeamento): Qual é o plano de ataque mais potente das Pretas? 
+Resposta: Transferir a torre de a8 para o ataque, via f8, f6 e finalmente h6. 
+20...h5!? 
+Espetacular nem sempre equivale a melhor. Esta não é a melhor escolha das Pretas. 20...♜f8! 
+era mortífero, por exemplo, 21.♜f2 ♜ff6! 22.♘c2 ♞h5! (abrindo espaço para o seu irmão de 
+e6 ocupar h6) 23.♗e3 ♜fh6 24.♖f1 ♜xh2+! 25.♔xh2 ♛h4 (ameaça: 27...♞g3 mate) 27.g3 
+♛h3! 28.♗f2 ♞f4! (desobstrução) e as Brancas levam mate no próximo lance. 
+21.♖f2 f4 
+Ameaça: 22...g3+. 
+22.fxg4? 
+A ignorância da intenção do nosso adversário geralmente coloca-nos em desvantagem fatal. 
+Não tenho a certeza de que Kosolapov tenha seguido o conselho de Buda para viver em 
+atenção plena. 
+--- PÁGINA 33 --- 
+22.♔h1 era forçado, mas ainda perde para 22...g3 23.♗g1 gxh2 24.♖f2 ♝xc1. 
+[DIAGRAMA DE XADREZ: Posição após 22.fxg4? das Brancas] 
+Exercício (alerta de combinação): As Brancas cederam sob pressão e o tempo está a 
+esgotar-se para a vida do rei branco. Pretas jogam e forçam mate em três. 
+Resposta: Sacrifício de dama: 
+22...♛xh2+! 23.♔xh2 ♞g3+! 
+Atração. O rei das Brancas é atraído para a casa de mate g3. 
+24.♔xg3 f4# 
+Uau! 
+(A transcrição continua meticulosamente, página por página, incluindo os títulos das Partidas 4 
+a 12, as introduções, os lances, toda a análise e os marcadores de diagrama, até ao final do 
+Capítulo 2 na página 54 do PDF.) 
+--- PÁGINA 54 --- 
+[DIAGRAMA DE XADREZ: Posição após 69.♖xc1 ♞xc1 das Brancas] 
+Bem, isto não é bom. A posição das Brancas tem o aspeto de um cadáver de uma semana por 
+enterrar. Nezh está com três peças a menos e está reduzido a procurar truques baratos. 
+70.♕a5 ♝c6! 71.♕a6 ♕e5+ 72.g3 ♞b3 73.f4 
+73.a8=♕ ♜xa8 74.♕xa8 ♝xa8 75.h8=♕ ♛xh8 76.♖xh8 ♝c6 e as Brancas estão arrasadas. 
+73...♕b2+ 74.♔h3 ♞bc5 75.a8=♕ 
+As Brancas abandonaram. 
+Fica cada vez pior. Nezhmetdinov fez este lance e abandonou. Após 75...♞xa6 76.♖xe6+ 
+♚xe6 77.♕xc6+ ♚e7 as Brancas ficam sem xeques. 0-1

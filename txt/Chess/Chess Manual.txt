@@ -1,0 +1,2310 @@
+2
+3
+ÍNDICE
+INTRODUÇÃO .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   4
+INSTALAÇÃO  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   5
+MODOS DE JOGO . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   5
+GUIA RÁPIDO DO CHESSMASTER®  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   8
+SEU ALTER EGO  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   9
+A INTERFACE DO USUÁRIO  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   10
+APRENDENDO A JOGAR  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   13
+JOGANDO CONTRA A IA  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   18
+JOGANDO ONLINE .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   34
+JOGANDO EM REDE  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   49
+ESTUDO DE JOGOS FAMOSOS   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   50
+A BASE DE DADOS  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   51
+A ÁREA DE DIVERSÃO . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   53
+TECLAS DE ATALHO  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   55
+CONTRATO DE LICENÇA PARA USUÁRIO FINAL  .  .  .  .  .  .  .  .  .  .  .   56
+SUPORTE TÉCNICO  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   59
+CRÉDITOS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 59
+Aviso Sobre Epilepsia
+Aviso de Saúde Importante para os Usuários de Jogos Eletrônicos
+Algumas pessoas são suscetíveis a ataques epiléticos ou perda de consciência quando 
+expostas a certas composições visuais, como luzes intermitentes ou padrões de luzes que 
+podem aparecer em jogos eletrônicos. Até mesmo pessoas que não tenham histórico de 
+perda de consciência ou ataques epiléticos podem ter uma condição não diagnosticada que 
+possibilite um caso de epilepsia enquanto assistem ou jogam um jogo eletrônico.
+Esses ataques podem se revelar a partir de uma variedade de sintomas, incluindo tontura, 
+visão turva, contração dos olhos ou músculos, movimentos involuntários de braços e 
+pernas, desorientação, estados de confusão mental ou perda momentânea dos sentidos. Em 
+alguns casos, os ataques epiléticos também ocasionam perda de consciência ou convulsões 
+que podem levar a ferimentos no caso de quedas ou choques com objetos próximos.
+Caso você apresente qualquer um desses sintomas, interrompa o jogo imediatamente e 
+procure por aconselhamento médico. Pais e responsáveis devem observar suas crianças 
+durante os períodos de jogo e questioná-las em relação aos sintomas descritos acima. 
+Crianças e adolescentes são mais suscetíveis a ataques epiléticos do que adultos. O risco de 
+ataques epiléticos pode ser reduzido através da adoção das seguintes precauções: sente-se 
+a uma distância confortável do seu televisor; use televisores com telas menores; jogue 
+sempre em salas bem iluminadas; e evite jogar quando estiver com sono ou cansado.
+Se você ou alguém em sua família possui um histórico de epilepsia, consulte 
+um médico antes de jogar.
+
+4
+5
+INTRODUÇÃO
+Bem-vindo ao Chessmaster®:  
+Grandmaster Edition!
+O Chessmaster é conhecido como o mais completo software de xadrez 
+disponível. Agora, a Grandmaster Edition oferece novas e empolgantes 
+formas de desfrutar e aprender xadrez.
+Aqui estão os novos e mais importantes elementos:
+• 12 variações de xadrez disponíveis on-line (dentre elas: Marseillais, 
+Progressive, Pocket Knight, Kriegspiel).
+• Jogue com seus amigos, mesmo que vocês não estejam on-line ao 
+mesmo tempo, graças ao novo modo de jogo Correspondence Chess 
+(Xadrez por Correspondência).
+• Divirta-se exercitando sua mente com os mais novos minijogos do 
+Chessmaster: Fork My Fruit, Minefield, e Pathfinder.
+• A nova e interativa Chessmaster Academy (Academia de Xadrez) – “A 
+Arte de Aprender”, em que o mestre Josh Waitzkin lhe ensinará a jogar 
+xadrez de forma introspectiva e dinâmica, assimilando os fundamentos, 
+posições e experiências do xadrez.
+• 10 novos e exóticos conjuntos de xadrez especialmente projetados, 
+cortesia da House of Staunton.
+• Um novo conjunto de xadrez animado em 3D, apresentando os 
+famosos coelhinhos de Rayman Raving Rabbids™.
+• A versão atualizada do The King (O Rei) – com um uso mais poderoso 
+das variáveis e capacidades de multiprocessamento.
+Aprenda mais, na seção Modos de Jogo deste manual (pág. 5), sobre o 
+que o Chessmaster: Grandmaster Edition pode fazer.
+Se quiser iniciar imediatamente o jogo, leia antes a seção Guia Rápido 
+do Chessmaster (Pág. 8).
+Instalação
+Instalando Chessmaster: Grandmaster Edition
+Para utilizar o Chessmaster: Grand Master Edition, é preciso executar o 
+programa de instalação. Não é possível instalá-lo somente copiando o 
+software do CD / DVD para o seu disco rígido.
+Insira o disco 1 na sua unidade de CD/DVD-ROM. Se estiver instalando 
+o Chessmaster: Grand Master Edition pela primeira vez, a tela da 
+Execução Automática do Chessmaster aparecerá. Clicando em Install 
+(Instalar), o programa de instalação será iniciado. Siga as instruções na 
+tela, escolha a pasta de instalação e selecione quais recursos você quer. 
+O espaço mínimo requerido para o Chessmaster é de cerca de 1,2 GB; a 
+instalação de todos os recursos irá consumir por volta de 2 GB.
+Para iniciar o Chessmaster, insira o Disco 1 em sua unidade de CD / DVD 
+Rom. A Execução Automática do Chessmaster aparecerá. Para iniciar 
+o Chessmaster, clique em Play (Jogar). Você também pode executar o 
+Chessmaster usando o atalho correspondente no menu de programas 
+do Windows.
+Quando iniciar o Chessmaster pela primeira vez, será pedido para você 
+criar o seu primeiro alter ego. Para mais detalhes, leia a seção Seu Alter 
+Ego.
+Após fazer o login usando o seu recém-criado alter ego, será exibido 
+o Menu Principal. Para iniciar sua experiência no Chessmaster, clique 
+em alguma das categorias Play (Jogo), Learn (Aprendizado) ou Fun 
+(Diversão).
+Desinstalando Chessmaster: Grandmaster Edition
+Para desinstalar o Chessmaster, insira o Disco 1 em sua unidade de 
+CD-Rom. A Execução Automática do Chessmaster aparecerá. Para 
+remover o Chessmaster do seu computador, clique em Uninstall.
+Você também pode remover o Chessmaster usando o atalho correspondente 
+no menu de programas do Windows.
+MODOS DE JOGO
+Play (Jogo): Training (Treinamento)
+Se quiser iniciar uma partida imediatamente, basta entrar neste modo 
+de jogo.  Ele coloca você com as Brancas, enfrentando um oponente 
+aleatório (se for sua primeira vez) ou o último contra o qual jogou.
+Neste modo de jogo, você pode apurar suas habilidades jogando contra 
+qualquer oponente que quiser enquanto analisa seu jogo usando as 
+ferramentas disponíveis. Ele é também um dos dois modos de jogo em 
+que você pode voltar seus movimentos ou receber dicas e conselhos.
+
+6
+7
+Play (Jogo): Ranked Play (Jogo Graduado)
+Se quiser jogar “para valer”, este é o modo de jogo a se usar. Sua 
+graduação é afetada por cada vitória ou derrota ocorrida neste modo de 
+jogo, portanto, tenha cuidado.
+Este modo de jogo tenta ser o mais próximo possível de uma experiência 
+“real” com xadrez e visa os jogadores mais avançados. É necessário 
+um mínimo de configuração, já que o jogador precisa escolher suas 
+preferências (oponente, cor, controles de tempo) antes de iniciar a 
+partida.  Além disto, para medir corretamente o desempenho do jogador, 
+as ferramentas de dicas não estão disponíveis.
+Play (Jogo): Set Up Position (Posições 
+Definidas)
+Se você quiser copiar os problemas dos livros e usar o Chessmaster para 
+resolvê-los ou se quiser reproduzir uma posição famosa e ver se é capaz 
+de se sair melhor que os famosos jogadores, este é o modo de jogo que 
+procurava.
+Após definir as posições, o jogador pode continuar o jogo, tendo à 
+disposição todas as ferramentas de dicas.
+Play (Jogo): Tournaments (Torneios)
+E se você quiser participar de um torneio? Bem, este modo de jogo oferece 
+uma série de torneios com dificuldade crescente, permitindo assim que você 
+teste a consistência do seu jogo em um ambiente de competição. Com mais 
+de 50 torneios no geral, este modo de jogo certamente irá requerer muito 
+tempo para ser completado.
+Por outro lado, para jogadores que precisam de mais liberdade, este modo de 
+jogo também permite a criação de novos torneios.
+Play (Jogo): Online
+Jogar contra o computador é legal, mas o desafio de verdade é jogar com 
+e vencer outra pessoa. O modo de jogo On-line permite que você faça 
+exatamente isto - veja quem está jogando nos servidores Chessmaster da 
+ubi.com™, faça amigos e troque mensagens na área de Bate-papo ou 
+pelo Fórum, desafie pessoas de todo o mundo para jogos com ou sem 
+graduação, jogue em torneios, em “escadas” ou em exibições simultâneas 
+e experimente as novas variações de xadrez. Veja as partidas de outras 
+pessoas ou – se você gostar de compartilhar seus conhecimentos – crie 
+suas próprias lições de xadrez.
+Play (Jogo): LAN (Rede Local)
+Você não precisa estar conectado à Internet para ter bons momentos 
+com seus amigos da sua rede. Este modo de jogo lhe permite a maioria 
+dos recursos do modo On-line, mas em um computador em rede - bate-
+papo escrito ou por voz, jogos graduados ou não, exibições simultâneas 
+e os jogos do modo de Ensinamento.
+Learn (Aprendizado): Academy 
+(Academia)
+A nova Chessmaster Academy (Academia Chessmaster) apresenta um novo 
+curso extensivo sobre os fundamentos do xadrez e como eles podem ser 
+aplicados: “A Arte de Aprender" ensinada pelo MI Josh Waitzkin. Além 
+disto, todo o conteúdo coligido pelas versões anteriores do Chessmaster 
+ainda está disponível.
+Os seguintes famosos jogadores de xadrez estão a sua disposição: O GM 
+britânico John Nunn, os campeões americanos GM Larry Evans e GM Yasser 
+Seirawan, o campeão júnior americano MI Josh Waitzkin e o renomado 
+professor de xadrez NM Bruce Pandolfini. O conteúdo da série Chessmaster 
+inclui informações valiosas para jogadores iniciantes, intermediários 
+e avançados. As seções para iniciantes incluem tutoriais e exercícios, 
+enquanto as áreas intermediárias incluem as seções End Game Quiz (Teste 
+de Final de Jogo) e Exam Rating (Exame de Graduação). Os jogadores 
+avançados irão aproveitar tanto a seção Match the Master (Igualando-se aos 
+Mestres) e Nunn’s Puzzles (Quebra-cabeças do Nunn).
+Learn (Aprendizado): Openings 
+(Aberturas)
+Este modo de jogo visa treiná-lo em uma das partes mais importantes 
+em um jogo de xadrez - a abertura.
+Learn (Aprendizado): Database (Base de 
+Dados)
+O modo de jogo base de dados permite que você procure um jogo de 
+xadrez em um arquivo com mais de 800.000 entradas, incluindo os 
+jogos de xadrez no nível grande mestre de 2002 a 2007. Se você se 
+sentir perdido com as complexas ferramentas de procura disponíveis, 
+pode trocá-las pela forma mais simples de procura “quem/quando/
+onde” ou usar a nova Improved Search (Busca Aprimorada).
+Learn (Aprendizado): Famous Games 
+(Jogos Famosos)
+Mais de 900 famosas partidas de xadrez jogadas entre 1619 e 2007 
+esperam você nesta base de dados que também pode ser pesquisada. 
+Você pode observá-las movimento a movimento e ler os comentários 
+de jogadores famosos. Na nossa opinião, este é talvez, dentre todos, 
+o modo de jogo mais atrativo – alguns jogos são mais tensos que um 
+filme de ação!
+Fun (Diversão): Play (Jogo)
+Estes modos de jogo permitem que as crianças e os realmente iniciantes
+
+8
+9
+possam jogar xadrez contra oponentes de baixo nível - com a ajuda de 
+ferramentas simplificadas - usando engraçadas peças animadas em uma 
+interface colorida e muito atrativa.
+Fun (Diversão): Puzzles (Quebra-cabeças)
+Se não quiser jogar uma partida inteira, então você pode se divertir 
+tentando resolver os quebra-cabeças propostos neste modo de jogo.
+Fun (Diversão): Mini-Games (Minijogos)
+Para solucionar um problema, às vezes temos de olhá-lo de um ângulo 
+diferente. Você se tornará um jogador melhor enquanto joga com 
+minijogos baseados em xadrez (Fork My Fruit, Minefield, e Pathfinder). 
+Experimente-os para exercitar, aprimorar, analisar e centrar sua 
+memória.
+Fun (Diversão): Learn Basics (Aprendizado 
+do Básico)
+Esta seção de aprendizado dá lições, com exercícios simplificados, sobre 
+o básico em xadrez . Além disso, quando os iniciantes completarem as 
+lições, eles irão ganhar pontos de Classe Mestre e podem imprimir os 
+Certificados de Xadrez.
+GUIA RÁPIDO DO 
+CHESSMASTER
+Se você não estiver animado a ler todo o manual antes de partir para 
+o jogo, esta seção é perfeita para você – ela é o mínimo do mínimo do 
+que você precisa saber para ser capaz de explorar o Chessmaster por 
+conta própria.
+Operando o Tabuleiro
+Para mudar o tamanho dele, use a roda do mouse ou as teclas Page 
+Up/ Page Down.
+Para move-se ao redor dele, clique na borda e arraste-o (o cursor muda 
+quando a opção de arrastar estiver disponível).
+Para girá-lo, use as teclas para a esquerda e para a direita.
+Para incliná-lo, use as teclas para cima e para baixo.
+Clicar com o botão direito
+Em todos os modos de jogo, clicar com o botão da direita sobre o 
+papel de parede ou sobre o tabuleiro exibe a maioria das, se não todas, 
+ações disponíveis. Use este atalho para acelerar a operação do seu 
+Chessmaster.
+No modo On-line, ao clicar com o botão da direita, todas as 
+listas apresentam menus específicos ao contexto. Para ver as ações 
+disponíveis, clique sobre qualquer elemento na lista.
+Clicando duas vezess
+Para acelerar as operações no modo On-line, use e abuse do clique 
+duplo: desafiando jogadores, entrando em jogos abertos e visualizando 
+partidas. Clique duas vezes em um jogador ocioso para enviar a ele ou a 
+ela um desafio, e clique duas vezes sobre os desafios para aceitá-los.
+Interface
+Aprenda a usar a barra de navegação. Não esqueça que clicar no botão 
+Main (Principal) manda você de volta ao Menu Principal.
+Use a barra de atalhos. Se não tiver certeza para que serve um 
+botão, deixe o cursor sobre ele por um segundo. Aparecerá um texto 
+explicativo.
+Online
+Veja se a Player List (Lista de Jogadores) e a Competition List (Lista de 
+Competidores) estão visíveis. Você pode exibi-las usando os ícones na 
+barra de atalhos; estas listas são muito importantes quando você não 
+estiver jogando, já que elas lhe permitem interagir com os outros.
+Para bater papo com seus amigos jogadores, antes de tudo, torne visível 
+a janela Lobby Chat (Sala de Bate-Papo) ou a janela In-Game Chat 
+(Bate-Papo no Jogo).
+Par usar o bate-papo por voz, torne visível a janela In-Game Chat e, 
+então, clique no ícone Speaker (Alto-Falante). A comunicação será 
+possível assim que ambos os jogadores ativarem o bate-papo por voz. 
+Use o Chess Coach (Instrutor de Xadrez) durante os jogos de Treinamento 
+– ele lhe ajudará a entender melhor a situação. Para alternar entre o 
+ponto de vista das Brancas e das Pretas, use o Tab.
+SEu Alter Ego
+Para poder acompanhar sua evolução como jogador de xadrez, o 
+Chessmaster precisa saber quem é você.
+Por isso, a primeira coisa que você deve fazer ao iniciar o Chessmaster: 
+Grand Master Edition é criar um jogador fictício que levará seu nome 
+e residirá em seu computador. Ele será seu alter ego no mundo do 
+Chessmaster.
+Criando um Jogador
+Quando você inicia o jogo pela primeira vez, automaticamente o 
+Chessmaster abrirá a janela Player Login (Login do Jogador) e pedirá 
+que você crie um alter ego. Não é possível prosseguir sem criar um, 
+portanto clique no botão New Player (Novo Jogador).
+Primeiro, escolha um nome para o seu jogador, depois responda algumas
+
+10
+11
+perguntas simples (ano, experiência com xadrez) para ser determinada 
+sua graduação inicial de xadrez.
+Após responder a estas questões, o Chessmaster irá computar uma 
+graduação de xadrez e perguntar se você quer entrar usando o jogador 
+recém-criado.
+Você também pode escolher um avatar (uma representação gráfica de si 
+mesmo) dentre as imagens disponíveis. Para mais detalhes, leia a seção 
+Ajustes na Interface do Chessmaster.
+Fazendo o Login com um Jogador Já 
+Criado
+Se você já criou um jogador, pode usá-lo a qualquer momento para 
+fazer o login. Exiba a janela Player Login clicando no botão apropriado 
+no Menu Principal, selecione o jogador na lista e clique em Login. 
+Para confirmar a alteração, o nome do novo jogador será exibido no 
+canto inferior esquerdo no Menu Principal, perto do botão Change User 
+(Alterar Usuário).
+Excluindo um Jogador
+Para excluir um jogador, selecione-o na lista de jogadores na janela 
+Player Login e clique no botão Delete (Excluir). É necessário confirmar 
+a exclusão de um jogador, evitando-se assim acidentes. Você também 
+pode excluir o jogador atualmente ativo - após excluí-lo, você precisa 
+fazer o login com outro jogador.
+A INTERFACE DO USUÁRIO
+A interface do Chessmaster foi planejada para ser mais limpa e intuitiva 
+quanto possível. Examine esta seção e tenha certeza de estar à vontade 
+com as ferramentas disponíveis - a barra de navegação, a barra de 
+atalhos e o menu que surge ao clique com o botão da direita.
+Para saber mais sobre a interface do usuário, dê uma olhada na seção 
+Ajustes na Interface do Chessmaster.
+O Menu Principal
+O Menu Principal é dividido em três categorias: Play (Jogo), Learn 
+(Aprendizado) e Fun (Diversão). Cada categoria tem vários modos/ícones 
+subseqüentes de jogo que aparecem quando você move o cursor sobre 
+os botões principais. Se não tiver certeza do significado de algum ícone, 
+mantenha o cursor sobre ele por um segundo que o nome do botão 
+aparecerá.
+Não se esqueça, o Menu Principal é o único local onde você pode 
+acionar a janela de Login usando o pequeno botão, no canto inferior 
+esquerdo, Change User (Alterar Usuário).
+A Barra de Navegação
+Para alterar as categorias, clique aqui.
+Para expandir a seleção do modo de 
+jogo, clique aqui.
+Para voltar ao Menu Principal, clique aqui.
+A barra de navegação exibe os mesmos ícones usados no Menu Principal 
+a fim de ajudar os jogadores a reconhecerem com facilidade para onde 
+ir. Os ícones maiores são Play, Learn e Fun. Clicar neles envia o jogador 
+de volta ao Menu Principal.
+O jogador pode alternar entre cada categoria clicando na seta vertical.
+Para exibir todos os modos de jogo associados à categoria selecionada, 
+o jogador pode usar a seta horizontal.
+Clique em um botão para ir ao 
+modo de jogo correspondente.
+Para recolher a seleção do 
+modo de jogo, clique aqui.
+Clicar na seta horizontal expande um menu, permitindo que o jogador 
+selecione outro modo de jogo.
+Para realçar o botão e exibir seu nome, posicione o mouse sobre ele. Se 
+mudar de idéia, recolha o menu usando a mesma seta horizontal que 
+agora aponta para a esquerda.
+O Menu Associado ao Botão da Direita
+Nos modos de jogo Training (Treinamento) e Ranked Play (Jogo 
+Graduado), clicar com o botão da direita em qualquer local da tela exibe 
+um menu que resume a maioria das ações, se não todas, disponíveis 
+ao jogador.
+
+12
+13
+Modo Training
+Modo Ranked Play
+No modo de jogo On-line, o menu associado ao botão da direita somente 
+esta disponível quando você clica na área de fundo ou no tabuleiro. 
+Isto porque as janelas Competition List (Lista de Competições) e Player 
+List (Lista de Jogadores) têm seus próprios comportamentos específicos 
+quando se clica com o botão da direita – elas exibem menus distintos 
+(para mais detalhes, veja a seção Jogando On-line).
+Por restrições de espaço, os componentes dos menus suspensos File 
+(Arquivo) e Edit (Editar) não estão disponíveis no menu associado ao 
+botão direito. Se você quiser gravar seus jogos ou copiar os movimentos 
+e colá-los em outro modo de jogo, terá de usar o menu suspenso 
+localizado abaixo da barra de tarefas.
+A Barra de Atalhos
+Todos os modos de jogo (Training, Ranked Play, Set Up Position, LAN, 
+On-line, Fun: Puzzles, e Fun: Play) exibem uma pequena barra de 
+atalhos no canto inferior direito da tela. Estas barras de atalhos ajudam 
+ao jogador a acessar com facilidade a maioria das ações comuns.
+Manipulando as Janelas
+Você pode fechar a maioria das janelas no jogo ao clicar no ícone X no 
+canto superior direito. Para exibir novamente a janela, use ou o menu 
+do botão da direita - veja a seção Windows (Janelas); as janelas visíveis 
+estão marcadas – ou o menu suspenso. Se uma janela não possuir o 
+ícone X, significa que não pode ser fechada e precisa permanecer na 
+tela.
+Algumas janelas também exibem um pequeno triângulo ao lado do 
+ícone X. Clicar no triângulo geralmente minimizará a janela. Para fazer 
+a janela voltar ao seu estado anterior, clique novamente no ícone de 
+triângulo.
+APRENDENDO A JOGAR
+O Chessmaster possui as ferramentas de aprendizado mais abrangentes 
+que existem em qualquer programa de xadrez. Seja você um jogador 
+iniciante, intermediário ou avançado, você vai descobrir muitos modos 
+de aprimorar o seu jogo usando o Chessmaster – tutoriais cobrem todas 
+as áreas do xadrez, exercícios permitem que você aplique o que aprendeu 
+e testes verificam sua força.
+Para aprender a jogar, selecione o botão de menu Learn/Academy 
+(Aprendizado/Academia) no Menu Principal.
+Executando um Tutorial
+A seção Aprendizado/Academia é dividida em três áreas. Se xadrez for 
+algo novo para você, inicie com a Academia do MI Josh Waitzkin. Ela 
+ensinará a você desde os princípios fundamentais até as estratégias 
+básicas do xadrez.  Já os jogadores avançados podem querer explorar 
+o curso do GM Larry Christiansen de Xadrez de Ataque, que contém 
+uma coleção de exemplos famosos de jogos de ataque. Além disso, o 
+Chessmaster: Grand Master Edition possui também todos os tutoriais 
+anteriores que figuravam na série Chessmaster.
+Após selecionar a área que quer visitar, 
+uma janela específica à área irá 
+aparecer. Os grandes botões à esquerda 
+são os capítulos; cada capítulo contém 
+um ou mais tópicos.
+Para executar um tutorial, clique no 
+botão correspondente ao capítulo que 
+você está interessado.
+Isto abrirá todos os tópicos contidos 
+naquele capítulo. Clique no ícone 
++ ou - para expandir ou retrair os 
+tópicos, então selecione o nome do 
+tutorial na lista. Finalmente, pressione 
+o botão Select (Selecionar) para iniciar 
+o tutorial.
+Os tutoriais são divididos em páginas; 
+você pode usar os botões Next 
+(Próximo) e Back (Anterior) para virá-
+las ou simplesmente digitar o número 
+que quiser e clicar em Go (Ir).
+Se um tutorial lhe fizer uma pergunta, você tem de clicar na resposta 
+correspondente; para isto, clique no quadrado apropriado ou faça o 
+movimento no tabuleiro. Todos os tutoriais fornecem as instruções na 
+tela.
+Ademais, você pode experimentar; se não for a oportunidade para mover 
+uma peça, você simplesmente não poderá pegá-la.
+
+14
+15
+Para escutar novamente uma explicação, pressione Replay.
+Para voltar à lista de tutoriais disponíveis, basta fechar a janela do 
+tutorial atual clicando no pequeno ícone X no canto superior direito. Em 
+alguns skins (design dos objetos de tela) ele pode ser um círculo, mas 
+você já entendeu – é o estilo padrão de comportamento no Windows.
+Após completar um tutorial, ele será assinalado com uma pequena 
+marca vermelha de verificação na lista de tutoriais.
+A Barra de Atalhos da Academia
+A barra de atalhos disponível em todas as seções da Academia tem a 
+seguinte estrutura:
+Ver outro 
+tutorial
+Próximo
+Anterior
+O ícone Watch Another Tutorial (Ver Outro Tutorial) fecha o tutorial em 
+andamento e abre a janela da área anterior (seja a Academia do Josh, o 
+Xadrez de Ataque do Larry ou as Séries Chessmaster).
+O ícone Next (Próximo) exibe a próxima página (nos tutoriais ou 
+exercícios) ou leva o jogador para o próximo conjunto de movimentos 
+(nas partidas comentadas).
+O ícone Previous (Anterior) exibe a página anterior (nos tutoriais ou 
+exercícios) ou leva o jogador para o conjunto anterior de movimentos 
+(nas partidas comentadas).
+Resolvendo um Exercício
+Para resolver um exercício, basta seguir as instruções na tela da mesma 
+forma que você fez na seção Tutorial. Todos os elementos do menu 
+funcionam da mesma maneira.
+O Chessmaster registra quanto tempo você levou para completar 
+cada exercício. Os melhores tempos são exibidos na janela Drill 
+Records (Recordes dos Exercícios), accessível pelo menu Windows/Drill 
+Records. 
+Após completar um exercício, ele será assinalado com uma pequena 
+marca vermelha de verificação na lista de exercícios.
+Partidas comentadas
+A interface se altera levemente quando você estiver vendo os jogos 
+comentados. Você pode explorar o jogo usando a janela Move List 
+(Lista de Movimentos), enquanto o comentário pode ser lido na janela 
+Annotation (Anotação).
+Na janela Lista de Movimentos, você pode observar que um grupo inteiro 
+de movimentos está realçado. Isto porque a maioria dos comentários 
+se aplica a vários movimentos e não a apenas um. Você pode andar 
+pelo jogo usando tanto a barra de atalhos quando os pequenos ícones 
+presentes sobre a lista de movimentos. Os significados dos pequenos 
+ícones são: Beginning (Início), Previous (Anterior), Play/Stop (Tocar/
+Parar) – quando o áudio do comentário for tocado, este ícone muda para 
+Parar – Next (Próximo) e End (Fim).
+Fazendo os Exames
+Após ter aprendido como jogar xadrez e quando sentir confiança quanto 
+as suas habilidades, talvez seja hora de ver quão bom você realmente 
+é. Um excelente modo de se testar é fazer os dois exames existentes, 
+ambos direcionados a usuários intermediários.
+O primeiro exame é o Diagnostic Rating Exam (Exame de Diagnóstico 
+de Graduação) de Bruce Pandolfini; ele pode ser encontrado no capítulo 
+Chessmaster Series/Intermediate/Rating Exam. Leia as instruções e 
+escolha um dentre os 10 testes disponíveis.
+Você será inquirido sobre uma série de questões. Para cada questão, 
+você precisa ou mover uma peça no tabuleiro ou selecionar uma 
+resposta.
+Após ter respondido todas as questões, o Chessmaster irá avaliar seu 
+desempenho. A avaliação dada ao fim do exame apenas visa refletir os 
+resultados. Ela não afeta o seu nível de graduação como jogador. Seus 
+melhores resultados nos exames de graduação são exibidos na página 
+Rating Exam Scores.
+O segundo exame é o Endgame Quiz (Teste de Final de Jogo) do CM 
+Larry Evans, disponível no capítulo Intermediate/Larry Evans’ Endgame 
+Quiz. Cada uma das 50 questões neste teste irá apresentar uma posição 
+de fim de jogo no tabuleiro, retirada de jogos famosos ou estudos de 
+jogos compostos.
+Cada questão possui somente uma resposta correta. Após cada questão, 
+será perguntado se você está seguro da resposta; para passar para a 
+próxima questão, você deve então usar o botão Next.
+Após ter respondido todas as questões, o Chessmaster irá avaliar seu 
+desempenho. Assim como o exame anterior, a avaliação dada ao fim 
+do teste apenas visa refletir os resultados. Ela não afeta a seu nível de 
+graduação como jogador.
+Aprendendo com o MI Josh Waitzkin
+Uma das melhores maneiras de aprender e melhorar o seu jogo 
+é estudando com um jogador no nível mestre. O Chessmaster é a 
+segunda melhor forma, pois ele inclui várias apresentações do Mestre 
+Internacional Josh Waitzkin. Seja qual for seu nível de habilidade, estas 
+apresentações – incluindo situações tomadas dos próprios jogos de Josh
+
+16
+17
+–mostrarão a você informações preciosas que não se encontram em 
+nenhum outro lugar.
+As apresentações de Josh estão presentes na área de treinamento Josh 
+Waitzkin’s Academy (Academia de Josh Waitzkin). Cada capítulo tem 
+um nível progressivo de dificuldade, que vai desde a Introdução até o 
+curso de Psicologia de Competição e os capítulos dos Jogos Anotados.
+Por favor, observe a recente adição: O tutorial “The Art of Learning” (A 
+Arte de Aprender) é uma forma interativa nova e excitante de aprender 
+xadrez.
+Praticando Aberturas
+As aberturas no xadrez têm sido estudadas e aprimoradas a centenas de 
+anos. O Chessmaster reconhece mais de 2.200 linhas de manuais de 
+aberturas, e você pode praticar qualquer uma destas.
+Para isto, você precisa acessar a seção Learn/Openings. As quatro 
+opções disponíveis são:
+• Practice Openings (Praticar Aberturas), em que você pode observar 
+qualquer uma das aberturas existentes e, então, tentar aprendê-las e 
+reproduzi-las.
+• Opening Book Reference (Livro de Referência de Aberturas), em que 
+você pode pesquisar a base de dados de aberturas do Chessmaster.
+• Opening Book Editor (Editor do Livro de Abertura), em que você pode 
+modificar os livros de aberturas existentes.
+• New Opening Book (Novo Livro de Abertura), em que você pode criar 
+o seu próprio livro de abertura.
+Para praticar uma abertura, navegue pela lista de aberturas, selecione 
+uma e, então, clique no botão OK. Algumas aberturas possuem 
+variações; se este for o caso, clique nos ícones + e - para expandir ou 
+retrair as variações.
+Na janela Opening Selection (Seleção de Abertura), você pode fazer 
+uma busca por uma abertura em vez de ter de navegar pela lista de 
+aberturas. A pesquisa não diferencia maiúsculas de minúsculas e é 
+aplicada ao nome completo da abertura. Procurar por “g”, por exemplo, 
+terá como resultados tanto “Alapin’s Opening” quanto “Guimard.”
+Para remover os resultados das pesquisas e voltar à lista de aperturas 
+aos seus valores iniciais, clique no botão Clear.
+Quando estiver praticando as aberturas, após ter escolhido qual delas 
+quer observar, você pode clicar no botão Play para ver a primeira (todos 
+os movimentos são comentados) ou pode clicar no botão Practice para 
+tentar reproduzi-la. Durante o exercício, se você clicar no botão Hint, 
+receberá a dica de qual movimento deve fazer. Porém, isto irá arruinar a 
+avaliação da sua precisão, portanto só use como último recurso.
+Quando você procurar uma abertura no Opening Book Reference, 
+perceberá que é possível ver as peças mais usadas nas aberturas 
+(o círculo com três pontos é o símbolo para as peças mais comuns, 
+enquanto o vazio é usado para a peça menos usada; as peças sem 
+símbolo não são usadas no ramo de aberturas selecionado).
+Você pode navegar pelas aberturas usando a árvore de aberturas (clicando 
+nos ícones + e - para expandir/ retrair os ramos) ou simplesmente 
+movendo as peças no tabuleiro. Quando você pega uma peça e a levanta 
+do tabuleiro, se houver qualquer destino possível para ela que seja parte 
+da atual abertura, os locais respectivos estarão marcados com símbolos. 
+Isto o ajudará a desenvolver uma compreensão visual do fluxo do jogo 
+durante as aberturas.
+O sistema acima é usado também no Opening Book Editor; quando o 
+jogador desviar de uma abertura existente, o padrão recém criado será 
+adicionado à base de dados e aparecerá na estrutura da árvore.
+Resolvendo Quebra-cabeças
+O Chessmaster tem duas áreas com quebra-cabeças para serem 
+solucionados.
+A primeira é a Fun/Puzzles, que contém um número ilimitado de 
+quebra-cabeças que você pode resolver quando não estiver com vontade 
+de jogar uma partida completa. Para resolver um quebra-cabeça, leia 
+a descrição na janela Puzzle Info e, então, tente fazer o movimento 
+correto. Se você estiver perdido, clique no botão Solve Puzzle para ver 
+a solução. Se quiser outro quebra-cabeça, você pode escolher entre os 
+oito tipos de quebra-cabeças e, depois, clicar no botão Another Puzzle 
+(Outro Quebra-Cabeça). Ou, se não quiser escolher, use o botão New 
+Random Puzzle (Novo Quebra-Cabeça Aleatório). A seção Fun/Puzzles 
+tem sua própria barra de atalhos:
+Novo quebra-cabeça aleatório
+Outro quebra-cabeça
+O segundo local com quebra-cabeças no Chessmaster é uma coleção 
+de problemas de xadrez desenvolvidos pelo GM britânico John Nunn. 
+Eles estão disponíveis no capítulo Learn/Academy/Chessmaster Series/
+Advanced/Nunn’s Puzzles. Esta coleção é mais difícil que a área Fun/
+Puzzles, mas é também mais gratificante, já que os quebra-cabeças são 
+comentados. O inconveniente é que há somente 50 deles.
+Para cada quebra-cabeça, você precisa fazer o movimento correto ou 
+selecionar a casa correta no tabuleiro.
+Jogando os Minijogos
+O Chessmaster convida você a experimentar um novo modo de jogo: os 
+minijogos. Em Fun/Mini-games você encontrará 3 minijogos de xadrez: 
+Fork My Fruit, Minefield, e Pathfinder. Eles são exercícios perfeitos para 
+sua mente, que melhoram sua memória e podem ajudá-los a analisar e 
+aprimorar suas habilidades.
+
+18
+19
+Fork My Fruit
+O tema deste jogo é usar garfos de xadrez com várias peças de xadrez. 
+Um tabuleiro é mostrado contendo uma seleção aleatória de frutas, tais 
+como maçãs, laranjas e bananas. O jogador tem uma seleção de peças 
+brancas posicionadas no tabuleiro. O jogador deverá, então, “garfar” a 
+fruta movendo uma peça de xadrez de forma que ela ataque duas ou 
+mais frutas do mesmo tipo. As frutas então desaparecem, marcando 
+pontos, e novas frutas substitutas aparecem aleatoriamente.
+Minefield
+Este jogo contém algumas minas escondidas aleatoriamente. O jogador 
+começa com um determinado posicionamento das peças brancas, mas 
+não há pedras pretas. Em vez disso, há minas escondidas ao acaso em 
+algum lugar entre o 4º e o 8º grau. Se o jogador mover uma peça para 
+uma mina (ou por sobre ela) ele perde o jogo, a não ser que a mina esteja 
+atacada por 2 ou mais peças. Neste caso, a mina pode ser "desarmada" 
+com segurança e destruída. Após mover uma peça, qualquer uma que 
+estiver atacando a mina naquele momento se acende. O jogador deve 
+limpar todas as minas dentro de um número limitado de movimentos.
+Pathfinder
+O jogador tem o controle sobre uma peça, que pode se mover livremente 
+por todo o tabuleiro e pode capturar as peças que aparecem.  Ao capturar 
+uma peça, uma cópia desta do jogador aparece e a segue, agindo como 
+uma cauda. Esta cresce à proporção que cada peça é capturada. O 
+objetivo é fazer que a cauda fique de um tamanho determinado (número 
+de peças) antes que o fim do limite de movimentos seja atingido. Se 
+o jogador pegar uma peça de sua própria cauda, ele perde o jogo. À 
+medida que o jogo avança, um número de obstáculos aparecerá no 
+tabuleiro como desafios extras para o jogador. No caso das peças pretas 
+no tabuleiro, elas podem capturar a peça do jogador (o que significaria 
+fim de jogo) ou a cauda (o que diminui o tamanho desta).
+JOGANDO CONTRA A IA
+Uma das melhores qualidades do Chessmaster é sua versatilidade - é o 
+único programa de xadrez no mundo que permite que você jogue contra 
+190 oponentes controlados pelo computador, todos distintos. Desta 
+forma, não importa qual a força de seu jogo, você sempre encontrará 
+alguém contra quem jogar (e derrotar).
+Indo direto ao jogo – O modo Training 
+(Treinamento)
+Para começar imediatamente uma partida, selecione o botão Play/
+Training Mode no Menu Principal. Isto o levará diretamente à tela de 
+jogo. Se for a primeira vez que você joga, o Chessmaster irá escolher 
+automaticamente o seu oponente, de acordo com a sua graduação. 
+Da segunda partida em diante, você enfrentará o último oponente 
+com quem jogou. Claro, você pode alterar a qualquer momento o seu 
+oponente.
+A Tela de Jogo
+É aqui que você passa a maior parte do tempo no Chessmaster. Os 
+elementos visíveis na tela são: 
+O Tabuleiro
+Para segurar uma peça, clique nela e mantenha o botão esquerdo do 
+mouse pressionado. Quando você move o cursor sobre uma peça, ele 
+assume a forma de uma mão. Observe também a casa colorida – ela 
+o ajuda a saber exatamente qual peça você irá segurar.
+• Para mover uma peça, segure-a e solte-a na casa desejada.
+• Para girar o tabuleiro, use as teclas para a esquerda e para a direita.
+• Para inclinar o tabuleiro, use as teclas para cima e para baixo.
+• Para se aproximar ou se afastar, use a roda do mouse ou as teclas 
+Page Up/ Page Down.
+• Para virar o tabuleiro, use o comando Preferences/Flip Board.
+A Janela Captured Pieces (Peças Capturadas)
+Há três exibições possíveis das peças 
+capturadas: Fixed Position (Posições Fixas) 
+exibe os símbolos de cada tipo de peça e o 
+número de peças capturadas em cada tipo; 
+Order of Capture (Ordem de Captura) mostra 
+todas as peças capturadas na ordem em que o 
+foram; e, finalmente, Piece Value (Valor da 
+Peça) apresenta todas as peças capturadas 
+pela ordem de valor de cada uma(rainhas 
+primeiro, etc.).
+Para alterar o formato de exibição, clique no 
+pequeno ícone ao lado do ícone Minimizar ou 
+use o menu Preferences/Captured Pieces.
+
+20
+21
+A Janela Game Status (Status de Jogo)
+Esta janela exibe as informações mais importantes sobre o jogo em 
+andamento: nomes, imagens, graduações e cor dos jogadores, seus 
+cronômetros e os controles de tempo de ambos os oponentes, além da 
+lista de movimentos. Os significados dos pequenos ícones acima da 
+lista de movimentos são: Começo, Jogar de Trás para Frente, Anterior, 
+Parar, Próximo, Jogar, Fim. Durante os jogos no Modo Ranked Play (Jogo 
+Graduado), estes ícones estarão acinzentados e não podem ser usados.
+Assim que um jogador faz seu movimento, seu cronômetro é interrompido 
+e o do oponente iniciado. Você pode deduzir qual jogador deve mover 
+sua peça olhando seu cronômetro – ele não somente avança como 
+também muda de cor.
+The Chess Coach (Instrutor de Xadrez)
+O Instrutor de Xadrez é uma coleção das dicas 
+visuais. A maioria das dicas está disponível somente 
+no modo Training (Treinamento); entretanto, 
+Openings (Aberturas) também estão disponíveis 
+durante o modo Ranked Play (Jogo Graduado).
+Os quatro tipos de dicas visuais disponíveis:
+Moves (Movimentos): Exibe setas representando 
+os vários tipos de movimentos. As setas azuis 
+são os movimentos legais; as vermelhas,  de 
+capturas; verdes, de defesa; vermelhas pontilhadas, 
+movimentos de pregadura ou de raios x; e as setas 
+malvas, movimentos de xeque ou xeque-mate.  Os 
+jogadores podem selecionar várias dicas ao mesmo 
+tempo, mesmo se isto congestionar o tabuleiro.
+Pieces (Peças): Exibe dicas específicas das 
+peças – peões passados ou isolados se tornam 
+semitransparentes.
+Board (Tabuleiro): Exibe várias informações no 
+tabuleiro destacando as casas. Casas verdes estão 
+seguras (Safe), vermelhas são perigosas (Danger). 
+Legal Moves (Movimentos legais) também exibe todos 
+os movimentos possíveis para a peça selecionada.
+Openings (Aberturas): Exibe os movimentos de 
+aberturas para a posição atual, usando os conhecidos 
+símbolos pontos-e-círculos do modo de jogo Learn/
+Opening. (Veja a seção Praticando Aberturas).
+Show Hints (Mostrar Dicas): Exibe as dicas para as 
+Brancas (White) ou para as Pretas (Black). Com a finalidade de facilitar 
+o acesso, a tecla TAB duplica as definições – pressionar TAB irá exibir 
+as dicas visuais atualmente selecionadas, mas para o outro lado, sejam 
+Brancas ou Pretas.
+Isto é muito útil, pois mostra as possíveis retaliações do oponente. 
+De fato, o uso que remendamos do Instrutor de Xadrez é pegar uma 
+peça e movê-la para casa de destino, mas ainda mantendo-a acima do 
+tabuleiro, e pressionar TAB para verificar se este movimento não o levará 
+ao desastre.  Mais detalhes sobre a ferramenta Instrutor de Xadrez estão 
+disponíveis na seção Obtendo Conselho.
+A Barra de Atalhos
+A barra de atalhos aparece em todos os modos de jogo. A estrutura da 
+barra de atalhos no modo Training (Treinamento) é:
+Novo Jogo
+Propor Empate
+Retroceder Movimento
+Ligar / Desligar Alerta Contra Gafes
+Conselho
+Dica Rápida
+Desistir
+O ícone New Game (Novo Jogo) exibe a janela New Game e permite que 
+você configure um jogo com os parâmetros que quiser (oponente, cor, 
+controle de tempo, etc.).
+O ícone Offer Draw (Propor Empate) somente pode ser usado no seu 
+turno e permite que você requeira um empate. O oponente pode aceitar 
+o empate ou rejeitá-lo. Se rejeitá-lo, você não pode propor um empate 
+no mesmo turno.
+O ícone Quick Hint (Dica Rápida) exibe no tabuleiro o movimento que 
+o Chessmaster acha que deveria ser feito. Há três etapas para a Dica 
+Rápida: clicando uma vez no ícone, será destacada a casa de destino 
+(descobrir qual peça deve ser movida é por sua conta). No segundo 
+clique, a peça a ser movida também será destacada. No terceiro clique, 
+o Chessmaster mostra o movimento na notação algébrica e se oferece 
+para realizá-lo por você. 
+O ícone Turn Blunder Alert On/Off (Ligar/Desligar o Alerta contra Gafes) 
+ativa ou desativa esta ferramenta de alerta. O ícone Take Back Move 
+(Retroceder Movimento) permite que você volte o último movimento 
+que fez.
+O ícone Advice (Conselho) lhe fornecerá um auxílio mais detalhado, após 
+você definir o tempo que o Chessmaster deve pensar sobre a posição. 
+O ícone Resign (Desistir) permite que você desista imediatamente do 
+jogo.
+No modo Ranked Play (Jogo Graduado), a barra de atalho só contém os 
+ícones Novo Jogo, Propor Empate e Desistir.
+
+22
+23
+Configurando o Jogo
+ Para configurar o jogo e escolher 
+o oponente, a cor e os controles 
+de tempo, basta clicar no ícone 
+Novo Jogo na barra de tarefas ou 
+escolher Game/New Game (no 
+menu suspenso) ou Actions/New 
+Game (no menu do botão da 
+direita). Isto irá abrir a janela 
+New Game Details (Detalhes no 
+Novo Jogo).
+Para 
+definir 
+os 
+oponentes, 
+primeiro, escolha se eles serão 
+humanos (clicando no ícone 
+silhueta) ou IAs (clicando no 
+ícone computador).  Para alterar o 
+oponente, clique no botão Select. 
+Uma lista de todos os oponentes 
+IA disponíveis será exibida. Você pode correr a lista e ler as biografias 
+dos seus oponentes ou filtrá-los por tipo, idade ou graduação. Pressione 
+OK após selecionar a IA que você quer. 
+Para definir com que cor jogar, use o botão Rotate Board (Girar 
+Tabuleiro) - se não puder vê-lo, assegure-se de que a guia Colors está 
+selecionada. Para definir os controles de tempo para o jogo, selecione a 
+guia Time Controls. Existem seis controles de tempos:
+•	 Moves/Minutes (Movimentos/Minutos): Especifica o número de 
+movimentos que cada jogador precisa fazer em certo número de 
+minutos. Muitos torneios são jogados desta forma.
+• Seconds per Move (Segundos por Movimento): Especifica o número de 
+segundos que cada jogador tem para fazer o seu movimento. Este 
+controle de tempo é útil para definir a quantidade de tempo que o 
+computador tem para realizar o movimento. Tenha em mente que este 
+é o tempo médio que o computador leva para completar o movimento 
+e pode ser maior ou menor em um movimento em específico.
+• Minutes per Game (Minutos por Jogo): Especifica o número de minutos 
+que cada jogador tem para completar o jogo inteiro. • Fischer Style 
+(Estilo de Fischer): Designa a cada jogador um número específico de 
+minutos para completar a partida, com certo número de segundos 
+adicionado ao jogo a cada vez que um jogador fizer um movimento.
+• Infinite Time (Sem Limite de Tempo): Sem qualquer limitação de tempo 
+ao jogo. O uso deste controle de tempo fará que o oponente IA pense 
+bastante antes de mover, portanto use extensivamente o comando 
+Force Move (Forçar Movimento). Consulte a seção Jogando Contra a 
+IA para mais detalhes sobre o comando Forçar Movimento. 
+• Hourglass (Ampulheta): Cada jogador ganha um número específico de 
+segundos por movimento no início do jogo. Assim, um jogador usa 
+determinado tempo, o outro ganha a mesma quantidade de tempo 
+(como uma ampulheta). Portanto, se você mover rapidamente, forçará 
+seu oponente a fazer o mesmo. 
+Alguns dos controles de tempo têm a opção Separate Time Controls 
+(Controle de Tempos Separados). Quando esta é selecionada, serão 
+exibidos dois grupos de valores de tempo para você definir – um para 
+cada jogador. Isto é útil se você quer mais ou menos tempo que o seu 
+oponente e é um bom modo de equilibrar o jogo entre jogadores com 
+diferentes habilidades. 
+Finalmente, você pode decidir alterar as regras do jogo dando a um 
+dos jogadores algumas peças – a isto se chama Set Up a Handicap 
+(Definindo uma Vantagem) – ou jogar uma blindfold chess (partida 
+de olhos vendados). Ambas as opções estão disponíveis na guia Rules 
+(Regras).
+Jogando uma partida
+O jogo começa assim que você ou o seu oponente fizer um movimento. 
+Até então, os cronômetros estão parados.
+Se você estiver com as Brancas, moverá primeiro. Se possuir as Pretas, 
+deve esperar até que o seu oponente faça o movimento.
+Para mover uma peça, segure-a e solte-a na casa desejada. Se o 
+movimento for legal, a peça irá se mover para lá. Caso contrário, a peça 
+não se move e você receberá um aviso que também é exibido na barra 
+de status. 
+Se cometer um erro, você pode voltar o seu movimento. Esta ação está 
+disponível somente nos modos de jogo Training (Treinamento) e Set Up 
+Position (Posição Definida) e pode ser feita de dois modos:
+•	 Clique no ícone Take Back Move (Retroceder Movimento) na barra de 
+atalhos.
+• Use o item do menu Actions/Take Back Move tanto no menu suspenso 
+quando no menu do botão da direita.
+Após retroceder um movimento, você pode querer repetir o movimento 
+que acabou de retroceder. Assim como retroceder um movimento, essa 
+ação está disponível apenas nos modos de jogo Training (Treinamento) 
+e Set Up Position (Posição Definida) e pode ser feita usando o item do 
+menu Actions/Take Back Move tanto no menu suspenso quanto no menu 
+do botão da direita
+Atenção! Quando você estiver jogando contra uma personalidade 
+controlada pelo computador, retroceder um movimento na vez de seu 
+oponente irá interromper o raciocínio do computador. Neste caso, você 
+precisa esperar sua vez e, então, realizar essa ação. Quando você fizer 
+um novo movimento, o computador despertará e o jogo será retomado.
+Se você joga contra uma personalidade controlada pelo computador e 
+o seu oponente demorar muito para mover, você pode forçá-lo a fazer 
+o movimento. Para fazer isso, use o menu Action/Force Move disponível 
+tanto no menu do botão da direita quando no suspenso. Esta ação só
+
+24
+25
+está disponível nos modos de jogo Training (Treinamento) e Set Up 
+Position (Posição Definida).
+Você pode querer jogar com as peças do seu oponente a partir de um 
+momento qualquer do jogo. Você faz isto trocando os lados. Para trocar 
+os lados, use o menu Action/Switch Sides disponível tanto no menu 
+do botão da direita quando no suspenso. Esta ação só está disponível 
+nos modos de jogo Training (Treinamento) e Set Up Position (Posição 
+Definida).
+Para interromper um jogo, use o item Action/Pause ou o atalho de 
+teclado Ctrl+P.
+Você pode perceber que não tem como vencer e quer terminar o jogo 
+mais rapidamente. Para desistir de um jogo, clique no ícone Resign na 
+barra de atalhos ou use o item Action/Resign.
+Há jogos em que, devido ao equilíbrio da situação, você acha que nem 
+você nem seu oponente irão ganhar. Para propor um empate ao seu 
+oponente, clique ou no ícone Offer Draw da barra de tarefas ou use o 
+item Action/Offer Draw.
+Se quiser simplesmente sair do jogo e voltar ao Menu Principal, clique 
+no grande ícone de seleção na barra de navegação. Entretanto, você 
+também pode usar a barra de navegação para acessar com rapidez outro 
+modo de jogo sem ter de passar pelo Menu Principal – tire o máximo 
+proveito desta ferramenta. Consulte Barra de Navegação na seção 
+Interface do Usuário.
+Se você deseja planejar vários movimentos antecipadamente, poderá 
+usar um tabuleiro secundário disponível para experimentações durante 
+os jogos de treinamento.
+Quando o modo Memo Board (Tabuleiro de Anotações) está ativado, o 
+jogador pode mover as Brancas e as Pretas em turnos, desenvolvendo 
+visualmente as variações da posição atual. Esta ferramenta é voltada 
+aos jogadores iniciantes que precisam ver os movimentos jogados no 
+tabuleiro.
+Fundamentalmente, o Tabuleiro de Anotações é uma cópia visual do 
+tabuleiro. Enquanto o oponente estiver pensando, um jogador pode 
+mudar para o modo Tabuleiro de Anotações e construir as variações. 
+Para simplificar as manipulações, mantivemos um único tabuleiro 
+visível, quando há de fato dois virtuais disponíveis: o tabuleiro do modo 
+Game (Jogo) e o do modo Memo Board (Tabuleiro de Anotações). 
+A opção de menu Windows/Memo Board, disponível tanto no menu do 
+botão da direita quanto no suspenso, irá ativar o Tabuleiro de Anotações. 
+O significado das várias opções são:
+• Auto Switch (Troca Automática): automaticamente volta ao tabuleiro do 
+modo Jogo se o oponente fez o movimento.
+• Update (Atualizar): atualiza a atual situação do tabuleiro do modo Jogo 
+para o do modo Tabuleiro de Anotações.
+• Auto Update (Atualizar Automaticamente): atualiza automaticamente o 
+Tabuleiro de Anotações assim que o oponente fizer seu movimento.
+Pressionar o grande botão alterna entre os tabuleiros do modo Jogo 
+normal e o do modo Tabuleiro de Anotações (o texto do botão se altera 
+para refletir isto).
+Um novo elemento no Chessmaster: Grand Master Edition é o modo 
+Analysis (Análise) disponível usando-se o menu Actions/Analysis Mode 
+(ou clicando com o botão direito), um modo que o ajuda a experimentar 
+com futuros desenvolvimentos do jogo, não apenas no modo Training, 
+mas também durante Jogos Graduados, Torneios e durante partidas 
+online.
+Tenha cuidado, pois se usá-lo durante seu movimento, o cronômetro não 
+para de correr. Quando usar este modo durante a vez do oponente, o 
+cronômetro dele é interrompido.
+Análise Após o Jogo
+Após cada jogo, o Chessmaster exibe a janela Post-Game Analysis, 
+contendo um breve texto que resume o jogo e sugere, ou não, um novo 
+oponente.
+O texto exibido contém:
+• Uma avaliação geral do jogo.
+• Uma classificação do jogo por tipo:
+- Dominated (Dominado – quando o vencedor nunca perdeu a 
+vantagem).
+- Blunder (Gafe – quando a vitória/derrota foi causada por um erro).
+- Balanced (Equilibrado – quando mais de 40% do jogo consistiu em 
+empate).
+- Disputed (Disputado – quando ambos oponentes alternaram a 
+vantagem).
+• A abertura usada.
+• O oponente sugerido.
+• A modificação na graduação (nos jogos graduados / Ranked Play).
+Você pode ver um gráfico do jogo usando o botão Game Chart. O eixo X 
+indica os movimentos e o eixo Y a situação geral após cada movimento, 
+conforme observado pelo Chessmaster. Os valores positivos são 
+favoráveis às Brancas, os negativos favoráveis às Pretas.
+Para ver o valor exato de cada movimento, mantenha o cursor sobre os 
+vértices do gráfico. Os valores são exibidos sobre o gráfico.
+Para jogar contra o oponente sugerido, clique no botão Play Suggested 
+Opponent.
+
+26
+27
+Você também pode analisar o jogo a partir da janela PostGame Analysis 
+usando o botão Analyse Game.
+Assim que for fechada, a janela PostGame Analysis não pode ser 
+reexibida, portanto, cuidado.
+Obtendo Conselho
+Quando estiver jogando nos modos Training (Treinamento) e Set 
+Up Position (Posições Definidas), você pode pedir conselhos ao 
+Chessmaster. 
+Para obter uma dica rápida, clique no ícone Quick Hint na barra de 
+atalho ou acesse o menu Mentor/Quick Hint.
+Ao usar a ferramenta de dica, será exibido no tabuleiro o movimento que 
+o Chessmaster acha que deveria ser feito. Há três etapas para a Dica 
+Rápida: clicando uma vez no ícone, será destacada a casa de destino 
+(descobrir qual peça deve ser movida é por sua conta). No segundo 
+clique, a peça a ser movida também será destacada. No terceiro clique, 
+o Chessmaster exibe o movimento na notação algébrica e se oferece 
+para fazer o movimento para você.
+Um auxílio melhor pode ser obtido clicando no ícone Advice (Conselho) 
+na barra de tarefas ou usando o menu Mentor/Advice. Forneça o número 
+de segundos que você quer que o Chessmaster leve para analisar sua 
+posição e determinar o melhor movimento e depois selecione o botão 
+Think (Pense). O Chessmaster usa o tempo especificado para pensar e, 
+então, sugerir um movimento.
+Durante a explanação falada, você pode usar o botão Pause para parar 
+a explanação e retomá-la depois no mesmo ponto ou pode usar o botão 
+Stop para interrompê-la e voltar ao início.
+O Chessmaster fornece um Instrutor de Xadrez muito útil - o Chess 
+Coach, um conjunto de dicas visuais que o ajuda a desenvolver e 
+melhorar sua habilidade estratégica e tática de jogo e aprimorar sua 
+consciência das diferentes posições durante o jogo.
+Para exibir o Instrutor de Xadrez, use o item de menu Mentor / 
+Chess Coach disponível tanto no menu do botão da direita quanto no 
+suspenso.
+As opções do Instrutor de Xadrez são:
+•	 Moves/All Legal Moves (Movimentos/Todos os Movimentos Válidos): 
+Exibe todos os movimentos possíveis, legais, usando setas azuis.
+•	 Moves/Capture Moves (Movimentos/Movimentos de Captura): Mostra 
+todos os movimentos de captura usando setas vermelhas: finas 
+para trocas e grossas para as capturas que levam a uma vantagem 
+material. Peças defendidas e seus defensores são exibidos usando 
+setas verdes.
+•	 Moves/Pin Moves and Skewer Moves (Movimentos de Pregadura e de 
+Raios X): Mostra todos os movimentos de pregadura (pin) ou de raios x 
+(skewer). Peças pregadas não podem, ou não devem, ser movidas pois 
+estão protegendo uma peça de maior valor. Peças em raios x estão 
+protegendo as peças de menor valor de ataque na mesma fileira, linha 
+ou diagonal. A habilidade de identificar as peças de pregadura e as 
+de raios x são essenciais para uma habilidade mediana de jogo.
+•	 Moves/Check Moves (Movimentos/Movimentos de Xeque): Mostra todos 
+os movimentos de xeque. Um xeque é um ataque direto ao rei do 
+oponente.
+•	 Pieces/Isolated Pawns (Peças/Peões Isolados): Expõe os peões isolados 
+que não estão diretamente apoiados por outro peão da mesma cor e 
+estão potencialmente enfraquecidos.
+•	 Pieces/Passed Pawns (Peças/Peões Passados): Destaca os peões 
+passados que não têm nenhum peão inimigo na frente ou adjacente 
+a sua fileira. Peões passados são considerados fortes, pois possuem 
+o caminho liberado para a promoção. A habilidade de identificar os 
+peões passados é parte essencial das táticas de fim de jogo.
+•	 Board/Legal Moves (Tabuleiro/Movimentos Válidos): Enfatiza as casas 
+de destino possíveis para a peça selecionada usando o verde para as 
+seguras e vermelho para as perigosas.
+•	 Board/Danger Zones (Tabuleiro/Zonas de Perigo): Todas as casas perigosas 
+(controladas pelo lado oposto) são destacadas em vermelho.
+•	 Board/Safe Zones (Tabuleiro/Zonas Seguras): Todas as casas seguras 
+(não controladas pelo lado oposto) são destacadas em verde.
+•	 Board/Board Coverage (Tabuleiro/Cobertura do Tabuleiro): Destaca todas 
+as casas do tabuleiro cobertas por ambos os lados, usando verde 
+ou vermelho de acordo com o lado controlado (verde para o lado 
+atualmente selecionado, vermelho para o oponente). Use este modo 
+para ver todas as casas protegidas por suas peças.
+Outro recurso de grande auxílio é o Blunder Alert (Alerta contra Gafe), 
+que o avisará se você fizer um movimento que pode resultar em um 
+xeque-mate ou na perda de uma peça de xadrez importante. Este 
+recurso está desligado por padrão.
+Para ligar o Alerta contra Gafe, clique no ícone Turn Blunder Alert On/
+Off na barra de atalhos ou use o menu Mentor/Blunder Alert.
+Quando você faz um movimento desastroso, o Alerta contra Gafe emergirá 
+na tela. Para descobrir porque o Chessmaster acha o movimento ruim, 
+clique em Why? Então, poderá escutar a explicação do movimento se 
+pressionar o botão Play. Para retroceder seu movimento, clique em I 
+Take It Back. Se discordar e quiser manter o seu movimento, clique em 
+Disagree.
+Para desligar o Alerta contra Gafe, clique no ícone na barra de atalhos, 
+use o menu Mentor/Blunder Alert ou desmarque a caixa de verificação 
+na janela dele.
+Durante a finalização dos jogos, o Chessmaster pode ajudá-lo a 
+encontrar um xeque-mate. Para achar um xeque-mate, use o menu 
+Mentor/Solve for Mate disponível tanto no menu do botão da direita 
+quanto no suspenso. Defina o número de movimentos que você quer que
+
+28
+29
+o Chessmaster antecipe para buscar um xeque-mate e, então, clique 
+em Think. Se o Chessmaster concluir sua busca, clicar no botão Move 
+adiciona os movimentos um a um à Lista de Movimentos.
+Uma das ferramentas de auxílio mais interessantes do Chessmaster 
+permite que você analise um jogo a fim de descobrir seus movimentos 
+ruins e bons. Para analisar um jogo, use o comando de menu Mentor/
+Game Analysis disponível tanto no menu do botão da direita quanto no 
+suspenso. Primeiro, forneça o número de segundos que o Chessmaster 
+deve levar para analisar cada movimento, depois clique no botão Think. 
+A janela de Anotação será exibida automaticamente.
+Para escutar o comentário, clique no botão Play. Para visualizar os 
+comentários sobre cada movimento, use a lista Move (Movimento): 
+Basta clicar no movimento para exibir ou usar os ícones First Move 
+(Primeiro Movimento), Next (Próximo), Previous (Anterior) e Last Move 
+(Último Movimento).
+Salvando e Recuperando Jogos
+Para salvar um jogo, use o item de menu File/Save no menu suspenso. 
+Esta ação não está disponível no menu do botão da direita.
+Para carregar um jogo, use o item de menu File/Load no menu suspenso. 
+Esta ação não está disponível no menu do botão da direita.
+Durante os jogos em modo Ranked Play (Jogos Graduados), você não 
+pode salvar um jogo a menos que ele esteja finalizado. Entretanto, você 
+pode adiar um jogo – ou seja, suspendê-lo e retomá-lo outra hora. Para 
+adiar um jogo no modo Jogo Graduado, use o item Actions/Adjourn. Será 
+perguntado se você quer adiar o jogo. Se escolher adiar, o jogo será 
+gravado e você poderá carregá-lo mais tarde. No modo Jogo Graduado, 
+você só pode carregar jogos graduados adiados.
+Diversas Configurações de Jogo
+Todas as configurações de jogo podem ser encontradas no menu 
+Preferences (Preferências), acessível tanto pelo menu do botão 
+da direita quanto pelo menu suspenso. Há duas seções: aquelas 
+definições relacionadas ao jogo e as definições da Interface. Para 
+conhecer as configurações relacionadas à Interface, consulte a seção 
+Ajustes na Interface do Chessmaster. Para alterar as peças de xadrez 
+usadas, basta acessar o menu Preferences/Chess Set. Isto irá exibir a 
+janela Select Chess Pieces and Board (Selecionar Peças e Tabuleiro 
+de Xadrez), em que você pode explorar a lista de opções disponíveis. 
+Há três tipos de peças de xadrez disponíveis: 2D, 3D e 3D animado. 
+Alguns dos conjuntos de xadrez estão bloqueados e somente podem 
+ser usados após certas condições serem cumpridas (como “Ganhe N 
+jogos Graduados").
+Para virar o tabuleiro e ver o jogo a partir da perspectiva de seu 
+oponente, use o item Preferences/Flip Board.
+Para ligar ou desligar o som dos movimentos, use Preferences/Sound a 
+fim de exibir a janela Chessmaster Sounds (Sons do Chessmaster). 
+Clique na guia Piece Movement (Movimento de Peças) para exibir os 
+botões de seleção e, então, escolha entre: No Sounds (Sem Som), 
+Thematic Sound Sets (Conjuntos de Sons Temáticos – diferentes sons 
+para diferentes conjuntos) ou Spoken Move Announcements (Locução 
+dos Movimentos – em vez de ouvir as peças tocarem o tabuleiro, uma 
+voz neutra irá ditar os movimentos).
+Na mesma janela, você pode definir o uso de voz clicando na guia Voice 
+ou pode definir os vários sons de aviso das janelas e sons dos avisos 
+on-line (amigo ficando on-line, bate-papo, desafio) clicando na guia 
+Effects.
+Para escolher as configurações de tabuleiro, use Preferences/Board 
+Settings.
+• Move Highlights (Jogadas em Destaque): O Chessmaster repete cada 
+movimento destacando a casa original da peça movida e, então, a 
+casa de destino. A ênfase pode ser por seleção das casas ou por setas 
+traçadas do início ao destino.
+• Piece Movement (Movimento de Peça): define a manipulação das peças. 
+O método padrão é segurar e arrastar, e o alternativo é o movimento 
+com dois cliques, o primeiro para selecionar a peça e o outro na casa 
+de destino.
+• Quick Entry (Entrada Rápida): permite que você mova com rapidez uma 
+peça apenas com um clique na casa de destino em vez de ter de 
+segurá-la e soltá-la. Quando o modo Entrada Rápida está ativo, e você 
+clicar em uma peça que tenha somente um movimento legal, este 
+movimento será feito. Se você clicar em uma casa para qual somente 
+uma peça pode se mover, este movimento será feito. Por padrão, este 
+modo está desligado.
+• Sliding Pieces (Deslizamento de Peças): o valor padrão é ligado e as 
+peças do seu oponente irão deslizar rapidamente pelo tabuleiro. Se 
+desligar essa ferramenta, as peças do oponente irão saltar para seus 
+destinos.
+As Global Visual Settings (Configurações Visuais Globais) afetam a 
+aparência em geral do Chessmaster:
+•	 Stereo 3D faz uso da nossa visão estereoscópica exibindo os conjuntos 
+3D em um impressionante 3D “real” (requer o uso de óculos com 
+lentes vermelho/ciano).
+• Glare é um efeito visual disponível nos conjuntos 3D que define a 
+claridade – um complexo uso de luzes similares a um fino nevoeiro 
+envolvendo as peças.
+• Board Visual Settings define as várias configurações visuais da placa 
+como o uso de reflexos, mapeamento de saliências (bump mapping) 
+ou transições animadas de tabuleiro quando um novo conjunto de 
+xadrez for carregado.
+
+30
+31
+• Finalmente, Shadows define o tipo de sombras usadas.
+Para alterar o sistema de notação usado, use o menu Preferences/
+Notation. A opção selecionada estará marcada. Se você não tem 
+familiaridade com a notação de xadrez, sugerimos que você use os 
+tutoriais Academy/Chessmaster Séries para aprender sobre os vários 
+métodos de registro dos jogos de xadrez.
+Para alterar as configurações do mecanismo, use o menu Preferences/
+Engine para abrir a janela Engine Settings.
+Cuidado: As alterações são por sua conta e risco.
+•	 O Blunder Alert Threshold define o limiar da atenção da ferramenta de 
+Alerta contra Gafe.
+•	 O Transposition Table Memory define a quantidade de memória usada 
+na Tabela de Transposição que serve para armazenar os resultados 
+das análises a fim de se evitar a repetição de avaliações de posições 
+idênticas.
+•	 Chess Engine Priority define o equilíbrio do uso da CPU para o 
+mecanismo de xadrez e para a renderização e interface.
+•	 Blunder Alert Priority define o equilíbrio do uso da CPU para o 
+mecanismo PGA e para a renderização e interface.
+Ajustes na Interface do Chessmaster
+A nova interface do Chessmaster pode ser completamente personalizada. Você 
+pode criar o seu próprio layout, jogar usando um dos 36 conjuntos de xadrez 
+existentes e escolher qualquer uma das skins gráficas disponíveis (ou mesmo 
+criar a sua própria).
+O layout da área de jogo inclui o conjunto de xadrez, sua posição, a skin 
+usada para a interface, o papel de fundo e a posição e tamanho de todas as 
+janelas exibidas. Para salvar o layout atual, clique no menu Preferences/Layout 
+e escolha Save. Cuidado para não sobrescrever os layouts padrões.
+Para carregar um layout salvo, clique no menu Preferences/Layout e escolha 
+Load. Se você quiser restaurar o layout padrão, clique em Preferences/Layout/
+Restore Default.
+Para alterar o pano de fundo da área de jogo, use o menu Preferences/
+Background. Você pode escolher entre usar um bitmap ou usar um gradiente 
+de cor. Observe que todos os conjuntos de xadrez têm seus panos de fundo 
+pré-definidos; para evitar o uso do pano de fundo do conjunto, desmarque a 
+caixa no menu Preferences/Chess Set.
+Para alterar a skin da interface, use o menu Preferences/Skin.
+Você pode escolher qualquer skin que goste dentre as 7 disponíveis. Em 
+sistemas mais lentos, carregar uma skin pode demorar.
+Para alterar o seu avatar, use o menu Preferences/Avatar.
+Para adicionar sua própria imagem no jogo, troque um dos bitmaps na pasta 
+Data/Avatars. Assegure-se de que a imagem está no formato bitmap de 24 bits 
+de cor, que possua 76x97 pixels e tenha o mesmo nome que o bitmap que 
+você está substituindo.
+Jogando uma Partida Graduada
+Após ter passado algum tempo no modo Training (Treinamento), você 
+provavelmente está curioso para ver quão bem está indo. O Chessmaster 
+permite que você descubra qual a sua real força de jogo usando o modo 
+Ranked Play (Jogo Graduado). Neste modo de jogo, os menus Mentor 
+não estão disponíveis, você não pode retroceder seus movimentos e, 
+ao final de cada jogo, sua graduação é modificada de acordo com o 
+resultado.
+Em outras palavras, você está jogando para valer e todas as suas 
+ações no tabuleiro terão conseqüências, da mesma forma que em uma 
+competição real.
+Quando você criou o seu alter ego (veja a seção Seu Alter Ego), o 
+chessmaster computou uma graduação inicial para você baseado nas 
+suas respostas a várias questões (idade e nível de conhecimento de 
+xadrez).
+Aquilo é apenas uma estimativa apressada. Para que sua graduação 
+tenha realmente um significado, você precisa deixar a sua graduação 
+desenvolver-se conforme for jogando mais jogos graduados.
+Durante seus primeiros 20 jogos graduados, a graduação do seu xadrez 
+ainda é provisória. Durante estes jogos, sua graduação irá se desenvolver 
+bem rapidamente para uma representação mais apurada da força de 
+seu jogo. Depois disto, sua graduação irá desenvolver muito mais 
+lentamente.
+Para jogar uma partida graduada, selecione o modo Play/Ranked Play no 
+Menu Principal.
+A primeira coisa é definir o seu jogo, da mesma forma que você vez no 
+modo de treinamento (veja Configurado o Jogo na seção Jogando Contra 
+a IA). A diferença é que você não pode mais jogar contra um oponente 
+humano e o número de modos de controle de tempo disponíveis é menor 
+(estão fora segundos/movimento e sem limite de tempo).
+Para ver como a sua graduação pode se alterar jogando contra o 
+oponente atual, leia a descrição na área superior da janela. A descrição 
+contém a sua graduação atual e a quantidade que ela irá se alterar. Por 
+exemplo, “loss (derrotas): -424, draw (empates): -24, win (vitórias): 
++376” significa que a sua graduação irá cair 424 pontos se perder, 24 
+pontos se empatar e subirá 376 pontos se vencer.
+Durante os jogos graduados, o único recurso de ajuda disponível é o 
+Chess Coach’s Opening Moves (Movimentos de Abertura do Instrutor 
+de Xadrez).
+
+32
+33
+Configurando Posições
+O modo de jogo Play/Set Up 
+Position (Posições Definidas) do 
+Chessmaster permite que você 
+defina 
+um 
+posicionamento 
+específico no tabuleiro. Depois, 
+você pode pedir uma analise ou 
+jogá-lo você mesmo.
+O modo Posições Definidas possui 
+uma pequena janela que contém 
+todas as ferramentas necessárias 
+para criar qualquer posicionamento no tabuleiro.
+Para limpar o tabuleiro e deixar apenas os dois reis, clique no botão 
+Clear Board.
+Para voltar o tabuleiro à sua posição inicial, clique no botão Starting 
+Position.
+Para escolher uma peça no menu, clique nela. Ela permanecerá 
+marcada.
+Para colocar uma peça no tabuleiro, clique na casa alvo. A peça irá 
+aparecer no tabuleiro. Se você tentar colocar uma peça sobre outra do 
+mesmo tipo, a já colocada no tabuleiro será apagada e a casa ficará 
+vazia. Se você tentar colocar uma peça sobre outra, a já colocada no 
+tabuleiro será apagada e a nova tomará seu lugar.
+Para mover uma peça para outra posição no tabuleiro, selecione o ícone 
++ na janela, clique na peça no tabuleiro e, então, na casa de destino.
+Para excluir uma peça do tabuleiro, selecione o ícone X na janela Set Up 
+Board Position e, então, clique na peça do tabuleiro para excluí-la.
+Para determinar qual lado irá jogar primeiro, marque White ou Black 
+(Brancas ou Pretas) na janela.
+Jogando Torneios
+Você pode criar um torneio próprio ou entrar em um torneio pré-definido. 
+Ambas opções estão disponíveis no modo de jogo Play/Tournaments.
+A janela Tournaments irá exibir uma lista de torneios pré-definidos para 
+você escolher. Quando selecionar um torneio, a descrição dele será 
+exibida. A metade dos torneios pré-definidos está oculta; ficar entre os 
+três primeiros em um dos torneios disponíveis geralmente revela um 
+que está oculto.
+Para jogar um torneio pré-definido, selecione-o na lista e clique no botão 
+Launch Predefined Tournament.
+A janela Tournament Schedule exibirá o cronograma de todos os jogos no 
+torneio. Quando você seleciona um jogo na lista, pode ou jogar a partida, 
+se você for um dos envolvidos no jogo, ou, no caso dos jogos IA vs. IA, 
+assisti-la (esta opção o forçará a ver a partida até o fim, portanto tenha 
+certeza de ter tempo livre o bastante) ou ainda perguntar rapidamente 
+pelo resultado (nesta opção, o resultado, e somente isto, será dado).
+Para ver a classificação no torneio atual, clique no botão View Rankings 
+na janela Tournament Schedule.
+Para ver a tabela do torneio atual, clique no botão View Crosstable na 
+janela Tournament Schedule.
+Para voltar à janela Tournaments, simplesmente feche a janela 
+Tournament Schedule clicando no pequeno ícone no canto superior 
+direito da janela.  Se ao menos um jogo foi jogado, você verá as palavras 
+“(in progress)” ao lado do nome do torneio.
+Para criar um torneio próprio, clique no botão Create Tournament na 
+janela Tournaments.
+Você terá de decidir sobre um conjunto de valores que definem o 
+torneio.
+Primeiro, escolha o tipo de torneio: round robin (todos contra todos) ou 
+Swiss (Suíço). Nos torneios round robin, cada jogador joga contra todos 
+os outros jogadores; no Swiss, os jogadores são combinados de acordo 
+com as pontuações progressivas após cada rodada. Por padrão, os jogos 
+de torneio não são graduados; você pode alterar isto usando a caixa de 
+verificação Rated Tournament (Torneio Graduado).
+Segundo, defina os controles de tempo.
+(IMAGEM)
+Então, entre com a faixa de graduação dos oponentes, como um valor 
+global (Meu nível, Grande Mestre, etc.) ou limites específicos. Você 
+também pode jogar contra oponentes escolhidos ao acaso ou optar 
+dentre uma lista de oponentes.
+Finalmente, será mostrada uma síntese dos parâmetros do torneio – 
+só para assegurar que você terá o que quer.  Você pode, a qualquer 
+momento, voltar às etapas anteriores e modificar suas escolhas.
+Após criá-lo, o torneio precisa ser salvo para futura referência.
+Escolha um nome para o torneio e uma pasta de destino.
+A janela Tournament Schedule é idêntica a que se usa nos torneios pré-
+definidos. Quando você a fechar, o torneio é salvo automaticamente, e 
+a janela Tournaments será exibida.
+Para carregar um torneio que você criou, clique no botão Load 
+Tournament na janela Tournaments.
+Para sair do modo Torneio, use a barra de navegação a fim de acessar 
+outro modo de jogo.
+
+34
+35
+JOGANDO Online
+Talvez você não tenha amigos que gostem de xadrez. Ou, quem sabe, 
+você se tornou bom demais e eles não querem mais jogar contra você.
+Ou ainda eles não tenham tempo para jogar na hora que você quer. Para 
+qualquer um destes casos, o Chessmaster oferece um modo de jogar 
+contra um oponente humano no seu nível e a qualquer hora que queira. 
+Tudo o que você precisa é de uma conexão com a Internet.
+Configurando a Rede
+Antes de começar a jogar, você precisa preencher alguns requisitos de 
+sistema.
+Para o jogo funcionar adequadamente, as portas TCP que devem estar 
+abertas são: 668, 40000–42999 e UDP: 41006, 44000, 45000, 
+45001 para o serviço de cruzamento de partidas da ubi.com e UDP: 
+17110 para a comunicação do jogo. O jogo foi planejado para facilitar 
+a conectividade mesmo com computadores conectados por meio de 
+NAT à Internet (mas tenha em mente que nem todas as combinações 
+roteadores/NAT funcionam). Se você não conseguir conexão aos serviços 
+de cruzamento de partidas ou a um servidor de jogos, entre em contato 
+com o seu administrador de rede e passe a ele estas informações.
+Fazendo o Login no ubi.com
+Para jogar online o Chessmaster, clique no botão Play/Online. Primeiro, 
+você precisa criar uma conta nova no ubi.com (ou ativar uma, se já 
+possuir). Quando perguntado, clique no botão e no tipo correspondentes 
+à informação requerida. 
+Se você já tem uma conta no ubi.com e esqueceu sua senha, use o seu 
+navegador da Internet para acessar o site www.ubi.com e requisitar sua 
+senha.
+Nota: Crianças com menos de 13 anos precisam da permissão de seus 
+pais ou tutores antes de criar uma conta de usuário. Navegue até a área 
+de registros do site www.ubi.com e crie uma conta no ubi.com (você irá 
+precisar imprimir a permissão e enviá-la por fax ao ubi.com)
+Após ter criado ou ativado sua conta no ubi.com, o Chessmaster pedirá 
+o número serial do seu CD (a CD key). Você pode encontrar este número 
+na contracapa interna da caixa do CD. Assegure-se de que o número 
+digitado está correto. O menor erro pode impedi-lo de acessar os 
+servidores on-line do Chessmaster.
+Você pode tentar reconectar clicando no grande botão Join localizado 
+abaixo na barra de navegação ou usando a ação Actions/Connect 
+disponível tanto no menu do botão da direita quanto no suspenso.
+Após ter definido a sua conta no ubi.com, o Chessmaster a associa 
+automaticamente ao seu alter ego. Se voltar ao Menu Principal, verá o 
+nome da conta no ubi.com entre parênteses ao lado do seu alter ego. 
+Se possuir várias contas no ubi.com e quer alternar entre elas, você 
+não precisa voltar ao Menu Principal e criar um novo alter ego. Em 
+vez disso, basta usar o comando Online Settings/Change User. Você 
+será desconectado dos servidores de jogo e terá de informar um novo 
+conjunto usuário/senha.
+Se quiser alterar as informações na sua conta no ubi.com como seu 
+nome, endereço de e-mail ou país de residência, use o comando menu 
+Online Settings/Modify User Info.
+Jogando Uma Partida Online
+O layout do Lobby e do Jogo
+O primeiro layout que você verá ao se conectar aos servidores 
+do Chessmaster é o do Lobby. O tabuleiro está presente, mas 
+semitransparente, e as janelas Competition List (Lista de Competições), 
+Player List (Lista dos Jogadores) e Lobby Chat (Bate-papo do Lobby) 
+preenchem a maior parte da tela. O menu Game Status e Captured 
+Pieces windows aren’t available.
+Um lobby, na verdade, é um servidor de jogo em que um máximo de 
+500 jogadores pode estar presente ao mesmo tempo. O Chessmaster 
+tem vários lobbies e distribui os jogadores automaticamente entre eles. 
+Todas as informações que você recebe durante as suas sessões on-line 
+são fornecidas pelo lobby ao qual está conectado; não há comunicação 
+entre os lobbies.
+Portanto, é possível que seus amigos estejam on-line, mas que você não 
+seja capaz de vê-los – eles podem estar em outros lobbies.
+Para mudar de lobby, use o comando Online Settings/Change Lobby. 
+Aparecerá uma lista de lobbies, exibindo o número de jogadores 
+conectados a cada um deles. Selecione o lobby que você quer entrar e 
+clique no botão Join Lobby.
+Após o início de uma partida, o tabuleiro se torna plano e as janelas 
+Game Status e Captured Pieces são exibidas enquanto as outras 
+desaparecem, substituídas pela janela InGame Chat (Bate-papo Durante 
+o Jogo). Este é o layout do Jogo.
+No layout do Lobby, a estrutura da barra de atalhos é:
+Arranjar Jogo
+Criar Jogo
+Ocultar/Exibir Bate-Papo 
+(Lobby Chat Window)
+Ocultar/Exibir 
+Jogadores
+Criar Jogo de Xadrez por 
+Correspondência
+Ocultar/Exibir Jogos 
+(Competition List)
+
+36
+37
+Quando estiver jogando uma partida on-line, a estrutura da barra 
+depende do tipo de jogo que você estiver jogando.
+Para jogos de treinamento:
+Criar Jogo
+Retroceder 
+Movimento
+Submeter 
+Movimento
+Desistir
+Ligar/Desligar 
+Instrutor de Xadrez
+Criar Jogo de Xadrez 
+por Correspondência
+Propor 
+Empate
+Ligar/Desligar Modo 
+de Análise
+Para jogos mais avançados:
+Desistir
+Ligar/Desligar Modo de Análise
+Criar Jogo
+Propor Empate
+Get Game (Arranjar Jogo)
+Você pode iniciar um jogo usando o Arranjar Jogo – uma ferramenta 
+instantânea de cruzamento de partidas. Arranjar Jogo está disponível 
+tanto pela barra de ferramentas quanto pelo menu Game/Get Game.
+Clique no botão Get Game, e o Chessmaster irá selecionar a 
+correspondência mais aproximada aos valores definidos na janela 
+Game Description (Descrição de Jogo). Se nenhuma correspondência 
+for atingida, um aviso será exibido; caso contrário, o jogo será iniciado 
+imediatamente.
+Os valores padrões para o Arranjar Jogo podem ser facilmente alterados; 
+eles são definidos na janela Get Game nas listas suspensas.
+O ícone na barra de atalhos inicia imediatamente a procura por uma 
+partida, enquanto o comando Game/Get Game (presente nos menus 
+suspensos ou do botão da direita) exibe a janela Get Game.
+Criar Jogo
+Outro modo de iniciar um jogo é criando uma sessão de jogo. O jogador 
+que cria um jogo é chamado de host (hospedeiro). O comando Create 
+Game está disponível pela barra de atalhos e pelo menu Game/Create 
+Game.
+Há dois tipos principais de jogo:
+• Private (Particular), visível apenas ao host e aos jogadores 
+convidados.
+• Global, visível a todos os jogadores.
+Os modos de jogo disponíveis são Training (Treinamento – não-graduado), 
+Expert (Experiente - graduado) e Teaching (Instrução). O host precisa 
+definir também com que peças jogará e os controles de tempo.
+De acordo com os valores de tempo especificados pelo usuário, os 
+"jogos" são definidos como bullet (bala, abaixo de 3 minutos/jogo), blitz 
+(abaixo de 10 minutos/jogo) e standard (padrão, 10 minutos/jogo ou 
+mais).
+Os dois valores especiais são o limite de espectadores, o qual define 
+quantos jogadores podem observar o jogo recém-criado e o modo de 
+bate-papo disponível durante o jogo. O modo de bate-papo define se a 
+comunicação se dará entre todos, jogadores e espectadores, ou jogador 
+somente com seu oponente e espectador somente com espectador. Claro 
+que, se simplesmente não quiser ver as mensagens do seu oponente, 
+você pode simplesmente fechar a janela InGame Chat.
+Após a criação, o jogo estará visível na Lista de Jogos do host.  Os jogos 
+particulares são invisíveis para os outros jogadores, a menos que o 
+host especificamente desafie um jogador usando a Lista de Jogadores. 
+Quando isto ocorre, o jogador desafiado vê o jogo na sua Lista de 
+Jogos; após o aceite do desafio, o jogo em andamento estará visível 
+globalmente (todos podem ser espectadores em um jogo particular). 
+Jogos globais são visíveis nas Listas de Jogos de todos.
+O modo mais direto de desafiar um jogador é clicar duas vezes sobre o 
+nome dele ou dela na Lista de Jogadores. Isto enviará um desafio. Os 
+desafios são exibidos em uma pequena janela no canto inferior direito 
+da tela. Se vários desafios são recebidos ao mesmo tempo, estas janelas 
+empilham uma sobre a outra. Cada janela de desafio permanece na tela 
+por 20 segundos e, então, fecha-se automaticamente.
+Para salvar um jogo on-line , você pode usar o comando File/Save. O 
+jogo será salvo em seu computador como um arquivo PGN, com todos os 
+textos do bate-papo salvos como comentários dos jogadores.
+Para abandonar um jogo e voltar ao lobby, use o comando Game/Leave 
+Board (Jogo/Abandonar Tabuleiro).
+Criar Jogo Por Correspondência
+YVocê pode iniciar um jogo de Xadrez Por Correspondência clicando no 
+ícone "Create CC Game" (Criar Jogo Por Correspondência) na barra de 
+atalhos, no menu Game/Create Game ou no menu do botão da direita.
+Lista de Jogos
+A Game List exibe todos os jogos atualmente em andamento, bem como 
+todos os desafios (jogos esperando um oponente) disponíveis. Ela é
+
+38
+39
+parte da Competition List (Lista de Competição), que também inclui as 
+Listas Tournament (Torneio), Ladder (escada) e Clan (Clã).
+Os desafios são sempre exibidos no topo e fáceis de serem identificados, 
+pois os campos do convidado (nome e graduação) estarão vazios.
+Você pode ordenar a lista inteira clicando com o botão esquerdo no 
+título da coluna. Por exemplo, clicar com o botão esquerdo no título da 
+coluna Host Rating ordena a lista pela graduação do host. Entretanto, os 
+desafios e os jogos em andamento não são misturados; cada parte da 
+lista é ordenada separadamente.
+Clicando com o botão direito na linha da Lista de Jogos, você pode tanto 
+ver o jogo selecionado como aceitar o desafio selecionado. View Game 
+somente estará disponível se o jogo já estiver iniciado e o número de 
+espectadores estiver abaixo do limite.
+Clicar duas vezes em um jogo indica o aceite de um desafio ou o pedido 
+para entrar como espectador.
+Xadrez Por Correspondência
+Jogue com seus amigos, mesmo que vocês não estejam on-line ao 
+mesmo tempo, graças ao novo modo de jogo Correspondence Chess 
+(Xadrez por Correspondência).
+Você pode unir-se a um desafio de Xadrez Por Correspondência na guia 
+CC Challenges, na janela Competition list, ou gerenciar seus jogos já 
+iniciados na guia CC Games (na mesma janela).
+Após cada movimento, clique no ícone “Submeter Movimento” na barra 
+de atalhos, ou no menu do botão direito, Correspondence Chess>Submit 
+move.
+Você também pode jogar Xadrez por Correspondência em um navegador 
+(se possuir uma conta na Ubi.com). Basta visitar www. chessmaster.
+com.
+Lista do Jogador
+A Lista de Jogadores exibe todos os jogadores no lobby. São mostrados 
+quatro parâmetros:
+• Os ícones, que mostram a atividade atual (peão para jogador, olho para 
+espectador) e o status dos jogadores e espectadores (face sorridente 
+para amigos, sinal de proibido para ignorado)
+• O nome do jogador
+• A avaliação do jogador (bullet/blitz/padrão).
+• Status da atividade atual (ocioso, jogando, vendo, ensinando).
+Assim como na Lista de Jogos, você pode ordenar a lista clicando em 
+qualquer título de coluna.
+A ordem de exibição padrão dos jogadores é sempre: Primeiro os amigos, 
+depois os outros e, por fim, os ignorados. Isto assegura a maior 
+visibilidade dos jogadores amigos enquanto encobre os jogadores que 
+estão atualmente na lista de Ignorados do jogador. Esta ordem de 
+exibição é sempre respeitada e a ordenação com o clique esquerdo 
+funciona separadamente para cada parte da lista.
+Clicando com o botão da direita na Lista de Jogadores, você pode:
+• Desafiar um jogador (disponível apenas se o jogador selecionado criou 
+um jogo).
+• Ver um jogo (disponível apenas se o jogador selecionado estiver 
+jogando e o limite de espectadores não tiver sido atingido)
+• Adicionar alguém à sua Friends List (Lista de Amigos)/remover alguém 
+dela (auto-exclusivo)
+• Adicionar alguém à sua Ignore List (Lista de Ignorados)/remover 
+alguém dela (auto-exclusivo).
+• Ver mais informações (exibe as estatísticas on-line do jogador).
+• Bate-papo em particular (abre uma janela Private Chat). Clicar duas 
+vezes em um nome na Lista de Jogadores irá ter diferentes resultados 
+de acordo com o status do dele:
+• Se o jogador estiver jogando ou ensinando uma partida, você se 
+tornará um espectador/estudante daquele jogo.
+• Se o jogador estiver ocioso ou observando uma partida, você poderá 
+criar uma e enviar um desafio.
+• Se o jogador estiver desafiando (esperando pelo aceite do oponente 
+que ele ou ela desafiou), você aceita o desafio existente ou poderá 
+criar e enviar um desafio.
+• Quando estiver desafiando alguém para um jogo graduado, tenha 
+em mente que, devido ao modo que a graduação é computada, dois 
+jogadores não podem jogar partidas graduadas se a diferença entre 
+ambos for maior que 400 pontos.
+A Janela de Chat (Bate-Papo)
+Há duas janelas principais de bate-papo:
+• A janela Lobby Chat, em que os jogadores podem conversar um com 
+o outro.
+• A janela InGame Chat, em que os dois oponentes podem conversar um 
+com o outro e/ou com os espectadores.
+Para bater papo com outros jogadores, basta digitar a sua mensagem na 
+caixa de texto sob a área de exibição principal. O caractere especial # 
+representa o nome do jogador.  Se o João digitar “# está cansado”, os 
+outros jogadores irão ler “João está cansado”.
+A parte superior da janela de bate-papo contém apenas as notícias e 
+anúncios oficiais. O Chessmaster as exibe automaticamente a intervalos 
+regulares.
+Para bater papo com um jogador em específico, você pode usar o 
+comando Private Chat disponível quando se clica com o botão da direita 
+sobre a linha de um jogador na Lista de Jogadores. Isto irá abrir uma 
+janela de bate-papo separada que é intitulada com o nome do jogador 
+convidado.
+A janela InGame Chat está sempre disponível durante os jogos, mas
+
+40
+41
+o host decide se os jogadores podem ver o que os espectadores 
+falam, quando, ao criar o jogo, ele define o modo Chat para Players 
+and Spectators, ou não, quando ele define o modo Chat para Players 
+Separate.
+Para usar o recurso de bate-papo por voz, você precisa de um microfone 
+conectado ao seu computador.  Então, clique no pequeno ícone Speaker 
+(Alto-falante) no canto superior direito da janela InGame Chat. Isto 
+ativará o seu microfone/fone de ouvido (uma mensagem será exibida 
+na janela de bate-papo). Para conversar, seu oponente precisa também 
+ativar seu fone de ouvido.
+Nota: bate-papo por voz não está disponível durante as sessões de bate-
+papo no lobby.
+Offline Messages
+Se quiser enviar uma mensagem para um jogador que não está on-line 
+no momento, você pode fazer isto usando a janela Offline Messages. 
+Você a abre com o comando Windows/Offline Messages. A janela contém 
+a lista das últimas 100 mensagens que você recebeu.
+Para ler uma mensagem, clique nela. O conteúdo será exibido abaixo 
+da lista de mensagens.
+Para enviar uma nova mensagem, clique no botão New Message. Digite 
+o nome exato do jogador para quem você quer enviar a mensagem, 
+escreva a sua mensagem e, então, clique no botão Send Message. 
+A janela Offline Message irá emergir automaticamente quando seu 
+correspondente fizer o próximo login, permitindo que ele ou ela leia a 
+mensagem.
+Para responder uma mensagem recebida, clique duas vezes sobre ela ou 
+selecione a mensagem e clique no botão Reply.
+Você sempre poderá excluir uma mensagem selecionando-a na lista e, 
+então, clicando no botão Delete.
+Tournaments (Torneios)
+Para criar um torneio, você pode usar o comando Game/Create 
+Tournament. Você precisa fornecer as seguintes informações:
+• Infra-estrutura do torneio:
+- “Round robin”, em que todos jogam contra todos uma vez.
+- “Double round robin”, um duplo confronto (uma vez com as Brancas, 
+outra com as Pretas).
+• Tipo do torneio:
+- “Fast”, rápido, em que o torneio é realizado em um único dia.
+- “Daily”, diário, em que o torneio ocorre dia após dia; há uma rodada 
+à mesma hora de cada dia.
+• Os valores do controle de tempo.
+• A data e hora de início (hora para o rápido, dia e hora para o diário).
+• Número de participantes.
+• A faixa de graduação (visto que o criador do torneio sempre participa, 
+os limites são dados pela graduação do criador +/- 200).
+Todos os torneios têm um período de inscrição que se inicia imediatamente 
+após a criação desse e dura até a data e hora fornecida durante a 
+criação.
+Tournaments List (Lista de Torneios)
+A Lista de Torneios é parte da janela Competition List (Lista de 
+Competições), que inclui também a Games List (Lista de Jogos), 
+Ladders (Escadas) e League (Ligas); as listas separadas são delimitadas 
+por guias na janela.
+A Lista de Torneios contém todos os torneios disponíveis no momento 
+(não fechados), ordenados pelo período de inscrição (os torneios cujo 
+período de inscrição ainda não terminou estão na frente).
+As informações exibidas na Lista de Torneios são:
+• O nome e a graduação do host.
+• O tipo de torneio (rápido/diário + Rr/DRR, em que RR = todos contra 
+todos, DRR = todos contra todos duas vezes)
+• O número de jogadores inscritos/total de vagas disponíveis.
+• O prazo final de inscrição.
+Para entra em um torneio, você pode:
+•	 • Clicar no botão Join This Tournament no final da lista, após 
+selecionar uma linha.
+• Clicar com o botão da direita sobre a linha e escolher Join This 
+Tournament no menu exibido.
+Para obter mais informações sobre um torneio, você pode:
+•	 Clicar duas vezes sobre a linha do torneio na lista.
+• Clicar no botão View Tournament Information no final da lista, após 
+selecionar uma linha.
+• Clicar com o botão da direita sobre a linha e escolher View Tournament 
+Information no menu exibido.
+Jogando uma Partida de Torneio
+Após entrar em um torneio, cada participante irá ser notificado da 
+iminência de uma partida do torneio na qual participará.
+Por razões técnicas, todos os torneios são mantidos em um lobby separado, 
+chamado Área de Torneio. Os jogadores que estão perambulando fora 
+da Área de Torneios serão notificados com janelas que aparecem 10 
+minutos, 5 minutos e 1 minuto antes do início da partida (bem como 
+quando a partida começar), pedindo que eles entrem na Área de Torneio 
+a fim de jogar.
+
+42
+43
+O modo mais simples de qualquer jogador comparecer a um jogo 
+agendado é responder sim quando inquirido a entrar na Área de 
+Torneio.
+O modo mais difícil é usar a Lista de Torneios para comparecer ao jogo:
+1. Use Actions/Join Tournaments Area.
+2. Abrir a janela Games/Tournaments/Ladders/League List.
+3. Clique na guia Tournaments para exibir a lista.
+4. Clique duas vezes na linha do torneio.
+5. Clique em Join Game ou clique com o botão da direita e clique Join 
+Game no menu.
+Uma alternativa mais rápida é:
+1. Use Actions/Join Tournaments Area.
+2. Abra a janela Games/Tournaments List.
+3. A guia Games já estará selecionada, não é preciso selecioná-la 
+novamente.
+4. Clique duas vezes na linha do jogo agendado. Os jogadores na Área 
+de Torneio são avisados com uma janela no momento em que a partida 
+começar.
+Há um período determinado de tempo no qual o jogador ainda pode 
+comparecer a uma partida após o início oficial. Para os jogos bullet 
+(bala), o tempo é de um minuto; nos jogos blitz, três minutos; e para 
+os jogos normais, o tempo é de cinco minutos. Após a passagem deste 
+tempo, o jogador faltoso perde a partida. Se ambos os jogadores não 
+estiverem presentes, o jogo será ignorado na classificação.
+Você pode salvar um torneio usando o comando Files/Save durante ou ao 
+final da partida. O jogo será salvo como um arquivo PGN, com todos os 
+textos do bate-papo convertidos em comentários dos jogadores.
+Ladders (Escadas)
+As escadas são eventos que ocorrem entre duas datas claramente 
+delimitadas. Todos os jogadores inscritos em uma escada podem jogar 
+uns contra os outros, independentemente de suas graduações; após 
+cada partida, as novas posições na escada são computadas para cada 
+oponente.
+Se o vencedor estiver situado em uma posição baixa na escada, ele ou 
+ela irá avançar a metade da distância entre os oponentes, arredondada 
+para cima. Se o vencedor estiver acima do perdedor, ele ou ela irá 
+avançar uma posição.
+Durante a escada, cada jogador também pode jogar duas vezes contra 
+o mesmo oponente: uma vez com as Brancas e outra com as Pretas. 
+No primeiro confronto entre dois jogadores, o host automaticamente 
+controla as Brancas; no próximo encontro, as cores se invertem.
+Para criar uma escada, você usa o comando Game/Create Ladder. 
+Depois, você precisa fornecer as seguintes informações:
+• Tipo da escada:
+- Defined registration period (Período de inscrição definido), quando 
+os jogadores poderão entrar somente durante um tempo limitado. A 
+inscrição se inicia assim que a escada for criada e dura tanto quanto 
+o criador especificar.
+– Unlimited registration (inscrição ilimitada), em que os novos jogadores 
+podem entrar na escada a qualquer momento durante a duração 
+dessa.
+• A duração da escada (uma semana, um mês, etc.).
+Ladders List (Lista de Escadas)
+A lista de Escadas é parte da janela Competitions List (Lista 
+de Competições) que inclui as Listas Games (jogos), Tournaments 
+(Torneios) e League (Liga). As listas separadas são delimitadas por guias 
+na janela.
+A Lista de Escadas contém todas as escadas disponíveis no momento 
+(não fechadas), ordenadas pelo período de inscrição (as escadas cujo 
+período de inscrição ainda não terminou virão na frente).
+As informações exibidas na Lista de Escadas são:
+• Status (inscrito ou não).
+• O nome e a graduação do host.
+• O Número de jogadores que se inscreveram.
+• A data de início.
+• Os dias/horas/minutos remanescentes.
+• O prazo final de inscrição.
+Para participar de uma escada, você pode:
+• Clicar no botão Join This Ladder no final da lista, após selecionar 
+uma linha.
+• Clicar com o botão direito sobre a linha da escada e escolher Join This 
+Ladder no menu exibido.
+Para obter mais informações sobre uma escada, você pode:
+• Clicar duas vezes sobre a linha da escada na lista.
+• Clicar no botão View Ladder Information no final da lista, após 
+selecionar uma linha.
+• Clicar com o botão da direita sobre a linha da escada e escolher View 
+Ladder Information no menu exibido.
+Playing a Ladder Game
+Diferentemente dos torneios, as partidas da escada podem ser 
+disputadas a qualquer momento.
+Para jogar uma partida da escada, você precisa:
+1. Abrir a janela Games/Tournaments/Ladders/League List.
+2. Clicar na guia Ladders para exibir a lista.
+3. Clicar duas vezes na linha da escada.
+
+44
+45
+4. Verificar a lista de jogadores, selecionar um e clicar em Challenge 
+Player, ou clicar com o botão da direita e selecionar Challenge Player 
+no menu exibido, para desafiar o jogador selecionado, ou clicar em 
+Challenge All Player, para desafiar todos.
+Desafiar todos os jogadores resulta em um cruzamento automático entre 
+todos os jogadores que também escolheram a mesma opção. Desafiar 
+um jogador irá abrir uma janela Challenge.
+Para salvar uma partida ladder, use o comando File/Save.
+Os Clãs e a Liga
+Os clãs são grupos de jogadores que competem em um evento anual 
+chamado The League (A Liga). A Liga começa a cada ano no aniversário 
+de lançamento da 10ª Edição do Chessmaster. Todos os clãs existentes 
+estão automaticamente na competição.
+Somente os jogadores com mais de 100 partidas graduadas (seja bala, 
+blitz ou padrão) podem criar clãs. O jogador que criar o clã recebe o 
+título de fundador e se torna o gerente do clã.
+Para criar um clã, use o comando Game/Create My Clan no menu. 
+Forneça as informações pedidas, incluindo o nome e descrição do clã 
+(com, no máximo, 255 caracteres).
+O gerente (geralmente o fundador) pode:
+• Convidar novos jogadores a entrar para o clã.
+• Banir membros do clã.
+• Passar os direitos de administração a outro membro do clã.
+Para convidar novos jogadores, o gerente tem na Player List (Lista de 
+Jogadores) um comando específico no menu do botão da direita: Invite 
+[Jogador] to Join Your Clan. Enviar convites só será possível se o jogador 
+convidado não estiver jogando uma partida.
+Se o jogador convidado aceitar o convite, ele automaticamente sai do clã 
+anterior, se já estiver em algum, e entra em um novo. Um gerente de clã 
+não pode aceitar um convite para entrar em outro sem antes passar os 
+direitos de administração do atual para outra pessoa.
+Não há limites para o número de membros em um clã. Entretanto, se 
+um encolhe para menos de três membros, ele automaticamente se torna 
+inativo.
+Para banir os membros de um clã, o gerente usa o comando Banish 
+[Jogador] from Your Clan no menu do botão da direita na janela Clan 
+Information. É possível banir um jogador mesmo se ele estiver off-line. 
+Na próxima conexão, o membro banido será notificado, em seu status, 
+da alteração.
+Para passar os direitos de administração para outro membro do clã, o 
+gerente usa o comando Entrust [Jogador] as Future Manager of Your 
+Clan disponível no menu do botão da direita na Lista de Jogadores. 
+É possível promover um jogador mesmo se ele estiver off-line. Na 
+próxima conexão, o membro intitulado será notificado, no seu status, 
+da alteração. Os gerentes de clã não podem criar um novo até que eles 
+passem os direitos de gerenciamento para outra pessoa do clã.
+A janela League (Liga) contém a lista de todos os clãs, ordenada pelos 
+pontos totais obtidos. Você pode vê-la clicando na guia League na janela 
+Competition List.
+Para ver as informações sobre um clã, selecione-o na lista e clique no 
+botão View Clan Information ou clique duas vezes na linha do clã da 
+lista. Você verá o nome, a descrição e as estatísticas do clã e a lista de 
+membros.
+Para entrar em um clã, selecione-o na lista e clique no botão Join 
+Clan. Você será inquirido se quer entrar em contato com o gerente e 
+pedir a permissão dele para participar do clã.  Requerer a filiação não 
+implica em se tornar um membro – somente o gerente pode decidir se 
+o aceitará.  Quando você receber um convite do gerente, você poderá 
+decidir se o aceita ou não.
+Os membros têm acesso a uma janela de bate-papo específica, chamada 
+de Clan Chat, que permite aos membros conversarem em particular. 
+Funciona exatamente como o bate-papo no lobby, mas será visto apenas 
+pelos membros do clã. Para acessá-la, abra a janela Clan Information e 
+clique no botão Clan Chat.
+O objetivo máximo de cada clã é vencer a Liga. Cada membro adiciona 
+pontos ao clã conforme o desempenho nos jogos graduados:
+• Derrota: 0 ponto
+• Empate contra um jogador mais fraco, com diferença de graduação 
+>200: 0 ponto
+• Empate contra um jogador mais fraco, com diferença de graduação 
+(50.200): 0 ponto
+• Empate contra um jogador mais fraco, com diferença de graduação 
+(0,50): 1 ponto.
+• Empate contra um jogador mais forte, com diferença de graduação 
+(0,50): 1 ponto.
+• Empate contra um jogador mais forte, com diferença de graduação 
+(50.200): 2 pontos
+• Empate contra um jogador mais forte, com diferença de graduação 
+>200: 3 pontos
+• Vitória contra um jogador mais fraco, com diferença de graduação 
+>200: 2 pontos
+• Vitória contra um jogador mais fraco, com diferença de graduação 
+(50.200): 3 pontos
+• Vitória contra um jogador mais fraco, com diferença de graduação 
+(0,50): 4 pontos
+• Vitória contra um jogador mais forte, com diferença de graduação 
+(0,50): 4 pontos
+• Vitória contra um jogador mais forte, com diferença de graduação
+
+46
+47
+(50.200): 5 pontos
+• Vitória contra um jogador mais forte, com diferença de graduação 
+>200: 6 pontos Os jogos entre os membros do mesmo clã não contam 
+para a classificação na Liga.
+A cada mês, os clãs precisam jogar certo número de partidas igual a 
+10 vezes o número de membros do clã. Os clãs que não atingem este 
+requisito mínimo são marcados como inativos. Um clã se torna ativo 
+novamente quando seus membros atingirem o número mínimo de 
+partidas.
+Outra condição para que um clã permaneça ativo é ter, ao menos, três 
+membros. Caso contrário, ele se tornará inativo. Para votar a luta, o 
+clã precisa de novos membros.  Durante os períodos de inatividade, os 
+pontos do clã não são computados.
+Exibições Simultâneas
+Uma exibição simultânea (simul) é uma partida em que um forte jogador 
+enfrenta vários oponentes ao mesmo tempo.
+Para criar uma simul, você pode usar o comando Game/Create Simul.
+Depois, você precisa fornecer as seguintes informações:
+• O controle de tempo.
+• O Número de oponentes.
+• A faixa de graduação (seja por valores ou categorias globais: Meu 
+Nível, Iniciantes, Novatos).
+Durante as exibições simultâneas, o host sempre joga com as Brancas.
+Uma partida simultânea não pode ser iniciada a menos que haja 
+dois oponentes, portanto o botão Start na janela Creat Simul estará 
+acinzentado até que esta condição seja satisfeita.  Há também um 
+período de espera compulsório de 10 segundos.
+Jogando Uma Exibição Simultânea
+Os jogadores podem entrar em uma simul do mesmo modo que entram 
+em uma partida de Treinamento, Experiente ou de Instrução – pela 
+Game List (Lista de Jogos). Para identificar as simuls, basta ler a coluna 
+Game Type (Tipo de Jogo).
+Para as simuls, a estrutura da Lista de Jogos tem um significado um pouco 
+diferente:
+• A coluna Black (Pretas) exibe o número de oponentes que querem 
+participar e o número total de vagas.
+• A coluna Black’s Rating (Graduação das Pretas) exibe a faixa de 
+graduação da simultânea. Após entrarem dois oponentes, a simul pode 
+ser iniciada. Além das janelas usuais de jogo (Game Status, Captured 
+Pieces, etc.), é exibida uma janela específica: a Simul. Ela contém a 
+lista de todos os tabuleiros envolvidos no simul e exibe os nomes dos 
+oponentes, o resultado dos jogos individuais (se disponível), os ícones 
+de Status de cada tabuleiro (verde se o mestre pode ver o tabuleiro e 
+jogar, vermelho se ainda não).
+Durante uma simul, o mestre pode ver qualquer tabuleiro a qualquer 
+momento, mas somente poderá mover após o oponente ter feito seu 
+movimento (o ícone de status for verde).
+Após o final do último jogo, todos os jogadores recebem um relatório da 
+simul contendo os resultados de todos os jogos: Você pode salvar uma 
+exibição simultânea usando o comando File/Save. Todos os jogos serão 
+salvos como arquivos PGN individuais.
+Cuidado: Você só pode salvar a simul enquanto o mestre não fechar o 
+relatório da simul.
+Instrução Online
+O Chessmaster permite que os jogadores mais fortes ensinem os outros 
+por meio de um jogo Teaching (Instrução).
+Para criar uma partida de Instrução, basta clicar no ícone Create Game 
+na barra de atalhos ou escolher Game/Create Game no menu. Escolha 
+Teaching como modo de jogo; os controles de tempo estão inativos neste 
+modo jogo.
+O jogador que cria o jogo é o professor; os outros, estudantes. O 
+professor tem um conjunto de ferramentas que permitem a ele modificar 
+o tabuleiro e destacar situações, peças, ataques, etc. enquanto explica 
+os movimentos usando a janela InGame Chat.
+As ferramentas disponíveis são:
+• Arrows (Setas): O Professor pode desenhar setas finas ou largas, 
+usando qualquer uma das oito cores disponíveis.
+• Highlights (Destaques): Para destacar uma casa do tabuleiro, o 
+professor pode escolher uma entre dois destaques (escuro/claro).
+• Board setup (Configuração do Tabuleiro): O professor pode adicionar/
+remover peças ou peças fantasmas.
+• Multiplechoice quizzes (Testes de múltipla escolha): O professor pode 
+criar testes de múltiplas escolha digitando a questão, as respostas (a 
+correta precisa ser marcada) e, então, definindo o cronômetro (quanto 
+tempo os estudantes terão para responder).
+• Undo/redo (Desfazer/Refazer): Se algo der errado, o professor pode 
+simplesmente desfazer/refazer suas ações.
+Os estudantes podem observar o tabuleiro e conversar com o professor 
+por meio da janela InGame Chat. Eles não podem mover as peças no 
+tabuleiro, mas podem escolher qual movimento deve ser feito para 
+responder um teste de múltipla escolha. Eles também podem indicar 
+os movimentos digitando as coordenadas na notação algébrica na janela 
+In-Game Chat, portanto há um quantidade razoável de interatividade na 
+leitura do xadrez.
+
+48
+49
+Você pode salvar uma partida de Instrução usando o comando File/Save. 
+Os jogos são salvos no formato proprietário tutorial do Chessmaster; 
+você pode carregá-los na Academia para observá-los mais tarde.
+Após a criação, os jogos de Instrução estarão visíveis na Lista de Jogos 
+exatamente como os outros da Lista de Jogos.
+Primeiramente, escolha a cor, 
+depois, o tipo de seta.
+O primeiro clique define a casa 
+inicial, o segundo, o alvo.
+Destaque Light colour (Cor clara)
+Destaque Dark colour (Cor 
+escura)
+Para ativar as peças fantasmas, 
+marque esta caixa.
+Ferramenta Mover
+Ferramenta Apagar
+Os estudantes não verão 
+a situação no tabuleiro do 
+professor até que ele clique 
+neste botão.
+Se marcada, toda modificação 
+no tabuleiro do professor 
+automaticamente estará visível 
+no tabuleiro dos estudantes.
+Retroceder
+Desfazer
+Avançar
+Refazer
+O Sistema de Notícias e o Website
+O Chessmaster: Grand Master Edition tira proveito de um sistema de 
+notícias em tempo real que anuncia os novos eventos assim que eles 
+ocorrem. As notícias são exibidas na parte de cima da janela Lobby 
+Chat.
+Os tipos de eventos anunciados automaticamente são:
+• A entrada de um jogador mestre.
+• Uma partida entre um mestre e qualquer jogador.
+• Uma partida entre um mestre e outro mestre.
+• A aproximação do início de um evento pré-programado ou da data/
+hora de uma competição (os eventos pré-programados são os torneios, 
+escadas, exibições simultâneas e as aulas ministradas por jogadores 
+mestres)
+• Outras informações importantes
+Além disto, estes anúncios serão exibidos durante qualquer modo de jogo 
+na janela Online News. Para exibir a janela, use o comando Windows/
+Online News. Se você quiser receber as notícias automaticamente, 
+marque a caixa de verificação (por padrão, ela está desmarcada).
+O Chessmaster: Grand Master Edition tem um site dedicado a ele, www.
+chessmaster.com, que pode ser visto pelos jogadores sem que estes 
+saiam do jogo usando o comando Windows/Website. Quando estiver 
+navegando pelo site, você pode fazer o download de um arquivo de 
+jogo ou tutorial e carregá-lo mais tarde nos modos de jogo Training 
+(Instrução) ou Academy (Academia).
+Jogando em Rede
+Se você e outros amigos estiverem conectados em uma rede e cada um 
+tiver uma cópia do Chessmaster: Grand Master Edition, poderão jogar 
+por meio da rede. Basta instalar o Chessmaster em cada computador 
+e iniciar o jogo. Há algumas importantes diferenças entre os modos de 
+jogo On-line e LAN.
+Primeiro, você não precisa criar nenhum usuário para jogar em LAN. 
+Você será identificado pelo seu alter ego atual.
+Segundo, três recursos disponíveis no modo de jogo On-line não existem 
+no modo de jogo LAN; ou seja, você não pode jogar torneios, nem 
+escadas ou criar e participar de um clã. Todas as outras características 
+dos jogos On-line funcionam da mesma forma no modo de jogo LAN.
+Para mais detalhes, consulte a seção Jogando Online.
+
+50
+51
+Estudando Jogos Famosos
+Um bom modo de estudar xadrez é observar os jogos famosos dos 
+Grandes Mestres do passado e do presente. O Chessmaster lhe oferece 
+uma base de dados com 825 partidas jogadas pelos melhores jogadores 
+na história do xadrez e comentadas por GM Larry Evans (entre outros). 
+A seção Famous Games é parte da área Learn do Chessmaster.
+Assistindo a uma Partida
+A janela Famous Games contém a lista de todos os 825 jogos do 
+banco de dados. Para assistir a uma partida, primeiro examine a lista 
+e selecione o jogo que quiser. Então, clicando em um jogo, você verá a 
+posição final bem como o comentário de início de jogo. Clique no botão 
+Watch Game (Assistir a Jogo) quando se decidir por um jogo. O layout 
+dos Jogos Famosos contém o tabuleiro, a janela Game Status (Status do 
+Jogo) e a janela Annotation (Anotações).
+Para navegar pelo jogo, use a Move List (Lista de Movimentos) ou os 
+ícones Next (Próximo) /Precious (Anterior) na barra de atalho. Você pode 
+ler os comentários na janela de Anotações. Para escolher outro jogo, use 
+o ícone Watch Another Game na barra de atalhos.
+A estrutura da barra de atalhos é:
+Anterior
+Avançar
+Ver Outro Jogo Famoso
+Procurando uma Partida Específica
+Você também pode filtrar as partidas exibidas na janela Famous Games 
+usando a ferramenta Search (Procura). Para procurar por um jogo 
+específico, digite o termo a ser procurado na caixa de texto sob a lista. 
+Se não houver resultado algum, tente usar apenas parte da palavra 
+procurada.
+Para limpar os resultados da pesquisa e exibir novamente todas as 
+partidas, clique no botão Restore Game List.
+A Base de Dados
+O Chessmaster tem uma base de dados com mais de 800.000 jogos. 
+Você pode encontrá-los na área Learn (Aprendizado) do Chessmaster.
+Para facilitar a navegação dos jogadores pela base de dados, o 
+Chessmaster fornece quatro tipos de navegação separando a janela 
+Database em quatro guias.
+• A guia Moves (Movimentos) exibe uma lista com todas as partidas 
+disponíveis. Ao navegar pela lista, as informações sobre a partida 
+serão atualizadas – oponente, movimentos e outros dados estatísticos 
+do evento como local, data, etc.
+• A guia Key Info (Informações de Chaves) exibe a árvore de todas as 
+chaves (posições no xadrez) na base de dados. É tomada a atual 
+posição da partida atualmente selecionada (veja guia anterior), cujos 
+movimentos são exibidos ao lado do tabuleiro.
+• Navegar pela árvore de chaves ou pelos movimentos do jogo atualiza a 
+informação da chave exibida (resultados, ECO, subchaves / subjogos, 
+etc.).
+• A guia Data Query (Pesquisa de Dados) permite que o jogador pesquise 
+na base de dados nomes dos jogadores, eventos, datas, etc. Há dois 
+tipos de procura: básica, em que o jogador busca apenas quem, onde 
+e quando; e avançada, com seis diferentes caixas de consultas e três 
+itens alternativos de consulta.
+• A guia Position Search (Pesquisa de Posição) permite ao jogador criar 
+a posição no tabuleiro (de um modo, digamos, mais visual do que na 
+guia Informações de Chaves) e procurar por aquela posição na base 
+de dados.
+2
+8
+7
+6
+5
+4
+3
+1
+
+52
+53
+1. As quatro guias: Moves (Movimentos), Key Info (Informações 
+das Chaves), Data Query (Pesquisa de Dados), Position Search 
+(Pesquisa de Posição).
+2. O tabuleiro e os botões de navegação (Começo, Anterior, 
+Próximo, Fim).
+3. A lista de todos os jogos (também a lista de jogos resultante de 
+uma pesquisa).
+4. Informações do jogo.
+5. A partida selecionada é enviada para o modo Training 
+(Treinamento) para estudos mais detalhados.
+6. Os movimentos da partida. Clicar em um movimento avança o 
+jogo.
+7. Após a pesquisa, a lista de jogo é modificada para exibir apenas 
+os resultados da pesquisa. Para retornar a lista a seus valores 
+padrões (todos os jogos disponíveis), o jogador pode usar este 
+botão.
+8. Procura na base de dados a posição atualmente exibida no 
+tabuleiro. Os resultados são exibidos na lista de jogos.
+Pesquisa Melhorada
+Na guia Data Query, você pode procurar por jogos usando critérios novos 
+e interessantes:
+- Fastest games (Jogos mais rápidos) - Jogos classificados pelo número 
+de movimentos
+- Biggest struggles (Mais disputados) - Jogos classificados pelo número 
+de xeques.
+- Most impressive moves (Movimentos mais incríveis) - Jogos classificados 
+pelo número capturas consecutivas.
+- Most subtle games (Jogos mais sutis) - Jogos concluídos sem uma 
+captura classificada pelo número de movimentos
+- Raising challenges (Desafios em ascensão) - Jogos classificados pelo 
+número de promoções.
+- Pawn wars (Guerra dos peões) - Jogos classificados pelo número de 
+peões passados.
+- Hunted draws (Empates caçados) - Jogos concluídos com empates 
+forçados classificados pelo número de movimentos.
+A Área de Diversão
+O Chessmaster possui uma área planejada especialmente para crianças 
+e jogadores que queiram apenas se divertir. É um local em que crianças 
+e iniciantes de todas as idades podem brincar um pouco com tudo que o 
+Chessmaster tem a oferecer sem ter de entrar em qualquer outra área.
+Para jogar, bastar usar o menu Fun/Play. Como você pode ver, a área de 
+Diversão tem uma interface especial.
+1. O Chess Coach (Instrutor de Xadrez) 
+Para exibir as dicas correspondentes, clique em qualquer caixa. Para 
+uma explicação detalhada do Instrutor de Xadrez, consulte a seção 
+Instrutor de Xadrez em Jogando Contra a IA (página 18).
+2. A Barra de Navegação 
+Para expandir a barra, clique na seta horizontal; as opções 
+disponíveis são Play (Jogo), Puzzles (Quebra-cabeças) e Learn 
+Basics (Aprenda o Básico). Para navegar pelas outras áreas do 
+Chessmaster, clique na seta vertical. 
+Cuidado: Se você sair da área de Diversão, a interface irá voltar ao 
+layout clássico.
+3. O Status do Jogo 
+Esta versão simplificada exibe a imagem e nome do oponente além 
+do tempo restante.
+4. O Tabuleiro de Xadrez 
+O tabuleiro padrão da área de diversão é animado. Para mover 
+uma peça, clique nela e, depois, na casa desejada. Para girar o 
+tabuleiro, use as teclas para a esquerda e para a direita. Para mudar 
+o tamanho dele, use a roda do mouse ou as teclas Page Up/ Page 
+Down. Para movê-lo, segure-o e arraste-o pela borda. Para incliná-lo, 
+use as teclas seta para cima e para baixo.
+5. A Barra de Atalhos 
+Os três ícones são: New Game (Novo Jogo), Hint (Dica) e Take Back 
+Move (Retroceder Movimento).
+Para jogar uma partida de xadrez, clique no peão vermelho da barra de 
+atalhos.
+Consulte a seção Configurando o Jogo (página 21) para mais detalhes 
+sobre como configurar o seu jogo.
+Para pedir uma dica, clique no ponto de exclamação na barra de 
+atalhos.
+Para obter a explicação completa da ferramenta de dicas, veja a seção 
+1
+4
+3
+2
+5
+
+55
+Obtendo Conselho (página 25).
+Para voltar o seu último movimento, clique no peão amarelo na barra 
+de atalhos.
+Para mudar o conjunto de xadrez, clique com o botão direito do mouse 
+e escolha no menu o comando Preferences/Change Chess Set.
+Para aprender os fundamentos do xadrez, use o ícone livros na barra 
+de navegação. Para uma descrição detalhada de como executar os 
+tutoriais e resolver os exercícios, leia a seção Aprendendo a Jogar 
+(página 12).
+Para voltar da área Learn (Aprendizado) para a Área Play (Jogo), use o 
+ícone tabuleiro na barra de navegação.
+Para jogar um quebra-cabeça, use o ícone tabuleiro e peças na barra 
+de navegação. Para detalhes de como resolver quebra-cabeças, 
+consulte a seção Resolvendo Quebra-cabeças (página 16).
+Ações Comuns
+Pausa: CTRL+P
+Ajuda: F1
+Sair: ALT+F4
+Alterna entre 2D e 3D: Ctrl+F10
+Sala de Treino: Ctrl + K – Modo com Ajuda
+Windows
+Barra de Atalhos: CTRL+1
+Status do Jogo: CTRL+2
+Anotações: CTRL+3
+Peças Capturadas: CTRL+4
+Barra de Navegação: CTRL+7
+Esconder / Exibir
+Windows: CTRL+TAB
+Training Mode - Actions
+Iniciar Jogo Rapidamente: CTRL+Q
+Novo Jogo: CTRL+N
+Salvar Jogo: CTRL+S
+Carregar Jogo: CTRL+L
+Retroceder Movimento: CTRL+T
+Mostrar Movimento de Novo: CTRL+R
+Forçar Movimento: CTRL+F
+Despertar: CTRL+W
+Modo Treinamento - Mentor
+Dica Rápida: CTRL+H
+Conselho: CTRL+A
+Instrutor de Xadrez: CTRL+C
+Ocultar/Exibir Dicas do Instrutor de Xadrez: 
+BARRA DE ESPAÇO
+Ocultar/Exibir Dicas do Instrutor de Xadrez 
+para Oponente: TAB
+Online
+Arranjar Jogo: CTRL+G
+Sala de Bate-Papo: CTRL+L
+Bate-papo no Jogo: CTRL+H
+Competição
+Lista: CTRL+M
+Lista do Jogador: CTRL+Y
+Site na Web: CTRL+W
+Mensagens Off-line: CTRL+O
+Sala Online: Ctrl+A - Criar Jogo Por 
+Correspondência
+Sala de Jogo em Lan & Sala de Jogo na 
+Internet Janela de Bolso: Ctrl + 8 
+Minijogos:
+Criar Minijogo: Ctrl + C
+Barra de Atalhos: Ctrl+1
+Painel de Informações do Minijogo: Ctrl+2
+Teclas de Atalho do Chessmaster®: grandmaster edition
+
+56
+57
+contrato de licença para usuário final
+IMPORTANTE:
+LEIA ATENTAMENTE ANTES DE ABRIR ESTA(S EMBALAGEM(NS)
+AO ABRIR ESTA(S) EMBALAGEM(NS), INSTALAR, COPIAR OU, DE ALGUMA 
+FORMA USAR O(S) SOFTWARE(S) NELA(S) CONTIDO(S), VOCÊ ESTARÁ 
+AUTOMATICAMENTE CONSENTINDO EM SE SUJEITAR AOS TERMOS E 
+CONDIÇÕES DO “CONTRATO DE LICENÇA PARA USUÁRIO FINAL” ABAIXO. 
+SE VOCÊ NÃO CONCORDAR COM OS TERMOS E CONDIÇÕES DO “CONTRATO 
+DE LICENÇA PARA USUÁRIO FINAL”, DEVOLVA IMEDIATAMENTE A(S) 
+EMBALAGEM(NS) LACRADA(S), JUNTAMENTE COM TODOS OS ITENS QUE 
+A(S) ACOMPANHAM AO LOCAL EM QUE VOCÊ AS ADQUIRIU, PARA OBTER 
+REEMBOLSO INTEGRAL.
+CONTRATO DE LICENÇA PARA USUÁRIO FINAL
+SOFTWARE: Chessmaster 11ª Edição - Grandmaster Edition
+Este Contrato de Licença para Usuário Final (doravante denominado “Licença”) 
+é celebrado entre você (pessoa física ou jurídica) e a SYNERGEX DO BRASIL 
+(doravante denominada “SYNERGEX”) para o(s) software(s) interativo(s) acima 
+indicado(s) e inclui todas as respectivas mídias, os materiais impressos e 
+demais documentação disponibilizada de forma eletrônica ou “on line” que o(s) 
+acompanhe(m) (doravante conjuntamente denominado “SOFTWARE”).
+1.  Outorga da Licença.  O SOFTWARE é licenciado e não vendido. A SYNERGEX 
+outorga a você o direito não-exclusivo e intransferível de instalar e usar uma cópia 
+do SOFTWARE em um único computador. O SOFTWARE será considerado “em 
+uso” ao ser carregado na memória temporária ou permanente do computador.
+2.  Direitos Autorais.  O SOFTWARE (incluindo todas e quaisquer imagens, 
+fotografias, animações, vídeos, áudios, músicas, textos e documentação 
+técnica nele contido) constitui propriedade da SYNERGEX e está protegido por 
+leis e tratados internacionais relativos a propriedade intelectual e legislação 
+nacional aplicável. Você não poderá copiar ou reproduzir total ou parcialmente 
+o SOFTWARE, sendo-lhe permitido tão somente: (i) fazer uma única cópia 
+do SOFTWARE exclusivamente para fins de salvaguarda e arquivo; ou, 
+alternativamente, (ii) transferir o SOFTWARE para um único disco rígido, desde 
+que você mantenha a cópia original exclusivamente para fins de salvaguarda e 
+arquivo.
+3.  Limitações de Uso.   Você não poderá fazer engenharia reversa, descompilar, 
+desmontar, modificar, traduzir e/ou criar ou desenvolver obras derivativas do 
+SOFTWARE. Você não poderá alugar, vender, sublicenciar nem emprestar 
+o SOFTWARE. O SOFTWARE é licenciado como um produto único. Seus 
+componentes não podem ser separados para fins de utilização em mais de um 
+computador. Todavia, você pode transferir permanentemente todos os direitos sob 
+esta Licença, contanto que: (i) você não retenha nenhuma cópia do SOFTWARE, 
+(ii) transfira o SOFTWARE todo (inclusive todos os materiais fornecidos com o 
+mesmo) e (iii) o destinatário concorde com os termos desta Licença. 
+4.  Garantia.  A SYNERGEX garante que, durante um prazo de 90 (noventa) dias 
+contado da data de recebimento do SOFTWARE, desde que não modificado 
+por você e usado conforme as instruções, o SOFTWARE terá um desempenho 
+substancialmente de acordo com os materiais escritos que o acompanham e que a 
+mídia estará livre de defeitos.
+4. 1.  Caso o desempenho do SOFTWARE não corresponda aos termos da garantia 
+acima, a única responsabilidade da SYNERGEX e seus distribuidores, bem assim 
+seu único direito nesse tocante, a critério exclusivo da SYNERGEX, será (i) a 
+devolução do preço pago pelo SOFTWARE; ou, alternativamente, (ii) o conserto ou 
+substituição do SOFTWARE desconforme, desde que seja devolvido à SYNERGEX 
+ou seus distribuidores na vigência do período de garantia, acompanhado da 
+respectiva Nota Fiscal. A garantia acima será considerada nula, a critério exclusivo 
+da SYNERGEX, se a desconformidade do SOFTWARE resultar de modificação, 
+acidente, abuso ou utilização inadequada. Qualquer SOFTWARE substituído será 
+garantido pelo restante do prazo original da garantia ou por trinta (30) dias, o que
+
+59
+for maior.
+4. 2.  Exceto se diversamente especificado nesta Licença e na medida do máximo 
+permitido por lei, a SYNERGEX e seus distribuidores não outorgam qualquer outra 
+garantia, oral ou escrita, expressa ou implícita (incluindo, mas não se limitando 
+a, garantias implícitas de comercialização, adequação a um fim específico, 
+titularidade e não infração de direitos).
+5.  Responsabilidade.  Você reconhece e consente que a SYNERGEX e/ou seus 
+distribuidores não se responsabilizam por nenhum dano (incluindo, sem limitações, 
+dano especial, incidental, conseqüencial ou indireto, lucros cessantes e perda 
+de informações) ou qualquer outro prejuízo pecuniário decorrente do uso ou da 
+impossibilidade de usar o SOFTWARE. Ademais, a responsabilidade total da 
+SYNERGEX e/ou seus distribuidores sob esta Licença é limitada à quantia que foi, 
+de fato, paga por você pelo SOFTWARE. Você reconhece e aceita que as limitações 
+de responsabilidade aqui estabelecidas foram essenciais na determinação do preço 
+pago por você pelo SOFTWARE.
+6.  Rescisão.  Caso você viole qualquer disposição desta Licença, a SYNERGEX 
+poderá rescindir imediatamente esta Licença, sem prejuízo de nenhum outro 
+direito da SYNERGEX e/ou seus distribuidores. Se a Licença for rescindida, 
+você deverá devolver o SOFTWARE à SYNERGEX ou a qualquer terceiro por esta 
+indicado ou, mediante solicitação da SYNERGEX, destruir todas as cópias do 
+SOFTWARE. 
+7. Lei aplicável e solução de conflitos. Esta Licença é regida pelas leis da República 
+Federativa do Brasil. As partes elegem o foro central da Comarca de São Paulo, 
+Estado de São Paulo, para dirimir quaisquer controvérsias relacionadas à Licença, 
+com renúncia expressa a qualquer outro foro, por mais privilegiado que seja.
+8.  Registro.  Esta Licença está registrada junto ao Cartório de Registro de Imóveis, 
+Títulos e Documentos e Civil de Pessoas Jurídicas da Comarca de Barueri, sob o 
+número 455. 972.
+Suporte TÉCNICO
+A Synergex do Brasil oferece suporte via e-mail. Qualquer dúvida ou 
+sugestão favor entrar em contato com o e-mail abaixo.
+CRÉDITOS
+Diretor Geral	
+	
+	
+Glauco D´Alessandro Bueno 
+Gerente de Produto	
+	
+João Gabriel Albani 
+Tradução		
+	
+	
+Quoted 
+Localização e Criação Adicional	
+OFÍCIO:DESIGN 
+	 	 	
+	
+	
+	
+www. oficiodesign. com
+ 
+ 
+Synergex do Brasil Distribuição e Logística LTDA.  
+CNPJ: 08.871.344/0001-88 
+av.  Piracema, 1411 Módulo 06 
+06460-030 BARUERI SP

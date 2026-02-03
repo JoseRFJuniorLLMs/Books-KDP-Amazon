@@ -1,0 +1,810 @@
+ANÁLISE DA DECOMPOSIÇÃO DE MATERIAIS POLIMÉRICOS TRANSPARENTE (BLOCOS) SOB AÇÃO DE RAIOS LASER EM MODELO DE GERAÇÃO LIVRE
+
+M.A. Sultanov, B.N. Narzullayev, V. Urunov
+
+OTIC
+electe
+NOV 7 S8T
+
+Aprovado para liberação pública
+Distribuição ilimitada.
+
+FTDJ:D(RS)T-0646-87
+
+PARTE DA TRADUÇÃO MECANIZADA EDITADA
+
+FTD-ID(RS)T-0646-87 26 de agosto de 1987
+
+MICROFICHE NR: FTD-87-C-000679
+
+ANÁLISE DA DECOMPOSIÇÃO DE MATERIAIS POLIMÉRICOS TRANSPARENTE
+(BLOCOS) SOB AÇÃO DE RAIOS LASER
+EM MODELO DE GERAÇÃO LIVRE
+
+Por: M.A. Sultanov, B.N. Narzullayev, V. Urunov
+
+Páginas em inglês: 11
+
+Fonte: Doklady Akademii Nauk Tadzhikskoy SSR, Vol. 13,
+Nr. 3, 1970, pp. 12-16
+
+País de origem: URSS
+
+Este documento é uma tradução mecânica.
+
+Entrada por: Eva R. Johnson
+Mesclado por: Rilla A. Toliver
+Solicitante: FTD/TQTR
+
+
+Acesso para:
+Mesclado por: Rilla A. Toliver  TAB^1
+Solicitante: FTD/TQTR
+
+Aprovado para liberação pública; Distribuição ilimitada.
+
+Preparado por:
+
+Comentários editoriais, declarações ou teorias
+advogadas ou implícitas são aquelas do
+Divisão de Tradução de Fontes Estrangeiras
+
+E não necessariamente refletem a posição
+
+Divisão de Tecnologia Estrangeira
+
+ou opinião da Divisão de Tecnologia Estrangeira.
+
+WPAFB, OHIO.
+
+MT CORREÇÕES DE TRADUÇÃO
+
+
+Ao utilizar este documento, você pode notar traduções técnicas incorretas ou menos ótimas. O pessoal da Divisão de Tradução estará grato por qualquer correção que você nos enviar. A próxima página contém espaços em branco para sua conveniência na recomendação de melhores traduções técnicas.
+
+Nós precisamos de três coisas: a tradução incorreta ou ruim, a palavra ou frase correta ou melhorada, e o número da página no idioma estrangeiro.
+
+Exemplo:
+
+Tradução # FTD-ID(RS)T-0204-86 (Fornece SIT)
+
+Página estrangeira // _
+
+Palavra/frase incorreta: _
+
+
+Recomendação: 
+
+
+Números de páginas estrangeiras ocorrem no texto em inglês e podem ser encontrados em qualquer lugar da margem esquerda da página, como neste exemplo:
+
+Em elas ocorre o estado chamado "cegueira noturna" - hemeralopia, que, segundo a atual perspectiva, é resultado do dano ao aparelho ciliar do olho.
+
+Página 51.
+
+No entanto, nos últimos anos foi demonstrado que com as degenerações pigmentares hereditárias em animais, as mudanças bioquímicas são observadas em todos os elementos celulares da retina.
+
+
+Remova a folha com suas recomendações da tradução e envie-a para:
+
+SITR/Sr. Koolbeck/76538
+
+O processo de modificação do dicionário requer de seis semanas a seis meses para ser concluído; portanto, será algum tempo antes que os resultados das suas recomendações sejam evidentes nas traduções.
+
+Agradecemos sua assistência na melhoria do produto de tradução mecânica.
+
+
+TRANLAÇÃO 0 FTP-ID (RS)T-0646-87
+
+Página estrangeira # _ 
+
+Palavra/frase incorreta: _
+
+
+Recomendação : 
+
+
+Página estrangeira ft _ 
+
+Palavra/frase incorreta: 
+
+
+Recomendação : 
+
+
+Página estrangeira // _ 
+
+Palavra/frase incorreta: 
+
+
+Recomendação : 
+
+
+Página estrangeira If _ 
+
+Palavra/frase incorreta:
+
+
+Recommendation: 
+
+
+ii 
+
+
+U.  S.  BOARD  ON  GEOGRAPHIC  NAMES  TRANSLITERATION  SYSTEM 
+
+
+Block  Italic 
+
+Transliteration 
+
+Block 
+
+Italic 
+
+Transliterat 
+
+A  a 
+
+A  a 
+
+A, 
+
+a 
+
+P  P 
+
+P 
+
+P 
+
+R,  r 
+
+5  5 
+
+B  6 
+
+B, 
+
+b 
+
+C  c 
+
+C 
+
+c 
+
+S ,  s 
+
+3  a 
+
+B  • 
+
+v, 
+
+V 
+
+T  T 
+
+T 
+
+m 
+
+T,  t 
+
+i“  r 
+
+r  • 
+
+G, 
+
+g 
+
+y  y 
+
+y 
+
+y 
+
+U,  u 
+
+n 
+
+A  -4 
+
+a  ^ 
+
+D, 
+
+d 
+
+0  0 
+
+0 
+
+* 
+
+F,  f 
+
+E  e 
+
+£  * 
+
+Ye 
+
+,  ye;  E,  e* 
+
+X  X 
+
+X 
+
+X 
+
+Kh,  kh 
+
+A*  w 
+
+M  OK 
+
+Zh 
+
+,  zh 
+
+u  ^ 
+
+U 
+
+u 
+
+Ts ,  ts 
+
+3  3  ■ 
+
+5  i 
+
+z. 
+
+z 
+
+H  H 
+
+V 
+
+V 
+
+Ch,  ch 
+
+A  H 
+
+H  u 
+
+I, 
+
+i 
+
+UJ  uj 
+
+w 
+
+w 
+
+Sh ,  sh 
+
+ft  a 
+
+Y, 
+
+y 
+
+HI  u; 
+
+m 
+
+Shch,  shch 
+
+K  H 
+
+K  K 
+
+K, 
+
+k 
+
+b  t 
+
+•b 
+
+% 
+
+ft 
+
+jl  n 
+
+n  a 
+
+L, 
+
+1 
+
+bl  bl 
+
+u 
+
+y 
+
+Y,  y 
+
+■'!  M 
+
+M  M 
+
+M, 
+
+m 
+
+b  b 
+
+b 
+
+4 
+
+» 
+
+H  H 
+
+H  H 
+
+N, 
+
+n 
+
+3  3 
+
+9 
+
+> 
+
+E,  e 
+
+C  Q 
+
+0  0 
+
+o. 
+
+0 
+
+Hj  >0 
+
+JO 
+
+n 
+
+Yu,  yu 
+
+n 
+
+n  n 
+
+P, 
+
+P 
+
+fl  H 
+
+X 
+
+A 
+
+Ya,  ya 
+
+*ye  initially,  after 
+
+vowels,  and  after  "b,  b ;  e  elsewhere. 
+
+When  written  as  8  in 
+
+Russian,  transliterate  as  y8 
+
+or  8. 
+
+RUSSIAN 
+
+AND  ENGLISH  TRIGONOMETRIC  FUNCTIONS 
+
+Russian 
+
+English 
+
+Russian 
+
+English 
+
+Russian 
+
+English 
+
+sin 
+
+sin 
+
+sh 
+
+sinh 
+
+arc 
+
+sh 
+
+sinh_1 
+
+cos 
+
+cos 
+
+ch 
+
+cosh 
+
+arc 
+
+ch 
+
+cosh  1 
+
+tg 
+
+tan 
+
+th 
+
+tanh 
+
+arc 
+
+th 
+
+tanh  1 
+
+ctg 
+
+cot 
+
+cth 
+
+coth 
+
+arc 
+
+cth 
+
+coth  1 
+
+sec 
+
+sec 
+
+sch 
+
+sech 
+
+arc 
+
+sch 
+
+sech_l 
+
+cosec 
+
+CSC 
+
+csch 
+
+csch 
+
+arc 
+
+csch 
+
+csch  1 
+
+Russian 
+
+English 
+
+rot 
+
+curl 
+
+lg 
+
+log 
+
+GRAPHICS  DISCLAIMER 
+
+All  figures,  graphics. 
+
+tables,  equations,  etc 
+
+• 
+
+merged  into  this  translation  were  extracted 
+
+from  the  best  quality  copy  available. 
+
+
+iii 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+/ 
+
+
+Page  12. 
+
+ANALYSIS  OF  THE  DECOMPOS I T I ON  OF  TRANSPARENT  POLYMER  MATERIALS 
+(BLOCKS)  UNDER  THE  ACTION  OF  LASER  BEAMS  IN  FREE  GENERATION  MODE. 
+
+M.  A.  Sultanov,  B.  N.  Narzullayev,  V.  Urunov. 
+
+(Presented  by  academician  of  AS  of  Tadzhik  SSR  0.  V.  Dobrovol 'skiy  9 
+June  1969). 
+
+Yn  the  literatures  in  es  sen  centra  s  investigated  mechanism  of 
+decomposition  of  transparent  blocks  depending  on  power  of  generation, 
+on  number  of  pulses/momenta,  on  focal  length  of  lens  and  so  forth  on 
+ruby  and  neodymium  lasers  both  in  regime/conditions  of  free  generation 
+and  in  regime/conditions  of  giant  pulse/momentum.  However,  the 
+mechanism  of  the  decomposition  of  the  materials  indicated  under  the 
+
+action  of  laser  beams  by  the  different  authors  is  explained  - 
+
+- - - -  -  .  - 
+
+differently*  for  example,  the  authors  of  work  [1]  assume  that  the 
+basic  reason  for  the  decomposition  of  transparent  materials  under  the 
+effect  of  laser  radiation  is  the  propagation  of  the  acoustic  waves, 
+formed  as  a  result  of  the  forced  combination  scattering  of 
+Mandelstam-Brillouin  -  VKRMB.  To  the  same  opinion  adhere  the  authors 
+of  works  [2,  3],  but  in  [4,  5]  by  the  authors  is  proposed  the 
+mechanism  of  decomposition,  which  occurs  due  to  the  local  heating  of 
+substance  in  the  focus  of  ray/beam  and  formation  of  the  foci  of  the 
+high  temperature,  in  consequence  of  which  appear  the  dynamic  stresses, 
+which  will  lead  to  the  shift  effects.  In  [4]  was  also  indicated  the 
+formation  of  the  gas  pockets  in  the  material  and  of  cracks  in  the  form 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+of  the  "plates",  arranged/located  at  an  angle  of  45°  with  respect  to 
+the  direction  of  laser  beam  [63.  However,  in  [7]  it  is  noted  that 
+crack  formation  in  PMMA  [flMfyA  -  polymethyl  methacrylate]  is  the  result 
+
+of  the  propagation  of  cross  and  longitudinal  hypersonic  waves. 
+
+r\.„ 
+
+V 
+
+
+V  ■ 
+
+at  unity  ci 
+
+A partir da análise de dados literários, é evidente que a 'persistência de opinião' sobre o mecanismo de decomposição de materiais transparentes (bloques) sob o efeito de emissão coesa ainda não existe atualmente. Alguns resultados experimentais obtidos pelos autores desta obra mostraram que no mecanismo de decomposição, os efeitos térmicos desempenham um papel dominante [8].
+
+Portanto, foi interessante verificar esta suposição no caso do efeito da emissão laser em materiais poliméricos. Para isso, foram montadas duas instalações a laser sobre vidro com neodímio. O trabalho foi realizado no regime/condições de geração livre. As dimensões dos cristais compreendiam 12x120 e 12x140 mm respectivamente, o tempo de geração - aproximadamente 500 ms, o diâmetro do spot no foco da raia/raio - na ordem de 0,1 mm.
+
+A energia de geração na instalação foi alterada de 10 a 20 joules.
+
+Foram estudados os cambios na forma de fratura dos blocos de metilmetacrilato - PMMA, quartzo, vidro, poliestireno em dependência da focalização do lente, potência de geração do local de foco do raio/laser. As imagens de decomposição foram investigadas tanto visualmente quanto fotográficamente com a ajuda da câmera fotográfica e microscópio.
+
+A imagem comum da decomposição de materiais transparentes (PMMA, poliestireno) sob o efeito/ação das jato laser no regime/condições de geração livre aparece da seguinte forma.
+
+"""
+Com o foco da janela de laser em PMMA e poliestireno, ocorre uma decomposição intensa desses materiais, além disso, a decomposição está acompanhada pela formação de rachaduras planas/alongadas na forma de "placas" de diferentes tamanhos/dimensões, dispostas/localizadas em diferentes ângulos de inclinação/inclinação em relação ao eixo da ray/ray. 
+
+Neste caso, as rachaduras são deslocadas assimétrica para os lados diferentes do eixo da ray/ray e, como regra geral, estão fortemente carbonizadas (especialmente no poliestireno). 
+
+1. Investigação de imagem da decomposição de materiais transparentes em função da distância focal do lente. Para isso foram utilizadas as lentes com distância focal de 33,75 e 150 mm.
+
+Análise das imagens de decomposição com essa variante experimental mostra que com o aumento da distância focal da lente, a extensão total do dano/defeito causado pela ray/ray aumenta. Neste caso, as dimensões das rachaduras diminuem ao longo do diâmetro; no entanto, seu número é aumentado por unidade de comprimento da ray/ray. Uma mudança na distância focal afeta também o ângulo da inclinação das "placas" em relação ao eixo da ray/ray. Com um aumento na distância focal, o ângulo da inclinação das rachaduras diminui.
+
+Análise de uma das imagens de decomposição do PMMA sob a ação/efeito da janela de laser com distância focal da lente igual a 150 mm e energia de saída/captação igual a 10 joules mostra o seguinte.
+"""
+
+"""
+A comprimento total da decomposição na linha de luz ultrapassa mais de 30 mm. No trabalho, toda a imagem da decomposição foi dividida em três seções (de um centímetro) e calculada a quantidade de rachaduras para cada uma delas. Nesse caso, explicou-se que o número de rachaduras a uma distância de 10 mm do local do foco no curso da linha de luz compõe 100-110, com o diâmetro máximo/total dessas rachaduras tendo dimensões/tamanhos de 5 mm, mínimo - 0,005 mm. Na seção seguinte, o número de rachaduras compõe 160-170? o maior/diâmetro total - até 3 mm, mínimo - 0,004 mm. Na última/ultima seção, o número de rachaduras - 90 — 100? o maior/diâmetro total - até 2 mm, mínimo - 0,004 mm.
+
+Como pode ser visto do análise dessa imagem, com a remoção da linha/ray do local do foco, as dimensões das rachaduras diminuem. O maior número de rachaduras cai na seção intermediária da região da decomposição.
+
+
+2. Estudo da forma do fraturamento do PMMA e do vidro dependendo do
+
+DOC * 87064600
+
+
+PÁGINA Jg*
+
+
+local do foco. O laser foi focado no fronteiro, no volume e na superfície posterior do material com a ajuda de um lente de comprimento focal de 33 mm. Os resultados experimentais são mostrados:
+
+a) Com o foco da linha/ray na superfície frontal é observada a formação de grandes "placas" no foco (PMMA), e também o desgaste do material (vidro), resultando em crateras, cujas dimensões/tamanhos dependem da potência de geração e comprimento focal da lente;
+"""
+
+b) com o foco da radiação/ray/raio dentro do material, decomposição é observada tanto no local de convergência do raio/ray/raio quanto após ele. No entanto, no local de convergência do raio/ray/raio, o número de rachaduras é menor que após o foco. No local do foco, é observada a presença de muitas rachaduras, situadas também em diferentes ângulos em relação ao eixo do ray/ray/raio, e segundo a relação amiga e amiga;
+
+c) com o foco da radiação/ray/raio mais próximo do bordo traseiro do amostra, forma-se uma grande "placa", então a formação de outras rachaduras tanto no sentido do raio/ray/raio quanto perpendicular a ele, ou seja, parte da radiação/ray/raio muda sua direção em relação à original a um ângulo de 90°.
+
+Página 14.
+
+Com baixos valores de energia da radiação/ray/raio (menores que 10 joules), aparece a decomposição adicional, causada pela reflexão do feixe laser nas rachaduras separadas, cujos eixos estão direcionados aproximadamente em ângulos diferentes em relação ao eixo principal da tendência do feixe laser. Neste caso, os tamanhos/dimensões das rachaduras no diâmetro não ultrapassam 1,5-2 mm; eles, na regra, são orientados a um ângulo de 45° em relação ao eixo do feixe luminoso e sua quantidade varia dependendo da potência de geração.
+
+Mas se focarmos o raio/ray/raio muito próximo do bordo traseiro, então ocorre o desgaste da superfície (PMMA, vidro), como resultado do qual também é observado crateramento.
+
+"""
+3. Estudo de imagens de decomposição em função da potência.
+Experimentos experimentais mostram que com aumento na potência, a forma do fraturamento é alterada. Aumentam-se as dimensões das "placas" no diâmetro, o ângulo da inclinação em relação ao eixo do feixe de laser e a quantidade de rachaduras (ambas grandes e pequenas) por unidade de comprimento na direção da luz. Neste caso, os microfendas estão dispostos/talhados por dimensões para 0,005 mm, formadas como resultado da decomposição, não apenas no eixo do raio/feixe, mas também se espalham pelos lados a diferentes distâncias dele.
+
+Fig. 1 apresenta fotografias de decomposição de PMMA sob o efeito/ação do feixe de laser com dois coeficientes de potência. O foco foi produzido no interior da amostra por um lente com comprimento focal de 33 mm. Nas fotografias, a seta horizontal/indicadora aponta para a direção do feixe de laser para as respectivas imagens de decomposição, enquanto a vertical indica os locais de foco.
+
+DOC = 87U64600
+
+PÁGINA
+
+7
+"""
+
+
+Analysis  of  experimental  results  shows  that  with  energy  of 
+output/yield  of  generation  in  10  joules  (Fig.  la)  maximum/overall 
+diameter  of  crack  composes  2.1  mm  and  angles  of  slope  of  cracks  with 
+respect  to  axis  of  ray/beam  it  does  not  exceed  45°.  But  in  the  case, 
+when  energies  of  generation  are  approximately  20  joules  (Fig.  lb),  the 
+sizes/dimensions  of  cracks  reach  4.1  mm  and  more.  In  both  cases  the 
+minimal  sizes  of  cracks  comprise  to  0.2  mm.  In  this  case  the 
+inclination/slope  of  cracks  to  the  axis  of  laser  beam  can  exceed  45°. 
+This  is  especially  well  noticeable  at  the  power  of  generation  of 
+approximately  20  joules.  From  the  comparison  of  photographs  (a)  and 
+(b)  it  is  possible  to  easily  note  a  difference  in  form  of  fracture  not 
+only  in  dimensions  of  cracks,  but  also  in  their  quantity  throughout 
+the  entire  length  of  laser  beam  and  on  the  inclination/slope  of  some 
+
+
+cracks . 
+
+
+Fig.  1.  Pictures  of  decomposition  of  PMMA  under  effect/action  of 
+focused  laser  beam:  a)  at  power  of  generation  10  joules, 
+magnification  8x;  b)  at  the  power  of  generation  20  joules,  mag.  8x;  c) 
+the  enlarged  image  of  the  place  of  the  focusing  of  ray/beam,  mag.  16x. 
+
+Page  15. 
+
+Greatest  decomposition  is  observed  in  places  of  focusing  of  laser 
+beam.  Here  all  cracks  are  strongly  charred.  Even  during  the  more 
+powerful  regimes/conditions  of  generation  (about  20  joules)  in  the 
+
+material  in  the  place  of  focusing  it  is  possible  to  observe  the 
+
+4? 
+
+charred  cavities  (volumes).  For  the  example  in /fig.  lc  is  given  the 
+photograph  of  decomposition  of  PMMA  in  the  place  of  focusing  (the 
+enlarged  image  Fig.  lb).  From  the  photograph  one  can  see  well  that  in 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+1 
+
+"""
+o lugar onde o fio/ray se concentra é um ponto de maior decomposição. Além disso, a presença de muitos rachaduras de diferentes diâmetros, dispostas/localizadas em diferentes ângulos em relação ao eixo do fio/ray, é evidente.
+
+Os resultados experimentais obtidos neste trabalho levam os autores a pensar que durante os regimes/condições mais poderosos/thicker de geração na fase inicial da reação de emissão laser com materiais transparentes não é possível explicar a formação das rachaduras pelo efeito VKRMB, pois segundo dados bibliográficos, com este efeito devem ser formadas "placas" com inclinação/declive em relação ao eixo do fio/ray de aproximadamente 45°.
+
+O mecanismo de decomposição dos materiais transparentes sob a ação de raios/lasers durante o modo poderoso de geração para nós é semelhante.
+
+Ao passar o raio laser através dos materiais transparentes nos lugares de foco, o material rapidamente aquece e se transforma em estado líquido, onde ocorre uma absorção adicional de energia [9]. Como resultado, é formado plasma que expande a alta velocidade. O fenômeno é reduzido a um instante e explosão poderosa/thick.
+
+Este processo tem caráter hidrodinâmico e está acompanhado pela formação de onda de choque. Neste caso, ela se propaga com velocidade hipersônica, levando à decomposição adicional do amostra tanto antes quanto após o foco do raio laser.
+
+
+DOC « 87064600
+
+
+PÁGINA
+"""
+
+"""
+
+A presença de queima intensiva de material e formação de numerosas fendas em diferentes ângulos, até 80-85° em relação ao eixo do feixe luminoso, pode servir como confirmação de que no lugar do plasma focado, é formado. No entanto, após o foco da raio/fecho, a formação das fendas ocorre显而易见，这段文本包含非英文字符和特殊格式，无法直接翻译。这部分似乎是某种文档的引用或分发列表，并且包含俄文和其他语言的内容。请确认您需要翻译的具体内容或提供原始完整文本以便进行准确翻译。
+
+E429  SD/IND 
+
+POOS  DOE/ ISA/ DO I 
+
+POSO  CXA/OCR/ADD/SD 
+
+AFIT/LDE 
+
+PTD 
+
+CCN 
+
+XU/PHS 
+
+UNL/C04«  L-389 
+HASA/NST-44 
+
+NSa/1213/TDL 
+ASD/FTD/VQIA 
+
+
+1 
+
+I 
+
+9 
+
+I 
+
+1 
+
+l 
+
+1 
+
+l 
+
+l 
+
+l 
+
+A 
+
+1 
+
+1 
+
+1 
+
+I 
+
+1 
+1 
+I* 
+1 
+
+2 
+l 
+
+l 
+
+1 
+
+l 
+
+1 
+
+* 
+
+* 
+
+l 
+
+
+FTD-ID(RS)T-0646-87

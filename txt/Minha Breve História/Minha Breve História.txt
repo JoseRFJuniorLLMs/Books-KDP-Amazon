@@ -1,0 +1,8969 @@
+DADOS DE COPYRIGHT
+
+
+
+
+Sobre a obra:
+
+
+
+
+A presente obra é disponibilizada pela equipe 
+
+ 
+
+Le Livros
+
+ 
+
+e seus diversos parceiros, com o objetivo de oferecer conteúdo para uso parcial em pesquisas e estudos acadêmicos, bem como
+
+
+
+
+o simples teste da qualidade da obra, com o fim exclusivo de compra futura. 
+
+
+
+
+É expressamente proibida e totalmente repudíavel a venda, aluguel, ou quaisquer uso
+
+
+
+
+comercial do presente conteúdo
+
+
+
+
+Sobre nós:
+
+
+
+
+O 
+
+ 
+
+Le Livros
+
+ 
+
+e seus parceiros, disponibilizam conteúdo de dominio publico e propriedade intelectual de forma totalmente gratuita, por acreditar que o conhecimento e a educação devem
+
+
+
+
+ser acessíveis e livres a toda e qualquer pessoa. Você pode encontrar mais obras em nosso
+
+
+
+
+site:
+
+ 
+
+LeLivros.Info
+
+ 
+
+ou em qualquer um dos sites parceiros apresentados 
+
+neste link. 
+
+
+
+
+ 
+
+Quando o mundo estiver unido na busca do conhecimento, e não mais lutando por
+
+
+
+
+ 
+
+dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo nível. 
+
+
+
+
+
+
+
+Copyright © Stephen Hawking, 2013
+
+
+
+
+Publicado originalmente por Bantam Books, um selo de Random House Publishing Group, uma divisão de Random House
+
+
+
+
+LLC, uma companhia de Penguin Random House, Nova York. 
+
+
+
+
+TÍTULO ORIGINAL
+
+
+
+
+My Brief History
+
+
+
+
+REVISÃO
+
+
+
+
+Taís Monteiro
+
+
+
+
+DIAGRAM AÇÃO E TRATAM ENTO DE IM AGENS
+
+
+
+
+Editoriarte
+
+
+
+
+Trechos desta obra apareceram originalmente, em diferentes formatos, como parte de palestras proferidas pelo autor ao longo dos anos. 
+
+
+
+
+GERAÇÃO DE EPUB
+
+
+
+
+Simplíssimo Livros
+
+
+
+
+E-ISBN
+
+
+
+
+978-85-8057-426-5
+
+
+
+
+Edição digital: 2013
+
+
+
+
+ 
+
+Todos os direitos desta edição reservados à
+
+
+
+
+EDITORA INTRÍNSECA LTDA. 
+
+
+
+
+Rua Marquês de São Vicente, 99, 3º andar
+
+
+
+
+22451-041 – Gávea
+
+
+
+
+Rio de Janeiro – RJ
+
+
+
+
+Tel./Fax: (21) 3206-7400
+
+
+
+
+www.intrinseca.com.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+»
+
+
+
+
+»
+
+
+
+
+»
+
+
+
+
+
+
+
+»
+
+
+
+
+ 
+
+Para William, George e Rose
+
+
+
+
+
+
+
+SUMÁRIO
+
+
+
+
+Capa
+
+
+
+
+Folha de rosto
+
+
+
+
+Créditos
+
+
+
+
+Mídias sociais
+
+
+
+
+Dedicatória
+
+
+
+
+1      
+
+Infância
+
+
+
+
+2     
+
+St. Albans
+
+
+
+
+3     
+
+Oxford
+
+
+
+
+4     
+
+Cambridge
+
+
+
+
+5     
+
+Ondas gravitacionais
+
+
+
+
+6     
+
+O Big Bang
+
+
+
+
+7     
+
+Buracos negros
+
+
+
+
+8     
+
+Caltech
+
+
+
+
+9     
+
+Casamento
+
+
+
+
+10   
+
+Uma breve história do tempo
+
+
+
+
+11    
+
+Viagem no tempo
+
+
+
+
+12   
+
+Tempo imaginário
+
+
+
+
+13   
+
+Sem fronteiras
+
+
+
+
+      Créditos das imagens
+
+
+
+
+ Sobre o autor
+
+
+
+
+
+
+
+1
+
+
+
+
+INFÂNCIA
+
+
+
+
+M EU PAI, FRANK, DESCENDIA DE UMA LINHAGEM DE FAZENDEIROS arrendatários de
+
+
+
+
+Yorkshire, na Inglaterra. Seu avô — meu bisavô John Hawking — fora um rico
+
+
+
+
+fazendeiro, mas comprara muitas fazendas e fora à falência na depressão agrícola, no início do
+
+
+
+
+século XIX. Seu filho, Robert — meu avô —, tentou ajudar o pai, mas também faliu. 
+
+
+
+
+Felizmente, a esposa de Robert era dona de uma casa em Boroughbridge na qual administrava
+
+
+
+
+uma escola, o que lhes garantia uma pequena renda. Assim, conseguiram enviar o filho para
+
+
+
+
+Oxford, onde ele estudou medicina. 
+
+
+
+
+Meu pai ganhou uma série de bolsas de estudo e prêmios, o que lhe permitiu enviar
+
+
+
+
+dinheiro para os pais. Começou a pesquisar medicina tropical e, em 1937, viajou para a
+
+
+
+
+África Oriental, como parte da pesquisa. Quando a guerra começou, ele atravessou a África
+
+
+
+
+por terra até chegar ao Congo, pegou um navio de volta para a Inglaterra e se alistou no
+
+
+
+
+serviço militar. Contudo, foi informado de que era mais valioso na pesquisa médica. 
+
+
+
+
+
+
+
+Meu pai e eu
+
+
+
+
+
+
+
+Com minha mãe
+
+
+
+
+Minha mãe nasceu em Dunfermline, na Escócia, a terceira de oito filhos de um médico de
+
+
+
+
+família. A mais velha era uma menina com síndrome de Down, que viveu separadamente com
+
+
+
+
+uma  cuidadora,  até  morrer  aos  treze  anos. A  família  se  mudou  para  Devon,  ao  sul,  quando
+
+
+
+
+minha  mãe  tinha  doze  anos. Assim  como  a  família  de  meu  pai,  a  dela  não  era  abastada.  No
+
+
+
+
+entanto, seus pais também conseguiram enviá-la para Oxford. Depois da faculdade, minha mãe
+
+
+
+
+
+
+
+teve diversos empregos, incluindo o de fiscal da receita, atividade da qual não gostava. Ela
+
+
+
+
+desistiu  do  emprego  e  se  tornou  secretária,  que  foi  como  conheceu  meu  pai,  nos  primeiros
+
+
+
+
+anos da guerra. 
+
+
+
+
+* * *
+
+
+NASCI NO dia 8 de janeiro de 1942, exatos trezentos anos após a morte de Galileu. Calculo, 
+
+
+
+
+porém, que cerca de duzentos mil outros bebês também nasceram naquele dia e não sei se
+
+
+
+
+algum deles posteriormente se interessou por astronomia. 
+
+
+
+
+Nasci em Oxford, embora meus pais morassem em Londres. Isso aconteceu porque, 
+
+
+
+
+durante a Segunda Guerra Mundial, os alemães firmaram um acordo que estabelecia que não
+
+
+
+
+bombardeariam Oxford e Cambridge se os britânicos não bombardeassem Heidelberg e
+
+
+
+
+Göttingen. É uma pena que esse tipo de acordo civilizado não pudesse ter sido estendido a
+
+
+
+
+mais cidades. 
+
+
+
+
+Morávamos em Highgate, no norte de Londres. Minha irmã Mary nasceu dezoito meses
+
+
+
+
+depois de mim, e me disseram que eu não vi a chegada dela com bons olhos. Durante toda a
+
+
+
+
+infância houve certa tensão entre nós, alimentada pela estreita diferença de idade. Entretanto, a
+
+
+
+
+tensão desapareceu em nossa vida adulta, quando seguimos caminhos diferentes. Ela se tornou
+
+
+
+
+médica, o que agradou ao meu pai. 
+
+
+
+
+Eu, Phillipa e Mary
+
+
+
+
+Minha  irmã  Philippa  nasceu  quando  eu  tinha  quase  cinco  anos  e  era  capaz  de  entender
+
+
+
+
+melhor o que estava acontecendo. Lembro-me de ter esperado sua chegada ansiosamente, pois
+
+
+
+
+assim  haveria  três  de  nós  para  brincar.  Ela  era  uma  criança  muito  intensa  e  perspicaz,  e
+
+
+
+
+sempre respeitei seu julgamento e suas opiniões. Meu irmão Edward foi adotado muito mais
+
+
+
+
+
+
+
+tarde, quando eu tinha quatorze anos, de forma que mal participou de minha infância. Ele era
+
+
+
+
+muito diferente dos outros três irmãos, completamente não acadêmico e não intelectual, o que
+
+
+
+
+provavelmente  foi  bom  para  nós.  Era  uma  criança  muito  difícil,  mas  da  qual  era  impossível
+
+
+
+
+não gostar. Edward morreu em 2004, de uma causa que nunca foi adequadamente determinada:
+
+
+
+
+a  explicação  mais  provável  é  a  de  envenenamento  pelos  vapores  da  cola  que  usava  para
+
+
+
+
+reformar seu apartamento. 
+
+
+
+
+Eu e meus irmãos na praia
+
+
+
+
+MINHA LEMBRANÇA mais remota é de estar no jardim de infância da Byron House School, 
+
+
+
+
+em Highgate, chorando desesperadamente. Ao meu redor, as crianças se divertiam com o que
+
+
+
+
+me pareciam ser brinquedos maravilhosos, e eu queria participar daquilo. Mas tinha apenas
+
+
+
+
+dois anos e meio, era a primeira vez que ficava com pessoas que não conhecia e estava com
+
+
+
+
+medo. Acho que meus pais ficaram muito surpresos com a minha reação, porque eu era o
+
+
+
+
+primeiro filho e eles se orientavam por livros sobre desenvolvimento infantil, que diziam que
+
+
+
+
+as crianças deveriam estar prontas para começar a ter relações sociais aos dois anos. Mas
+
+
+
+
+eles me levaram embora após aquela terrível manhã e só voltei para a Byron House um ano e
+
+
+
+
+meio depois. 
+
+
+
+
+Naquela época, durante e logo após a guerra, Highgate era uma área onde viviam pessoas
+
+
+
+
+do meio científico e acadêmico. (Em outro país, seriam chamadas de intelectuais, mas os
+
+
+
+
+ingleses jamais admitiram ter intelectuais entre eles.) Todos os pais enviavam os filhos para a
+
+
+
+
+Byron House School, que era uma escola muito moderna para a época. 
+
+
+
+
+Lembro-me de ter reclamado com os meus pais que a escola não estava me ensinando
+
+
+
+
+
+
+
+nada. Os educadores da Byron House não acreditavam no que era então a maneira de se incutir
+
+
+
+
+coisas na cabeça dos alunos. Em vez disso, as crianças tinham de aprender a ler sem perceber
+
+
+
+
+que estavam sendo ensinadas. Eu por fim aprendi a ler, mas não antes da extremamente tardia
+
+
+
+
+idade de oito anos. Minha irmã Philippa aprendeu a ler com quatro anos, através de métodos
+
+
+
+
+mais convencionais. Naquela época ela era definitivamente mais brilhante do que eu. 
+
+
+
+
+Nossa rua em Highgate, Londres
+
+
+
+
+Morávamos  em  uma  casa  vitoriana  alta  e  estreita,  que  meus  pais  compraram  por  uma
+
+
+
+
+ninharia  durante  a  guerra,  quando  todos  pensavam  que  Londres  seria  destruída  por
+
+
+
+
+bombardeios.  De  fato,  um  foguete  V-2  caiu  a  algumas  casas  da  nossa.  Eu  tinha  saído  com
+
+
+
+
+minha mãe e minha irmã quando isso aconteceu, mas meu pai estava em casa. Felizmente, ele
+
+
+
+
+não se feriu e a casa não foi muito danificada. Durante anos, porém, houve uma grande cratera
+
+
+
+
+de bomba na rua, na qual eu costumava brincar com o meu amigo Howard, que morava a três
+
+
+
+
+casas  de  distância,  do  outro  lado  da  rua.  Howard  foi  uma  revelação  para  mim,  porque  seus
+
+
+
+
+pais  não  eram  intelectuais  como  os  de  todas  as  outras  crianças  que  eu  conhecia.  Ele
+
+
+
+
+frequentava uma escola pública, não a Byron House, e gostava de futebol e boxe, esportes que
+
+
+
+
+os meus pais jamais sonhariam acompanhar. 
+
+
+
+
+
+
+
+Londres durante a  
+
+Blitz
+
+
+
+
+OUTRA LEMBRANÇA remota foi a de ganhar meu primeiro trenzinho. Não se fabricavam
+
+
+
+
+brinquedos durante a guerra, ao menos não para o mercado interno. Mas eu era apaixonado
+
+
+
+
+por ferromodelismo. Meu pai tentou fazer um trem de madeira para mim, mas não fiquei
+
+
+
+
+satisfeito, porque queria algo que se movesse sozinho. Então, ele conseguiu um trem de corda
+
+
+
+
+de segunda mão, consertou-o com um ferro de solda e me deu no Natal, quando eu tinha quase
+
+
+
+
+três anos. Esse trem não funcionou muito bem. Meu pai foi para os Estados Unidos logo após a
+
+
+
+
+guerra, e, quando voltou, no  
+
+Queen Mary
+
+, trouxe algumas meias-calças para a minha mãe —
+
+
+
+
+que não eram vendidas na Inglaterra naquela época —, uma boneca que fechava os olhos
+
+
+
+
+quando você a deitava para minha irmã Mary e um trem americano para mim, completo, com
+
+
+
+
+limpa-trilhos e pista em formato de oito. Ainda me lembro de minha emoção quando abri a
+
+
+
+
+caixa. 
+
+
+
+
+
+
+
+Eu com o meu trenzinho
+
+
+
+
+Trens de brinquedo movidos a corda eram legais, mas o que eu realmente queria era um
+
+
+
+
+trem  elétrico.  Costumava  passar  horas  observando  um  clube  de  ferromodelismo  em  Crouch
+
+
+
+
+End, perto de Highgate. Eu sonhava com trens elétricos. Certo dia, quando meus pais estavam
+
+
+
+
+fora,  aproveitei  a  oportunidade  para  sacar  do  banco  postal  todas  as  minhas  modestas
+
+
+
+
+economias, dinheiro que as pessoas me davam em ocasiões especiais, como em meu batismo. 
+
+
+
+
+Usei  a  soma  para  comprar  um  trem  elétrico,  mas,  para  minha  frustração,  ele  também  não
+
+
+
+
+funcionava muito bem. Eu deveria ter devolvido o trem e exigido que a loja ou o fabricante o
+
+
+
+
+substituísse, mas, naquela época, comprar algo era considerado um privilégio, e, caso o que
+
+
+
+
+você  tivesse  adquirido  não  funcionasse  direito,  era  apenas  uma  questão  de  má  sorte.  Então
+
+
+
+
+paguei o conserto do motor elétrico, mas, mesmo assim, o trem nunca funcionou bem. 
+
+
+
+
+Mais tarde, em minha adolescência, construí aeromodelos e modelos de barcos. Nunca fui
+
+
+
+
+muito bom em habilidades manuais, mas os construía com meu colega de escola John
+
+
+
+
+McClenahan, que era muito melhor do que eu e cujo pai tinha uma oficina em casa. Meu
+
+
+
+
+objetivo sempre foi construir modelos que funcionassem e que eu pudesse controlar. Não
+
+
+
+
+ligava para a aparência. Acho que essa foi a mesma motivação que me levou a inventar uma
+
+
+
+
+série de jogos muito complicados com outro amigo de escola, Roger Ferneyhough. Havia um
+
+
+
+
+jogo completo de produção industrial, com fábricas onde eram construídas unidades de cores
+
+
+
+
+diferentes, estradas e ferrovias nas quais eram transportadas, e um mercado de ações. Havia
+
+
+
+
+um jogo de guerra, em que usávamos um tabuleiro com quatro mil quadrados, e até mesmo um
+
+
+
+
+jogo feudal, em que cada participante representava toda uma dinastia e tinha uma árvore
+
+
+
+
+genealógica. Creio que tais jogos, assim como os trens, barcos e aviões, eram fruto de um
+
+
+
+
+desejo de saber como os sistemas funcionam e como controlá-los. Desde que comecei o meu
+
+
+
+
+ph.D., essa necessidade foi satisfeita com a minha pesquisa sobre cosmologia. Se você
+
+
+
+
+entende como o universo funciona, de certa forma pode controlá-lo. 
+
+
+
+
+
+
+
+2
+
+
+
+
+ST. ALBANS
+
+
+
+
+E M 1950, O LOCAL DE TRABALHO DE MEU PAI MUDOU de Hampstead, perto de Highgate, 
+
+
+
+
+para o recém-construído Instituto Nacional de Pesquisa Médica em Mill Hill, no
+
+
+
+
+extremo norte de Londres. Em vez de viajar de Highgate até lá, pareceu-lhe mais inteligente
+
+
+
+
+mudar-se com a família para a periferia de Londres. Assim, compraram uma casa na cidade de
+
+
+
+
+St. Albans, uns dezesseis quilômetros ao norte de Mill Hill e cerca de trinta ao norte da parte
+
+
+
+
+central de Londres. Era uma grande casa vitoriana, com alguma elegância e personalidade. 
+
+
+
+
+Meus pais não estavam muito bem de vida quando a compraram e tiveram de fazer muitas
+
+
+
+
+reformas antes que pudéssemos nos mudar. Como qualquer cidadão de Yorkshire que se preze, 
+
+
+
+
+meu pai recusou-se a pagar quaisquer reparos posteriores. Em vez disso, dedicou-se a
+
+
+
+
+preservar o lugar e a mantê-lo pintado, mas era uma casa grande e ele não tinha muita
+
+
+
+
+habilidade para esse tipo de serviço. Contudo, o imóvel era solidamente construído e resistiu
+
+
+
+
+a tal negligência. Meus pais a venderam em 1985, quando meu pai estava muito doente, um
+
+
+
+
+ano antes de ele morrer. Eu a vi recentemente. Não me pareceu que tenham cuidado dela desde
+
+
+
+
+então. 
+
+
+
+
+Nossa casa em St. Albans
+
+
+
+
+A casa foi projetada para uma família com empregados, e na despensa havia um painel que
+
+
+
+
+indicava  em  qual  quarto  tocara  uma  campainha.  Obviamente  não  tínhamos  empregados,  mas
+
+
+
+
+meu primeiro quarto era um pequeno cômodo em forma de L que deve ter sido os aposentos de
+
+
+
+
+uma  empregada.  Eu  o  escolhi  por  sugestão  de  minha  prima  Sarah,  que  era  um  pouco  mais
+
+
+
+
+velha do que eu e a quem eu muito admirava. Ela disse que poderíamos nos divertir muito ali. 
+
+
+
+
+Um dos atrativos do quarto era que se podia descer pela janela para o telhado do galpão de
+
+
+
+
+bicicletas e, dali, até o chão. 
+
+
+
+
+Sarah era a filha da irmã mais velha de minha mãe, Janet, que estudara medicina e fora
+
+
+
+
+casada com um psicanalista. Moravam em uma casa muito semelhante à nossa em Harpenden, 
+
+
+
+
+um povoado oito quilômetros ao norte. Eles foram uma das razões para termos nos mudado
+
+
+
+
+para St. Albans. Eu gostava muito de estar perto de Sarah, e muitas vezes peguei o ônibus até
+
+
+
+
+Harpenden para vê-la. 
+
+
+
+
+St. Albans ficava perto das ruínas da antiga cidade romana de Verulamium, o assentamento
+
+
+
+
+romano mais importante na Inglaterra depois de Londres. Na Idade Média, tornou-se o
+
+
+
+
+mosteiro mais rico do país. O prédio fora construído em torno do santuário de Saint Alban, um
+
+
+
+
+centurião romano que dizem ter sido a primeira pessoa na Inglaterra a ser executada por sua fé
+
+
+
+
+no cristianismo. Tudo o que restava da abadia eram uma igreja muito grande e muito feia e o
+
+
+
+
+antigo portal, que fazia parte da St. Albans School, para onde fui posteriormente. St. Albans
+
+
+
+
+era um lugar um tanto antiquado e conservador se comparado a Highgate ou Harpenden. Meus
+
+
+
+
+pais quase não tinham amigos ali. Em parte por culpa deles, já que eram, por natureza, muito
+
+
+
+
+solitários, sobretudo meu pai. Mas o lugar também tinha um tipo diferente de gente. Com
+
+
+
+
+certeza, nenhum dos pais de meus colegas de escola de St. Albans poderia ser descrito como
+
+
+
+
+um intelectual. 
+
+
+
+
+Em Highgate nossa família parecia bastante normal, mas em St. Albans definitivamente
+
+
+
+
+éramos considerados excêntricos. Tal percepção foi exacerbada pelo comportamento de meu
+
+
+
+
+pai, que não se importava com aparências se isso lhe permitisse economizar dinheiro. A
+
+
+
+
+família dele fora muito pobre quando ele era jovem, e isso o influenciou muito. Ele não
+
+
+
+
+suportava gastar dinheiro com o próprio conforto, mesmo quando, anos mais tarde, pôde. 
+
+
+
+
+Recusou-se a instalar um aquecimento central, mesmo sentindo muito frio. Vestia diversos
+
+
+
+
+suéteres e um roupão por cima de suas roupas normais. Com outras pessoas, no entanto, 
+
+
+
+
+costumava ser muito generoso. 
+
+
+
+
+Na década de 1950, não podíamos comprar um carro novo, então ele adquiriu um táxi
+
+
+
+
+londrino de antes da guerra e nós dois construímos um barracão Nissen para servir de
+
+
+
+
+garagem. Os vizinhos ficaram indignados, mas não puderam nos impedir. Como a maioria das
+
+
+
+
+crianças, eu tinha vergonha de meus pais. Mas isso nunca os preocupou. 
+
+
+
+
+
+
+
+Nossa carroça cigana
+
+
+
+
+Para  nos  divertirmos  nos  feriados,  meus  pais  compraram  uma  carroça  cigana,  que
+
+
+
+
+estacionaram  em  um  campo  em  Osmington  Mills,  na  costa  sul  da  Inglaterra,  perto  de
+
+
+
+
+Weymouth.  A  carroça  fora  elaboradamente  decorada  pelos  proprietários  ciganos  originais, 
+
+
+
+
+mas meu pai pintou-a de verde para torná-la menos óbvia. A carroça tinha uma cama de casal
+
+
+
+
+para  os  pais  e  uma  pequena  cabine  embaixo  para  as  crianças.  Meu  pai  transformou-a  em
+
+
+
+
+beliches, utilizando macas excedentes do exército, enquanto ele e minha mãe dormiam em uma
+
+
+
+
+barraca do exército ao lado da carroça. Passamos todas as nossas férias de verão ali até 1958, 
+
+
+
+
+quando o conselho do condado finalmente conseguiu removê-la. 
+
+
+
+
+* * *
+
+
+QUANDO CHEGAMOS a St. Albans, fui enviado para uma escola de ensino médio para
+
+
+
+
+meninas, que aceitava meninos com até dez anos. Após eu ter estudado ali durante um período
+
+
+
+
+letivo, meu pai embarcou em uma de suas viagens eventuais à África, desta vez por um
+
+
+
+
+período mais longo, cerca de quatro meses. Minha mãe não queria ficar sozinha todo esse
+
+
+
+
+tempo, então levou a mim e minhas duas irmãs para visitar sua amiga de escola, Beryl, que era
+
+
+
+
+casada com o poeta Robert Graves. O casal morava em um povoado chamado Deià, na ilha
+
+
+
+
+espanhola de Maiorca. Isso foi apenas cinco anos depois da guerra, e o ditador da Espanha, 
+
+
+
+
+Francisco Franco, que fora aliado de Hitler e Mussolini, ainda estava no poder. (Na verdade, 
+
+
+
+
+permaneceu no poder por mais duas décadas.) Apesar disso, minha mãe, que fora membro da
+
+
+
+
+Liga da Juventude Comunista antes da guerra, viajou de barco e de trem com seus três filhos
+
+
+
+
+pequenos até Maiorca. Alugamos uma casa em Deià e nos divertimos muito. Compartilhei um
+
+
+
+
+tutor com o filho de Robert, William. 
+
+
+
+
+
+
+
+Eu navegando em Oulton Broad, Suffolk
+
+
+
+
+
+
+
+
+
+
+Nosso lar temporário: Deià, Maiorca
+
+
+
+
+Eu (à esquerda) com o filho de Robert Graves, William
+
+
+
+
+Esse  tutor  era  um  protegido  de  Robert  e  estava  mais  interessado  em  escrever  uma  peça
+
+
+
+
+para o festival de Edimburgo do que em nos ensinar. Assim, para nos manter ocupados, fazia
+
+
+
+
+com  que  lêssemos  um  capítulo  da  Bíblia  todos  os  dias  e  escrevêssemos  uma  redação  a
+
+
+
+
+respeito. A ideia era nos ensinar a beleza do idioma inglês. Lemos todo o Gênesis e parte do
+
+
+
+
+Êxodo antes de eu ir embora. Uma das principais lições que aprendi com esse exercício foi
+
+
+
+
+nunca  começar  uma  frase  com  “e”.  Quando  comentei  que  a  maioria  das  frases  da  Bíblia
+
+
+
+
+começava com “e”, ele disse que o inglês havia mudado desde o tempo do rei James. Nesse
+
+
+
+
+caso, argumentei, por que nos fazer ler a Bíblia? 
+
+
+
+
+Mas foi em vão. Robert Graves naquela época estava muito interessado no simbolismo e
+
+
+
+
+no misticismo da Bíblia. Portanto, não havia a quem apelar. 
+
+
+
+
+Voltamos quando o Festival da Inglaterra estava começando. O evento foi ideia do
+
+
+
+
+governo trabalhista para tentar repetir o sucesso da Grande Exposição de 1851, feira
+
+
+
+
+organizada pelo príncipe Albert e a primeira das Feiras Mundiais modernas. O festival
+
+
+
+
+forneceu um alívio bem-vindo à austeridade da guerra e do pós-guerra na Inglaterra. A
+
+
+
+
+exposição, realizada na margem sul do Tâmisa, abriu os meus olhos para novas formas de
+
+
+
+
+arquitetura e as novas ciência e tecnologia. No entanto, teve curta duração: os conservadores
+
+
+
+
+ganharam as eleições naquele outono e a encerraram. 
+
+
+
+
+Aos dez anos, prestei o chamado exame eleven-plus: um teste de inteligência para
+
+
+
+
+selecionar quais crianças tinham mais aptidão para uma formação acadêmica entre a maioria
+
+
+
+
+que era enviada para as escolas de ensino médio não acadêmicas. O sistema eleven-plus levou
+
+
+
+
+diversas crianças da classe trabalhadora e da classe média baixa à universidade e a posições
+
+
+
+
+de destaque, mas havia críticas ao princípio de se fazer uma seleção definitiva aos onze anos, 
+
+
+
+
+principalmente vindas de pais de classe média que viram os filhos serem enviados para
+
+
+
+
+escolas com crianças da classe trabalhadora. O sistema foi abandonado na década de 1970 em
+
+
+
+
+benefício da educação abrangente. 
+
+
+
+
+A educação inglesa na década de 1950 era muito hierarquizada. Não apenas as escolas
+
+
+
+
+eram divididas em acadêmicas e não acadêmicas, como as primeiras eram divididas nas
+
+
+
+
+categorias A, B e C. Isso funcionava bem para os que eram selecionados para a categoria A, 
+
+
+
+
+mas não tão bem para aqueles na categoria B e muito mal para os da categoria C, que se
+
+
+
+
+sentiam desencorajados. Fui selecionado para a categoria A da St. Albans School, com base
+
+
+
+
+nos resultados de meu eleven-plus. Contudo, após o primeiro ano, todos aqueles que se
+
+
+
+
+classificavam abaixo do vigésimo lugar eram rebaixados para a categoria B. Isso era um
+
+
+
+
+tremendo golpe na autoconfiança do aluno, do qual alguns jamais se recuperavam. Em meus
+
+
+
+
+dois primeiros períodos em St. Albans, terminei em vigésimo quarto e vigésimo terceiro
+
+
+
+
+lugares, respectivamente, mas no terceiro período consegui o décimo oitavo lugar. Assim, 
+
+
+
+
+escapei por pouco de ser rebaixado no fim do ano. 
+
+
+
+
+* * *
+
+
+QUANDO EU tinha treze anos, meu pai queria que eu tentasse ingressar na Westminster
+
+
+
+
+School, uma das principais escolas da Inglaterra. Naquela época, como já mencionei, havia
+
+
+
+
+uma nítida divisão por classes sociais na educação, e meu pai achava que essa escola me
+
+
+
+
+ensinaria boas maneiras e que isso seria uma vantagem na vida. Ele acreditava que a sua falta
+
+
+
+
+de traquejo social e contatos o levaram a ser preterido em sua carreira em favor de pessoas
+
+
+
+
+menos capazes. Ressentia-se por achar que outras pessoas que não eram tão boas, mas que
+
+
+
+
+
+
+
+tinham a bagagem e os conhecimentos certos, passaram na sua frente. Ele costumava me alertar
+
+
+
+
+a respeito de tais pessoas. 
+
+
+
+
+Como meus pais não eram abastados, eu precisaria ganhar uma bolsa de estudos para
+
+
+
+
+ingressar na Westminster. Mas eu estava doente à época das provas para as bolsas e não pude
+
+
+
+
+fazê-las. Assim, permaneci na St. Albans School, onde tive uma educação que foi tão boa, 
+
+
+
+
+senão melhor, do que a que eu teria na Westminster. Nunca achei que a minha falta de traquejo
+
+
+
+
+social tenha sido um obstáculo. Mas acredito que a física é um pouco diferente da medicina. 
+
+
+
+
+Na física, não importa qual escola você cursou ou com quem você se relaciona. O que importa
+
+
+
+
+é o que você faz. 
+
+
+
+
+Eu (à direita) no fim da adolescência
+
+
+
+
+Sempre fui um aluno mediano. (Era uma turma muito brilhante.) Meus trabalhos escolares
+
+
+
+
+não tinham capricho e minha caligrafia era o desespero dos professores. Mas meus colegas me
+
+
+
+
+apelidaram  de  Einstein,  de  modo  que  é  de  se  presumir  que  viram  sinais  de  algo  melhor  em
+
+
+
+
+mim. Quando eu tinha doze anos, um de meus amigos apostou um saco de doces com outro que
+
+
+
+
+eu nunca seria ninguém. Não sei se tal aposta foi paga algum dia, e se foi, quem a ganhou. 
+
+
+
+
+Eu tinha seis ou sete amigos próximos, e ainda mantenho contato com a maioria deles. 
+
+
+
+
+Costumávamos ter longas conversas e discussões a respeito de tudo, desde modelos
+
+
+
+
+controlados por rádio até religião, parapsicologia e física. Uma das coisas sobre as quais
+
+
+
+
+falávamos era a origem do universo e se foi necessário um Deus para criá-lo e levá-lo
+
+
+
+
+adiante. Eu ouvira falar que a luz das galáxias distantes tendia para a extremidade vermelha do
+
+
+
+
+espectro e que isso devia indicar que o universo estava se expandindo. (A tendência para o
+
+
+
+
+azul teria significado que estava se contraindo.) Mas eu tinha certeza de que deveria haver
+
+
+
+
+alguma outra razão para o desvio para o vermelho. Um universo essencialmente imutável e
+
+
+
+
+eterno parecia muito mais natural. Talvez a luz ficasse apenas cansada, e mais vermelha, em
+
+
+
+
+seu caminho até nós, especulei. Depois de dois anos de pesquisa de ph.D., percebi que eu
+
+
+
+
+estava errado. 
+
+
+
+
+* * *
+
+
+MEU PAI estava envolvido com pesquisas sobre doenças tropicais, e sempre me levava
+
+
+
+
+para passear por seu laboratório em Mill Hill. Eu gostava daquilo, principalmente de olhar
+
+
+
+
+pelos microscópios. Ele também costumava me levar à área dos insetos, onde guardava os
+
+
+
+
+mosquitos infectados com doenças tropicais. Eu ficava preocupado, porque sempre parecia
+
+
+
+
+haver alguns mosquitos voando à solta por lá. Ele trabalhava muito, e era muito dedicado à
+
+
+
+
+sua pesquisa. 
+
+
+
+
+Sempre tive interesse em saber como as coisas funcionavam, e costumava desmontar
+
+
+
+
+objetos para investigar, mas não era tão bom em montá-los novamente. Minhas habilidades
+
+
+
+
+práticas nunca corresponderam às minhas curiosidades teóricas. Meu pai incentivou meu
+
+
+
+
+interesse pela ciência e chegou a me ensinar matemática até eu alcançar um nível além de seu
+
+
+
+
+conhecimento. Com tais antecedentes, e com o trabalho de meu pai, achei natural decidir
+
+
+
+
+abraçar a pesquisa científica. 
+
+
+
+
+
+
+
+Meu pai em uma de suas pesquisas de campo para estudar medicina tropical
+
+
+
+
+Nos dois últimos anos de escola, desejei me especializar em matemática e física. Eu tinha
+
+
+
+
+um professor de matemática inspirador, o Sr. Tahta, e a escola tinha acabado de construir um
+
+
+
+
+novo  espaço  que  os  professores  de  matemática  usavam  como  sala  de  aula.  Meu  pai  foi
+
+
+
+
+radicalmente contra isso, porque achava que não havia trabalho para matemáticos, a não ser
+
+
+
+
+como professores. Ele teria gostado que eu fizesse medicina, mas eu não demonstrei interesse
+
+
+
+
+pela biologia, que me parecia demasiado descritiva e não fundamental o bastante. A matéria
+
+
+
+
+também  tinha  menor  prestígio  na  escola.  Os  meninos  mais  brilhantes  cursavam  matemática  e
+
+
+
+
+física, e os menos, biologia. 
+
+
+
+
+Meu pai sabia que eu não faria biologia, mas me obrigou a estudar química e apenas um
+
+
+
+
+pouco de matemática. Ele achava que isso manteria em aberto as minhas opções científicas. 
+
+
+
+
+Sou professor de matemática, mas não tive nenhuma instrução formal nessa matéria desde que
+
+
+
+
+saí da escola St. Albans, aos dezessete anos. Tive de recapitular o que eu sabia à medida que
+
+
+
+
+avançava. Eu costumava orientar formandos na Universidade de Cambridge e tinha de me
+
+
+
+
+manter uma semana à frente deles nos estudos. 
+
+
+
+
+
+
+
+Eu (à esquerda), na St. Albans School
+
+
+
+
+Física sempre foi a matéria mais chata da escola, porque era muito fácil e óbvia. Química
+
+
+
+
+era  muito  mais  divertida,  porque  aconteciam  coisas  inesperadas  —  como  explosões.  Mas  a
+
+
+
+
+física  e  a  astronomia  ofereciam  a  esperança  de  compreendermos  de  onde  viemos  e  por  que
+
+
+
+
+estamos aqui. Eu queria sondar as profundezas do universo. Talvez tenha tido algum sucesso, 
+
+
+
+
+mas ainda há muito o que quero saber. 
+
+
+
+
+3
+
+
+
+
+OXFORD
+
+
+
+
+M EU PAI INSISTIA MUITO PARA QUE EU FOSSE para Oxford ou Cambridge. Ele mesmo
+
+
+
+
+cursara a University College, em Oxford, e achava que eu deveria me candidatar a
+
+
+
+
+ela porque era onde eu teria mais chances de ingressar. Naquela época, a University College
+
+
+
+
+não oferecia bolsas para matemática, o que foi outro motivo para ele querer que eu fizesse
+
+
+
+
+química: poderia tentar uma bolsa para estudar ciências naturais em vez de matemática. 
+
+
+
+
+O restante da família foi para a Índia por um ano, mas eu tive de ficar para fazer as provas
+
+
+
+
+de nível avançado e as de admissão à universidade. Fiquei em Mill Hill, na casa da família do
+
+
+
+
+Dr. John Humphrey, um colega de meu pai no Instituto Nacional de Pesquisa Médica. A casa
+
+
+
+
+tinha um porão com motores a vapor e outros modelos feitos pelo pai de John Humphrey, e
+
+
+
+
+passei muito de meu tempo ali. Nas férias de verão, fui à Índia para me juntar ao restante da
+
+
+
+
+família, que estava morando em uma casa em Lucknow, alugada de um ex-ministro chefe do
+
+
+
+
+estado indiano de Uttar Pradesh que caíra em desgraça por corrupção. Meu pai se recusou a
+
+
+
+
+comer comida indiana durante o tempo que passou no país, então contratou um ex-cozinheiro
+
+
+
+
+do exército britânico indiano para preparar e servir comida inglesa. Eu teria preferido algo
+
+
+
+
+mais emocionante. 
+
+
+
+
+Fomos para Caxemira e alugamos uma casa-barco no lago de Srinagar. Chegamos durante
+
+
+
+
+as monções, e a estrada que o exército indiano construíra nas montanhas estava destruída em
+
+
+
+
+alguns trechos (a rota normal acompanhava a linha de cessar-fogo com o Paquistão). Nosso
+
+
+
+
+carro, que trouxéramos da Inglaterra, não era capaz de enfrentar mais de dez centímetros de
+
+
+
+
+água, por isso teve de ser rebocado por um motorista de caminhão sique. 
+
+
+
+
+* * *
+
+
+O DIRETOR de minha escola achava que eu era jovem demais para tentar Oxford, mas, em
+
+
+
+
+março de 1959, fiz a prova para a bolsa de estudos com outros dois meninos que cursavam um
+
+
+
+
+ano acima do meu na escola. Eu estava convencido de que tinha ido mal e fiquei muito
+
+
+
+
+deprimido quando, durante as provas práticas, os professores universitários foram conversar
+
+
+
+
+com outros alunos, mas não comigo. Então, alguns dias depois de eu voltar de Oxford, recebi
+
+
+
+
+um telegrama dizendo que eu ganhara uma bolsa de estudos. 
+
+
+
+
+
+
+
+Eu timoneando para o Boat Club
+
+
+
+
+Eu tinha dezessete anos, e muitos dos outros alunos de minha turma já haviam prestado o
+
+
+
+
+serviço militar e eram bem mais velhos. Eu me senti um tanto solitário durante meu primeiro
+
+
+
+
+ano e em parte do segundo. No terceiro, a fim de fazer mais amigos, entrei para o Boat Club
+
+
+
+
+como timoneiro. No entanto, minha carreira nessa posição foi desastrosa. Uma vez que o rio
+
+
+
+
+em Oxford é muito estreito para se competir lado a lado, eles fazem competições do tipo bate-
+
+
+
+
+bate em que os barcos se alinham um atrás do outro, cada timoneiro segurando uma linha de
+
+
+
+
+partida para manter o barco à distância correta do barco da frente. 
+
+
+
+
+
+
+
+O grupo do Boat Club descansando
+
+
+
+
+
+
+
+O grupo do Boat Club se divertindo
+
+
+
+
+
+
+
+Em  minha  primeira  corrida,  soltei  a  linha  ao  ouvir  o  tiro  de  partida,  mas  ela  emaranhou
+
+
+
+
+nos  fios  do  leme,  nosso  barco  saiu  de  curso  e  fomos  desclassificados.  Mais  tarde,  tive  uma
+
+
+
+
+colisão frontal com outro barco, mas, pelo menos nesse caso, posso afirmar que a culpa não
+
+
+
+
+foi minha, já que eu tinha direito de ultrapassagem. Apesar de meu insucesso como timoneiro, 
+
+
+
+
+fiz amigos naquele ano e fiquei muito mais feliz. 
+
+
+
+
+O comportamento que prevalecia em Oxford naquela época era extremamente antitrabalho. 
+
+
+
+
+Você deveria ser brilhante sem esforço ou aceitar suas limitações e obter um diploma de
+
+
+
+
+quarta classe. Estudar muito para conseguir uma nota mais alta era considerado a marca de um
+
+
+
+
+“homem cinza”, o pior epíteto no vocabulário de Oxford. 
+
+
+
+
+As faculdades naquela época se consideravam  
+
+in loco parentis
+
+ (no lugar dos pais), o que
+
+
+
+
+significava que eram responsáveis pela moral dos alunos. Portanto, eram divididas por gênero
+
+
+
+
+e as portas eram trancadas à meia-noite, hora em que todos os visitantes — especialmente os
+
+
+
+
+do sexo oposto — deveriam estar do lado de fora. Depois disso, se você quisesse sair, teria
+
+
+
+
+de escalar um muro alto, com espetos no topo. Minha faculdade não queria que seus alunos se
+
+
+
+
+machucassem, então deixavam um espaço entre os espetos, de modo que era muito fácil sair. A
+
+
+
+
+coisa mudava de figura se você fosse encontrado na cama com uma pessoa do sexo oposto, 
+
+
+
+
+situação que determinava expulsão imediata. 
+
+
+
+
+A redução da maioridade para dezoito anos e a revolução sexual da década de 1960
+
+
+
+
+mudaram tudo, mas isso só aconteceu depois que eu já tinha saído de Oxford. 
+
+
+
+
+* * *
+
+
+NAQUELA ÉPOCA, o curso de física era organizado de forma que tornava particularmente
+
+
+
+
+fácil evitar estudar. Fiz uma prova antes de entrar, então passei três anos em Oxford tendo de
+
+
+
+
+fazer apenas as provas finais no fim do curso. Certa vez calculei que estudara cerca de mil
+
+
+
+
+horas nos três anos em que estive lá, uma média de uma hora por dia. Não sinto orgulho dessa
+
+
+
+
+falta de estudo, mas, na época, tinha a mesma atitude da maioria de meus colegas. Exibíamos
+
+
+
+
+um ar de tédio completo e a ideia de que não valia a pena fazer esforço para nada. Uma das
+
+
+
+
+consequências de minha doença foi mudar toda essa visão. Quando você se depara com a
+
+
+
+
+possibilidade de uma morte precoce, percebe que a vida vale a pena e que há muitas coisas
+
+
+
+
+que você deseja fazer. 
+
+
+
+
+Devido à minha falta de preparo, planejara fazer a prova final resolvendo os problemas de
+
+
+
+
+física teórica e evitando as questões que exigissem conhecimento factual. Contudo, na noite
+
+
+
+
+anterior à prova, não dormi de tanto nervosismo e acabei não me saindo muito bem. Fiquei no
+
+
+
+
+limiar entre a primeira e a segunda classe, e teria de ser entrevistado pelos examinadores para
+
+
+
+
+que pudessem determinar em qual classe eu deveria me enquadrar. Na entrevista, me
+
+
+
+
+perguntaram sobre meus planos para o futuro. Respondi que pretendia fazer pesquisa. Se me
+
+
+
+
+dessem uma primeira classe, falei para eles, eu ingressaria em Cambridge. Se ficasse apenas
+
+
+
+
+com uma segunda classe, permaneceria em Oxford. Eles me deram uma primeira classe. 
+
+
+
+
+Como plano alternativo, caso não pudesse fazer pesquisa, candidatei-me ao serviço
+
+
+
+
+público. Por causa de meus sentimentos em relação às armas nucleares, eu não queria ter nada
+
+
+
+
+a ver com a defesa. Por isso, listei minha preferência por um trabalho no Ministério de Obras
+
+
+
+
+(que na época cuidava de prédios públicos) ou como funcionário da Câmara dos Comuns. Nas
+
+
+
+
+entrevistas, ficou evidente que eu não sabia de fato quais eram as atividades de um funcionário
+
+
+
+
+da Câmara dos Comuns, mas, apesar disso, passei nas entrevistas e tudo o que me restava
+
+
+
+
+fazer era uma prova escrita. Infelizmente, esqueci esse assunto por completo e perdi o dia da
+
+
+
+
+prova. Os responsáveis pela seleção me escreveram uma simpática carta dizendo que eu
+
+
+
+
+poderia tentar de novo no ano seguinte e que não usariam aquilo contra mim. Foi sorte eu não
+
+
+
+
+ter me tornado um funcionário público. Não teria conseguido administrar a minha inabilidade. 
+
+
+
+
+
+
+
+Formatura em Oxford [acima e na imagem seguinte]
+
+
+
+
+
+
+
+NAS LONGAS férias após a prova final, a universidade ofereceu uma série de pequenas
+
+
+
+
+bolsas de viagem. Pensei que minhas chances de conseguir uma seriam maiores se eu me
+
+
+
+
+propusesse a ir a um lugar bem distante. Então disse que queria ir ao Irã. Fui com um colega, 
+
+
+
+
+John Elder, que já tinha estado antes no país e que conhecia o idioma farsi. Viajamos de trem
+
+
+
+
+para Istambul e depois para Erzurum, no leste da Turquia, perto do monte Ararat. Passando
+
+
+
+
+desse ponto, a ferrovia entrava em território soviético, e tivemos de pegar um típico ônibus
+
+
+
+
+árabe, com galinhas e ovelhas, para ir até Tabriz e, então, Teerã. 
+
+
+
+
+Em Teerã, eu e John nos separamos e viajei com outro aluno para o sul, para Ispahan, 
+
+
+
+
+Xiraz e Persépolis, que era a capital dos antigos reis persas e que fora saqueada por
+
+
+
+
+Alexandre, o Grande. Então, atravessei o deserto central até Meshed. 
+
+
+
+
+A caminho de casa, eu e meu companheiro de viagem, Richard Chiin, fomos pegos pelo
+
+
+
+
+terremoto de Bou’in-Zahra, de magnitude 7,1, que matou mais de doze mil pessoas. Devo ter
+
+
+
+
+estado perto do epicentro, mas não percebi porque estava doente em um ônibus que sacolejava
+
+
+
+
+pelas estradas iranianas. Por não conhecer o idioma, não soubemos do desastre durante os
+
+
+
+
+vários dias que passamos em Tabriz, enquanto eu me recuperava de uma grave disenteria e de
+
+
+
+
+uma costela quebrada por ter sido arremessado contra o banco da frente do ônibus. Apenas ao
+
+
+
+
+chegarmos a Istambul soubemos o que tinha ocorrido. 
+
+
+
+
+Enviei um cartão-postal para meus pais, que esperaram ansiosamente por novidade
+
+
+
+
+durante dez dias. A última notícia que tinham de mim era que eu estava saindo de Teerã para a
+
+
+
+
+região do desastre no dia do terremoto. 
+
+
+
+
+4
+
+
+
+
+CAMBRIDGE
+
+
+
+
+C HEGUEI A CAMBRIDGE COMO ESTUDANTE DE PÓS-GRADUAÇÃO em outubro de 1962. Eu me
+
+
+
+
+candidatara para trabalhar com Fred Hoyle, o mais famoso astrônomo inglês da época
+
+
+
+
+e o principal defensor da teoria do estado estacionário. Digo astrônomo porque, naquele
+
+
+
+
+tempo, a cosmologia dificilmente era reconhecida como um campo legítimo. E era nesse
+
+
+
+
+campo que eu pretendia fazer a minha pesquisa, inspirado por um curso de verão que havia
+
+
+
+
+feito com um aluno de Hoyle, Jayant Narlikar. No entanto, Hoyle já tinha alunos demais e, 
+
+
+
+
+para minha grande decepção, fui designado para trabalhar com Dennis Sciama, de quem eu
+
+
+
+
+nunca ouvira falar. 
+
+
+
+
+Provavelmente foi melhor assim. Hoyle estava sempre ausente, e eu não teria recebido
+
+
+
+
+grande atenção de sua parte. Sciama, por outro lado, em geral estava por perto e disponível
+
+
+
+
+para conversar. Eu não concordava com muitas de suas ideias, sobretudo a respeito do
+
+
+
+
+Princípio de Mach, a ideia de que os objetos devem a sua inércia à influência de toda a
+
+
+
+
+matéria no universo, mas isso me estimulou a desenvolver minha própria ideia. 
+
+
+
+
+Quando comecei a pesquisa, as duas áreas que pareciam mais empolgantes eram a
+
+
+
+
+cosmologia e a física das partículas elementares. O último era um campo ativo, que estava
+
+
+
+
+mudando rapidamente e atraía a maioria das cabeças mais brilhantes, enquanto a cosmologia e
+
+
+
+
+a relatividade geral estavam paradas desde a década de 1930. Richard Feynman, ganhador do
+
+
+
+
+Prêmio Nobel e um dos maiores físicos do século XX, fez um divertido relato a respeito de
+
+
+
+
+uma conferência sobre relatividade geral e gravitação da qual participou em Varsóvia, em
+
+
+
+
+1962. Em uma carta à sua esposa, ele afirmou: “Não estou tirando nada desse encontro. Não
+
+
+
+
+estou aprendendo nada. Como não existem experiências, este campo não é ativo, então poucos
+
+
+
+
+dos melhores cientistas estão trabalhando nisso. O resultado é que há exércitos de palermas
+
+
+
+
+por aqui (126), e isso não é bom para a minha pressão arterial… Lembre-me de nunca mais
+
+
+
+
+comparecer a outra conferência sobre gravidade!” 
+
+
+
+
+* * *
+
+
+É CLARO que eu não estava ciente de tudo isso quando comecei a minha pesquisa. Mas senti
+
+
+
+
+que o estudo das partículas elementares na época era muito parecido com a botânica. A
+
+
+
+
+eletrodinâmica quântica — a teoria da luz e dos elétrons que governa a química e a estrutura
+
+
+
+
+dos átomos — fora desenvolvida de modo completo nas décadas de 1940 e 1950. A atenção
+
+
+
+
+já se deslocara para as forças nucleares fraca e forte entre as partículas do núcleo do átomo, 
+
+
+
+
+mas teorias de campo semelhantes não pareciam funcionar para explicá-las. Na verdade, a
+
+
+
+
+faculdade de Cambridge, em particular, sustentava que não havia nenhuma teoria de campo
+
+
+
+
+implícita. Em vez disso, tudo seria determinado pelo unitarismo — ou seja, pela conservação
+
+
+
+
+de probabilidade — e por certos padrões característicos no espalhamento das partículas. Ao
+
+
+
+
+lembrar-me disso agora, parece incrível que alguém achasse que tal abordagem daria certo, 
+
+
+
+
+mas recordo o desprezo dedicado às primeiras tentativas de teorias do campo unificado das
+
+
+
+
+forças nucleares fracas que posteriormente ocuparam o seu lugar. O trabalho sobre a matriz S
+
+
+
+
+analítica agora está esquecido, e eu me sinto muito feliz por não ter começado a minha
+
+
+
+
+pesquisa com partículas elementares. Nenhum de meus trabalhos daquele período teria
+
+
+
+
+sobrevivido. 
+
+
+
+
+Cosmologia e gravitação, por outro lado, eram campos negligenciados que estavam
+
+
+
+
+prontos para serem desenvolvidos naquele momento. Diferentemente do que acontecia com as
+
+
+
+
+partículas elementares, havia uma teoria bem definida — a teoria da relatividade geral —, 
+
+
+
+
+mas achava-se que ela era incrivelmente difícil. As pessoas ficavam tão satisfeitas ao
+
+
+
+
+encontrarem alguma solução para as equações de campo de Einstein que descrevem a teoria
+
+
+
+
+que não se perguntavam qual o significado físico de tal solução, se é que havia algum. Essa foi
+
+
+
+
+a antiga escola da relatividade geral que Feynman encontrou em Varsóvia. Ironicamente, a
+
+
+
+
+conferência de Varsóvia também marcou o início do renascimento da relatividade geral, 
+
+
+
+
+embora Feynman possa ser perdoado por não tê-lo reconhecido naquele momento. 
+
+
+
+
+Uma nova geração entrou nesse campo, e novos centros de estudo da relatividade geral
+
+
+
+
+surgiram. Dois deles foram de particular importância para mim. Um era localizado em
+
+
+
+
+Hamburgo, Alemanha, sob coordenação de Pascual Jordan. Nunca visitei o lugar, embora
+
+
+
+
+admirasse os elegantes trabalhos ali produzidos, que contrastavam com o desleixado trabalho
+
+
+
+
+anterior sobre a relatividade geral. O outro centro era a King’s College, em Londres, sob
+
+
+
+
+coordenação de Hermann Bondi. 
+
+
+
+
+Por eu não ter estudado muita matemática em St. Albans ou no extremamente fácil curso de
+
+
+
+
+física de Oxford, Sciama sugeriu que eu trabalhasse em astrofísica. Contudo, não tendo podido
+
+
+
+
+trabalhar com Hoyle, eu não pretendia estudar algo chato e sem imaginação como a rotação de
+
+
+
+
+Faraday. Eu tinha ido a Cambridge para fazer cosmologia, e cosmologia era o que eu ia fazer. 
+
+
+
+
+Então, lia antigos trabalhos sobre a relatividade geral e viajava todas as semanas para assistir
+
+
+
+
+a palestras na King’s College, em Londres, com outros três alunos de Sciama. Eu entendia as
+
+
+
+
+palavras e as equações, mas realmente não sentia atração pelo assunto. 
+
+
+
+
+* * *
+
+
+SCIAMA APRESENTOU-ME à chamada eletrodinâmica de Wheeler-Feynman. Essa teoria
+
+
+
+
+pregava que a eletricidade e o magnetismo eram simétricos no tempo. No entanto, quando
+
+
+
+
+alguém acende uma lâmpada, é a influência de toda a matéria no universo que faz as ondas de
+
+
+
+
+luz saírem da lâmpada em vez de virem do infinito e terminarem na lâmpada. Para que a
+
+
+
+
+eletrodinâmica de Wheeler-Feynman funcionasse, era necessário que toda a luz que saísse da
+
+
+
+
+lâmpada fosse absorvida por outra matéria no universo. Isso aconteceria em um universo do
+
+
+
+
+estado estacionário, no qual a densidade da matéria permaneceria constante, mas não no
+
+
+
+
+universo do Big Bang, onde a densidade diminuía à medida que o universo se expandia. 
+
+
+
+
+Alegou-se que isso era mais uma prova, se é que ainda precisavam de prova, de que vivemos
+
+
+
+
+em um universo do estado estacionário. 
+
+
+
+
+Isso supostamente explicaria a flecha do tempo, a razão do aumento da desordem e por que
+
+
+
+
+nos lembramos do passado e não do futuro. Houve uma conferência sobre a eletrodinâmica de
+
+
+
+
+Wheeler-Feynman e a flecha do tempo na Universidade de Cornell, em 1963. Feynman ficou
+
+
+
+
+tão desagradado com os absurdos externados sobre o assunto que se recusou a colocar seu
+
+
+
+
+nome nos anais. Foi mencionado apenas como Sr. X, embora todos soubessem que era ele. 
+
+
+
+
+Descobri que Hoyle e Narlikar já haviam trabalhado com a eletrodinâmica de Wheeler-
+
+
+
+
+Feynman em universos em expansão e, em seguida, passaram a formular uma nova teoria da
+
+
+
+
+gravidade simétrica no tempo. Hoyle revelou a teoria em uma reunião da Royal Society, em
+
+
+
+
+1964. Eu estava na palestra e, no intervalo para as perguntas, disse que a influência de toda a
+
+
+
+
+matéria em um universo em estado estacionário tornaria as suas massas infinitas. Hoyle
+
+
+
+
+perguntou por que eu dissera aquilo e respondi que eu havia calculado. Todos acharam que
+
+
+
+
+havia feito as contas de cabeça durante a palestra, mas na verdade, na época, eu compartilhava
+
+
+
+
+um escritório com Narlikar e vira um rascunho do trabalho antecipadamente, o que permitiu
+
+
+
+
+que eu fizesse os cálculos antes da reunião. 
+
+
+
+
+Hoyle ficou furioso. Ele estava tentando abrir o próprio instituto e ameaçou juntar-se à
+
+
+
+
+evasão de cérebros para os Estados Unidos caso não conseguisse o dinheiro. Pensou que
+
+
+
+
+tinham me colocado ali para sabotar os seus planos. Entretanto, conseguiu o seu instituto e, 
+
+
+
+
+posteriormente, me ofereceu um emprego. Então, pelo jeito, não guardou rancor de mim. 
+
+
+
+
+* * *
+
+
+EM MEU último ano em Oxford, notei que estava ficando cada vez mais desajeitado. Fui a
+
+
+
+
+um médico depois de cair de uma escada, mas tudo o que ele disse foi: “Pare de beber
+
+
+
+
+cerveja.” 
+
+
+
+
+Fiquei ainda mais desajeitado depois que me mudei para Cambridge. No Natal, quando fui
+
+
+
+
+patinar no lago em St. Albans, caí e não consegui me levantar. Minha mãe percebeu esses
+
+
+
+
+problemas e me levou ao médico da família. Ele me encaminhou a um especialista e, pouco
+
+
+
+
+depois de completar vinte e um anos, fui para o hospital fazer exames. Fiquei lá durante duas
+
+
+
+
+semanas, fazendo uma grande variedade de testes. Pegaram uma amostra do músculo do meu
+
+
+
+
+braço, prenderam eletrodos em mim, injetaram um fluido rádio-opaco em minha coluna e, por
+
+
+
+
+meio de radiografia, acompanharam o subir e o descer do fluido enquanto inclinavam a cama. 
+
+
+
+
+Depois de tudo isso, não disseram o que eu tinha, apenas informaram que não era esclerose
+
+
+
+
+múltipla e que eu era um caso atípico. Compreendi, entretanto, que achavam que o problema
+
+
+
+
+continuaria a piorar e que não havia nada que pudessem fazer a não ser me receitar vitaminas, 
+
+
+
+
+embora fosse evidente que não esperavam que elas tivesse algum efeito. Não pedi mais
+
+
+
+
+detalhes, porque, obviamente, eles nada tinham a me dizer. 
+
+
+
+
+A percepção de que eu tinha uma doença incurável que provavelmente me mataria em
+
+
+
+
+poucos anos foi um tanto chocante. Como algo assim poderia acontecer comigo? No entanto, 
+
+
+
+
+enquanto estive no hospital, um menino que eu conhecia vagamente morreu de leucemia na
+
+
+
+
+cama à minha frente, o que não foi algo bom de se ver. Era óbvio que havia pessoas em
+
+
+
+
+situação pior do que a minha — ao menos a minha condição não me fazia sentir tão mal. 
+
+
+
+
+Sempre que me vejo inclinado a ter pena de mim, eu me lembro daquele menino. 
+
+
+
+
+* * *
+
+
+SEM SABER o que aconteceria comigo ou a rapidez com que a doença avançaria, eu estava
+
+
+
+
+em um limbo. Os médicos me disseram para voltar a Cambridge e continuar a pesquisa que eu
+
+
+
+
+acabara de começar sobre relatividade geral e cosmologia. Mas eu não estava fazendo
+
+
+
+
+progressos, porque não tinha muita formação matemática — e, mesmo assim, era difícil me
+
+
+
+
+concentrar sabendo que eu poderia não viver tempo o bastante para terminar meu ph.D. Senti-
+
+
+
+
+me um pouco como um personagem trágico. 
+
+
+
+
+Comecei a ouvir Wagner. As notícias publicadas em revistas dizendo que nessa época eu
+
+
+
+
+bebia muito são exageradas. Certa vez, uma matéria afirmou isso e outras a copiaram, porque
+
+
+
+
+era uma boa notícia, e, por fim, todos acabaram tomando por verdade algo que aparecera
+
+
+
+
+tantas vezes na imprensa. 
+
+
+
+
+Meus sonhos na época eram bastante conturbados. Antes de minha condição ser
+
+
+
+
+diagnosticada, eu estava muito entediado. Nada parecia valer a pena. Mas, pouco depois de
+
+
+
+
+sair do hospital, sonhei que seria executado. Subitamente, percebi que havia um monte de
+
+
+
+
+coisas boas que eu poderia fazer se tivesse mais tempo. Outro sonho que tive diversas vezes
+
+
+
+
+foi o de que eu sacrificava a minha vida para salvar outras pessoas. Afinal, já que eu ia
+
+
+
+
+morrer mesmo, poderia muito bem fazer algo de bom. 
+
+
+
+
+* * *
+
+
+MAS EU não queria morrer. Na verdade, embora não houvesse uma nuvem pairando sobre o
+
+
+
+
+meu futuro, descobri, para minha surpresa, que eu estava gostando de viver. O que realmente
+
+
+
+
+fez a diferença foi que fiquei noivo de uma garota chamada Jane Wilde, que conheci na época
+
+
+
+
+em que fui diagnosticado como portador de ELA (esclerose lateral amiotrófica). Isso me deu
+
+
+
+
+um motivo para viver. 
+
+
+
+
+
+
+
+Descendo o rio Cam com Jane
+
+
+
+
+Se fôssemos nos casar, eu precisava de um emprego, e, para conseguir um emprego, tinha
+
+
+
+
+que terminar meu ph.D. Por isso, comecei a trabalhar pela primeira vez na vida. Para minha
+
+
+
+
+surpresa, descobri que gostava. No entanto, talvez não fosse justo chamar aquilo de trabalho. 
+
+
+
+
+Alguém disse certa vez que cientistas são pagos para fazerem aquilo de que gostam. 
+
+
+
+
+Para me sustentar durante os estudos, me candidatei a uma bolsa de pesquisa em Gonville
+
+
+
+
+e na Caius College, uma faculdade dentro da Universidade de Cambridge. Uma vez que minha
+
+
+
+
+crescente falta de jeito tornou difícil escrever ou digitar, eu esperava que Jane digitasse a
+
+
+
+
+minha solicitação. Porém, quando ela veio me visitar em Cambridge, estava com o braço
+
+
+
+
+quebrado e engessado. Devo admitir que fui menos solidário do que devia. Entretanto, o braço
+
+
+
+
+quebrado era o esquerdo, de modo que ela foi capaz de escrever a solicitação enquanto eu a
+
+
+
+
+ditava, e consegui outra pessoa para datilografá-la. 
+
+
+
+
+Em meu pedido, tive de citar duas pessoas que pudessem fornecer referências sobre o meu
+
+
+
+
+trabalho. Meu orientador sugeriu que eu pedisse a Hermann Bondi que fosse uma dessas
+
+
+
+
+pessoas. Bondi era então professor de matemática na King’s College, em Londres, e
+
+
+
+
+especialista em relatividade geral. Eu o havia encontrado algumas vezes, e ele apresentara um
+
+
+
+
+de meus artigos para publicação na revista  
+
+Proceedings of the Royal Society
+
+. Depois de uma
+
+
+
+
+palestra que ele proferiu em Cambridge, perguntei-lhe se poderia me dar uma referência. Ele
+
+
+
+
+olhou para mim de uma forma vaga e disse que sim, que podia. Obviamente, não se lembrava
+
+
+
+
+de mim, pois, quando a faculdade lhe escreveu pedindo a referência, ele respondeu que nunca
+
+
+
+
+
+
+
+ouvira falar a meu respeito. Hoje em dia existem tantas pessoas que solicitam bolsas de
+
+
+
+
+pesquisa universitária que, se uma das referências do candidato diz que não o conhece, suas
+
+
+
+
+chances acabam ali. Mas aqueles eram tempos mais tranquilos. A faculdade escreveu me
+
+
+
+
+notificando sobre a embaraçosa resposta de minha referência e meu orientador procurou
+
+
+
+
+Bondi para refrescar a memória dele. Em seguida, Bondi escreveu uma referência que foi, 
+
+
+
+
+provavelmente, muito melhor do que a que eu merecia. Consegui a bolsa de pesquisa e sou
+
+
+
+
+membro da Caius College desde então. 
+
+
+
+
+A bolsa significava que eu e Jane poderíamos nos casar, o que fizemos em julho de 1965. 
+
+
+
+
+Passamos uma semana de lua de mel em Suffolk, que era tudo o que eu podia pagar. Fomos
+
+
+
+
+então para um curso de verão sobre relatividade geral na Universidade de Cornell. 
+
+
+
+
+Isso foi um erro. Ficamos em um dormitório repleto de casais com filhos pequenos e
+
+
+
+
+barulhentos, o que estressou muito o nosso casamento. Em outros aspectos, no entanto, o curso
+
+
+
+
+foi bastante útil para mim, porque conheci muitas das principais pessoas envolvidas nessa
+
+
+
+
+área. 
+
+
+
+
+Meu casamento com Jane
+
+
+
+
+Quando nos casamos, Jane ainda estudava na Westfield College, em Londres, e precisava
+
+
+
+
+ir até lá durante a semana para concluir o curso. A doença estava aumentando minha fraqueza
+
+
+
+
+muscular,  o  que  significava  que  ficava  mais  difícil  andar,  e  tivemos  de  encontrar  um  lugar
+
+
+
+
+central  onde  eu  pudesse  me  virar  sozinho.  Pedi  auxílio  na  faculdade,  mas  o  tesoureiro  me
+
+
+
+
+informou que não era política da faculdade ajudar os seus bolsistas com habitação. Assim, nos
+
+
+
+
+candidatamos  para  alugar  um  apartamento  em  um  conjunto  residencial  que  estava  sendo
+
+
+
+
+construído  no  mercado,  uma  localização  conveniente.  (Anos  mais  tarde,  descobri  que,  na
+
+
+
+
+verdade, aqueles apartamentos eram de propriedade da faculdade, mas eles não me disseram
+
+
+
+
+isso.)  Contudo,  quando  voltamos  para  Cambridge  depois  de  um  verão  nos  Estados  Unidos, 
+
+
+
+
+descobrimos que os apartamentos ainda não estavam prontos. 
+
+
+
+
+Como uma grande concessão, o tesoureiro nos ofereceu um quarto em uma pensão para
+
+
+
+
+formandos. Ele disse: “Normalmente cobramos doze xelins e seis pence por noite por este
+
+
+
+
+quarto. No entanto, uma vez que haverá dois de vocês no lugar, cobraremos vinte e cinco
+
+
+
+
+xelins.” Ficamos lá apenas três noites antes de encontrarmos uma pequena casa a cerca de cem
+
+
+
+
+metros do meu departamento universitário. Pertencia a outra faculdade, que a deixara para um
+
+
+
+
+de seus bolsistas. Esse bolsista havia se mudado para o subúrbio e sublocou a casa para nós
+
+
+
+
+nos três meses restantes de seu contrato. 
+
+
+
+
+Durante esses três meses, encontramos outra casa na mesma rua. Um vizinho ligou para a
+
+
+
+
+proprietária em Dorset e disse que era um escândalo que a casa ficasse desocupada com
+
+
+
+
+tantos jovens à procura de alojamento. Assim, ela alugou a casa para nós. Depois de termos
+
+
+
+
+vivido ali por alguns anos, quis comprá-la e reformá-la, então pedimos uma hipoteca para a
+
+
+
+
+minha faculdade. A faculdade fez uma pesquisa e decidiu que não era um bom negócio, mas
+
+
+
+
+acabamos arranjando uma hipoteca em outro lugar e meus pais nos deram o dinheiro para a
+
+
+
+
+reforma. 
+
+
+
+
+* * *
+
+
+NAQUELE TEMPO, a situação na Caius College era uma reminiscência de algo tirado dos
+
+
+
+
+romances de C. P. Snow. Houve uma amarga divisão na fraternidade desde a chamada Revolta
+
+
+
+
+Camponesa, em que certo número de bolsistas juniores se uniram para tirar bolsistas seniores
+
+
+
+
+de seus cargos. Havia dois lados: o partido do mestre e do tesoureiro, e um partido mais
+
+
+
+
+progressista, que pretendia gastar mais da considerável riqueza da faculdade em fins
+
+
+
+
+acadêmicos. O partido progressista aproveitou uma reunião do conselho da faculdade em que
+
+
+
+
+o mestre e o tesoureiro estavam ausentes para eleger seis bolsistas de pesquisa, incluindo a
+
+
+
+
+mim. 
+
+
+
+
+Em minha primeira reunião na faculdade, houve eleições para o conselho. Os outros novos
+
+
+
+
+bolsistas de pesquisa haviam sido informados em quem votar, mas eu era um completo
+
+
+
+
+inocente e votei em candidatos de ambos os partidos. O partido progressista conquistou a
+
+
+
+
+maioria no conselho da faculdade, e o mestre Sir Neville Mott (que mais tarde ganhou o
+
+
+
+
+Prêmio Nobel por um trabalho em física da matéria condensada) renunciou, enfurecido. No
+
+
+
+
+entanto, o mestre seguinte, Joseph Needham (autor de uma história de vários volumes da
+
+
+
+
+ciência na China), curou as feridas e a faculdade tem estado relativamente em paz desde então. 
+
+
+
+
+
+
+
+Com meu primeiro filho, Robert
+
+
+
+
+NOSSO PRIMEIRO filho, Robert, nasceu após estarmos casados havia uns dois anos. Logo
+
+
+
+
+após seu nascimento, nós o levamos para um encontro científico em Seattle. O que mais uma
+
+
+
+
+vez foi um erro. Eu não conseguia ajudar muito com o bebê devido à minha crescente
+
+
+
+
+incapacidade, e, como Jane teve que lidar com ele sozinha na maior parte do tempo, ficou
+
+
+
+
+muito cansada. Seu cansaço foi agravado por outras viagens que fizemos pelos Estados Unidos
+
+
+
+
+depois de Seattle. Robert agora vive em Seattle com a esposa, Katrina, e os filhos, George e
+
+
+
+
+Rose, de modo que, obviamente, a experiência não o assustou. 
+
+
+
+
+
+
+
+Jane e Robert
+
+
+
+
+Nossa segunda filha, Lucy, nasceu cerca de três anos depois, em uma antiga instalação de
+
+
+
+
+trabalhos forçados que então era usada como maternidade. Durante a gravidez, enquanto nossa
+
+
+
+
+casa estava sendo ampliada, tivemos de nos mudar para um chalé de amigos. Voltamos apenas
+
+
+
+
+alguns dias antes do nascimento. 
+
+
+
+
+5
+
+
+
+
+ONDAS
+
+
+
+
+GRAVITACIONAIS
+
+
+
+
+E M 1969, JOSEPH WEBER RELATOU TER OBSERVADO manifestações de ondas gravitacionais
+
+
+
+
+ao usar detectores que consistiam de duas barras de alumínio suspensas no vácuo. 
+
+
+
+
+Quando uma onda gravitacional surgia, ela alongava coisas em uma direção (perpendicular
+
+
+
+
+àquela na qual a onda se desloca) e as comprimia na outra (perpendicular à onda). Isso fazia
+
+
+
+
+com que a barra oscilasse na sua frequência ressonante — 1.660 ciclos por segundo —, e tais
+
+
+
+
+oscilações eram detectadas por cristais presos à barra. Fiz uma visita a Weber, nos arredores
+
+
+
+
+de Princeton, no início de 1970, e examinei o equipamento. Com meu olhar não treinado, não
+
+
+
+
+consegui perceber nada de errado, mas os resultados que Weber alegava eram realmente
+
+
+
+
+notáveis. As únicas fontes possíveis de surtos de ondas gravitacionais potentes o suficiente
+
+
+
+
+para excitar as barras de Weber seriam o colapso de uma estrela maciça para formar um
+
+
+
+
+buraco negro, ou a colisão e junção de dois buracos negros. Essas fontes teriam que estar
+
+
+
+
+próximas — no interior de nossa galáxia. Estimativas anteriores de eventos desse tipo tinham
+
+
+
+
+ficado na casa de um por século; Weber, porém, alegava ver uma ou duas manifestações por
+
+
+
+
+dia. Isso significaria que a galáxia estaria perdendo massa a uma taxa cuja constância não
+
+
+
+
+poderia ser mantida ao longo da vida de uma galáxia — ou não restaria mais nenhuma delas. 
+
+
+
+
+Quando retornei à Inglaterra, decidi que as impressionantes alegações de Weber
+
+
+
+
+necessitavam de uma verificação independente. Escrevi um artigo com um aluno meu, Gary
+
+
+
+
+Gibbons, sobre a teoria da detecção de manifestações de ondas gravitacionais, em que
+
+
+
+
+sugeríamos o projeto de um detector mais sensível. Aparentemente, ninguém estava prestes a
+
+
+
+
+construir tal instrumento, então eu e Gary demos um audacioso passo, considerando que
+
+
+
+
+éramos cientistas teóricos: solicitamos ao Conselho de Pesquisas Científicas uma doação para
+
+
+
+
+construir dois detectores. (É preciso que se observem coincidências entre pelo menos um par
+
+
+
+
+deles, por causa de sinais espúrios a partir de vibrações da terra e ruídos.) Gary percorreu
+
+
+
+
+depósitos com sobras de guerra em busca de câmaras de descompressão para serem usadas
+
+
+
+
+como câmaras de vácuo, e eu passei a procurar localizações adequadas. 
+
+
+
+
+No final, tivemos um encontro com outros grupos interessados em verificar as alegações
+
+
+
+
+de Weber no Conselho de Pesquisas Científicas, no décimo terceiro andar de um arranha-céu
+
+
+
+
+em Londres. (O Conselho de Pesquisas Científicas não podia admitir superstições. Eles
+
+
+
+
+pagaram barato.) Já que havia outros grupos acompanhando o projeto, eu e Gary retiramos
+
+
+
+
+nosso pedido de verbas. Saímos em boa hora! Minha deficiência, cada vez mais grave, me
+
+
+
+
+tornaria um cientista experimental incompetente. E é muito difícil alguém se destacar
+
+
+
+
+individualmente em uma atividade experimental. Com frequência, um pesquisador é apenas
+
+
+
+
+parte de uma equipe maior, toda ela dedicada a um experimento que dura anos. Por outro lado, 
+
+
+
+
+um cientista teórico pode ter uma ideia em uma única tarde, ou, como no meu caso, no
+
+
+
+
+momento de ir para a cama, escrever um artigo, sozinho ou com um ou dois colegas, e ganhar
+
+
+
+
+fama e distinção. 
+
+
+
+
+Os detectores de ondas gravitacionais se tornaram mais sensíveis a partir da década de
+
+
+
+
+1970. Atualmente, os detectores utilizam a medição de distâncias com laser, para comparar as
+
+
+
+
+extensões de dois braços dispostos em ângulo reto. Os Estados Unidos têm dois desses
+
+
+
+
+equipamentos, chamados Ligo. Embora sejam dez milhões de vezes mais sensíveis do que o de
+
+
+
+
+Weber, até agora não produziram nenhum dado confiável em termos de detecção de ondas
+
+
+
+
+gravitacionais. Estou feliz de ter permanecido um cientista teórico. 
+
+
+
+
+6
+
+
+
+
+O BIG BANG
+
+
+
+
+A GRANDE QUESTÃO EM COSMOLOGIA NO INÍCIO da década de 1960 era se o universo tinha
+
+
+
+
+um princípio. Muitos cientistas instintivamente se opunham a essa ideia e, como
+
+
+
+
+consequência, à teoria do Big Bang, porque sentiam que estabelecer um ponto inicial da
+
+
+
+
+criação levaria a ciência a um impasse. Seria necessário apelar para a religião e a mão de
+
+
+
+
+Deus para determinar como o universo tinha começado. 
+
+
+
+
+Portanto, foram propostos dois cenários alternativos. O primeiro se centrava na teoria do
+
+
+
+
+estado estacionário, segundo a qual, à medida que o universo se expandia, matéria nova se
+
+
+
+
+criava continuamente para manter a densidade constante em média. A teoria do estado
+
+
+
+
+estacionário nunca teve uma base teórica muito forte, porque exigia um campo de energia
+
+
+
+
+negativa para criar a matéria. Isso a tornaria instável e propensa à produção descontrolada de
+
+
+
+
+matéria e energia negativa. Porém, tinha o grande mérito de propor previsões definitivas que
+
+
+
+
+poderiam ser testadas por meio de observações. 
+
+
+
+
+Por volta de 1963, a teoria do estado estacionário já apresentava problemas. O grupo de
+
+
+
+
+radioastronomia de Martin Ryle, no Laboratório de Cavendish, realizou uma pesquisa de
+
+
+
+
+fontes de rádio fracas e descobriu que as fontes eram distribuídas de maneira bastante
+
+
+
+
+uniforme por todo o céu. Isso indicava que elas estavam provavelmente fora de nossa galáxia, 
+
+
+
+
+porque, de outro modo, estariam concentradas ao longo da Via Láctea. Porém, o gráfico do
+
+
+
+
+número de fontes em relação à intensidade das fontes não concordava com a previsão da
+
+
+
+
+teoria do estado estacionário. Havia um número excessivo de fontes fracas, indicando que a
+
+
+
+
+densidade de fontes tinha sido maior no passado distante. 
+
+
+
+
+Hoyle e aqueles que o apoiavam apresentaram explicações cada vez mais forçadas sobre
+
+
+
+
+as observações, mas o que acabaria por enterrar de vez a teoria do estado estacionário seria a
+
+
+
+
+descoberta, em 1965, de uma fraca radiação de fundo em micro-ondas. (As micro-ondas nesse
+
+
+
+
+caso são parecidas com as de um forno de micro-ondas convencional, mas a uma temperatura
+
+
+
+
+bem mais baixa, apenas 2,7 Kelvin, só um pouco acima do zero absoluto.) A teoria do estado
+
+
+
+
+estacionário não tinha como explicar a radiação, ainda que Hoyle e Narlikar tivessem tentado
+
+
+
+
+desesperadamente. Foi bom eu não ter sido aluno de Hoyle, porque teria que defender a teoria
+
+
+
+
+do estado estacionário. 
+
+
+
+
+A radiação de fundo em micro-ondas indicava que o universo tivera um estágio denso e
+
+
+
+
+quente no passado, porém, não provava que esse estágio fosse o início do universo. Pode-se
+
+
+
+
+imaginar que o universo tivesse passado por uma fase anterior, e que tivesse sofrido um
+
+
+
+
+repique da contração para a expansão, em uma densidade alta, mas finita. Se isso de fato era
+
+
+
+
+verdade, constituía claramente uma questão fundamental, e era justo o que eu precisava para
+
+
+
+
+concluir minha tese de ph.D. 
+
+
+
+
+A gravidade atrai e une a matéria, mas a rotação a separa e joga longe. Então, minha
+
+
+
+
+primeira indagação era se a rotação poderia provocar um repique no universo. Junto com
+
+
+
+
+George Ellis, fui capaz de demonstrar que a resposta era negativa, se o universo fosse
+
+
+
+
+homogêneo em termos espaciais, isto é, se ele fosse o mesmo em cada ponto do espaço. 
+
+
+
+
+Entretanto, dois russos, Evgeny Lifshitz e Isaak Khalatnikov, alegaram ter provado que uma
+
+
+
+
+contração geral sem uma simetria exata sempre provocaria um repique, com a densidade se
+
+
+
+
+mantendo finita. O resultado foi muito conveniente para o materialismo dialético marxista-
+
+
+
+
+leninista, uma vez que evitava indagações inconvenientes sobre a criação do universo. 
+
+
+
+
+Portanto, tornou-se um artigo de fé para os cientistas soviéticos. 
+
+
+
+
+Lifshitz e Khalatnikov eram membros da velha escola da relatividade geral — isto é, 
+
+
+
+
+descreveram um robusto sistema de equações e tentaram adivinhar uma solução. Mas não
+
+
+
+
+ficou claro que a solução encontrada por eles fosse a mais geral de todas. Roger Penrose
+
+
+
+
+introduziu uma abordagem nova, que não exigia resolver as equações de campo de Einstein
+
+
+
+
+explicitamente, apenas certas propriedades gerais, tais como o fato de a energia ser positiva e
+
+
+
+
+a gravidade, atrativa. Penrose deu um seminário sobre o assunto na King’s College, em
+
+
+
+
+Londres, em janeiro de 1965. Não estive presente no evento, mas ouvi relatos por parte de
+
+
+
+
+Brandon Carter, com quem eu dividia um escritório em Cambridge, na sede do novo
+
+
+
+
+Departamento de Matemática Aplicada e Física Teórica (DAMTP, na sigla em inglês), em
+
+
+
+
+Silver Street. 
+
+
+
+
+No início, não consegui compreender qual era a questão importante. Penrose havia
+
+
+
+
+mostrado que, uma vez que uma estrela moribunda se contraísse até um determinado raio, 
+
+
+
+
+inevitavelmente haveria uma singularidade, um ponto onde o espaço e o tempo chegariam ao
+
+
+
+
+fim. É evidente, pensei; nós já sabíamos que nada poderia evitar que uma gigantesca estrela
+
+
+
+
+fria entrasse em colapso, por causa da própria gravidade, até atingir uma singularidade de
+
+
+
+
+densidade infinita. No entanto, de fato só haviam sido solucionadas as equações relativas ao
+
+
+
+
+colapso de uma estrela  
+
+perfeitamente esférica
+
+, e é óbvio que uma estrela real não vai ser
+
+
+
+
+totalmente esférica. Se Lifshitz e Khalatnikov estivessem corretos, os afastamentos da simetria
+
+
+
+
+esférica iriam se ampliar à medida que a estrela entrasse em colapso e fariam com que as
+
+
+
+
+diferentes partes da estrela se desconectassem umas das outras, evitando assim uma
+
+
+
+
+singularidade de densidade infinita. Mas Penrose provou que eles estavam errados: pequenos
+
+
+
+
+afastamentos da simetria esférica não evitam uma singularidade. 
+
+
+
+
+
+
+
+Minha tese, afinal concluída
+
+
+
+
+[Texto  do  detalhe:  Introdução. A  ideia  de  que  o  universo  está  se  expandindo  tem  origem  recente.  Todas  as  cosmologias anteriores  eram  essencialmente  estacionárias,  e  mesmo  Einstein,  cuja  teoria  da  relatividade  é  a  base  para  quase  todos  os desenvolvimentos  modernos  em  cosmologia,  achou  natural  sugerir  um  modelo  estático  do  universo.  No  entanto,  existe  uma dificuldade muito séria associada a um modelo estático tal como o de Einstein, que supostamente existe por um tempo infinito. 
+
+
+
+
+Pois, se as estrelas tivessem sido…]
+
+
+
+
+Percebi  que  argumentos  semelhantes  poderiam  ser  aplicados  à  expansão  do  universo. 
+
+
+
+
+Nesse  caso,  eu  poderia  provar  que  havia  singularidades  onde  o  espaço-tempo  tinha  um
+
+
+
+
+princípio.  Então,  de  novo,  Lifshitz  e  Khalatnikov  estavam  errados.  A  relatividade  geral
+
+
+
+
+predizia que o universo deveria ter um princípio, um resultado que não passou despercebido
+
+
+
+
+pela Igreja. 
+
+
+
+
+Os teoremas da singularidade originais, tanto os de Penrose quanto os meus, requeriam a
+
+
+
+
+suposição de que o universo tinha uma superfície de Cauchy, ou seja, uma superfície que faz a
+
+
+
+
+interseção da trajetória de cada partícula uma vez e apenas uma vez. Por conseguinte, era
+
+
+
+
+possível que nossos primeiros teoremas da singularidade meramente provassem que o
+
+
+
+
+universo não tinha uma superfície de Cauchy. Embora interessante, essa afirmativa não tinha
+
+
+
+
+comparação, em termos de importância, com o fato de o tempo ter um início ou um fim. Sendo
+
+
+
+
+assim, eu me incumbi de provar os teoremas da singularidade que não requeriam a suposição
+
+
+
+
+de uma superfície de Cauchy. 
+
+
+
+
+Nos cinco anos seguintes, eu, Roger Penrose e Bob Geroch desenvolvemos a teoria da
+
+
+
+
+estrutura causal em relatividade geral. Era uma sensação maravilhosa ter um campo inteiro de
+
+
+
+
+estudos praticamente para nós três. Tão diferente da física de partículas, em que as pessoas
+
+
+
+
+caíam umas sobre as outras para se agarrarem à ideia mais recente. Isso ainda acontece. 
+
+
+
+
+Escrevi algo sobre isso em um ensaio que ganhou um Prêmio Adams em Cambridge, em
+
+
+
+
+1966. Foi a base para o livro  
+
+The Large Scale Structure of Space-Time
+
+, que redigi com
+
+
+
+
+George Ellis e foi publicado pela Cambridge University Press em 1973. A obra ainda é
+
+
+
+
+editada, porque se trata praticamente da última palavra em estrutura causal de espaço-tempo:
+
+
+
+
+isto é, qual polo de espaço-tempo pode afetar eventos em outros pontos. Faço um alerta para o
+
+
+
+
+leitor leigo quanto à tentativa de consultá-lo. Trata-se de uma obra extremamente técnica, 
+
+
+
+
+escrita em uma época em que eu tentava ser tão rigoroso quanto um matemático puro. Hoje, 
+
+
+
+
+estou mais preocupado em ser correto do que reto. De qualquer forma, é quase impossível ser
+
+
+
+
+rigoroso em física quântica, porque o campo todo se apoia em bases matemáticas muito
+
+
+
+
+precárias. 
+
+
+
+
+7
+
+
+
+
+BURACOS NEGROS
+
+
+
+
+A IDEIA POR TRÁS DOS BURACOS NEGROS REMONTA a mais de duzentos anos. Em 1783, um
+
+
+
+
+professor de Cambridge, John Michell, publicou um artigo na  
+
+Philosophical
+
+
+
+
+ 
+
+Transactions of the Royal Society
+
+ de Londres sobre o que chamou de “estrelas escuras”. Ele
+
+
+
+
+assinalou que uma estrela suficientemente maciça e compacta teria um campo gravitacional tão
+
+
+
+
+forte que a luz não poderia escapar. Qualquer luz emitida da superfície da estrela seria
+
+
+
+
+arrastada de volta pela atração gravitacional da estrela antes de conseguir se afastar muito. 
+
+
+
+
+Michell sugeriu que deve haver um grande número de estrelas desse tipo. Embora não nos
+
+
+
+
+seja possível vê-las, porque a luz que delas advém não nos atingiria, ainda assim sentiríamos
+
+
+
+
+a sua força gravitacional. Tais objetos são o que agora chamamos de buracos negros, pois é
+
+
+
+
+isso que eles são: vazios negros no espaço. Uma sugestão semelhante foi feita alguns anos
+
+
+
+
+depois por um cientista francês, Marquês de Laplace, aparentemente em uma pesquisa
+
+
+
+
+independente da de Michell. É interessante citar que Laplace só a incluiu na primeira e na
+
+
+
+
+segunda edições de seu livro  
+
+The System of the World
+
+ e a deixou de fora em edições
+
+
+
+
+subsequentes. Talvez tenha concluído que se tratava de uma ideia maluca. 
+
+
+
+
+Tanto Michell quanto Laplace achavam que a luz consistia de partículas, quase como balas
+
+
+
+
+de canhão, que poderiam se tornar mais lentas pela gravidade e serem impelidas a cair
+
+
+
+
+novamente na estrela. Esse raciocínio não era coerente com o experimento de Michelson-
+
+
+
+
+Morley, conduzido em 1887, que mostrou que a luz sempre viaja na mesma velocidade. Uma
+
+
+
+
+teoria coerente sobre como a gravidade afeta a luz só surgiu em 1915, quando Einstein
+
+
+
+
+formulou a relatividade geral. Usando a relatividade geral, Robert Oppenheimer e seus alunos
+
+
+
+
+George Volkoff e Hartland Snyder demonstraram, em 1939, que uma estrela que tivesse
+
+
+
+
+exaurido seu combustível nuclear não poderia se sustentar contra a gravidade se sua massa
+
+
+
+
+fosse maior do que determinado limite, da ordem da massa do Sol. As estrelas extintas com
+
+
+
+
+massa superior a essa entrariam em colapso para dentro de si mesmas e formariam buracos
+
+
+
+
+negros contendo singularidades de densidade infinita. Apesar de serem previstos por essa
+
+
+
+
+teoria, Einstein jamais aceitou que os buracos negros ou que a matéria pudesse ser
+
+
+
+
+comprimida até a densidade infinita. 
+
+
+
+
+Então, a guerra interferiu e desviou o trabalho de Oppenheimer para a bomba atômica. 
+
+
+
+
+Após a guerra, as pessoas estavam mais interessadas em física nuclear e atômica e
+
+
+
+
+negligenciaram o colapso gravitacional e os buracos negros por mais de vinte anos. 
+
+
+
+
+* * *
+
+
+
+
+O INTERESSE no colapso gravitacional renasceu no início da década de 1960, com a
+
+
+
+
+descoberta dos quasares, objetos muito distantes que são fontes óticas e de rádio poderosas e
+
+
+
+
+extremamente compactas. A matéria que cai dentro de um buraco negro era o único mecanismo
+
+
+
+
+plausível que poderia explicar a produção de tamanha energia em uma região do espaço tão
+
+
+
+
+pequena. A obra de Oppenheimer foi redescoberta e as pessoas começaram a trabalhar sobre
+
+
+
+
+a teoria dos buracos negros. 
+
+
+
+
+Em 1967, Werner Israel chegou a um resultado importante. Ele demonstrou que, a não ser
+
+
+
+
+que os restos de uma estrela sem rotação em colapso fossem exatamente esféricos, a
+
+
+
+
+singularidade que ela conteria seria nua, isto é, seria visível a observadores externos. Isso
+
+
+
+
+teria significado a ruptura da relatividade geral na singularidade de uma estrela em colapso, 
+
+
+
+
+destruindo nossa capacidade de predizer o futuro do resto do universo. 
+
+
+
+
+No início, a maioria das pessoas, inclusive o próprio Israel, pensaram que isso implicava
+
+
+
+
+que, como as verdadeiras estrelas não são exatamente esféricas, seu colapso teria provocado
+
+
+
+
+as singularidades nuas e uma falha na capacidade de previsão. Entretanto, uma interpretação
+
+
+
+
+diferente foi proposta por Roger Penrose e John Wheeler: que os restos do colapso
+
+
+
+
+gravitacional de uma estrela sem rotação se encaminhariam com rapidez para um estado
+
+
+
+
+esférico. Eles sugeriram a existência de uma censura cósmica: a natureza é puritana e esconde
+
+
+
+
+as singularidades nos buracos negros, de onde não podem ser vistas. 
+
+
+
+
+Eu tinha um adesivo de para-choque com os dizeres OS BURACOS NEGROS ESTÃO
+
+
+
+
+LONGE DOS OLHOS na porta do meu escritório no DAMTP. 
+
+
+
+
+Isso irritava tanto o chefe do departamento que ele arquitetou minha eleição como
+
+
+
+
+professor lucasiano, me encaminhou para um escritório melhor por causa disso e rasgou
+
+
+
+
+pessoalmente o adesivo ofensivo, tirando-o da porta do antigo escritório. 
+
+
+
+
+* * *
+
+
+MEU TRABALHO com os buracos negros começou com um momento “eureca” em 1970, 
+
+
+
+
+alguns dias depois do nascimento da minha filha, Lucy. Ao me deitar, me dei conta de que
+
+
+
+
+poderia aplicar aos buracos negros a teoria de estrutura causal que eu havia desenvolvido
+
+
+
+
+para os teoremas da singularidade. Em especial, o fato de que a área do horizonte, a fronteira
+
+
+
+
+do buraco negro, sempre aumentaria. Quando dois buracos negros colidem e se fundem, a área
+
+
+
+
+do buraco negro resultante é maior do que a soma das áreas dos buracos originais. Essa e
+
+
+
+
+outras propriedades que eu, Jim Bardeen e Brandon Carter descobrimos sugerem que a área
+
+
+
+
+era como a entropia do buraco negro. Seria uma medida de quantos estados um buraco negro
+
+
+
+
+poderia ter no interior com a mesma aparência do exterior. Mas a área não poderia
+
+
+
+
+efetivamente ser a entropia, porque, se os buracos negros tivessem entropia, eles também
+
+
+
+
+teriam uma temperatura e iriam brilhar como um corpo quente. Como todo mundo achava, os
+
+
+
+
+buracos negros eram completamente negros e não emitiam luz ou qualquer outra coisa. 
+
+
+
+
+Passou-se um período estimulante que culminou com o curso de verão em Les Houches, 
+
+
+
+
+em 1972, no qual resolvemos a maior parte dos principais problemas relativos à teoria dos
+
+
+
+
+buracos negros. Mais precisamente, eu e David Robinson provamos o teorema “sem cabelo”, 
+
+
+
+
+que postulava que um buraco negro se assentaria em um estado caracterizado por dois
+
+
+
+
+números apenas, a massa e a rotação. Isso sugeria, de novo, que os buracos negros tinham
+
+
+
+
+entropia, porque muitas estrelas diferentes poderiam entrar em colapso para produzir um
+
+
+
+
+buraco negro de mesma massa e rotação. 
+
+
+
+
+Toda essa teoria foi desenvolvida antes que houvesse qualquer prova observacional dos
+
+
+
+
+buracos negros, o que revela que Feynman estava errado ao dizer que um campo de pesquisa
+
+
+
+
+ativo teria que ser voltado para os experimentos. O único problema que nunca ficou resolvido
+
+
+
+
+foi provar a hipótese da censura cósmica, embora várias tentativas de demonstrar que não
+
+
+
+
+funcionava tivessem falhado. Isso é fundamental para todo o trabalho sobre os buracos negros; 
+
+
+
+
+assim, tenho um forte e fixo interesse em que seja verdade. Portanto, fiz uma aposta com Kip
+
+
+
+
+Thorne e John Preskill sobre o resultado desse problema. É difícil que eu ganhe a aposta, mas
+
+
+
+
+é bem possível que eu perca se alguém encontrar um contraexemplo com uma singularidade
+
+
+
+
+nua. Na realidade, cheguei a perder uma versão anterior dela, por não ter tido o cuidado
+
+
+
+
+necessário em relação ao modo de me expressar. Thorne e Preskill não acharam graça na
+
+
+
+
+camiseta que ofereci como pagamento. 
+
+
+
+
+
+
+
+Humor cosmológico, parte 1:
+
+
+
+
+Mandei imprimir essa camiseta para pagar uma aposta
+
+
+
+
+[Texto da ilustração: A natureza abomina uma singularidade nua]
+
+
+
+
+FOMOS TÃO bem-sucedidos com a teoria da relatividade geral clássica que fiquei um pouco
+
+
+
+
+sem ter o que fazer em 1973, depois da publicação de  
+
+The Large Scale Structure of Space-
+
+
+
+
+ 
+
+Time
+
+. Meu trabalho com Penrose havia mostrado que a relatividade geral se desmembraria em
+
+
+
+
+singularidades. Assim, o passo mais óbvio a seguir seria combinar a relatividade geral, a
+
+
+
+
+teoria do muito grande, com a teoria quântica, a teoria do muito pequeno. Eu não tinha
+
+
+
+
+nenhuma base em teoria quântica, e o problema da singularidade parecia difícil demais para
+
+
+
+
+ser atacado de frente na época. Por isso, como exercício de aquecimento, considerei como as
+
+
+
+
+partículas e os campos governados pela teoria quântica se comportariam perto de um buraco
+
+
+
+
+
+
+
+negro. Fiquei imaginando, em especial, se é possível haver átomos cujo núcleo seja um
+
+
+
+
+diminuto buraco negro primordial, formado no princípio do universo. 
+
+
+
+
+Para responder a essa pergunta, estudei como campos quânticos seriam espalhados por um
+
+
+
+
+buraco negro. Eu esperava que parte de uma onda incidental fosse absorvida e o restante se
+
+
+
+
+espalhasse. Porém, para minha grande surpresa, descobri que parecia haver emissão pelo
+
+
+
+
+buraco negro. No início, pensei que devia existir um engano nos meus cálculos. O que enfim
+
+
+
+
+me convenceu de que era real foi o fato de que a emissão era exatamente o que faltava para
+
+
+
+
+identificar a área do horizonte com a entropia de um buraco negro. Pode ser resumido nessa
+
+
+
+
+fórmula simples:
+
+
+
+
+onde  
+
+S
+
+ é a entropia e  
+
+A
+
+ é a área do horizonte. Essa expressão contém as três constantes
+
+
+
+
+fundamentais da natureza:  
+
+c
+
+, a velocidade da luz;  
+
+G
+
+, a constante gravitacional de Newton; e  
+
+ħ
+
+, a constante de Planck. Ela revela que existe uma relação profunda e previamente insuspeita
+
+
+
+
+entre a gravidade e a termodinâmica, a ciência do calor. 
+
+
+
+
+
+
+
+Humor cosmológico, parte 2: uma aposta com John Preskill
+
+
+
+
+[Texto do documento: Considerando que Stephen Hawking e Kip Thorne acreditam firmemente que a informação engolida por um buraco negro esteja para sempre oculta do universo exterior e nunca possa ser revelada mesmo quando o buraco negro se evapore e desapareça por completo, 
+
+
+
+
+E  considerando  que  John  Preskill  acredita  firmemente  que  um  mecanismo  para  liberar  a  informação  pela  evaporação  do buraco negro deve e será encontrado na teoria correta da gravidade quântica, 
+
+
+
+
+Preskill oferece, e Hawking/Thorne aceitam, portanto, uma aposta em que:
+
+
+
+
+Quando um estado quântico puro inicial se submete a um colapso gravitacional para formar um buraco negro, o estado final no término da evaporação do buraco negro sempre será um estado quântico puro. 
+
+
+
+
+O(s)  perdedor(es)  premiam  o(s)  vencedor(es)  com  uma  enciclopédia  à  escolha  do(s)  vencedor(es),  a  partir  da  qual  a informação será recuperada à vontade. 
+
+
+
+
+Stephen W. Hawking & Kip S. Thorne John P. Preskill
+
+
+
+
+Pasadena, Califórnia, 6 de fevereiro de 1997]
+
+
+
+
+A radiação de um buraco negro transporta energia para fora; dessa forma, o buraco negro
+
+
+
+
+perde  massa  e  encolhe.  No  final  das  contas,  parece  que  o  buraco  negro  vai  evaporar  por
+
+
+
+
+completo  e  desaparecer.  Isso  levantou  um  problema  que  abalou  o  coração  da  física.  Meus
+
+
+
+
+cálculos sugeriam que a radiação era estritamente térmica e aleatória, como tem que ser se a
+
+
+
+
+área do horizonte deve ser a entropia do buraco negro. Sendo assim, como poderia a radiação
+
+
+
+
+remanescente transportar toda a informação sobre o que formava o buraco negro? No entanto, 
+
+
+
+
+se há perda de informação, isso não é compatível com a mecânica quântica. 
+
+
+
+
+Esse paradoxo tinha sido debatido por trinta anos, sem muito progresso, até que eu
+
+
+
+
+descobri o que acho ser a solução. A informação não se perde, mas não retorna de maneira
+
+
+
+
+útil. É como queimar uma enciclopédia: a informação contida na enciclopédia tecnicamente
+
+
+
+
+não se perde caso a fumaça e as cinzas sejam guardadas, mas é muito difícil de ser lida. Na
+
+
+
+
+realidade, eu e Kip Thorne fizemos uma aposta com John Preskill sobre o paradoxo da
+
+
+
+
+informação. Quando John ganhou a aposta, dei para ele uma enciclopédia de beisebol, mas
+
+
+
+
+talvez devesse ter dado apenas as cinzas. 
+
+
+
+
+
+
+
+8
+
+
+
+
+CALTECH
+
+
+
+
+E M 1974, FUI ESCOLHIDO COMO MEMBRO DA ROYAL SOCIETY. A eleição pegou de surpresa
+
+
+
+
+meus colegas do departamento, porque eu era jovem e apenas um modesto
+
+
+
+
+pesquisador assistente. Porém, em três anos fui promovido a professor. 
+
+
+
+
+Jane entrou em depressão após a minha posse, sentindo que eu havia atingido meus
+
+
+
+
+objetivos e que, a partir dali, seria ladeira abaixo. A depressão dela melhorou um pouco
+
+
+
+
+quando meu amigo Kip Thorne nos convidou, além de alguns outros que se dedicavam à
+
+
+
+
+relatividade geral, a irmos para o Instituto de Tecnologia da Califórnia, o Caltech. 
+
+
+
+
+Nossa casa em Pasadena
+
+
+
+
+Nos quatro anos anteriores, eu vinha usando uma cadeira de rodas manual, assim como um
+
+
+
+
+carro elétrico de três rodas azul, que se movia a uma velocidade baixa, e no qual eu às vezes
+
+
+
+
+transportava passageiros ilegalmente. Quando fomos para a Califórnia, ocupamos uma casa de
+
+
+
+
+propriedade do Caltech, de estilo colonial, que ficava perto do campus. Foi lá que usei uma
+
+
+
+
+cadeira  de  rodas  elétrica  pela  primeira  vez,  o  que  me  deu  um  grau  considerável  de
+
+
+
+
+independência,  principalmente  porque,  nos  Estados  Unidos,  os  prédios  e  as  calçadas  são
+
+
+
+
+muito  mais  acessíveis  para  os  cadeirantes  do  que  na  Inglaterra.  Um  dos  meus  alunos  de
+
+
+
+
+pesquisa também veio morar conosco. Ele me ajudava a me levantar e a me deitar, e também
+
+
+
+
+me  auxiliava  com  algumas  refeições;  em  troca,  tinha  acomodação  e  um  bocado  da  minha
+
+
+
+
+atenção acadêmica. 
+
+
+
+
+
+
+
+
+
+
+Jane, Lucy, Robert e eu na nossa casa em Pasadena [acima e na próxima imagem]
+
+
+
+
+Nossos  dois  filhos  na  época,  Robert  e  Lucy,  adoraram  a  Califórnia.  A  escola  que  eles
+
+
+
+
+frequentavam temia que os alunos pudessem ser sequestrados, por isso, não se podia apanhar
+
+
+
+
+uma  criança  no  portão  da  escola  da  maneira  usual.  Em  vez  disso,  era  necessário  dirigir  em
+
+
+
+
+torno  do  quarteirão  e  se  aproximar  do  portão  um  de  cada  vez. A  criança  em  questão  então
+
+
+
+
+seria chamada por um megafone. Eu nunca tinha visto nada parecido antes. 
+
+
+
+
+A casa estava equipada com um aparelho de televisão em cores. Na Inglaterra, tínhamos
+
+
+
+
+apenas  um  aparelho  em  preto  e  branco  que  mal  funcionava.  Então,  assistimos  a  muitos
+
+
+
+
+programas,  em  especial  séries  inglesas,  como  
+
+Upstairs
+
+,  
+
+Downstairs
+
+  e  
+
+The  Ascent  of  Man
+
+. 
+
+
+
+
+Tínhamos  acabado  de  assistir  ao  episódio  de  
+
+The  Ascent  of  Man
+
+  em  que  Galileu  é  julgado
+
+
+
+
+pelo Vaticano e condenado à prisão domiciliar pelo resto da vida quando eu soube que tinha
+
+
+
+
+recebido  a  Medalha  Pio  XI  pela  Academia  Pontifícia  das  Ciências.  A  princípio  minha
+
+
+
+
+indignação foi tanta que quase me levou a recusar a medalha, mas depois precisei admitir que
+
+
+
+
+o Vaticano, fazia pouco tempo, tinha mudado de ideia em relação a Galileu. Assim, voei para
+
+
+
+
+a Inglaterra para me encontrar com meus pais, que me acompanharam até Roma. Enquanto eu
+
+
+
+
+visitava o Vaticano, fiz questão de pedir que me mostrassem o relato do julgamento de Galileu
+
+
+
+
+na Biblioteca do Vaticano. 
+
+
+
+
+Na cerimônia de entrega de prêmios, o papa Paulo VI desceu do trono e se ajoelhou ao
+
+
+
+
+meu lado. Após a cerimônia, conheci Paul Dirac, um dos fundadores da teoria quântica, com
+
+
+
+
+quem nunca havia conversado enquanto ele era professor em Cambridge, porque na época eu
+
+
+
+
+não estava interessado em teoria quântica. Ele me contou que tinha originalmente proposto
+
+
+
+
+outro candidato para a medalha, mas no final decidira que eu era melhor e disse para a
+
+
+
+
+academia me entregar o prêmio. 
+
+
+
+
+* * *
+
+
+AS DUAS principais estrelas do departamento de física do Caltech na época eram Richard
+
+
+
+
+Feynman e Murray Gell-Mann, ambos ganhadores do Prêmio Nobel; havia uma grande
+
+
+
+
+rivalidade entre os dois. No primeiro dos seminários semanais de Gell-Mann, ele disse: “Vou
+
+
+
+
+apenas repetir algumas palestras que dei no ano passado.” Ao ouvir isso, Feynman se levantou
+
+
+
+
+e saiu. Gell-Mann então acrescentou: “Agora que ele se foi, posso lhes dizer o que realmente
+
+
+
+
+gostaria de falar.” 
+
+
+
+
+Tratava-se de uma época estimulante para a física de partículas. Novas partículas com
+
+
+
+
+“charme” tinham acabado de ser descobertas em Stanford, e a descoberta ajudou a confirmar a
+
+
+
+
+teoria de Gell-Mann de que prótons e nêutrons eram constituídos de três partículas mais
+
+
+
+
+fundamentais chamadas quarks. 
+
+
+
+
+Enquanto eu estava no Caltech, apostei com Kip Thorne que o sistema binário da estrela
+
+
+
+
+Cygnus X-1 não continha um buraco negro. Cygnus X-1 é uma fonte de raios X na qual uma
+
+
+
+
+estrela normal está perdendo seu envelope externo para uma companheira compacta invisível. 
+
+
+
+
+À medida que a matéria cai sobre a companheira, ela desenvolve um movimento em espiral e
+
+
+
+
+fica muito quente, emitindo raios X. Eu estava esperando perder essa aposta, já que eu
+
+
+
+
+obviamente fizera um grande investimento intelectual nos buracos negros. Mas, se eles não
+
+
+
+
+existissem, pelo menos eu teria o consolo de ganhar uma assinatura de quatro anos da revista
+
+
+
+
+ 
+
+Private Eye
+
+. Por outro lado, se Kip ganhasse, ele receberia um ano da revista  
+
+Penthouse
+
+. Nos
+
+
+
+
+anos que se seguiram à aposta, a evidência em favor dos buracos negros ficou tão forte que
+
+
+
+
+capitulei e dei a Kip a assinatura da  
+
+Private Eye
+
+, para grande desgosto da esposa dele. 
+
+
+
+
+* * *
+
+
+ENQUANTO ESTIVE na Califórnia, trabalhei com um aluno de pesquisa no Caltech chamado
+
+
+
+
+Don Page. Don tinha nascido e fora criado em uma aldeia do Alasca, onde seus pais eram
+
+
+
+
+professores da escola e, junto com ele, eram os únicos não esquimós da região. Ele era cristão
+
+
+
+
+evangélico e fez o possível para me converter quando, mais tarde, veio morar conosco em
+
+
+
+
+Cambridge. Don costumava ler histórias da Bíblia para mim durante o café da manhã, mas eu
+
+
+
+
+lhe disse que conhecia bem a Bíblia do tempo em que morara em Maiorca e porque meu pai
+
+
+
+
+costumava lê-la para mim. (Meu pai não era crente, mas achava que a Bíblia do rei James era
+
+
+
+
+culturalmente importante.)
+
+
+
+
+Eu e Don trabalhávamos na possibilidade de se observar a emissão dos buracos negros
+
+
+
+
+que eu havia predito. A temperatura da radiação de um buraco negro da massa do Sol seria
+
+
+
+
+apenas um milionésimo de um Kelvin, pouco acima do zero absoluto; assim, seria totalmente
+
+
+
+
+encoberto pelo fundo de micro-ondas cósmico, que tem uma temperatura de 2,7 Kelvin. No
+
+
+
+
+entanto, pode haver buracos negros muito menores em decorrência do Big Bang. Um buraco
+
+
+
+
+negro primordial com a massa de uma montanha estaria emitindo raios gama e agora estaria
+
+
+
+
+terminando seu período de vida, tendo irradiado para fora de si a maior parte de sua massa
+
+
+
+
+original. Procuramos provas de tais emissões no fundo de raios gama, mas não encontramos. 
+
+
+
+
+Fomos capazes de colocar um limite superior para a densidade numérica de buracos negros
+
+
+
+
+dessa massa, o que indica que provavelmente não estamos próximos o suficiente de um para
+
+
+
+
+detectá-lo. 
+
+
+
+
+9
+
+
+
+
+CASAMENTO
+
+
+
+
+Q UANDO VOLTAMOS DO CALTECH, EM 1975, sabíamos que as escadas em nossa casa agora
+
+
+
+
+seriam difíceis demais para mim. 
+
+
+
+
+A universidade na época me valorizava bem mais e, por isso, permitiu que morássemos
+
+
+
+
+em um apartamento térreo em um grande prédio vitoriano de sua propriedade. (A casa foi
+
+
+
+
+demolida e substituída por um prédio de acomodações para estudantes que leva meu nome
+
+
+
+
+agora.) O apartamento ficava em jardins mantidos pelos funcionários da universidade, o que
+
+
+
+
+era agradável para as crianças. 
+
+
+
+
+No início, senti-me bastante abatido por ter retornado à Inglaterra. Tudo parecia muito
+
+
+
+
+paroquiano e limitado em comparação com a atitude confiante e ativa encontrada nos Estados
+
+
+
+
+Unidos. Na época, a paisagem estava feia por causa das árvores mortas pela doença holandesa
+
+
+
+
+do olmo, e o país estava assolado por greves. Entretanto, meu humor melhorou quando vi o
+
+
+
+
+sucesso de meu trabalho e fui eleito, em 1979, como professor lucasiano em matemática, um
+
+
+
+
+posto que já fora ocupado por Sir Isaac Newton e por Paul Dirac. 
+
+
+
+
+
+
+
+Com minha família após o batizado de nosso terceiro filho, Tim
+
+
+
+
+Nosso terceiro filho, Tim, também nasceu em 1979, após uma viagem à Córsega, onde dei
+
+
+
+
+aulas em um curso de verão. Desde então, a depressão de Jane piorou. Ela estava preocupada
+
+
+
+
+que  eu  fosse  morrer  em  pouco  tempo  e  queria  encontrar  alguém  que  daria  apoio  a  ela  e  às
+
+
+
+
+crianças e que se casaria com ela quando eu partisse. Ela encontrou Jonathan Jones, músico e
+
+
+
+
+organista da igreja local, e cedeu a ele um quarto em nosso apartamento. Eu teria me oposto, 
+
+
+
+
+mas  também  achava  que  iria  morrer  cedo  e  sentia  que  era  necessário  encontrar  alguém  que
+
+
+
+
+apoiasse as crianças depois disso. 
+
+
+
+
+Minha saúde piorou, e um dos sintomas de minha doença progressiva eram episódios
+
+
+
+
+prolongados de falta de ar. Em 1985, em uma viagem para a CERN (Organização Europeia
+
+
+
+
+para a Pesquisa Nuclear), na Suíça, peguei uma pneumonia. Fui levado às pressas para o
+
+
+
+
+hospital da região e me colocaram em um respirador artificial. Os médicos do hospital
+
+
+
+
+acharam que eu estava tão mal que sugeriram desligar o respirador e dar fim à minha vida, 
+
+
+
+
+mas Jane se recusou e me levou, em uma ambulância aérea, de volta para Cambridge, para o
+
+
+
+
+Hospital Addenbrooke. Os médicos de lá se empenharam ao máximo para reverter meu quadro
+
+
+
+
+e me deixar na situação em que eu estava anteriormente, mas no final foram obrigados a
+
+
+
+
+realizar uma traqueostomia. 
+
+
+
+
+Antes do procedimento, minha fala estava cada vez mais inarticulada e, por isso, apenas as
+
+
+
+
+pessoas que me conheciam bem conseguiam me compreender. Mas pelo menos eu era capaz de
+
+
+
+
+me comunicar. Escrevi artigos científicos ditando-os para uma secretária e ministrei
+
+
+
+
+seminários com o auxílio de um intérprete que repetia minhas palavras com maior clareza. 
+
+
+
+
+Contudo, a traqueostomia acabou completamente com minha capacidade de falar. Por certo
+
+
+
+
+tempo, a única maneira que eu tinha para me comunicar era soletrar as palavras, levantando as
+
+
+
+
+sobrancelhas quando alguém apontava para a letra certa em um cartão com o alfabeto. É
+
+
+
+
+demasiado difícil levar adiante uma conversa assim, ainda mais escrever um artigo científico. 
+
+
+
+
+Entretanto, um especialista em computação da Califórnia chamado Walt Woltosz ouviu falar
+
+
+
+
+do meu problema e me enviou um programa de computador que ele desenvolvera, o Equalizer. 
+
+
+
+
+O programa permitia que eu selecionasse as palavras, a partir de uma série de menus na tela, 
+
+
+
+
+ao pressionar um botão em minha mão. Atualmente uso outro de seus programas, o Word Plus, 
+
+
+
+
+que controlo por meio de um sensor acoplado em meus óculos que reage ao movimento de
+
+
+
+
+minha face. Quando formulo o que quero dizer, envio as palavras para o sintetizador de fala. 
+
+
+
+
+No início eu rodava o programa Equalizer em um computador de mesa. Então, David
+
+
+
+
+Mason, que trabalhava na Cambridge Adaptive Communications, acoplou um pequeno
+
+
+
+
+computador pessoal e um sintetizador de fala à minha cadeira de rodas. Meus computadores
+
+
+
+
+agora são fornecidos pela Intel. Esse sistema permite que eu me comunique muito melhor, e
+
+
+
+
+consigo formular até três palavras por minuto. Posso falar o que escrevi ou então salvar em
+
+
+
+
+disco. Depois posso imprimir ou recuperar o arquivo e repetir frase por frase. Com a ajuda
+
+
+
+
+desse sistema, escrevi então sete livros e diversos artigos científicos. Ministrei também uma
+
+
+
+
+série de palestras científicas ou populares. Todas foram bem recebidas, o que acredito que se
+
+
+
+
+deva, em grande parte, à qualidade do sintetizador de fala, fabricado pela empresa Speech
+
+
+
+
+Plus. 
+
+
+
+
+A voz é algo muito importante. Se você tem uma fala inarticulada, é provável que as
+
+
+
+
+pessoas o tratem como mentalmente deficiente. Esse sintetizador é de longe o melhor que já
+
+
+
+
+ouvi, porque tem variação de entoação e não fala como um dos Daleks do  
+
+Doctor Who
+
+. A
+
+
+
+
+Speech Plus há muito já fechou e seu programa de sintetizador de fala se perdeu. Agora
+
+
+
+
+possuo os três últimos sintetizadores remanescentes. São volumosos, gastam muita energia e
+
+
+
+
+contêm chips obsoletos, que não podem ser substituídos. No entanto, me identifico com a voz
+
+
+
+
+obtida e ela se tornou minha marca registrada; logo, não vou trocá-lo por uma voz que soe
+
+
+
+
+mais natural a não ser que todos os três sintetizadores quebrem. 
+
+
+
+
+Quando saí do hospital, precisava de cuidados de enfermagem em tempo integral. No
+
+
+
+
+início, achei que minha carreira científica estivesse terminada e tudo o que me restaria seria
+
+
+
+
+ficar em casa e ver televisão. Mas logo descobri que poderia prosseguir com meu trabalho
+
+
+
+
+científico e escrever equações matemáticas usando um programa denominado Latex, que
+
+
+
+
+
+
+
+permite que símbolos matemáticos sejam escritos com caracteres comuns, como  
+
+$/pi$
+
+ para  
+
+π
+
+. 
+
+
+
+
+* * *
+
+
+ENTRETANTO, FIQUEI cada vez mais infeliz com a proximidade entre Jane e Jonathan. No
+
+
+
+
+final, não consegui mais suportar a situação e, em 1990, fui morar em outro apartamento com
+
+
+
+
+uma de minhas enfermeiras, Elaine Mason. 
+
+
+
+
+Achamos o apartamento pequeno demais para nós e os dois filhos de Elaine, que ficavam
+
+
+
+
+conosco parte da semana, então decidimos nos mudar. Uma tempestade forte, em 1987, havia
+
+
+
+
+arrancado o telhado da Newnham College, a única faculdade de graduação somente para
+
+
+
+
+mulheres. (Todas as faculdades exclusivas para homens a essa altura já admitiam mulheres. A
+
+
+
+
+minha faculdade, a Caius, que continha certo número de membros conservadores, foi uma das
+
+
+
+
+últimas; foi finalmente convencida, pelos resultados dos exames dos alunos, que não
+
+
+
+
+conseguiria angariar bons estudantes masculinos a não ser que admitisse mulheres também.)
+
+
+
+
+Como a Newnham era uma faculdade pobre, foi obrigada a vender quatro terrenos para
+
+
+
+
+financiar o conserto do telhado após a tempestade. Compramos um dos terrenos e construímos
+
+
+
+
+uma casa adaptada para cadeira de rodas. 
+
+
+
+
+Eu e Elaine nos casamos em 1995. Nove meses mais tarde, Jane se casou com Jonathan
+
+
+
+
+Jones. 
+
+
+
+
+Meu casamento com Elaine
+
+
+
+
+Meu casamento com Elaine foi apaixonado e tempestuoso. Tivemos nossos altos e baixos, 
+
+
+
+
+mas  o  fato  de  Elaine  ser  enfermeira  salvou  minha  vida  em  diversas  ocasiões.  Após  a
+
+
+
+
+traqueostomia,  enfiaram  um  tubo  plástico  na  minha  traqueia  para  evitar  que  o  alimento  e  a
+
+
+
+
+saliva penetrassem nos meus pulmões, que se mantinha no lugar por meio de um  
+
+cuff
+
+ insuflado. 
+
+
+
+
+Com  o  passar  dos  anos,  a  pressão  no  interior  do  
+
+cuff
+
+  danificou  minha  traqueia,  provocando
+
+
+
+
+tosse  e  engasgos.  Certa  vez,  voltando  de  Creta,  onde  havia  participado  de  um  congresso,  eu
+
+
+
+
+estava tossindo, quando David Howard, um cirurgião que por acaso estava no mesmo voo, se
+
+
+
+
+aproximou  de  Elaine  e  disse  que  poderia  me  ajudar.  Ele  sugeriu  uma  laringectomia,  que
+
+
+
+
+separaria minha traqueia inteiramente da garganta e anularia a necessidade de um tubo com um
+
+
+
+
+ 
+
+cuff
+
+. Os médicos no Hospital Addenbroke em Cambridge disseram que era arriscado demais, 
+
+
+
+
+mas  Elaine  insistiu,  e  David  Howard  realizou  a  cirurgia  em  um  hospital  de  Londres.  A
+
+
+
+
+operação  salvou  a  minha  vida:  mais  duas  semanas  e  o  
+
+cuff
+
+  teria  feito  um  orifício  entre  a
+
+
+
+
+traqueia e a garganta, enchendo meus pulmões de sangue. 
+
+
+
+
+
+
+
+Com Elaine em Aspen, Colorado [acima e na próxima imagem]
+
+
+
+
+Alguns anos mais tarde, tive outra crise, porque meus níveis de oxigênio estavam caindo
+
+
+
+
+perigosamente  durante  o  sono  profundo.  Levaram-me  às  pressas  para  o  hospital,  onde
+
+
+
+
+permaneci  por  quatro  meses.  No  final,  tive  alta,  mas  continuei  com  um  respirador  artificial, 
+
+
+
+
+que  eu  usava  à  noite.  Meu  médico  disse  a  Elaine  que  eu  voltaria  para  casa  para  morrer. 
+
+
+
+
+(Desde  então  já  troquei  de  médico.)  Em  2011,  comecei  a  usar  o  respirador  vinte  e  quatro
+
+
+
+
+horas por dia. 
+
+
+
+
+
+
+
+Um  ano  depois  disso,  fui  recrutado  para  ajudar  a  universidade  em  sua  campanha  de
+
+
+
+
+levantamento de fundos para o seu octingentésimo aniversário. Enviaram-me a São Francisco, 
+
+
+
+
+onde ministrei cinco palestras em seis dias e fiquei muito cansado. Certa manhã, desmaiei ao
+
+
+
+
+ser retirado do respirador artificial. A enfermeira do turno pensou que eu estivesse bem, mas
+
+
+
+
+eu  teria  morrido  se  outra  pessoa  da  equipe  de  enfermagem  não  tivesse  chamado  Elaine,  que
+
+
+
+
+me  ressuscitou.  Todas  essas  crises  a  afetaram  emocionalmente.  Nós  nos  divorciamos  em
+
+
+
+
+2007, e desde então eu moro sozinho com uma governanta. 
+
+
+
+
+10
+
+
+
+
+UMA BREVE HISTÓRIA DO TEMPO
+
+
+
+
+A PRIMEIRA VEZ QUE TIVE A IDEIA DE ESCREVER UM LIVRO POPULAR sobre o universo foi
+
+
+
+
+em 1982. Minha intenção era, em parte, ganhar dinheiro para pagar as mensalidades
+
+
+
+
+escolares de minha filha. (Na verdade, na época em que o livro efetivamente apareceu, ela
+
+
+
+
+estava no seu último ano da escola.) Porém, a principal razão para escrevê-lo foi que eu
+
+
+
+
+queria explicar até que ponto já tínhamos avançado em nossa compreensão sobre o universo:
+
+
+
+
+como poderíamos estar próximos de descobrir uma teoria completa que descrevesse o
+
+
+
+
+universo e tudo o que ele inclui. 
+
+
+
+
+Se eu ia despender tempo e esforço para escrever um livro, queria que atingisse o máximo
+
+
+
+
+de pessoas possível. Meus livros técnicos anteriores haviam sido publicados pela Cambridge
+
+
+
+
+University Press. A editora havia feito um bom trabalho, mas eu não sentia que ela
+
+
+
+
+encaminhasse o livro para o tipo de mercado de massa que eu queria atingir. Portanto, entrei
+
+
+
+
+em contato com um agente literário, Al Zuckerman, que me tinha sido apresentado como o
+
+
+
+
+cunhado de um colega. Entreguei a ele um rascunho do primeiro capítulo e expliquei que eu
+
+
+
+
+queria que fosse o tipo de livro que vendesse em livrarias de aeroportos. Ele me disse que
+
+
+
+
+não existia nenhuma chance de isso acontecer. Venderia bem para acadêmicos e estudantes, 
+
+
+
+
+mas não tanto quanto os de Jeffrey Archer. 
+
+
+
+
+Dei a Zuckerman um primeiro rascunho do livro em 1984. Ele o enviou a diversas editoras
+
+
+
+
+e recomendou que eu aceitasse uma oferta da Norton, uma editora americana bastante voltada
+
+
+
+
+para consumidores de alto poder aquisitivo. Em vez disso, decidi aceitar uma oferta da
+
+
+
+
+Bantam Books, uma editora mais orientada para o mercado popular. Embora a Bantam não
+
+
+
+
+fosse especializada em livros científicos, as obras que editava estavam disponíveis em larga
+
+
+
+
+escala em livrarias de aeroportos. 
+
+
+
+
+O interesse da Bantam pelo livro provavelmente se deveu a um de seus editores, Peter
+
+
+
+
+Guzzardi. Ele levou o trabalho muito a sério e me fez reescrever o original de forma que fosse
+
+
+
+
+compreensível para não cientistas, como ele mesmo. Toda vez que eu lhe enviava um capítulo
+
+
+
+
+reescrito, ele me devolvia uma longa lista de objeções e indagações que queria que eu
+
+
+
+
+esclarecesse. Às vezes, eu achava que o processo nunca terminaria. Mas ele estava certo: o
+
+
+
+
+resultado foi um livro muito melhor. 
+
+
+
+
+
+
+
+Uma das primeiras capas de  
+
+Uma breve história do tempo
+
+
+
+
+Minha atividade de escrever foi interrompida pela pneumonia que peguei no CERN. Teria
+
+
+
+
+sido quase impossível concluir o livro se não fosse o programa de computador que me deram. 
+
+
+
+
+Era um pouco lento, mas na verdade eu penso devagar, então, ele me servia bem. Com esse
+
+
+
+
+programa,  eu  praticamente  reescrevi  o  primeiro  rascunho  em  resposta  às  demandas  de
+
+
+
+
+Guzzardi. Um de meus alunos, Brian Whitt, me ajudou na revisão. 
+
+
+
+
+Eu tinha ficado muito impressionado com  
+
+The Ascent of Man
+
+, uma série de televisão
+
+
+
+
+escrita por Jacob Bronowski. (Hoje o título sexista não teria sido aceito.) A série dava uma
+
+
+
+
+ideia das realizações da raça humana, ao evoluir de selvagens primitivos há apenas quinze mil
+
+
+
+
+anos até nosso estado atual. Eu gostaria de transmitir uma percepção semelhante em relação ao
+
+
+
+
+nosso progresso no que tange à compreensão integral das leis que governam o universo. 
+
+
+
+
+Estava certo de que quase todo mundo está interessado no modo como o universo opera, mas
+
+
+
+
+que a maior parte das pessoas não consegue acompanhar equações matemáticas. Também não
+
+
+
+
+ligo muito para as equações, o que se deve, em parte, à minha dificuldade em anotá-las, mas
+
+
+
+
+principalmente ao fato de que não tenho um sentimento intuitivo em relação a elas. Em vez
+
+
+
+
+disso, penso em termos pictóricos, e meu objetivo no livro era descrever essas imagens
+
+
+
+
+mentais em palavras, com a ajuda de analogias familiares e alguns diagramas. Dessa forma, eu
+
+
+
+
+esperava que a maior parte das pessoas fosse capaz de compartilhar o entusiasmo e a
+
+
+
+
+sensação de realização quanto ao extraordinário progresso conhecido pela física nos últimos
+
+
+
+
+cinquenta anos. 
+
+
+
+
+Ainda assim, mesmo que eu evitasse usar matemática, algumas ideias seriam difíceis de
+
+
+
+
+explicar. Isso dava margem a um problema: eu devia tentar explicá-las e arriscar que as
+
+
+
+
+pessoas se confundissem, ou devia passar por cima delas? Alguns conceitos pouco conhecidos
+
+
+
+
+não eram essenciais para o quadro que eu queria pintar, tais como o fato de que observadores
+
+
+
+
+que se movem a diferentes velocidades medem diferentes intervalos de tempo entre os
+
+
+
+
+mesmos pares de eventos. Portanto, eu sentia que podia apenas mencioná-los, sem me
+
+
+
+
+aprofundar. Porém, outras ideias difíceis eram essenciais àquilo que eu queria comunicar. 
+
+
+
+
+Havia dois desses conceitos, em especial, que eu sentia que teria de incluir. Um deles era
+
+
+
+
+a chamada soma de histórias. É a ideia de que não existe uma única história do universo. Em
+
+
+
+
+vez disso, existe uma coleção de todas as possíveis histórias do universo, e todas essas
+
+
+
+
+histórias são igualmente reais (qualquer que seja o significado dessa palavra). A outra ideia, 
+
+
+
+
+que é necessária para incutir sentido matemático na soma de histórias, está relacionada ao
+
+
+
+
+tempo imaginário. Hoje acho que eu deveria ter me empenhado mais em esclarecer esses dois
+
+
+
+
+conceitos muito difíceis, sobretudo o segundo, que me parece ser o conceito no livro com o
+
+
+
+
+qual os leitores têm mais problemas. No entanto, não é de fato necessário que se compreenda
+
+
+
+
+exatamente o que é tempo imaginário — apenas que é diferente daquilo que chamamos de
+
+
+
+
+tempo real. 
+
+
+
+
+* * *
+
+
+QUANDO O livro estava prestes a ser publicado, um cientista que tinha recebido uma prova
+
+
+
+
+a fim de fazer uma resenha para a revista  
+
+Nature
+
+ ficou pasmo por encontrar vários erros, 
+
+
+
+
+diagramas e fotografias fora de lugar e legendas incorretas. Ele ligou para a Bantam, que teve
+
+
+
+
+a mesma surpresa e decidiu, naquele mesmo dia, recolher e descartar a tiragem inteira. 
+
+
+
+
+(Cópias da primeira edição original agora provavelmente são bastante valiosas.) A Bantam
+
+
+
+
+passou três semanas intensas corrigindo e checando todo o livro, que ficou pronto a tempo de
+
+
+
+
+ir para as livrarias em 1º de abril, o Dia da Mentira. A essa altura, a revista  
+
+Time
+
+ tinha publicado um perfil meu. 
+
+
+
+
+Mesmo assim, a Bantam se surpreendeu com a demanda pelo livro, que figurou na lista de
+
+
+
+
+mais vendidos do  
+
+The New York Times
+
+ por 147 semanas e na lista dos mais vendidos do
+
+
+
+
+ 
+
+Times
+
+, de Londres, durante 237 semanas, um recorde. Ainda foi traduzido em quarenta
+
+
+
+
+idiomas e vendeu mais de dez milhões de cópias no mundo todo. 
+
+
+
+
+Originalmente meu livro se chamaria  
+
+Do Big Bang aos buracos negros: uma curta
+
+
+
+
+ 
+
+história do tempo
+
+, mas Guzzardi inverteu título e subtítulo e trocou  
+
+curta
+
+ para  
+
+breve
+
+. Foi uma jogada de mestre e deve ter contribuído para o sucesso do livro. Depois dele, apareceram
+
+
+
+
+muitas “breves histórias” disso ou daquilo, e até  
+
+Uma breve história do tomilho
+
+. A imitação é
+
+
+
+
+a forma mais sincera de elogio. 
+
+
+
+
+Por que tantas pessoas compraram o livro? Ter certeza de que estou sendo objetivo é
+
+
+
+
+difícil para mim, por isso, acho que vou me guiar pelo que outras pessoas disseram. Achei a
+
+
+
+
+maioria das resenhas, apesar de favoráveis, pouco esclarecedoras. Elas costumam seguir uma
+
+
+
+
+fórmula única:  
+
+Stephen Hawking tem a doença de Lou Gehrig
+
+ (o termo usado nas resenhas
+
+
+
+
+americanas)  
+
+ou a doença do neurônio motor
+
+ (nas resenhas inglesas, com o nome como é
+
+
+
+
+conhecida na Inglaterra a esclerose lateral amiotrófica).  
+
+Está preso a uma cadeira de rodas, 
+
+
+
+
+ 
+
+não consegue falar, e só pode mexer X dedos da mão
+
+ (onde X parece variar de um a três, 
+
+
+
+
+dependendo da inconsistência do artigo que o resenhista leu a meu respeito).  
+
+No entanto, ele
+
+
+
+
+ 
+
+escreveu esse livro sobre a maior indagação de todas: de onde viemos e para onde vamos. A
+
+
+
+
+ 
+
+resposta proposta por Hawking é que o universo não foi criado nem será destruído: ele
+
+
+
+
+ 
+
+apenas é. A fim de formular essa ideia, Hawking introduz o conceito de tempo imaginário, 
+
+
+
+
+ 
+
+que, em minha opinião
+
+ (isto é, do resenhista),  
+
+é um pouco difícil de acompanhar. Ainda
+
+
+
+
+ 
+
+assim, se ele estiver certo, e nós realmente encontrarmos uma teoria unificada completa, 
+
+
+
+
+ 
+
+com certeza poderemos conhecer a mente de Deus
+
+. (No estágio de provas, quase cortei a
+
+
+
+
+frase final do livro, que era que iríamos conhecer a mente de Deus. Se eu tivesse feito isso, as
+
+
+
+
+vendas talvez houvessem caído para a metade.)
+
+
+
+
+Um artigo publicado no jornal londrino  
+
+The Independent
+
+, que considerei um pouco mais
+
+
+
+
+perspicaz, disse que até uma obra científica séria como  
+
+Uma breve história do tempo
+
+ poderia
+
+
+
+
+se tornar um livro  
+
+cult
+
+. Fiquei bastante lisonjeado ao ver meu livro comparado com  
+
+Zen e a
+
+
+
+
+ 
+
+arte da manutenção de motocicletas
+
+. Espero que, tal como  
+
+Zen
+
+, ele transmita às pessoas que
+
+
+
+
+elas não precisam ser alijadas das grandes questões intelectuais e filosóficas. 
+
+
+
+
+Sem dúvida, a história do interesse humano pelo modo como consegui ser um físico
+
+
+
+
+teórico apesar da minha deficiência ajudou. Porém, os leitores que compraram o livro por
+
+
+
+
+causa do fator de interesse humano podem ter se decepcionado, porque contém apenas umas
+
+
+
+
+poucas referências à minha condição. A intenção da obra era descrever a história do universo, 
+
+
+
+
+não a minha. Isso não evitou as acusações de que a Bantam vergonhosamente explorou minha
+
+
+
+
+doença e de que eu cooperei, permitindo que uma foto minha aparecesse na capa. Na verdade, 
+
+
+
+
+por contrato, eu não possuía nenhum controle sobre a capa. Entretanto, consegui convencer o
+
+
+
+
+editor a usar na edição inglesa uma fotografia melhor do que a triste e ultrapassada que
+
+
+
+
+apareceu na edição americana. A Bantam, contudo, não vai trocar a foto da capa americana, 
+
+
+
+
+porque alega que agora o público americano identifica aquela foto com o livro. 
+
+
+
+
+Sugeriu-se também que muitas pessoas compraram a obra para exibir na estante ou na
+
+
+
+
+mesa de centro, sem que o tivessem lido efetivamente. Tenho certeza de que isso acontece, 
+
+
+
+
+embora não saiba se muito mais do que ocorre com outros livros sérios. Mas sei que pelo
+
+
+
+
+menos algumas pessoas devem ter mergulhado nele, porque todo dia recebo uma pilha de
+
+
+
+
+cartas, muitas fazendo perguntas ou tecendo comentários detalhados que indicam que elas
+
+
+
+
+leram o livro, mesmo que não o tenham entendido por completo. Também sou abordado por
+
+
+
+
+estranhos na rua que me contam como gostaram do material. A frequência com que recebo tais
+
+
+
+
+cumprimentos (embora eu seja, é claro, mais reconhecível, se não mais famoso, do que a
+
+
+
+
+maioria dos escritores) parece indicar que ao menos parte das pessoas que compraram o livro
+
+
+
+
+o leu de fato. 
+
+
+
+
+Desde  
+
+Uma breve história do tempo
+
+, escrevi outras obras que explicam ciência para um
+
+
+
+
+público mais amplo:  
+
+Buracos negros
+
+,  
+
+universos-bebês
+
+,  
+
+O universo numa casca de noz
+
+ e  
+
+O
+
+
+
+
+ 
+
+grande projeto
+
+. Acho importante que as pessoas tenham uma compreensão básica da ciência, 
+
+
+
+
+para que possam tomar decisões esclarecidas neste mundo cada vez mais científico e
+
+
+
+
+tecnológico. Eu e minha filha Lucy também escrevemos juntos uma série de livros infantis. São
+
+
+
+
+histórias de aventuras com bases científicas para crianças, os adultos de amanhã. 
+
+
+
+
+11
+
+
+
+
+VIAGEM NO TEMPO
+
+
+
+
+E M 1990, KIP THORNE INSINUOU QUE TALVEZ fosse possível viajar no tempo pelo
+
+
+
+
+intermédio do que chamou de buracos de minhoca. Achei, portanto, que valeria a pena
+
+
+
+
+investigar se a viagem no tempo era permitida pelas leis da física. 
+
+
+
+
+Especular abertamente sobre a ideia de viagem no tempo é delicado por diversas razões. 
+
+
+
+
+Se a imprensa ficasse sabendo que o governo está financiando pesquisas sobre isso, haveria
+
+
+
+
+um protesto contra o desperdício de dinheiro público ou uma exigência de que a pesquisa
+
+
+
+
+fosse confidencial por razões militares. Afinal, como poderíamos nos proteger se os russos ou
+
+
+
+
+os chineses pudessem viajar no tempo e nós não? Eles seriam capazes de trazer os camaradas
+
+
+
+
+Stalin e Mao de volta. Nos círculos da física, só alguns de nós são temerários o bastante para
+
+
+
+
+trabalhar com um tema que outros consideram frívolo e politicamente incorreto. Então
+
+
+
+
+dissimulamos nosso foco com o uso de termos técnicos, tais como “histórias fechadas de
+
+
+
+
+partículas”, que são código para viagem no tempo. 
+
+
+
+
+* * *
+
+
+A PRIMEIRA descrição científica do tempo foi feita em 1689 por Sir Isaac Newton, que
+
+
+
+
+possuía a cátedra lucasiana em Cambridge que eu costumava ocupar (embora ela não fosse
+
+
+
+
+eletricamente operada na época dele). Na teoria de Newton, o tempo era absoluto e seguia em
+
+
+
+
+frente de maneira implacável. Não havia como dar a volta e retornar a uma época anterior. A
+
+
+
+
+situação mudou, no entanto, quando Einstein formulou sua teoria geral da relatividade, na qual
+
+
+
+
+o espaço-tempo era curvo e deformado pela matéria e energia do universo. O tempo ainda
+
+
+
+
+aumentava de maneira local, mas havia agora a possibilidade de que o espaço-tempo fosse tão
+
+
+
+
+deformado que o indivíduo pudesse se mover numa direção que o traria de volta antes mesmo
+
+
+
+
+de ele ter partido. 
+
+
+
+
+Uma das possibilidades que permitiriam isso seriam os buracos de minhoca, hipotéticos
+
+
+
+
+tubos de espaço-tempo capazes de conectar diferentes regiões de espaço e tempo. A ideia é de
+
+
+
+
+que, ao pisar em uma abertura de um buraco de minhoca, você saia em outra, em um lugar
+
+
+
+
+diferente e em um tempo diferente. Caso existam, buracos de minhoca seriam ideais para
+
+
+
+
+viagens espaciais rápidas. Seria possível passar por um deles até a outra extremidade da
+
+
+
+
+galáxia e estar de volta para o jantar. No entanto, é possível demonstrar que, caso existam, os
+
+
+
+
+buracos de minhoca poderiam ser usados para fazer com que o indivíduo volte antes de partir. 
+
+
+
+
+Supõe-se então que ele seria capaz de explodir a própria espaçonave em sua plataforma de
+
+
+
+
+lançamento original para se impedir de partir de todo. Trata-se de uma variação do tal
+
+
+
+
+paradoxo do avô: o que acontece se você volta no tempo e mata seu avô antes que seu pai
+
+
+
+
+tenha sido concebido? Você existiria então no presente atual? Se não, você não existiria para
+
+
+
+
+voltar no tempo e matar seu avô. Evidentemente, isso só é um paradoxo se você acredita que
+
+
+
+
+tem o livre-arbítrio de fazer o que quiser e mudar a história ao voltar no tempo. 
+
+
+
+
+A verdadeira questão é se as leis da física permitem que os buracos de minhoca e o
+
+
+
+
+espaço-tempo sejam deformados a ponto de fazer com que um corpo macroscópico, tal como
+
+
+
+
+uma espaçonave, volte ao próprio passado. De acordo com a teoria de Einstein, uma
+
+
+
+
+espaçonave viaja necessariamente a uma velocidade inferior à velocidade local da luz e segue
+
+
+
+
+o que se chama de “trajetória do tipo tempo” através do espaço-tempo. Assim, pode-se
+
+
+
+
+formular a pergunta em termos técnicos: será que o espaço-tempo permite a existência de
+
+
+
+
+curvas do tipo tempo que sejam fechadas, ou seja, curvas do tipo tempo que voltem sempre ao
+
+
+
+
+ponto de partida? 
+
+
+
+
+Podemos tentar responder a essa pergunta em três níveis. O primeiro é a teoria da
+
+
+
+
+relatividade geral de Einstein. Esta é a que chamamos de uma teoria clássica, ou seja, que
+
+
+
+
+parte do princípio de que o universo tem uma história bem definida, sem qualquer incerteza. 
+
+
+
+
+Na relatividade geral clássica, temos uma imagem bastante completa de como a viagem no
+
+
+
+
+tempo pode funcionar. Sabemos, no entanto, que a teoria clássica não pode estar de todo
+
+
+
+
+correta, pois observamos que a matéria no universo é sujeita a flutuações, e seu
+
+
+
+
+comportamento não pode ser previsto com precisão. 
+
+
+
+
+Nos anos 1920, um novo paradigma chamado teoria quântica foi desenvolvido para
+
+
+
+
+descrever essas flutuações e quantificar a incerteza. Pode-se, portanto, fazer a pergunta sobre
+
+
+
+
+a viagem no tempo nesse segundo nível, chamado teoria semiclássica. Nesta, considera-se a
+
+
+
+
+matéria quântica no espaço-tempo clássico. Aqui a imagem é menos completa, mas ao menos
+
+
+
+
+temos alguma ideia de como proceder. 
+
+
+
+
+Finalmente, temos a teoria quântica da gravitação completa, o que quer que isso seja. Aqui
+
+
+
+
+não fica claro nem como apresentar a pergunta “É possível viajar no tempo?”. Talvez o
+
+
+
+
+melhor que se possa fazer seja perguntar como observadores no infinito interpretariam suas
+
+
+
+
+medidas. Será que pensariam que a viagem no tempo ocorrera no interior do espaço-tempo? 
+
+
+
+
+* * *
+
+
+VOLTEMOS À teoria clássica: o espaço-tempo plano não contém curvas do tipo tempo
+
+
+
+
+fechadas. As outras soluções às equações de Einstein que eram conhecidas logo no início
+
+
+
+
+também não as contêm. Foi, portanto, um grande choque para Einstein quando, em 1949, Kurt
+
+
+
+
+Gödel descobriu uma solução que representava um universo repleto de matéria em rotação, 
+
+
+
+
+com curvas do tipo tempo fechadas através de cada ponto. A solução de Gödel implicava uma
+
+
+
+
+constante cosmológica, cuja existência é conhecida, embora outras soluções tenham sido
+
+
+
+
+encontradas depois sem ela. 
+
+
+
+
+Um caso particularmente interessante para ilustrar isso seriam duas cordas cósmicas
+
+
+
+
+movendo-se em alta velocidade, passando uma pela outra. Como seu nome sugere, cordas
+
+
+
+
+cósmicas são objetos com comprimento, mas com uma seção transversal minúscula. Algumas
+
+
+
+
+teorias de partículas elementares preveem sua ocorrência. O campo gravitacional de uma
+
+
+
+
+única corda cósmica é um espaço plano com uma cunha recortada, com a corda na borda
+
+
+
+
+aguda da cunha. Assim, se seguimos um círculo em torno de uma corda cósmica, a distância no
+
+
+
+
+espaço é menor do que se esperaria, mas o tempo não é afetado. Isso significa que o espaço-
+
+
+
+
+tempo em torno de uma única corda cósmica não contém qualquer curva do tipo tempo
+
+
+
+
+fechada. 
+
+
+
+
+Porém, se há uma segunda corda cósmica se movendo em relação à primeira, a cunha
+
+
+
+
+retirada diminuirá tanto as distâncias espaciais quanto os intervalos de tempo. Se as cordas
+
+
+
+
+cósmicas estiverem se movendo a uma velocidade aproximada à da luz, uma em relação à
+
+
+
+
+outra, a economia de tempo ao dar a volta em ambas as cordas pode ser tão grande que o
+
+
+
+
+indivíduo chegaria de volta antes de ter partido. Em outras palavras, há curvas do tipo tempo
+
+
+
+
+fechadas que podemos seguir para viajar ao passado. 
+
+
+
+
+O espaço-tempo das cordas cósmicas contém matéria que possui uma densidade de
+
+
+
+
+energia positiva, e é portanto razoável segundo as leis da física. Porém, a deformação que
+
+
+
+
+produz as curvas do tipo tempo fechadas se estende totalmente até o infinito e volta ao
+
+
+
+
+passado infinito. Assim, esses espaços-tempos foram criados com a viagem no tempo no
+
+
+
+
+interior de si mesmos. Não temos razão para crer que nosso universo tenha sido criado de
+
+
+
+
+maneira tão deformada, e não temos provas fiáveis de visitantes do futuro. (Desconsiderando, 
+
+
+
+
+é claro, a teoria da conspiração segundo a qual óvnis são do futuro e que o governo sabe disso
+
+
+
+
+e omite. Mas o histórico de segredos dos governos não é lá tão bom.) Deve-se então supor que
+
+
+
+
+não há curvas do tipo tempo fechadas para o passado de uma superfície de tempo constante S. 
+
+
+
+
+Então, a questão é se alguma civilização avançada poderia construir uma máquina do
+
+
+
+
+tempo. Ou seja: ela poderia modificar o espaço-tempo no futuro de S, de forma que curvas do
+
+
+
+
+tipo tempo fechadas aparecessem em uma região finita? Digo “região finita” porque, não
+
+
+
+
+importa quão avançada se torne a civilização, ela só poderia presumidamente controlar uma
+
+
+
+
+parte finita do universo. 
+
+
+
+
+Na ciência, muitas vezes, encontrar a formulação correta para um problema é a chave para
+
+
+
+
+resolvê-lo, e esse foi um bom exemplo. Para definir o que se entende por uma máquina do
+
+
+
+
+tempo finita, recorri a um dos meus primeiros trabalhos. Defini o desenvolvimento de Cauchy
+
+
+
+
+de S no futuro como o conjunto de pontos do espaço-tempo onde os acontecimentos são
+
+
+
+
+inteiramente determinados pelo que aconteceu em S. Em outras palavras, é a região do
+
+
+
+
+espaço-tempo em que todos os caminhos possíveis que se movem a uma velocidade inferior à
+
+
+
+
+da luz vêm de S. Porém, se uma civilização avançada conseguisse construir uma máquina do
+
+
+
+
+
+
+
+tempo, haveria uma curva do tipo tempo fechada, C, até o futuro de S. C daria voltas e voltas
+
+
+
+
+no futuro de S, mas não retornaria para interceptar S. Isso significa que pontos em C não
+
+
+
+
+estariam no desenvolvimento de Cauchy de S. Assim, S teria um horizonte de Cauchy, uma
+
+
+
+
+superfície que seria uma fronteira no futuro para o desenvolvimento de Cauchy de S. 
+
+
+
+
+Horizontes de Cauchy ocorrem no interior de algumas soluções de buraco negro, ou no
+
+
+
+
+espaço anti-de Sitter. No entanto, nesses casos, os raios de luz que formam o horizonte de
+
+
+
+
+Cauchy começam no infinito ou nas singularidades. Para criar tal horizonte de Cauchy seria
+
+
+
+
+necessário deformar totalmente o espaço-tempo até o infinito ou a ocorrência de uma
+
+
+
+
+singularidade no espaço-tempo. Deformar o espaço-tempo até o infinito estaria, em teoria, 
+
+
+
+
+além dos poderes até da mais avançada das civilizações, que só poderia deformá-lo numa
+
+
+
+
+região finita. A civilização avançada poderia reunir uma quantidade suficiente de matéria para
+
+
+
+
+causar um colapso gravitacional, o que produziria uma singularidade espaço-tempo, ao menos
+
+
+
+
+de acordo com a relatividade geral clássica. Mas as equações de Einstein não poderiam ser
+
+
+
+
+definidas na singularidade, de forma que não se poderia prever o que aconteceria para além
+
+
+
+
+do horizonte de Cauchy, e, de forma específica, se haveria ou não curvas do tipo tempo
+
+
+
+
+fechadas. 
+
+
+
+
+Deveríamos, então, tomar como critério para uma máquina do tempo o que eu chamo de
+
+
+
+
+horizonte de Cauchy finitamente gerado. Ou seja, um horizonte de Cauchy gerado por raios
+
+
+
+
+luminosos que emergem todos de uma região limitada. Em outras palavras, eles não vêm do
+
+
+
+
+infinito, ou de uma singularidade, mas nascem de uma região finita que contém curvas do tipo
+
+
+
+
+tempo fechadas, o tipo de região que supomos que nossa civilização avançada poderia criar. 
+
+
+
+
+Com Roger Penrose (atrás, no meio) e Kip Thorne (na frente, à esquerda), entre outros
+
+
+
+
+
+
+
+Com Roger e sua esposa, Vanessa
+
+
+
+
+Adotar essa definição como o critério para uma máquina do tempo tem a vantagem de que
+
+
+
+
+assim é possível usar o mecanismo de estrutura causal desenvolvido por mim e Roger Penrose
+
+
+
+
+para estudar singularidades e buracos negros. Mesmo sem utilizar as equações de Einstein, fui
+
+
+
+
+capaz de mostrar que, de maneira geral, um horizonte de Cauchy finitamente gerado conterá um
+
+
+
+
+raio de luz fechado, ou um raio de luz que voltará sempre ao mesmo ponto. Além disso, toda
+
+
+
+
+vez que a luz der a volta, ela irá apresentar um desvio para o azul cada vez maior, de forma
+
+
+
+
+que  as  imagens  ficarão  cada  vez  mais  azuis.  É  possível  que  os  raios  de  luz  se  tornem
+
+
+
+
+suficientemente desfocados em cada volta de modo que a energia da luz não aumente e se torne
+
+
+
+
+infinita.  Porém,  o  desvio  para  o  azul  significará  que  uma  partícula  de  luz  terá  apenas  uma
+
+
+
+
+história  finita,  como  definido  pela  própria  medida  de  tempo,  embora  ela  dê  voltas  e  mais
+
+
+
+
+voltas em uma região finita e não esbarre em uma singularidade de curvatura. 
+
+
+
+
+Talvez ninguém se importe que uma partícula de luz complete sua história num tempo
+
+
+
+
+finito. Mas também fui capaz de provar que haveria trajetórias se movendo a uma velocidade
+
+
+
+
+inferior à da luz e com duração apenas finita. Essas poderiam ser as histórias de observadores
+
+
+
+
+que teriam ficado presos em uma região finita antes do horizonte de Cauchy e dariam voltas e
+
+
+
+
+mais voltas cada vez mais rápidas até alcançarem a velocidade da luz em um tempo finito. 
+
+
+
+
+Então, se um lindo alienígena em um disco voador convidar você para entrar em sua
+
+
+
+
+máquina do tempo, tenha cuidado. Você pode cair e ficar preso numa dessas histórias
+
+
+
+
+repetitivas de duração apenas finita. 
+
+
+
+
+* * *
+
+
+COMO JÁ afirmei, esses resultados não dependem das equações de Einstein, mas da
+
+
+
+
+maneira como o espaço-tempo teria de ser deformado para produzir curvas do tipo tempo
+
+
+
+
+fechadas numa região finita. Porém, é possível perguntar agora: de que tipo de matéria uma
+
+
+
+
+civilização avançada necessitaria para deformar o espaço-tempo de maneira a construir uma
+
+
+
+
+máquina do tempo de tamanho finito? Poderia ela ter densidade de energia positiva em toda
+
+
+
+
+parte, como no espaço-tempo de corda cósmica? Pode-se imaginar que seria possível
+
+
+
+
+construir uma máquina do tempo finita com laços finitos de corda cósmica e ter a densidade de
+
+
+
+
+energia positiva em toda parte. Sinto decepcionar aqueles que querem voltar ao passado, mas
+
+
+
+
+isso não pode ser feito com densidade de energia positiva em toda parte. Provei que para
+
+
+
+
+construir uma máquina do tempo finita precisamos de energia negativa. 
+
+
+
+
+Na teoria clássica, todos os campos fisicamente razoáveis obedecem à condição de
+
+
+
+
+energia fraca, que afirma que a densidade de energia para qualquer observador é superior ou
+
+
+
+
+igual a zero. Portanto, máquinas do tempo de tamanho finito são descartadas na teoria clássica
+
+
+
+
+pura. Porém, a situação é diferente na teoria semiclássica, na qual consideram-se campos
+
+
+
+
+quânticos em um fundo de espaço-tempo clássico. O princípio de incerteza da teoria quântica
+
+
+
+
+significa que os campos estão sempre flutuando para cima e para baixo, mesmo no espaço
+
+
+
+
+aparentemente vazio. Essas flutuações quânticas tornam a densidade de energia infinita. 
+
+
+
+
+Assim, é necessário subtrair uma quantidade infinita para obter a densidade de energia finita
+
+
+
+
+que se observa. De outro modo, a densidade de energia curvaria o espaço-tempo, reduzindo-o
+
+
+
+
+a um único ponto. Essa subtração pode deixar o valor esperado da energia negativo, ao menos
+
+
+
+
+localmente. Mesmo no espaço plano, podemos encontrar estados quânticos nos quais o valor
+
+
+
+
+esperado da densidade de energia é negativo localmente, embora a energia total integrada seja
+
+
+
+
+positiva. 
+
+
+
+
+Podemos nos perguntar se esses valores esperados negativos de fato fazem com que o
+
+
+
+
+espaço-tempo se deforme da maneira apropriada. Mas parece que sim. O princípio de
+
+
+
+
+incerteza da teoria quântica permite que partículas e radiação vazem para fora de um buraco
+
+
+
+
+negro. Isso faz com que o buraco negro perca massa, evaporando assim lentamente. Para que o
+
+
+
+
+horizonte do buraco negro diminua em tamanho, a densidade de energia no horizonte tem de
+
+
+
+
+ser negativa e deformar o espaço-tempo para fazer com que raios de luz divirjam uns dos
+
+
+
+
+outros. Se a densidade de energia fosse sempre positiva e deformasse o espaço-tempo de
+
+
+
+
+maneira a curvar os raios na direção uns dos outros, a área do horizonte de um buraco negro
+
+
+
+
+só poderia crescer com o tempo. 
+
+
+
+
+A evaporação de buracos negros mostra que o tensor energia-momento quântico da matéria
+
+
+
+
+é capaz de, às vezes, deformar o espaço-tempo na direção necessária para a construção de
+
+
+
+
+uma máquina do tempo. Pode-se imaginar, portanto, que uma civilização muito avançada seria
+
+
+
+
+capaz de fazer com que o valor esperado da densidade de energia fosse suficientemente
+
+
+
+
+negativo para formar uma máquina do tempo que pudesse ser usada por objetos
+
+
+
+
+macroscópicos. 
+
+
+
+
+Mas há uma diferença importante entre o horizonte de um buraco negro e o horizonte em
+
+
+
+
+uma máquina do tempo, que contém raios de luz fechados que ficam dando voltas e mais
+
+
+
+
+voltas. Isso tornaria a densidade de energia infinita, o que significaria que uma pessoa ou uma
+
+
+
+
+espaçonave que tentasse cruzar o horizonte para entrar na máquina do tempo seria aniquilada
+
+
+
+
+por uma rajada de radiação. Talvez isso seja um alerta da natureza de que não se deve intervir
+
+
+
+
+no passado. 
+
+
+
+
+De forma que o futuro parece negro para a viagem no tempo, ou será que eu deveria dizer
+
+
+
+
+que parece ofuscantemente branco? No entanto, o valor esperado do tensor de energia-
+
+
+
+
+momento depende do estado quântico dos campos ao fundo. Poderíamos especular que seriam
+
+
+
+
+possíveis estados quânticos onde a densidade de energia fosse finita no horizonte, e há
+
+
+
+
+exemplos em que é esse o caso. Como se alcança tal estado quântico, e se ele seria estável
+
+
+
+
+contra objetos cruzando o horizonte, não sabemos. Mas é possível que ele esteja ao alcance
+
+
+
+
+das capacidades de uma civilização avançada. 
+
+
+
+
+Essa é uma questão que os físicos deveriam poder discutir livremente sem serem alvo de
+
+
+
+
+risos ou de desdém. Mesmo que viajar no tempo acabe se revelando algo impossível, é
+
+
+
+
+importante que entendamos  
+
+por que
+
+ é impossível. 
+
+
+
+
+Não sabemos muito sobre a teoria da gravidade completamente quantizada. Porém, pode-
+
+
+
+
+se supor que ela difira da teoria semiclássica apenas no comprimento de Planck, a
+
+
+
+
+milionésima bilionésima bilionésima bilionésima parte de um centímetro. Flutuações
+
+
+
+
+quânticas do fundo do espaço-tempo podem muito bem criar buracos de minhoca e viagens no
+
+
+
+
+tempo em escala microscópica, mas de acordo com a teoria geral da relatividade, corpos
+
+
+
+
+macroscópicos não serão capazes de regressar ao seu passado. 
+
+
+
+
+Mesmo que uma nova teoria seja descoberta no futuro, não acho que viajar no tempo algum
+
+
+
+
+dia será possível. Se fosse, a essa altura já teríamos sido invadidos por turistas vindos de lá. 
+
+
+
+
+12
+
+
+
+
+TEMPO IMAGINÁRIO
+
+
+
+
+E NQUANTO ESTÁVAMOS NO CALTECH, visitamos Santa Barbara, que fica a duas horas de
+
+
+
+
+carro pelo litoral. Lá, trabalhei com meu amigo e colaborador Jim Hartle em uma
+
+
+
+
+nova maneira de calcular como as partículas seriam emitidas por um buraco negro, 
+
+
+
+
+adicionando todas as trajetórias possíveis que a partícula poderia seguir para escapar do
+
+
+
+
+buraco. Descobrimos que a probabilidade de que a partícula fosse emitida por um buraco
+
+
+
+
+negro estava relacionada à probabilidade de que caísse no buraco, da mesma forma que as
+
+
+
+
+probabilidades de emissão e absorção estão relacionadas para um corpo quente. Isso mostrou
+
+
+
+
+mais uma vez que buracos negros se comportam como se tivessem uma temperatura e uma
+
+
+
+
+entropia proporcionais à área de seu horizonte. 
+
+
+
+
+Nosso cálculo utilizou o conceito de tempo imaginário, que pode ser visto como uma
+
+
+
+
+direção do tempo em ângulos retos com o tempo real comum. Quando retornei a Cambridge, 
+
+
+
+
+desenvolvi ainda mais essa ideia com dois de meus ex-alunos de pesquisa, Gary Gibbons e
+
+
+
+
+Malcolm Perry. Substituímos o tempo comum pelo tempo imaginário. Isso se chama
+
+
+
+
+abordagem euclidiana, pois faz com que o tempo se torne uma quarta direção do espaço. Ela
+
+
+
+
+encontrou muita resistência no início, mas hoje em dia é geralmente aceita como a melhor
+
+
+
+
+maneira de se estudar a gravidade quântica. O espaço euclidiano de tempo no buraco negro é
+
+
+
+
+liso e não contém qualquer singularidade na qual as equações da física sofreriam uma ruptura. 
+
+
+
+
+Ele resolveu o problema fundamental que os teoremas de singularidade, meus e de Penrose, 
+
+
+
+
+haviam levantado: que a previsibilidade colapsaria por causa da singularidade. Usando a
+
+
+
+
+abordagem euclidiana, fomos capazes de entender as razões profundas pelas quais os buracos
+
+
+
+
+negros se comportavam como corpos quentes e tinham entropia. Eu e Gary também mostramos
+
+
+
+
+que um universo que se expandia a uma taxa em constante aceleração se comportaria como se
+
+
+
+
+tivesse uma temperatura efetiva tal qual a de um buraco negro. Na época, pensamos que essa
+
+
+
+
+temperatura nunca poderia ser observada, mas sua importância se tornou aparente quatorze
+
+
+
+
+anos mais tarde. 
+
+
+
+
+
+
+
+Com Don Page (no alto, à esquerda), Kip Thorne (abaixo, à esquerda) e Jim Hartle (abaixo, à direita), entre outros EU ESTIVERA trabalhando sobretudo com buracos negros, mas meu interesse em cosmologia
+
+
+
+
+se renovou com as indicações de que o universo primitivo havia passado por um período de
+
+
+
+
+expansão inflacionária. Seu tamanho teria aumentado a uma taxa cada vez mais acelerada, da
+
+
+
+
+mesma forma que os preços sobem nas lojas. Em 1982, usando métodos euclidianos, mostrei
+
+
+
+
+que tal universo se tornaria ligeiramente não uniforme. Resultados semelhantes foram obtidos
+
+
+
+
+pelo cientista russo Viatcheslav Mukhanov mais ou menos na mesma época, porém no
+
+
+
+
+Ocidente só se soube disso mais tarde. 
+
+
+
+
+Essas não uniformidades podem ser consideradas resultado de flutuações térmicas devido
+
+
+
+
+à temperatura efetiva em um universo inflacionário que eu e Gary Gibbons havíamos
+
+
+
+
+descoberto oito anos antes. Diversas outras pessoas fizeram mais tarde previsões semelhantes. 
+
+
+
+
+Realizei um workshop em Cambridge, com a presença das pessoas mais importantes desse
+
+
+
+
+campo, e estabelecemos a maior parte da nossa imagem atual da inflação, incluindo as
+
+
+
+
+flutuações de densidade, de suma importância, que dão origem à formação de galáxias, e, 
+
+
+
+
+dessa forma, à nossa existência. 
+
+
+
+
+Isso se deu dez anos antes que o satélite Cosmic Background Explorer (Cobe) registrasse
+
+
+
+
+diferenças no fundo de micro-ondas em diferentes direções produzidas pelas flutuações de
+
+
+
+
+densidade. De forma que mais uma vez, no estudo da gravidade, a teoria estava à frente da
+
+
+
+
+experimentação. Essas flutuações foram mais tarde confirmadas pela sonda Wilkinson
+
+
+
+
+Microwave Anisotropy Probe (WMAP) e pelo satélite Planck, e descobriu-se que estavam
+
+
+
+
+totalmente de acordo com as previsões. 
+
+
+
+
+* * *
+
+
+
+
+O CENÁRIO original para a inflação era de que o universo começou com uma singularidade
+
+
+
+
+do Big Bang. À medida que o universo se expandia, ele devia de alguma forma entrar num
+
+
+
+
+estado inflacionário. Achei que essa era uma explicação insatisfatória, pois todas as equações
+
+
+
+
+colapsariam na singularidade, como já discutimos antes. Mas, a menos que se soubesse o que
+
+
+
+
+saiu da singularidade original, não se poderia calcular como o universo se desenvolveria. A
+
+
+
+
+cosmologia não teria qualquer poder de previsão. O que era necessário era um espaço-tempo
+
+
+
+
+sem uma singularidade, como na versão euclidiana do buraco negro. 
+
+
+
+
+* * *
+
+
+DEPOIS DO workshop em Cambridge, passei o verão no Instituto de Física Teórica, em
+
+
+
+
+Santa Barbara, que tinha acabado de ser criado. Conversei com Jim Hartle sobre como aplicar
+
+
+
+
+a abordagem euclidiana à cosmologia. Segundo a abordagem euclidiana, o comportamento
+
+
+
+
+quântico do universo é dado por histórias múltiplas de Feynman no tempo imaginário. Como o
+
+
+
+
+tempo imaginário se comporta como mais uma direção no espaço, as histórias no tempo
+
+
+
+
+imaginário podem ser superfícies fechadas, como a superfície da Terra, sem início ou fim. 
+
+
+
+
+Eu e Jim decidimos que essa era a escolha mais natural, na realidade a única escolha
+
+
+
+
+natural. Nós formulamos a proposta sem fronteira: que a condição de contorno do universo é
+
+
+
+
+que ele é fechado e sem fronteira. Segundo a proposta sem fronteira, o início do universo foi
+
+
+
+
+como o polo sul da Terra, com graus de latitude assumindo a função de tempo imaginário. O
+
+
+
+
+universo começaria como um ponto no polo sul. À medida que nos movemos para o norte, os
+
+
+
+
+círculos de latitude constante, representando o tamanho do universo, se expandiriam. Perguntar
+
+
+
+
+o que aconteceu antes do começo do universo se tornaria assim uma questão sem sentido, já
+
+
+
+
+que não há nada ao sul do polo sul. 
+
+
+
+
+O tempo, medido em graus de latitude, teria um começo no polo sul, mas o polo sul é
+
+
+
+
+muito semelhante a qualquer outro ponto do globo. As mesmas leis da natureza que vigoram no
+
+
+
+
+polo sul vigoram em outras partes. Isso removeria aquela objeção secular a que o universo
+
+
+
+
+tenha um começo — que seria um lugar onde as leis normais colapsavam. O começo do
+
+
+
+
+universo seria, ao contrário, governado pelas leis da ciência. Havíamos contornado a
+
+
+
+
+dificuldade científica e filosófica de que o tempo tivesse um começo, transformando-o em uma
+
+
+
+
+direção no espaço. 
+
+
+
+
+A condição sem fronteira implica que o universo seja espontaneamente criado a partir do
+
+
+
+
+nada. A princípio, parecia que a proposta sem fronteira não previa inflação o bastante, mas
+
+
+
+
+depois me dei conta de que a probabilidade de dada configuração do universo tem de ser
+
+
+
+
+ponderada pelo volume da configuração. Recentemente, Jim Hartle, Thomas Hertog (outro ex-
+
+
+
+
+aluno) e eu descobrimos que há uma dualidade entre universos inflacionários e espaços que
+
+
+
+
+têm curvatura negativa. Isso permite que formulemos a proposta sem fronteira de um jeito
+
+
+
+
+novo e que usemos os consideráveis mecanismos técnicos que foram desenvolvidos para tais
+
+
+
+
+espaços. A proposta sem fronteira prevê que o universo começa quase completamente liso, 
+
+
+
+
+mas com alguns minúsculos desvios. Esses desvios crescem à medida que o universo se
+
+
+
+
+expande, e levarão à formação de galáxias, estrelas e todas as outras estruturas do universo, 
+
+
+
+
+incluindo seres vivos. A condição sem fronteira é a chave da criação, a razão pela qual
+
+
+
+
+estamos aqui. 
+
+
+
+
+13
+
+
+
+
+SEM FRONTEIRAS
+
+
+
+
+Q UANDO EU TINHA VINTE E UM ANOS e contraí esclerose lateral amiotrófica, achei muito
+
+
+
+
+injusto. Por que aquilo tinha de acontecer comigo? Na época, pensei que minha vida
+
+
+
+
+tivesse terminado e que nunca concretizaria o potencial que acreditava possuir. Mas hoje, 
+
+
+
+
+cinquenta anos depois, estou bastante satisfeito com minha vida. Fui casado duas vezes e tenho
+
+
+
+
+três filhos lindos e bem-sucedidos. Tive sucesso na minha carreira científica: acho que a
+
+
+
+
+maioria dos físicos teóricos concordaria que a minha previsão de emissão quântica de buracos
+
+
+
+
+negros está correta, embora ela ainda não tenha me valido um Prêmio Nobel, porque é muito
+
+
+
+
+difícil de verificá-la experimentalmente. Por outro lado, ganhei o ainda mais valioso
+
+
+
+
+Fundamental Physics Prize, que me foi dado pela importância teórica da descoberta, apesar de
+
+
+
+
+ela não ter sido confirmada por experimentos. 
+
+
+
+
+Minha deficiência não foi um obstáculo sério no meu trabalho científico. Inclusive, acho
+
+
+
+
+que de certa forma foi uma vantagem: não tive de dar palestras ou aulas a estudantes de
+
+
+
+
+graduação, nem precisei participar de tediosos comitês que consomem muito tempo. Dessa
+
+
+
+
+forma, pude me dedicar por completo à pesquisa. 
+
+
+
+
+Para os meus colegas de trabalho, sou apenas mais um físico, mas para o público em geral, 
+
+
+
+
+me tornei possivelmente o cientista mais famoso do mundo. Isso se deve em parte ao fato de
+
+
+
+
+que, com a exceção de Einstein, cientistas não são astros de rock conhecidos por todos, e em
+
+
+
+
+parte porque me encaixo no estereótipo do gênio deficiente. Não posso me disfarçar com uma
+
+
+
+
+peruca e óculos escuros — a cadeira de rodas me denuncia. 
+
+
+
+
+Ser famoso e facilmente reconhecível tem seus prós e contras. Os contras são o fato de que
+
+
+
+
+pode ser difícil fazer coisas comuns, como ir às compras sem ser importunado por pessoas
+
+
+
+
+querendo tirar fotos, e de que no passado a imprensa se interessou de maneira pouco saudável
+
+
+
+
+pela minha vida pessoal. Mas os contras são mais do que compensados pelos prós. As
+
+
+
+
+pessoas parecem genuinamente felizes em me ver. Tive a maior audiência da minha vida
+
+
+
+
+quando apresentei os Jogos Paralímpicos em Londres, em 2012. 
+
+
+
+
+
+
+
+Apresentando os Jogos Paralímpicos em 2012
+
+
+
+
+Tive  e  tenho  uma  vida  completa  e  prazerosa.  Acredito  que  pessoas  com  deficiências
+
+
+
+
+devem se concentrar nas coisas que a desvantagem não as impede de fazer, e não lamentar as
+
+
+
+
+que  são  incapazes  de  realizar.  No  meu  caso,  consegui  fazer  quase  tudo  o  que  queria.  Viajei
+
+
+
+
+bastante. Visitei a União Soviética sete vezes. Da primeira vez, fui com um grêmio estudantil
+
+
+
+
+em que um dos membros, um batista, queria distribuir Bíblias em russo e nos pediu para entrar
+
+
+
+
+com elas clandestinamente. Conseguimos fazer isso sem sermos pegos, mas, quando chegou a
+
+
+
+
+hora de irmos embora, as autoridades já tinham nos descoberto e nos detiveram por um tempo. 
+
+
+
+
+Porém, nos acusar de contrabandear Bíblias teria causado um incidente internacional, além de
+
+
+
+
+publicidade  desfavorável,  de  forma  que  nos  liberaram  após  algumas  horas.  As  outras  seis
+
+
+
+
+visitas foram para encontrar com cientistas russos que na época não tinham autorização para
+
+
+
+
+vir  ao  ocidente.  Com  o  fim  da  União  Soviética,  em  1990,  muitos  dos  melhores  cientistas
+
+
+
+
+trocaram-na pelo ocidente, de modo que não vou à Rússia desde então. 
+
+
+
+
+
+
+
+Visitando o Templo do Céu, em Pequim
+
+
+
+
+Também visitei o Japão seis vezes, a China três vezes, e todos os continentes, incluindo a
+
+
+
+
+Antártica, com exceção da Austrália. Conheci os presidentes de Coreia do Sul, China, Índia, 
+
+
+
+
+Irlanda, Chile e Estados Unidos. Dei palestras no Grande Salão do Povo em Pequim e na Casa
+
+
+
+
+Branca.  Estive  debaixo  do  mar  em  um  submarino,  no  céu  em  um  balão  e  num  voo  com
+
+
+
+
+gravidade zero, e marquei de ir ao espaço com a empresa Virgin Galactic. 
+
+
+
+
+
+
+
+
+
+
+Conhecendo a rainha Elizabeth II com minha filha, Lucy
+
+
+
+
+Experimentando a gravidade zero
+
+
+
+
+Meus  primeiros  trabalhos  mostraram  que  a  relatividade  geral  clássica  colapsava  nas
+
+
+
+
+singularidades  do  Big  Bang  e  dos  buracos  negros.  Minhas  pesquisas  posteriores  mostraram
+
+
+
+
+como a teoria quântica pode prever o que acontece no começo e no fim do tempo. Tem sido
+
+
+
+
+um período glorioso para se viver e fazer pesquisa no campo da física teórica. Fico feliz se
+
+
+
+
+acrescentei algo ao nosso conhecimento do universo. 
+
+
+
+
+CRÉDITOS DAS IMAGENS
+
+
+
+
+Cortesia de Mary Hawking:
+
+ 1, 
+
+ 2, 
+
+ 3, 
+
+ 4, 
+
+ 5, 
+
+ 6, 
+
+ 7, 
+
+ 8, 
+
+ 9 (abaixo), 
+
+ 10
+
+, 
+
+11
+
+
+
+
+Cortesia de Stephen Hawking:
+
+ 1, 
+
+ 2 (acima)
+
+, 
+
+3
+
+, 
+
+4 (abaixo)
+
+, 
+
+5
+
+, 
+
+6
+
+, 
+
+7
+
+, 
+
+8
+
+, 
+
+9
+
+, 
+
+10, 
+
+ 11
+
+, 
+
+12, 
+
+ 13
+
+, 14
+
+
+
+
+(abaixo)
+
+
+
+
+National Archives and Record Administration
+
+
+
+
+ 
+
+Herts Advertiser
+
+
+
+
+Gillman & Soame:
+
+ 1, 
+
+ 
+
+2, 
+
+ 3, 
+
+ 
+
+4, 
+
+ 5
+
+
+
+
+Suzanne McClenahan
+
+
+
+
+Lafayette Photography
+
+
+
+
+John McClenahan
+
+
+
+
+Cortesia dos Arquivos do Instituto de Tecnologia da Califórnia: 
+
+1
+
+, 
+
+2
+
+
+
+
+Bernard Carr: 
+
+1 (acima), 
+
+ 
+
+2
+
+
+
+
+Judith Croasdell
+
+
+
+
+Zhang Chao Wu
+
+
+
+
+Alpha/Globe Photos, Inc. 
+
+
+
+
+Steve Boxall
+
+
+
+
+
+
+
+SOBRE O AUTOR
+
+
+
+
+STEPHEN HAWKING foi professor lucasiano da Universidade de Cambridge durante trinta
+
+
+
+
+anos, uma das cátedras de matemática de maior prestígio do mundo, posição já ocupada por
+
+
+
+
+Isaac Newton. Considerado um dos físicos mais importantes da história, recebeu inúmeros
+
+
+
+
+prêmios e honrarias, incluindo, mais recentemente, a Medalha Presidencial da Liberdade. 
+
+
+
+
+Seus livros para o público geral incluem o clássico  
+
+Uma breve história do tempo
+
+, a coletânea
+
+
+
+
+de ensaios  
+
+Buracos negros, universos-bebês
+
+,  
+
+O universo numa casca de noz
+
+,  
+
+Uma nova
+
+
+
+
+ 
+
+história do tempo
+
+ e  
+
+O grande projeto
+
+.
+
+Document Outline
+
+
+
+
+
+
+
+Folha de rosto
+
+
+
+
+Créditos
+
+
+
+
+Mídias sociais
+
+
+
+
+Dedicatória
+
+
+
+
+Sumário
+
+
+
+
+1. Infância
+
+
+
+
+2. St. Albans
+
+
+
+
+3. Oxford
+
+
+
+
+4. Cambridge
+
+
+
+
+5. Ondas Gravitacionais
+
+
+
+
+6. O Big Bang
+
+
+
+
+7. Buracos Negros
+
+
+
+
+8. Caltech
+
+
+
+
+9. Casamento
+
+
+
+
+10. Uma Breve História do Tempo
+
+
+
+
+11. Viagem no Tempo
+
+
+
+
+12. Tempo Imaginário
+
+
+
+
+13. Sem Fronteiras
+
+
+
+
+Créditos das imagens
+
+
+
+
+Sobre o autor

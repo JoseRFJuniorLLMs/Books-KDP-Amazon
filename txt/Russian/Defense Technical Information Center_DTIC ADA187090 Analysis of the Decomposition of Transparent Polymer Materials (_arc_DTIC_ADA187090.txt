@@ -1,0 +1,1144 @@
+p 
+
+
+ID-A187  090 
+UNCLASSIFIED 
+
+
+ANALYSIS  OF  THE  DECOMPOSITION  OF  TRANSPARENT  POLYMER  i/i 
+
+MATERIALS  (BLOCKS)  U  (U>  FOREIGN  TECHNOLOGY  OIV 
+URIGHT-PATTERSON  AFB  OH  M  A  SULTANOV  ET  AL  26  AUG  87 
+FTD- ID(RS ) T -0666-87  F/G  7/6 
+
+
+NL 
+
+
+MICROCOPY  RESOLUTION  TEST  CHART 
+
+NATIONAL  BUREAU  OF  STANDARDS- 1963 -A 
+
+
+IQ  / 
+
+
+011IS  Flip 
+
+
+COPY 
+
+
+FTD-ID(RS)T-0646-87 
+
+
+FOREIGN  TECHNOLOGY  DIVISION 
+
+
+ANALYSIS  OF  THE  DECOMPOSITION  OF  TRANSPARENT  POLYMER  MATERIALS  (BLOCKS) 
+UNDER  THE  ACTION  OF  LASER  BEAMS  IN  FREE  GENERATION  MODE 
+
+
+M.A.  Sultanov,  B.N,  Narzullayev,  V.  Urunov 
+
+
+OTIC 
+
+electe 
+
+.  NOV  i  7  S8T 
+
+
+I 
+
+
+Approved  for  public  release 
+Distribution  unlimited. 
+
+
+FTDJ:D(RS)T-0646-87 
+
+
+v 
+
+
+i  jN 
+
+
+PARTIALLY  EDITED  MACHINE  TRANSLATION 
+
+FTD-ID(RS)T-0646-87  26  August  1987 
+
+MICROFICHE  NR:  FTD-87-C- 000679 
+
+ANALYSIS  OF  THE  DECOMPOSITION  OF  TRANSPARENT  POLYMER 
+MATERIALS  (BLOCKS)  UNDER  THE  ACTION  OF  LASER  BEAMS 
+IN  FREE  GENERATION  MODE 
+
+By:  M.A.  Sultanov,  B.N.  Narzullayev,  V.  Urunov 
+
+English  pages:  11  .  / 
+
+
+v° 
+
+
+Source:  Doklady  Akademii  Nauk  Tadzhikskoy  SSR,  Vol.  13, 
+Nr.  3,  1970,  pp.  12-16 
+
+
+% 
+
+
+Country  of  origin:  USSR 
+
+This  document  is  a  machine  translation. 
+
+Input  by:  Eva  R.  Johnson 
+
+Merged  by:  Rilla  A.  Toliver 
+
+Requester:  FTD/TQTR 
+
+
+,  Acoession  For 
+
+
+Merged  by:  Rilla  A.  Toliver  TAB^1 
+
+Requester:  FTD/TQTR 
+
+Approved  for  public  release;  Distribution  unlimited. 
+
+
+By - 
+
+Distribution/ _ 
+
+Availability  Codes 
+Avail  and/or 
+Dlst  Special 
+
+
+THIS  TRANSLATION  IS  A  RENDITION  OF  THE  ORIGI¬ 
+NAL  FOREIGN  TEXT  WITHOUT  ANY  ANALYTICAL  OR 
+
+PREPARED  BY: 
+
+EDITORIAL  COMMENT.  STATEMENTS  OR  THEORIES 
+ADVOCATED  OR  IMPLIED  ARE  THOSE  OF  THE  SOURCE 
+
+TRANSLATION  DIVISION 
+
+AND  DO  NOT  NECESSARILY  REFLECT  THE  POSITION 
+
+FOREIGN  TECHNOLOGY  DIVISION 
+
+OR  OPINION  OF  THE  FOREIGN  TECHNOLOGY  DIVISION. 
+
+WPAFB,  OHIO. 
+
+MT  TRANSLATION  CORRECTIONS 
+
+
+As  you  use  this  document  you  may  see  technical  translations  which  are 
+incorrect  or  less  than  optimum.  Translation  Division  personnel  will  be  grateful 
+for  any  corrections  you  forward  to  us.  The  next  page  contains  blanks  for  your 
+convenience  in  recommending  better  technical  translations. 
+
+We  need  three  things:  the  incorrect  or  poor  translation,  the  correct  or 
+improved  word  or  phrase,  and  the  foreign  page  number. 
+
+Example: 
+
+Translation  # FTD-ID(RS)T-0204-86  (Provided  by  SIT) 
+
+Foreign  Page  //  _ 
+
+Incorrect  word /phrase:  _ 
+
+
+Recommendation: 
+
+
+Foreign  page  numbers  occur  in  the  English  text  and  may  be  found  anywhere  along 
+the  left  margin  of  the  page  as  in  this  example: 
+
+In  them  occurs  the  state  named  "night  blindness"  -  hemeralopia, 
+which,  according  to  the  current  point  of  view,  is  a  result  of  damage 
+of  the  rod-shaped  apparatus  of  the  eye. 
+
+Page  51. 
+
+However,  in  recent  years  it  has  been  shown  that  with  the  hereditary 
+pigment  degenerations  in  animals  the  biochemical  changes  are 
+observed  in  all  celluar  elements  of  the  retina. 
+
+
+Remove  the  sheet  with  your  recommendations  from  the  translation  and  forward 
+it  to: 
+
+SITR/Mr  Koolbeck/76538 
+
+The  dictionary  modification  process  requires  from  six  weeks  to  six  months  to 
+accomplish;  therefore  it  will  be  some  time  before  the  results  of  your  recommenda¬ 
+tions  will  be  evident  in  translations. 
+
+We  thank  you  for  your  assistance  in  improving  the  machine  translation 
+product. 
+
+
+i 
+
+
+TRANSLATION  0  FTP-ID (RS)T-0646-87 
+
+Foreign  Page  #  _ 
+
+Incorrect  word /phrase:  _ 
+
+
+Recommendat ion : 
+
+
+Foreign  Page  ft  _ 
+
+Incorrect  word /phrase: 
+
+
+Recommendat ion : 
+
+
+Foreign  Page  //  _ 
+
+Incorrect  word /phrase: 
+
+
+Recommendation : 
+
+
+Foreign  Page  If  _ 
+
+Incorrect  word /phrase: 
+
+
+Recommendation: 
+
+
+ii 
+
+
+U.  S.  BOARD  ON  GEOGRAPHIC  NAMES  TRANSLITERATION  SYSTEM 
+
+
+Block  Italic 
+
+Transliteration 
+
+Block 
+
+Italic 
+
+Transliterat 
+
+A  a 
+
+A  a 
+
+A, 
+
+a 
+
+P  P 
+
+P 
+
+P 
+
+R,  r 
+
+5  5 
+
+B  6 
+
+B, 
+
+b 
+
+C  c 
+
+C 
+
+c 
+
+S ,  s 
+
+3  a 
+
+B  • 
+
+v, 
+
+V 
+
+T  T 
+
+T 
+
+m 
+
+T,  t 
+
+i“  r 
+
+r  • 
+
+G, 
+
+g 
+
+y  y 
+
+y 
+
+y 
+
+U,  u 
+
+n 
+
+A  -4 
+
+a  ^ 
+
+D, 
+
+d 
+
+0  0 
+
+0 
+
+* 
+
+F,  f 
+
+E  e 
+
+£  * 
+
+Ye 
+
+,  ye;  E,  e* 
+
+X  X 
+
+X 
+
+X 
+
+Kh,  kh 
+
+A*  w 
+
+M  OK 
+
+Zh 
+
+,  zh 
+
+u  ^ 
+
+U 
+
+u 
+
+Ts ,  ts 
+
+3  3  ■ 
+
+5  i 
+
+z. 
+
+z 
+
+H  H 
+
+V 
+
+V 
+
+Ch,  ch 
+
+A  H 
+
+H  u 
+
+I, 
+
+i 
+
+UJ  uj 
+
+w 
+
+w 
+
+Sh ,  sh 
+
+ft  a 
+
+Y, 
+
+y 
+
+HI  u; 
+
+m 
+
+Shch,  shch 
+
+K  H 
+
+K  K 
+
+K, 
+
+k 
+
+b  t 
+
+•b 
+
+% 
+
+ft 
+
+jl  n 
+
+n  a 
+
+L, 
+
+1 
+
+bl  bl 
+
+u 
+
+y 
+
+Y,  y 
+
+■'!  M 
+
+M  M 
+
+M, 
+
+m 
+
+b  b 
+
+b 
+
+4 
+
+» 
+
+H  H 
+
+H  H 
+
+N, 
+
+n 
+
+3  3 
+
+9 
+
+> 
+
+E,  e 
+
+C  Q 
+
+0  0 
+
+o. 
+
+0 
+
+Hj  >0 
+
+JO 
+
+n 
+
+Yu,  yu 
+
+n 
+
+n  n 
+
+P, 
+
+P 
+
+fl  H 
+
+X 
+
+A 
+
+Ya,  ya 
+
+*ye  initially,  after 
+
+vowels,  and  after  "b,  b ;  e  elsewhere. 
+
+When  written  as  8  in 
+
+Russian,  transliterate  as  y8 
+
+or  8. 
+
+RUSSIAN 
+
+AND  ENGLISH  TRIGONOMETRIC  FUNCTIONS 
+
+Russian 
+
+English 
+
+Russian 
+
+English 
+
+Russian 
+
+English 
+
+sin 
+
+sin 
+
+sh 
+
+sinh 
+
+arc 
+
+sh 
+
+sinh_1 
+
+cos 
+
+cos 
+
+ch 
+
+cosh 
+
+arc 
+
+ch 
+
+cosh  1 
+
+tg 
+
+tan 
+
+th 
+
+tanh 
+
+arc 
+
+th 
+
+tanh  1 
+
+ctg 
+
+cot 
+
+cth 
+
+coth 
+
+arc 
+
+cth 
+
+coth  1 
+
+sec 
+
+sec 
+
+sch 
+
+sech 
+
+arc 
+
+sch 
+
+sech_l 
+
+cosec 
+
+CSC 
+
+csch 
+
+csch 
+
+arc 
+
+csch 
+
+csch  1 
+
+Russian 
+
+English 
+
+rot 
+
+curl 
+
+lg 
+
+log 
+
+GRAPHICS  DISCLAIMER 
+
+All  figures,  graphics. 
+
+tables,  equations,  etc 
+
+• 
+
+merged  into  this  translation  were  extracted 
+
+from  the  best  quality  copy  available. 
+
+
+iii 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+/ 
+
+
+Page  12. 
+
+ANALYSIS  OF  THE  DECOMPOS I T I ON  OF  TRANSPARENT  POLYMER  MATERIALS 
+(BLOCKS)  UNDER  THE  ACTION  OF  LASER  BEAMS  IN  FREE  GENERATION  MODE. 
+
+M.  A.  Sultanov,  B.  N.  Narzullayev,  V.  Urunov. 
+
+(Presented  by  academician  of  AS  of  Tadzhik  SSR  0.  V.  Dobrovol 'skiy  9 
+June  1969). 
+
+Yn  the  literatures  in  es  sen  centra  s  investigated  mechanism  of 
+decomposition  of  transparent  blocks  depending  on  power  of  generation, 
+on  number  of  pulses/momenta,  on  focal  length  of  lens  and  so  forth  on 
+ruby  and  neodymium  lasers  both  in  regime/conditions  of  free  generation 
+and  in  regime/conditions  of  giant  pulse/momentum.  However,  the 
+mechanism  of  the  decomposition  of  the  materials  indicated  under  the 
+
+action  of  laser  beams  by  the  different  authors  is  explained  - 
+
+- - - -  -  .  - 
+
+differently*  for  example,  the  authors  of  work  [1]  assume  that  the 
+basic  reason  for  the  decomposition  of  transparent  materials  under  the 
+effect  of  laser  radiation  is  the  propagation  of  the  acoustic  waves, 
+formed  as  a  result  of  the  forced  combination  scattering  of 
+Mandelstam-Brillouin  -  VKRMB.  To  the  same  opinion  adhere  the  authors 
+of  works  [2,  3],  but  in  [4,  5]  by  the  authors  is  proposed  the 
+mechanism  of  decomposition,  which  occurs  due  to  the  local  heating  of 
+substance  in  the  focus  of  ray/beam  and  formation  of  the  foci  of  the 
+high  temperature,  in  consequence  of  which  appear  the  dynamic  stresses, 
+which  will  lead  to  the  shift  effects.  In  [4]  was  also  indicated  the 
+formation  of  the  gas  pockets  in  the  material  and  of  cracks  in  the  form 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+of  the  "plates",  arranged/located  at  an  angle  of  45°  with  respect  to 
+the  direction  of  laser  beam  [63.  However,  in  [7]  it  is  noted  that 
+crack  formation  in  PMMA  [flMfyA  -  polymethyl  methacrylate]  is  the  result 
+
+of  the  propagation  of  cross  and  longitudinal  hypersonic  waves. 
+
+r\.„ 
+
+V 
+
+
+V  ■ 
+
+at  unity  ci 
+
+
+From  examination  of  literature  data  it  is  evident  that 'tmity  of 
+opinion  to  mechanism  of  decomposition  of  transparent  materials 
+(blocks)  under  effect  of  coherent  emission  at  the  present  time  still 
+is  absent.  j»ome  experimental  results^,  obtained  by  the 
+
+authors  of  this  work"i£h^the~ effect/action  of  supersonic  plasma  jets  on 
+different  polymeric  materials,  showed  that  in  the  mechanism  of 
+decomposition  the  dominant  role  play«i*thermal  effects,  of  [8). 
+
+Therefore  it  was  of  interest  to  check  this  assumption  in  the  case  of 
+the  effect  of  laser  emission  on  the  polymeric  materials.  For  this 
+purpose  two  laser  installations  on  the  glass  with  neodymium  were 
+assembled. N  Work  was  conducted  in  the  regime/conditions  of  free 
+generation.  The  sizes/dimensions  of  crystals  comprised  12x120  and 
+12x140  mm  respectively,  time  of  generation  -  approximately  500  ms,  the 
+
+diameter  of  spot  in  the  focus  of  ray/beam  -  on  the  order  of  0.1  mm. 
+
+/ 
+
+Energy  of  generation  on  the  installation  was  changed  from  10  to  20 
+joules, 
+
+"Were  studied  changes  in  form  of  fracture  of  blocks  of  polymethyl 
+methacrylate  -  PMMA,  quartz,  glass,  polystyrene  in  dependence  on  focal 
+length  of  lens,  power  of  generation  of  place  of  focusing  of  laser  beam 
+in  material.  The  pictures  of  decomposition  were  investigated  both  con 
+
+
+PAGE  J 
+
+
+DOC  *  87064600 
+
+"Mr/ 
+
+Visually  and  photographically  with  the  aid  of  the  photographic  camera 
+and  the  microscope.  (/K'A6Sta.KSTf».n'' I4.V1 
+
+J\ 
+
+Page  13. 
+
+The  common  picture  of  the  decomposition  of  transparent  materials 
+(PMMA,  polystyrene)  under  the  effect/action  of  laser  beams  in  the 
+regime/conditions  of  free  generation  appears  as  follows. 
+
+With  focusing  of  laser  beam  in  PMMA,  polystyrene  materials  are 
+subjected  to  intensive  decomposition,  moreover  decomposition  is 
+accompanied  by  formation  of  flat/plane,  elongated  cracks  in  the  form 
+of  "plates"  of  different  sizes/dimensions,  arranged/located  at 
+different  angles  of  inclination/slope  relative  to  axis  of  light  ray. 
+
+In  this  case  the  cracks  are  asymmetrically  displaced  to  the  different 
+sides  from  the  axis  of  ray/beam  and,  as  a  rule,  i.e  strongly  charred 
+(especially  in  the  polystyrene). 
+
+1.  Investigation  of  picture  of  decomposition  of  transparent 
+materials  in  dependence  on  focal  length  of  lens.  For  this  were  used 
+the  lens  with  focal  length  of  33.75  and  150  mm. 
+
+Analysis  of  pictures  of  decomposition  with  this  experimental 
+variant  shows  that  with  increase  in  focal  length  of  lens  overall 
+length  of  damage/defeat  by  light  ray  is  increased.  In  this  case  the 
+sizes/dimensions  of  cracks  decrease  along  the  diameter;  however,  their 
+number  is  increased  per  unit  of  the  length  of  ray/beam.  A  change  in 
+
+
+DOC  -  87064600 
+
+
+PAGE 
+
+
+4 
+
+the  focal  length  affects  also  the  angle  of  the  slope  of  "plates"  with 
+respect  to  the  axis  of  ray/beam.  With  an  increase  in  the  focal  length 
+the  angle  of  the  slope  of  cracks  decreases. 
+
+Analysis  of  one  of  pictures  of  decomposition  of  PMMA  under 
+effect/action  of  laser  beam  with  focal  length  of  lens,  equal  to  150 
+mm,  and  energy  of  output/yield,  equal  to  10  joules,  shows  following. 
+
+Overall  length  of  decomposition  on  light  ray  comprises  more  than 
+30  mm.  In  the  work  entire  picture  of  decomposition  was  divided  in 
+three  sections  (on  one  centimeter)  and  was  calculated  a  quantity  of 
+cracks  for  each  of  them.  In  this  case  it  was  explained  that  a  number 
+of  cracks  at  a  distance  of  10  mm  from  the  place  of  focus  on  the  course 
+of  ray  composes  100-110,  the  maximum/overall  diameter  of  crack  in  this 
+case  having  sizes/dimensions  to  5  mm,  minimum  -  0.005  mm.  In  the 
+following  section  a  number  of  cracks  composes  160-170?  maximum/overall 
+diameter  -  to  3  mm,  minimum  -  0.004  mm.  In  the  latter/last  section  a 
+number  of  cracks  -  90 — 100?  max imum/ove rail  diameter  -  to  2  mm, 
+minimum  -  0.004  mm. 
+
+As  can  be  seen  from  analysis  of  this  picture,  with  removal  of 
+ray/beam  from  place  of  focusing,  dimensions  of  cracks  decrease.  The 
+greatest  number  of  cracks  falls  in  the  middle  section  of  the  region  of 
+decomposition. 
+
+
+2.  Study  of  form  of  fracture  of  PMMA  and  glass  depending  on 
+
+
+DOC  *  87064600 
+
+
+PAGE  Jg* 
+
+
+place  of  focusing.  Laser  beam  with  the  aid  of  the  lens  with  a  focal 
+length  of  33  mm  was  focused  on  the  front  surface,  in  the  volume  and  on 
+the  rear  surface  of  material.  Experimental  results  are  shown: 
+
+a)  with  the  focusing  of  ray/beam  on  the  front  surface  is  observed 
+the  formation  of  large  "plates"  in  the  focus  ( PMMA) ,  and  also  chipping 
+of  material  (glass),  as  a  result  of  which  occurs  cratering,  whose 
+size/dimension  depends  on  the  power  of  generation  and  focal  length  of 
+lens; 
+
+b)  with  the  focusing  of  ray/beam  within  the  material 
+decomposition  is  observed  both  to  the  place  of  beam  convergence  and 
+after  it.  However,  to  the  place  of  beam  convergence  a  number  of 
+cracks  is  less  than  after  the  focus.  In  the  place  of  focusing  is 
+observed  the  presence  of  many  cracks,  situated  also  at  different 
+angles  both  with  respect  to  the  axis  of  ray/beam,  and  according  to  the 
+relation  the  friend  and  the  friend; 
+
+c)  with  focusing  of  ray/beam  nearer  to  back  edge  of  sample  is 
+formed  one  large  "plate",  then  the  formation  of  other  cracks  both  in 
+the  beam  direction  and  it  is  perpendicular  to  it,  i.e.,  the  part  of 
+the  ray/beam  changes  its  direction  with  respect  to  the  original  at 
+angle  of  90°. 
+
+Page  14. 
+
+With  the  low  values  of  energy  of  the  ray/beam  (less  than  10  joules)  it 
+appears  the  additional  decomposition,  caused  by  the  reflection  of 
+laser  beam  from  the  separate  cracks,  whose  axes  are  directed 
+approximately  at  different  angles  relative  to  the  axis  of  the  main 
+
+
+DOC  =  87064600 
+
+
+PAGE 
+
+
+6 
+
+
+trend  of  laser  beam.  In  this  case  the  sizes/dimensions  of  cracks  in 
+the  diameter  it  does  not  exceed  1.5-2  mm;  they,  as  a  rule,  are 
+oriented  at  angle  of  45°  relative  to  the  axis  of  light  beam  and  their 
+quantity  is  changed  depending  on  the  power  of  generation. 
+
+But  if  we  focus  ray/beam  very  close  to  back  edge,  then  chipping 
+of  surface  ( PMMA ,  glass)  occurs,  as  a  result  of  which  cratering  also 
+is  observed. 
+
+3.  Study  of  pictures  of  decomposition  in  dependence  on  power. 
+Experimental  experiments  show  that  with  an  increase  in  the  power  form 
+of  fracture  is  changed.  Are  increased  the  sizes/dimensions  of 
+"plates"  in  the  diameter,  an  angle  of  the  slope  with  respect  to  the 
+axis  of  laser  beam  and  a  quantity  of  cracks  (both  large  and  small 
+sizes/dimensions)  in  the  unit  of  length  in  the  light  direction.  In 
+this  case  the  microcracks  are  arranged/located  by  sizes/dimensions  to 
+0.005  mm,  formed  as  a  result  of  decomposition,  not  only  on  the  axis  of 
+ray/beam,  but  it  is  also  scattered  along  the  sides  at  different 
+distance  from  it. 
+
+Fig.  1  gives  photographs  of  decomposition  of  PMMA  under 
+effect/action  of  laser  beam  with  two  power  coefficients.  Focusing  was 
+produced  within  the  sample  by  lens  with  a  focal  length  of  33  mm.  In 
+the  photographs  horizontal  arrow/pointer  indicates  the  direction  of 
+laser  beam  for  the  given  pictures  of  decomposition,  vertical  -  places 
+of  focusing. 
+
+
+DOC  =  87U64600 
+
+
+PAGE 
+
+
+7 
+
+
+Analysis  of  experimental  results  shows  that  with  energy  of 
+output/yield  of  generation  in  10  joules  (Fig.  la)  maximum/overall 
+diameter  of  crack  composes  2.1  mm  and  angles  of  slope  of  cracks  with 
+respect  to  axis  of  ray/beam  it  does  not  exceed  45°.  But  in  the  case, 
+when  energies  of  generation  are  approximately  20  joules  (Fig.  lb),  the 
+sizes/dimensions  of  cracks  reach  4.1  mm  and  more.  In  both  cases  the 
+minimal  sizes  of  cracks  comprise  to  0.2  mm.  In  this  case  the 
+inclination/slope  of  cracks  to  the  axis  of  laser  beam  can  exceed  45°. 
+This  is  especially  well  noticeable  at  the  power  of  generation  of 
+approximately  20  joules.  From  the  comparison  of  photographs  (a)  and 
+(b)  it  is  possible  to  easily  note  a  difference  in  form  of  fracture  not 
+only  in  dimensions  of  cracks,  but  also  in  their  quantity  throughout 
+the  entire  length  of  laser  beam  and  on  the  inclination/slope  of  some 
+
+
+cracks . 
+
+
+Fig.  1.  Pictures  of  decomposition  of  PMMA  under  effect/action  of 
+focused  laser  beam:  a)  at  power  of  generation  10  joules, 
+magnification  8x;  b)  at  the  power  of  generation  20  joules,  mag.  8x;  c) 
+the  enlarged  image  of  the  place  of  the  focusing  of  ray/beam,  mag.  16x. 
+
+Page  15. 
+
+Greatest  decomposition  is  observed  in  places  of  focusing  of  laser 
+beam.  Here  all  cracks  are  strongly  charred.  Even  during  the  more 
+powerful  regimes/conditions  of  generation  (about  20  joules)  in  the 
+
+material  in  the  place  of  focusing  it  is  possible  to  observe  the 
+
+4? 
+
+charred  cavities  (volumes).  For  the  example  in /fig.  lc  is  given  the 
+photograph  of  decomposition  of  PMMA  in  the  place  of  focusing  (the 
+enlarged  image  Fig.  lb).  From  the  photograph  one  can  see  well  that  in 
+
+
+DOC  *  87064600 
+
+
+PAGE 
+
+
+1 
+
+the  place  of  the  focusing  of  ray/beam  is  a  greatest  decomposition. 
+Furthermore,  the  presence  of  many  cracks  of  different  diameter, 
+arranged/located  at  different  angles  to  the  axis  of  ray/beam,  is 
+evident . 
+
+Experimental  results,  obtained  in  this  work,  aim  authors  on 
+thought,  that  during  more  powerful/thicker  regimes/conditions  of 
+generation  in  initial  stage  of  reaction  of  laser  emission  with 
+transparent  materials  it  is  not  possible  to  explain  crack  formation  by 
+effect  VKRMB ,  since  with  this  effect,  according  to  literature  data, 
+must  be  formed  "plates"  with  inclination/slope  toward  axis  of  ray/beam 
+at  angle  approximately  in  45°. 
+
+Mechanism  of  decomposition  of  transparent  materials  under  action 
+of  beams  of  lasers  during  powerful  mode  of  generation  to  us  is 
+similar. 
+
+With  passage  of  laser  beam  through  transparent  materials  in 
+places  of  focusing  material  rapidly  is  heated  and  changes  into  liquid 
+state,  in  which  occurs  further  energy  absorption  [9].  As  a  result  is 
+formed  the  plasma,  which  is  expanded  at  a  high  speed.  Phenomenon  is 
+reduced  to  the  point,  instantaneous  and  poverful/thick  explosion. 
+
+This  process  carries  hydrodynamic  character  and  is  accompanied  by  the 
+formation  of  shock  wave.  In  this  case  it  is  propagated  at  hypersonic 
+speed,  which  leads  to  additional  decomposition  of  sample  both  up  to 
+the  focus  of  laser  beam  and  after  it. 
+
+
+DOC  «  87064600 
+
+
+PAGE 
+
+
+Presence  of  intensive  burning  of  material  and  formation  of 
+numerous  cracks  at  different  angles  up  to  80—85°  with  respect  to  ax 
+of  light  beam  can  serve  as  confirmation  of  fact  that  in  place  of 
+focusing  plasma,  is  formed.  However,  after  the  focus  of  ray/beam 
+crack  formation,  obviously,  occurs  due  to  the  propagation  of  the 
+hypersonic  waves,  formed  during  the  explosion,  and  therefore  cracks 
+with  the  inclination/slope  of  more  than  than  45°  are  not  observed. 
+
+
+DOC  =  87064600 
+
+
+PAGE 
+
+
+H 
+
+REFERENCES . 
+
+1.  R.  Y.  Chiao,  C.  H.  Townes,  B.  P.  Stoicheff.  Phys.  Rev 
+
+Lett.  12,  (1964).  592. 
+
+2.  C.  R.  Giuliano.  Appl.  Phys.  Lett.  5,  (1964),  137. 
+
+3.  B  •Ashkinadze,  V.  I.  Vladimirov,  V.  A.  Likhachev,  S.  M. 
+Ryvkin,  V.  M.  Salmanov,  I.  D.  Yaroshetskiy ,  ZhETF,  50,  V.  5,  (1966), 
+1187. 
+
+4.  G.  I.  Barenblatt,  N.  N.  Vsevolodov,  L.  I.  Mirkin,  N.  F. 
+Pilipetskiy,  Yu.  P.  Rayzer.  Letters  to  the  editorial  staff  of  ZhETF, 
+No  3,  (1967). 
+
+5.  D.  W.  Harper.  Brif.  J  Appl.  Phys.  16,  (1965),  751. 
+
+6.  A.  I.  Akim,  L.  I.  Mirkin,  N.  F.  Pilipetskiy.  PMTF,  No  6, 
+
+(1966),  14. 
+
+7.  N.  N.  Davidenkov.  Coll,  of  investigation  on  high-temperature 
+(strength)  alloy,  4,  Ed.  of  the  AS  USSR,  (1959),  13. 
+
+8.  M.  A.  Sultanov,  I.  K.  Dustov.  PMTF,  No  3,  (1969),  140. 
+
+9.  M.  Hercher.  J.  Opt.  Soc.  Amer.  54,  (1964),  563. 
+
+Tadzhik  State  University  im.  V.  I.  Lenin. 
+
+Received  9  June  1969. 
+
+Page  16. 
+
+
+Page  16. 
+
+
+DISTRIBUTION  LIST 
+DISTRIBUTION  DIRECT  TO  REGIMENT 
+
+
+organization 
+
+
+MICROFICHE 
+
+
+*205  DHAHTC 
+*210  DHAAC 
+B344  DU/RTS-2C 
+C0A3  US  AMI  I* 
+
+CSOO  TRADOC 
+
+CS09  BALLISTIC  RES  LAB 
+
+CS10  RAT  UBS/AVRaDCOM 
+
+CS13  ARRaDCOM 
+
+CS3S  AVRaDCOM/TSARCOM 
+
+CSS  9  TRaSANA 
+
+C591  FSTC 
+
+C619  HU  REDSTONE 
+
+DOOB  NISC 
+
+E0S3  KQ  USaF/INET 
+
+E404  AEDC/DOF 
+
+1408  AFWL 
+
+E410  AD/IND 
+
+E429  SD/IND 
+
+POOS  DOE/ ISA/ DO I 
+
+POSO  CXA/OCR/ADD/SD 
+
+AFIT/LDE 
+
+PTD 
+
+CCN 
+
+XU/PHS 
+
+UNL/Co4«  L-389 
+HASA/NST-44 
+
+NSa/1213/TDL 
+ASD/FTD/ VQIA 
+
+
+1 
+
+I 
+
+9 
+
+I 
+
+1 
+
+l 
+
+1 
+
+l 
+
+l 
+
+l 
+
+A 
+
+1 
+
+1 
+
+1 
+
+I 
+
+1 
+1 
+I* 
+1 
+
+2 
+l 
+
+l 
+
+1 
+
+l 
+
+1 
+
+* 
+
+* 
+
+l 
+
+
+FTD-ID(RS)T-0646-87 
+
+

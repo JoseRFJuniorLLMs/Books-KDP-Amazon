@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ book.title[:50] }} - BooksKDP</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="logo">BooksKDP</a>
+            <div class="nav-links">
+                <a href="/">Dashboard</a>
+                <a href="/books">Livros</a>
+                <a href="/authors">Autores</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <div class="breadcrumb">
+            <a href="/books">Livros</a> &raquo; {{ book.title[:50] }}
+        </div>
+
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        {% for category, message in messages %}
+        <div class="alert alert-{{ category }}">{{ message }}</div>
+        {% endfor %}
+        {% endif %}
+        {% endwith %}
+
+        <div class="book-detail">
+            <div class="book-header">
+                <h1>{{ book.title }}</h1>
+                <div class="book-meta">
+                    <span class="badge badge-info">ID: {{ book.id }}</span>
+                    <span class="badge badge-info">{{ book.language }}</span>
+                    {% if book.processado %}
+                    <span class="badge badge-success">Processado</span>
+                    {% elif book.downloaded %}
+                    <span class="badge badge-warning">Baixado</span>
+                    {% else %}
+                    <span class="badge badge-secondary">Não baixado</span>
+                    {% endif %}
+                </div>
+            </div>
+
+            <div class="book-info-grid">
+                <div class="info-item">
+                    <label>Autor:</label>
+                    <span>{{ book.author_name or 'Desconhecido' }}</span>
+                </div>
+                <div class="info-item">
+                    <label>Idioma:</label>
+                    <span>{{ book.language }}</span>
+                </div>
+                <div class="info-item">
+                    <label>Publicado:</label>
+                    <span>{{ book.issued or '-' }}</span>
+                </div>
+                <div class="info-item">
+                    <label>Fonte:</label>
+                    <span>{{ book.source or 'gutenberg' }}</span>
+                </div>
+                {% if book.processado_em %}
+                <div class="info-item">
+                    <label>Processado em:</label>
+                    <span>{{ book.processado_em }}</span>
+                </div>
+                {% endif %}
+                {% if book.docx_path %}
+                <div class="info-item">
+                    <label>Arquivo DOCX:</label>
+                    <span class="filepath">{{ book.docx_path }}</span>
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="book-links">
+                <h3>Links</h3>
+                {% if book.epub_url %}
+                <a href="{{ book.epub_url }}" target="_blank" class="btn">Download EPUB</a>
+                {% endif %}
+                {% if book.txt_url %}
+                <a href="{{ book.txt_url }}" target="_blank" class="btn">Download TXT</a>
+                {% endif %}
+                <a href="https://www.gutenberg.org/ebooks/{{ book.id }}" target="_blank" class="btn btn-secondary">Ver no Gutenberg</a>
+            </div>
+
+            <div class="book-actions">
+                <h3>Ações</h3>
+                <form method="POST" action="/book/{{ book.id }}/toggle-processed" style="display:inline;">
+                    {% if book.processado %}
+                    <button type="submit" class="btn btn-warning">Desmarcar como Processado</button>
+                    {% else %}
+                    <button type="submit" class="btn btn-success">Marcar como Processado</button>
+                    {% endif %}
+                </form>
+            </div>
+        </div>
+
+        <div class="back-link">
+            <a href="/books" class="btn btn-secondary">&laquo; Voltar para lista</a>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>BooksKDP - Sistema de Processamento de Livros</p>
+        </div>
+    </footer>
+</body>
+</html>

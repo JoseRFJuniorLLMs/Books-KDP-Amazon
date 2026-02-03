@@ -1,0 +1,623 @@
+Antônio Villar
+Sandro Heleno
+Antonio Bento
+Adriano Valle
+
+XIIIIIIIIY
+8-+-+K+-+0
+7+-+-+-+-0
+6-+-+k+-+0
+5+-+-+-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2-+-+-+-+0
+1+-+-+-+-0
+xabcdefghy
+XIIIIIIIIY
+8-+-+K+-+0
+7+-+-+-+-0
+6-+-+k+-+0
+5+-+-+-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2-+-+-+-+0
+1+-+-+-+-0
+xabcdefghy
+A ATIVIDADE XADREZ
+O xadrez é uma agradável atividade lúdica,
+praticada por dois jogadores que movem peças bran-
+cas e pretas, alternadamente, num campo denomina-
+do tabuleiro de xadrez.
+O objetivo do jogo é dar xeque-mate no
+rei do adversário.
+XADREZ NAS ESCOLAS
+O TABULEIRO DE XADREZ
+O tabuleiro é formado por 64 casas, dispos-
+tas alternadamente, sendo 32 brancas e 32 pretas.
+figura 1. O tabuleiro de xadrez
+O tabuleiro é colocado de modo que a primei-
+ra casa à direita de cada jogador seja branca.
+O tabuleiro é composto de 8 fileiras, 8 colunas
+e 26 diagonais.
+Fileira é uma seqüência de casas brancas e
+pretas dispostas, alternadamente, em posição hori-
+zontal. Tem sempre 8 casas.
+Coluna é uma seqüência de casas brancas e
+pretas dispostas, alternadamente, em posição verti-
+cal. Tem sempre 8 casas.
+Diagonal é uma seqüência de casas de mes-
+ma cor, dispostas num mesmo sentido, variando de 2
+a 8 casas.
+As fileiras são numeradas de 1 a 8 e as
+colunas recebem letras de a até h. (figura 2)
+Cada casa do tabuleiro é identificada por um
+endereço que é formado pela letra de sua coluna e o
+número de sua fileira. (figura 3)
+XIIIIIIIIY
+8-+-+K+-+0
+7+-+-+-+-0
+6-+-+k+-+0
+5+-+-+-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2-+-+-+-+0
+1+-+-+-+-0
+xabcdefghy
+a8     b8    c8    d8    e8    f8     g8     h8
+a7     b7    c7    d7    e7    f7     g7     h7
+a6     b6    c6    d6    e6    f6     g6     h6
+a5     b5    c5    d5    e5    f5     g5     h5
+a4     b4    c4    d4    e4    f4     g4     h4
+a3     b3    c3    d3    e3    f3     g3     h3
+a2     b2    c2    d2    e2    f2     g2     h2
+a1     b1    c1    d1    e1    f1     g1     h1
+figura 3. O endereço das casas
+figura 2. Fileira, coluna e diagonal
+
+XIIIIIIIIY
+8-+-+-+-mk0
+7+-+-+-+-0
+6-+-+-+-+0
+5+-+-+-+-0
+4-+-mK-+-+0
+3+-+-+-+-0
+2-+-+-+-+0
+1+-+-+-+-0
+xabcdefghy
+XIIIIIIIIY
+8-+-+-+-+0
+7+-+-+-+K0
+6-+Q+-+-+0
+5+-+-+-+k0
+4-+-+-+-+0
+3+-+-+-+-0
+2-+-+-+-+0
+1wq-+-+-+-0
+xabcdefghy
+O MOVIMENTO DAS PEÇAS
+Movimento, também chamado de lance, é
+o deslocamento de uma peça da casa de origem
+para outra que esteja vazia.
+O REI
+O rei pode ser movido apenas uma casa por
+vez,  na fileira, coluna ou diagonal. (figura 6)
+figura 6. O movimento do rei
+A DAMA
+A dama pode ser movida para qualquer
+casa vazia ao longo da fileira, coluna ou diagonal.
+(figura 7)
+AS PEÇAS
+Cada jogador inicia a partida com dezesseis
+peças. (figura 4)
+figura 4. As peças
+Na posição inicial das peças, as brancas
+ficam na primeira e segunda fileiras, enquanto que
+as pretas ocupam a sétima e oitava fileiras.
+(figura 5)
+figura 7. O movimento da dama
+IIIIIIII
+8rsnlwqkvlntr0
+7zppzppzppzpp0
+6-+-+-+-+0
+5+-+-+-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2PzPPzPPzPPzP0
+1tRNvLQmKLsNR0
+xabcdefghy
+figura 5. A posição inicial das peças
+Observe que a dama branca inicia o jogo na
+casa branca d1 e a dama preta na casa preta d8, ou
+seja, dispostas na mesma coluna d.
+Os reis ficam  nas casas ao lado da dama;
+o rei branco na casa e1 e o rei preto na casa e8.
+Os bispos ocupam as casas c1, f1, c8, f8.
+Os cavalos ocupam as casas b1, g1, b8, b8.
+As torres ocupam as casas a1, h1, a8, h8.
+Os peões brancos ficam na segunda fileira
+e os peões pretos na sétima fileira.
+
+XIIIIIIIIY
+8-+-+-+-+0
+7+-+-zp-+-0
+6-+-+-+-+0
+5+-zP-+-+k0
+4-+-+-+-+0
+3+p+-+-+K0
+2-+-+P+-+0
+1+-+-+-+-0
+xabcdefghy
+figura 11. O movimento do peão
+XIIIIIIIIY
+8-+-+-+-sn0
+7+-+-+-+-0
+6-+-+-+-+0
+5+-+-+-+k0
+4-+N+-+-+0
+3+-+-+-+K0
+2-+-+-+-+0
+1+-+-+-+-0
+xabcdefghy
+figura 10. O movimento do cavalo
+O CAVALO
+O movimento do cavalo assemelha-se à
+letra “L”, formada por quatro casas. (figura 10)
+O cavalo é o único que, ao fazer um movi-
+mento, pode saltar sobre as demais peças.
+O PEÃO
+O peão pode ser  movido ao longo da coluna
+para a casa vazia mais próxima. Ao ser jogado pela
+primeira vez, cada peão pode andar uma ou duas
+casas. O peão não se move para trás.  (figura 11)
+XIIIIIIIIY
+8-+-+-+-+0
+7+-+-+-+K0
+6-+-+l+-+0
+5vl-+-+-+k0
+4-+-+-+-+0
+3+-+-vL-+-0
+2-+-+-+-+0
+1+-+-+-+L0
+xabcdefghy
+XIIIIIIIIY
+8-+-+-+-+0
+7+-+-+-+-0
+6-+-+-+-+0
+5+-+R+-+-0
+4-+-+-+k+0
+3+-+-+-+-0
+2-+-+-+K+0
+1+-+-+-+r0
+xabcdefghy
+A TORRE
+A torre pode ser movida para qualquer casa
+vazia ao longo da fileira ou coluna. (figura 8)
+figura 8. O movimento da torre
+O BISPO
+O bispo pode ser movido para qualquer
+casa vazia ao longo da diagonal.
+Cada jogador terá um bispo que se move
+apenas pelas casas brancas e outro que se move
+apenas pelas casas pretas. (figura 9)
+figura 9. O movimento do bispo
+
+A CAPTURA DAS PEÇAS
+Captura é o movimento de uma peça
+para uma casa já ocupada por uma peça do
+adversário.
+Após efetuada a captura, a peça do adver-
+sário é, imediatamente, retirada do tabuleiro.
+O peão é o único que captura de maneira
+diferente do seu movimento. A captura é feita sem-
+pre em diagonal, movendo-se uma casa apenas.
+O rei é a única peça que não pode ser captu-
+rada.
+Na figura 12, o rei pode capturar somente a
+torre. O peão e o cavalo não podem ser captura-
+dos porque estão defendidos por peças adversárias.
+XIIIIIIIIY
+8-+-+-+k+0
+7+-+-+-+-0
+6-+-+-+-vl0
+5+-+-+-+-0
+4-+-+-+-+0
+3+r+n+-+-0
+2-+Kzp-+-+0
+1+-+-+-+-0
+xabcdefghy
+figura 12.
+Na figura 13, a dama pode capturar qual-
+quer um dos três peões.
+XIIIIIIIIY
+8-+-+k+-+0
+7+p+-+-zp-0
+6-+-+-+-+0
+5+-+-+-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2-wQ-+-+-zp0
+1+-+-mK-+-0
+xabcdefghy
+figura 13.
+Na figura 14, a torre pode capturar o bispo,
+ou o cavalo, ou o peão em e7, ou o peão em b5. O
+peão em a5 não pode ser capturado, porque a torre
+não salta sobre o peão em b5.
+XIIIIIIIIY
+8-+-+-+-mk0
+7+-+-zp-+-0
+6-+-+-+-+0
+5zpp+-tR-+l0
+4-+-+-+-+0
+3+-+-sn-+-0
+2-+-+-+-+0
+1+-+-mK-+-0
+xabcdefghy
+figura 14.
+Na figura 15,  o bispo pode capturar a dama,
+ou a torre, ou o cavalo, ou o peão.
+XIIIIIIIIY
+8-+-+-+-tR0
+7+-sN-+-+-0
+6-+-+-+-+0
+5mk-+-vl-+-0
+4-+-+-+-+0
+3+-+-+-+-0
+2-wQ-+-mK-zP0
+1+-+-+-+-0
+xabcdefghy
+figura 15.
+XIIIIIIIIY
+8-mk-+-+-+0
+7+-+-+L+-0
+6-+P+-+-+0
+5+-+-sn-+-0
+4-+-zpP+-+0
+3+-+P+-+-0
+2-+-+-+-+0
+1+-+-+-+K0
+xabcdefghy
+figura 16.
+
+Na  figura 16, o cavalo pode capturar o bis-
+po em f7, ou o peão em c6, ou o peão em d3. Para
+capturar o peão em d3, ele salta sobre o peão em
+e4.
+Na figura 17,  se a vez de jogar é das pretas,
+o peão em c6 pode capturar o peão em b5. Se jo-
+gam as brancas, o peão em b5 pode capturar o peão
+em c6. O peão em f3 pode capturar o bispo em g4.
+A captura do cavalo em e4 seria um lance ilegal por-
+que deixaria o rei branco em xeque.
+XIIIIIIIIY
+8-+k+-+-+0
+7+-+-+-+-0
+6-+p+-+-+0
+5+P+-+-+-0
+4-+-+n+l+0
+3+-+-+P+-0
+2-+-+-+-+0
+1+-+K+-+-0
+xabcdefghy
+figura 17.
+A NOTAÇÃO DA PARTIDA
+Uma partida de xadrez pode ser anotada
+por vários sistemas.
+Por intermédio da notação, é possível jo-
+gar xadrez por carta, e-mail, telefone e em clubes
+virtuais na internet.
+Atualmente, o  sistema oficial é o algébrico.
+As peças recebem o símbolo da peça ou
+sua letra inicial maíuscula:
+Rei = ¢ = R,   Dama = £ = D,   Torre = ¦ = T,
+Bispo = ¥ = B, Cavalo = ¤ = C.
+O peão é representado pela letra da coluna.
+Para ler ou escrever um lance, indica-se a
+letra inicial da  peça (ou o símbolo) e o endereço da
+casa para onde ela vai.  Exemplo: Re2 ou ¢e2 (o rei
+vai para a casa e2), Db5 ou £b5, Tf1 ou ¦f1, Bg5
+ou ¥g5, Cd2 ou ¤d2, e4 (o peão vai para a casa e4).
+Em caso de capturas, o lance é anotado
+normalmente, colocando-se um  x  após a letra
+inicial da peça. Exemplo: Rxh2 ou ¢xh2 (o rei
+captura em h2), Dxd8 ou £xd8, Txe4 ou ¦xe4,
+Bxc6 ou ¥xc6, Cxd2 ou ¤xd2.
+Para capturas feitas por peões, indica-se a
+letra de sua coluna e o endereço  da  casa  da  peça
+capturada. Exemplo: exd5 (o peão da coluna e
+captura a peça na casa d5), axb6, exf7, gxf5.
+Quando duas peças iguais puderem se
+mover para a mesma casa, indica-se, após a inici-
+al da peça a ser jogada, a letra da coluna, caso a
+outra peça esteja na mesma fileira; ou, o número
+da fileira, caso a outra peça esteja na mesma colu-
+na.
+Exemplos:
+- se um cavalo está em b3 e outro em f3,
+deve-se anotar Cbd2 ou Cfd2.
+- se uma torre está em h7 e outra em h1,
+deve-se anotar T7h4 ou T1h4.
+O VALOR RELATIVO DAS PEÇAS
+Para orientação do jogador em possíveis
+trocas de peças durante a partida, deve-se seguir
+inicialmente a seguinte escala de valores, tendo
+como unidade de valor, o peão:
+Dama = 9 peões      Torre = 5 peões
+Bispo = 3 peões      Cavalo = 3 peões
+Como o jogador irá perceber, esses valo-
+res podem variar dependendo da posição. Por
+exemplo, um bispo pode valer mais que um cava-
+lo ou um cavalo valer mais que um bispo; um ca-
+valo pode valer mais que uma torre; três peões
+podem valer mais que um bispo; etc.
+O XEQUE E O XEQUE-MATE
+O rei estará em xeque sempre que estiver
+na trajetória de uma peça adversária.
+O rei não pode permanecer em xeque. O
+xeque deve ser defendido ou evitado da seguinte
+forma:
+a) capturando a peça que dá xeque;
+b) movendo o rei para uma casa que não esteja sob
+o alcance das peças adversárias;
+c) interpondo uma peça da mesma cor que obstruirá
+a ação da peça adversária.
+O rei estará em xeque-mate se nenhuma das
+três defesas acima for possível.
+Neste caso a partida estará terminada com a
+vitória de quem deu o mate.
+
+Na figura 18, o rei está em xeque porque está
+atacado pelo bispo. O xeque pode ser defendido
+com a colocação de uma peça em d7, com o deslo-
+camento do rei para e7 ou com a captura do bispo
+pelo peão de b7. A melhor alternativa é a captura do
+bispo, pois as outras opções deixariam as pretas com
+uma peça a menos.
+XIIIIIIIIY
+8r+lwqkvlntr0
+7+pzp-+pzpp0
+6p+Lzp-+-+0
+5+-+-zp-+-0
+4-+-+P+-+0
+3+-+-+N+-0
+2PzPPzP-zPPzP0
+1tRNvLQmK-+R0
+xabcdefghy
+figura 18
+Veja nas figuras de 19 até 23 (representações
+parciais do tabuleiro), exemplos de xeque-mate.
+XIIIIIIIIY
+8-+-+-+-mk0
+7+-+-+KzPp0
+6-+-+-+-+0
+5+-+-+-+-0
+xabcdefghy
+figura 19
+XIIIIIIIIY
+4-+-+-+-+0
+3+-+-+-+-0
+2-+-+-sn-zP0
+1+-+-+k+K0
+xabcdefghy
+figura 20
+XIIIIIIIIY
+4-+-vl-+-+0
+3+-+-+-+-0
+2P+-+-+-+0
+1mK-mk-+-+-0
+xabcdefghy
+figura 21
+XIIIIIIIIY
+8k+-+R+-+0
+7+-+-+-+-0
+6-mK-+-+-+0
+5+-+-+-+-0
+xabcdefghy
+figura 22
+XIIIIIIIIY
+8-+-+-+-mK0
+7+-+-+-wq-0
+6-+-+-mk-+0
+5+-+-+-+-0
+xabcdefghy
+figura 23
+OS MOVIMENTOS ESPECIAIS
+O ROQUE
+O objetivo do roque é proteger o rei colo-
+cando-o nos cantos e centralizando a torre.
+O roque é o único lance especial que en-
+volve o movimento conjunto do rei e uma das tor-
+res.
+O roque é ilegal se o rei e a torre já tiverem
+sido movidos anteriormente.
+Além disso, as casas entre o rei e a torre
+devem estar vazias.
+Há dois tipos de roque:
+a) pequeno, com a torre do rei ;
+b) grande, com a torre  da dama.
+O roque é executado da seguinte forma:
+move-se o rei duas casas na direção de uma das
+torres, completando o movimento, a torre passa a
+ocupar a próxima casa do outro lado, ou seja, a casa
+que o rei tinha atravessado.
+O roque estará temporariamente proibido
+se:
+a)  estiver atacada por uma peça do adver-
+sário a casa que o rei ocupa, ou a casa pela qual
+passará, ou  a casa que ocupará;
+b) houver alguma peça entre o rei e a torre
+com a qual o roque será efetuado.
+Veja nas figuras de 24 a 27 (representaçôes
+parciais  do tabuleiro), exemplos de roques pe-
+queno e grande  executados pelas brancas.
+
+XIIIIIIIIY
+4-+-+-+k+0
+3+-zp-+-+-0
+2-+-+-+-+0
+1+-+-mK-+-0
+xabcdefghy
+figura 32.
+XIIIIIIIIY
+4-zpP+-+k+0
+3+-+-+-+-0
+2-+-+-+-+0
+1+-+-mK-+-0
+figura 31.
+          Na figura 32, o peão de b4 já capturou o
+peão de c4 “en passant” e ocupa a casa c3 como
+se estivesse capturando um peão nesta casa. A
+captura “en passant” é opcional mas só pode ser
+executada imediatamente. Se optar por outro lance,
+o jogador perde tal direito.
+XIIIIIIIIY
+8-+Q+-+-+0
+7+-+-+-+-0
+6-mK-+k+-+0
+5+-+-+-+-0
+xabcdefghy
+Figura 29.  O peão é promovido a dama
+A CAPTURA “EN PASSANT”
+A captura “en passant” é um movimento
+especial feito pelos peões brancos que estiverem na
+quinta fileira ou pelos peões pretos que estiverem na
+quarta fileira do tabuleiro.Na figura 30, o peão preto
+está na casa b4, na quarta fileira.
+XIIIIIIIIY
+2-+-+-+-+0
+1+-+-mK-+R0
+xabcdefghy
+Figura 24. O roque pequeno (antes)
+XIIIIIIIIY
+2-+-+-+-+0
+1+-+-+RmK-0
+xabcdefghy
+Figura 25. O roque pequeno (depois)
+XIIIIIIIIY
+2-+-+-+-+0
+1tR-+-mK-+-0
+xabcdefghy
+Figura 26. O roque grande (antes)
+XIIIIIIIIY
+2-+-+-+-+0
+1+-mKR+-+-0
+xabcdefghy
+figura 27. O roque grande (depois)
+A PROMOÇÃO
+Ocorre a promoção quando um peão che-
+gar à última casa, ou seja,  a casa mais distante da
+posição inicial.
+O peão deve, então, ser imediatamente subs-
+tituído por qualquer peça de mesma cor, exceto rei, como
+parte de uma mesma jogada.
+Geralmente, o peão é promovido a dama,
+que é a peça mais poderosa do tabuleiro.
+Mas pode ser promovido, também, a tor-
+re, bispo ou cavalo de mesma cor, dependendo da
+estratégia do jogador.
+Veja nas figuras 28 e 29, um exemplo de
+promoção do peão a dama.
+XIIIIIIIIY
+8-+-+-+-+0
+7+-zP-+-+-0
+6-mK-+k+-+0
+5+-+-+-+-0
+xabcdefghy
+figura 28.  O peão é jogado na oitava fileira
+xabcdefghy
+figura 30.
+Na figura 31, o peão de c2 avançou duas
+casas e foi à casa c4 em seu primeiro lance. Com
+este lance o peão branco passou pela casa c3 que
+está atacada pelo peão de b4.
+XIIIIIIIIY
+4-zp-+-+k+0
+3+-+-+-+-0
+2-+P+-+-+0
+1+-+-mK-+-0
+xabcdefghy
+
+A PARTIDA
+O jogador com as peças brancas faz o pri-
+meiro lance.
+O adversário, com as peças pretas, passa,
+então, a ter a vez de jogar, e deve responder o lan-
+ce.
+E a partida continua, cada um fazendo um
+lance de cada vez.
+Podem acontecer os seguintes resultados
+em uma partida: vitória das brancas (1-0), vitória
+das pretas (0-1) ou empate (1/2-1/2).
+A partida pode terminar com o xeque-mate,
+com abandono ou perda pelo tempo por um dos
+jogadores ou com alguma das formas de empate
+possíveis.
+A partida está empatada:
+a) quando nenhuma peça pode ser movida
+e o rei não se encontra em xeque. Esta situação é
+conhecida como rei afogado. Isto termina imedia-
+tamente a partida, desde que tenha sido legal o lance
+que produziu a posição de afogado;
+b) mediante comum acordo entre os dois
+jogadores, durante a partida. Isto  termina
+imediatamente a partida;
+c) se uma posição idêntica está por apare-
+cer, ou apareceu pelo menos três vezes no tabu-
+leiro e houver reivindicação de empate pelo inte-
+ressado conforme o ritual legal;
+d) quando nenhum dos jogadores tiver
+material suficiente para dar mate no rei adversá-
+rio, diz-se que a partida terminou numa posição
+morta.
+e) quando houver uma reclamação
+conforme o ritual legal, de que os últimos 50
+lances de cada lado tenham sido efetuados sem
+captura de peça nem movimento de peão.
+Exemplos:
+- final de rei contra rei;
+- final de rei e cavalo contra rei;
+- final de rei e bispo contra rei;
+- final de rei e bispo contra rei e bispo que
+se movem na mesma diagonal.
+10 DICAS PARA JOGAR
+UMA PARTIDA
+1. Começe a partida avançando duas casas o peão
+da coluna e ou o peão da coluna d.
+2. Coloque logo em jogo as peças menores (cavalos
+e bispos). As melhores casas para os cavalos são f3
+e c3 (brancas) e f6 e c6 (pretas), porque controlam
+o centro do tabuleiro.
+3. Evite mover a dama nos primeiros lances porque
+ela facilmente pode ser atacada por peças de menor
+valor.
+4. Não jogue várias vezes com a mesma peça ou
+dê xeque sem necessidade.
+5. Procure proteger o seu rei, rocando o mais cedo
+possível.
+6. Seja cauteloso nos movimentos de peão (prin-
+cipalmente aqueles à frente do roque), já que  não
+podem voltar.
+7. Evite trocas de peças que deixem seu adversá-
+rio com  mais peças, ou seja, em vantagem material.
+8. Mantenha a concentração: observe todo o tabu-
+leiro antes de fazer seu lance.
+9. Assuma a iniciativa atacando as peças do ad-
+versário sempre que possível.
+10. Anote a partida para analisá-la mais tarde, pro-
+curando descobrir e corrigir os seus erros.
+XADREZ NA INTERNET
+Na internet estão disponíveis informações,
+partidas, artigos e é possível até jogar. Segue
+abaixo, uma pequena seleção de endereços:
+http://www.cbx.org.br
+http://www.clubedexadrez.com.br
+http://www.persocom.com.br/bcx
+http://www.cex.org.br
+http://www.brasilbase.pro.br
+http://www.ixc.com.br
+http://www.fide.com
+http://www.chesscafe.com
+http://www.chessbase.com/espanola
+http://www.chesscenter.com/twic/twic.html
+http://www.chessclub.com
+http://www.laplaza.org.ar

@@ -1,0 +1,962 @@
+MANUAL BÁSICO DE XADREZ
+Na maioria das situações, podemos usar a anotação
+descritiva abreviada. Somente não o poderemos fazer quando
+duas peças do mesmo tipo puderem alcançar a casa desejada.
+Para representar uma captura, usamos o “X” (xis). Deste
+modo, quando vamos dizer que uma Torre vai capturar um
+Bispo, escrevemos TxB (Torre captura Bispo). Do mesmo modo,
+somente precisamos indicar qual Torre e qual Bispo, se  outras
+destas peças puderem realizar o mesmo tipo de lance. Exemplo:
+T3DxB (Torre de 3 da Dama captura Bispo), se mais de uma
+Torre puder capturar o Bispo; ou TxB7D (Torre captura Bispo
+em 7 da Dama), se mais de um Bispo puder ser capturado pela
+Torre; ou ainda T3DxB7D (Torre em 3 da Dama captura Bispo
+em 7 da Dama).Pode-se usar também só a abreviatura da peça,
+mas deve-se prestar bastante atenção para evitar enganos.
+Exemplo: CR5D (Cavalo do Rei para 5 da Dama).
+Para anotação das partidas utilizamos duas colunas
+numeradas, anotando-se cada lance em uma linha. A primeira
+coluna é sempre a das brancas, pois a elas cabe o lance inicial.
+Quando se aplica um xeque, utiliza-se o sinal + para indicar
+o lance: T6D+ (lê-se: Torre para 6 da Dama, xeque). O xeque-
+mate é anotado por ++ ou “mate”, indicando o fim do jogo:
+D7B++ (lê-se: Dama para 7 do Bispo, xeque-mate).
+Exemplo de uma anotação de partida:
+BRANCAS
+PRETAS
+1 - P4R
+P4R
+2 - C3BR
+C3BD
+3 - B5C
+C3B
+4 - O-O
+B4B
+5 - C3B
+O-O
+6 - BxC
+. . .
+Estudemos o exemplo: As brancas iniciam o jogo avançando
+o Peão do Rei para a linha 4 (P4R). As pretas respondem com
+o mesmo movimento. As brancas então fazem o segundo lance
+com o Cavalo do Rei, levando-o para a casa 3 do Bispo do Rei
+(C3BR). As pretas avançam o cavalo da Dama, defendendo o
+Peão do Rei. As brancas fazem o terceiro lance movendo o
+Bispo. As pretas respondem movendo o outro Cavalo para a
+casa 3 do Bispo do Rei. Note que este movimento foi anotado
+apenas como C3B, já que seria desnecessário informar qual
+dos dois cavalos fez o movimento, já que o outro já ocupa a
+casa 3 do Bispo, portanto só um deles pode, neste lance, fazer
+este movimento. As brancas fazem então o Pequeno Roque,
+visando dar maior proteção ao Rei e ao mesmo tempo liberar
+a Torre. As pretas avançam o Bispo, e assim por diante.
+A anotação de promoção de Peão é feita com o sinal de
+igualdade (=). Se a promoção for, por exemplo, na coluna do
+Bispo e o jogador quiser promovê-lo a Dama, então seria
+anotado: P8B=D.
+O Roque é anotado como O-O para o Pequeno Roque e
+O-O-O para o Grande Roque e o “En Passant” como e.p.
+Em várias publicações, são também utilizados os símbolos
+“?” para indicar um lance fraco; “??” para um lance muito
+fraco; “!” para indicar um lance bom e “!!” para indicar um
+lance muito bom.. Algumas vezes é possível aplicar um tipo de
+xeque no Rei, chamado de descoberto, que é anotado como
+“desc.”. O xeque a descoberto consiste em mover uma peça e
+com este movimento, deixar o Rei adversário na linha de ataque
+de outra peça. Mais tarde estudaremos um caso assim.
+Posição após: 6 - BxC.
+Refaça várias vezes este pequeno exemplo até que
+assimile bem a anotação descritiva.
+Algumas vezes, a ilustração será mostrada após o
+lance das pretas. Quando for o caso, utilizaremos “...”
+(três pontinhos) simbolizando o lance das brancas.
+Por exemplo: para mostrar a posição após as pretas
+terem jogado Bispo 4 do Bispo, a legenda da ilustração
+seria “Posição após 4 - ... B4B”
+11
+Posição após: 3 - B5C
+Confira se você conseguiu reproduzir corretamente os
+lances até este momento. Havendo dúvidas, releia
+atentamente o texto e tente novamente.
+Importante saber:
+O-O
+-
+Pequeno Roque
+O-O-O -
+Grande Roque
+x
+-
+Captura
+e.p.
+-
+En Passant
+desc.
+-
+Descoberto
++
+-
+Xeque
+++
+-
+Xeque-Mate
+Os símbolos “?”, “??”, “!” e “!!” são
+usados apenas para chamar a atenção sobre
+alguns lances na análise da partida, não
+interferindo em sua reconstituição.
+
+MANUAL BÁSICO DE XADREZ
+Conhecer a movimentação das peças e como anotar uma
+partida são pontos fundamentais para que se possa aproveitar
+bem o jogo de xadrez. Uma vez que estes conceitos estejam
+bem fixados, todo o aprendizado será facilitado e o iniciante
+estará podendo jogar em pouquíssimo tempo. Estude bem o
+que foi visto até aqui antes de prosseguir.
+Agora, você vai refazer uma partida completa e poderá fixar
+o que aprendeu sobre anotação, movimento das peças,
+capturas, ataque e defesa e será brindado no final com um
+xeque-mate de rara beleza. Reproduza a partida com bastante
+calma, quantas vezes forem necessárias até ter certeza de que
+assimilou bem o processo descritivo de anotação, pois daqui
+para a frente, ele será utilizado para todos os tópicos.
+Reconstituição 
+de 
+Partida
+Notação Forsyth: é um sistema para se anotar a posição
+das peças em um tabuleiro. Anota-se a posição de cada  peça
+em uma linha, a partir da primeira linha das pretas, da
+esquerda para a direita. As casas vazias são representadas
+por um número. As peças são indicadas por suas letras
+iniciais escritas em maiúsculas para as peças brancas e em
+minúsculas para as pretas. As linhas são separadas por “-”.
+Para anotar a posição das peças nos diagramas acima
+teríamos, respectivamente:
+12
+Brancas
+Capablanca
+1   - P4R
+2   - C3BR
+3   - C3B
+4   - B5C
+5   - O-O
+6   - P3D
+7   - B5C
+8   - PxB
+9   - C4T
+10 - B4BD
+11 - BxC
+12 - BxB
+13 - D4C+
+14 - P4BR
+15 - D5T+
+16 - PxP
+17 - TxP
+18 - T1B
+19 - CxC
+20 - TxP+
+21 - D7B+
+22 - T6B+
+23 - DxPC
+24 - TxP+
+25 - D4C++
+Pretas
+Steiner
+P4R
+C3BD
+C3B
+B5C
+O-O
+P3D
+BxC
+C2R
+P3B
+B3R
+PxB
+PxB
+R2B
+T1CR
+R2C
+PDxP
+RxT
+C4B
+PxC
+R2R
+R3D
+R4B
+D3C
+DxT
+Posição após 10 - B4BD.
+Confira se a posição coincide com a de sua reconstituição.
+Caso contrário, reinicie com bastante atenção, voltando ao
+texto explicativo sempre que necessário
+Posição após 18 - T1B+
+O Rei preto está em uma situação bem delicada, exposto ao
+forte ataque adversário, enquanto suas Torres e sua Dama
+nada podem fazer para socorrê-lo
+t1bd1tr - pp2cppp - 2pp1c2 - 4p1B1 - 2B1P2C
+-  2PP4 - P1P2PPP -  T2D1TR1; e
+t2d2t1 - pp2c2p -  2p1pr2 - 4p2D - 4P2C - 2PP4
+- P1P3PP - 5TR1.
+
+MANUAL BÁSICO DE XADREZ
+Exercícios 
+de 
+Fixação
+13
+01) Reproduza as partidas abaixo no tabuleiro e anote a posição das peças,
+usando a Notação de Forsyth, após o 10º e o 20º lance das pretas:
+02) Numere a coluna da direita de acordo com a da esquerda:
+1   - P4R
+2   - C5D7B
+3   - CxP
+4   - T8T+
+5   - D6C
+6   - P8R=D
+7   - B3B desc.
+8   - D7D++
+9   - R2R
+10 - T7C-7D
+11 - PxP
+12 - BxP
+13 - TxP+
+14 - DxT++
+15 - O-O
+a) 1ª partida - São Paulo -1952
+Brancas
+M. Eidelman
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+Bispo três do Bispo, xeque a descoberto
+Torre oito da Torre, xeque
+Pequeno Roque
+Cavalo de cinco da Dama sete do Bispo
+Rei dois do Rei
+Torre captura Peão, xeque
+Peão quatro do Rei
+Torre de sete do Cavalo sete da Dama
+Bispo captura Peão
+Dama seis do Cavalo
+Dama captura Torre, xeque-mate
+Cavalo captura Peão
+Peão oito do Rei, promovido a Dama
+Dama sete da Dama, xeque-mate
+Peão captura Peão
+P4D
+P4BD
+C3BR
+C3B
+PxPD
+P4R
+PxC
+PxP
+B2D
+DxB
+B2R
+O-O
+D3R
+C2D
+P4B
+B3B
+C3C
+P4C
+P5B
+PCxP
+P6B
+PxP
+D4B
+B4C
+R2B
+R1R
+R1D
+C3BR
+P3R
+P4D
+P4B
+CxP
+CxC
+PxP
+B5C+
+BxB
+O-O
+P3CD
+B2C
+C2D
+C3B
+D2D
+TR1D
+TD1B
+C1R
+PxP
+C3D
+CxP
+T6B
+C4C
+D4D
+D7C+
+T1R+
+D7BD++
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+Pretas
+L. Engels
+Brancas
+Stoltz
+Pretas
+Bronstein
+b) 2ª partida - Helsinque - 1952
+P4R
+C3BR
+P3B
+P4D
+P5R
+PxP
+D2B
+D2R
+B3R
+DxB
+D2R
+C3T
+C5CD
+PxP
+D2D
+C5C-4D
+PxC
+RxD
+B3D
+R3R
+C5R
+PxC
+RxP
+B4R
+R5B
+TR1CD
+R6D
+abandonam
+P4BD
+C3BD
+P3R
+P4D
+D3C
+BxP
+D2B
+CR2R
+BxB
+C4B
+O-O
+P3B
+D4T
+TxP
+P3TD
+C4BxC
+DxD+
+B2D
+B1R
+B4T
+CxC
+P5D+
+TxP
+T1D+
+TxPCD
+T1B+
+T7D+
+a) Posição após 10 ... O-O
+b) Posição após 20 ... C3D
+c) Posição após 10 ... C4B
+d) Posição após 20 ... B4T
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+(        )
+Respostas dos exercícios na página 28
+
+MANUAL BÁSICO DE XADREZ
+Nesta fase o jogador procurará mover suas peças de forma
+a posicioná-las em locais onde possam atuar mais efetivamente
+do que em suas posições iniciais. Surgem então os conceitos
+de “Centro” e “Desenvolvimento”. Inicialmente, encaremos
+o Centro como sendo apenas as quatro casas centrais (4R, 5R,
+4D e 5D). O domínio da área central é ponto fundamental
+para que se busque uma posição de vitória. Quem controla a
+área central tem mais liberdade para mover suas peças e com
+isso, maiores condições de elaborar estratégias e táticas. Já o
+conceito de desenvolvimento refere-se à mobilidade das peças.
+Na posição inicial as peças ficam tolhidas. É necessário liberá-
+las para que possam ampliar seu raio de ação. Na abertura
+cada lance deve obedecer a duas regras básicas: a) deve visar
+o desenvolvimento de uma peça, colocando-a em uma posição
+melhor que a que ocupava ou ampliando seu raio de ação ou
+mesmo abrindo espaço para outra peça; b) deve visar algum
+tipo de ação no centro do tabuleiro, fazendo pressão para
+dominá-lo ou impedir que o adversário o faça.
+O lance mais comum das brancas na saída é P4R. É uma
+excelente jogada, pois em apenas um movimento o jogador
+exerce pressão no meio (exerce influência nas casas 5BR e
+5D) e libera duas de suas peças que antes estavam travadas (o
+Bispo do Rei e a Dama). Pelos mesmos motivos, é muito comum
+que as pretas respondam com P4R, exercendo a mesma pressão
+no centro do tabuleiro e liberando suas duas peças.
+Estudemos um exemplo de abertura:
+1 - P4R
+P4R
+Uma saída clássica, com os dois lados avançando o Peão
+do Rei. Uma boa alternativa agora para as brancas é C3BR.
+O Cavalo pode, em seu primeiro lance, posicionar-se em 3 da
+Torre ou 3 do Bispo. Como já vimos, deve-se dar preferência a
+lances que atuem no centro, portanto a casa mais indicada é 3
+do Bispo. O Cavalo do Rei eventualmente possui ainda a casa
+2R, quando se faz o avanço do Peão. Este movimento contudo,
+serve apenas para travar a Dama e tem pouca ação na área
+central. Vejamos o lance mais normal:
+2 - C3BR
+C3BD
+As brancas, com seu cavalo, exercem forte pressão central
+e ainda atacam o Peão do Rei das pretas. Estas últimas
+decidiram avançar o Cavalo da Dama, exercendo também
+pressão central e defendendo o seu Peão.
+3 - C3B
+C3B
+Os outros dois Cavalos foram colocados em ação, exercendo
+assim uma grande pressão no centro.
+4 - B5C
+B4B
+As brancas avançam o Bispo atacando o Cavalo. As pretas
+não precisam se preocupar pois, se BxC, elas jogam PxB.
+Fases do Jogo
+Agora que você já sabe as regras de movimentação das
+peças podemos falar sobre outros aspectos importantes do jogo.
+Uma partida de xadrez pode ser dividida em três etapas:
+abertura, meio-jogo e final. Não existe um critério para separar
+estas fases com exatidão. Abertura é a fase em que cada lado
+faz seus movimentos inicias, visando liberar a movimentação
+de suas peças e posicioná-las de modo a poder tirar vantagem
+no decorrer do jogo. Meio-jogo é a fase em que os jogadores
+procuram colocar em jogo suas estratégias e táticas, de acordo
+com as possibilidades que as movimentações de abertura lhe
+Fase 
+de 
+Abertura
+permitirem. Final é a fase em que normalmente o tabuleiro
+apresenta poucas peças e parte-se para o ataque final ao Rei.
+O xeque-mate não precisa ocorrer necessariamente na fase
+final, sendo comum que ocorra no meio-jogo e muito raramente
+na abertura.
+As três fases do jogo são de fundamental importância e deve
+o iniciante conhecer pelo menos alguns conceitos básicos
+referentes a estas fases, por isto, serão analisadas
+separadamente.
+Lembre-se:
+na abertura cada lance deve
+visar o desenvolvimento de uma
+peça ou  algum tipo de ação no
+centro do tabuleiro.
+Posição após 5 - O-O.
+As casas 4R, 5R, 4D e 5D são o centro do tabuleiro.
+Por extensão, podemos ampliar o conceito de centro,
+englobando todas as casas adjacentes a estas,
+conforme o diagrama.
+14
+5 - O-O
+...
+As brancas realizam o Roque, defendendo o Rei e liberando
+a Torre e aguardam agora o próximo lance das pretas.
+Agora, analise a situação dos dois lados e veja como ambos
+atuam no centro do tabuleiro e como várias peças foram
+desenvolvidas ampliando-lhes o raio de ação. Estes são os
+principais pontos que o jogador deve pensar nas aberturas:
+centro e desenvolvimento.
+
+MANUAL BÁSICO DE XADREZ
+Aberturas com P4R - P4R
+15
+Abertura do Centro
+1 - P4R
+P4R
+2 - P4D
+PxP
+3 - DxP
+C3BD
+4 - D3R
+C3B
+5 - C3BD
+Abertura
+Giuoco Piano
+1 - P4R
+P4R
+2 - C3BR
+C3BD
+3 - B4B
+B4B
+4 - P3B
+Abertura Ruy Lopes
+1 - P4R
+P4R
+2 - C3BR
+C3BD
+3 - B5C
+Abertura dos
+Quatro Cavalos
+1 - P4R
+P4R
+2 - C3BR
+C3BD
+3 - C3B
+C3B
+4 - B5C
+Defesa Francesa
+1 - P4R
+P3R
+2 - P4D
+P4D
+3 - C3BD
+Defesa Caro-Kann
+1 - P4R
+P3BD
+2 - P4D
+P4D
+Defesa Siciliana
+1 - P4R
+P4BD
+Defesa Alekhine
+1 - P4R
+C3BR
+2 - P5R
+C4D
+3 - P4BD
+Quando as pretas não jogam 1 - ... P4R
+Gambito da Dama
+1 - P4D
+P4D
+2 - P4BD
+Defesa Ortodoxa
+1 - P4D
+P4D
+2 - P4BD
+P3R
+Defesa Tarrasch
+1 - P4D
+P4D
+2 - P4BD
+P3R
+3 - C3BR
+P4BD
+Defesa Eslava
+1 - P4D
+P4D
+2 - P4BD
+P3BD
+Aberturas com o Peão da Dama
+Defesa
+Nimzowitch
+1 - P4D
+C3BR
+2 - P4BD
+P3R
+3 - C3BD
+B5C
+Defesa Índia
+da Dama
+1 - P4D
+C3BR
+2 - P4BD
+P3R
+3 - C3BR
+P3CD
+Defesa Índia do Rei
+1 - P4D
+C3BR
+2 - P4BD
+P3CR
+3 - C3BD
+B2C
+4 - P4R
+P3D
+Defesa Grunfeld
+1 - P4D
+C3BR
+2 - P4BD
+P3CR
+3 - C3BD
+P4D
+Defesas Indianas: 1 - P4D      C3BR
+Abertura Reti
+1 - P4D
+C3BR
+2 - P4B
+Abertura Inglesa
+1 - P4BD
+P4R
+Abertura Bird
+1 - P4BR
+Aberturas menos usuais:
+Apenas a título ilustrativo são apresentadas várias
+aberturas, com seus lances característicos. Procure apenas
+conhecê-las, sem se importar em decorar nomes ou métodos.
+O importante é saber que são possíveis vários tipos de
+aberturas.
+É bom que o iniciante refaça estes movimentos no tabuleiro
+para visualizar as diferentes opções que se apresentam após
+cada uma delas. O mais importante nas aberturas não é
+conhecer nomes de cor, mas sim ter sempre em mente os
+conceitos de centro e desenvolvimento. Uma boa estratégia
+na abertura é  realizar o Roque tão logo seja possível e tentar
+impedir que o adversário o faça.
+Todas as aberturas que se iniciam com 1 - P4D - C3BR, fazem parte das Defesas Indianas
+Note que mesmo nas aberturas menos usuais, não
+temos nenhuma que se inicie com Peão do Cavalo ou
+Peão da Torre. Os motivos são simples, bastando recordar
+o mandamento principal das aberturas: ação central e
+desenvolvimento de peças. Estes Peões possuem grande
+importância quando o objetivo principal da abertura já
+foi ou está em vias de ser atingido. Note que nas defesas
+indianas é comum o lance P3CR, abrindo espaço para o
+Bispo se posicionar em 2R, de onde poderá atuar no
+centro do tabuleiro e na defesa do Roque. Este
+desenvolvimento do Bispo, pelos flancos do tabuleiro, é
+conhecido como “fianchetto”.
+
+MANUAL BÁSICO DE XADREZ
+Nesta fase os jogadores deverão pôr em prática a estratégia
+definida pelas posições conseguidas na abertura, procurando
+obter vantagens de posicionamento e elaborando os meios para
+se realizar ataques ao Rei ou enfraquecer o adversário para
+tirar vantagem na fase final. Esta é a fase mais movimentada
+da partida. Todo movimento deve ser feito visando a um
+objetivo, imediato ou posterior, seja de ataque ou de defesa.
+Antes de realizar um lance o jogador deve analisar a situação
+atual e se decidir por qual será o melhor movimento a fazer. É
+muito comum o principiante pensar apenas em termos de
+ataques diretos ao Rei, o que não é de todo condenável, já que
+o objetivo do jogo é colocá-lo em xeque, todavia, ataques
+impensados ou mal elaborados tendem a fracassar e podem
+resultar em posições fracas, dando ampla vantagem ao
+adversário. Deve o jogador entender que o ataque ao Rei deve
+ser uma conseqüência de sua estratégia. Do correto
+posicionamento de suas peças, dando-lhes mobilidade e ação
+efetiva, poderá ele realizar ataques vitoriosos.
+Entre os grandes mestres, esta fase já proporcionou
+verdadeiras pérolas, jogadas de efeitos tão surpreendentes que
+encantam e fascinam por sua beleza plástica e pela argúcia e
+criatividade do jogador.
+Fase de Meio-Jogo
+Uma das mais belas partidas de todos os tempos,  conhecida
+como “Jóia de Primeira Água”, foi jogada em 1958, em Paris,
+por Paul Morphy contra uma dupla formada pelo Duque Karl
+de Brunswick e o Conde Isouard. Refaça no tabuleiro esta
+partida, pois ela lhe dará importantes lições sobre as aberturas,
+a importância do domínio do centro do tabuleiro e do uso de
+criatividade e perspicácia.
+1  -  P4R
+P4R
+2  -  C3BR
+P3D
+3  -  P4D
+B5C
+4  -  PxP
+BxC
+5  -  DxB
+PxP
+6  - B4BD
+C3BR
+7   - D3CD!
+D2R
+8   - C3B!
+P3B
+9   - B5CR
+P4C
+10 - CxP
+PxC
+11 - BxPC+
+CD2D
+12 - O-O-O!
+T1D
+13 - TxC!
+TxT
+14 - T1D
+D3R
+15 - BxT+
+CxB
+16 - D8C+!
+CxD
+17 - T8D++
+Posição após: 13 - ... TxT
+Posição após 6: ... C3BR
+Um xeque-mate genial!
+16
+
+MANUAL BÁSICO DE XADREZ
+Análise 
+das 
+Forças
+17
+É importante que o enxadrista tenha sempre em mente a
+situação geral da partida, procurando identificar fraquezas e
+forças, suas e do adversário, facilitando a tomada de decisões
+quanto às estratégias a seguir. Antes de cada lance, deve o
+jogador fazer uma rápida análise. Um bom método é perguntar
+a si próprio:
+a) Meu Rei está em perigo imediato?
+b) Quais das minhas peças estão sendo atacadas neste
+momento?
+b) Tenho alguma fraqueza grave que possa ser aproveitada
+pelo adversário imediatamente?
+c) A peça que quero mover não está melhor na posição em
+que se encontra?
+d) O lance que pretendo realizar não vai abrir nenhuma
+fraqueza em minhas defesas?
+e) Se eu fizer este lance, qual poderá ser o próximo lance
+do adversário?
+Na prática, deve o jogador desenvolver uma
+visão geral e criteriosa do tabuleiro. Um dos
+bons métodos para isso é através das linhas
+imaginárias do domínio das peças.
+Simplesmente procure visualizar  todas as casas
+que podem ser alcançadas no próximo lance, suas e do
+adversário. Com isto, pode-se identificar a direção de um
+possível ataque, os locais onde a disputa parece ser mais
+intensa, as fraquezas, etc. Vejamos um exemplo:
+Quem está em melhor situação no jogo? Podemos usar
+o método das linhas imaginárias para ter uma boa noção
+da área de atuação de cada conjunto de peças, verificando
+a mobilidade e a força das peças em conjunto.
+Lembre-se que isto é apenas para dar uma noção da
+situação atual. Não significa que o lado em melhor situação
+vai ganhar a partida, mas sim que tem melhores
+possibilidades de ganhá-la.
+Veja a situação das pretas. Suas peças estão em posições
+restringidas e não alcançam grande raio de ação. Fica difícil
+o planejamento de bons ataques, já que para isto é essencial
+que as peças ocupem boas posições. O cavalo, na casa lateral,
+alcança apenas 4 casas e está desprotegido porém, as outras
+peças formam um compacto bloco defensivo.
+A diferença fica bem visível neste caso. As peças brancas
+possuem ampla liberdade de ação e atuam firmemente no
+terreno inimigo. O cavalo está bem posicionado, atuando na
+defesa e no ataque. O Peão da Dama está indefeso e pode
+correr risco se as pretas moverem o Cavalo para 3 do Bispo.
+Pela análise das linhas imaginárias, podemos afirmar que as
+brancas possuem melhores possibilidades de realizar ataques
+vitoriosos.
+
+MANUAL BÁSICO DE XADREZ
+A fase final é de fundamental importância no xadrez e deve
+o enxadrista conhecer pelo menos alguns de seus conceitos
+básicos, já que de nada adiantaria realizar uma bela partida e
+perdê-la no final por não saber como levar o Rei adversário à
+derrota. A  fase final é disputada com poucas peças no
+tabuleiro. O jogador poderá procurar a vitória ou mesmo uma
+situação de empate, evitando assim a derrota.
+Finais com Dama e Rei contra Rei ou Torre e Rei contra
+Rei são relativamente fáceis de serem definidos. O atacante
+deve entretanto ficar atento para as grandes possibilidades de
+empate que podem surgir de lances incorretos. Vejamos alguns
+casos:
+São situações em que um dos lados possui apenas o Rei.
+A ação do adversário é toda concentrada em encurralar o Rei
+até uma posição em que seja possível aplicar o xeque-mate.
+Fase 
+Final
+Já vimos que apenas com Rei e Cavalo ou Rei e Bispo não
+se consegue aplicar xeque-mate. Havendo porém mais pe-
+ças, será possível aplicá-lo.
+Mates Elementares
+18
+ O lance é das pretas: o Rei
+Preto não tem como se
+mover: empate.
+Finais com Bispos e Cavalos requerem estudos mais
+aprofundados. A limitação de movimentos destas peças faz com
+que os mates devam ser bem trabalhados, encurralando o Rei
+adversário em uma posição em que seja possível vencê-lo.
+O lance é das pretas: o Rei
+Preto está em xeque-mate em
+todas as situações.
+
+MANUAL BÁSICO DE XADREZ
+Raramente a fase final acontece sem a presença de peões.
+Philidor, grande mestre do passado já dizia que “o peão é a
+alma do xadrez” e mais tarde, Reuben Fine completou esta
+frase dizendo que “se o peão é alma do xadrez, no final ele é
+também nove décimos do corpo”. Com efeito, o peão, com
+sua aparência frágil e movimentos limitados, irrompe com
+grande força nos finais de jogo, tornando-se valioso, tanto
+pela possibilidade de promovê-lo a uma peça de maior valor
+quanto pela sua posição estratégica que normalmente dita o
+rumo dos acontecimentos. Existem muitas regras para as
+diversas situações que podem ocorrer nestes finais. Neste
+manual, nos limitaremos a apresentar alguns casos e dicas.
+Com isto, você poderá ter uma boa base para se aprofundar
+mais no tema posteriormente.
+No caso de Rei sozinho contra Rei e Peão, a vitória se dará
+com a promoção do Peão. O Rei solitário deverá então tentar
+a captura do Peão ou impedir que ele possa ser promovido,
+conquistando o empate. De ambos os lados, os movimentos
+devem ser precisos e bem pensados, pois qualquer erro pode
+significar fatal vantagem ao adversário. O lado mais forte deve
+aproximar o Rei de seu Peão, para protegê-lo no avanço em
+direção à oitava horizontal, para ser promovido. Este avanço
+não pode ser feito desordenamente, pois quanto mais se
+aproximar da casa de promoção, maiores serão as
+possibilidades de empate.
+Estudemos os diagramas:
+Finais de Peões
+19
+Se a vez de jogar for das pretas, então elas conseguem o
+empate por “pat” em qualquer dos casos. Se for a vez das
+brancas, elas ganham no diagrama à esquerda, movendo o
+Rei lateralmente. O Rei preto terá então que abandonar a casa
+de promoção do Peão na sua vez de jogar. Já no diagrama à
+direita, a partida está empatada: se for a vez das pretas, o Rei
+está sem movimento. Se for a vez das brancas, o Rei movendo-
+se para 6 da Torre, não deixa opções de movimento para o Rei
+adversário. Se ele se mover para qualquer outra casa, afasta-
+se do Peão, deixando-a à mercê do Rei preto.
+Os finais de Peãos exigem muita perícia e são assunto tão
+complexo que existem diversas regras, descritas em inúmeras
+publicações especializadas. O assunto torna-se ainda mais
+atraente quando consideramos finais com vários Peões. Nestes
+casos o posicionamento de cada um deles é de fundamental
+importância.
+Como a proposta deste trabalho é servir apenas como um
+manual básico para o iniciante, nos limitaremos a demonstrar
+alguns poucos exemplos, esperando que eles agucem a
+curiosidade do leitor e o façam procurar literatura mais
+completa.
+Regra do Quadrado
+Uma regra valiosa em finais de Peão é a do Quadrado, que
+mostra se o Rei conseguirá ou não alcançar um Peão afastado
+de seu próprio Rei, antes que ele consiga alcançar a oitava
+linha para ser promovido.
+Traça-se um quadrado imaginário de lado igual ao número
+de casas de onde está o Peão até a oitava linha, conforme o
+diagrama.
+Surgem daí três casos:
+a) Se o Rei estiver dentro do quadrado, sendo sua ou não a
+vez de jogar, alcançará o Peão;
+b) Se o Rei estiver fora do quadrado mas o lance for seu e
+com este lance ele puder penetrar ná área do quadrado,
+alcançará o Peão (pois caíra na situação “a” apresentada
+acima);
+c) Se o Rei estiver fora do quadrado e o lance for do Peão,
+então ele não conseguirá impedir a promoção.
+Estude bem a Regra do Quadrado pois ela tem grande
+utilidade prática nos finais de partida com Peões.
+No diagrama, utilizando a regra do quadrado, podemos
+concluir que o Rei preto somente alcançará o Peão se o
+lance for seu, caso em que penetrará no quadrado
+imaginário em 4C. O Peão conseguirá sua promoção, mas
+será tarde demais, já que o Rei inimigo estará já a seu
+lado, quando isto acontecer. Acompanhe:
+1 - ... R4C; 2 - P6R R3B; 3 - P7R R2D; 4 - P8R=D+
+RxD e empate.
+Se o lance for do Peão, ele conseguirá alcançar sem
+problemas a oitava linha:
+1 - P6R R4C; 2 - P7R R3B; 3 - P8R=D+.
+
+MANUAL BÁSICO DE XADREZ
+Finais com mais de um Peão
+20
+Os finais que envolvem mais de um Peão são bem
+interessantes porém, é assunto bastante extenso.
+Apresentaremos apenas algumas situações para que o iniciante
+possa se familiarizar com as diversas facetas deste tema.
+As brancas ganham, tendo ou não o lance. O Rei preto não
+conseguirá impedir que um dos dois Peões seja promovido
+Ganham as brancas, tendo ou não o lance. O Rei branco
+pode capturar o Peão preto mas o Rei preto só pode tentar
+capturar o Peão do Bispo, já que os outros estão defendidos.
+Caso ele avance em direção ao Peão do Bispo, as brancas
+avançam, no momento oportuno, o Peão da Torre para a
+casa de promoção.
+Peão Passado
+O Peão passado é aquele que ultrapassou a barreira de
+Peões inimigos. Pode ser aproveitado conseguindo-se sua
+promoção, já que seu avanço é mais livre; avançando-o, mesmo
+com sacrifício, para dar a sua casa a uma peça de maior valor
+ou para auxiliar um ataque no terreno do adversário.
+Peões Dobrados
+Peões dobrados são aqueles
+que ficaram posicionados em
+uma mesma coluna. Como o
+Peão só se move para a frente,
+o Peão de trás estará
+bloqueado em seu movimento.
+Raramente os Peões dobrados
+representam uma vantagem.
+São, via de regra, uma
+fraqueza para o lado que os
+possui.
+O Peão isolado é aquele que não pode ser defendido por
+outro Peão, por não existirem Peões de sua mesma cor nas
+colunas vizinhas. Quase sempre constitui uma desvantagem
+para quem o possui. Suas principais desvantagens são: pode
+ser alvo fácil de ataque, por não possuir defesa de outros Peões;
+obstrui a progressão de suas peças, principalmente Bispos e
+Torres e deixa uma casa muito fraca à sua frente, onde pode-
+se posicionar uma peça adversária, principalmente o Cavalo,
+que é ideal para este tipo de situação. Como não existem Peões
+nas colunas vizinhas, o Cavalo dificilmente será desalojado
+desta casa.
+Peão Isolado
+O Peão do Bispo da Dama branco é um Peão passado. Já o
+Peão do Cavalo da Dama das pretas é um Peão isolado.

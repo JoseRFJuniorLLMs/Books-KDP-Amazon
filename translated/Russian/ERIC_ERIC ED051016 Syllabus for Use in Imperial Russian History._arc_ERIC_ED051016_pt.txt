@@ -1,0 +1,990 @@
+"""
+ DOCUMENTO HESUBE 
+
+
+
+ED 051 016 
+
+
+
+SO 001 197 
+
+
+
+AUTOR 
+
+TÍTULO 
+
+INSTITUIÇÃO 
+AGÊNCIA PATROCINadora 
+DATA DE PUBLICAÇÃO 
+NOTA 
+
+
+
+Husubi, Carol 
+
+Syllabus para Uso em História Imperial Russa. 
+
+Escolas Públicas de Toledo, Ohio. 
+
+Banco de Educação (DHEW), Washington, D.C. 
+
+69 
+
+24p. ; Um projeto do Centro de Estudos Russo-Chineses 
+
+
+
+PREÇO EDRS 
+DESCRIPTORES 
+
+
+
+IDENTIFICADORES 
+
+
+
+Preço EDRS MF-J0.65 HC-53.29 
+
+Objetivos Afetivos, Estudos de Área, *Estudos Cruzados Culturais, Consciência Cultural, ^Guias deCurrículo, 
+Geografia, Governo (Corpo Administrativo), História, Ensino, Humanidades, Imperialismo, 
+Abordagem Interdisciplinar, *Cultura Ocidental, Literatura Russa, Séries do Ensino Médio, 
+Mudança Social, Estrutura Social, ♦Ensino de Ciências Sociais, Unidades de Estudo em Ciências Sociais, 
+História Mundial 
+Título III da ESEA, Marxismo, História Política, Revolução, ^História Russa, União Soviética, Czaristas 
+
+
+
+RESUMO 
+
+Este syllabus é um esboço de um curso de semestre único em História Imperial Russa projetado para enfatizar a relação entre 
+o passado da Rússia e seu presente. O conteúdo do curso começa com a fundação do primeiro estado russo e continua até o fim dos Romanovs em 1917. Além disso, alguns tópicos são sugeridos para investigação da história russa em relação aos fatores geográficos. 
+Períodos principais: 1) Origens da Rússia — Kievan Rus (862-1243); 2) 
+
+Invasões Mongolas (1240-1480); 3) A Ascensão dos Príncipes de Moscou; """
+
+"""
+4) Reino de Ivan IV (O Terrível); 5) O Tempo das Troubas; e, 6) Os Romanov. Eventos significativos e líderes são discutidos em cada período. Também são sugeridos para estudo quatro temas interdisciplinares: 1) Arte Religiosa e Arquitetura; 2) Literatura, especialmente a Literatura Protestante do século XIX de Tolstói, Dostoievski, Turguêniev, Gógol e Gorki; 3) Marxismo e a Tradição Revolucionária na Rússia; e, 4) Os Cossacos e a Música Folclórica Russa. Dois textos básicos são: UMA INTRODUÇÃO À HISTÓRIA E À CULTURA RÚSSIAS por Ivar Spector, e A EVOLUÇÃO DA RÚSSIA por Otto Hoetzsch. Entendimentos históricos básicos a serem desenvolvidos são estabelecidos e objetivos são definidos. Uma lista de textos complementares, bem como materiais audiovisuais, é incluída. SO 001 196 descreve um curso relacionado sobre História Soviética Russa. (Autor/JSB) 
+
+
+
+r 
+
+
+
+sO 
+
+
+
+
+
+
+
+DEPARTAMENTO DOS ESTADOS UNIDOS DE SAÚDE, 
+EDUCAÇÃO E ASSISTÊNCIA SOCIAL
+Gabinete de Educação
+ESTE DOCUMENTO FOI REPRODUZIDO EXATAMENTE COMO RECEBIDO
+DA PESSOA OU ORGANIZAÇÃO QUE O ORIGINOU. AS OPINIÕES OU VIEWS
+EXPRIMIDAS NÃO NECESSARIAMENTE REPRESENTAM A POSIÇÃO OU POLÍTICA
+DO Gabinete de Educação
+
+
+
+I
+
+
+
+CENTRO DE ESTUDOS CHINES-ROSSIANOS
+Escolas Públicas de Toledo
+Toledo, Ohio
+
+
+
+Sílabo para uso em História Imperial Russa
+preparado por Carol Husum, 1969-1970
+
+
+
+i
+
+
+
+\
+
+
+
+Edo 5 1 o 16
+
+
+
+INTRODUÇÃO 
+"""
+
+"""
+Tanto se escreveu sobre o poder e a influência da União Soviética no mundo atual e as implicações disso para os Estados Unidos que é particularmente importante compreender o desenvolvimento histórico do povo russo e reconhecer e distinguir aquelas qualidades comuns a todos os homens; aquelas que são particularmente "rusas" em natureza; e aquelas que são "comunistas." Portanto, este curso de um semestre sobre a história imperial russa está projetado para enfatizar a relação entre o passado russo e seu presente e paralelamente à evolução da sociedade russa com a dos Estados Unidos. O curso começa com a fundação do primeiro estado russo e continua até a queda dos Romanov em 1917. Espera-se que, ao estudar este período da história russa, o aluno tenha uma melhor compreensão de um país que ocupa um sexto da superfície terrestre e tenha uma melhor perspectiva para lidar com as condições existentes no mundo atual.
+
+
+O
+
+ERIC
+
+
+2
+
+- 2 -
+
+
+
+OBJETIVOS
+
+Os objetivos históricos básicos deste curso são:
+
+1. Entender a ideia de múltipla causa na história,
+
+2. Entender os fatores geográficos que influenciaram o desenvolvimento russo.
+
+3. Realizar que, apesar da grande diversidade do povo russo, há considerável homogeneidade.
+
+4. Entender a influência do "Leste" e do "Oeste" na formação russa.
+
+5. Realizar que a cultura russa foi moldada por personalidades poderosas cuja influência tem sido duradoura.
+
+6. Desenvolver uma consciência das atitudes e da cultura russas nas áreas de religião, música, arte, literatura e ciência.
+
+7. Desenvolver um entendimento dos russos como pessoas cujo fundo pode ser diferente, mas que têm muitos dos mesmos sonhos e aspirações que temos.
+
+8. Desenvolver uma compreensão das visões que os russos tiveram e têm sobre o Ocidente.
+
+
+ERIC
+
+
+
+- 3 -
+
+
+
+METODOLOGIA
+"""
+
+"""
+Os métodos e técnicas de ensino utilizados neste curso são projetados para que os alunos participem ativamente da situação de aprendizado e desenvolvam a habilidade de pensamento crítico necessária à interpretação de eventos históricos. Palestras e discussões entre estudantes são combinadas com atividades e projetos dos alunos, projetados de forma que o aluno "absorva" uma compreensão da cultura russa em vez de apenas aprender sobre ela. Aulas visuais, palestrantes convidados e pesquisa individual são utilizados para proporcionar maior profundidade e instruções personalizadas. Atividades como a planejamento de jantares russos, participação em festivais internacionais, e aprendizado de canções e danças russas contribuem para o conhecimento do assunto. Quando possível, fontes originais e a literatura do país são utilizadas para estimular o aprendizado.
+
+
+MATERIAIS
+
+
+TEXTOS: 
+
+1. INTRODUÇÃO À HISTÓRIA E CULTURA RÚSSIAS por Ivar Spcottor; D. Van Nostrand Company
+
+2. EVOLUÇÃO DA RÚSSIA por Otto Hoetzsch; Harcourt, Brace and World
+
+MATERIAIS DE LEITURA SUPLEMENTÁRIOS: 
+
+1. SELEÇÕES DA RÚSSIA por Hyman Kublin; Houghton Mifflin Company
+
+2. OS TSARES, 1633-1917 por Ronald Hingley; Macmillan Company
+
+3. TESOURO DE LITERATURA RÚSSIA editado por B. G. Guerney; Vanguard Press
+
+MATERIAIS AUDIOVISUAIS
+Filmes - 16 mm. - com som 
+
+1. RELIGIÃO NA RÚSSIA; International Film Foundation, cores, 20 min.
+
+2. O CAMPO DESENTERRADO (Agricultura Russa); International Film Foundation, cores, 20 min.
+
+3. A VERMELHA - MARXISMO E O MANIFESTO COMUNISTA; NET Film Service
+
+Filmes 
+
+1. COMUNISMO: O QUE VOCÊ DEVE SABER SOBRE ELE E PORQUE; McGraw-Hill, conjunto de 8, cores, guia
+
+a. Por que estudar o Comunismo?
+
+b. O que é o Comunismo
+
+c. História do Comunismo de Marx a Lenin
+
+d. Comunismo como foi praticado na União Soviética
+
+2. PETER ILÍCH TCHAIKÓWSKY; Brunswick Productions, cores, sem guia
+
+3. RIMSKY-KORSAKOFF; Brunswick Productions, cores, sem guia
+
+
+6
+
+"""
+
+"""
+GRANDES ROMANCEES RÚSSIOS; Brunswick Produções, cores, sem guia
+
+a. Pais e Filhos
+
+b. Crime e Castigo
+
+c. Guerra e Paz
+
+d. Os Irmãos Karamazov
+
+e. Ana Karenina
+
+f. O Idiota
+
+3. HISTÓRIA DA RÚSSIA: Common Ground Filmstrips, preto e branco, guia
+
+a. As fundações até 1700 - 36 quadros
+b. A era de São Petersburgo, 1700-1836 - 24 quadros
+c. O fim do tsarismo, 1837-1917 - 33 quadros
+Filmstrips com Som
+
+1. SÉRIE DE GRANDES ESCRITORES - DOSTOEVSKI; Filmstrip House, cores, guia
+
+a. Sua vida
+
+b. Seu tempo
+
+c. Suas obras
+d. Seu estilo
+
+Slides - 33 mm.
+
+1. MOSCOW; Roloc, cores, 83 slides
+Transparências para Projeção
+
+1. SÉRIE GEOGRÁFICA MUNDIAL - RÚSSIA; General Aniline, conjunto de 2 
+Gravações em Disco
+
+1. JOGUE BALALAIKA; Monitor
+
+2. YULIA CANTANDO CANÇÕES GIGESIANAS DA RÚSSIA; Monitor
+
+3. CANÇÕES POPULARES RÚSSIAS; Monitor
+4. CANÇÕES DE MÚSICA CLÁSSICA RÚSSIA; Monitor
+
+3. TCHAIKOVSKI: CONCERTO N° 1, em B-FLAT MINOR, OP. 23; RCA Victor, 
+Sinfônica de Radio Moscou com Van Cliburn
+
+1
+
+4. MOUSSORGSKY/RAVEL: PÁGINAS DE UMA EXPOSIÇÃO; RCA Victor, Orquestra Sinfônica de Chicago
+Filme e Gravação em Disco Set
+
+7. TCHAIKOVSKI: O NÚCLEO DO NOGUEIRA E A LACA DAS VELHAS; Columbia, Orquestra Filarmônica de Philadelphia
+Filme e Gravação em Disco Set
+
+8. TCHAIKOVSKI: A BELEZA DORMENTE E ROMÉU E JULIETA; Columbia, Orquestra Filarmônica de Philadelphia
+
+9. TCHAIKOVSKI: O OVEREXURE DE 1812, OP. b9 , MARCHE SLAVE, OP. 3h e CAPRICCIO ITALIANO, OP. l|5j Columbia Nova York Sinfônica
+
+10. A MÚSICA LEVE DE SHOSTAKOVICH; Columbia, Andre Kostelanetz
+
+11. BALALAIKA FAVORITAS; Mercury Records
+
+
+
+O
+
+ERJC
+
+
+
+7
+
+-7-
+
+"""
+
+O seguinte esboço do curso é oferecido como sugestão. O professor pode ter considerável latitude na seleção dos tópicos que escolherá enfatizar*. Obviamente, há muito que não pode ser tratado em profundidade, então a oportunidade está presente para selecionar o que é interessante e significativo para a classe particular*. Portanto, este guia será revisado à luz da experiência de sala de aula.
+
+Muita importância foi dada às origens do povo russo e à localização estratégica do estado russo*. Localizado nos continentes europeus e asiático, a Rússia tem sido chamada de "casa intermediária" entre Europa e Ásia*. Os historiadores não concordam sobre a influência relativa do "Leste" em comparação com o Ocidente.* Ambos exerceram uma influência considerável no desenvolvimento russo. Esta localização geográfica tornou a Rússia única como um puente entre Leste e Ocidente.
+
+GEOMETRIA
+
+1. A tremenda dimensão da Rússia
+
+2. O imenso plano Eurasiano, que é o maior plano único do mundo
+
+3. A falta de barreiras naturais dentro da Rússia que poderiam limitar o comércio e as comunicações
+
+4. Ausência de fronteira natural ao Ocidente e a influência que isso tem tido sobre a Rússia
+
+5. Grandes diferenças climáticas na Rússia influenciam a maneira de vida das pessoas. (Explorar a ideia de que extremos no clima são responsáveis por extremos no caráter russo.)
+
+6. A importância do solo e da vegetação para o desenvolvimento russo — falta de terra arável, apesar de a Rússia ser maior que os Estados Unidos e Canadá. Sete regiões naturais da União Soviética são: a tundra, a taiga, a floresta folhosa, a steppe fértil, a steppe seca, o deserto e a floresta subtropical.*
+
+"""
+7. Importância das rios e portos da Rússia que tendem a unificar o país. Muitos dos rios russos fluem para o norte, até o Ártico congelado, em vez de leste-oeste. Embora a costa russa seja grande,3 está longe dos centros de população e não é acessível ao comércio marítimo. Os esforços da Rússia por obter portos de águas mornas foram uma parte importante de sua história. Inibida em seus esforços para expandir pelo mar, sua expansão tem sido mais terrestre.
+
+8. A Rússia é rica em recursos naturais e minerais. Muitos desses recursos estão longe dos centros de população e são difíceis de obter devido às condições climáticas rigorosas. Essas dificuldades influenciaram a industrialização da Rússia — uma situação que os soviéticos tentaram superar.
+
+9. Como se poderia esperar em um país tão grande, a Rússia é um país multínacional, embora os povos slavos representem 78% da população. Essa diversidade de grupos tribais resultou em uma grande variedade de culturas e dialetos na Rússia.
+
+10. A distância geográfica da Rússia como um país fronteiriço influenciou seu desenvolvimento e contato com o Ocidente.
+
+9
+
+-9-
+
+ORIGENS DA RÚSSIA - KIEVAN RUS (862-1243)
+
+Pouco se sabe sobre as origens do povo russo. Existem crônicas ou versões mitológicas atribuídas a um monge Nestor que contam a história da colonização de Kiev. Provavelmente o trabalho de várias gerações, essas crônicas afirmam que a Rússia começou em 862 quando as tribos eslavas pediram a Rurik Sineus e Truvor para vir governar. As origens desses novos governantes também são incertas; no entanto, a primeira das duas dinastias russas foi chamada de Dinastia Rurik. Dois dos eventos mais importantes dessa época foram o adoção do cristianismo e a invasão mongol.
+
+FAÇAS-SE NOTÓRIOS
+
+1. O rio Dnieper era uma importante ligação no estado kievan. Por causa da sua localização no Dnieper e proximidade com Bizâncio, Kiev se tornou a capital e o centro cultural desse estado.
+"""
+
+"""
+2* O estado príncipevano inicial tinha elementos de autocracia, nobreza e democracia. 
+Kiev nunca teve um governo central forte, mas o príncipe de Kiev era a figura mais influente.
+
+3. O estado príncipevano era próspero, e o comércio e as artes manuais floresceram. 
+Os camponeses podiam possuir sua própria terra. Havia uma classe urbana que formava conselhos de cidades para representação.
+
+U. A introdução do cristianismo ortodoxo grego teve um influência duradoura na Rússia e a puxou para o Oriente.
+
+£. O alfabeto russo foi introduzido neste período com o objetivo de propagar o cristianismo.
+
+6. A influência bizantina estava presente no pintura, escultura e arquitetura.
+
+7. Embora o príncipevano Rússia fosse rico, os príncipes do estado começaram a se disputar entre si e também a buscar novas terras.
+
+8. O príncipevano Rússia começou a sofrer com invasões de povos nômades que destruíram o comércio.
+
+9. A Primeira Cruzada também afetou o comércio príncipevano, e a população príncipevana migrou para o norte.
+
+10. Os mongóis do Oriente conquistaram o estado príncipevano no século XIII.
+
+O
+
+ERJC
+
+11
+
+- 11 -
+
+INVASÕES MONGOLAS (1240-1360)
+
+Os efeitos das invasões mongolinas na Rússia ainda estão presentes na Rússia hoje. 
+O príncipevano Rússia havia sido dividido em três segmentos – Central, norte e sudeste. 
+A Rússia estava sob o controle da Orda dourada, enquanto a área do Dnieper caiu sob o controle dos poloneses-lituânicos. 
+Novgorod no noroeste manteve sua independência e se tornou um centro de comércio com a Europa.
+
+FATOS SIGNIFICATIVOS
+
+1. As invasões mongolinas tiveram efeitos enormes sobre as características físicas e mentais dos russos.
+
+2. Hábitos orientais deixaram marcas até mesmo na religião cristã da Rússia.
+
+3. O domínio mongol trouxe divisão entre os povos da Rússia.
+
+4. Os conselhos urbanos do estado príncipevano perderam seu poder.
+
+Muitas habilidades e ofícios foram perdidos neste período.
+
+5. A Rússia se tornou mais agrícola, e o poder dos senhores de terras aumentou.
+"""
+
+There was no middle class, and the influence of city populations lessened. 
+
+7m Although they were initially destructive, the Mongols later taxed the 
+Russians heavily, but did not destroy the country. 
+
+
+
+O 
+
+ERIC 
+
+
+
+12 
+
+
+
+- 12 - 
+
+
+
+• THE RISE OF THE PRINCES OF MOSCOW 
+Russia during the fourteenth and fifteenth centuries was oppressed 
+lay both the Lithuanians and the Mongols. The Princes of Moscow, because 
+of their position as tax collectors for the Mongols and their longevity, 
+freed Russia from the foreign yoke. 
+
+SIGNIFICANT FACTS 
+
+1 . The first attempt to defeat the Mongols was the Battle of Kulikovo 
+Meadow by Dmitri Donskoi. It was a psychological victory for the 
+Russians . 
+
+2. Vasily, son of Qnitri, succeeded in defeating the Lithuanians in 1399. 
+
+3. Ivan HI (the Great) finally removed the Tartar domination of Russia 
+in 11*80. 
+
+U. Ivan Hi's success brought about the rise of the city of Moscow. 
+
+5. Ivan ITT regarded himself as the successor to the Byzantine Qnperors 
+and began to call himself "Tzar." 
+
+6. Ivan HI began contact with the West, but the unification of Orthodox 
+and Raman Catholic faiths did not take place. 
+
+7. Ivan III brought skilled craftsmen and artisans to Moscow to rebuild 
+Russian buildings which had been destroyed under the Mongols. 
+
+8. Ivan III showed an interest in developing trade with the West and was 
+interested in the Baltic. 
+
+9. Ivan HI reorganized the system of land tenure and contributed to the 
+centralization of authority. The Church contributed to this centralization 
+and became an instrument of the Tsar. 
+
+10. To improve communication, Ivan HI built a series of post roads. 
+
+1 1 . Russian rulers during this time began to regard themselves as absolute 
+monarchs . 
+
+
+
+
+13 
+
+
+
+-13- 
+
+
+
+REIGN OF IVAN 17 (THE TStRTRT,fl) 
+
+Grandson of Ivan the Great, Ivan 17, came to the throne in 1533. 
+
+He was a strong, autocratic ruler who brought about great changes in the 
+Russian state. Called the "Terrible" because of his cruelty, Ivan 17 was 
+
+one of the most important Muscovite princes and the subject of much psychological 
+study. 
+
+SIGNIFICANT FACTS 
+
+1 . Ivan 17 felt it necessary to crush the hostile foreign forces which 
+surrounded Russia and demanded absolute control of the population in 
+order to do it. 
+
+2. Perhaps because of his cruel treatment at the hands of the boyars 
+as a child, Ivan 17 sought to crush the nobility. 
+
+3. Rights of peasants and church were reduced, and everyone was required 
+to serve the state. Serfdom became characteristic of Russian society. 
+
+lw Siberia was explored and Eastward expansion began. 
+
+5 . Attempts to expand Westward to the Baltic were a drain on the Russian 
+state and were not wholly successful. 
+
+6. Lack of technology was evident in Ivan 17 's campaigns in West. 
+
+
+
+-iu- 
+
+
+
+THE TIME OF TROUBLES 
+
+Ivan I V had brought about great changes in the population. These and 
+natural conditions caused hardship to the Russian people, and the period 
+following the death of Ivan IV is therefore known as the "Time of Troubles." 
+SIGNIFICANT FACTS 
+
+1. Ivan's son, Feodor, was feeble-minded. A boyar, Boris Godunov, assumed 
+regency and later became Tzar. 
+
+2. Boris Godunov made enemies among other boyars and among peasants by 
+his harsh decrees. 
+
+3. Famines increased the suffering of the Russian people, and many revolted 
+against the government including the Cossacks. 
+
+iu At the death of Boris Godunov, many pretenders tried to assume the throne. 
+Foreigners, especially Swedes and Poles, saw an opportunity to control 
+Russia. 
+
+J>. Russia was seriously weakened by the efforts to drive the foreigners 
+out of Russia. 
+
+6. The chaos resulting from the series of "False Dmitri's" and the actions 
+of Boris Godunov caused the boyars to try to reduce the powers of 
+the Tzar. 
+
+
+
+0 
+
+
+
+
+15 
+
+
+
+THE ROMANOVS 
+
+
+
+The struggle for power in Russia at the beginning of the seventeenth 
+century brought the first of the Romanovs to power. The boyars thought that 
+he was a weakling and would be easily controlled. Events proved otherwise. 
+SIGNIFICANT FACTS - MICHAEL ROMANOV 
+
+1 . Michael Romanov's father, Philaret, proved to be a capable adviser and 
+was responsible for restoring internal stability. 
+
+2. Trade was resumed with the West, and many foreigners came to Russia. 
+Russians adopted many European customs during tills time. 
+
+3. Peasants were more firmly bound to the land during the time of Michael 
+Romanov. 
+
+U. Spirit of nationalism increased during the time of Michael. 
+
+SIGNIFICANT FACTS - TZAR AT.KTF.I 
+
+1. The most important event during the reign of Michael's son, Alexei, 
+
+was the Schism, or the split between the Old Believers (fundamentalists ) 
+and the Reformers (modernists). 
+
+2. Nikon, Patriarch of Moscow, wanted changes and persecuted dissenters 
+from his policies. 
+
+3. Traditionalists felt that Moscow was the "Third Rome" and wanted no 
+changes. 
+
+U. The religious controversy brought about disagreement in social areas — 
+also these groups later became known as the Westernizers and Slavophiles. 
+
+3. Resentment against foreigners living in Russia increased. 
+
+6. Codification of law took place restricting clergy, foreigners, and 
+binding peasants more closely to the land. 
+
+7. Unemployment increased, class struggle intensified, and economic problems 
+grew worse. 
+
+9. General discontent led to the Stenka Razin uprising. 
+
+
+
+9 . Russia took offensive in acquiring Ukraine from Poland and Lithuania. 
+
+10. Expansion into Siberia continued. 
+
+SIGNIFICANT FACTS - TSAR FYODOR AT.RYKTWTTOH 
+
+1 . Fyodor was a weakling and died six years after his father . At his 
+
+death a bitter feud broke out among his brothers and sister for control 
+of the throne. 
+
+SIGNIFICANT FACTS - TSARVMA SOPHIA 
+
+1 . Sophia gained control in the name of the throne in the name of her 
+
+two younger brothers. Ivan was an incompetant* and Sophia feared Peter 
+and sought to remove him. 
+
+2. Sophia signed the Treaty of Nertchinsk designating the frontier between 
+Russia and China keeping Russia from the Amur River and li mi ting Russian 
+expansion in the area until the nineteenth century. 
+
+3. Peter j with the cooperation of the Streltsy* discovered Sophia* s plot 
+to remove him and had her sent to a convent. 
+
+SIGNIFICANT FACTS - PETER I (THE GREAT) 
+
+1 • Peter I was a very intelligent man who had a strong inclination towards 
+the military. 
+
+2. Peter I was very much influenced by the German Suburb and the Western 
+ideas he learned there. 
+
+3. Peter realized the changes that the Mongol invasions had brought in 
+Russia and sought to remove them forcefully. 
+
+U* Peter wanted to make Russia a European rather than an Asian nation. 
+
+Many of Peter's reforms took placo at the expense of the Orthodox 
+Church. 
+
+6. Peter sought to limit the influence of the boyars. 
+
+7. He instituted a "table of ranks" in which he created a new aristocracy. 
+
+8. Peter wanted to develop Russian industry. 
+
+9. Factory- serfdom was initiated because there was no middle class for 
+
+17 
+
+
+
+Indus trializ ation 
+
+
+
+-17- 
+
+
+
+10. Peter instituted programs to develop educational and scientific advancement. 
+
+1 1 . Peter built a capital on the Baltic . 
+
+12. Russia developed as a military power during the lif etime of Peter the 
+Great . 
+
+13. Russia suffered reverses in the South in a battle against Turkey. 
+
+SIGNIFICANT FACTS - PETER'S SUCCESSORS 
+
+1. Peter I died without naming an heir. He had killed his son, Alexei, 
+and another son died while very young. 
+
+2. Peter's second wife, Catherine I, succeeded him. This had not been 
+done before in Russia, aroused opposition. 
+
+3. Peter I's grandson, Peter II, gained the throne at the age of twelve 
+and lived for only three years. He moved the court back to Moscow and 
+gave more power to the Church. 
+
+U. Anna of Courland, daughter of Ivan, Peter I's brother, came to power 
+upon Peter II' s death. German advisers were very influential during 
+this period. 
+
+£. Elizabeth, daughter of Peter the Great, became Empress at Anna's death. 
+
+She removed the "German yoke" and substituted French influence. 
+
+6. Russia during the reign of Elizabeth I became influenced by the "Age 
+of Enlightenment . " The University of Moscow was founded and many 
+scholars gained international acclaim including Lomonosov, the famous 
+physicist, artist, and poet. 
+
+7. Agricultural, industrial, and economic reforms took place during Elizabeth's 
+reign. 
+
+8. Russia gained much territory during the reign of Elizabeth, but lost 
+it under her successor, Peter HI. 
+
+9. Peter III restored German influence. 
+
+^in. Peter III freed the nobles from compulsory service to the state. 
+
+
+
+19 
+
+
+
+-18- 
+
+11. Peter Ill's behavior made him unpopular with his subjects and aroused 
+sympathy for his wife. 
+
+12. Peter III was forced to abdicate by his wife who became Catherine II. 
+
+SIGNIFICANT FACTS - THE RiJGN OF CATHERINE THE GREAT 
+
+1 . Catherine the Great considered herself a product of the enlightenment — 
+she is considered one of the enlightened despots. 
+
+2. Catherine was interested in extending the power and influence of Russia. 
+
+3. She increased the burdens on the serfs and bought the support of the 
+nobility. 
+
+U. Pugatchev led a rebellion protesting her land and peasant policy. 
+
+5>. Catherine limited the power of the Church, but maintained a policy 
+
+of toleration towards religion unless she suspected political intrigue. 
+
+6. Catherine was an admirer of Voltaire and encouraged French influence 
+in Russia. 
+
+7. Catherine was responsible for the building of many structures in the 
+Classical style. 
+
+8. She established schools and educational academies. 
+
+9. Catherine issued her "Nakaz" or statement for political and social reform, 
+but she did not act upon her recommendation . 
+
+10. Russia's prestige was increased as a result of Catherine's enlightened 
+ideas and foreign affairs. 
+
+11. Her reign of thirty-four years gave Russia a period of continuity and 
+stability. 
+
+SIGNIFICANT FACTS - PAUL I 
+
+1 . Paul felt that Catherine II, his mother, had deprived him of his rightful 
+position on the throne. 
+
+2. Paul had grown up separated from his mother and disagreed with her 
+in many areas. 
+
+3. Many historians believed that Paul was insane; however, he brought 
+
+cKjC 
+
+about many changes during his five year reign. 
+
+
+
+-19- 
+
+
+
+1*. Paul believed in autocracy. 
+
+5. Paul established himself as the head of the Church. 
+
+6. Paul disliked French customs and preferred those of Prussia. 
+
+7. Paul issued the "Okaz" limiting the service of the serfs. 
+
+8. Paul's reverses in foreign policy led to his assassination. 
+
+SIGNIFICANT FACTS - ALEXANDER I 
+
+1. Alexander I was reared by his grandmother, Catherine the Great, in 
+the principles of the Bil ightenment . 
+
+2. Al exander I considered himself a republican. 
+
+3. Alexander, during the first part of his reign, was liberal in his attitude, 
+but he later became very reactionary. 
+
+ll. Russia suffered much from the invasion of Russia in 1812. 
+
+Alexander was regarded as the Savior of Europe for his efforts in defeating 
+Napoleon. 
+
+6 After the Napoleonic Wars, Alexander's growing conservatism led to the 
+formation of societies which brought about the Decembrist uprising. 
+
+7. Alexander tried and failed to develop unity in Europe, but these countries 
+felt that Russia was growing too powerful. 
+
+SIGNIFICANT FACTS - NICHOLAS I 
+
+1. Confusion over the succession of Alexander I and the conservative and 
+autocra+vic personality of Nicholas I led to the first Russian revolution — 
+the Decembrist uprising. 
+
+2. Nif-bnlaa i followed the principles of "Autocracy, Orthodoxy, and Nationalism" 
+to maintain control cf Russia. 
+
+3. Nicholas regime was militaristic and bureaucratic. 
+
+lw Hi a ” established the Third Division, a political police to be used 
+to combat subversion. 
+
+f>. Nicholas I did not act to lessen the evils of serfdom. 
+
+Literature flourished during the reign of Nicholas— known as the Golden 
+
+
+
+
+Age of Russian Literature. 
+
+
+
+20 
+
+
+
+- 20 - 
+
+
+
+7. Nicholas I involved Russia in military defeat in the Crimean War. 
+
+8. Nicholas I died realizing that he had not unified Russia. 
+
+SIGNIFICANT FACTS - ALEXANDER U 
+
+1. Alexander recognized Russia’s backwardness and took steps to improve 
+industr ializ ation . 
+
+2. He realized that Russia had to free the serfs to prevent widespread 
+rebellion. 
+
+3. Land was given to the peasants in the form of communal property. 
+
+Alexander issued reforms in the government, press, judicial system, 
+and army. 
+
+3. Alexander initiated the last great wave of Russian expansion. 
+
+6. There was much opposition to Alexander's policies. 
+
+7 . The Populists plotted revolution and assassinated the Tzar. 
+
+SIGNIFICANT FACTS - ALEXANDER HI 
+
+1 . In spite of the assassination of Alexander II, the throne passed smoothly 
+to Alexander TIT . 
+
+2. Influenced by the death of his father, Alexander III crushed any revolutionary 
+groups and tried to reverse the policies of his father. 
+
+3. Industry was developing on a large scale, and many peasants began to 
+move to the cities. Russia developed a small middle class. 
+
+1;. No attempt was made by the government to solve the problems of the masses 
+of people. 
+
+5>. The intelligentsia of Russia supported revolution. 
+
+6. Marxism came to Russia. 
+
+7. Franco-Russian alliance of 1891 brought about an end to Russia's isolation 
+from Europe and paved the way for World War I. 
+
+8. Trans-Siberian Railway is begun. 
+
+
+
+0 
+
+
+
+
+21 
+
+
+
+- 21 - 
+
+
+
+SIGNIFICANT FACTS - NICHOLAS II 
+
+1. Nicholas was not equipped by temperment or training to be the uutuurui,! • 
+ruler that he attempted to be. 
+
+2. His wife, Alexandra, was believed to have great influence upon him. 
+
+As she was a foreigner, she was disliked in Russia. 
+
+3# Nicholas became involved in disasterous wars which contributed to social 
+disorders « 
+
+Nicholas was very interested in the Far East and laid a foundation for 
+peaceful economic penetration of China. 
+
+Russia suffered defeat in the war with Japan, 190lj-05. 
+
+6* Since the closing years of Alexander II, political parties went undergro ; 
+or went abroad to operate# 
+
+7# There were many revolutionary parties including the Social Democrats, 
+later split into the Bolsheviks and Mensheviks ; the Social Revolutionary 
+Party, later separated into "Right” and "Left" wings j the Constitutional 
+Democrats or Kadets. 
+
+8. The Revolution began when Father Gapon led peasants and workers in a 
+petition to the Tzar (19o5). The guards fired on the people on the day 
+thereafter known as Bloody Sunday# 
+
+9. The government instituted limited reforms after the disaster of the worke 
+strike and military reverses. 
+
+10. The October Manifesto provided the forms of Western democracy after 
+the Revolution of 1905 was crushed. 
+
+11. The Tzar would not work with the First and Second Dumas because they 
+pushed for land reform. 
+
+12. The Third Duma accomplished some reforms although not representative 
+
+
+
+
+of the people as a whole* 
+
+Rasputin was instrumental in directing the election of the Fourth 
+Duma. This Duma paved the way for the revolution. 
+
+22 
+
+
+
+- 22 - 
+
+
+
+lll. Believing their national interest at stake, the Russians became involved 
+in another losing war, this time with Germany. 
+
+15. Although at first the way effort had the support of the people, military 
+
+defeats and economic hardships led to the almost spontaneous demonstrations 
+and riots which signified the fall of the monarchy. 
+
+
+
+
+23 
+
+
+
+-23- 
+
+
+
+S FECIAL TOPICS 
+
+1 . RELIGIOUS ART AND ARCHITECTURE 
+
+2. LITERATURE: ESPECIALLY THE 19th CENTURY IROTEST LITERATURE OF TOLSTOY, 
+
+DOSTOYEVSH, TURGENEV, GOGOL, and GORKY. Because of the censorship 
+
+"""
+na Rússia, aqueles que se opunham ao sistema social na Rússia tiveram que recorrer à expressão literária como meio de expressar suas opiniões.
+
+3. MAISQUISMO E A TRADIÇÃO REVOLUTIONÁRIA NA RÚSSIA
+
+A. Descontentamento dos Camponeses
+
+B. Os Intelectuais
+
+C. Minorias
+
+D. OS COSSACOS E A MÚSICA POPULAR RUSSA
+
+
+
+O 
+
+ERIC
+
+
+
+24
+
+
+
+
+"""

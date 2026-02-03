@@ -1,0 +1,1042 @@
+DOCOHEMt RESUKE 
+
+
+
+ED 091 925 
+
+AUTHOR 
+TITLE 
+
+
+
+INSTITUTION 
+POB DATE 
+NOTE 
+
+AVAILABLE PROM 
+
+
+
+EDRS PRICE 
+DESCRIPTORS 
+
+
+
+PL 00k 843 
+
+Evreinov, Irina A. 
+
+Some Important Studies of Negation in Slavic 
+Languages^-A Survey. Working Papers of the Russian 
+School, No. 1 . 
+
+Norwich Univ., Northfield, Vt. 
+Apr 73 
+18p. 
+
+Norwich University, Northfield, Vermont 05663 
+($1 .00) 
+
+MF-$0.75 HC-$1.50 PLUS POSTAGE 
+
+Czech; English; Language Research; Linguistics; 
+♦Literature Reviews; *Negative Forms (Language); 
+Russian; Semantics; *Slavic Languages; Syntax 
+
+ABSTRACT 
+
+In discussing the views of leading linguistics on the 
+specific features of Slavic negation, the author reviews mainly Czech 
+material and compares it with Russian and English works. This paper 
+is part of a larger work on negation in which it is argued that a 
+language system is a dynamic system based on oppositions (with 
+predominant binary oppositions) where negation is latently present in 
+weighing distinctions and discerning essentials from unessentials 
+(i.e., in the lexical system, in denoting concepts) and before 
+uttering judgments (i.e., in syntax). The theories of the following 
+linguists are discussed in the present work: (1) van Ginneken, (2) ^ 
+Gebauer, (3) Travnicek, (U) Jespersen, (5) Mathesius, (6) Vachek, and 
+(7) Skalicka, Otto Jespersen*s "Negation in English and Other 
+Languages," which explains a fluctuation in the development of 
+negative expressions, is treated in some detail. The author gives 
+recommendations for needed research on the semantics of the lexical 
+system. The bibliography includes works consulted in the author^s 
+larger work but not cited here. (PH) 
+
+
+
+ERLC 
+
+
+
+\ 
+
+-45- 
+
+
+
+\j S 01 T VI St CP Ht 41. TM 
+
+I. OUC a T 'OS * At 4<« E 
+S A riL..S.^i SSI t1 L>Tt Of 
+
+
+
+SOME IMPORTANT STUDIES OF 
+NHGATION IN SLAVIC LANGUAGES 
+A SURVEY 
+
+
+
+by ^. Wfc,;^ Y 
+
+
+
+Irina A. Evreinov 
+
+
+
+0. Introduction , My purpose in this paper is to 
+draw attention to some hitherto unsolved problems of negation, 
+especially in the Slavic languages. I do not claim to 
+exhaust the theme. My aim is to present the most relevant 
+views in linguistic literature on the subject and to out- 
+^line the direction in which further research could be con- 
+ducted. 
+
+Present-day linguistics tries, on one hand, to 
+describe linguistic phenomena as exhaustively as possible, 
+and on the other hand, to embrace its subject as widely as 
+possible by considering the reflection of extra - 1 inguist ic 
+facts (e.g<, psychological, sociological) in language with 
+the ultimate aim of revealing universal features common to 
+all languages. 
+
+Negation is a linguistic phenomenon which requires 
+a double approach; meticulous description, on the one hand, 
+^^p* and a consideration of extra-linguistic reality as reflected 
+in natural languages, on the other. 
+
+Some linguistic phenomena intersect several 
+linguistic levels and cannot be described in isolation. One 
+of these is negation which> being first of all a philosophi- 
+cal category, is reflected in natural languages on the 
+lexico-s emant ic as well as on the syntactic level in a very 
+curious way. The formal means of its expression are different 
+even in related Indo-European languages. But what has 
+
+
+
+
+'46- 
+
+
+
+bothered linguists and philosophers alike is the fact that 
+
+lan^uajie seems sometimes to go against logic as, for example, 
+
+in the case of the double or cumulative negation in Slavic 
+languages. As Jespersen (1917) said: 
+
+When logicians insist that "two negatives make an 
+affirmative'* their rule is not corroborated by actual 
+usage in most languages. But it would be wrong to 
+divide languages into some that follow this rule and 
+others that do not, for on closer inspection we find 
+that in spite of great differences between languages 
+in this respect there are certain underlying principles 
+[my italics - I.E.) that hold good for all languages, 
+fp. 62] 
+
+I cannot in this brief paper outline the views of 
+philosophers and logicians on negation (although there has 
+been far more written by them on this topic than by lin- 
+guists) but, as nearly all linguistic studies on negation 
+were based on (or argued in terms of) logic, I shall have to 
+introduce the main notions. ^ 
+
+The main function of negation in formal logic is 
+SgBjIi^iSjigD of a certain content (A : Non-A) which is 
+valid only for propositions (judgments); the second function 
+^5 S9fii£8£itl^» setting up of a contrary notion (A : B) 
+
+which is valid for concepts.^ Contradiction excludes all 
+that is not A, (i.e., including B as well, without speci* 
+fying it). Contrariety (A : B) is a special case of contra- 
+diction where the negation is "polarized** at opposing poles. 
+Thus formal logic is based on the law of the excluded 
+middle. It does not allow for vague terms or borderline 
+cases which are inherent in language. (Modern logic attempts 
+to find new methods for analyzing systems with inherent 
+vagueness to build up a new concept of negation, cf, Russell, 
+1923; Black, 1949; KubiAski, I95fi, 1960; Tondl, 1966; 
+Neustupny > 1966. ) ^ 
+
+Most linguistic descriptions of negation are 
+based on these tw^o oppositions: contradictory, the so- 
+. called ''nexal" or "sentence" negation, and contrary, the so- 
+
+ERIC 
+
+
+
+*47- 
+
+
+
+called "special or ''partiar' i\e^atioii. (Cf. Gehauer, 1929; 
+Jcsperson, 1917, 1924; Travni^ck. 193?; PeUovsliij, 19S6; 
+Saxmatov, 19S2 e.a.) Incidentally, tlie notion of ^'noxal" 
+and ''special" negation has been one of the most discussed 
+problems in Slavic linguistics and is of paramount impor- 
+tance for the Russian language. And now, in modern struc- 
+tural linguistics", these problems are being taken up again. 
+
+At this point 1 would like to state ar premise. 
+To my mind, logic is not at fault for finding "illogicalities" 
+in language, nor is language to blame for not having a 
+"logical" formalized means of expression. The roots of this 
+misunderstanding are, fiist of all, methodological: an 
+extrapolation of scientific methods from one field to another, 
+alien field; secondly, linguistic: a certain asymmetry of 
+the language system ~ on one hand, the inherent redundancy 
+of language (variability of terms for one specific notion), 
+on the other hand, the inherent vagueness of language (lack 
+of one clearly defined unambiguous term for one specific 
+function). And that is, in fact what logic would need, 
+should it interpret language with its own methods. Hence 
+the understandable attempt of modern linguistics to find a 
+formalized metalanguage for analytic as well as synthetic 
+(or generative) purposes which, however, leads to oversimpli- 
+fication and neglect of semantic facts. 
+
+1. Toward a history of the problem . In discussing 
+the views of leading linguists (traditional and structural) 
+on the specific features of Slavic negation I shall review 
+mainly Czech material, because this problem has been discussed 
+at length in Czech linguistic literature, and I will compare 
+it with Russian and English works. 
+
+When we speak about "double" or "cumulative" 
+negation in'Slavic languages, we should define more precise- 
+ly what we have in mind. In all Indo- Huropcan (and also non- 
+Indo-European, cf. Bach. 1968, p. 98, f n . S) , the rule of 
+logic is valid, i.e., a double negation of the same term is 
+mutually destructive, e.g., not un common = common , njj^f^t 
+^un erf roul ich = er frcul ich » pas impossible = possible , 
+
+ERIC 
+
+
+
+i^^^n^ortails « m ortal is , etc. The same is true in Slavic 
+languages, e.g., ru? he 2] nteresnyj - int eresny j , ne bez- 
+vy z namn y « vy znamy , etc. Thus the Slavic negation does not 
+•^behave illogically" in these cases. The illogical behavior 
+is restricted only - and that should be stressed ~ to sen- 
+tences with quantifiers or, strictly speaking, indefinite 
+pronouns and adv^^rbs which, by a rule of "negation concord" 
+(term used by V, Mathesius, 1937, p. 81) must become negative 
+pronouns (or adverbs) in a sentence with negated verb- 
+predicate • 
+
+When we look at modern Indo-European languages we 
+can observe variations in the exj^ression of negation in 
+sentences with quantifiers: 
+
+Lat: N£I!10 scit ( aliquid ) 
+Germ.: Nicmand w ei3 ( etwas ) 
+Eng,: Nobody knows ( anyth i ng ) 
+Russ.: Nikto ne znaet ( ni^ego ) 
+Cz,: NikdQ nevi (nic) 
+Sb . : Niko nezna ( nlsta ) 
+Pol.: Nikt n^i^e vie ( nic ) 
+Fr. : Personne ne salt rien 
+
+This is a very simplified scheme which may, how- 
+evej', serve as a point of departure. The different ways of 
+expression either with one negative element (associated only 
+with the quantifier) or with two or more negatives (associated 
+with the quant if ier(s) as well as with the verb) has attract- 
+ed the attention of many linguists and given rise to differ- 
+ent explanations of this phenomenon. 
+
+1.1 van Ginn eken . J. van Ginneken (1907) tried 
+to explain cumulative negation in some languages as an 
+expression of a feeling of resistance. He maintains that 
+the logical or mathematical concept of negation, according 
+to which two negatives are mMtually destructive, has only 
+gained ground in a few centers of civilization and has never 
+^♦•**uck root in the popular mind: 
+
+ERIC 
+
+
+
+-49- 
+
+
+
+L'adhesion negative logiquc ou matliemat ique (dont 
+deux so cornpensent) est Icur signification figurce, 
+nee seulcment dans queJqucs centres dc civilisation 
+isol^s; jamais et nulle part elle n'a \)cn6tr(f dans le 
+domaine populairc. [p. 200] 
+
+So that, according to him, Latin, Hnglish, German use the 
+"logical" way of expressing negation and the Slavic languages 
+the expressive way. 
+
+1.2 Gebauer. J. Gebauer (1883, 1885) who, 
+incidentally, originated this discussion, set up his own 
+theory of '^qualitative*' and "quantitative" negation. In his 
+Historical Grammar (192?) he gives a functional and histori- 
+cal explanation of Old Czech and Slf.vic negation (in the 
+framework of Indo-European comparative linguistics)* 
+
+Old Czech and other Slavic Languages had two 
+negative particles ne and ru which differed in their 
+f unct ions : 
+
+1) ne (Skr. na. Old Russian ne, Lat. ne, Gr. ine 
+(ou) < I.E. *ne (diphthongized as nei , zero grade 
+
+2)). 
+
+which negated, according to Gebauer, the gyalit^ (not the 
+quantity!) either, a) of single words, e.g., ne?t 'astny 
+'unhappy', or, b) of verbal predicates, e.g., neprsi '[it's) 
+not raining'. The particle nc_ excludes, according to him, 
+a notion from a given quality "p" thus creating contradiction. 
+However, the same formal means (ne) might express a contrary 
+notion^ e.g., pritel - nepritel 'friend - enemy'. 
+
+2) nj, (Skr, lU, Old Russian ru, Lat. ni < I.E. 
+* nei ( < ne + deictic particle £)) , 
+
+which negated the gy§QiiJ]f> e.g., Old Czech nijeden (arch.) 
+'not one*, nikdo 'nobody', tUc 'nothing', etc. 
+
+These two negatives, continues Gebauer, do not 
+destroy each other because they belong to different , dis- 
+parate notions which do not overlap. Therefore, there is no 
+"illogicality'' in Slavic double and cumulative negation 
+(e.g., nikdo rue takov^ho nikd y ncrikal [nobody never said 
+
+
+
+nothing like this] 'nohody ever said anything like this'), 
+The author traces the historical development in 
+Old Csech. There existed three ways of negating sentences 
+with quantifiers; 
+
+Typo I: i kt 0 nevic 'somebody doesn't know' or 
+
+'nobody knows' - qualitative negation, negated 
+verb; 
+
+Type II: nikt o vie 'nobody knows' - quantitative 
+negation, negated quantifier in NP; 
+(incidentally, Type II is older than Type I), These two 
+types of negation are common in all Indo-European languages. 
+But the Slavic languages developed a third type: 
+
+Type III: nikto nevic 'nobody knows'. 
+According to Gebauer this was done to emphasize negation, 
+and it ousted Type I, which was ambiguous. He shows the 
+ambiguity in another example: vse neby lo at raceno could 
+actually mean 1) 'nothing was lost*; 2) 'not everything 
+was lost' meaning 'something was left'. {This example was 
+often taken up in later discussions*) 
+
+^•^ T'y^vnijfek . Another Czech linguist, Travnicek 
+(1955), continuing Gebauer's argument, agrees in principle 
+on the two main functions of negation, but considers the 
+terms "qualitative" and "quantitative" inadequate because 
+quantity and quality sometimes overlap (cf. Russell (1923, 
+p. 88) for a discussion of the terms red and bald in this 
+respect). Any sentence negation is qualitative, if it comes 
+to that, says Tr^vn/ifek, e/en if expressed by negative pro- 
+nouns with ru (i.e.. Old Czech Type II, nikto vie ) . 
+Therefore, Tr5vn{{?ek introduces the terms "sentence negation" 
+and "partial negation" limiting the latter to a C§OjJ§r^ 
+function only, as in p^i tel - nepr itel . Tr^vnii?ek considers 
+the need to eliminate the ambiguity of Gobauer's Type I the 
+main reason for the Slavic development. His explanation is 
+thus purely functional. It does not distinguish between 
+"partial negat ion," that is, negation of a constituent of a 
+sentence, from what I would call lexical negation by prefixa- 
+
+
+
+
+-51 - 
+
+
+
+2. Jespersen . The most exhaustive study of 
+negation in the light of comparative linguistics was made 
+by 0. Jespersen in his monograph Negation in English and 
+Other Lan^^uages (1917) and in Philoso phy of Grammar ( 1924), 
+It is interesting to note that, even though he applied 
+traditional methods, Jespersen came very close to the modern 
+theory of vagueness in his consideration of borderline 
+cases of linguistic units. In his view it is inconsistent 
+to apply the logician's distinction between contradictory 
+terms (e.g., white - not^ white, i.e., anything else but 
+white) and contrary terms (e.g., white - black ) to language. 
+He maintains that, 'language is not mathematics [1924, 
+p. 3511,^' and further that, "language has a logic of its own 
+and in this case its logic has something to recommend it 
+[1924» p. 332)." Therefore, according to him for language 
+as used in ordinary speech a JriB§rij|i8Q should be set up: 
+
+A. Positive 
+
+B. Questionable 
+
+C. Negative. 
+
+A and C are absolute; B implies uncertainty and in that 
+respect constitutes a counterpart for both A ggjj C. 
+Jespersen classifies the indefinite pronouns according to his 
+"tripartition-theory" and shows that by negating the A-class 
+we get the B-class, which is the same result we get by 
+negating the C-class: 
+
+Neg A « B: They are uQt ill of them fools means 
+*§85SIJ8^3^ is intelligent^' 
+
+Neg C = B: H j§ ggj gggd for a man to have Qg gods 
+means 'It jg good to have sggg gods*. 
+Jespersen applies his theory also to modals: 
+
+A. Necessity ( must ) 
+
+B. Possibility ( can , may ) 
+
+C. Impossibilitynf cannot ) 
+
+
+
+and shows that it works in the same way (e.g., not necessarily 
+
+
+
+-52- 
+
+
+
+means 'possible'; not impossible means 'possible'). 
+
+I would like to point out here that in the case 
+of mpdals language does not disagree with formal logic, 
+where a double negation of one modal symbol gives the affir- 
+mation of the other. Furthermore, modals overlap in their 
+semantic fields. In Russian, aspect can disambiguate negated 
+modals. For example. On mo^et ne pri j ti 'Perhaps he won't 
+come' and On mo?et ne pr ixodit^ 'He needn't come*, 
+whereas double negation neutralizes this distinction: 
+On ne mozet ne prlj tl (p rixodit ' ) 'He most certainly must 
+come' (with only the aspectual differentiation). 
+
+Jespersen's aim in Negation in English and Other 
+Languages (1917) is to reveal general, universal tendencies 
+in the development of negation in Indo-European languages 
+which lead to different results in each specific language. 
+By comparing several Indo-European languages he sees a 
+curious fluctuation in the development of negative expres- 
+sions : 
+
+1) The original negative became weak and insufficient, 
+
+then, 
+
+2) The negation was strengthened by some additional 
+word: either an original negative (as in Slavic 
+languages and in the older stages of the Germanic 
+languages) or a positive word which was reevaluated 
+as a negative by "attraction" (cf* M. Brial (1964, 
+p. 200) "contagion") as for example, in French: 
+
+pas (originally 'step') or in Czech z^dn;^ (original- 
+ly 'whosoever'), etc. 
+
+The interplay of these two main tendencies - weakening and 
+strengthening - led to similar, though in some respects 
+different development in Latin, French, English and other 
+languages. As a very essential factor for such a development 
+the author considers the incongruity between the gs];)SQ§} 
+k&fillifiSS and the ffijffili iOSigOifiSSOSS <>f negative 
+element (its phonetic bulk) which, he claims, was originally 
+
+
+
+'53- 
+
+
+
+emphasized in speech by mimicry and gestures. 
+
+Jespersen notes another tendency which we may 
+observe: v. 
+
+* 3) The negative signal is strengthened in another 
+
+place in the sentence. 
+
+Jespersen demonstrates the stages of the develop- 
+ment with examples taken from several Indo-European languages. 
+
+Latin 
+
+Type (1) ne dico 
+
+This persists only in a few verbs, e.g., nescio , nolo , 
+etc. and amalgamated expressions, e.g., nemo . Soon, 
+however, it is strengthened by a positive word which 
+amalgamates with the negative: 
+
+Type (2) nan dico [ ne ♦ umm ( oenum ) ) . 
+
+In Old Fre nch the process started in Latin continues: 
+
+Type (3) jeo ne di (weakening) 
+
+This survives in modern French only in a few expressions: 
+je ne sai^s, je ne peux , etc., but is again felt to 
+be too weak anJ is strengthened by positive expressive 
+words which are ''attracted" by the negatives and fgli 
+^ §5 BiS§U¥§i» e-g'. nas 'step', point, etc. TRus^ 
+we get: > 
+
+Type (4) ne d^ pas 
+
+which in colloquial modern French drops the original 
+negat ive : 
+
+Type (S) 2^ dis pas (coll.). 
+
+The Engl ish development was along similar lines: 
+
+Type (1) OE ic n£ secge 
+
+weakened and then strengthened by noht , nawiht » 
+(originally ^nothing'), etc. 
+
+Type (2) ME (ne) seye not 
+
+Type (3) say not 
+
+until the Elizabethans began to use the auxiliary do 
+first in all kinds of sentences, then to restrict it to 
+cases where strengthening was needed, i.e., questions, 
+S£g§$i2Di emphasized affirmative statements. Thus 
+we get : 
+
+Type (4) Mn E ][ d^ no_t say 
+
+O 
+
+ERIC 
+
+
+
+■S4- 
+
+
+
+which again tends to be weakened to: 
+Type (5) I donU say 
+
+This last type is evidence of another tendency, counter- 
+acting the signalling tendency: the attraction of the 
+negative element to the verb, which results from the pre- 
+ference for nexally negated sentences instead of possible, 
+but not so often used, partial negation. Jespersen refers 
+here to English and the Western languages. In Czech this 
+tendency is strong, but in Russian it was never developed. 
+This tendency works at the expense of unambiguity and leads 
+often to misinterpretation^ especially in sentences with 
+quantifiers, e.g., many of us^ d j^d n ' t w a n t tb^ war might 
+mean either a) 'there were many of us who ^id Dg| y§Di the 
+was' (negated predicate - "nexal'* negation), or, b) * there 
+were uoj ffiiO^ (few) of us who wanted the war' (negated noun 
+phrase by a "special*^ negation).*^ Ambiguity in speech is 
+eliminated by stress and/or pitch on the negated term. My 
+comment here is that in Russian it would be eliminated by 
+a placement rule of the negative element. 
+
+'^Special negation", states Jespersen, shows a 
+tendency to amalgamate with the positive word and is mostly 
+expressed by prefixes (native: un- or borrowed: in"/im- , 
+a-). It might, though, be expressed by not which leads 
+to ambiguity even in English copular sentences: she is not 
+happy which may mean either a) negative sentence, or, 
+b) i^ unhappy , affirmative sentence. 
+
+Slavic negation developed along another line 
+toward cumulative negation. We have seen that this way of 
+expression was not uncommon in OR and ME. It is still 
+productive in Modern English in substandard speech (e.g., 
+i ^ t do nothing ) . It might be even a universal phenomenon, 
+as we may observe it in non - Indo -European languages as well 
+(e.g., Hungarian, Bantu languages, etc*)' 
+
+As to its explanation, Jespersen disagrees both 
+with van Ginneken^s theory of ^'primitivity*^ (which seems 
+Q lim an explanation springing from a grammarian^s mind) 
+
+ERJC 
+
+
+
+-55- 
+
+
+
+and with Gebauer's theory of '*qual itat ive" and "quantitative'* 
+negation (which seems to him to be based on a misinterpre- 
+tation of Kant's table of categories). He sets up his own 
+"pet theory", as he calls it: 
+
+two or three (negatives] in the same sentence 
+cannot be termed illogical; they are simply a re^yn- 
+dagjy [emphasis mine - I.E.] that may be superfluous 
+From the stylistic point of view, just as any repeti- 
+tion in a positive sentence (every and any, always 
+^"d on aU occasions , etc.)i Put is"'5Therwise unobjec- ' 
+TTonaFle. [Jespersen, 1917, p. 71) 
+
+I would like to make a point here. Although I 
+agree in general with a certain expressiveness of negation 
+on the level of speech (as a marked member against the 
+unmarked affirmative), I cannot agree with the comparison 
+of cumulative Slavic negation with a stylistically marked 
+emphatic construction like every and any . Cumulative 
+Slavic negation is a grammatical device which leaves no 
+choice, hence cannot be considered a stylistic factor. 
+
+3. Prague School . The discussion of Slavic 
+negation was taken up again by members of the Prague School. 
+
+3,1 Mathesius . V. Mathesius' theory (1937) 
+has much in common with Jespersen 's concept of "redundancy", 
+although his idea is based on a very broad concept of 
+grammatical concord, According to Mathesius, grammatical 
+concord is a syntactic phenomenon by which one part of 
+speech points to another part of speech in the same sentence 
+to which it belongs syntactically by a formal sign which 
+it does not need for its own denomination [p. 81], 
+
+Note that Mathesius' concept approaches Ch. 
+Bally's (1932) notion of "pl^onasme grammatical": 
+
+On le voit: L'accord souligne par la concordance 
+des formes est le cas peut-@tre le plus frequent du 
+pl6onasme grammatical; c'est un puissant facteur 
+de synthase. .. tout se tient [p, 124]. 
+
+ERjC 
+
+
+
+.56- 
+
+
+
+This broad interpretation enables Mathesius to consider the 
+specific Slavic way of negating all quantifiers (by nji) 
+in nej^ative sentences as a ^'negation concord'^ In which one 
+need not, as he points out, seek further semantic or stylis- 
+tic explanation. Mc sees the problem as a historical one: 
+to explain the desemant icizat ion of the negative particle 
+ni to a purely formal sign.^ 
+
+3. 2 Vach ek. Another representat ive of the 
+Prague School > J. Vachek, further developed Mathcsius' 
+concept and applied his methodology (contrastive analysis) 
+in two studies on negation. 
+
+In his contrastive study on Czech and English 
+negation (1947) Vachek compares the different means of 
+expressing general negation in sentences with quantifiers 
+taking into account the semantics of the pronouns in both 
+languages. He compares the function and development of the 
+English any ■ type pronouns with the Czech ni^^type pronouns. 
+The author believes that there Is a semantic need to have 
+some kind of ptonoun which can negate any possible singular- 
+ity, i.e., which serves as an "exclusive*' type of negation. 
+This is one of the main reasons for cumulative negation 
+with ni. In Slavic (Czech) this function was taken over 
+by the negative pronouns', in English by the any - type. 
+
+Vachek' s other paper (1940) is devoted to a 
+typical Czech problem. The author takes up Gebauer's 
+example: negation of Type J: Vse nebylo ztraceno meaning 
+•nothing was lost' or 'not everything was lost something 
+was left*, and points out that in spite of its ambiguity 
+this type is still productive in modern colloquial Czech, 
+By a meticulous analysis of the intonation pattern in such 
+sentences the author shows that in this case the intonation 
+(pitch) becomes a functional means of distinguishing 
+generally and partially negated sentences; 
+
+Vsude to neklape means Nikde to neklape 
+
+* It doesn't work anywhere' (general negation, negative 
+ch sentence) ; 
+
+
+
+Vsude to n eklape means !^ck de to klape 
+
+[somewhere it works] Mt works somewhere' (exclusive 
+negation^ partially negated sentence). 
+
+My point here is that Russian would prefer to 
+express the second meaning by 
+
+!l£ ILiii^ £i£ ^ ojstvuet (not everywhere this works] 
+
+'It works somewhere' 
+not Vs judu etc ne dejs tvuet {everywhere this does not work) 
+
+This latter example is possible in a certain context and 
+with a certain intonation line, e.g., 
+
+^ y^^' vsjudu -to// eto ne dej stvuet 
+'It works somewhere' 
+
+^•^ Skalicfka . Another representative of the 
+Prague School, V. SkaliJfka, tried to solve the problem of 
+"special^' and ''nexal* negation in the light of general 
+linguistics and typology in his study "Bemerkungen zur 
+Negation' (1949). He analyzed the functioning of negation 
+on different levels of the language system. 
+
+The author observes that on the lexico-semant ic 
+level the main characteristic of the negative morphemes is 
+their Bgigo|4§J relationship to other morphemes. Ideally 
+speaking, they have the 'Vidcst relat ion- field" . In ggtual 
+iiB£y§g§» however, the meaning of the negated word shows a 
+tendency to be "polarized'^ to the opposite meaning thus 
+making a step towards the positive antonym, e.g., high - 
+not high is polarized at low , etc, (cf. the A : Non-A 
+and A : B functions mentioned at the beginning). 
+
+The point I would like to make here is: 1) There 
+has been up to now very little research conducted on the 
+role of negation in the lexical system;^ 2) Examples given 
+of the '/polarizing" tendency of negation in natural languages 
+
+
+
+- with which I agree in general - are mostly chosen from a 
+special class ot words dcnotuu^, a svthjoctlve cvalurtion of 
+certain qualities (so-called "empirical predicates", such 
+
+gQQ'l * hajd , etc.). Would it he as easy to discover 
+the ''polarizing tendency of negated adverbs, e.g., today 
+
+- not today ? Would it be "polarized" in tomorrow , yes ter - 
+ililV lii ^ time , x time ago ? Would it be as easy to 
+"polarize" the nega'tion of a verb, e.g., to t h in k - not to 
+Uunk into its opposite pole and would it be: b^ idle 
+
+stupid or labor (physically)? Would the opposition 
+
+not remain a contradictory one? These considerations show, 
+
+to my mind, that there is a need for more research on the 
+
+semantics of the lexical system, as Rcvzin (1967) points 
+7 
+
+out. 
+
+On the syntactic level, Skali^ka continues, 
+negation is attracted, as a rule, by the verb. A negative 
+sentence thus stands in contradictory opposition to its 
+positive counterpart. (This does not hold true, however, 
+for the Russian Language.) But Skalicka points out that a 
+negative sentence need not be based on a negat ive judgment 
+and vice versa, e.g., rt i^ m^ossible is an affirmative 
+sentence based on a negative judgment. In this case, he 
+explains, the SybslJiiys of the affirmative sentence is 
+negative. 
+
+In this way Skalicka tries to solve the old 
+problem of the two functions of negation as they are reflected 
+in natural languages. Some languages, he says, can express 
+a contradictory opposition in a contrary form, e.g., English 
+nobody kno ws - everybody knows , German niemand we i 3 - 
+J edermann we i 3 ^ where other languages such as Slavic use 
+a kind of "negation concord", e.g., Russian n i k t q ne znaet , 
+which expresses the contradictory opposition. Therefore, 
+according to SkaliSka, the solution of the problem of 
+sentences with quantifiers presumes a very detailed study of 
+the pronominal system, its development and its differentia- 
+tion in each particular language. Most languages have 
+O 
+
+
+
+
+-59- 
+
+
+
+developcd contrary terms in pronomina (e.g., a1 1 - nothing , 
+^^los nijchjU; tout - £icn, etc.)> but sometimes tiie 
+oppositions are asiimoctric. 
+
+Skaliifka maintains that wo cannot consider 
+negation on the level of speech. Utterance, as a reaction 
+upon a stimtilus, is always positive, even if clad in the 
+form of a negative sentence. And, as the rolo of negation 
+in the lan^iiage systt^m is given by its role in speech, he 
+concludes that the whole language system is positive. 
+
+My point here is that Skali^^ka bases his concep- 
+tion on a psychological approach to speech. Certainly, a 
+^•philosophical nihilism", as he calls it, would be out of 
+place. To my mind , however , what is positive in negative 
+utterances is the iQjea$ to utter them and not the utterance 
+(formulated as a negative sentence) itself. 
+
+4. Conclusion . This paper is part of a larger 
+work on negation (Evreinov, 1973) in which I argue that a 
+language system is a dynamic system based on oppositions 
+(with predominant binary oppositions) where negation is 
+latently present in weighing distinctions and discerning 
+essentials from unessentials (i.e., in the lexical system, 
+in denoting concepts) and before uttering judgments (i.e., 
+in syntax, in producing sentences). 1 have outlined here the 
+most important published views on negation in the Slavic 
+languages. The notions of contrariety and contradiction can 
+be related to the Prague School notions of equipollent and 
+privative oppositions (contrariety) and the marked-unmarked 
+binary oppositions, but a full discussion would lead me \oo 
+far beyond the scope of this brief survey. The biblio- 
+graphy includes some important works consulted in my larger 
+work but not cited here. 
+
+Not e s 
+
+1. I use the terms common in logic in accordance 
+with McCall (1952) . 
+
+2. Neils tupny (1966), a Czech linguist, bases 
+his theory of linguistic vagueness on KubiAski's concepts. 
+
+
+
+-60- 
+
+
+
+In (19S8) arul, especially, (I960) KuhiAski introcJaced new 
+functors for negation and for exprcsslnc; the distance of 
+a linguistic unit from its center. 
+
+5. I am referring to Klima (1964]; Bach (\96S, 
+pp. 95-08) discusses the problem of the placement of the 
+negative element; Cliomsky ( 1972, p. 207) in discussing 
+Jackendoff touches upon the problem of the position of the 
+negative element for correct semantic interpretation* 
+
+4. Cf. Chomsky (1972) and his example on p. 207 
+1151 Eillit the t a r g e t , etc. 
+
+V Two leading Russian linguists, Potebnja (1958) 
+
+and Saxmatov (1952) tried to explain concessive clauses 
+^^^^ Di same manner. 
+
+6. To mention here, however, N^mec (1969). 
+
+7. Chafe (1970) tries to focus attention on 
+neglected matters of meaning and to reveal the seinantics 
+already present in the deep structure. 
+
+
+
+Bibliography 
+
+Bach, E. '*Nouns and Noun Phrases.'' In Bach, E* and Harms, 
+R. (Eds.) U niversals in Linguistic Theory . 
+New York; llolt, Rinehart 6 Winston, 1968.^ 
+
+Bally, C. Linguistique g^ndrale et linguistique frangaise . 
+' Paris, 1932» 
+
+Black, M. Language and Philosophy. Studies in Method. 
+
+"Ithaca, N.Y.: Cornell University Press, 19'49. 
+de Bray, R. G. Guide to the Slavonic La ng uages , London, 1951. 
+Br^al, M» Semantics . Studies ifT^the Science of Meaning . 
+
+"Cust, M. (Trans.) , Whatmough, J, (Ed.)» 19&4 . 
+Bulaxovskij, L. A. Istori^eskij komntentari j k russkomu 
+
+llteraturnomu jazyku . StTPed., Kiev. 19SS. 
+Buslaev> F . I . I storigeskai a gramma tika russkogo j azyka . 
+
+(original publication, 1881) 5th ea., Moscow, 
+1958. 
+
+Chafe, W, L. Meaning and the Structure of Language . Chicago: 
+
+y University of Chicago Press, 1970. 
+
+Cerny^ev, V, I, "Otricanie 'ne' v russkom jazyke." Appendix 
+to 1st ed* of Vol* VII Slovar* Russkogo Jazylca , 
+Akademija Nauk SSSR, Leningrad, 1927. 
+
+Chomsky, ''Deep Structure, Surface Structure and Semantic 
+Interpretation. " In Studies on Semantics in 
+Generative Gr ammar, the Hague: Moaton, 
+1972.^ ~ — — 
+
+Evreinov, I. Negation in the Russian Language Syste m. Ph.D. 
+
+Thesis. University of Toronto, 1973. (A'revised 
+version being considered for publication). 
+
+Gcbauer, J. [(istorick^ mluvnice jazyka ^eskdho ,lV> pp. 638-673 
+
+O TFAvnirek, F. (Ed.) . Prague, 1929. 
+
+
+
+'61- 
+
+
+
+Gcbauer, J. "0 ncgaci, zvlast' starod^cske/' Listy filolo- 
+gickc, 1885, X, 240. " 
+
+„» "Dbcr Uic Mcgation,^ besonders im Al t-B6hmischcn. 
+
+r.in Beitrag zur I/dsung dcs Ncga t i onsproblcms , *^ 
+Ar chiv Filr Slavis chc Philologie^, 188S, VIII, 175. 
+
+van Ginnoken, J. Princtpes cTe^TTrvgiusTIque psychologique. 
+
+Paris, nr^RTTT ^ ^ — 
+
+— ^ » t ^ jazyka, Vol, II, Akademija 
+
+G rammat ika sovrcmennogo y^^sskogo 1 itoraturn ogo 
+
+
+
+. Jazyka: Akademija Nauk SSSR^Ioskva, l970T 
+
+Jesporscn, 0. Negation in gngli sh and Oth er Languages. 
+
+Copenhagen, 1917 . " ^ ^ — — 
+
+, . Philosophy of Grammar . Copenhagen, 1924. 
+
+^^^^^t a. '^Negation in trngTTsh." In Fodor, J. A. and Katz 
+
+
+
+^•^•^(Eds.) The Structure of language . Hnglewood 
+, Cliffs, N.J.: i^renticc-Hall, 1964. 
+KriSkova, H. "Ke vztahu tzv. zdporu v6tn6ho a 2lensk<5ho v« 
+slovanskych o^^zycich." Ccskoslovensk^^ pfedndgky 
+pro VI . mezinarodni sjezd slavis tu v Praze. 
+
+Prague, i^WT ^ ^' 
+
+KubiAski, T. "Nazwy uieostre/^ Studia Logica, 19S8. 17* 
+
+llS-179. ~ 
+
+> "An Attempt to Bring Logic Nearer to Colloquial 
+^ Language.'* S tudia Logica . 1960 , 10, 61- 75. 
+
+Mathesius, V. '^Double Negation and GrammaticaT Concord.'' 
+
+Melanges van Ginneken . Paris, 1957. 
+McCall, R. J. Basic "Logic . New'^ork. 1952. 
+Nomec, I. ^'0 lexixdlnlm ziporu v ^estin^. " Slovo a sloves- 
+
+, "ost , 1969 , XXX, 337-346. " " 
+
+NeQstupny, J. "On the Analysis of Linguistic Vagueness.'' 
+^ V, . . Traveaux lineuistiques de Pragu e. 1966, 2, 31-51 . 
+Pe5kovskij> A. M. Russkij sintaks is v~nau?hom osveg ^fenii. 
+
+Moscow, 1956. ' ~ 
+
+Potebnja, A. A, Iz zapisok po ru sskoj grammatike , I-II 
+(originally published, 1888]! Re-edited by 
+Borkovkij, V. I. Moscow, 1958. 
+Revzin, I. Metod model irovaui ja i tipologija slavjanskix 
+
+lazykov, 1967. ' 
+
+Russell, B.^'On Vagueness/* The Australian Journal of 
+V Psychology and PhiTosG phy. 1923, 1. 8i-^>.7 
+
+Saxmatov, A". A. Ij_trudov A. A. Saxma tova po sovrcmennomy 
+r usskomu jazyku , I, Sintaks is russkogo iazyka. 
+
+Rbscow, 1952, " ~ — 
+
+Skali^ka, V. "Bemerkungen zur Negation." Sbornik Matice 
+
+Slovenskej , 1940 , XVIII, 8-12. ~^ 
+
+Tondl, L* Problfay sgmantiky , Prague: Academia, 1966. 
+Tr5vnfc5k, F/'Ziporky ve spisovne Ce^tin?." NaSe re?, 1935, 
+
+XIX, 315. 
+
+Vachek, J. "Poru^ovini z^porovf? shody v ceskych z^porn^'ch 
+vetilch obecnd platnosti/' Casopis pro moderni 
+
+fllologii , 1940, XXVI (1), "47-52. ' 
+
+, '^Obecnj^'zd^por v anglii^tin^ a ^e^tin^.^' Pr^ce z 
+y gdeckych listavu LJ . Prispcvky k di} inSm "fegr a 
+literatury anglicHT Prague, 1947 . 
+
+
+
+-62- 
+
+
+
+Vinoj^radov, V.,' V> Rus^ski J j^^^'k > Moscow and [.oniiigrad, 1947 . 
+
+
+
+Irina A, Evreinov 
+
+Russian School faculty since 1970. Prom. Phil, 
+Institute of Russian Language and Literature, Charles Univer- 
+sity, Prague, 1956. Engaged for fifteen years in research on 
+Russian language at the Czechoslovak Academy of Sciences. 
+At the University of Toronto since 1969; Ph. D. in Slavic* 
+1973. 
+
+
+
+KORKING PAPERS of the Russian School, No. I, April, 1973. 
+
+
+
+
+
+An T nves 1 1 g at i on of Re sTTl c t c j' Prod uc^t i v yty . 
+Mo nog fa pTTUo ' . 5 , T?'5T,~T0, J. 
+
+
+
+

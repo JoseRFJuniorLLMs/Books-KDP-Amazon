@@ -1,0 +1,7545 @@
+First published 1984/5 
+@ Sporr zn rhe USSR Magazlne 1984/5 
+First Batsford Edltion 1986 
+ISBN 0 71 34 55268 (limp) 
+Set by TUI Ltd 
+and pr~nted In Great Bntam by 
+Brllings Ltd, Worcester, 
+for the publishers 
+B.T.Batsford Ltd, 4 F~tzhard~nge 
+St-, 
+London W 1 H OAH 
+A BATSFORD CHESS BOOK 
+Advtser: R.D. Keene OBE 
+Technical Edtroc P.A. Lamford
+
+Contents 
+Foreword 
+Lesson 1 : 
+Lesson 2: 
+Lesson 3: 
+Lesson 4: 
+Lesson 5: 
+Lesson 6: 
+Lesson 7: 
+Lesson 8: 
+Lesson 9: 
+Lesson 10: 
+Lesson 1 1 : 
+Lesson 12: 
+Lesson 13: 
+Lesson 14: 
+Lesson 15: 
+Lesson 16: 
+Lesson 17: 
+Lesson 18: 
+Lesson 19: 
+Lesson 20: 
+Lesson 2 1 : 
+Lesson 22: 
+Lesson 23: 
+Lesson 24: 
+Index 
+Why Study Chess? 
+Ideas and Techniques 
+Material Balance 
+The Importance of the 
+How to Gain Space 
+Pawn Structures 
+Dynamism and Initiative 
+Avo~d~ng 
+Disaster in the Openiw 
+Neglecting Opening Princ~ples 
+The Atm of the Opening 
+Choice of Open~ng 
+The Art of Planning 
+Forclng Continuat~ons 
+Queen Sacrifices 
+Tact~cal Devices 
+The Endgame 
+Methods of Attack 
+Attack or Defence? 
+Counterat tack 
+The Opposition 
+Attack In the Endgame 
+Fortresses on the Chessboard 
+The Beauty of Chess 
+Don't Begrudge the Time
+
+Foreword 
+Over the last two years Sport in the USSR magazine published a 
+series of 24 lessons introducing chess fans, in simple language, to 
+openings, the most common middle and end games, and other 
+typical situations at all stages of the game. 
+This series of articles forms a 'chess school', taught by Gary 
+Kasparov. B.T.Batsford Ltd. are proud to reproduce these 
+lessons in book form. 
+Gary Kasparov is World Champion. He was born on April 13, 
+1963 in Baku. He won the world junior championship in 1980. As 
+a member of the USSR team he shared the gold medals at the 
+1980 and 1982 World Olympiads and the 1980 and 1983 
+European championships. Gary Kasparov, as the officially 
+qualified challenger, has played two matches for the world 
+championship with the 1975-85 title holder, Anatoly Karpov; the 
+first was aborted after a record 48 games when Gary though 
+trailing 5-3 had the initiative; the second in 1985 - one of the 
+great encounters in world championship history - 
+he won 5-3 
+with 16 draws. He was awarded an Oscar as the world's best chess 
+player for 1982, 1983 and 1985. 
+Gary Kasparov delves into the tactics and strategy in the 
+openings, middle and end game. He gives examples from games 
+of the world's outstanding grandmasters illustrating endings, 
+planning, combinations, and many other aspects of the game. We 
+hope that the recommendations of the famous grandmaster will 
+expand the outlook of chess enthusiasts and improve their 
+understanding. 
+R. G. Wade 
+London, 1986
+
+Lesson 1: Why Study 
+The proposal by Sporr in the 
+USSR magazine to conduct a 
+series of correspondence study 
+sessions for their readers came 
+as a surprise to me because I 
+am still studying the subtleties 
+of chess myself. 
+After some consideration I 
+decided that to write about my 
+understanding and interpret- 
+ation of chess basics would 
+also be useful for me. 
+I love chess. I have been in 
+love with the game for many 
+years and this love is for life. I 
+study chess all the time and 
+very thoroughly; nevertheless, 
+while analysing what I have 
+done and in planning for the 
+future I cannot help but be 
+amazed at the inexhaustibility 
+of chess and I am becoming 
+even more convinced about its 
+unpredictability. Judge for 
+yourself; millions of games 
+have been played, thousands 
+of books have been written on 
+various aspects of the game, 
+yet there is no chess formula or 
+method which can guarantee 
+victory, there are no math- 
+ematically justified criteria for 
+evaluating even a single move, 
+let alone a position. Chess 
+experts do not doubt that in 
+most situations there is more 
+than one strong continuation 
+and everyone chooses his own 
+'strongest' move guided by his 
+own experience, evaluation 
+abilities, even his own 
+character. The possibility of 
+using computers as consult- 
+ants does not seem very 
+serious at present since no 
+algorithm of the game of chess 
+has been found and there is no 
+program which can deal 
+reliably with complications. 
+Why talk about details, 
+situations and stages of the 
+game at a time when there is 
+no answer to the question 
+'What is the game of chess? Is 
+it a sport? Or is it a science? Or 
+an art?' 
+Some say: 'Chess players 
+participate in tournaments 
+and matches, they fight to win, 
+the result is important for
+
+2 Why Study Chess? 
+them - 
+this means that chess 
+is sport. It develops will power 
+and helps strengthen oneself.' 
+How can one convince 
+others of the correctness of the 
+opinion of those who are 
+amazed at the beauty of 
+combinations and the logic of 
+chess tactics; for whom a smart 
+sacrifice of the queen in a lost 
+game is a source of pleasure 
+while a dull, forced game 
+leaves them indifferent. For 
+them chess is an art that brings 
+happiness and makes leisure 
+meaningful. 
+At the same time there are 
+many chess enthusiasts who 
+can spend night after night 
+trying to solve one problem: 
+'Why did Black move the rook 
+to d8 instead of the knight to 
+c6? Why is Black's position 
+better?' For them chess is 
+mainly a science of logical 
+thinking. 
+I love chess even more for its 
+versatility and manysidedness. ' 
+I t  was the beauty and 
+brilliance of tactical blows 
+that captivated me in early 
+childhood. First, it was the 
+admiration of this brilliance, 
+then the search for it in my 
+own games, later it was an 
+attempt to play a beautiful 
+game - 
+these were the stages 
+of my growth as a captive of 
+the art of chess. But the time 
+1 
+came when I began to compete 
+with others, to take part in 
+tournament after tournament, 
+and this meant that I had set 
+out on the path of sporting 
+chess. I still enjoy playing 
+beautiful games but I am not 
+indifferent to whether I beat 
+my opponents or end up way 
+down in the standings. 
+I want to win, I want to beat 
+everyone, but I want to do it in 
+style, in an honest sporting 
+battle. The former world 
+champion Mikhail Botvinnik, 
+whom I consider my chess 
+teacher, is a chess academic, 
+whose work helped to make 
+chess a scientific subject. He 
+developed my love for chess 
+research and for solving 
+innumerable problems. In my 
+preparations for competitions, 
+during my game analysis and 
+analysis of openings, I 
+\ 
+suddenly discovered that I was 
+trying to study thoroughly and 
+methodically with a persist- 
+ence which is typical of a 
+i 
+researcher. I am convinced 
+today that my affection for all 
+aspects of chess will help 
+preserve my love for it for the 
+1
+
+rest of my life. 
+My parents taught me the 
+moves of the pieces when I was 
+only five, and 1 was fascinated 
+by them. One year later I was 
+taken to a chess group at the 
+Young Pioneer Club in Baku 
+where I thought I found 
+myself in a hngdom of chess 
+players. Our instructor in his 
+desire to convince the novices 
+of the paradoxical character of 
+chess set the following 
+position on the board at one of 
+the first sessions. 
+This position, where the small 
+pawns were victorious over 
+the enemy, was so surprising 
+that it seemed like a fairy tale 
+and I was unable to live 
+without chess after seeing it. I 
+have admired this position 
+Why Study Chess 3 
+ever since. 
+I have loved to attack since 
+childhood. I still like to be on 
+the offensive. But it took a lot 
+of time to study the basics, 
+which do not seem to have any 
+direct bearing on the game 
+itself. I am convinced that it is 
+necessary for both a grand- 
+master and an amateur who 
+wants to improve his game. 
+and get some pleasure from his 
+play in tournaments. To 
+achieve this high standard of 
+play the grandmaster has 
+spent thousands of hours 
+studying hundreds of games. 
+His talent would not have 
+developed without this 
+amount of work. If you like to 
+play chess but do not have 
+enough time for an independ- 
+ent study of it, but want to 
+beat your friends, you will 
+have to spend dozens of hours 
+over the chessboard. 
+In this series of articles I 
+i n t e n d  t o  explain m y  
+understanding of the basics of 
+chess in a language clear to 
+everybody, and to talk about 
+subtleties which are necessary 
+for true chess enthusiasts.
+
+Lesson 2: Ideas and Techniques 
+Before discussing the basics of 
+the game of chess I would like 
+to show you an episode from a 
+recent game and give my 
+comments which are prepared 
+specifically for average chess 
+players. I hope that after 
+reading my analysis you will 
+see for yourself that anyone 
+who wants to make his moves 
+meaningful and beautiful 
+needs a lot of chess know- 
+ledge. 
+G.Kasparov-F,Cheorghiu 
+Moscow 1982 
+1 
+d4 
+Experienced chess players 
+know that this move, just like 
+the move by the king's pawn to 
+e4, is the most logical and 
+straightforward, or to put it 
+simply, the best in the 
+opening. Every one of you 
+may come to the same 
+conclusion after studying for 
+two or three hours the basic 
+principles guiding the first 
+stages of the game which are to 
+bring one's pieces into action 
+as soon as possible and to gain 
+control over the centre of the 
+board. 
+1 ... 
+a 
+f6 
+This is one of the best moves 
+by Black. Black brings a piece 
+into action and prevents the 
+opponent from bringing his 
+e-pawn to the centre to con- 
+solidate his domination 
+there. 
+2 
+c4 
+Now White impedes the free 
+progress of the d-pawn to d5, 
+as in this case after 3 cd Black 
+will have to choose between 3 
+... Wxd5 4 Qc3, when White 
+brings the knight into play 
+while Black has to make a 
+second move with the queen, 
+thus slowing down the process 
+of bringing his pieces into 
+action, or lagging behind in 
+development, as it is cust- 
+omarily catled. lf Black takes 
+the pawn with the knight by 3 
+... Bxd5, this would allow 
+White to play 4 e4 with a 
+strong pair of pawns in the
+
+Ideas and Techniques 5 
+centre which controls all 
+important positions in Black's 
+camp, the squares c5, d5, e5 
+i 
+and f5. 
+I 
+Let us go back to the first 
+lines of our analysis of the 
+move 2 c4, where we say that 
+'White impedes .. .'. This is the 
+beginning of a conscious 
+conflict in a chess game. Ideas 
+have clashed, the battle has 
+begun. The greater the 
+player's abilities and know- 
+ledge the better he is equipped 
+to spot the appearance of such 
+micro-conflicts of which there 
+are multitudes in each game, 
+and the better are his judge- 
+ment of consequences and 
+future decisions. 
+2 ... 
+e6 
+Black opens up a path for 
+the bishop, and, as if trying to 
+make up for lost time, gets 
+ready to move his d-pawn to 
+d5. 
+3 af3 
+White has a good choice of 
+strong continuations, includ- 
+ing 3 Qc3 and even 3 Ag5 or 3 
+Af4. It is of primary import- 
+ance to adhere to the principle 
+of rapid development of one's 
+pieces and to implement it in 
+practice during the opening 
+stage. 
+3 
+.+ 
+b6 
+Black is concerned about 
+the bishop on c8, and prepares 
+to bring it to the main combat 
+position b7 o r  to the 
+alternative one on a6. 
+4 
+a3 
+In order to make this seem- 
+ingly passive move one needs a 
+deep understanding of 
+preventive measures in the 
+g a m e  of chess. T h i s  
+unobtrusive move by the white 
+pawn bars the black bishop 
+from an active position on b4 
+and at the same time prepares 
+to move the white knight to c3 
+where it may have a vital role 
+to play in the struggle for the 
+centre. 
+4 . 
+Ab7 
+5 
+Qc3 
+Both sides are trying to 
+introduce their pieces into the 
+game so as to consolidate their 
+grip on the further struggle in 
+the centre of the board. 
+5 ... 
+d5 
+Black radically strengthens 
+his position in the centre. The 
+move ... d5, however, has its 
+disadvantages, as it blocks the 
+diagonal for the b7-bishop. 
+6 
+cd 
+Qxd5 
+After 6 ... ed the b7-bishop 
+would have been obstructed
+
+6 Ideas and Techniques 
+by its own pawn and risked 
+remaining immobilised for 
+some time. Although this 
+feature of Black's position 
+alone cannot pre-determine 
+White's success, a consistent 
+accumulation of such minor 
+a d v a n t a g e s  allows an 
+experienced grandmaster to 
+turn the tide in his favour. 
+7 
+Wc2 
+Another micro-conflict on 
+the chess stage develops 
+around the move e4, which 
+would allow White to occupy 
+the centre. In choosing his 
+move White takes into 
+account the fact that after 7 
+e4? Qxc3 8 bc Axe4 Black has 
+an extra Pawn. 
+7 ... 
+c5 
+Black could have destroyed 
+White's plan by 7 ... f5 but at 
+great cost. He would be left 
+with a weak backward e6- 
+pawn. 
+8 
+e4 
+Q x d  
+9 
+bc 
+This is a new gain by White. 
+He has achieved a strong pawn 
+centre and is engaged in 
+combat for domination over 
+the fifth rank, i.e., over 
+'enemy' 
+territory. Chess 
+players call this a 'space 
+advantage'. 
+9 ... 
+Be7 
+10 lb5-t Ac6 
+11 Ad3 
+In chess a straight line is not 
+always the shortest distance 
+between two points. By 
+moving the Bishop to d3 in 
+two moves White has gained 
+more advantages than he 
+would have by doing it in one 
+move. Black was prevented 
+from replying with the most 
+natural move against the 
+check, because after, 10 &bS+ 
+Qc6 11 Qe5 Pc8 12 %a4 Wc7 
+13 Wxa7 Ea8? 14 Axc6+ 
+White wins. Black's bishop is 
+unfortunately placed on c6, 
+getting in the way of its own 
+pieces. In such cases chess 
+players refer to bad piece 
+location and poor co- 
+ordination of forces. 
+11 ... 
+Qbd7 
+The bishop occupying c6 has
+
+ldeas und Techniques 7 
+forced the knight to take a 
+passive position instead of the 
+active one on c6 where it 
+would have attacked the 
+White centre. It could be that 
+Black did not want to give the 
+opponent the advantage of 
+two bishops after 11 ... 0-0 12 
+Qe5, but this would have been 
+the Iesser of two evils in the 
+present situation, as in the 
+actual game the black king 
+remained in the centre. It 
+would be more reasonable for 
+Black to see to the safety of his 
+king by trying to remove it 
+from the centre as soon as 
+possible. 
+12 0-0 
+i 
+1 
+As Black has delayed 
+1 
+placing his king safely in 
+shelter White aims to open up 
+the centre at any cost (to clear 
+the central files of pawns.) For 
+this reason White removes his 
+king from the scene of action 
+vacating the area for his rooks. 
+12 ... 
+h6 
+- 
+Like 4 a3 which stopped 
+Black's ... Ab4 this is a 
+preventive move. But 12 .. -0-0 
+would have been more 
+appropriate. 
+An important game 
+component is the accurate 
+timing of an operation. 
+Grandmaster Fforian Gheor- 
+ghiu chooses an unfortunate 
+moment for preventive meas- 
+ures. 
+13 ad1 
+White centralises his rook, 
+foreseeing the opening of the 
+d-file. 
+13 ... 
+Wc7 
+it is already too late for 
+Black to castle. After 13 ... 0-0 
+14 d5 (a pawn sacrifice) 14 ... 
+ed (14 ... Ab7? is poor, 15 de fe 
+16 Ab5! and Black suffers 
+because of the knight stranded 
+on d7) 15 ed Ab7 16 c4 Af6 17 
+Ab2 and White gets a strong 
+passed pawn in the centre. 
+14 d5! 
+'He who has the advantage 
+has to act fast.' This was one of 
+the maxims of the great chess 
+thinker and the first world 
+champion Wilhelm Steinitz 
+(1836-1900) who formulated
+
+8 ideas and Techniques 
+the basic laws of chess 
+strategy. An analysis of the 
+classic heritage left by the 
+coryphaei of the past is useful 
+for all chess enthusiasts and a 
+must for those who study 
+chess seriously and want to 
+improve their game. 
+In the above game White 
+sacrificed only a pawn but 
+gained everything he wanted 
+- it opened up the central 
+files, tied up the Black pieces 
+on the d-file and held the 
+. opponent's king in the centre. 
+He clearly won the first stage 
+of the chess game - the 
+opening - and he did so 
+thanks to a consistent plan of 
+action. However, to capitalize 
+on this, one has to act resolut- 
+ely and accurately.
+
+Lesson 3: Material Balance 
+In order to assess correctly the 
+balance of power on the 
+chessboard, one first of all has 
+to be aware of the comparative 
+value of each piece. The king 
+occupies an exceptional place. 
+It is priceless. It cannot be 
+exchanged and any threat to 
+its life must be removed, 
+otherwise the game immediat- 
+ely comes to an end. The most 
+powerful chess piece is the 
+queen which on average is one 
+bishop plus one and a half 
+pawns stronger than a rook. A 
+rook is also stronger than a 
+bishop or a knight by a pawn 
+and a half. And lastly, a 
+bishop or a knight is about 
+equivalent to three pawns. 
+But apart from the face 
+value of each chessman there 
+exists a real value which 
+* 
+changes in the course of the 
+game. This more subtle and 
+important notion reflects the 
+importance of each chessman 
+with respect to its workload at 
+a given moment (at the time of 
+a gven move), to its prospects, 
+resulting from the specific 
+situation on the chessboard, 
+and to the plan of the game. 
+The correct assessment of each 
+piece's true strength on each 
+move determines to a great 
+extent the player's chess 
+potential. 
+The notion of material 
+advantage in chess is this 
+disparity of power. When one 
+side has gained a material 
+advantage it tries to increase it 
+in order to break the 
+opponent's resistance or, 
+preserving this advantage, to 
+exchange as many pieces as 
+possible and to enter the 
+endgame. But it often happens 
+that one of the opponents 
+incurs material losses delib- 
+erately. I, for example, like 
+attacking the king's position 
+and don't begrudge sacrificing 
+pieces for pawns that shield 
+the king in order to break 
+down its fortress. Thus, a 
+while ago I played Lajos 
+Portisch, a grandmaster from 
+Hungary. After 16 moves the
+
+10 Material Balance 
+position was'as follows: 
+If one were to imagine that 
+the d4-pawn is removed from 
+the board, it would be clear 
+that the white bishops are 
+aiming at the two black pawns 
+guarding the king. It has no 
+other protection so far. A11 
+this calls for a lightning attack, 
+the aim of which - 
+to strip the 
+king of its last defenders - 
+justifies the means, in this case 
+the loss of a white pawn and 
+two formidable bishops. 
+First, one has to pave the 
+way for the b2-bishop, 
+17 d5! 
+ed 
+18 cd 
+Axd5 
+The next step is to reduce 
+the number of the black king's 
+defenders. 
+19 Axh7+&xh7 
+20 Exd5 
+Now when the king again 
+seeks protection behind its 
+pawn the remaining white 
+bishop at the price of its own 
+life annihilates the black 
+king's last stronghold. 
+20 ... 
+*g8 
+21 Axg7 &xg7 
+A cornbinafive whirlwind 
+has left the Black king facing 
+isolation, the White queen 
+posing the greatest danger. 
+22 QeS! 
+Ed8 
+23 Wg4+ &f3 
+2 4 W S  
+f6 
+25 Qd7+ Hxd7 
+25 .., +fl allows an immed- 
+iate win by 26 Wh7! 4x6 27 
+Pel+! &xdS 28 We4+ &d6 
+29 We6 mate. 
+,26 Uxd7 We5 
+' : 27 9 h 7  
+Xc7
+
+Marerial Balance I I 
+There is an approximate 
+material balance in the above 
+position. A white rook and a 
+pawn confront a bishop and a 
+knight. The black pieces are 
+poorly positioned however, 
+especially the king, while two 
+most formidable white pieces 
+have broken through to the 
+i 
+seventh rank and the end of 
+/ 
+the battle is near. Everything 
+i 
+depends on how quickly 
+White will get one of its rooks 
+; 
+to g3. The last Black move, 
+- : 
+however, contains a hidden 
+trap for hasty players. 
+1 
+28 Wb8+ 
+i 
+C 
+If White had played 28 ad3 
+I 
+right away, he would have 
+faced disaster after an 
+overwhelming sacrifice of the 
+queen - 28 ... 
+29 
+&xf2 Ac5+ and then Exh7. 
+' 
+He would have fared still 
+worse in case of 29 PxfZ? 
+Pclf 30 Efl l c 5 +  31 &hl 
+Exfl mate. 
+28 ... 
+&n 
+29 Pd3 
+ac4 
+30 Pfdl 
+It never hurts to bring into 
+the game one's reserves. 
+30 .,. 
+Qe5 
+31 Wh7+ &e6 
+It is impossible to retreat by 
+31 ... &f8 because of the new 
+sacrifice 32 Pd8+! AxdB 33 
+Xxd8 mate. The king has to 
+move to the centre of the 
+board, and in 99 cases out of 
+100 that is tantamount to ruin. 
+32 1 g 8 +  &f5 
+33 g4+ 
+*f4 
+34 Ed4+ &i3 
+35 Wb3+ 
+Black resigns. 
+It goes without saying that 
+all chess players should know 
+and respect basic chess 
+principles, including the table 
+of comparative values of 
+pieces. But it is exactly the 
+multitude of exceptions to the 
+rules that make chess such a 
+fascinating game. They often 
+lead to so called non-standard 
+situations and balance, where 
+the correct path is often 
+discovered by intuition and 
+experience. As part of such 
+experience I recall an episode
+
+I2 Material Balunce 
+from a game that I had studied 
+between Mikhail Tal and , 
+Oscar Panno which they 
+played in 1958. 
+Without having completed '. 
+the development of the pieces 
+the opponents rushed into a , 
+fierce clash in which the 
+material balance of forces 
+lost its immediate import- 
+ance. The vital thing is how to ' 
+correctly assess the scope and 
+the effectiveness of the pieces. 
+' 
+18 ... 
+xb3 
+19 Qc6! 
+White aims to win the queen 
+by this move but the material 
+given away is too great. 
+19 ... 
+Qxal 
+. 
+20 axd8 Af5! 
+21 Wf3 
+Paxd8 
+22 Bxe7 Axbl 
+23 Axf4 
+Hxd4 
+The position has changed 
+beyond recognition after five 
+moves. Two knights and a 
+rook are of no less value than a 
+queen while the white bishop 
+cannot properly fit into the 
+game. Obviously, the outcome 
+of the struggle depends on the 
+white queen's agility. 
+24 Wg4! 
+Ag6 
+25 We6+ Af7 
+26 Wf5 
+Qc2 
+27 b3 
+ag6 
+Tal was more fearful of a 
+counter attack by Black after 
+27 ... Hdl+ 28 &h2 Qd2. 
+Black makes a solid move 
+which forces White to 
+complicate the game still 
+I 
+further. 
+I 
+28 Pxg7S &xg7 
+29 Bh6+ &xh6 
+1 
+30 Ixrn+F$gS 
+31 bc 
+bc 
+The position has drastically 
+changed again. White has only 
+the queen and several pawns
+
+on the offensive. 
+, 
+. 
+32 g3 
+Ae4 
+33 h4+ 
+&g4 
+34 &h2 
+lf5! 
+Panno gives up a piece (35 
+f3+ &xf3 36 Wxf5+ &e3) to 
+bring his king to the queen's 
+flank. That's why White 
+bought an opportunity to keep 
+the king on the right flank 
+within reach of the white 
+pawns. 
+35 Wf6 
+h6 
+36 H e 5  
+Be4 
+37 wg7+ &f3 
+38 W J +  Qe3 
+A simpler draw would have 
+been 38 ... &xf2 39 Wxc2+ 
+&f3. 
+41 ,.. He6 42 e4 c3 could 
+have been another path to a 
+draw as Black's pieces would 
+end up protecting each other 
+with the white king locked in a 
+cage. 
+42 Wfl + &e4 
+43 WxcQ+&f3 
+44 #tl+ 
+&e4 
+45 Wxa6 
+Now the White queen has 
+received a helper - a passed 
+pawn on a2. It was this pawn 
+that finally decided the 
+outcome of the battle, but that 
+is a subject for another lesson.
+
+Lesson 4 The Importance of the Centre 
+The e4, d4, e5 and d5 squares 
+in the centre of the board are 
+very important. They are like a 
+hill giving a full view of the 
+chess battlefield and allowing 
+a knock-out blow to be 
+delivered on any target of the 
+board. 
+Such expressions as 'battle 
+for the centre', 'domination in 
+the centre' artd 'undermining 
+the centre' also reflect the 
+crucial moments of combat 
+and are we11 known to any 
+experienced chess player. 
+The struggle for the centre 
+begins with the very first 
+moves. The side which has 
+advantage in the centre (or 
+occupied the centre) usually 
+receives an opportunity to 
+shift its pieces easily from one 
+part of the board to another, 
+creating an advantage in 
+forces where the fighting 
+begins. 
+A hundred years ago the 
+battle for the centre was a lot 
+more carefree and chivalrous. 
+White usuaI[y rushed to 
+occupy the centre with his 
+pawns and would be quite 
+prepared to sacrifice material. 
+Gambits, or openings in which 
+material is sacrificed, were 
+very much in vogue at the time. 
+1 
+e4 
+e5 
+2 
+f4! 
+ef 
+At present, the most 
+popular reply is the counter 
+gambit 2 ... d5 3 ed e4! and the 
+battle for the centre becomes 
+more subtle. 
+3 
+Qr3 
+Wilhelm Steinitz, the first 
+official world champion 
+(1836- 1900) liked to play 3 d4, 
+allowing 3 . .. Wh4-k 4 *e2. He 
+believed that having an
+
+The Importance of the Cenrre 15 
+advantage in the centre was 
+more important than having 
+good protection for the king. 
+3 . 
+g5 
+4 
+Ac4 
+g4 
+5 
+0-O! 
+gf 
+6 
+Wxf3 Wf6 
+7 
+d3 
+Ah6 
+, 
+8 
+Qc3 
+Qe7 
+9 
+hxf4 
+d6 
+. 
+. 
+10 Axh6 I x b 6  : 
+11 I x f l f  &d8 
+, ' ,  
+, 
+12 HT6 
+l g 5  
+" 
+13 Pafl 
+by the emininent American 
+chess player, Paul Morphy 
+(1837-1884). 
+P.Morphy-J.Amous de RivYre 
+Paris 1863 
+This was the continuation 
+' one of the games played by 
+the great Russian chess player, 
+Mikhail Chigorin, in 1878. 
+White sacrificed a piece and 
+launched a strong attack, with 
+superiority in the centre 
+playing a decisive role. 
+Another more vivid illust- 
+ration of White's strategy in 
+the centre was demonstrated 
+At that time this most 
+interesting position was no 
+less popular than the Spanish 
+game is at present. By 
+sacrificingapawn Whitegetsa 
+clear advantage in the centre 
+where he has a powerful pair 
+of pawns which, use as a solid 
+shield, allows White to
+
+I6 The Importance of rhe Centre 
+regroup his forces as 
+necessary. He has also 
+established strong control 
+over the Black centre, i.e., over 
+e5 (two threats against two 
+defences) and particularly 
+over d5 (three threats and no 
+defence). 
+Black cannot play 9 ... Qf6 
+because of an immediate 
+attack 10 e5! de 1 1 &a3! l x d 4  
+12 Wb3! Ae6 13 Axe6 fe 14 
+Hxe6-t Qe7 15 Qxd4 ed 16 
+Efel! 
+ing in the centre, they form a 
+situation to which Black can 
+easily adapt. But each of these 
+pawns can move forward, thus 
+creating new situations in 
+which Black wiIl have to find a 
+defence, which is considerably 
+more difficult. For this reason 
+'a mobile centre' made up of 
+pawns is a significant factor in 
+evaluating the chances of both 
+sides in the forthcoming 
+battle. 
+9 ... 
+l f 6  
+10 a d 5  
+Wg6 
+The best response for Black 
+is considered to be 9 ... l g 4  
+and 10 AbS may be followed 
+by either 10 ... Ad7 or 10 ... 
+&f8. J.Arnous de Rivikre 
+made a natural but unfortun- 
+ate move which allowed White 
+to use another advantage of 
+the central pawn pair - its 
+mobility. Indeed, while the e4 
+and d4 pawns are only stand- 
+11 ar4! 
+wf6 
+I 
+12 e5! 
+most of Black's pleces are 
+stuck in their initlal positions. 
+1 
+At this stage, using his 
+advantage in the number of 
+men actively engaged in 
+I 
+combat, White carries out a 
+typical operation - he opens 
+up the centre (clearing away 
+his own and theenemy pawns) 
+to give his men freedom. 
+When the centre is open the 
+m Bw%f B 
+m B ,m, 
+B 
+B @ 
+B# 
+The central pawn has 
+moved forward and immed- 
+iately created a situation in 
+which Black, instead of 
+@ B m @  
+developing his pieces in an 
+orderly fashion, has to protect 
+h e  king from real threats. This 
+is a formidable task, since
+
+The Importance of the Centre 17 
+role of the pieces increases 
+greatly, and their location 
+assumes critical importance. 
+This stage requires calculation 
+of timing which needs 
+exceptional precisLon and 
+exact calculation. 
+13 de 
+Wf5 
+Black cannot, of course, 
+take the pawn 13 ... Qxe5? 14 
+Qxe5? 14 a x e 5  Wxe5? 15 
+\ 
+Eel, winning the queen. But 
+the e-pawn keeps on moving 
+forward, 
+14 .,. 
+fb 
+Black is no better after 14 ... 
+fe 15 a x e 6  Axe6 16 bxe6! 
+Wf6 17 Wd7+ &f8 18 Ab2! 
+(this is why the pawn has 
+vacated the e5 square) 18 . .. 
+Wxb2 19 Wf7 mate. Now the 
+e6 pawn splits Black's position 
+into two parts and its value 
+prevent Black's king from 
+escaping to a flank. 
+15 ah4 Wc5 
+16 Pe3! 
+Wg5 
+If I6 ... Wxc4 then 17 
+l h 5 + .  
+17Qf3 
+Wa5 
+18 l x b 6  Wxb6 
+19 Qd5 
+Wa5 
+20 Qd2! 
+Now Black can do nothing 
+against the threat to the a8 
+rook after 21 Qb3 and 22 
+Qxc7+ and against a no less 
+significant threat Qh5+. The 
+- 
+end is imminent. 
+20 .., 
+ad4 
+21 Qb3 
+Qxb3 
+22 ab 
+Wc5 
+23 Wh5+ &d8 
+After 23 . .. g6 24 Q x f 6 f  the 
+queen is taken. 
+24 Pad1 
+assumes increased signif- 
+There is no esacaping the 
+icance. White only has to 
+grave consequences of the
+
+18 The Importance of the Cenrre 
+discovered check (25 Qb6+; 
+the knight leaves the d-file and 
+Black's king finds itself check- 
+ed by the White rook) so Black 
+resigned. 
+It is essential for each side to 
+pay attention to the central 
+pawn formation and to try to 
+maintain a pawn prepond- 
+erance. 
+It sometimes happens that 
+only one pawn remains in the 
+centre. This creates new 
+problems, for instance, how to 
+occupy an outpost in the 
+centre which often permits the 
+pieces to be used to advantage 
+and superiority to be gained 
+over the opponent. 
+T.Petrosian-Kozma 
+Munich 1958 
+1 Qf3 
+Qf6 
+2 
+64 
+e6 
+3 
+AgS 
+c5 
+4 
+e3 
+b6?! 
+White's unpretentious 
+method of playing the opening 
+lowers Black's viglance and 
+the latter, by this seemingly 
+natural move, allows his 
+opponent to occupy an 
+outpost in the centre with a 
+piece. 
+5 
+#! 
+ed 
+. . .  
+White has a strong hold on 
+I 
+the d5 square, since Black is 
+unable to oust the queen from 
+its strong position in the next 
+few moves. At the same time, 
+Black's weaknesses on the d- 
+! 
+file are permanent and may be 
+: 
+very significant. 
+Experienced chess players 
+never begin aggressive oper- 
+ations on the flanks before 
+they shore up their positions in 
+the centre. 
+In the following diagram 
+White, without having made 
+the necessary move Qc3, has 
+begun a pawn offensive on the 
+king's flank. In itself it does 
+not pose much of a threat but 
+1i 
+in a game played between
+
+The Imporrance of the Centre 19 
+Neergard and Simagin (by 
+correspondence, in 1964) 
+Black proved its extreme 
+danger for White (!) very 
+convincingly. 
+b5!! 
+1 
+.** 
+2 
+cb 
+d5!! 
+3 
+ed 
+e4! 
+4 
+W x d  
+4 fe would be followed by 4 
+... Qe5! but even now White is 
+uncomfortable. 
+4 . 
+Axg4 
+5 
+Wf4 
+Ah5 
+6 
+f
+l
+ Qe5 
+7 Ag2 
+Ad6 
+8 
+Wa4 
+P c ~ !  
+9 
+Id2 
+Wf6 
+In only a few moves White's 
+seemingly solid fortifications 
+have collapsed after a timely 
+counter-blow in the centre. 
+The game continued 
+10 Ag5 
+Wf5 
+I 
+11 Qf4 
+Axf3 
+12 Ah3 
+If 12 AxD Qxf3 13 #?xi3 
+then 13 ... Xc3+ 14 &f2 Pc5+ 
+15 &fl Ef3+ 16 &g2 1g4+ 
+would follow. 
+11 ... 
+Ag4 
+12 &g2 
+fPc2 
+and White resigns. 
+For if 13 Bhdl Axh3+ 14 
+Qxh3 Wf3+ or 13 Pf2 ExQ+ 
+14 &xf2 Qd3+ is decisive. 
+Therefore, try to get control 
+of the centre squares, protect 
+the centre and value it dearly!
+
+Lesson 5: How to Gain Space 
+Since chess is played on a 
+limited area of the 64 squares 
+of the chessboard, the 
+dimension of space, that is, the 
+number of squares obtained 
+by each side on which they can 
+freely position their forces, 
+usuaIly influences greatly the 
+game's progress. At the stan 
+of the game White and Black 
+control the same space. But as 
+a rule any move in the open- 
+ing pursues the idea of gain- 
+ing control over a large 
+number of squares, especially 
+in the opponent's territory. 
+Pawns, pressing the oppon- 
+ent's pieces and giving their 
+own pieces freedom to 
+manoeuvre, play the main role 
+in the seizure of space. But the 
+movement of pawns must 
+necessarily be accompanied by 
+the support of pieces, 
+otherwise the army of pawns 
+will soon perish. An 
+experienced chess player tries, 
+first of all, to ensure 
+superiority in the central 
+sector of the board, bounded 
+by the c- and f-files, since the 
+best positions for the pieces 
+are situated there. 
+To make our discussion 
+more specific, let us analyse 
+two games. 
+The first one was played at 
+the end of the last century.
+
+How to Gain Space 21 
+Only five moves have been 
+made, but White's gains in the 
+seizure of chess space are 
+great: three pawns are 
+controlling very important 
+squares on the fifth rank, 
+which is the opponent's 
+territory. With the support of 
+their pieces they will be able to 
+advance further, gaining 
+control of the opponent's 
+territorv. 
+In modern chess a reliable 
+strategic method to combat 
+such pawn chains is an 
+immediate pawn counter- 
+attack (most often with the 
+pieces' support) with the aim 
+of preventing the chain's 
+further movement or at least 
+to make use of it by pawn 
+exchanges to open lines for 
+one's own pieces. It is followed 
+by a pawn assault on the 
+opposing pawns with the aim 
+of breaking the chain into 
+separate sections, or, as chess 
+players say, 'islands'. The 
+variation 6 ... c5! 7 d5 e6 8 0-0 
+ed 9 ed is a good illustration of 
+this method. 
+Charousek, one of the 
+strongest players of the time, 
+also tries to restrain White's 
+pawn chain, but not 
+successfully. He hampers the 
+freedom of movement of his 
+own pieces and, most 
+importantly, makes the 
+assault on White's pawn 
+centre impossible. 
+Black's position becomes 
+extremely difficult after three 
+further moves. 
+6 ... 
+d5 
+7 
+e5 
+Qe8 
+8 
+Ae3 
+e6 
+Under the protection of the 
+pawn trident d4-e5-f4 the 
+White pieces have many 
+squares for manoeuvring and 
+can be easily relocated to any 
+area of the board. The great 
+German player Tarrasch 
+solves the problem of realising 
+this superiority in a very 
+simple way. Fie begins a pawn 
+attack on the king's flank. His 
+pawns are to open the lines for 
+the major pieces, and the 
+Black pieces, confined to the
+
+22 Haw to Gain Space 
+back two ranks, will just get in 
+each other's way and wiIl fail 
+to organise a defence. 
+9 
+h4! 
+One of the basic rules of 
+chess: 'An offensive on a flank 
+is best parried by a counter- 
+attack in the centre.' 
+Unfortunately by the move 6 
+. . . d5 Black has lost this chance 
+and is doomed. 
+9 ... 
+Qc6 
+10 h5 
+Qe7 
+11 g4 
+f5 
+12 hg 
+&xg6 
+13 Ad3 
+h6 
+14 g5 
+a h 7  
+15 @e2 
+Hh8 
+rs wgz 
+c~ 
+17 gh 
+Black resigned in view of 
+unavoidabie heavy losses, e.g. 
+If 17 ... Axh6 18 @g5! 
+The second game is an ill- 
+ustration of modern methods 
+of gaining space. For me this 
+game is especially memorable 
+as my first victory in a purely 
+positional style over a strong 
+opponent in high-level 
+competitions. 
+G .Kasparov-T.Georgadze - 
+Minsk 1979 
+1 
+e4 
+e5 
+2 
+Qf3 
+66 
+3 Pc4 
+Ae7 
+4 
+d3 
+This is not fear, but a desire 
+to avoid opening variations 
+after 4 d4 ed 5 Qxd4, well 
+studied by my opponent. 
+4 ... 
+bf6 
+5 
+c3 
+0-0 
+6 
+0-0 
+c6 
+7 Ab3 
+Ae6 
+a kc2 
+h6 
+9 
+Be1 
+bbd7 
+lo Qbd2 wc7 
+Both players are unhurried- 
+ly manoeuvring apparently 
+with equal success, but this is 
+not so. White is the first to 
+start acquiring space. 
+I1 d4! 
+Pfe3 
+12 h3!
+
+Limiting the opponent's 
+opportunities (neither the 
+black bishop nor knight will 
+reach g4 now) is also a way of 
+winning space. 
+12 ... 
+Qf8 
+13 c4! 
+Qg6 
+14 d5 
+Black did not wish to open 
+the centre to activate the 
+White pieces after 13 ... ed 14 
+ax64 Wb6 15 Q2f3! h x c 4  16 
+Qf5. Instead Black abandons 
+territory marked out by the 
+pawn trident c4-d5-e4. 
+14 ... 
+Ad7 
+Black shouId have played 14 
+... cd to gain space for man- 
+oeuvring on the queen's flank 
+by 15 .., b5! 
+15 Qbl! i f 8  
+, 
+16 Qc3 
+d? 
+17 Aa4 
+In such a cramped position 
+most exchanges would suit 
+How ro Gain Space 23 
+Black. But not his white 
+squared bishop. It is defending 
+important squares and has the 
+greatest potential scope of his 
+minor pieces. 
+17 ... 
+a6 
+18 Axd7 Qxd7 
+19 g3 
+he7 
+20 Id! 
+White decided to pursue the 
+strategy of limiting the mobil- 
+ity of Black's pieces on the 
+king's flank, and to prepare a 
+b r e a k t h r o u g h  on the 
+queenside. 
+20 ... 
+Q f6 
+21 Qh2 
+Wd7 
+22 a4 
+Wh3 
+23 Wf3 
+Wd7 
+24 
+as! 
+White has crossed t he centre 
+line on the queen's flank, too, 
+continuing to elbow out 
+Black. His further expansion 
+is evident to both players, but 
+Black, virtually unable to 
+manoeuvre any reserves, can 
+do nothing about it. 
+24 ... 
+Qfs 
+25 Ad2 
+Hec8 
+26 QfY 
+Qg4 
+27 Qa4 
+Ad8 
+28 Hecl 
+Hab8 
+29 b4! 
+cb 
+* 
+30 Axb4 
+h5 
+31 Qb6!
+
+24 How to Gain Space 
+At first glance, this is an 
+illogical continuation; after 
+all, greater pressure could 
+have been exerted along the b- 
+file. But White planned to 
+open up the c-file and in this 
+case it is very important to 
+have at his disposal a square of 
+entry. The c7-square is the best 
+bridgehead for a White attack. 
+31 ... 
+AxM 
+32 ab 
+We7 
+33 #a3 
+Bd8 
+The last opportunity for 
+resistance was to impede the 
+advance of the c-pawn by 
+sacrificing rook for bishop - 
+33 ... Bc5! 34 Axc5 dc. 
+However White would retain 
+all chances for victory. 
+Now, however, the White 
+offensive is deveioping quickly 
+and exactly according to plan. 
+34 f3 
+Qh6 
+35 
+cS 
+dc 
+36 AxcS Wf6 
+37 &g2 
+He8 
+38 he3 
+a d 7  
+39 Pabl We7 
+Black lost on time through 
+not completing 40 moves 
+within the allotted 2% hours. 
+But after 40 Wxe7 Hxe7 41 
+Rc7 Black's position would be 
+hopeless. 
+In conclusion, value space, 
+try to grab as much of it as 
+possible. But do not be too 
+greedy. Your far advanced 
+pawn chain could be halted 
+and destroyed, and your 
+opponent's pieces could burst 
+through the breaches formed, 
+and then any result is possible.
+
+Lesson 6: Pawn Structures 
+Though the pawns are the 
+weakest pieces they often 
+determine the progress of a 
+game and its outcome. If one 
+side has an advantage of two 
+or three pawns, more often 
+than not this advantage is 
+sufficient to win. The situation 
+is more complex when the 
+number of pawns is the same. 
+Then the position evaluation 
+is largely determined by the 
+location of the pawns. 
+Before the game starts the 
+opponent's pawns are lined up 
+on their original squares. 
+While advancing forward they 
+support each other and restrict 
+the mobility of the opponent's 
+pieces. Experienced chess 
+players often make material 
+sacrifices in order to get a 
+mobile, flexible line of pawns 
+protecting each other, as in the 
+following diagram. 
+T.Pet rosian-H.Pfleger 
+USSR v West Germany 1960 
+1 ads!! ed 
+2 
+cd 
+Now the d5- and e5-pawns 
+become the decisive factor. 
+2 . 
+Wc8 
+3 
+e6! 
+0-0 
+4 
+Wc3 
+f6 
+5 
+d6 
+Qa4 
+5 ... Wxe6 is no good, as t 
+queen is lost after 6 Pc4.
+
+26 Pawn Structures 
+6 
+Wxc8 Hfxc8 
+7 
+l a 1  
+Rc2 
+8 
+de 
+HxeZ 
+9 
+Ed8+ &g7 
+10 Ecl 
+It would be an error to queen 
+by 10 e8W since after 10 ... 
+Hxg2+!! I 1  &hl Pg3+ and 
+White is unexpectedly mated. 
+10 ... 
+Exe6 
+11 Pc7 
+Now there is a threat of 12 
+e a t + .  
+I1 ... 
+ah6 
+12 kxf6 
+Black resigns, 
+Wow can one cope with such 
+a mighty pawn phalanx? A 
+radical remedy is called for: it 
+is necessary to destroy the 
+whole line or at least its middle 
+link, in other words, to break 
+the chain into seperate entities 
+unable to protect each other. 
+If often happens, however, 
+that the most effective method 
+of fighting a mobile pawn line 
+is to contain its mobility or to 
+set up a blockade. This can be 
+done, for instance, by 
+'covering' the squares in front 
+of the pawns, For example , a 
+line of black pawns on c4, d5 
+and e6 may be contained by a 
+white bishop located on the 
+diagonal a l -h8. 
+But when the advance of the 
+above pawns is supported by a 
+Black knight from c6, the 
+White bishop alone is unable 
+to stop the advance of the 
+pawn chain. 
+The best way to set up a 
+blockade is to restrain pawns 
+with pawns. If Black pawns on 
+c4, d5 and e6 were held not by 
+a bishop but by three pawns 
+located on c3, d4 and e5,
+
+this would form an insunn- 
+ountabfe barrier. 
+In modern chess the 
+opposing parties try to restrict 
+the mobility of pawn lines in 
+the early stages of the game 
+Take this opening for 
+example: 
+1 
+d4 
+Qf6 
+2 
+c4 
+e6 
+3 
+Qc3 
+Ab4 
+4 
+e3 
+c5 
+, 
+, 
+5 
+Ad3 
+Qc6 
+6 
+Qf3 
+kxc3-k 
+7 
+bc 
+d6 
+, 
+8 
+e4 
+e5 
+9 
+d5 
+be7 
+As you can see, three pawns 
+c4, d5, e4 are opposed by a 
+Black formation c5, eS, 
+protected by a pawn on d6. 
+This turns out to be sufficient 
+to make the position in the 
+centre stable, Not all players, 
+however, try to restrict pawn 
+mobility with such thorough- 
+ness. The dynamic properties 
+of the pawn line offer great 
+opportunities for a combinat- 
+ive game which can lead to 
+interesting complications, 
+particularly when the 
+opponents have a preference 
+for an open game. On the 
+other hand, a stationary 
+blocked pawn chain often 
+makes for a 
+slow and 
+unspectacular development of 
+the game. 
+You may have come across 
+in chess literature or in 
+commentaries on games such 
+terms 
+as 'weak pawn', 
+'isolated pawn', etc, Each of 
+them denotes a flaw in the 
+pawn structure which restricts 
+its mobitity and increases its 
+vulnerability. 
+Here is a simple example.
+
+Here is an effective ending 
+from a game between two 
+Polish players, Tulkowski and 
+Wojciewski, played in Poznan 
+some 55 years ago. 
+28 Pawn Structures 
+Despite the obstacle of the 
+Black king, Wbite, playing 
+correctly, can not only protect 
+the pawn but can shepherd it 
+through to promotion. But as 
+soon as we move the White 
+king, say, to the h-file, the 
+pawn becomes weak because it 
+falls under an easy attack from 
+the Black king. 
+0 
+ther common weaknesses 
+of the pawn formation include 
+pawns doubted or trebled on 
+the same file. Therefore it is 
+- 
+After the obvious moves 
+1 ... 
+Bd2 
+2 
+Qa4 
+miracles begin to happen on 
+the board. 
+2 ... 
+Uxb2 
+It turns out that the flaws of 
+the pawn structure (look at the 
+Black pawns) may be 
+compensated for by resource- 
+ful play. Black gives away his 
+rook for no obvious reason 
+whatsoever. 
+3 
+ab2 
+c3 
+It transpires that after 4 
+Qd3 c4+ the 'sleeping' bishop 
+comes into play, and this 
+settIesit. 5 Bxb6cd 6 &f;!c27 
+He6 d2 and a pawn queens. 
+I 
+I 
+i 
+I 
+I 
+very seldom that one puts 
+them in an Indian file 
+voluntarily. They are very 
+difficult to protect, particul- 
+arly in the end game, where 
+they may become a source of 
+many problems. But there is 
+an exception to every rule, and 
+this also holds true in the game 
+of chess.
+
+1 1  
+4 %xM 
+1 '  
+The obvious 4 ... ab is 
+: i 
+followed by 5 Qd3 and White 
+wins with his extra piece. 
+Black, however, strikes with 
+4 ... 
+c4! 
+; 
+Now the d3-square is taken 
+" 
+away from the knight and 
+after 5 Qxc4 the c-pawn 
+becomes a queen. Can it be 
+true that two piecesare unable 
+to contain two 'crippled' 
+pawns crawling along the c- 
+file? 
+I 
+5 
+864 
+It looks as if White is likely 
+I 
+to win as there seems to be no 
+defence against 6 Elxc4. 
+I 
+5 ... 
+a5! 
+This is a true ode to pawns. 
+The deserted pawn which had 
+not taken therook settles the 
+battle by a seemingly unreal 
+leap. Now 6 Pxc4 is followed 
+Pawn Structures 29 
+by 6 ... cb when the rook 
+cannot return to b4, and the b- 
+pawn queens. 6 Qxc4 is 
+followed by 6 ... c2 and the 
+pawn still queens. A surpr- 
+isingly beautiful ending! 
+Even such classical endings 
+can be critically explored. 
+What happens if White plays 2 
+a4 tomeet2 ... Exb2with3a5? 
+A similar ending, Sanz- 
+Ortueta, Madrid, with slight 
+differences in the position of 
+the kingside pawns happened 
+two years later. 
+We will conclude our brief 
+introduction to the peculiar- 
+ities of pawn structures with 
+this example. You will find a 
+more detailed description of 
+the terms, rules and exceptions 
+mentioned in this lesson in 
+chess manuals. 
+I would like to recommend 
+to beginners to stick to the 
+common principles of setting 
+up and fortifying a pawn chain 
+and to avoid weaknesses in it 
+as far as possible. Experienced 
+chess players may use the 
+exception to the rule. It is the 
+ability to appreciate when 
+exceptions are justified that to 
+a great degree makes chess so 
+beautiful and full of surprises.
+
+Lesson 7: Dynamism and Initiative 
+The rules of chess are similar 
+to those of any other sport, 
+and not only sport: success 
+comes to those who are more 
+active, skilful and resourceful. 
+Then what is dynamism in 
+the game of chess? In my 
+opinion, dynamism is the 
+strengthening of the positions 
+of one's pieces with each move 
+and the threatening of the 
+opponent's pieces. To make 
+the moves successful they have 
+to fall within the rules of the 
+game and to be based on a 
+solid tactical foundation. 
+A chess player with a 
+reputation as an energetic 
+individual normally tries from 
+the very outset to impose his 
+own style on the opponent, 
+forcing him to tackle 
+numerous problems. 
+To illustrate the principles 
+of active play let us analyse a 
+game by the then world 
+champion Ana toly Karpov. 
+1 
+e4 
+c5 
+- 
+2 Qi3 
+d6 
+r 
+3 
+d4 
+cd 
+4 
+Qxd4 Qf6 
+5 
+Qc3 
+e6 
+6 
+g4 
+Ae7 
+7 
+g5 
+Qfd7 
+8 
+h4 
+Some results of the opening 
+are evident. White has limited 
+the opponent's pieces on the 
+king's flank to the back two 
+ranks with the knight on d7 
+blocking the bishop on c8 and 
+even the queen, to some 
+extent. 
+8 ... 
+Qc6 
+9 
+3 
+a6 
+10 le2!?
+
+Dynamism and Initiative 31 
+This is a very interesting and 
+active idea which leads to a 
+balanced deployment of the 
+pieces. Karpov places his 
+queen on the e-file where it will 
+not be in the way of the rook 
+on d l  and at the same time 
+creates combinational threats. 
+The queen does not obstruct 
+the bishop on fl which is 
+about to go to h3 with a latter 
+Axe6. As you can see, each 
+White move is effective and 
+builds up pressure. 
+10 ... 
+wc7 
+11 0-0-0 
+b5 
+The opponent's response is 
+of a forced nature. Black is 
+forced back and tries to find 
+some remedy to prevent White 
+from making a decisive 
+advance. It is, however, late in 
+the game, and for this reason 
+Black's latest move carries 
+more despair than justfied 
+action. 
+12 Qxc6 
+Wxc6 
+13 Ad4! 
+This move is v e r y  
+unpleasant for Black, as a 
+natural 1 3 . . .0-0 will soon lead 
+to defeat because of the attack 
+by the White pawns, while 13 
+..+ e5 will create a weak point 
+the Black's position on d5. 
+13 ,.. 
+b4 
+Black tries to force the 
+knight away from its control 
+of d5. He is logical in his 
+advance but his strategy lacks 
+a solid base, and his pieces are 
+poorly placed. How can White 
+take advantage of these weak 
+points? 
+14 Qd5! 
+This is a most effective 
+move as the bishop on d4 
+becomes powerful and the 
+White queen joins the fray, 
+much to Black's surprise. 
+14 ,,, 
+ed 
+. 15 lxg7! Bg8 
+16 
+ed 
+Wc7 
+17 I f 6  
+White has gained two 
+pawns for the knight and good 
+prospects for an attack on the 
+king which is stuck in the 
+middle of the board. 
+17 ... 
+Qe5!
+
+32 Dynamism and lrtiricrtive 
+This is the only possibility 
+to hold on. As there is a threat 
+of 18 ... Ag4 White has no 
+time for 18 f4. Black must try 
+to -reduce White's attacking 
+potential. 
+18 Axe5 
+de 
+19 f4 
+Now the pawn attack 
+replaces the attack by the 
+pieces. Black is unable to stop 
+White obtaining connected 
+pawns since 17 ... e4 is 
+foIIowed by the winning 18 d6 
+bxd6 19 Wxe4, etc. 
+19 ... 
+PB 
+20 Ah3 
+The desire to restrict the 
+opponent's counterplay is 
+very typical of the world 
+champion's style. White could 
+have played 20 fe without any 
+risk of 20 ... Zc8 because of 2 1 
+Hh2 @a5 22 Wxa6 Wxa6 23 
+bxa6. Karpov decides to 
+exchange the light-squared 
+bishops thus eliminating the 
+danger to c2. 
+20 .*. 
+Pxh3 
+21 Exh3 Hc8 
+22 fe 
+In my opinion, 22 b3 e4 23 
+Wxe4 PfB 24 f5 would have 
+been better as it would have 
+prevented the Black queen 
+from getting into play. 
+22 ,,, 
+*c4! 
+Black puts his queen in an 
+active position and the 
+balance seems to change. 
+23 add3 
+Rook manoeuvres along the 
+third rank are among the 
+champion's favourite tactics. 
+In this case his move not only 
+precedes the queen exchange 
+but also serves the purpose of 
+improving the co-ordination 
+of the White pieces. The co- 
+ordination of the pieces is a 
+very important factor which in 
+effect determines the strength 
+of a chess player. The ability to 
+co-ordinate the moves of each 
+piece and of each pawn in such 
+a way that they act together in 
+a single plan and at the same 
+time protect each other is a 
+great art. 
+Here again both rooks on 
+the third rank are ready to
+
+Dynamism and Initiative 33 
+support the progress of the 
+two central pawns while the 
+queen protects c2 and is ready 
+to help the rooks. The pawn 
+duo (d5, e5), protected by its 
+own pieces, is a powerful 
+force. Such pawns can push 
+the opponent's pieces to the 
+back rank and disorganise 
+their actions. 
+23 ... 
+Wf4+ 
+This seems the best 
+response. If 23 . .. l x a 2  24 d6. 
+24 &bl 
+Pc4! 
+25 d6 
+IfPe4! 
+26 %he3 
+White has to exchange 
+another pair of pieces, 
+abandoning all hopes of 
+exploiting the unfavourable 
+location of the Black king and 
+rook. 
+The lack of co-ordination of 
+the opponent's pieces is a 
+result of the poor location of 
+the g8 rook and the limitation 
+in its mobility. 
+26 ... 
+axe3 
+27 Pxe3 @xh4 
+The counter-sacrifice 27 ... 
+PxgS 28 hg i x g 5  is ineffective 
+because of the poor location of 
+the king - 29 d7+ a d 8  30 
+Wxa6 l x e 3  3 1 Wc8+ Pe7 32 
+' 
+We8 mate. 
+I 
+23 In! 
+White's pawn wedge divides 
+Black's position into two parts 
+and there is no adequate 
+defence against the threats of 
+Wc6+ or Wa8f. A protected 
+pawn which has penetrated 
+deep into an opponent's 
+position or a similarly 
+established outpost will 
+disorganise the opponent's 
+forces and split them into two 
+separated and weakened 
+parts. 
+28 ... 
+l x g 5  
+29 Be1 
+WgZ?! 
+30 Wf5 
+Rg6 
+31 Efl 
+Wd5 
+32 de 
+&xe7 
+33 Wf4! 
+White has regained the 
+piece and retained the attack. 
+T h e  small n u m b e r  of 
+remaining pieces only slightly 
+improves Black's chances of 
+survival. When only a few
+
+34 Dynumtsm and Initiative 
+attacking pieces remain on the 
+battlefield everything depends 
+on the strength of the king's 
+defences. In this case the Black 
+king has practically no 
+protection and all White needs 
+is precision in the assault and 
+this is perfectly conducted by 
+the then world champion. 
+37 Wh4+ &e8 
+38 Wc4! 
+Wb7 
+39 b3 
+Ee6 
+40 Rgl! 
+Exes 
+41 Eg8+ 47e7 
+42 Wh4+ &d7 
+43 Wf6! 
+Pe7 
+44 Wf5-t &d6 
+45 Wxa5 Pe5 
+46 Id%+ &e6 
+47 &b2! 
+f6 
+4 am 
+wg7 
+49 Wc8+ r$dS 
+50 Wc4+ 
+Black resigns. 
+Therefore, try to be 
+energetic and then you will 
+truly enjoy the benefits. Let 
+your pieces ~nteract well, and 
+help each other - and then 
+you will experience the joy of 
+victory more often than the 
+bitterness of defeat.
+
+Lesson 8: Avoiding Disaster in the Opening 
+Having barely learned the 
+basics of the game, every chess 
+player will notice that moves 
+in the opening, when almost 
+all pieces are still on the board, 
+most often predetermine the 
+course of the game and in 
+some cases its outcome. More 
+often than not a chess player 
+who has mastered the basics 
+and seen brilliant attacks by 
+masters and grandmasters has 
+to spend the whole game in a 
+boring defence trying to mend 
+gaps in his position which 
+appeared in the opening, but 
+with little success. This is a 
+result of a poor knowledge of 
+the theory of openings and a 
+lack of basic skills in playing 
+the first stage of the game. 
+A chess game is to a certain 
+extent similar to military 
+combat where, as is known, a 
+lot depends not only on the 
+technical abilities and 
+equipment of the troops but 
+also on the ability of the 
+commanders to foresee the 
+contours of the forthcoming 
+battle and deploy troops 
+accordingly in order to 
+commit them in due time and 
+in the most favourable 
+sequence. It is for this reason 
+that every player who directs 
+the actions of his wooden 
+troops ought to know the 
+basics of the game in the 
+opening. 
+It is a known fact that any 
+chess game may be preserved 
+for posterity, as it is recorded 
+by means of chess notation. 
+An enormous number of 
+games have been recorded in 
+the history of chess and their 
+analysis has helped develop all 
+the nuances of opening 
+strategy. 
+I do not intend to delve into 
+all the existing openings and 
+their character~stics, which 
+would be an impossible task to 
+handle, In view of the abund- 
+ance of information. I will 
+confine myself to describing 
+some general principles of the 
+opening and how to avoid 
+disaster.
+
+36 Avoiding Disaster in the Opening 
+The First Principle 
+The opening is won by the 
+player who brings major pieces 
+into play faster. 
+This is a basic rule and it is 
+very important to use it 
+correctly . 
+Let us take a simple 
+example. 
+1 
+e3 
+e5 
+2 
+Ac4 
+Qc6 
+3 wf3 
+kc5 
+4 
+W x f l  mate 
+It looks as if White has done 
+everything correctly - two 
+pieces were developed and 
+White mated. Nevertheless, the 
+play deserves some criticism. 
+The first move is poor. We 
+have stated in one of our 
+previous lessons how important 
+it is to occupy the centre of the 
+board with one's pawns. This 
+has to be done in the opening so 
+as to locate one's pieces most 
+favourably. It is for this reason 
+that e4 is stronger and more 
+logical than e3. I want to stress 
+once again that it is important 
+to try to capture squares with 
+pawns, especially the central 
+squares. 
+The second White move (2 
+l c 4 )  is not so easy to reject, 
+though its merits are not very 
+high for two reasons. The 
+experience of previous gener- 
+ations gives us the best proced- 
+ure for advancing one's pieces 
+- first the pawns advance to 
+the centre, then the knights 
+move in, followed by the 
+bishops and only later the 
+heavy pieces - 
+the rooks and 
+the queens. In our case the 
+bishop jumped out to a 
+powerful position without 
+regard to a possible response 
+from Black - 
+2 ... d5, in which 
+case the latter gets a powerful 
+pawn centre and the White 
+bishop is forced to poorer 
+locations on d3, e2, b5 or b3. 
+Chess is a game of logic and 
+a combination of a timid 1 e3 
+and an aggressive 2 Pc4 is 
+illogical and for this reason 
+should be punished. Black 
+replied with 2 ... Qc6, which is 
+to be viewed as a regular but 
+not the strongest continuation
+
+loiding Disaster in the Opening 37 
+in this situation. It is true that 
+2 ,+. Qc6 accords with the 
+of rapid develop- 
+ment of the pieces but it does 
+create problems for White 
+which could have been the 
+case had he moved 2 ... d5! 
+White's third move 3 l f 3  
+looks effective, but an 
+experienced player would not 
+have made it; moreover, he 
+would not have even consid- 
+ered it. Had Black reacted 
+correctly with 3 ... Qf6!, the 
+move of the queen would have 
+been wasted. Furthermore, by 
+occupying 0, the queen 
+robbed his king's knight of a 
+good square for its actions and 
+the latter has no choice but to 
+occupy a passive position on 
+e2 or move to h3, thus staying 
+away from all the action in the 
+centre. The most powerful 
+chess piece, the queen, should 
+not move into the fray hastily, 
+otherwise the opponent's 
+minor pieces might pursue it 
+with a gain of time. As for 
+Black's 3 ... lc5??, it is logical 
+only from the formal 
+viewpoint (Black develops a 
+second piece in the approp- 
+riate sequence) as it loses the 
+game. The fact is that Black 
+has not taken into account a 
+real threat from the opponent. 
+You can see how much can be 
+discovered during a careful 
+analysis of a very brief game 
+full of mutual errors. 
+We will illustrate the first 
+principle of the opening - 
+the rapid development of the 
+pieces - by a game played 
+over a century ago. 
+J.Schulten-P.Morphy 
+New York 1857 
+1 
+e4 
+e5 
+2 
+f4 
+This old and romantic 
+opening, which has acquired a 
+beautiful name 'The King's 
+Gambit', often resolves the 
+outcome of the battle by a 
+rapid advance of pieces. 
+Modern theory believes that 
+the best defence here is a 
+counterattack. And this was 
+clearly demonstrated by the 
+talented American chess 
+player Paul Morphy. 
+2 
+.** 
+d5! 
+3 
+ed 
+e4! 
+Taking either of the pawns 
+would have been weak, Black 
+tries to win time for 
+development, as all his pieces 
+have good prospective 
+squares.
+
+38 Avoidirrg Disaster iti the Opening 
+4 
+Qc3 
+Qf6 
+5 
+d3 
+bb4 
+6 
+Ad2 
+After 6 de 49 xe4 7 Wd4 We7 
+8 Ae2 0-0 9 Ad2 Qxd2 10 
+Oxd2 Ag4, it is not easy for 
+White to activate his pieces. 
+6 ... 
+e3! 
+This is a bold far-sighted 
+sacrifice of a pawn, as after 
+castling Black's rook occupies 
+the e-fite. 
+7 
+l x e 3  0-0 
+8 
+Ad2 
+Pxc3 
+9 
+bc 
+Pe8+ 
+10 Ae2 
+Ag4 
+11 c4? 
+One may say with a fair 
+degree of confidence that this 
+particular move is destructive 
+for White. It was preferable to 
+get rid of the pin on the e-tile, 
+preferably by + 11 &f2. But 
+White wishes to retain an extra 
+pawn in the centre. 
+11 ... 
+c6! 
+12 dc?! 
+It was not too late to play 12 
+& f '  or 12 h3. Still having a 
+material advantage, White 
+allows the opponent to 
+develop his knight from b8 
+most effectively, and then 
+Black's 
+advantage on the 
+relevant part o f  the board 
+becomes overwhelming. 
+12 ... 
+4h xc6 
+13 &fl 
+It is difficult to give good 
+advice to White. 13 Pc3 ad4 
+14 Axd4 Wxd4 I5 g3 is 
+followed by 15 ... Pxe2+ 16 
+a x e 2  Re8 with a decisive 
+attack. It seems that after 12 
+dc?! there was no defence for 
+White. 
+13 ... 
+PxeZ! 
+14 Qxe2 
+a d 4  
+The main events will take 
+place on the e-file where the
+
+Avoiding Disaster in the Opening 39 
+vertical pin will play a decisive 
+role. And this is indeed what 
+happens. The threats on the e- 
+file have forced White to 
+postpone the removal of his 
+king from the pin. Now 
+another minor combination 
+follows which transforms the 
+vertical pin into a more 
+hazardous, diagonal one. 
+15 Wbl 
+Axe2+ 
+16 &f2 
+Qg4+ 
+17 €kg1 
+The king begins to rush 
+back and forth in his camp, 
+feeling the approach of 
+disaster. 
+I would recommend to 
+those who want to develop 
+their attacking skills to put 
+aside this book and to try to 
+find independently Black's 
+rapid victory and only then 
+(some 20 to 30 minutes later) 
+to compare their decision with 
+the one chosen by Paul 
+Morphy. 
+17 ... 
+an+ 
+18 gf 
+Wd4+ 
+* 
+. 18 &g2 
+wf2+ 
+19 &h3 
+Wxf3+ 
+20 &h4 
+Be3 
+21 Hhgl 
+Q f 5 +  
+- 
+23 &g5 
+Wh5 mate 
+We will continue to study 
+the principles used in the 
+openings in our next chapter.
+
+Lesson 9: Neglecting Opening Principles 
+In our last lesson we learned 
+that domination in the centre 
+and rapid development of the 
+pieces to a great degree 
+determines the outcome of the 
+battle in the opening, 
+particularly when played by 
+experienced players. Before 
+proceeding further with 
+opening theory, let us analyse 
+errors most often committed 
+in the initial stage of the game 
+by inexperienced players. 
+First of all, it is important to 
+remember that the must 
+vulnerable points in kingside 
+defence are those protected by 
+the king alone. In the initial 
+position these points are the f2 
+and fl-pawns; after kingside 
+castling they are the h2, g2, h7 
+and g7-pawns. Protection of 
+these squares is of foremost 
+concern. Experience shows 
+that, as a rule, it is on these 
+squares that disasters occur in 
+even the most sophisticated 
+opening systems. 
+Let us analyse a position 
+which occurs up in the old and 
+very romantic Italian game: 
+1 
+e4 
+e5 
+" : 
+2 
+QO 
+Qc6 
+3 
+Ac4 
+kc5 
+4 
+13 
+Qf6 
+5 
+d4 
+ed 
+6 
+cd 
+AM+ 
+7 
+Qc3! 
+Instead of the cautious 7 
+Ad2, White decides to sacrif- 
+ice two pawns and a rook for 
+the sake of rapid development 
+- a typical device used by 
+players with an aggressive 
+style. Modern methods of 
+struggle in the opening, based 
+on the experience of past 
+generations, do not favour 
+Black's next moves, but one 
+has to bear in mind that this 
+was how the game was played 
+one hundred years ago when 
+nobody cast doubt on the 
+principle 'any sacrifice must 
+be taken'. 
+7 ... 
+Q xe4 
+8 
+0-0 
+Qxc3 
+9 
+bc 
+Axc~?
+
+Black has taken two enemy 
+pawns but lags behind in 
+development. The punishment 
+for such violations of opening 
+rules usually follows very 
+swiftly and savagely. The old 
+analysis is a good illustration 
+of the disastrous consequen- 
+ces of 'greed' in the opening. 
+You should not think, 
+however, that this experience 
+is of historical value only. This 
+situation is very frequent in 
+simultaneous exhibitions. Do 
+not get carried away capturing 
+your opponent's pawns in the 
+opening to the detriment of 
+your own forces' mobilisation. 
+10 Wb3 
+Axal 
+Black is consistent in his 
+desire to capture as much 
+material as possible and loses 
+his last chance to get his king 
+out of the centre. And the 
+chance was there: 10 ... d5 11 
+Neglecting Opening Principles 41 
+l x d 5  0-0. 
+This is the hour of reckon- 
+ing for ignoring development 
+and devouring pawns in the 
+opening. By the way, it was on 
+f7 that the disaster occurred. 
+Black is lost no matter how he 
+defends. For instance, 13 ... 
+Axd4 14 Ag6 d5 15 Wf3+ l f 5  
+16 AxfS Axe5 17 Ae6+ Af6 
+18 Axf6 gf 19 Oxf6+ &e8 20 
+W!i7 
+mate (the fl-square 
+again). 
+Besides chasing pawns, 
+another typical error of many 
+chess players is delaying the 
+removal of the king from the 
+centre. In master practice, 
+there are games when both 
+kings remain in the very centre 
+of action and survive, but this 
+is an exception to the rule and
+
+42 Neglecting Opening Principles 
+is based on a profound 
+understanding of the situation 
+and on defensive skills. 
+Beginners and those with 
+insufflcitnt experience should 
+castle at the earliest opport- 
+unity. By remaining in the 
+centre, the king may be lured 
+to the very centre of the board 
+by sacrifices and then disaster 
+becomes imminent. 
+Y .Vasyukov-B.Lebedev 
+Moscow 1960 
+1 
+e4 
+e5 
+2 Qf3 
+d6 
+3 
+d4 
+Qd7 
+Black's unsophisticated de- 
+ployment of his pieces is very 
+frequent in the games of 
+amateurs. The entirely sound 
+idea of strengthening the 
+advance post in the centre (e5) 
+is brought about in a 
+somewhat fanciful manner 
+whereby the bishop on c8 gets 
+blocked. 
+4 
+Ac4 
+h6 
+This is an altogether 
+dubious decision - 
+instead of 
+developing his pieces (for 
+instance, 4 ... Ae7) Black, 
+planning to move his knight to 
+f6, loses time trying to prevent 
+the intervention of the White 
+knight on g5. However, to 
+prove the unsoundness of 
+Black's strategy in the opening 
+White had to play very 
+resourcefully and vigorously. 
+5 
+de 
+de 
+After 5 ... axe5 6 a x e 5  de 7 
+l x f 7 + !  BIack's position 
+would have been hopeless. 
+6 
+&xn+! 
+The first strike is delivered 
+1 
+on the most vulnerable point. 
+' 
+6 ... 
+&xn 
+7 
+Bxe5+&f6 
+Any thing else would bring 
+the end even faster. 
+8 
+Qc3! 
+In order to bring the Black 
+king into the open White 
+sacrifices his knight. The 
+threats of 9 Qd5+ and 9 Wd4 
+may be countered in only one 
+, 
+way, as all other variations faif 
+' 
+to save him, for example, 8 ... 
+c6 9 Wf3C &xe5 fO l f 5 +  
+I
+
+&d6 I 1 &f4+ 
+e5 1 2 W x e 5 f  
+ad7 13 Edl+ or 8 ... Ac5 9 
+~ f 3 - t  
+&xe5 10 wf5-f- &d6 1 1 
+&f4+ Qe7 12 Qd5+ &e8 13 
+~ x c 7 +  or 8 ... We8 9 QdS+ 
+axe5 10 Af4f &e6 11 Qc7+. 
+8 ... 
+& xe5 
+The road from e8 to e5 
+turned out to be short but the 
+reverse could also be true. For 
+this reason White has to attack 
+without delay. 
+9 WE+ 
+g5 
+Black is right in trying to use 
+the pawn to cut off the queen. 
+The weakening of these 
+squares is not very important 
+here because the continuation 
+of the king's 'walk' is fraught 
+with danger: 9 ... &e6 10 
+W 5 - k  &e7 1 1  Qd5+ &d6 12 
+l f 4 +  &c6 13 We6+ Ad6 14 
+QM+ etc. 
+lo AxgS! 
+Neglecting Opening Principles 43 
+A brilliant stroke. 10 ... 
+Wxg5 can be followed by 11 
+f4+! &xf4 12 0-0$ &e5 ( 1  2 ... 
+&e3 13 Padl! Wxh5 14 Bd3 
+mate) 13 
+fIf5-t l x f 5  14 
+Wxf5-f &d6 15 Edl+ he7 16 
+Qd5+ a d 8  17 Qb6! cb 18 
+%xf8+ &c7 19 Wg7 winning. 
+Black now tries to buy 
+himself out with a rook. 
+10 .*. 
+hg 
+11 f4+! 
+&e6 
+12 f5-k 
+&e7 
+13 Qd5-k &d6 
+14 Wxh8 Qgf6 
+15 0-0-0 
+&c6 
+16 Bhel 
+b6 
+17 Qb4+ Axb4! 
+Black finds a 
+w i t t y  
+possibility to complicate the 
+struggle by sacrificing the 
+queen. 17 ... &b7 would be 
+answered by 18 e5. 
+18 Wxd8 b b 7
+
+44 Neglecting Opening Principles 
+A devilish idea! The White 
+over. There is no way to 
+queen ends up in a trap and is 
+contain White's kingside 
+doomed to perish. But chess is 
+, pawns supported by the 
+a game of logic and it is very 
+queen. 
+unlikely that White would 
+25 Wf4 
+Ac8 
+wind up losing after having a 
+26 
+g4 
+Qc5 
+advantage. However i t  
+- 
+27 b4 
+Qb7 
+transpires that White has a 
+28 We4+ 47d7 
+resource. 
+29 l d 4 +  Ed6 
+19 Pxd7 
+Qxd7 
+- 
+30 Wg7+ 4x6 
+It would have been to 
+31 f6 
+Qd8 
+White's advantage to play 19 
+32 f7 
+Qxf7 
+... Rxd820Hxd8lxel21e5! 
+, 
+33 Wxf7 he6 
+ag4 22 e6 Pb4 23 Pd4. 
+34 WeS+ &d5 
+20 l x g 5  Axel 
+35 Wall+ &e5 
+.. 
+21 We3! 
+a ,. 
+36 Wxa7 Hc6 
+. 
+37 @a4 
+Ec4 
+Now the situation is quite 
+clear. Black's bishop is 
+doomed, as 21 ... Ab4 or 21 ... 
+Aa5 is followed by 22 Wd4! 
+21 ... 
+PLh4 
+22 Wh6+ Pf6 
+23 e5 
+Pf8 
+24 ef 
+Exf6 
+The struggle is practically 
+38 Wb5+ &f4 
+39 
+g5 
+c6 
+40 #xb6 
+Black resigned. 
+As a confirmation of the 
+above thesis I would like to 
+offer for independent analysis 
+by the readers an elegant and 
+very instructive game played 
+some 100 years ago. 
+M.Chigorin-S ,Alapin 
+St. Petersburg 1883
+
+Neglecting Opening Principles 45 
+6 
+0-0 
+Qf6 
+not yet one hundred per cent 
+7 
+d4 
+0-0 
+. safe. 
+w 
+8 
+de 
+Qxe4 
+11 ... 
+ah8 
+9 A&! 
+Axc3 
+After 11 ... axh7 White 
+10 Axe4 Axal 
+would win by 12 Qg5+ &g6 
+* 
+13 Wg4 f5 14 ef Qe5 15 Wg3! 
+&xf6 16 f4 he7 17 Eel d6 18 
+Q c3! 
+1 2 Q g S  
+g6 
+I I 
+- 
+13 Wg4 
+Axe5 
+14 l h 4  &g7 
+15 ad+! fe 
+16 Wh6f &f7 
+17 Axg6+&e7 
+I 
+I8 Wh4+! %f6 
+11 Axh7+ 
+19 Aa3+! d6 
+A bishop sacrifice striking 
+20 @h7+ &f8 
+21 l h 8 +  &e7 
+at the most vulnerable point. 
+As you can see, the king feels 
+22 Wg7+ Pfl 
+better on g8 than on e8 but is 
+. 
++ 
+23@xf7 
+mate 
++
+
+Lesson 10: The Aim of the Opening 
+Our two previous lessons were 
+devoted to the most common 
+mistakes made by inexper- 
+ienced players in the early 
+stages of the game. Having 
+seen how not to play the 
+opening, let us now try to 
+figure out what it is we should 
+do to get a good position from 
+the very outset. 
+Practically all instructions 
+concerning this are contained 
+in Lesson Eight, where the 
+First Principle was given for 
+the opening battle. The 
+principle defines the most 
+important development fact- 
+ors which hold true, no matter 
+how the opening develops. 
+One must remember that the 
+pieces are brought out so as to 
+achieve a definite advantage in 
+the middle game, which is 
+when the main events will take 
+place. When developing your 
+pieces, it is important, 
+especially for players without 
+much practice, to maintain 
+harmony, that is, to leave 
+yourself room to manoeuvre 
+without crowding your pieces. 
+At the same time, you must try 
+to make it more difficult for 
+your opponent to do the same. 
+N o  matter what the 
+opening, the best moves for 
+both sides are always 
+subordinate to one goal - 
+the 
+fight for the centre. White, 
+having the advantage of the 
+first move, can attain this goal 
+faster than Black, who does all 
+he can to hinder White. Take 
+the first few moves from two 
+of the most complex systems 
+in modern theory, the Ruy 
+Lopez (1 e4 e5 2 Qf3 Qc6 3 
+Ab5)
+
+TAe Aim of the Opening 47 
+and the Nimzo-Indian Defence 
+(1 d4 Bf6 2 c4 e6 3 Bc3 91b4) 
+It is obvious that, from the 
+very outset, the fight resolves 
+around respectively the 
+central e5 and e4 squares. This 
+is only natural, since 
+domination in the centre 
+(meaning not just that pawns 
+occupy the centre squares, but 
+that these are controlled by 
+pieces) allows for creation of a 
+strong-point from which to 
+operate in the middle game. 
+Let us try to illustrate this 
+with a rather elementary 
+I 
+example. 
+1 
+e4 
+e5 
+2 
+f4 
+ac6 
+3 Qf3 
+ef 
+4 
+d4 
+d6 
+5 
+Ax14 Qf6 
+6 
+Qc3 
+Ae7 
+7 
+Ae2 
+0-0 
+,. 
+8 
+0-0 
+This, by the way, is how 
+games bet ween beginners or at 
+simultaneous exhibitions 
+frequently start off. Both sides 
+have seemingly tried to keep 
+pace in development, but 
+White has clearly managed to 
+develop to a greater extent. He 
+has a powerful pawn centre 
+and his pieces have room io 
+manoeuvre. Of course, Black's 
+position is far from lost, but 
+why resign yourself to 
+passivity from the very outset? 
+We are not concerned here 
+with recommending any 
+specific kind of opening, but 
+considering the tremendous 
+popularity of the King's 
+Gambit amongst inexper- 
+ienced players, we might start 
+by examining the methods 
+behind it.
+
+48 The Aim of the Opening 
+Black has gained a pawn 
+here which he can safely hold, 
+and, at the same time has not 
+neglected development. 
+This attempt at counter- 
+attack conceals many dangers 
+for both sides and demands a 
+good knowledge of numerous 
+variations. 
+From the following example, 
+taken from grandmaster 
+practice, we can see how 
+neglecting the principles of 
+opening development led to 
+rapid disaster for White. 
+E.Bogo1jubow-M. Botvinnik 
+Nottingham 1936 
+1 
+d4 
+Qf6 
+2 
+Qf3 
+b6 
+3 
+e3 
+In essence, White is 
+declining to fight actively for 
+the centre. Attempts to 
+achiek e an opening advantage 
+usually involve the moves c4 
+o r  Q c 3  
+(compare the 
+Kasparov-Gheorghiu game 
+from Lesson 2). 
+3 +.. 
+Ab7 
+4 
+c4 
+d 
+5 
+Qc3 
+cd 
+6 
+ed 
+e6 
+7 
+Ad3 
+l e 7  
+8 
+0-0 
+O-O? 
+9 
+b3? 
+An instructive moment. 
+White, carried away with 
+developing his own pieces, 
+does not consider Black's 
+problems and misses the move 
+9 d5! which would make the 
+smooth development of his 
+opponent's pieces impossible.
+
+The point is that 9 ... ed 10 cd 
+i 
+Qxd5 11 QxdS I x d 5  12 
+1 
+pxh7+ 4xh7 13 Wxd5 is 
+obviously to White's 
+advantage, and therefore 
+Black would be forced to 
+reconcile himself to the 
+existence of the White pawn 
+on d5, which cramps his 
+~osition. 
+The Aim of the Opening 49 
+transpired, Bacl and Dfdl , or 
+Pad1 and Pfel. White would 
+then have had a free game and 
+could have looked confidently 
+to the future. 
+10 ., 
+Qed 
+11 Pacl 
+ad7 
+12 We2 
+By continuing his same 
+carefree play and allowing 
+Black to strengthen his 
+9 ... 
+d5 
+10 Ae3? 
+We must bluntly say that 
+this is a move of the 'wait and 
+see' variety. The bishop on e3 
+is placed most awkwardly, as 
+it hampers White's pieces and 
+., 
+prevents White from 
+controlling the important e4 
+1 
+square, where the Black 
+position without hindrance, 
+White has now passed up his 
+last chance to contest Black's 
+control of the centre with 12 cd 
+ed. 
+12 ... 
+Xc8 
+Now the exchange cd is no 
+longer possible. 
+13 Hfdl 
+f5 
+I 
+knight will very soon secure 
+Black has consolidated his 
+1 
+itself. From his previous play, 
+central knight. It has now 
+! 
+White should logically have 
+become obvious that White is 
+i 
+continued with Ab2 and We2, 
+in serious trouble. First of all, 
+! 
+and then, depending on what 
+Black prevails in the centre.
+
+50 The Aim of the Opening 
+Secondly, White's queenside 
+weakness on the black squares 
+is beginning to be felt. We may 
+recall that all this'could have 
+been avoided had White 
+merely placed his bishop on b2 
+- 
+the most natural spot for it 
+in the present position! This 
+example is a vivid illustration 
+of how the inappropriate 
+placing of a single piece can 
+affect the solidity of the entire 
+position. 
+14 Af4? 
+White tries to control the e5 
+square too late (and at the 
+wrong moment!). It would 
+have been wiser to switch to 
+defence and try to simplify the 
+position by a series of 
+exchanges: 14 
+bl , followed 
+by cd and Pxc8. 
+14 ... 
+g5! 
+Using the cover of his 
+powerful central post, Qe4, 
+Black undertakes the decisive 
+attack without worrying 
+about the supposed weaken- 
+ing of his king's position. 
+15 Pe5 
+The maximum resistance 
+was to be offered by 15 Ae3, 
+but how could he bring him- 
+self to play such a move? 
+15 ... 
+gd 
+16 Qel 
+axe5 
+The game is over. The e5 
+pawn will go, and Black's 
+powerful central pawns, 
+supported by two long-range 
+bishops, will soon force White 
+to resign. 
+19 Qb5 
+WxeS 
+20 Ed7 
+AgS! 
+A final finesse - 
+the bishop 
+simultaneously eludes danger 
+and gains a tempo. 
+21 Ecdl 
+Pc6 
+22 Pxa7 RcdS 
+In addition to everything 
+else, Black grabs the d-file. 
+The game finished: 
+23 h4 
+Hxdl 
+24 Wxdl Hd8 
+25 Wc2 
+Ad2 
+White resigned 
+He cannot defend against 
+both ... War and ... e3. 
+This might be a good time to
+
+cite Mikhail Botvinnik's 
+comment on a different game 
+of his with Master Alexander 
+Sokolsky in the semi-finals of 
+the 1938 USSR Champion- 
+ship: " ... and control over the 
+central squares goes over to 
+Black. It gradually becomes 
+clear that White has no game 
+plan at all and is merely 
+concerned with 'development' 
+One could perhaps have got 
+away with such play at the 
+turn of the century, but 
+nowadays, when every master 
+starts putting together a 
+middlegame plan beginning at 
+the 6th or 8th move, there is no 
+better way to get into a 
+The Aim of the Opening 51 
+cramped position than to 
+strive merely for develop- 
+ment." 
+Botvinnik, of course, is 
+speaking here of expert 
+players, and for that reason, it 
+would be frivolous at the least 
+to demand a great degree of 
+insight into the position from 
+our readers. But I think this 
+critical comment by an ex- 
+world champion may be taken 
+as a chess axiom valid for 
+anyone who plays chess. 
+Remember it and try while still 
+in the opening to use every 
+chance to plot out approxim- 
+ately what course the game 
+will subsequently take.
+
+Lesson 11: Choice of Opening 
+Having studied the previous 
+lessons, you have set up your 
+pieces and are thinking over 
+the first move. Don't be in a 
+hurry to read an opening 
+manual - 
+it will only lead you 
+astray. Let's try to make a 
+choice together. First of all, 
+remember that there is no such 
+thing as the 'best* or the 
+'strongest' move in the initial 
+position. There are several 
+moves corresponding to the 
+principles of development in 
+chess openings, and you have 
+to make a choice in accord- 
+ance with your taste, know- 
+ledge and experience. 
+I would suggest starting the 
+game with the advance of one 
+of the centre pawns. Before 
+becoming a grandmaster I 
+liked starting the game with 1 
+e4! This move reminded me of 
+chivalrous gallantry and a 
+readiness to engage in open 
+combat. The White pawn on 
+e4 controls the important d5 
+square waiting for reinforce- 
+ment on 64. As you can see, 
+White's 
+aims are straight 
+forward and clear-cut, and it is 
+natural that all openings 
+starting with 1 e4 are referred 
+to as 'open' or 'semi-open'. 
+So, White has played 1 e4 .. . 
+Which is the best reply for 
+Black? Strange as it might 
+seem, Black has a wide choice. 
+The most fundamental 
+reaction is undoubtedly the 
+symmetrical reply with the 
+Black king's pawn. 
+All openings beginning with 
+1 e4 e5 fall under the category 
+'open' games, rich in history 
+and tournament practice. 
+The King's Gambit: 1 e4 e5 2 
+f4 ef 3 Qf3 d5 4 d4. This 
+splendid opening has dropped 
+out of major tournament 
+practice mostly due to the 
+counter-gambit ideas enabling 
+Black to fight successfully for 
+initiative by playing 2 ... d5! 3 
+ed e4! or 2 ... ef 3 Qf3 d5 4 ed 
+Q f6.
+
+Another attempt to remove 
+the pawn from the centre - 
+2 
+d4 ed 3 l x d 4  - has found 
+very few supporters. As a 
+result of the White queen's 
+walk 3 ... Qc6 4 We3 Qf6 
+Black brings the two knights 
+into play, securing equal 
+chances. 
+The Giuoco Piano. 2 Qf3 
+Choice of Opening 53 
+possibilities. The attempts by 
+means of sacrifices playing 4 
+b4 Axb4 5 c3 l c 5  6 d4 or 4 c3 
+Qf6 5 d4 ed 6 0-0 
+go side by side with the 
+modern methods of slow 
+deployment of the pieces after 
+4 d3 d6 5 ~3 Qf6 6 0-0 0-0 7 
+l g 5  
+ac6 3 Pc4 bc5. The idea is to 
+The Ruy Lopez, 2 a 13 Q c6 3 
+seize the centre and attack the 
+Ab5, is the epitome of open 
+fcl-square. This is one of the 
+games. The opening is rich in 
+oldest chess openings rich in 
+deep strategic and tactical
+
+54 Choice of Opening 
+ideas.Thebestgrandmasters 
+the famous Marshall's 
+regard the ability to play Ruy 
+Counter-attack (3 ... a6 4 Aa4 
+Lopez with both colours as a 
+Qf6 5 0-0 Ae7 6 Eel b5 7 Pb3 
+test of chess strength. The 
+0-0 8 c3 d5!? 9 ed Qxd5 or even 
+opening is to everyone's taste. 
+9 ... e4), 
+For instance, the relatively 
+simple Exchange Variation (3 
+... a6 4 Axc6 dc) 
+and finally the Classical 
+Variation which is within the 
+capacity only of experienced 
+and well-prepared players ( 3  
+the clear cut fight for the 
+... a6 4 Aa4 Qf6 5 0-0 Ae7 6 
+centre in the Open Variation 
+Pe 1 b5 7 l b 3  0-0 8 c3 d6 9 h3 
+(3 ... a6 4 Aa4 Qf6 5 0-0 a x e 4  
+Qa5 10 bc2 or 9 ... Qb8 10 
+6 d 4 b 5 7 A b 3 d 5 8 d e l e 6 ) ,  
+d4).
+
+56 Choice of Open~ng 
+Two openings - the Caro- 
+Kunn defence ( I  e4 c6 2 d4 d5) 
+and the French Defence ( 1 e4 e6 
+2 d4 d5) - have a similar _ 
+stragetic concept. Black fights 
+against the formation of the 
+'ideal' pawn centre by limit~ng 
+its mobility and placing a well 
+protected outpost on d5. The 
+most cruc~al postions In the 
+Caro-Kann are as follows: 
+first - 
+1 e4 c6 2 d4 d5 3 e5 Af5 
+4 Qc3 e6; second - 
+1 e4 c6 2 
+d4 d5 3 Qc3 de 4 a x e 4  Af5 5 
+Qg3 Ag6 
+where White has a slight 
+advantage, but there are no 
+weaknesses in Black's position 
+and Black's development is 
+unhindered. The basic 
+pos~tion in the French 
+Defence - 1 e4 e6 2 d4 d5 3 
+Qc3 Ab4 4 e5 c5 
+leads to the posit~on wlth the 
+blocked pawns on d4 and e5 
+under constant threat. 
+These two openlngs are 
+regarded as qu~te reltable and 
+lead to complex manoeuvring 
+in the mlddlegarne. Those who 
+like scrupulous work at the 
+chessboard and who can 
+patiently bide their time would 
+do well to study one of these 
+openings. But I personally 
+prefer the Caro-Kann Defence 
+w ~ t h  a free development of 
+Black's pleas, whereas in the 
+French Defence the black 
+bishop on c8 is hemmed In by 
+its own pawns.
+
+The course of events is 
+r n ~ ~ h  
+slower if White starts 
+the game with the advance of 
+the queen's pawn - 1 d4. 
+Here, after the first opening 
+moves the plans for both sides 
+are unclear and concealed 
+from the opponent. All chess 
+openings starting with 1 d4 are 
+called 'closed' or 'semi- 
+closed'. To play them well and 
+efficiently, one must have a 
+certain understanding of 
+positlon and some experience. 
+Therefore I adv~se you to play, 
+at least for a year, 'open' 
+games, and only after thls can 
+you start playing 'closed' 
+games. 
+Analogous to 1 e4, the most 
+fundamental reply to 1 d4 is 1 
+... d5. And 2 c4 leads to 
+different variat~ons of the 
+Choice of Opening 57 
+or Tarrasck Defences, Black 
+will try to strengthen the 
+outpost on d5, whereas Whlte 
+will be methodically creating 
+favourable conditions for the 
+king pawn's advance to e4, In 
+this century other methods of 
+development, aimed at 
+providing Black with less 
+stra~ghtforward counterplay 
+in the centre, have evolved. In 
+the Nmzo-lndran Defence ( 1 
+d4 Qf6 2 c4 e6 3 Qc3 l b 4 )  
+Queen's Gambit. By reply~ng 2 
+and the Queen's Ind~an 
+... c6, the Slav Defence or 
+Defence (1 d4 Qf6 2 c4 e6 3
+
+58 Choice of Opening 
+Black tries to fight for control 
+over e4. In the King's Indian 
+Defence (1 d4 Qf6 2 c4 g6 3 
+8 c 3  Ag7 4 e4 d6) 
+and the Griinfeld Defence (1 
+d4 Bf6 2 c4 g6 3 Qc3 d5 4 cd 
+Qxd5 5 e4) 
+Black permits White to build 
+up a powerful pawn centre and 
+t h e n  embarks o n  a n  
+undermining strategy. 
+And that is the end of our 
+short outline of the basicchess 
+openings. When you read one 
+of the numerous chess 
+manuals available, don't be 
+confused by the multitude of 
+-~ariations you may come 
+across. They reflect all that 
+might be of importance in 
+tournament practice, in other 
+words, the basic laws of 
+opening strategy. We have 
+already dwelt upon it, and it is 
+a must for the beginner.
+
+7- 
+Lesson 12: The Art of Planning 
+Before embarking on an 
+activity, almost every person, 
+in order to achieve his object, 
+contemplates what operations 
+he will have to perform and 
+figures out the best sequence 
+for these operations. 
+I firmly believe that chess is, 
+to a certain extent, a model of 
+life, and therefore planning is 
+an essential feature of this 
+game. 
+What is planning in a chess 
+game? It is a well-considered 
+order of operations aimed at 
+achieving a definite and 
+concrete objective, the order 
+taking into account the 
+situation on the chessboard 
+and constantly modified by 
+the opponent's actions. 
+I 
+The plan should not be 
+confused with the object of the 
+game. Some amateur may say 
+'1 want to checkmate, 
+therefore I play for a mate 
+from the very start. So I play 
+according to a plan.' This is an 
+utterly wrong approach. In the 
+initial position there are no 
+real conditions for mating the 
+opponent's king. The mate is 
+the ultimate and most desired 
+object of the game, and 'play 
+for mate from the first move' is 
+a wish to satisfy this desire. 
+Firstly, you develop your 
+pieces according to a certain 
+pattern 
+to achieve some 
+superiority in a certain area of 
+the chessboard. 
+Then you increase your 
+pressure in order to obtain 
+concrete positional or 
+material advantages in the 
+middlegame. 
+And finally, you carefully 
+exploit all your advantages in 
+the endgame, obtaining a 
+material superiority that 
+renders any resistance 
+impossible. 
+The defending side does not 
+play in a free-wheeling fashion 
+either; he also plays according 
+to a plan, taking into account 
+alI dangers, threats and 
+weaknesses in his camp and 
+trying above all to get rid of 
+the weaknesses.
+
+- 
+60 The Arf of Planning 
+The plan is built up on the 
+- 
+basis of a concrete evaluation 
+of the position and its 
+. 
+peculiarities. Therefore, it is 
+important to be able to analyse 
+the fighting formations of both 
+sides and to understand all the 
+subtleties of the position. The 
+ability to build up a plan 
+and to carry it out consistently 
+on the board is one of the most 
+attractive aspects of chess; 
+sometimes it is more gratifying 
+than, say, a direct attack on 
+the enemy's king. And if you 
+remember that quite often 
+chess players camouflage their 
+intentions by employing 
+distracting manoeuvres, you 
+wiH understand that playing 
+according to plan is a great art. 
+Of course, it takes a long 
+time to learn your operations 
+at the chessboard. Serious and 
+small mistakes are inevitable. 
+But to my mind it is better to 
+learn from your mistakes than 
+to do without any plan 
+whatsoever. 
+To illustrate this, let us 
+consider t h e  following 
+examples. 
+A.Suetik1 .Bondarevsky 
+Moscow 1963 
+This is one of the oldest 
+variations of the Ruy Lopez. 
+Having completed the first 
+half of the plan in the opening 
+(evacuation of the king from 
+the centre), White is planning 
+to create a pawn centre by 
+continuing c2-c3 and d2-d4 
+and exerting pressure on the e5 
+pawn. Black ordinarily tries to 
+hold the outpost on e5 by 
+playing Qg8-e7-g6 followed 
+by Ae7. It is also possible to 
+build up another defensive 
+formation: .. . Qg8-e7, ... g6, ... 
+Ag7. Both sides seem to be 
+ready for slow positional man- 
+oeuvring. Suddenly Black 
+makes an impulsive anti- 
+positional move.
+
+6 
+d4! 
+Energetic actions in the 
+centre should be regarded as 
+the best reaction to Black's 
+premature kingside escapade 
+The best way to exploit 
+effectively Black's 
+slow 
+development is to open up the 
+centre. White's 6th move is a 
+good example of timely 
+correction of the previously 
+envisaged plan prompted by 
+the hazardous actions of the 
+adversary. 
+6 ... 
+24 
+7 Ax&+ bc 
+8 
+Qel 
+ed? 
+Another positional concess- 
+i 
+ion. Labouring under the 
+illusion that the advantage of 
+two bishops permits him to 
+open up the centre, Black, still 
+conspicuously underdevelop- 
+ed, makes serious concessions 
+in the centre. 
+9 
+Wxd4 Vf6 
+1 
+10 Wa4 
+Qe7 
+11 Qc3 
+1 
+One more correction to the 
+opening plan. This position 
+does not require the advance 
+of the pawn to c3, and this 
+square is now occupied by the 
+knight which gets involved in 
+the struggle for the centre - 
+-
+*
+,
+ 
+The Art of Planning 61 
+the decisive sector. 
+11 a*. 
+Ad7 
+12 Was! 
+White modifies his plan and 
+uses the weakness of the c7- 
+pawn to deter Black from 
+castling, thereby frustrating 
+his opponent's intention to 
+mobilise his pieces. The loss of 
+a tempo is more than 
+compensated by the disham- 
+ony of Black's pieces. 
+12 *** 
+*as 
+13 ad3 
+Ag7 
+14 e5! 
+This is part of White's plan 
+aimed at organising an attack 
+against the uncastled Black 
+king. The quickest way is to 
+clear the field in the centre. 
+14 ... 
+WfS 
+After 14 ... de 15 Qc5 there 
+is no defence against Pdl. 
+15 Be1 
+d5 
+The only way to save the
+
+62 The Art of P!unnittg 
+game is to avoid opening up 
+the d-file. However, the 
+weakness of the squares in 
+Black's camp turns out to be a 
+decisive factor. 
+16 Qe2 
+Qg6 
+17 Qg3 
+We6 
+18 Ag5+ &c8 
+. 
+19 QcS! 
+We8 
+I -  
+20 QhS! 
+White's 
+knights have 
+immediate exchange of one 
+smithereens. The final stage of 
+White's plan is to obtain a 
+decisive material advantage. 
+20 ... 
+21 Qxg7 
+Rxg7 
+22 h a 6  Pa7 
+23 Ae3 
+Hxa6 
+24 I x a 6 +  
+and soon Black resigned. 
+Here is another example 
+from the game between 
+Svetozar Gligoric and Vasily 
+Smyslov. 
+In addition to the extra 
+pawn which can be exploited 
+only in the ending, Black's 
+chief advantage lies in the 
+control of a number of squares 
+in the centre: d4, d5, c5, f4 and 
+f5. White has his counter- 
+chances: the pawn majority on 
+the queenside and the d-file. 
+How many similar positions, 
+as a result of superficial play, 
+have ended in the draw! But 
+Smyslov is a great expert on 
+such endgames. His winning 
+plan comprises three basic 
+stages. 
+The first stage is the 
+immediate exchange of one 
+pair of rooks so as to prevent 
+penetration on the d-file. The 
+other rook should be 
+preserved to combat the 
+eventual advance of White's 
+queenside pawns. 
+20 ... 
+fjf fd8
+
+The second stage of the plan 
+1 
+is to threaten the creation of a 
+I 
+passed h-pawn. To prevent 
+this, White's rook must 
+i 
+concede the d-file to Black's 
+rook. 
+2 4 M 2  
+h5 
+25 &e3 
+g5! 
+26 Hh2 
+Ed8 
+27 Ehl 
+I 
+The third stage of the plan 
+The Art of Planning 63 
+incorporates an attack on the 
+e4-pawn. 
+27 .,. 
+~4 
+28 fg 
+chxg4f 
+29 d?e2 
+Qf6 
+30 r$e3 
+Ed4 
+Now that White's pieces 
+have to defend the e4-pawn, 
+Black's king comes into play, 
+heading for g4. 
+31 Efl 
+Qg4+ 
+32 &e2 
+ail3 
+33 Zf3 
+&g7 
+34 Ed3 
+&f6
+
+64 The Arr of Planning 
+A necessary correction of 
+plan. Originally, the route of 
+Black's king was g7-g6-g5-g4 
+provided the rooks were 
+preserved. However, White 
+seeks salvation in the knight 
+endgame, and 
+therefore 
+Black's king must be kept 
+close to the centre. 
+35 Hxd4 
+ed 
+36 Qb5 
+&e5! 
+37 Qxa7 +xe4 
+38 Qc8 
+d3+ 
+Certainly not 38 ... e5? 39 
+Qd6 mate! 
+39 a d 2  
+a d 4  
+40 c5 
+bc 
+41 Qd6 
+QeS 
+White resigned 
+What is the best method of 
+planning a chess game? 
+Presumably, by analysing 
+grandmasters' annotations 
+where particular emphasis is 
+placed on the logical sequence 
+of operations to achieve the 
+ultimate objective. 
+The annotations to their 
+games by top ranking chess 
+players will be highly 
+beneficial for all lovers of 
+chess keen on improving their 
+game.
+
+Lesson 13: Forcing Continuations 
+For most enthusiasts chess is 
+a game sparkling 
+with impetuous attacks and 
+combinational fireworks. 
+Everyone is keen on attacking 
+and creating beautiful 
+combinations, but very few 
+are enchanted by the genuine 
+beauty of subtle positional 
+manoeuvres and profound 
+strategic plans. 
+The art of positional play is 
+not duly appreciated by the 
+rank-and-file who often fail to 
+understand why grandmasters 
+are so good at carrying out 
+beautiful and effective attacks. 
+Many amateurs can solve, no 
+worse than well-known 
+masters, problems and 
+studies. And only upon 
+plunging seriously into the 
+intricacies of the game do they 
+realize that the opportunities 
+for effective attacks and 
+combinations are not, as a 
+rule, spontaneous, but they 
+result from positional play 
+based on the observance of the 
+laws of chess strategy. 
+Therefore those who want to 
+succeed in chess should realise 
+that combinative and posit- 
+ional play do not oppose but 
+rather complement each 
+other. 
+I 
+like attacking and 
+sacrificing, but nevertheless I 
+am firmly convinced that 
+positional play is the basis of 
+chess, reflecting the inner logic 
+of the chess struggle and more 
+i n  k e e p i n g  w i t h  t h e  
+requirements of the modern 
+game. 
+The basis of positional play 
+is the plan we dwelt upon in 
+some detail in our previous 
+lesson. Forming a deep and 
+efficient ('correct') plan 
+requires as much imagination 
+and versatility as calculating 
+an intricate chess combinat- 
+ion. If the idea of a 
+combination has been found, 
+then the calculation of the 
+moves is a matter of time and 
+technique. The moves 
+frequently assume a forced 
+character; they become
+
+66 Forcing Continuations 
+realistic and concrete. 
+In formulating a plan one 
+has to consider the positions 
+which may be encountered a 
+few moves later. The concrete 
+calculation of variations often 
+gives away to semi-abstract 
+speculations and assumptions 
+about the likely resultant 
+positions. The ability to play 
+'according to the position', or 
+'positionally', is important in 
+complex and abstract 
+situations when the target of 
+the attack is not yet clear and 
+one has to manoeuvre in order 
+to consolidate one's pieces and 
+discover a weak point in the 
+enemy camp. 
+The mere mention of the 
+name of Paul Morphy, the 
+brilliant American chess 
+player of the 19th century, 
+makes many lovers of chess 
+remember his outstanding 
+attacks and combinations. 
+However, very few know that 
+these combinations were 
+based on profound strategic 
+principles such as maximum 
+centralisation of the pieces, 
+superiority in development, 
+and opening of files in the 
+centre. Morphy intuitively 
+understood the laws of chess 
+strategy and, owing to this, he 
+scored a great number of 
+brilliant victories. 
+The great chess thinker of 
+the end of the 19th century, the 
+first official world champion 
+Wilhelm Steinitz was the first 
+to formulate the basic laws of 
+positional play (strategy). He 
+showed that a plan cannot be 
+inspired by the player' 
+imagination. It should rely on 
+something concrete hidden in 
+the position on the chessboard 
+at a particular moment. He 
+demonstrated that each 
+position on the chessboard is 
+characterised by various 
+factors, favourable or 
+unfavourable for each side, 
+which should be analysed both 
+separately and together so 
+as to evaluate the position. 
+This evaluation will be helpful 
+in formulating a plan taking 
+into account the real 
+possibilities of both sides. 
+The ability to evaluate 
+properly the situation at any 
+moment of 
+t h e  game 
+determines, to a great extent, 
+the strength of the chess 
+player. 
+Let us consider a simple 
+example. 
+I .Boleslrrvsky-A,Kotov 
+Zurich 1953 
+.
+
+Forcing Conrinuarions 6 7 
+At first glance, the chances 
+are unclear here - 
+White has 
+an extra pawn, but his 
+queenside pawns are weak and 
+Black's 
+two long-range 
+bishops are likely to give Black 
+sufficient counterplay to 
+achieve equality. The trouble 
+is that the bishop on d6 is 
+pinned. To free himself, Black 
+has to play for simplifications, 
+hoping to secure a draw in the 
+ending with opposite coloured 
+bishops. Alas, there is a small 
+drawback in this evaluation of 
+the position leading, 7 moves 
+later, to Black's loss. 
+20 Pf4 
+Axf3 
+21 Hxd6 
+Pxd6 
+22 Wxd6 Pxd6 
+23 Axd6 Pe8 
+24 Bxe8+ Qxe8 
+- 
+- 
+25 Ae5! 
+Ac6 
+26 
+b4! 
+b5 
+27 f3 
+If Black could exchange 
+knights, the draw would be 
+obvious, even if he let the 
+White king into the centre and 
+gave up the a6-pawn. But this 
+is impossible. It is easy to see 
+that White's bishop is ready to 
+capture Black's knight if it 
+moves. So, the ending with the 
+opposite-coloured bishops 
+does not save Black and the 
+White king will take the 
+shortest way to the queenside, 
+after which Black's pawns are 
+sure to fall. This elementary 
+example shows that White 
+managed to exploit his 
+advantage so easily because 
+among numerous middle- 
+game positions he saw the best 
+one arising after 25 Ae5! and 
+26 b4! after which the 
+calculation of variations was 
+quite easy. 
+, To evaluate the position
+
+68 Forcing Conrinuations 
+correctly, one should be able 
+to analyse the disposition of 
+the pieces, their centralisation, 
+the quality of pawn structure, 
+mobility, the availability of 
+open lines, and the material 
+relationships of the pieces. 
+The depth and subtlety of the 
+general evaluation of the 
+position depends on the 
+concrete estimation of each of 
+the above-mentioned factors 
+in any given position. 
+For example, it is common 
+knowledge that a rook is 
+stronger than a knight, but if 
+the knight occupies a well- 
+protected outpost in the centre 
+of the board while the rook is 
+completely out of the action, 
+then the knight is obviously 
+superior to the rook. 
+In the endgame the 
+evaluation of the position is 
+usually determined by the 
+possession of passed pawns 
+and centralisation of the king. 
+In the middlegame, on the 
+other hand, the king should be 
+kept away from the centre. 
+An experienced chess player 
+respects the art of positional 
+play because he appreciates 
+the benefit of the systematic 
+accumulation of small 
+positional 'pluses' providing, 
+in the final analysis, the so- 
+called positional advantage 
+for one of the sides. The player 
+having the positional 
+advantage is in charge of the 
+situation. Suddenly he 
+discovers a great wealth of 
+different possibilities for his 
+pieces and a good choice of 
+combinational and positional 
+continuations. 
+If you take ten beautiful 
+attacking combinations ofany 
+grandmaster and try to 
+evaluate the initial positions, 
+you will see that these 
+combinations were based on 
+positional superiority, for 
+example superiority in 
+development or superior 
+mobility of the pieces. 
+In the past 100 years 
+profound chess analysts have 
+unravelled many mysteries in 
+the theory of positional play. 
+The basic laws of chess 
+strategy formulated by the 
+great Steinitz have remained 
+u n c h a n g e d ,  b u t  m o r e  
+emphasis is being placed now 
+on such factors as dynamics of 
+the position, compensation 
+for some positional drawbacks 
+('minuses') by some advant- 
+ages ('pluses'). More import- 
+ance is being attached now to
+
+the co-ordination of the pieces 
+since two or three well co- 
+ordinated pieces can truimph 
+over enemy pieces superior in 
+force but less mobile. 
+And finally, whereas 150 
+years ago combinations were 
+aimed ultimately at seizing the 
+king's fortress, nowadays, 
+with the progress of defensive 
+technique, complex combinat- 
+ions are carried out to increase 
+Forcing Conrinuutions 69 
+positiond gains. 'Positional 
+sacrifice' of chess material has 
+become one of the most 
+effective techniques when 
+pawns and pieces are sacrifced 
+to achieve substantial (but not 
+decisive) positional gains. 
+In conclusion, I would like 
+to advise all lovers of chess to 
+study more persistently the art 
+of positional play. I assure you 
+you won't regret it!
+
+Lesson 14 Queen Sacrifices 
+So long as a chess game 
+develops steadily in accord- 
+ance with the laws of strategy, 
+the traditional hierarchical 
+value of chess pieces is 
+preserved. One can, of course, 
+argue about which is stronger 
+- 
+the rook or the bishop and 
+two pawns - depending on 
+the position occupied by these 
+pieces. But sometimes chess 
+pieces acquire supernatural 
+strength and begin performing 
+miracles. AII our traditional 
+values are exploded: for 
+instance, a pawn becomes 
+stronger than a rook or even a 
+queen. This happens most fre- 
+quently when a well thought- 
+out combination is imple- 
+mented on the chess board. 
+It is a well known fact that 
+combinational play appeals to 
+chess enthusiasts. Why? First 
+of 
+all, by its beauty, 
+unexpectedness and inexor- 
+able logic, for in the course of 
+the combination the opponent 
+usually makes forced moves. 
+This is one of the most astan- 
+ishing paradoxes of chess, 
+When a struggle is in progress, 
+each side can choose from 
+several possible moves. But 
+combinative complications 
+violating normal material 
+values strictly limit the ways in 
+which the game can develop, 
+and what is ore, the opponent 
+has no choice of moves. 
+Let us analyse a game 
+between Edward Lasker and 
+George Thomas played in 
+I9 1 I. It deveIoped quietly at 
+first. 
+Edward Lasker-G.Tbomu 
+London 191 1
+
+Now comes the signal for 
+attack: 
+10 WhS! 
+We7 
+Black avoids 10 ... Axe5 
+thinking that after 1 1 Qxf6-k 
+he will be saved by 11 ... gf. If 
+only he had known what was 
+going to happen next! 
+11 Wxh7+!! 
+Queen Sacrifices 71 
+an inglorious death. 
+- 
+11 ... 
+&xb7 
+12 b f 6 +  ah6 
+If the king had retreated to 
+I 
+hS the end would have been 
+I 
+immediate: 13 Qg6 mate. 
+13 Qeg4+&g5 
+I 
+- 
+14 h4+ 
++f4 
+i 
+15 g3+ 
+&f3 
+I 
+16 Pe2+ kg2 
+17 Bh2+ &gl 
+An astonishing sacrifice. 
+White gives up his queen for a 
+pawn making the Black king 
+run to the opposite end of the 
+chessboard where he will meet 
+This square usually 
+provides shelter for the White 
+king. But the Black king is sure 
+to perish here. 
+18 &d2 mate. 
+Beautiful? Yes! Unexpect- 
+ed! Yes! Forced? Yes! But why 
+is it so sudden? How can the 
+combination be foreseen and 
+found? An experienced chess 
+player k n o w s  t h a t  a 
+combination never starts from 
+scratch. To make a combinat- 
+ion feasible, one must have 
+certain advantages which are 
+accumulated gradually, move 
+after move. The accumulative 
+process may substantially 
+accelerate the opponent's 
+mistakes. 
+What made the queen 
+sacrifice in the game analysed 
+above possible? White did not 
+have the advantage in 
+development, but his four
+
+72 Queen Sacrifices 
+minor pieces were aimed at the 
+Black king and the weak h7- 
+square. The absence of the 
+Black pawn on f7 created the 
+preconditions for the mating 
+position: White's knights on f6 
+and g6, Black king on h8 and 
+Black's pawn on g7. This is a 
+typical position. 
+The knowledge of such 
+positions is essential for any 
+chessplayer. There are many 
+positions of this kind and it is 
+quite easy to remember them. 
+Therefore in a labyrinth of 
+combinations one must be 
+able to see the elements of 
+elementary mating positions. 
+Let us analyse a position from 
+a game between G .  Rotlevi 
+and A. Rubinstein played in 
+1908. 
+22 ... 
+Uxc3!! 
+23 gh 
+23 Axc3 is impossible 
+because of 23 ... Axe4+ 24 
+l x e 4  Wxh2 mate. 
+23 ... 
+Od2!! 
+The queen has too much to 
+do protecting the important 
+squares h2 and e4. Black's last 
+move makes it impossible for 
+her to protect these squares 
+any longer. 
+24 Wxd2 Axe4+ 
+25 Wg2 
+PM!! 
+Brilliant! The pinned queen, 
+cannot defend the king from 
+being checkmated on h2, and 
+the rooks cannot do it either. 
+Combinations like these are 
+unforgettable. 
+How do they arise? What is 
+their essence? We shall devote 
+a few lessons to these 
+questions. Now we are going 
+to specify the conditions 
+necessary far carrying out 
+combinations. 
+A combination, as has been 
+stated, does not occur at a
+
+Queen Sacrifices 73 
+predetermined m o m e n t  
+during the game. The idea for 
+a combination may appear 
+when the situation on the 
+chessboard is characterissd by 
+cettain specific features. They 
+suggest the motif of the 
+combinational explosion. 
+Such specific features incl- 
+ude, for example, weakness of 
+the first (White) or eighth 
+I 
+(Black) rank which makes it 
+2 
+Wc4!! #d7 
+possible for enemy pieces to 
+penetrate the king's camp. If 
+that happens, the defending 
+side, in order to avoid being 
+checkmated immediately, 
+must accept heavy losses and 
+the subsequent struggle 
+becomes pointless. 
+A classic example is 
+provided by the game between 
+Edward Adarns and Carlos 
+Torre in 1920. 
+3 
+Wc7!! WbS! 
+These elegant queen offers 
+are beautiful but apparently 
+pointless. What has White 
+achieved? If he continues in 
+the same style - 
+4 Wxb7, then 
+Black will continue 4 . .. Wxe2! 
+5 Exe2 Bcl+ 6 &el Hxel+! 7 
+Pxef with Hxel when it is 
+White who is mated because of 
+the weakness of the first rank. 
+Therefore a tricky way of 
+distracting the Black queen 
+from e8 must be found - 
+this
+
+74 Queen Sacrifices 
+is the theme of the 
+combination. 
+4 
+a4! 
+Wxa4 
+5 
+Ed!! 
+A brilliant knockout! Black 
+has no time to create a flight 
+square: 5 ... h6 6 Wxc8 Pxc8 7 
+Pxa4 winning a rook. It is 
+impossible to play 5 .,. Wxe4 
+because of 6 Pxe4 and the 
+White queen is taboo. So the 
+queen has to retreat. 
+This sacrifice is decisive. 
+The Black queen can no longer 
+stay on the a4-e8 diagonal. 
+Black has to admit defeat. 
+In our next lesson we shall 
+continue our consideration of 
+the conditions which are 
+necessary if attacking 
+combinations are to be carried 
+out during a game.
+
+Lesson 15: Tactical Devices 
+In our last lesson we dealt with 
+and how they 
+occur in practical games. We 
+also analysed some attacking 
+based on the 
+weakness of the first (or 
+eighth) rank. 
+Now we art: 
+going to examine other 
+specific situations giving rise 
+to various combinations. 
+Firstly we look at the 
+weakness of the second 
+(seventh) rank. 
+The weakness of the back 
+rank leads to mating threats 
+against the White king. The 
+weakness of the second or 
+seventh rank most often leads 
+to the destruction of the king's 
+pawn protection thereby 
+facilitating ultimate victory. 
+In Lesson 14 we considered 
+the game between G. Rotlevi 
+and A. Rubinstein in which 
+White capitulated because of 
+the weakness of the second 
+rank when both Black's rooks 
+created threats to h2. Let us 
+consider an analogous 
+situation which was reached in 
+the game Carlos Torre vs 
+Emanuel Lasker (Moscow 
+19251. 
+It seems that Black may be 
+happy with his position but an 
+unexpected and brilliant 
+sacrifice of White's bishop 
+drastically changes t h e  
+situation, making it possible 
+to carry out a combination 
+which in chess is called a 
+'windmill'. 
+1 Af6!! Wxh5 
+2 Pxg7+ &h8 
+3 
+rtxf7+ &g8 
+, 
+4 
+Pg7+ *b8 
+5 
+Dxb7+&g8 
+6 
+Pg7f 
+&h8 
+7 
+llg5+!
+
+76 Tacticai Devices 
+After a series of discovered 
+checks the rook has mutilated 
+the whole of Black's army on 
+the seventh rank and now 
+Black's queen is sure to fall 
+too. 
+7 ... 
+&h7 
+8 
+Pxh5 &e6 
+9 
+Eh3 
+&if6 
+10 Exhi+ 
+White, with two extra 
+pawns, won easily. 
+Practice has shown that the 
+incursion of two heavy pieces 
+onto the second (seventh) rank 
+is the surest way to success. It 
+is also known that it is difficult 
+to attack the enemy king 
+1 
+e4 
+e5 
+2 Qf3 
+Qc6 
+3 Ac4 
+af6 
+4 
+d4 
+ed 
+5 
+0-0 
+A& 
+6 
+eS 
+d5 
+7 
+ef 
+dc 
+8 
+Pelt 
+In this position Black 
+should give up a pawn in order 
+to mobilise his pieces, for 
+example: 8 . , . l e 6  9 fg Pg8 10 
+Ag5 Wd5. However, Black 
+decided to hold on to the pawn 
+and after 
+8 ... 
+&f8? 
+9 
+AgS 
+gf 
+10 l h 6 +  &g8 
+protected by a solid pawn 
+the pawns on f7, f6 and h7 set 
+formation. Things are 
+up a prison rather than a 
+different, however, when there 
+fortress for his king. White's 
+are weaknesses (called 
+bishop on h6 acts as guard 
+'islands') in the pawn set-up. 
+preventing the Black king's 
+Just look at the game Caesias 
+escape. Now White should 
+vs Vladmir VukoviC, 1940. 
+bring a mating piece into
+
+Tactical Devices 77 
+,,tion. 
+But which piece? It 
+be a White knight on f6, 
+a rook on e8, or the queen on 
+g4. 
+It is interesting that 
+various situations could have 
+,ccurred in this game where 
+any of the pieces was capable 
+of inflicting the decisive 
+blow. 
+11 Qc3! 
+Ag4 
+12 Qe4 
+b6 
+13 c3 
+QeS? 
+14 a x e 5  
+The threat is 15 Wxg4 mate. 
+Why not take the formidable 
+queen? 
+14 ... 
+Axdl 
+15 Qd7!! l e 7  
+It seems that Black is 
+protected against mate on f6. 
+However, there is no defence 
+against the new sacrificial 
+1 
+fireworks. 
+16 Qexf6+!! Ixf6 
+17 Re8+!! 
+Oxe8 
+18 Qxf6 mate 
+Since a good pawn 
+formation is particularly 
+important for a successful 
+defence, there are some typical 
+attacking combinations wip- 
+ing out the enemy king's 
+defenders. Let us consider 
+a n o t h e r  characteristic 
+example of the sacrificial dest- 
+ruction of the king's pawn 
+cover. 
+After the natural 1 Wh5 f5 it 
+would be difficult to prove 
+White's superiority. However, 
+if White disposes of Black's 
+pawns on g7 and h7 the rook's 
+trip from fl to D will be 
+disastrous for Black. 
+1 
+lxh7+!&xh7 
+2 
+WhS+ &g8 
+3 
+$Lxg7! &xg7
+
+78 Tactical Devices 
+4 
+Wg4+ &h7 
+Not 4 ... &f6? 5 Wg5 mate 
+5 
+Hf3 
+e5 
+Black has to give up his 
+queen. 
+6 EhH Wh6 
+7 
+HxhLf Qxh6 
+It seems that Black has 
+suficient compensation for 
+the queen but 
+8 
+l d 7  
+White had foreseen this 
+manoeuvre before the bishop 
+sacrifice. Lasker won back one 
+of the Black bishops which 
+ensured his quick victory. 
+1n conclusion, let us 
+consider a classical example of 
+brilliant combinational play in 
+which another tactical device 
+- 'deflection' - was used. 
+While carrying out an attack it 
+is often necessary to dispose of 
+, 
+one of the enemy pieces 
+protecting one or several 
+important squares. The most 
+simple way, i.e., destruction or 
+exchange, is not always 
+possible, and then the 
+question arises as to whether it 
+is possible to deflect the enemy 
+piece by means of a tactical 
+blow. A hundred years ago 
+Johannes Zukertort 
+was 
+famousas a master of brilliant 
+combinations. Here is his 
+spectacular victory against 
+J.H. Blackburne. 
+Black has just refused to 
+take the pawn on f5 and by 
+placing the rook on c8 he 
+threatens to invade on c2. 
+White, in his turn, has an 
+attacking chance: 1 d5 Ec2 2 
+l d 4  practically forcing Black 
+to capture on b2. However, 
+White chose a more complex 
+and beautiful way of resolving 
+the conflict. 
+1 
+fg! 
+sc2 
+Black has no choice because 
+after 1 ... hg his king becomes 
+so weak that White does not 
+have to resort to any forcing 
+means in order to win. 
+2 gh+ 
+&ha! 
+Looks drastic, but very 
+effective. The king hides 
+behind the enemy pawn. 
+White cannot capture his own 
+pawn and must make Black do
+
+Tactical Devices 79 
+it, otherwise the attack will 
+Exploiting the weakness of 
+come to a standstill. 
+the eighth rank, White inflicts 
+I 
+3 
+d5+ 
+e5 
+another deflecting blow: 
+5 
+Ern+!! 
+\ 
+This present cannot be 
+accepted either - 5 ... Wxf8 
+would be met by 6 Axe5+ 
+&xh7 7 Wxe4+ with a forced 
+mate to follow. 
+5 ... 
+&xh7 
+6 
+l&xe4+$7g7 
+, 
+7 
+A~e5+!&xf3 
+Black still hopes to evacuate 
+I 
+the king to the queenside. But 
+4 
+WM!! 
+now comes the last combinat- 
+This is essentially the 
+ional blow: 
+beginning of the combination. 
+8 
+Pg7+! 
+1 
+What is Whitc*r idea? With the 
+I 
+pawn on h7 disappearing, the 
+two rooks and the bishop will 
+mate the king. The e5-pawn, 
+and its protector, the queen at 
+e7, are vital to the defence. So, 
+the queen must be deflected 
+both from e5 and the king. 
+Now if Black accepts the 
+lavish present, there is mate in 
+I 
+six - 4 ... Wxb4 5 Axe5+ 
+&xh7 6 Hh3+ &g6 7 Pg3+ 
+I 
+Q h 7 S H f 7 + # 3 h 6 9 A f 4 +  
+1 
+& h 5 1 0 P h 7 m a t e . H a v i n g  
+made himself aware of White's 
+cunning plot Black protects 
+the queen trying to hold his 
+pawn on e5. 
+4 ... 
+R8c5 
+If now 8 ... Wxg7? Black's 
+queen blocks the king's retreat 
+and allows mate on e8. So, 
+Black resigned. 
+In our next lesson we shatl 
+complete our introduction to 
+the principles of corn binat- 
+ional play.
+
+Lesson 16: The Endgame 
+. ,  
+Manv lovers of chess look with 
+disdain on the endgame, the 
+final stage of the game, as a 
+boring area which does not 
+require any combinational 
+imagination. Later on we shall 
+examine playing the endgame, 
+and you will see that this stage 
+of the game is extremely 
+complex and abundant in 
+original ideas. However, 
+we are now going to make an 
+attempt at convincing the 
+readers that combinational 
+abilities and skills are quite 
+essential for success in the 
+endgame. 
+During a combination in 
+the middlegame or in the 
+opening most of the pawns 
+and pieces are just passive 
+observers. An endgame com- 
+bination, however, requires 
+the participation of practically 
+all pieces, and the king is the 
+most active piece. Let us see a 
+very simple example: 
+see fo/lowing diagram 
+White is to move, and the 
+first impulse is to advance the 
+h-pawn but after 1 h7 e4! there 
+isn't 
+any likelihood of 
+promoting the White pawn 
+since all the squares on the 
+long diagonal are controlled 
+by the Black bishop. 
+So, before advancing the 
+pawn White should either 
+drive away the Bishop from 
+the long diagonal or block the 
+advance of the e-pawn. Let's 
+try the first variant. 
+1 Aa7! 
+A well-known combinat- 
+ional motif called 'deflection'. 
+The bishop cannot be 
+captured because of the h6-
+
+The Endgame 81 
+pawn queening, and 1 ... &g5 
+is met by 2 h7 when 2 ... e4 
+allows the White bishop to 
+take on 64. There is only one 
+reply left: 
+1 ..* 
+Ac3 
+2 &c2 
+Black has no choice: 
+. . ' 
+2 ... 
+Pal 
+- 
+pawn from queening. But it is 
+possibIe to capture bishop 
+with bishop. 
+3 ... 
+l x d 4  
+4 
+&d3! 
+Everything is now clear. 
+The e-pawn, protecting the 
+bishop, cannot now move. 
+After 
+4 ... 
+Ab2 
+White plays 
+5 
+&e4! 
+blocking the e5-pawn and 
+ensuring the promotion for his 
+h6-pawn. 
+A charming masterpiece, 
+isn't it? There were only six 
+actors, but each has played his 
+part to the best of his ability. 
+No less subtle was the 
+At first glance, White has 
+theatrical performance in the 
+extracted the maximum from 
+classical miniature published 
+the position, but still he 
+in a Glasgow newspaper in 
+cannot prevent the e-pawn 
+1895. 
+from advancing. Nevertheless, 
+/ 
+the bishop sacrifice was not a 
+I 
+chance or naive trick, but 
+the beginning of a beautiful 
+combination: 
+3 
+ld4!! 
+Utterly stunning and 
+unexpected, It is easy to see 
+that after 3 , .. ed comes 4 &d3! 
+. 
+when White blocks the pawn. 
+The Black bishop on a1 
+cannot prevent the White 
+1 
+c7
+
+82 The Endgame 
+This is quite obvious. Now 
+Black has two possibilities: 
+either to allow the queening of 
+the White pawn or to give a 
+check which seems quite 
+pointless. 
+1 .*. 
+Pd6+ 
+This is not as simple as it 
+might seem. 2 42b7 can be met 
+by 2 ... Rd7, and after 2 &c5 
+Black draws immediateiy, 
+playing 2 ... Ed1 3 &b6 Bcl. 
+2 &b5! 
+Pd5+ 
+3 
+&b4 
+Rd4+ 
+4 
+&b3 
+Xd3+ 
+5 
+&c2! 
+Now there are no more 
+checks and the rook cannot 
+get to c 1. But the struggle is far 
+from being over: 
+5 ... 
+Xd4! 
+A cunning trap! Now 6 c8W 
+is met by 6 ... Ec4+! 7 l x c 4  
+Stalemate! Is it really a draw? 
+That's what the newspaper 
+columnist in tended! 
+F. Saavedra wrote in with 
+the correction: 
+6 
+c%E! 
+White carries out a unique 
+mating attack with minimal 
+forces and the active 
+participation of the king. 
+6 ... 
+Pa4 
+7 
+&b3! 
+This is the end. To avoid 
+mate, Black has to give up his 
+rook. 
+This example amply shows 
+the important pecularities of 
+endgame combinations: 
+the active role of the king and 
+the ever increasing value of 
+passed pawns. 
+Here is another example: 
+White seems to be having a 
+hard time since it is difficult to 
+protect the a5-pawn. The 
+pawn sacrifice undertaken by 
+White looks like an act of 
+desperation. 
+1 
+c6 
+bc 
+Now the natural 2 Sc5 
+would be followed by 2 ... 
+ad7. After this the Black rook 
+gets to b5 via b4 and White 
+would be in a difficult 
+position. 1s it possible to cut 
+off the Black rook from the 
+b6-pawn? 
+2 
+Bb5!!
+
+I 
+This typical idea is called 
+2 ... 
+ab 
+3 b7 
+The situation has drastically 
+changed. Now Black is on the 
+edge of a precipice since the 
+appearance of a White queen 
+is imminent. 
+3 ... 
+Uxa5 
+4 
+b 8 1 +  &d7 
+5 
+Wh8 
+Black loses the h6-pawn and 
+with it his last hopes for 
+salvation. The White queen 
+will make short work of 
+Black's queenside pawns, but 
+Black is unable to stop White's 
+h-pawn. 
+Incidentally, if it were not 
+for Black's 
+fl-pawn and 
+White's g2-pawn, Black could 
+have saved the game by 
+building up an impenetrable 
+fortress after 1 c6 bc 2 EbS! 
+cb! 3 b7 Ed4 4 b8W &f7 
+The Endgame 83 
+placing the rook on d6 and 
+eventually dancing back and 
+forth between f6 and d6. You 
+can set up White's pieces 
+anywhere but all your 
+attempts to penetrate will be 
+futile. 
+Knowing this astonishing 
+feature of the endgame, Black 
+is able to extricate himself 
+from the following quandary: 
+Black seems to be in danger. 
+For instance, 1 ... Pcl 2 &d6 
+kc8 3 c7 Exc7! 4 bg4+! (but 
+not 4 bc - stalemate!). 
+Stalemate proves to be the 
+only drawing idea. 
+1 ... 
+Rd7!! 
+2 
+Ad5 
+Eb7!! 
+Now White has a choice. He 
+can either make a draw after 
+the dull 3 &d6 Hxb6 4 Ae6 
+Pa6 or gain a big material 
+advantage and a half-point
+
+84 The Endgame 
+after 3 cb with a stalemate, 
+However, the stalemate 
+position of the king does not 
+always save the defending 
+side. 
+It is precisely this 
+position that very often turns 
+out to be a trap for the king. 
+In spite of the material 
+advantage, White should be 
+very careful; if the h2-pawn 
+queens, Black will win the 
+game. But White manages to 
+lure the king into a stalemate 
+cage by means of a tricky 
+sacrifice. 
+1 An+ *gl 
+. 
+2 
+Ahl!! &xhl 
+3 
+&rl! 
+Incredible! Black has hro 
+extra pawns, but his king, 
+having captured the bishop, is 
+doomed to immobility, and 
+only one of Black's three 
+pawns can now move. 
+3 ..* 
+d5 
+4 
+ed 
+e4 
+, 5 
+d6 
+e3 
+6 
+d7 
+el+ 
+At last Black has freed the 
+king. 
+7 
+&xe2 
+&g2 
+8 
+d8W hlW 
+Black has done his best , but 
+now the passive position of his 
+queen, unable to help the king, 
+brings about his downfall. 
+9 
+Wg5+ &h3 
+10 ~ h 5 +  kg2 
+11 *g4+ 
+&h2 
+12 &f2! 
+Black must resign: there is 
+no defence against Wh4 or 
+9 h 5  mate. 
+So you have seen that the 
+endgame, which many chess 
+fans consider to be the most 
+boring stage of the game, 
+provides broad vistas for 
+combinations.
+
+Lesson 17: Methods of Attack 
+Every chess player, regardless 
+of his qualification (there are 
+of amateur players), 
+feel an upsurge of inspiration 
+when a position is reached in 
+which he can launch an attack 
+against the enemy king. But to 
+organise an attack, one must 
+acquire the skills of positional 
+play and the knowledge of 
+combinational blows covered 
+in our previous lessons. 
+In most games, one side, by 
+gradually accumulating minor 
+positional pluses, obtains a so- 
+called positional advantage 
+which has to be converted into 
+some real material advantage. 
+In such situations the best way 
+is to proceed from slow and 
+purposeful manoeuvres to 
+energetic actions characterised 
+by offensive operations and 
+constant concrete tactical 
+blows. 
+This method of chess 
+strategy is called the attack. 
+There are many types of 
+attacks, for instance, lightning 
+- 
+attacks, requiring two or three 
+moves to decide the game, or 
+mul ti-stage attacks, some- 
+times ten or moves long. Most 
+often the enemy king is the 
+target of the attack. The 
+attacking pieces try all 
+possible means to crush the 
+king even at the expense of 
+heavy material losses. In such 
+cases the end, as a rule, 
+justifies the means. 
+To illustrate such attacks, I 
+should like to analyse two 
+games. First, let us look at one 
+of my games. 
+E,Magerramov-G.Kasparov 
+Baku 1977 
+The opening was quite 
+tranquil. 
+1 Qf3 
+Qf6 
+2 
+d4 
+e6 
+3 
+124 
+d5 
+4 
+Qc3 
+Pe7 
+5 
+Ag5 
+h6 
+. 
+6 Ah4 
+0-0 
+7 
+e3 
+b6 
+-- 8 
+Wb3 
+Ab7 
+-. . 
+9 Pxf6 Axf6
+
+86 Methods of Attack 
+10 cd 
+ed 
+11 %dl 
+c5 
+12 dc 
+ad7 
+13 c6 
+Axe6 
+14 Qd4? 
+lxd4! 
+15 Exd4 Qc5 
+16 @dl 
+Qe6 
+17 Pd2 
+As a result of the incorrect 
+manoeuvre of White's knight 
+to d4, White's 
+king has 
+become stuck in the centre, 
+and his kingside pieces have 
+not 
+yet 
+been developed. 
+Therefore, the first stage of the 
+attack lies in a pawn sacrifice, 
+opening the long diagonal for 
+the bishop and the central file 
+for the rook. 
+17 ... 
+d4? 
+1 8 e d  
+Pe8 
+19 I3 
+An interesting plan of 
+defence. Now 19 ... Qxd4+ 
+would be refuted by 20 &f2! 
+However, there is one essential 
+drawback to White's plan: he 
+lags behind in development. 
+19 .., 
+Axf3!! 
+A timely and highly 
+effective tactical blow. Sin= 
+20 Wxf3 is met by 20 ... 
+Qxd4+, Black has completely 
+destroyed the pawn cover of 
+White's king, preventing his 
+escape from the centre. 
+Moreover, White's pieces have 
+become unco-ordinated. All 
+this is sufficient compensation 
+for the sacrificed bishop. 
+Nevertheless, Black should be 
+very energetic while conduct- 
+ing the attack. 
+20 gf 
+I h 4 +  
+21 Pi2 
+21 &e2 Qf4 mate would 
+have lost at once. 
+21 ... 
+xd4-k 
+22 Pet 
+Qxf3+ 
+I 
+24 &fl 
+Wh3+ 
+24 Bg2 
+Qb4 
+. 
+25 Rbgl 
+Pad8!
+
+Another stage of the attack 
+is over. Black has deployed all 
+his pieces and paralysed the 
+forces. Now he 
+could have re-established the 
+material equilibrum by 
+capturing the rook. However, 
+Black is in no hurry for this, 
+seeing that White's pieces 
+surrounding their own king 
+block his escape from the 
+centre. 
+26 *el? 
+The natural desire to keep 
+the queen closer to the theatre 
+of operations brings White to 
+the precipice and deprives his 
+king of manoeuvrability. The 
+only defensive resource was to 
+transfer the queen to g4. By 
+playing 26 Wa4! White could 
+have avoided immediate 
+defeat, though after 26 ... 
+Qxg2 27 Bxg2 Re5 28 Wg4 
+Wxg4 29 kxg4 f5 30 Af3 g5 it 
+was still difficult for White to 
+defend. 
+After 26 Wel? White has to 
+withstand another wave of 
+attack, both the king and 
+queen becoming targets. 
+26 ... 
+Pd3! 
+The rook is untouchable 
+since after 27 Axd3 Hxelf 28 
+*xc 1 the rook on g2 would be 
+unprotected. 
+Methods of Anack 87 
+27 Wi2 
+The threat was 27 ... Rf3+! 
+27 ... 
+Qf3! 
+Now White cannot find any 
+energetic or useful moves. For 
+example, the rook still cannot 
+be captured because of 28 ... 
+Q xh2 mate! White would 
+have been mated if the knight 
+had retreated. e.g., 28 abl. 
+PdI+ 29 Axdl axh2 mate! 
+The attempt to remove the 
+queen would have failed too, 
+e.g., 28 Wg3 Qd2+. So, White 
+has to move his rook from gl 
+to hl and back. 
+28 ah1 
+Rde3 
+29 Ehgl 
+&h8 
+30 Hhl 
+b5! 
+After the obvious 3 1 a3 a5! 
+there is no defence against the 
+decisive advance b5-b4; there- 
+fore White resigned. 
+However, an attack does 
+not necessarily lead to a 
+complete rout of the enemy as 
+the following game shows. 
+A-Alekhine-A.Rubinstein 
+Carlsbad 1923
+
+88 Methods of Attack 
+6 
+e3 
+0-0 
+7 
+Pcl 
+c6 
+8 
+Wc2 
+a6 
+9 
+a4 
+He8 
+10bd3 
+dc 
+11 Pxc4 Qd5 
+12 Af4 
+Qxf4 
+13 ef 
+c5 
+14 dc 
+Wc7 
+. 
+15 0-0 
+Wxf4 
+White's positional advant- 
+age is determined by his pawn 
+superiority on the queenside 
+and, what is more, by Black's 
+inferior development in that 
+sector. However, Alekhine 
+notices another pecularity of 
+this position - 
+the insufficient 
+protection of Black's kingside, 
+which enables him to launch 
+an attack against the king. But 
+before attacking, it is 
+necessary to weaken the 
+opponent's defensive lines. 
+Just look at Alekhine's superb 
+technique. 
+16 Qe4! 
+B x d  
+The continuation 16 ... 
+i x c 5  17 QegS! g6 (17 ... Qfs 
+18 Ad3! threatening both h7 
+andc5) 18 %fel Qf8 19g3wf6 
+looks passive, but it probably 
+is the best defence. 
+17 Qxc5 
+Axc5 
+18 Ad3 
+b6 
+19 Axh7+&h8 
+. 
+20 Be4 
+The first aim has been 
+achieved. In the pawn 
+formation defending Black's 
+king there is a gaping hole - 
+the pawn o n  h 7  has 
+disappeared and White can 
+place his heavy pieces on the h- 
+file. But White must play 
+energetically, or Black's 
+bishop will be brought to b7 in 
+two moves, and the attack will 
+be neutralised. 
+20 +.. 
+Ra7?
+
+Methods of A ttack 89 
+21 b4! 
+This is the beginning of an 
+effective deflecting manoeuvre 
+aimed at pinning down 
+Black's pieces, thereby depriv- 
+ing him of mobility and creat- 
+ing appreciable pressure on 
+the kingside. 
+21 . 
+IfS 
+22 Wc6! 
+Hd7 
+23 g3 
+Wb8 
+If now 23 ... Wd6 Alekhine 
+suggested 24 Wc4! We7 (or 24 
+... &g8 25 Ac6 Rc7 26 Rfdl 
+We7 27 ld3!) 25 QeS Ed6 26 
+lg6! winning material. By 
+placing his queen on b8 (to 
+shield the b6-pawn) Black 
+leaves his king virtually 
+unprotected, and this is 
+precisely what Alekhine has 
+been aiming for. Now he 
+quickly creates direct threats 
+against the enemy king. 
+White's pieces are instantan- 
+eously transferred to the other 
+half of the chessboard. 
+24 Qg5! 
+Xed8 
+The threat was 25 Qxf7+ 
+Rxfl 26 @xe8. 
+see following diagram 
+25 A&!! 
+A 
+very s t r o n g  a n d  
+unexpected blow. Black 
+cannot defend fl and White's 
+queen gets to h4. For example, 
+25 ... Ab7 26 Wc4! or 25 ... fg 
+26 Ws4! Pxb4 27 Wh4+ &g8 
+28 Wh7+ &fS 29 Wh8f &e7 
+30 Wxg7+ &e8 3 1 Wg8+ l f 8  
+32 Wxg6+ &e7 33 Wxe6 mate. 
+Black has to give up the 
+exchange, but he still cannot 
+get rid of the defects in his 
+position. The rest is routine. 
+25 ,.. 
+We5 
+26 axn+ B
+X
+~
+ 
+' . 
+27 Axn WE 
+ZS Pfdl! Xxdl+ 
+. ' 29 Bxdl Wxf7 
+, 
+30 Wxc8 &b7 
+31 Wxa6 Wf3 
+32 Wd3+ 
+Biack resigned 
+We hope that the above 
+games will help you acquire 
+skill in organising and 
+conducting offensive operat- 
+ions. 
+.
+-
+ - 
+. ."
+
+Lesson 18: Attack or Defence? 
+Which is more important - 
+attack or defence? In present 
+day chess this question is 
+extremely topical, and every 
+chess player tackles it his own 
+way. Impetuous and inexper- 
+ienced players are usually keen 
+on clinching the issue by a 
+direct attack. Lured by the 
+lustre of combinations, they 
+persistently look for beautiful 
+and unexpected tactical blows. 
+Most experienced chess play- 
+ers prefer strongly protected 
+formations capable of repell- 
+ing any attack. 
+Chess fans know that the 
+attacking or the so-called 
+romantic style was predomin- 
+ant in the 19th century. At that 
+time intricate methods of 
+defence were non-existent. If 
+your opponent sacrificed a 
+pawn or a piece, you were 
+supposed t o  accept the 
+sacrifice and fight back 
+afterwards. It was only at the 
+close of the century, when the 
+great chess philosopher 
+Wilhtlm Steinitz formulated 
+his theory of positional play 
+and world champion Emanuel 
+Lasker achieved outstanding 
+results, that defence came to 
+be appreciated and new chess 
+masters extremely skilful in 
+the art of defence appeared in 
+the chess arena, 
+How is this problem viewed 
+today? The answer is clear: 
+both the shield and the sword 
+are equally important. It is 
+obvious today that one cannot 
+become a strong player with- 
+out being a skilful defender. 
+Some 20 years ago intuitive 
+sacrifices in order to seize the 
+initiative were common 
+practice in international 
+tournaments. Nowadays 
+defensive technique bas 
+enhanced to such an extent 
+that 
+even a minor pawn 
+sacrifice should be based on 
+concrete variations, otherwise 
+the defence will take the upper 
+hand. 
+Why do we look back into 
+history? The answer is quite 
+simple: any chess player
+
+Artack or Defence? 91 
+wishing to improve his skills 
+has to accumulate the exper- 
+ience of previous generations. 
+Our forerunners, lacking in 
+knowledge, used the trial 
+and error method and left us 
+their chess wisdom in their 
+games and books. What took 
+them decades of laborious 
+work is now acquired by a 
+young chess player within a 
+year. 
+So, how does one learn to 
+set up a good defence? There 
+are many ways and methods. 
+We shall get acquainted with 
+them in our lessons. 
+Let us begin with bad 
+positions. Lasker used to say 
+that any position could be 
+defended and everyone knows 
+the popular chess proverb: 
+'It's never too late to resign'. 
+Experience has shown that no 
+matter how hopeless a 
+position is some chance 
+always crops up for puttingup 
+stubborn resistance. You must 
+find such a chance. When your 
+opponent, anticipating an 
+easy win, encounters new 
+Problems and difficulties, he 
+may, owing to fatigue, make a 
+mistake and victory will slip 
+away from him. Of course, if 
+both sides play well in this 
+situation, a bad position, 
+whatever the defence, will still 
+remain bad. 
+But you should do your best 
+and play to the bitter end. Just 
+look how Lasker did it. 
+Em,Lasker-A.Nimzowimh 
+St. Petersburg 1914 
+Black has an extra pawn, a 
+well positioned knight in the 
+centre and a strong pawn 
+structure. Very few could have 
+put up a stubborn defence 
+here. But the great Lasker, 
+noticing that Black's knight 
+could be exchanged and the 
+extra pawn was still doubled, 
+r e a l i s e d  t h a t  Black's 
+advantage, although it was 
+obvious, was not yet decisive. 
+Black still has to figure out 
+how to improve his position, 
+so White should wait quietly 
+and play non-committally.
+
+92 Atrack or Defence? 
+2 7 a 3  
+a6 
+28 Ae3 
+Bhd8 
+29 &a2 
+Bh8 
+30 &a1 
+Phd8 
+White's first success - 
+Nirnzowitsch shows by 
+moving his rook along the 
+back rank that he does not 
+know how to exploit his 
+advantage. And this is a good 
+incentive for strengthening 
+White's resistance. 
+31 &a2 
+Be8 
+32 Eg8 
+k g 8  
+33 Hxg8+ Ed8 
+- 
+34 Eg7 
+%d7 
+35 HgS+ Ed8 
+36 Eg7 
+Pf8 
+White has put new obstacles 
+in Black's path to victory, An 
+exchange of rooks has taken 
+the pressure off the b2-pawn. ' 
+Besides, White's rook is 
+positioned more actively than 
+its Black counterpart, but it 
+should be supported, or 
+Black's queen may oust the 
+rook. 
+37 c4 
+Lasker prepares d5. 
+37 .,. 
+f6? 
+The first mistake. Having 
+e n c o u n t e r e d  s t u b b o r n  
+resistance, Black is at a loss 
+and seeks defence against 
+White's activity. Black should 
+. 
+have ousted White's rook by 
+. 37 ... Wh8! 
+38 Ag5 
+QhS? 
+Misfortunes never come 
+singly, and one mistake is 
+often followed by another. 
+Unable to exploit his advant- 
+age, Black resorts to tactical 
+manoeuvres. Now he is 
+banking on an easy win after 
+39 Bh7 Qf4! 40 Exh3 axe241 
+or 39 Ae7 Qxg7 40 Ax@ Qh5. 
+After the game it was found 
+that Black still had winning 
+- chances after 38 ,.. Qe4 39 
+Ae7 Pe8 40 Pxf7 Wg4! 41 
+l h 4 !  Wg6 42 He7 Ph8! But 
+post-mortem and actual play 
+are two different things. 
+. Nimzowitsch misses the win 
+and, exhausted by the hard 
+struggle, finally loses his 
+advantage.
+
+Attack or Defence? 93 
+41 QeS! 
+Axe5 
+42 We8+! &c7 
+43 WxeS+ 
+Despite the extra rook, 
+Black cannot avoid perpetual 
+check. So the game was agreed 
+I 
+drawn here. 
+Lasker often extricated 
+himself from difficult situat- 
+ions due to his fierce and 
+skilful defence. 
+The great Cuban chess 
+player Jose Raoul Capablanca 
+lost very few games through- 
+out his chess career. He was an 
+excellent defender. 
+A,Bubinstein-J.Capablanca 
+St. Petersburg 1914 
+It seems that White has a 
+tremendous advantage in the 
+endgame, having an extra 
+pawn and a well positioned 
+queen. 27 ... c4 looks natural, 
+but after 28 f3 l c 8  29 e4 
+Black's queen is absolutely 
+immobile and his loss is 
+inevitable. Capablanca tries to 
+bring his queen into piay and 
+to get a passed pawn. 
+27 ... 
+b4 
+Now after 28 cb Wxb4 29 
+Wxa6 c4! the passed c-pawn 
+saves Black. There is only one 
+road to success for White: 28 
+c4! Wc8 29 Wb6! (preventing 
+29 ... a5) Wf5! 30 l x a 6  &h7!! 
+31 Wa7 We5 32 W x f l  Wal+ 
+33 &h2 Wxa2. Rubinstein, 
+however, chooses another 
+plan. 
+28 1 x 4 5  bc 
+29 Wxc3 Wbl+ 
+30 &h2 
+WxaZ 
+31 Wc8+ &h7 
+The situation has become 
+clear. White's formidable 
+kingside superiority is
+
+- 
+94 Attack or Defence? 
+counter balanced by Black's 
+The game was drawn here. 
+apparently modest but 
+Capablanca defended his 
+extremely powerful a-pawn. 
+inferior position with 
+astonishing ease, testifying to 
+34 g4 
+a4 
+his superb virtuosity. 
+35 
+hS 
+gh 
+Appreciate defence. Learn 
+36 Wf5+ 
+to defend - 
+a good shield can 
+Admitting Capablanca's 
+withstand the blow of any 
+superiority as an endgame 
+sword. 
+virtuoso. 36 gh We6! was too 
+risky for White. 
+Our next lesson will be 
+36 .., 
+&g7 
+devoted to the study of the 
+37 WgS+ &b7 
+presentday basic methods of 
+38 WxhS+&g7 
+defence.
+
+Lesson 19: Counterstts& 
+In our previous lesson we 
+covered methods of defence 
+based on extreme and 
+scrupulous efforts to improve 
+the co-ordination of the 
+pieces. But chess today has 
+become more intricate and 
+dynamic than it used to be, 
+say, 50 years ago. The art of 
+attack has become more 
+.. . . . 
+versatile and subtle. And, this, 
+in its turn, has caused a 
+reciprocal reaction; in other 
+words, the sharpening of the 
+sword has gone hand in hand 
+with the strengthening of the 
+shield. 
+To begin with, the role of 
+active defence aimed at 
+creating counter threats has 
+considerably increased. 
+I was lucky to meet on many 
+occasions Tigran Petrosian 
+whose death was tragically 
+premature. He lavishly shared 
+his invaluable experience with 
+me, and the chess encounters 
+with this phenomenal master 
+of defence were extremely 
+I 
+useful for me. For instance. it 
+I 
+took me a long time to 
+understand why my seemingly 
+irresistible attack had been 
+frustrated in our game at the 
+super-tournament in Tilburg 
+in 1981. 
+G .Kasparov-T.Petrosian 
+Tilburg 1981 
+Having sacrificed a pawn in 
+the opening, I managed to 
+cramp Black's pieces. Besides, 
+it's obvious that Black's king 
+is actually misplaced. The 
+threat is a4-a5, and it's not 
+clear how to repel Pcb2 and 
+Wb I. The cramped position of 
+Black's pieces makes his 
+defence passive and absolutely
+
+96 Counterattack 
+unpromising and therefore 
+Petrosian resorts to a desper- 
+ate move. 
+30 .., 
+b5 
+31 
+ab 
+cb 
+32 Ha2! 
+The impression is that Black 
+is on the edge of the precipice, 
+the destruction of his queen- 
+side down the open files seems 
+inevitable. However, from 
+now on Tigran Petrosian finds 
+moves that turn the whole 
+game into a display of magic. 
+32 ... 
+& b7! 
+Most masters would have 
+preferred 32 ... Ad6, giving up 
+the pawn with an inferior 
+position - 33 Bxb5 Rxb5 34 
+Qxd6 Wxd6 35 Wxb5 - but 
+avoiding a catastrophe. 
+Escaping from one pin, 
+Black falls under another two 
+pins. I really don't know how 
+my highly esteemed opponent 
+determined that his king 
+would be safe on b7, but his 
+decision had an unexpected 
+psychological effect on me. I 
+could still appreciate the 
+attacking power of my pieces, 
+but after this unexpected move 
+I really became muddled. 
+33 lb4? 
+Strange as it may seem, this 
+apparently natural and 
+supercharged move turns out 
+to be a serious error. I was 
+perfectly aware that d5 was 
+Black's foothold, but I didn't 
+see any way of gaining it. 
+Having returned to Moscow, I 
+found the winning line - 33 
+Qa3! Ab6 34 Qc2! Pa8 35 
+Qb4 Wd6 36 e4! fe 37 Wxe4 
+Pa7 38 Wxg6 Axd4+ 39 &hl 
+Q7b6 40 f5! As you see, the 
+win was far from easy, and it 
+required a lot of time; I had to 
+penetrate deeply into the 
+secrets of the position. 
+33 ... 
+We8! 
+The only move: the b5- 
+pawn 
+must 
+be strongly 
+protected. After 33 ... Wd8 the 
+continuation 34 e4 fe 35 Wxe4 
+We8 36 lxd5+! ed 37 Axd5-t 
+&a7 38 Pxa6+! &xa6 39 
+Ra3+ l a 5  40 Pxa5 mate 
+would be decisive. 
+34 Ad6 
+Pa8 . 
+35 Wbl 
+Here, for the first time in 
+this game, I experienced vague 
+fears over the outcome of the 
+attack, and I decided just to 
+develop my pieces occupying 
+vantage points and hoping to 
+inflict a serious combinational 
+blow on the enemy. However, 
+the former world champion's 
+next move caught me
+
+completely unawares. 
+35 ,.. 
+&c6!! 
+Fantastic!! The king, 
+leaving the pawn cover, 
+marches towards White's 
+army. This is not recklessness, 
+but an example of precise 
+calculation. Now White has to 
+find a way of saving his 
+muddled pieces without 
+material losses. There was 
+salvation here, but, alas, being 
+astounded by the fantastically 
+resourceful defence of my 
+opponent, I failed to find the 
+best continuation and lost the 
+game in a few moves. 
+36 Xba3? bc 
+37 Pxa6f Bxa6 
+38 Rxa6+Ab6 
+39 Ac5 
+Wd8 
+40 Wal 
+QxcS 
+Counreratzuck 97 
+So, the king not only 
+defended himself, he led his 
+army to victory. 
+~ L a l ~ s i n ~  
+this game, you 
+should draw the most 
+important conclusion: you 
+should be cold-blooded and 
+clear-headed when attacked 
+by your opponent. Then you 
+will be able to repel the attack 
+successfully and choose the 
+appropriate moment for 
+launching a counterattack 
+which, in the final analysis, is 
+the most efficient method of 
+defence. 
+Now let's analyse the 
+classical example of counter- 
+attack in a brilliant game 
+between two chess giants. 
+Y .Geller-M.Euwe 
+Zurich 1953 
+41 dc 
+&xc5! 
+White's attack looks 
+White resigned 
+threatening. In a couple of
+
+98 Counterattack 
+moves he can bring his queen 
+and rook to the h-file, so that 
+practically all his pieces 
+(except the rook on af) will 
+participate in the onslaught 
+against the Black king's 
+fortress. But former world 
+champion Euwe had played 
+over 70 games against the 
+greatest magician of attack, 
+Alexander Alekhine, so it was 
+not easy to embarrass him. 
+16 ... 
+b5 
+This isn't a waste of time, 
+but the beginning of a 
+remarkable plan. The passive 
+defence of the king's fortress is 
+unpromising for Black, since 
+his pieces have Iittle, if any, 
+scope for manoeuvre and half 
+of them will not be able to 
+protect the king. In view of 
+this, Euwe decides to react, as 
+soon as possible, with strong 
+counterplay in the centre, 
+where his pieces are no worse 
+posted than White's. 
+17 Ph4 
+Wb6 
+18 eS 
+axe5 
+19 fe 
+and3 
+20 Wxd3 
+Black has exchanged the 
+dangerous light-squared bis- 
+hop and opened up the long 
+diagonal for his bishop 
+controlling the vitally import- 
+ant g2-square. Nevertheless, it 
+seems that White is obviously 
+better: his queen will soon be 
+in the midst of the enemy 
+camp. 
+21 ... 
+Wxe6 
+21 Wxh7+ Qf7 
+22 Ah6 
+Black's position looks 
+critical. If White brings his 
+rook from a1 to fl, there will 
+be immediate threats to the 
+Black king. But it is at this 
+juncture that Euwe finds a 
+stunning tactical blow based 
+on 'deflection' and carries out 
+a lightning counterattack. 
+22 ... 
+ZitM!! 
+23 Wxh8 Pc2! 
+The situation has suddenly 
+and drastically changed. Now 
+the threat is 24 ... Ex@+ 25 
+&fl Wc4+ 
+etc. When the 
+tournament ended, the 
+grandmasters, after exhaust-
+
+ive analysis, arrived at the 
+conclusion that White could 
+have been saved, if he had 
+found some subtle and wetl- 
+hidden moves. This is one of 
+the variations: 24 d5! !&I%+ 
+25 ah1 Wf2 26 Dgl bxd5 27 
+Pe4 Axe4 28 Qxe4 Wh4 29 
+Axg7 Wxe4 30 Wf8+ etc. 
+Exhausted by the struggle, 
+Geller did not find the right 
+continuation, and the game 
+ended very quickly. 
+24 Rcl? 
+Sixg2-t 
+25 &fl 
+l b 3 !  
+26 &el 
+WD! 
+White resigned 
+Why was White's apparent- 
+ly t h r e a t e n i n g  a t t a c k  
+frustrated? White wanted to 
+use all his striking power, but 
+Counterattack 99 
+actualty it was only his queen 
+that bothered Black's king; the 
+other pieces were merely 
+observers. On the other hand 
+several of Black's pieces 
+participated in the counter- 
+attack against g2. Euwe was 
+successful because he 
+defended with a minimum of 
+forces, It was this type of 
+'economical' defence which 
+the great Lasker found to be 
+the surest sign of a top-class 
+chess player. 
+So, when on the defensive, 
+maintain your poise, When 
+you spot the enemy's threat, 
+don't rush all your pieces into 
+defence, use your pieces 
+economically and choose the 
+right moment for wunter- 
+attack,
+
+Lesson 20: The Opposition 
+For most enthusiasts chess is 
+primarily a game with a mult- 
+itude of possibilities for carry- 
+ing out unexpected and beaut- 
+iful combinations. They 
+believe that the fewer pieces 
+that remain on the chess- 
+board, the less interesting the 
+game. And to most of them the 
+endgame is reminiscent of a 
+gloomy, barren wilderness. 
+What an illusion! 
+The endgame, the final part 
+of the game of chess, is 
+inexhaustibly rich for chess 
+players endowed w i t h  
+creative, original thinking and 
+capable of carrying out 
+profound, 'long-range' ideas. 
+This phase of the game 
+requires clockwork precision. 
+If you are not happy about the 
+opening, you can impr0v.e 
+y o u r  position i n  t h e  
+middlegame; if you have made 
+some mistakes in the 
+middlegame, you may hope to 
+correct them in the ending. 
+But endgame errors, like a 
+goalkeeper's mistake in 
+- 
+- 
+fcmtball, are, as a rule, terminal. 
+Remember: unless you can 
+play the endgame, you wilt 
+never be a strong chess player. 
+It is not by chance that all 
+the world champions were 
+always willing to transpose the 
+game into the ending and they 
+could play this stage of the 
+game with great strength and 
+artistry. Emanuel Lasker, Jose 
+Raoul Capablanca and 
+Mikhail Botvinnik were 
+endgame virtuosi. 
+I cannot overestimate the 
+value of lessons on the 
+endgame technique given to 
+me by the former world 
+champion Mikhail Botvinnik. 
+Ten years ago he convinced 
+me of the necessity to study 
+typical endgame positions and 
+methods. 
+The great Capablanca 
+advised starting with the most 
+elementary pawn endings. 
+Why? It seems that there is 
+very little chance of arriving at 
+such positions. If I had shown 
+such naive pragmatism in 197%
+
+The Opposition 102 
+at the Daugavpils qualifying 
+tournament at the national 
+championship, I would have 
+come to grief. At the end of the 
+tournament, in my game 
+against Alburt (I was Black) 
+the following position was 
+reached after White's 45th 
+move: 
+At this moment many 
+spectators argued whether 
+Black could win this game. 
+Sitting at the chessboard, I 
+was checking the well-known 
+winning method. First of all, 
+Black must get a passed pawn 
+by threatening to get around 
+White's king from the flank: 
+45 ... 
+*d5 
+46 &d3 
+&c5! 
+47 &c3 
+White has no choice. 
+47 
+*, 
+g4! 
+48 &d3 
+gh 
+49 gh 
+&d5 
+At first glance it seems that 
+Black's king cannot make 
+headway because of stalemate 
+after 54 ... &f4 55 &12 47e4 56 
+&fl he3 57 &el f2+ 58 &gl 
+47f3. But I knew that this was 
+not so. In this position it is 
+necessary to concede the move 
+to White, so as to create a 
+'zugzwang*, a position with no 
+useful moves. This is achieved 
+by the distant opposition of 
+the kings. Now it's time to 
+explain what the term 
+bopposition' means and how it 
+can be practically used. 
+Success in a pawn ending 
+depends on the activity of the 
+king. The king must strive to 
+gain as much space as
+
+102 The Opposition 
+possible, driving back the 
+enemy king. Therefore, the 
+king must advance in front of 
+the pawns. In the fight for 
+space on the chessboard one 
+should be able to exploit the 
+opposition of the kings. The 
+most effective method is the 
+so-called close opposition. Let 
+us consider an elementary 
+example. 
+B o t h  
+kings a r e  i n  
+opposition. The one who has 
+made the last move profits by 
+the opposition, If White is to 
+move now, he cannot stop the 
+passed pawn: i &g2 &e3! 2 
+&fl f4 3 &el f3 4 &fl f2 5 
+&g2 G7e2 etc. If Black is to 
+move now, he cannot oust the 
+White king and has to 
+reconcile himself to a draw 
+after 1 ... &e4 2 &e2! f4 3 F$d 
+t3 4 *ff! &e3 5 &el t2+ 6 
+&€I h f 3  stalemate. 
+The distant opposition, 
+when the kings are separated 
+by three ranks, is a subtle 
+method leading, in the final .- 
+analysis, to a close or direct 
+opposition. 
+Let us return to my 1978 
+ending after 54 &f 1 
+54 ... 
+&f5 
+55 &gl 
+After 55 &f2 *f4 Black 
+seizes the close opposition 
+taking White's last pawn after 
+56 &gl &g3. 
+55 .,. 
+4~ eS 
+56 &fl 
+&e4! 
+Now White's king cannot 
+get to e2, and if 57 &f2 &f458 
+&fl &g3, or 57 &el &e3 58 
+&fl f2 59 &g2 &e2, 
+so 
+resistance is useless. 
+It is interesting that five 
+years later at the international 
+tournament in the Yugoslav 
+town of NiksiC I happened to 
+win a game using a similar 
+met bod. 
+It is clear that Black's king 
+can advance to the kingside 
+pawns: 47 ... b3 48 &c3 b2 49 
+axb2 &d4 50 &b3 &xe4 51 
+4x4 axf5 52 &b5 &g4 but 
+the queen ending with Black's
+
+h-pawn is drawish. However, I 
+spotted the chance of 
+exploiting a distant opposit- 
+ion, conceding the move to the 
+opponent, thus reaching a 
+zugzwang. 
+47 ... 
+&c6 
+48 &c4 
+*c7 
+49 &d3 
+&d7! 
+Having triangulated, 
+Black's king is now ready for a 
+victorious march to c5. 
+50 &e3 
+&c6 
+51 &d3 
+&c5 
+White's king has to give 
+way. 
+52 &e3 
+b3! 
+The only move. The 'naturaf' 
+52 .,. kc4 would lead to a 
+draw after 53 e5! &d5 54 e6! 
+ad6. 
+S3 &d3 
+&b4 
+54 
+e5 
+&a3! 
+Again the only good move! 
+After 54 ... b2 55 &c2 &a3 56 
+The Oppusirio~r 103 
+&bl White wins. Now the 
+game reached its logical end: 
+55 ef 
+b2 
+56 &cZ 
+&a2 
+57 n 
+blW+ 
+One tempo too late, so 
+White resigned. 
+For the third time, my 
+knowledge of typical pawn 
+endgame positions saved me 
+the trouble of playing a long 
+ending against Milan VukiE 
+(Yugoslavia) at the European 
+Team Championship in 1980. 
+My opponent was playing 
+Black. 
+White has a positional 
+advantage; the powerful 
+bishop and the strong pawn 
+formation keep Black cramp- 
+ed on both flanks. As a rule, 
+the exploitation of positionai 
+advantages requires a lot of 
+time. But in this case, the game 
+comes to an abrupt end. First,
+
+I 
+1 
+11 
+1 
+I 
+I( 
+\ 
+I 
+I 
+I 
+I 
+104 The Opposition 
+White exchanges the strong 
+40 fg 
+&e7 
+bishop 
+41 gh 
+&f8 
+36 Pxf6 
+gf 
+but then White wilt liven up 
+and then the rook. 
+the other side of the board: 
+37 €id1 
+42 b4 
+&g0 
+Black has to resign because 
+43 b5 
+the pawn ending after 
+The second passed pawn is 
+37 ... 
+Hxdl 
+irresistible. 
+38 +xdl 
+&d6 
+Please forgive me for having 
+39 g5! 
+cited examples from my own 
+is easily won for White. Well, 
+experience. I have done this to 
+I 
+Black has a pawn advantage 
+show how one can benefit 
+on the kingside, but on 
+from a concrete knowledge of 
+I 
+I 
+I 
+I 
+account of the defects of the 
+this particular type of chess 
+pawn structure {pawns e6, fl, 
+ending. 
+f6 and h6) he cannot prevent 
+I advise you to study the 
+White from organising a 
+endgame thoroughly; it will be 
+passed pawn. Black's king can 
+extremely useful for you. You 
+catch the passed pawn after 
+should also read some 
+39 ... 
+fg 
+specialist books.
+
+Lesson 21: Attack h tk En- 
+In our previous lesson we 
+made a thorough study of the 
+basic principles and methods 
+of endgame technique. I 
+would like to remind the 
+readers of one of the most 
+important rules chess players 
+should be guided by in pawn 
+endings. The king must strive 
+to conquer as much space as 
+possible, d r i v i n g  t h e  
+opponent's king back from the 
+centre. 
+Now that we have a great 
+number of endgame manuals 
+and reference books, all we 
+need 1s the desire and time to 
+study chess endings. Opening 
+positions have been studied so 
+profoundly and systematically 
+that even in the opening one 
+should foresee all the pecul- 
+iarities of possible endgame 
+positions. 
+The most elementary 
+example can be drawn from 
+the Caro-Kann Defence: 1 e4 
+c6 2 d4 d5 3 Qc3 ed 4 Qxe4 
+Qf6 5 Qxf6+ ef when in 
+return for the open central 
+files and the strengthening of 
+the shelter around his king 
+Black risks an inferior ending. 
+In this lesson we shall 
+consider the methods 
+employed in endings with 
+opposite-coloured bishops. 
+Games with opposite coloured 
+bishops quite frequently end 
+in a draw, even though one of 
+the sides may have two extra 
+pawns. The situation is 
+different, however, when, in 
+addition to the opposite 
+coloured bishops, rooks 
+remain on the board. If that is 
+the case, an important 
+advantage can be secured by 
+positioning the pieces more
+
+106 Attack in the Endgame 
+active1 y. 
+G.Kaspamv-F.Gheorghiu 
+Moscow 1981 
+Black's position is really 
+quite difficult. His king is, 
+figuratively speaking, in a 
+cage, hemmed in by White's 
+bishop and pawn on h5. 
+Black's rook has to remain on 
+the seventh rank guarding c7. 
+After 39 &e3! gh 40 gh I could 
+have avoided unnecessary 
+adventures in a time scramble 
+and I would have probably 
+found an easy win in my 
+analysis at home. 
+Now I can think how I could 
+have won this game, how 
+Black's position could have 
+been penetrated. Black's rook 
+controls c7. Black's bishop 
+keeps an eye on c8 and the b6- 
+pawn guards c5. This pawn 
+should be done away with by 
+all means. To achieve this, 
+White places his pawns on a4 
+and b5 and his king goes to d4. 
+After the rook exchange the 
+bishop captures the pawn on 
+b6. The whole operation 
+would be crowned by the 
+White king's penetration into 
+the queenside and the b5- 
+pawn queening. But I found 
+this solution easily at home 
+when, upset by the draw, I sat 
+down to analyse the game. 
+39 
+hg+? 47xg6 
+40 Xa3 
+Pc6 
+Here 1 offered a draw. - 
+Of 
+course my opponent was 
+surprised and glad, but I did 
+not want to continue the game 
+since I had been brought up to 
+believe in the axiom; endings 
+with opposite coloured bish- 
+ops end in draws. 
+Now, even in the final 
+position I could have played to 
+win by exploiting the passivity 
+of Black's pieces. For exam- 
+ple: 
+41 Pc3 
+Ab7 
+, .  
+42 &fie3 
+1 h5 
+43 gh+ 
+&xM,' 
+44 Ecl 
+*g6 
+, 
+45 Elglf 
+*h7 
+46 &d4 
+i a 6  
+47 Pg2! 
+This last move cuts off 
+Black's bishop from the
+
+kingside; after 47 e3 Black 
+would have played 47 ... Ae2! 
+Now White would have played 
+e3, b3 and a4, and the outcome 
+of the game would have 
+depended on whether White's 
+rook could penetrate the 
+Black position. 
+It is common knowledge 
+that chess players learn from 
+their mistakes. I would like to 
+add a few words to this 
+undoubtedly correct state- 
+ment. Apart from studying the 
+reasons you lost, you should 
+study the situations in which 
+you could have improved your 
+position, but missed the best 
+continuation. These missed 
+opportunities in drawish or 
+winning positions should be 
+regarded as your losses. 
+Therefore, it is necessary to 
+analyse your mistakes over 
+and over again regardless of 
+Attack in the Endgame 107 
+the outcome of the encounter, 
+Having analysed the game 
+against Florin Gheorghiu I 
+got rid of my naivete in 
+assessing endgame positions. 
+One year later, playing 
+against the Danish Grand- 
+master Bent Larsen (I was 
+playing Black) I got a better 
+ending with few pieces left on 
+the chessboard. 
+At first glance it would seem 
+that Black has no problems in 
+winning. His rook is on the 
+seventh rank. White's pawns 
+e5 and g3 are very weak. But 
+there are very few pieces left 
+on the chessboard. Larsen 
+made a strong move 
+41 h5! 
+causing further exchanges. 
+But, as is well known, only 
+mating moves are devoid of 
+drawbacks. White achieves 
+simplification but permits
+
+108 Attack in the Endgnme 
+Black to bring his king into 
+play. The king is now ready to 
+attack his opponent! Of 
+course! One can easily come 
+under attack even in the 
+endgame. 
+41 ,.. 
+& b6! 
+The game could easily have 
+been a draw after 41 ... gh 42 
+ad4 Ef2 43 e6 or41 ... Qe3 42 
+hg hg 43 e6! fe 44 Qd4 Pg2+ 
+45 & hl e5 46 Qe6+! &h6 47 
+Pa4! g5 48 Re4 %e2! 49 &gl! 
+42 hg 
+hg 
+43 Za4 
+r$g5 
+44 Qd4! Bc3! 
+Black wants nothing but 
+attack. The pawn-snatching 
+44 ... Pcl+ 45 &g2 a x e 5  46 
+QfW would result in a 
+drawish rook ending. 
+45 e6 
+After 45 &g2 Qxe5 Black 
+wins a pawn, avoiding the 
+knight exchange, and though 
+White's drawing chances are 
+quite appreciable, there is no 
+clear-cut draw. 
+45 . 
+Bxg3+ 
+see following diagram 
+46 ahl? 
+Quite a thorny way to draw; 
+now White is in danger of 
+coming under a mating attack. 
+More exact was 46 &fl! f5 47 
+e7 Pe3 48 Qc6! Qf6 49 Pa8 
+%e6 50 fiR! f4 51 &f2 and 
+since Black cannot improve 
+his position, the draw is 
+inevitable. 
+46 ... 
+fS 
+47 e7 
+Pe3 
+48 Qc6 
+f4! 
+Now White has to defend 
+himself against a serious 
+threat. For example: 49 Pa8 
+Eel+ 50 &g2 %e2+ 51 &fl 
+f ' !  52 e8W Qh2+ 53 &gl€2+. 
+The idea could almost have 
+been taken from a chess 
+problem. 49 e5 Exes 50 Pa5! 
+does not rid White of his 
+difficulties because of 50 ... 
+Hxa5 51 e8W Pf5. White was 
+walking on thin ice and the 
+only salvation was the 
+paradoxical 49 Qd4!! Control 
+over f3 is the key to the 
+position, for instance: 49 ...
+
+Bxe7 50 Qf3+ &f5 5 1 Q h4+, 
+or 49 ... &h4 50 &g2! Both 
+. armies would 
+have been 
+exhausted after 49 ... Qf6! 50 
+Pa6! Pxe7 51 Qe6+ &g4 52 
+Qxf4. B u t  it's almost 
+impossible to find such moves 
+as 49 Qd4!! over the board. 
+49 Xa5+ &h4 
+50 %a8 
+50 Qe5 would have lead to a 
+spectacular loss after 50 ... 
+axe5 51 e8P Pel+ 52 47g2 
+f3+ 53 &f2 @d3+ winning 
+White's new queen. 
+50 ,.. 
+f6! 
+Black is temporarily playing 
+with fire. After 51 Bf8 &g3! 
+the king takes a decisive role in 
+the attack. 
+Attack in the Endgame 109 
+' 
+53 Qd4 
+Qg4! 
+Now 54 e8W is met by 54 ... 
+Qh2+ 55 &gl f2+. White has 
+to give up his knight. 
+54 Qxf3 
+Pxf3+ 
+55 &gl 
+Qb2! 
+56 Pf8 
+fic3 
+Wbite resigned because after 
+57 Pfl Ee3 there was no hope 
+of surviving. 
+In our previous lesson we 
+dwelt upon the necessity of 
+studying the principles of 
+endgame technique and 
+perfecting these skills in 
+practical endings. By giving 
+you examples from games I've 
+played I tried to convince you 
+to look for chances in any 
+ending. After analysing 
+concrete examples with me. a 
+chess enthusiast will agree that 
+even in case of material 
+equality and with very few 
+pieces left on the board, it is 
+quite possible to create an 
+irresistible attack. 
+Study the endgame, and you 
+won't be afraid of it. Make 
+friends with the endgame, and 
+it will become your reliable 
+ally.
+
+I 
+! 1 
+- Lesson 22: Fortresses on the Chessboard 
+One method of defence in the 
+2 Axb6 &e7!! 
+endgame consists of building 
+That's it! It is impossible to 
+up unassailable fortresses, 
+drive away Black's king from 
+pawn chains being the basic 
+e7. As to the bishop, it can 
+building blocks for them. Let 
+safely manoeuvre along the 
+us analyse the ending of the 
+a5-el diagonal. Since all the 
+game played in Georgia's 
+events are centred around the 
+Women's Championship 
+black squares, one of White's 
+between masters Tsiuri 
+bishops is absolutely useless 
+Kobaidze and Mzia Tseretei. 
+whereas the other bishop is in 
+permanent captivity. 
+Another brilliant fortress 
+could have been built up in the 
+game between the ex-world 
+champion Max Euwe (White) 
+and the Canadian Daniel 
+I 1 
+Yanofsky at the big internat- 
+ional tournament at Groning- 
+en in 1946. 
+Black's knight is doomed. 
+The 'natural' 1 ... Qa8 is 
+refuted by 2 AM+, and 
+'' 
+White's king travels to the 
+queenside, capturing all of 
+Black's pieces. It took Black 
+only two moves to draw the 
+game. Two brilliant moves! 
+1 ... 
+&e8!!
+
+Fortresses on the Chessboard I I 1  
+i 
+After 1 ... c5 2 a6 &a4 3 e5 
+I 
+&e6 Black could have drawn 
+without difficulty, but, 
+thinking that all roads lead to 
+Rome, Black played the 
+straightforward and careless 
+1 ... 
+&c2? 
+2 Ad! 
+Black now had to lose a 
+pawn to prevent the a5-pawn 
+from queening. 
+2 . 
+Ad3 
+3 
+Axd6 Axe4 
+4 
+a6 
+c5 
+5 Ax45 
+So White has two extra 
+pawns, but endings with 
+opposite-coloured bishops are 
+quite peculiar (we encounter- 
+ed one in our previous lesson) 
+and sometimes a material 
+advantage does not ensure 
+victory. Black embarks on 
+building up a fortress and he is 
+quite successful at first. 
+5 
+.+. 
+h5 
+6 
+&f2 
+Ad3! 
+7 
+a7 
+91e4 
+8 
+g3 
+&e6 
+1 
+9 
+&e3 
+Actually, the fortress has 
+1 
+been built, but it is necessary 
+1 
+to know its exact dimensions. 
+1 
+Black's idea is quite simple: 
+White's queenside pawns 
+cannot advance without the 
+White king's assistance. 
+Occupying b6, White's king 
+will not be able to move 
+forward if Black's king is on 
+d7. If, however, White's king 
+occupies c5, then Black's king 
+must be posted on e6. And if 
+White's king stays in place, 
+what is the best square for 
+Black's king? Those who have 
+f o l l o w e d  our analysis 
+attentively will undoubtedly 
+answer: 'On f5!'. No doubt the 
+Canadian master saw 9 ... 
+&f5! ensuring a draw after 10 
+Af8 g6 11 &d4 Aa8 12 &c5 
+&e6 13 b4 Ah1 14 b5 Aa8 15 
+&b6 &d7 16 &a6 Ah1 17 b6 
+4x8 etc. However, Yanofsky 
+decided that the king should 
+not necessarily move to the 
+kingside because White was 
+unable to organise a pawn 
+breakthrough there. This was 
+his fatal mistake!
+
+I I2 Fortresses on the Chessboard 
+At first glance, White has 
+not improved his position, and 
+after 18 b6 Aa8 his king 
+cannot make headway to the 
+queenside. 
+18 Af6 
+Now it has become clear 
+that the apparently beautiful 
+fortress is going to pieces as a 
+result of the careless 9 ... Ag2. 
+T h e  ending is really 
+spectacular! 
+IS ... 
+Ag2 
+19 h5! 
+gh 
+20 MS!! 
+Black resigned, since the 
+march of the White's king to , 
+a8 is inevitable: 20 ... Ad5 2 1 
+&e5 Ah1 22 Ah4 &e8 23 &d6 
+etc. But could Black have 
+prevented White's king from 
+getting to f5 by playing 18 ... 
+Ae4? Alas, after 19 h5 gh 20 
+&f4! Ah1 21 &e5 &e8 22 
+&d6 etc the king gets to c7. 
+Let us analyse another 
+ending with opposite- 
+coloured bishops. In such 
+positions the superior side 
+should try to create passed 
+pawns on both flanks, If it is 
+possible, the king will assist 
+one of the pawns, and victory 
+will be ensured. Let us 
+consider an elementary 
+example illustrating another 
+method of destroying chess 
+fortresses. 
+Black has two extra pawns, 
+but he cannot make headway 
+on the queenside: if Black's 
+king moves to the kingside,
+
+I 
+Fortresses on the Chessboard 1 13 
+White's king, his guard, will 
+also move there. Nevertheless, 
+there is no trace of a fortress 
+here, you need only make 
+three moves: 
+1 ... 
+f5 ! 
+2 ef 
+e4! 
+3 
+fe 
+&e5 
+Now that both sides are 
+equal in material, White is 
+definitely lost since his king is 
+absolutely helpless. The rest is 
+clear 
+4 
+&d3 
+47f4 
+5 
+Ad5 
+&g3 
+6 
+47e2 
+g4 
+7 &fl 
+&h2 
+Btwk wins. 
+So we have become 
+acquainted with some 
+methods of defence in the 
+endgame. There is one more 
+method of defence consisting 
+of building up micro-fort- 
+resses of between two and five 
+pieces. Put Black's king on a8, 
+White's 
+king on b6, and 
+White's pawn on the 'a-file'. 
+You will easily see that Black's 
+king is comfortably posted on 
+I 
+a8 and there is no chance of 
+queening. The most amazing 
+fact is that even with White's 
+Another, no less spectacular 
+bastion can be built if the 
+opponents, in addition to the 
+kings, have queen and pawn vs 
+rook and pawn. It is common 
+knowledge that the queen is 
+much stronger than the rook, 
+but there are some positions 
+where this axiom does not 
+hold true. Here is one classical 
+fortress with the king in the 
+corner of the chessboard. 
+i 
+black-squared bishop, it is still 
+Black has a big material 
+a draw. 
+advantage but the most he can
+
+White's position seems 
+hopeless because it is imposs- 
+ible to prevent 1 ... h2, 2 ... 
+&gl, 3 ... Qg2 and 4 ... hlW. 
+All the more paradoxical are 
+White's two moves assisting 
+the opponent to carry out his 
+plan. 
+1 Ad7 
+h2 
+2 A&+ &gl 
+3 am!! Qg2+ 
+4 
+&e2! 
+&xbl 
+If you take the knight off the 
+board, White can draw either 
+by 5 &ff or 
+5 &f2. It 
+Fortresses on the Chessboard 1 I5 
+transpires that the knight's 
+presence makes the draw a bit 
+more dificult. After 5 &fl 
+Qe3+ 6 &f2 Qg4+ 7 &fl the 
+knight can reach any square 
+on the board, but cannot gain 
+the necessary tempo to help 
+free the imprisoned king. 
+So, when defending in the 
+end-game, don't forget about 
+the possibilities and methods 
+of building up tiny fortresses. 
+But it is much better not to 
+make serious errors and not to 
+get bad endings! 
+.
+
+Lesson 23: The Beauty of Chess 
+This lesson will be devoted to 
+chess composition, the most 
+beautiful and mysterious 
+aspect of the art of chess. The 
+definition of chess composit- 
+ion as an art is by no means an 
+exaggeration since problems 
+and studies inspired by 
+imagination give hours of 
+enjoyment to millions of chess 
+fans. 
+Chess composition is 
+guided by its own laws. Chess 
+players remember and value 
+highly brilliant games and 
+combinations, no matter how 
+many slight and hardly 
+noticable mistakes they 
+contain, Chess composers, 
+however, mercilessly throw 
+away the compositions, 
+whatever awards they have 
+won, if these compositions 
+contain a small error or a dual 
+solution. 
+Chess frequently has 
+situations in which one or 
+several pieces are out of play. 
+In chess composition this is 
+utterly impossible. The chess 
+composer invariably assigns a 
+certain job to every piece on 
+the chessboard. 
+I am fond of solving chess 
+problems and, particularly, 
+chess studies. The time I take 
+to solve compositions tests my 
+sporting form and sometimes I 
+use many similar ideas in 
+practical play. 
+I 
+Chess problems are full of 
+paradoxes and original ideas. 
+Let us consider, for example, 
+one of the problems composed 
+by Samuel Loyd, the famous 
+19th century American chess 
+composer. 
+While to play and male in three 
+moves
+
+The Beauty of Chess 11 7 
+There is incredible pand- 
+emonium on the chessboard. 
+Black's f-pawn is also poised 
+to queen. 
+1 
+&e2!! 
+flW++ 
+2 
+&e3!! 
+Amazing! Black can now 
+give ten checks, but each check 
+is repulsed by mate. If you are 
+capable of solving such a 
+problem, you can find original 
+non-standard continuations. 
+I 
+I 
+Let us see another miniature 
+I 
+by Samuel Loyd. 
+White lo play and mare in three 
+moves 
+The main variation is based 
+on the queen manoeuvres 
+across the chessboard: 
+1 Wfl! 
+h6 
+2 
+Wbl! 
+followed by 2 ... g6 3 Wxal 
+mate or 2 .,, g3 3 Wh7 mate, 1 
+. . . g3 2 
+hg and 3 Wh3 
+mate is another variation. 
+J 
+Undoubtedly problem-solving 
+stimulates the development of 
+non-standard thinking. But 
+studies are also helpful fot the 
+chess player, enabling him to 
+improve his game in another 
+way. In a composition the 
+author's idea is usually 
+expressed most economically. 
+Solving miniatures helps the 
+chess player to use the 
+maximum capacity of each 
+piece in practical games. 
+Let us see a study composed 
+by Abram Guwich, a well- 
+known Sovier chess composer. 
+White to play and win 
+How can White win? His 
+pawn on c7 is doomed, His 
+bishop's future is unclear, but 
+his king is active. 
+1 Ah51 Axc7 
+2 
+Exf7-t &d8 
+Black has no choice. For
+
+1 18 The Beauty of Chess 
+instance, 2 ... &d6 would bt 
+met by 3 Pf6f. 
+3 
+Pxc7 PgS!! 
+If you, having calculated a 
+lung variation, can foresee and 
+properly evaluate such a 
+defence on the 3rd move, then 
+you have certainly achieved a 
+high level of proficiency, 
+4 
+Plc4!! 
+A splendid idea which is the 
+leitmotif of this study. 
+4 ... 
+PgS+ 
+5 ad! EXh5 
+- 
+6 
+h4! 
+In spite of material equality, 
+Black is in zugzwang, and loss 
+is immediate. After solving 
+such studies, one can fully 
+understand all the subtleties of 
+doniination on the chess- 
+board. 
+In chess books we often 
+come across the words 'the 
+geomentry of the chessboard'. 
+What is the essence of this 
+'geometry'? In my opinion, 
+to answer this question one 
+should examine the brilliant 
+study composed by the 
+famous Czech Grandmaster 
+Richard Reti. 
+see following diagram 
+The task seems absolutely 
+White to play and draw 
+impossible. Black's pawn is far 
+advanced, and White's king 
+can see the c6-pawn only 
+through powerful binoculars. 
+Therefore, the first moves 
+appear to prove that White's 
+resistance is to no avail. 
+1 &g7 
+h4 
+2 
+&f6 
+White's king is still far from 
+both pawns, so Black can 
+capture White's pawn. 
+2 .. 
+&b6 
+3 
++e5! 
+The situation has suddenly 
+changed. If now 3 ... &xc6 
+White stops Black's pawn by 4 
+&f4. So, Black has to advance 
+his pawn, and, in the 
+meantime, White's king gives 
+a helping hand to his pawn. 
+3 
+..a 
+h3 
+4 
+&d6 
+h2 
+5 
+c7 
+&b7
+
+6 
+&d7 
+The best example of 
+geometry of the chessboard: 
+the diagonal movement of the 
+king was the shortest way to 
+the goal. 
+This study 
+excites the 
+imagination of chess fans even 
+today, giving inspiration to 
+budding composers. In 1929 
+Alexander and Kirill Sarychev 
+from Baku published an 
+unforgettable miniature which 
+added a bishop to the material 
+in Reti's original study. 
+. 
+White's position seems to be 
+quite hopeless. Queening is 
+useless, and 1 &e6 is repulsed 
+by 1 ... &e4. White's first two 
+moves look absurd. 
+I a&! M 
+2 &d7! 
+b4 
+White is a bishop down, and 
+apparently he invites Black's 
+pawn to queen as soon as 
+The Beauiy of Chess I19 
+possible, but ... 
+3 
+&d6 
+Af5 
+Preventing White from 
+queening. Now remember 
+Reti's study. 
+4 
+&e5! 
+i c 8  
+5 
+&d4! 
+It's a well-known idea, isn't 
+it? 
+5 
+... 
+b3 
+6 
+&c3 
+Pe6 
+- 
+7 
+c8W Axc8 
+,, 
+8 
+&xb3 
+with a draw. 
+There are some studies 
+which I like to play through 
+again and again. For example, 
+Alexander Seletsky's study 
+composed in 1933. 
+White to play and win 
+A typical middlegame 
+study. White has no material 
+advantage since his pawn is 
+doomed. But Black needs
+
+I20 The Beaury of Chess 
+some time to capture this 
+pawn. Meanwhile, White 
+increases the activity of his 
+pieces. 
+1 Wg5! 
+&e6+ 
+If 1 ... l x d 7  2 Qf4 threaten- 
+ing 3 Ah5 mate. 
+2 
+&gl 
+&xd7 
+So, Black has reached 
+absolute material equality, but 
+now White starts a mating 
+attack. 
+3 
+Qc5+ 
+&c8 
+The reader can find White's 
+best continuations in reply to 3 
+.&. &c7 or 3 . .. +d6. Retreating 
+to c8, the king saves the queen 
+but perishes himself. 
+4 
+Aa6+ &b8 
+5 Vg3+ &a8 
+6 
+Ab7+! Axb7 
+7 
+hd7!! 
+A crushing blow! 
+7 
+..a 
+I d 8  
+The only response, but, 
+alas, there is no defence 
+against the mating combinat- 
+ion. 
+8 
+WM+!!wxb8 
+9 
+Qb6 mate! 
+Fantastic! As if some 
+mysterious force had piled up 
+Black's pieces in the corner of 
+the chessboard, so that 
+White's knight triumphs over 
+Black's armada. 
+There may come a time 
+when you have a chance to 
+play such combinations. Let 
+the gems of chess poetry 
+remain in your memory. 
+Having looked at chess 
+problems and studies, you will 
+once again encounter genuine 
+beauty created by man's 
+fantasy.
+
+Lesson 24: Don't b g r d g e  the Time 
+We now come to the last 
+lesson. This course of lessons, 
+first published in Sport in the 
+USSR is the first which I have 
+ever produced but I hope that 
+I have succeeded to some 
+extent in coping with the task. 
+True enough, on re-reading 
+the published material I've 
+come to the conclusion that in 
+some lessons certain ideas 
+should have been expanded in 
+greater detail whereas in 
+others more examples should 
+have been added. 
+Chess is a remarkable game. 
+After being around for fifteen 
+centuries the wooden pieces 
+have not only kept their charm 
+but have become even more 
+engrossing. The continuous 
+march of human culture and 
+thought has influenced our 
+game. 
+For millions of amateurs 
+chess is really only a pleasantly 
+acceptable pastime. They have 
+no great sporting ambitions 
+but simply play in tourn- 
+aments and sometimes analyse 
+games or solve problems or 
+studies. However there are a 
+few people for whom chess is 
+their life. For them the 64- 
+square board is a battlefield 
+and the game of chess itself a 
+mysterious and alluring art 
+form. Through their rivalry 
+masterpieces are created 
+which will long excite interest 
+and characters are hardened 
+or broken. 
+So then why do we, Caissa's 
+disciples, love chess; what 
+does it do for us? I, like many 
+others, see in chess a 
+remarkably accurate model of 
+human life with its daily 
+struggles and ups and downs. 
+At the chessboard we get the 
+chance to control events. We 
+can devise plans and then try 
+consistently to bring them to 
+their logical conclusions - 
+but surely isn't that analogous 
+with what we do every day? 
+You can't be successful 
+anywhere and in anything 
+unless you foster in yourself 
+persistence, industriousness
+
+122 Don't Begrudge the Time 
+and the ability to evaluate 
+objectively your opportunit- 
+ies. You must be able to set 
+yourself realis tic goals and 
+strive for them logically, 
+energetically and resolutely. 
+How do the real lovers of 
+chess, Caissa's willing slaves, 
+get noticed? Probably the 
+same way as in other sports. I 
+remember my grandfather 
+taking me to the Chess Club at 
+the 'Baku Palace of Pioneers'. 
+There were lots of children 
+there who wanted to learn to 
+play well. But after only a 
+short while half of them had 
+stopped going to the lessons or 
+playing in tournaments. The 
+first defeats and naturally, to 
+start with, there are more of 
+these than victories, had 
+weeded out the irresolute. 
+There remained only those 
+who had from childhood been 
+good in competitions. Thanks 
+to chess, this ability to deal 
+with any situation was rein- 
+forced, the will strengthened, 
+and the character hardened. 
+Before parting with the 
+reader I should like to give 
+some advice to those who wish 
+to further improve their chess: 
+First and foremost you 
+must learn to analyse your 
+own games, looking for 
+mistakes by either party and 
+seeking to find the correct 
+continuations. As a rule 
+middlegame positions don't 
+recur exactly but similar 
+positions arise very often and 
+after such analysis one should 
+know the correct course of 
+action. You should also 
+become accustomed to 
+analysing other people's 
+games, constantly asking the 
+questions 'Why did he play 
+that? and 'Why wouldn't it 
+have been better to play ...?' 
+As a result, the number of 
+familiar positions will grow 
+and this will help you to 
+orientate yourself better and 
+more confidently during the 
+course of a game. One's 
+mastery of chess is greatly 
+helped by studying !eading 
+players' annotations of their 
+own games; this should be 
+done more and more 
+attentively and thoughtfully. 
+This work will help you to 
+understand how the real 
+masters solve specific 
+problems and which factors 
+they consider paramount in 
+particular positions. At first, 
+many of the annotations will 
+be incomprehensible to you.
+
+Don't Begrudge the Time 123 
+Then there will be a period 
+when it all seems incontrovert- 
+ible. But finally there will 
+come a time when you will 
+start to have questions for the 
+annotator: 'But why do you 
+consider this necessary and 
+not ... ' That will mean that 
+your playing strength has 
+increased. I worked on the 
+annotations of such colossi 
+as Alekhine, Capablanca, 
+Botvinnik and Keres. Even 
+now I feel deep gratitude to 
+them for their priceless 
+lessons. 
+Of course by carefully 
+working through, say, about a 
+hundred of Capablanca's 
+games you won't start to play 
+exactly like him; indeed you 
+will 'only' learn to apply the 
+great Cuban chessplayer's 
+methods in certain positions. 
+But that is already a great deal, 
+well worth more than a dozen 
+hours' work. 
+There is a huge volume of 
+information already collected 
+in thousands of text books, 
+game collections, books on 
+top players and encyclopedias 
+of both openings and 
+endgames. It simply isn't 
+possible to memorise all the 
+information but you ought to 
+know it all the same. However, 
+there is a single saving clause 
+- the positional method of 
+play. You couldn't, 
+for 
+example, memorise all the 
+variations of the Scheveningen 
+system in the Sicilian Defence, 
+and learn up all the games. But 
+in the course of 30-40 hours' 
+work with the best opening 
+monographs on that system, 
+you can learn the main lines. 
+These variations and dozens 
+of illustrative games should 
+have been written down in 
+your exercise book. And as a 
+result you would understand 
+how to play typical positions 
+in this system. A master's 
+opening repertoire consists 
+not of one but of dozens of 
+systems. Their study and 
+understanding of the right way 
+of playing them requires a 
+great deal of time. But for a 
+master, and also for anybody 
+who wants to become one that 
+is indispensible. 
+In conclusion if you want to 
+unravel the multitude of 
+secrets of chess then don't 
+begrudge the time. I wish you 
+success!
+
+Index of Gounes and Paidurn 
+Adams-C.Torre 73 
+Alburt-Kasparov 101 
+Alekhine-Rubinstein 87 
+Bogoljubow-Botvinnik 48 
+Boleslavsky-Kotov 66 
+Caesias-V. Vukovik 76 
+Chigorin- Alapin 44 
+Euwe-Yanofsky 110 
+Geller-Euwe 97 
+GligoriC-Smyslov 62 
+Karpov-Dorfman 30 
+Kasparov-Georgadze 22 
+Kasparov-G heorghiu 4, 106 
+Kasparov-Petrosian 95 
+Kasparov-Portisch 10 
+Kasparov-VukiC I03 
+Kobaidze-Tsereteli I I0 
+Larsen-Kasparov 107 
+Ed. Lasker-Thomas 70 
+Em. Lasker-Bauer 77 
+Em. Lasker-Nimzowitsch 91 
+Magerramov-Kasparov 8.5 
+Morphy-Arnous de Rivikre I5 
+Neergard-Simagin 19 
+Petrosian-Kozma 18 
+Petrosian-Pfleger 25 
+Rotlevi-Rubinstein 72 
+Rubinstein-Capablanca 93 
+Seirawan-Kasparov 102 
+Schul ten-Morphy 37 
+Suetin-Bondarevsky 60 
+Tal-Panno 12 
+Tarrasch-Charousek 20 
+C. Torre-Em. Lasker 75 
+Tulkowski-Wojciewski 28 
+Vasyukov-Lebedev 42 
+Zukertort-Blackburne 78
