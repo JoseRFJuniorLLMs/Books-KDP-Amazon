@@ -44,11 +44,12 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -q google-cloud-storage google-cloud-translate google-auth aiohttp python-docx lxml tqdm requests
 
-# 4. Baixa livros do bucket (não do git)
+# 4. Baixa livros e template do bucket
 echo ""
-echo "[4/7] Baixando livros do bucket..."
-mkdir -p books/txt
+echo "[4/7] Baixando livros e template do bucket..."
+mkdir -p books/txt templates
 gsutil -m cp -r "gs://$BUCKET_NAME/txt/*" books/txt/ 2>/dev/null || true
+gsutil cp "gs://$BUCKET_NAME/templates/template.docx" templates/template.docx 2>/dev/null || true
 
 # Conta quantos livros
 TOTAL=$(find books/txt -name "*.txt" 2>/dev/null | wc -l)
