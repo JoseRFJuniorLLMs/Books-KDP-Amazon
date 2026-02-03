@@ -2,7 +2,7 @@
 # =============================================================================
 # STARTUP SCRIPT - VM BooksKDP
 # =============================================================================
-# Executa automaticamente quando a VM inicia
+# Processa livros que JÁ ESTÃO no bucket (não baixa do Gutenberg)
 
 set -e
 
@@ -10,7 +10,7 @@ LOG_FILE="/var/log/bookskdp.log"
 exec > >(tee -a $LOG_FILE) 2>&1
 
 echo "=========================================="
-echo "BOOKSKDP - Iniciando processamento"
+echo "BOOKSKDP - Processando livros do bucket"
 echo "Data: $(date)"
 echo "=========================================="
 
@@ -39,21 +39,30 @@ echo "[3/5] Configurando Python..."
 python3 -m venv venv
 source venv/bin/activate
 pip install -q -r requirements.txt
-pip install -q google-cloud-storage aiohttp
+pip install -q google-cloud-storage aiohttp google-auth
 
-# 4. Executa pipeline
+# 4. Baixa livros do bucket para processar localmente
 echo ""
-echo "[4/5] Executando pipeline..."
-python -m src.pipeline.orchestrator --full --download-limit 500
+echo "[4/5] Baixando livros do bucket..."
+mkdir -p books/txt
+gsutil -m cp -r gs://$BUCKET_NAME/txt/* books/txt/
 
-# 5. Sobe resultados para bucket
+# Conta quantos livros
+TOTAL=$(find books/txt -name "*.txt" | wc -l)
+echo "Total de livros: $TOTAL"
+
+# 5. Processa com o pipeline (enricher gera DOCX com vocabulário EN)
 echo ""
-echo "[5/5] Salvando resultados no Cloud Storage..."
+echo "[5/6] Processando livros..."
+python -m src.pipeline.orchestrator --step enrich --enrich-lang pt --enrich-words 100
+
+# 6. Sobe resultados para bucket
+echo ""
+echo "[6/6] Salvando resultados no Cloud Storage..."
 gsutil -m cp -r books/docx/* gs://$BUCKET_NAME/docx/
-gsutil -m cp -r books/txt/* gs://$BUCKET_NAME/txt/
 
 # Marca como completo
-echo "COMPLETO - $(date)" | gsutil cp - gs://$BUCKET_NAME/status/complete.txt
+echo "COMPLETO - $(date) - $TOTAL livros" | gsutil cp - gs://$BUCKET_NAME/status/complete.txt
 
 echo ""
 echo "=========================================="

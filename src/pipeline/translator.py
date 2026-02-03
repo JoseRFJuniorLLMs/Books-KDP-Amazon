@@ -1,66 +1,60 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-MÓDULO 2: TRANSLATOR
-====================
-Traduz livros para português usando Gemini API.
+MÓDULO 2: TRANSLATOR (Cloud Translation API)
+=============================================
+Traduz livros usando Google Cloud Translation API (rápido e barato).
 
 Uso:
-    python -m src.pipeline.translator --input books/raw/en --output books/txt/pt --workers 4
-
-Entrada:
-    books/raw/{idioma}/
-
-Saída:
-    books/txt/pt/
+    python -m src.pipeline.translator --input books/txt/en --output books/txt/pt --workers 10
 """
 
 import os
-import sys
-import json
 import asyncio
-import aiohttp
-import hashlib
 import argparse
 from pathlib import Path
 from typing import List, Dict, Optional
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor
+import json
+
+# Google Cloud Translation
+from google.cloud import translate_v2 as translate
 
 # Configuração
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-preview:generateContent"
-INPUT_DIR = Path("books/raw")
+PROJECT_ID = os.getenv("PROJECT_ID", "aurorav2-484411")
+INPUT_DIR = Path("books/txt")
 OUTPUT_DIR = Path("books/txt/pt")
-MAX_CONCURRENT = 3
-CHUNK_SIZE = 15000  # Caracteres por chunk
+MAX_WORKERS = 10
+CHUNK_SIZE = 5000  # Cloud Translation limite ~5000 chars
 
 
 class BookTranslator:
-    """Tradutor de livros paralelo usando Gemini."""
+    """Tradutor usando Cloud Translation API."""
 
     def __init__(
         self,
         input_dir: Path = INPUT_DIR,
         output_dir: Path = OUTPUT_DIR,
-        api_key: str = GEMINI_API_KEY,
-        max_concurrent: int = MAX_CONCURRENT
+        target_lang: str = "pt",
+        max_workers: int = MAX_WORKERS
     ):
         self.input_dir = input_dir
         self.output_dir = output_dir
-        self.api_key = api_key
-        self.max_concurrent = max_concurrent
-        self.session: Optional[aiohttp.ClientSession] = None
+        self.target_lang = target_lang
+        self.max_workers = max_workers
+        self.client = translate.Client()
         self.translated = 0
         self.failed = 0
         self.stats = {"started": datetime.now().isoformat(), "books": []}
 
-    async def __aenter__(self):
-        self.session = aiohttp.ClientSession()
-        return self
-
-    async def __aexit__(self, *args):
-        if self.session:
-            await self.session.close()
+    def detect_language(self, text: str) -> str:
+        """Detecta idioma do texto."""
+        try:
+            result = self.client.detect_language(text[:1000])
+            return result["language"]
+        except:
+            return "en"
 
     def split_into_chunks(self, text: str, chunk_size: int = CHUNK_SIZE) -> List[str]:
         """Divide texto em chunks respeitando parágrafos."""
@@ -82,174 +76,166 @@ class BookTranslator:
         if current_chunk:
             chunks.append('\n\n'.join(current_chunk))
 
-        return chunks
+        return chunks if chunks else [text]
 
-    async def translate_chunk(self, text: str, context: str = "") -> Optional[str]:
-        """Traduz um chunk de texto usando Gemini."""
-        if not self.api_key:
-            print("[ERRO] GEMINI_API_KEY não configurada")
-            return None
-
-        prompt = f"""Traduza o seguinte texto para português brasileiro de forma fluente e natural.
-Mantenha a formatação original (parágrafos, diálogos, etc).
-NÃO adicione explicações ou comentários.
-Apenas retorne o texto traduzido.
-
-{context}
-
-TEXTO PARA TRADUZIR:
-{text}
-
-TRADUÇÃO:"""
-
+    def translate_chunk(self, text: str, source_lang: str = None) -> str:
+        """Traduz um chunk usando Cloud Translation API."""
         try:
-            async with self.session.post(
-                f"{GEMINI_URL}?key={self.api_key}",
-                json={
-                    "contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {
-                        "temperature": 0.3,
-                        "maxOutputTokens": 8192
-                    }
-                },
-                timeout=120
-            ) as resp:
-                if resp.status == 200:
-                    data = await resp.json()
-                    return data["candidates"][0]["content"]["parts"][0]["text"]
-                else:
-                    error = await resp.text()
-                    print(f"[ERRO API] {resp.status}: {error[:200]}")
-                    return None
-
+            result = self.client.translate(
+                text,
+                target_language=self.target_lang,
+                source_language=source_lang,
+                format_="text"
+            )
+            return result["translatedText"]
         except Exception as e:
-            print(f"[ERRO] Tradução falhou: {e}")
-            return None
+            print(f"    Erro: {e}")
+            return text  # Retorna original se falhar
 
-    async def translate_book(self, filepath: Path, semaphore: asyncio.Semaphore) -> Optional[Dict]:
+    def translate_book(self, filepath: Path) -> Optional[Dict]:
         """Traduz um livro completo."""
-        async with semaphore:
-            try:
-                print(f"[...] Traduzindo: {filepath.name}")
+        try:
+            print(f"[...] {filepath.name[:50]}")
 
-                # Ler arquivo
-                content = filepath.read_text(encoding='utf-8', errors='ignore')
+            # Lê arquivo
+            content = filepath.read_text(encoding='utf-8', errors='ignore')
 
-                # Dividir em chunks
-                chunks = self.split_into_chunks(content)
-                print(f"      {len(chunks)} chunks")
-
-                # Traduzir cada chunk
-                translated_chunks = []
-                for i, chunk in enumerate(chunks):
-                    context = f"Parte {i+1}/{len(chunks)} de um livro."
-                    translated = await self.translate_chunk(chunk, context)
-
-                    if translated:
-                        translated_chunks.append(translated)
-                        print(f"      Chunk {i+1}/{len(chunks)} OK")
-                    else:
-                        print(f"      Chunk {i+1}/{len(chunks)} FALHOU")
-                        # Continuar com os outros chunks
-
-                    # Rate limiting
-                    await asyncio.sleep(1)
-
-                if not translated_chunks:
-                    self.failed += 1
-                    return None
-
-                # Juntar chunks traduzidos
-                full_translation = '\n\n'.join(translated_chunks)
-
-                # Criar pasta de saída
-                self.output_dir.mkdir(parents=True, exist_ok=True)
-
-                # Salvar
-                output_name = filepath.stem + "_pt.txt"
-                output_path = self.output_dir / output_name
-                output_path.write_text(full_translation, encoding='utf-8')
-
-                self.translated += 1
-                print(f"[OK] {filepath.name} -> {output_name}")
-
-                return {
-                    "source": str(filepath),
-                    "output": str(output_path),
-                    "chunks": len(chunks),
-                    "size": len(full_translation)
-                }
-
-            except Exception as e:
-                self.failed += 1
-                print(f"[ERRO] {filepath.name}: {e}")
+            if len(content) < 500:
+                print(f"      Muito curto, pulando")
                 return None
 
-    async def run(self, source_lang: str = "en", limit: int = 0):
+            # Detecta idioma
+            source_lang = self.detect_language(content)
+            print(f"      Idioma: {source_lang}")
+
+            # Se já é PT, não traduz
+            if source_lang == self.target_lang:
+                print(f"      Já está em {self.target_lang}, copiando")
+                self.output_dir.mkdir(parents=True, exist_ok=True)
+                output_path = self.output_dir / filepath.name
+                output_path.write_text(content, encoding='utf-8')
+                self.translated += 1
+                return {"source": str(filepath), "output": str(output_path), "translated": False}
+
+            # Divide em chunks
+            chunks = self.split_into_chunks(content)
+            print(f"      {len(chunks)} chunks")
+
+            # Traduz cada chunk
+            translated_chunks = []
+            for i, chunk in enumerate(chunks):
+                translated = self.translate_chunk(chunk, source_lang)
+                translated_chunks.append(translated)
+
+                if (i + 1) % 10 == 0:
+                    print(f"      Chunk {i+1}/{len(chunks)}")
+
+            # Junta chunks
+            full_translation = '\n\n'.join(translated_chunks)
+
+            # Salva
+            self.output_dir.mkdir(parents=True, exist_ok=True)
+            output_name = filepath.stem + f"_{self.target_lang}.txt"
+            output_path = self.output_dir / output_name
+            output_path.write_text(full_translation, encoding='utf-8')
+
+            self.translated += 1
+            print(f"[OK] {output_name}")
+
+            return {
+                "source": str(filepath),
+                "output": str(output_path),
+                "source_lang": source_lang,
+                "chunks": len(chunks),
+                "size": len(full_translation),
+                "translated": True
+            }
+
+        except Exception as e:
+            self.failed += 1
+            print(f"[ERRO] {filepath.name}: {e}")
+            return None
+
+    def run(self, source_lang: str = None, limit: int = 0) -> List[Dict]:
         """Executa tradução de livros."""
-        print(f"=== TRANSLATOR ===")
-        print(f"Entrada: {self.input_dir / source_lang}")
+        print("=" * 60)
+        print("TRANSLATOR - Cloud Translation API")
+        print("=" * 60)
+        print(f"Entrada: {self.input_dir}")
         print(f"Saída: {self.output_dir}")
-        print(f"Concorrência: {self.max_concurrent}")
+        print(f"Idioma alvo: {self.target_lang}")
+        print(f"Workers: {self.max_workers}")
         print()
 
-        # Listar arquivos
-        source_dir = self.input_dir / source_lang
-        if not source_dir.exists():
-            print(f"[ERRO] Pasta não encontrada: {source_dir}")
-            return []
+        # Lista arquivos
+        if source_lang:
+            source_dir = self.input_dir / source_lang
+        else:
+            source_dir = self.input_dir
 
-        files = list(source_dir.glob("*.txt"))
+        files = list(source_dir.rglob("*.txt"))
+
+        # Filtra já traduzidos
+        existing = set(f.stem for f in self.output_dir.glob("*.txt")) if self.output_dir.exists() else set()
+        files = [f for f in files if f.stem not in existing and f"{f.stem}_{self.target_lang}" not in existing]
+
         if limit > 0:
             files = files[:limit]
 
-        print(f"Arquivos encontrados: {len(files)}")
+        print(f"Arquivos para traduzir: {len(files)}")
         print()
 
-        # Traduzir em paralelo
-        semaphore = asyncio.Semaphore(self.max_concurrent)
-        tasks = [self.translate_book(f, semaphore) for f in files]
-        results = await asyncio.gather(*tasks)
+        # Traduz em paralelo
+        results = []
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            results = list(executor.map(self.translate_book, files))
+
         results = [r for r in results if r]
 
+        # Estatísticas
         self.stats["books"] = results
         self.stats["finished"] = datetime.now().isoformat()
         self.stats["translated"] = self.translated
         self.stats["failed"] = self.failed
 
-        # Salvar estatísticas
+        # Salva estatísticas
+        self.output_dir.mkdir(parents=True, exist_ok=True)
         stats_file = self.output_dir / "translation_stats.json"
         stats_file.write_text(json.dumps(self.stats, indent=2, ensure_ascii=False))
 
         print()
-        print(f"=== CONCLUÍDO ===")
+        print("=" * 60)
         print(f"Traduzidos: {self.translated}")
         print(f"Falhas: {self.failed}")
+        print("=" * 60)
 
         return results
 
 
-async def main():
-    parser = argparse.ArgumentParser(description="Traduzir livros para português")
-    parser.add_argument("--input", default="books/raw", help="Pasta de entrada")
+# Wrapper async para compatibilidade com orchestrator
+async def run_async(translator, source_lang, limit):
+    return translator.run(source_lang, limit)
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Traduzir livros (Cloud Translation API)")
+    parser.add_argument("--input", default="books/txt", help="Pasta de entrada")
     parser.add_argument("--output", default="books/txt/pt", help="Pasta de saída")
-    parser.add_argument("--lang", default="en", help="Idioma de origem")
-    parser.add_argument("--limit", type=int, default=0, help="Limite de livros (0=todos)")
-    parser.add_argument("--workers", type=int, default=3, help="Traduções paralelas")
-    parser.add_argument("--api-key", help="Gemini API Key")
+    parser.add_argument("--lang", default=None, help="Idioma de origem (None=todos)")
+    parser.add_argument("--target", default="pt", help="Idioma alvo")
+    parser.add_argument("--limit", type=int, default=0, help="Limite de livros")
+    parser.add_argument("--workers", type=int, default=10, help="Traduções paralelas")
 
     args = parser.parse_args()
 
-    api_key = args.api_key or os.getenv("GEMINI_API_KEY", "")
-
-    async with BookTranslator(
+    translator = BookTranslator(
         Path(args.input),
         Path(args.output),
-        api_key,
+        args.target,
         args.workers
-    ) as translator:
-        await translator.run(args.lang, args.limit)
+    )
+    translator.run(args.lang, args.limit)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
