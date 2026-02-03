@@ -1,0 +1,71 @@
+# GCloud Ignore
+# =============
+
+# Git
+.git/
+.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dados locais (nao subir livros!)
+books/
+txt/
+docx/
+pdf/
+raw/
+data/*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Temp
+*.tmp
+*.bak
+*.cache
+.cache/
+nul
+
+# Secrets
+.env
+*.env
+credentials*.json
+key*.json
+*_key.json
+service_account*.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testes
+tests/
+*.test.py
+
+# Docs
+docs/
+*.md
+!README.md
+
+# Archives
+archive/
+*.zip
+*.tar.gz

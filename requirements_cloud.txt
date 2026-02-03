@@ -1,0 +1,20 @@
+# BooksKDP - Cloud Dependencies
+# ==============================
+
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+aiohttp>=3.9.0
+tqdm>=4.66.0
+
+# Documentos
+python-docx>=0.8.11
+lxml>=4.9.0
+
+# Google Cloud
+google-cloud-storage>=2.14.0
+google-cloud-secret-manager>=2.18.0
+google-generativeai>=0.3.0
+
+# Async
+asyncio-throttle>=1.0.0
