@@ -9,13 +9,15 @@ Fluxo:
     1. DOWNLOADER  -> books/raw/{lang}/
     2. TRANSLATOR  -> books/txt/pt/
     3. GENERATOR   -> books/docx/pt/
-    4. CLEANER     -> Organiza e valida
+    4. ENRICHER    -> books/docx/{pt,es,fr}/enriched/ (vocabulário EN)
+    5. CLEANER     -> Organiza e valida
 
 Uso:
     python -m src.pipeline.orchestrator --full
     python -m src.pipeline.orchestrator --step download
     python -m src.pipeline.orchestrator --step translate
     python -m src.pipeline.orchestrator --step generate
+    python -m src.pipeline.orchestrator --step enrich
     python -m src.pipeline.orchestrator --step clean
 """
 
@@ -32,6 +34,7 @@ from typing import Dict, List, Optional
 from .downloader import BookDownloader
 from .translator import BookTranslator
 from .generator import DocxGenerator
+from .enricher import VocabularyEnricher
 from .cleaner import BookCleaner
 
 
@@ -118,10 +121,38 @@ class PipelineOrchestrator:
 
         return {"generated": len(results), "results": results}
 
-    def step_clean(self, mode: str = "all") -> Dict:
-        """Passo 4: Limpeza e organização."""
+    def step_enrich(self, source_lang: str = "pt", num_words: int = 100, limit: int = 0) -> Dict:
+        """Passo 4: Enriquecimento com vocabulário em inglês."""
         print("\n" + "="*60)
-        print("PASSO 4: LIMPEZA")
+        print(f"PASSO 4: ENRIQUECIMENTO ({source_lang.upper()} + EN)")
+        print("="*60 + "\n")
+
+        input_dir = self.base_dir / "txt" / source_lang
+        output_dir = self.base_dir / "docx" / source_lang / "enriched"
+
+        enricher = VocabularyEnricher(
+            input_dir=input_dir,
+            output_dir=output_dir,
+            source_lang=source_lang,
+            num_words=num_words,
+            use_api=bool(self.gemini_api_key),
+            api_key=self.gemini_api_key
+        )
+        results = enricher.run(limit)
+
+        self.stats["steps"]["enrich"] = {
+            "completed": datetime.now().isoformat(),
+            "enriched": len(results),
+            "language": source_lang,
+            "words_per_book": num_words
+        }
+
+        return {"enriched": len(results), "results": results}
+
+    def step_clean(self, mode: str = "all") -> Dict:
+        """Passo 5: Limpeza e organização."""
+        print("\n" + "="*60)
+        print("PASSO 5: LIMPEZA")
         print("="*60 + "\n")
 
         cleaner = BookCleaner(self.base_dir)
@@ -164,7 +195,13 @@ class PipelineOrchestrator:
         # Passo 3: Geração DOCX
         results["generate"] = self.step_generate("pt", generate_limit)
 
-        # Passo 4: Limpeza
+        # Passo 4: Enriquecimento (PT, ES, FR com vocabulário EN)
+        for lang in ['pt', 'es', 'fr']:
+            lang_dir = self.base_dir / "txt" / lang
+            if lang_dir.exists() and any(lang_dir.glob("**/*.txt")):
+                results[f"enrich_{lang}"] = self.step_enrich(lang, 100, 0)
+
+        # Passo 5: Limpeza
         results["clean"] = self.step_clean("all")
 
         # Finalizar
@@ -185,11 +222,18 @@ class PipelineOrchestrator:
         print("\n" + "="*60)
         print("RESUMO DO PIPELINE")
         print("="*60)
+
+        # Contar enriquecimentos
+        enrich_pt = results.get('enrich_pt', {}).get('enriched', 0)
+        enrich_es = results.get('enrich_es', {}).get('enriched', 0)
+        enrich_fr = results.get('enrich_fr', {}).get('enriched', 0)
+
         print(f"""
-Download:   {results.get('download', {}).get('downloaded', 0)} livros
-Tradução:   {results.get('translate', {}).get('translated', 'pulado')} livros
-Geração:    {results.get('generate', {}).get('generated', 0)} DOCX
-Limpeza:    Concluída
+Download:     {results.get('download', {}).get('downloaded', 0)} livros
+Tradução:     {results.get('translate', {}).get('translated', 'pulado')} livros
+Geração:      {results.get('generate', {}).get('generated', 0)} DOCX
+Enriquecido:  PT={enrich_pt} | ES={enrich_es} | FR={enrich_fr}
+Limpeza:      Concluída
 
 Tempo total: {self.stats.get('started')} -> {self.stats.get('finished', 'em andamento')}
         """)
@@ -199,7 +243,7 @@ async def main():
     parser = argparse.ArgumentParser(description="Orquestrador do Pipeline BooksKDP")
 
     parser.add_argument("--full", action="store_true", help="Executar pipeline completo")
-    parser.add_argument("--step", choices=["download", "translate", "generate", "clean"],
+    parser.add_argument("--step", choices=["download", "translate", "generate", "enrich", "clean"],
                        help="Executar apenas um passo")
 
     # Configurações de download
@@ -213,6 +257,11 @@ async def main():
     # Configurações de geração
     parser.add_argument("--generate-limit", type=int, default=0, help="Limite de geração")
     parser.add_argument("--target-lang", default="pt", help="Idioma alvo")
+
+    # Configurações de enriquecimento
+    parser.add_argument("--enrich-lang", default="pt", choices=['pt', 'es', 'fr'], help="Idioma para enriquecer")
+    parser.add_argument("--enrich-words", type=int, default=100, help="Palavras por livro")
+    parser.add_argument("--enrich-limit", type=int, default=0, help="Limite de livros para enriquecer")
 
     # Workers
     parser.add_argument("--download-workers", type=int, default=10, help="Workers de download")
@@ -249,6 +298,9 @@ async def main():
 
     elif args.step == "generate":
         orchestrator.step_generate(args.target_lang, args.generate_limit)
+
+    elif args.step == "enrich":
+        orchestrator.step_enrich(args.enrich_lang, args.enrich_words, args.enrich_limit)
 
     elif args.step == "clean":
         orchestrator.step_clean()
