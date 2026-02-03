@@ -19,7 +19,7 @@ import sys
 # Configuração
 PROJECT = "aurorav2-484411"
 REGION = "us-central1"
-VERTEX_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-2.0-flash:generateContent"
+VERTEX_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-3-pro-preview:generateContent"
 
 # Pastas
 BASE_DIR = Path("D:/dev/BooksKDP")

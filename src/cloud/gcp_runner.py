@@ -86,7 +86,7 @@ from io import BytesIO
 
 BUCKET = "{BUCKET}"
 API_KEY = "AQ.Ab8RN6I5q1OHyDoU18jD39-8LwCZwPlXHd9SyGsPtLzmzjF_hw"
-API_URL = "https://aiplatform.googleapis.com/v1/publishers/google/models/gemini-2.0-flash:generateContent"
+API_URL = "https://aiplatform.googleapis.com/v1/publishers/google/models/gemini-3-pro-preview:generateContent"
 
 LANG_WORDS = {{
     'pt': ['que', 'não', 'para', 'uma', 'com', 'por', 'mais'],

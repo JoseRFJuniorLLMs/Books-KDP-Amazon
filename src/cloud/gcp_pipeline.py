@@ -123,7 +123,7 @@ from lxml import etree
 # Configurações
 BUCKET_NAME = os.environ.get("BUCKET_NAME", "testmassivo")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-preview:generateContent"
 
 # Palavras para detecção de idioma
 LANG_WORDS = {

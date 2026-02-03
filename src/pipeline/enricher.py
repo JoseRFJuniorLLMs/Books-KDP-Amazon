@@ -478,7 +478,7 @@ class VocabularyEnricher:
             import urllib.request
             import json as json_module
 
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={self.api_key}"
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-preview:generateContent?key={self.api_key}"
             lang_names = {'pt': 'Portuguese', 'es': 'Spanish', 'fr': 'French'}
             lang_name = lang_names.get(self.source_lang, self.source_lang)
 

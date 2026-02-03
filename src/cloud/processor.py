@@ -23,7 +23,7 @@ PROJECT = "aurorav2-484411"
 REGION = "us-central1"
 
 # Vertex AI endpoint
-VERTEX_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-2.0-flash:generateContent"
+VERTEX_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-3-pro-preview:generateContent"
 
 # Namespaces do DOCX
 NAMESPACES = {
