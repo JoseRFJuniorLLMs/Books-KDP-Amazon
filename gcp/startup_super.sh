@@ -32,10 +32,11 @@ echo "[2/7] Clonando repositorio..."
 cd /opt
 rm -rf BooksKDP
 
-# Clone com sparse checkout para evitar arquivos com nomes longos
-git clone --depth 1 --filter=blob:none --sparse https://github.com/JoseRFJuniorLLMs/Books-KDP-Amazon.git BooksKDP
+# Clone só o código (sem livros do git)
+git clone --depth 1 https://github.com/JoseRFJuniorLLMs/Books-KDP-Amazon.git BooksKDP 2>/dev/null || true
 cd BooksKDP
-git sparse-checkout set src templates config requirements*.txt
+# Remove livros do git (vêm do bucket)
+rm -rf books txt 2>/dev/null || true
 
 # 3. Configura ambiente Python
 echo ""

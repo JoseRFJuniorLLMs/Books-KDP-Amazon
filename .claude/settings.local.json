@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"gcloud compute ssh bookskdp-super --zone=us-central1-a --project=aurorav2-484411 --command=''tail -30 /var/log/bookskdp.log'' 2>&1 | Select-Object -Last 35\")",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
