@@ -639,45 +639,95 @@ class VocabularyEnricher:
         title: str,
         author: str
     ) -> bool:
-        """Cria DOCX usando template com conteúdo a partir da página 3."""
+        """Cria DOCX usando template do usuário.
+
+        Estrutura do template:
+        - Páginas 1-2: Intro (citações, etc.) - PRESERVAR
+        - INSERIR CONTEÚDO DO LIVRO AQUI
+        - Última página: Copyright + dados da livraria - PRESERVAR
+
+        O conteúdo é inserido ANTES do parágrafo que contém "Copyright".
+        """
         try:
-            # Ler template
-            template_path = TemplateManager.ensure_template()
-
-            with zipfile.ZipFile(template_path, 'r') as zf:
-                document_xml = zf.read('word/document.xml').decode('utf-8')
-
-            # Preparar placeholders
-            lang_names = {'pt': 'Português', 'es': 'Español', 'fr': 'Français'}
-            lang_labels = {
-                'pt': 'Português + English Vocabulary',
-                'es': 'Español + English Vocabulary',
-                'fr': 'Français + English Vocabulary'
-            }
+            template_path = TemplateManager.TEMPLATE_PATH
+            if not template_path.exists():
+                template_path = TemplateManager.ensure_template()
 
             # Construir conteúdo e notas
             content_xml, footnotes_xml = self.build_content_xml(content, translations)
 
-            # Substituir placeholders
-            document_xml = document_xml.replace('{{TITLE}}', self.escape_xml(title))
-            document_xml = document_xml.replace('{{SUBTITLE}}', f'{len(translations)} palavras em inglês')
-            document_xml = document_xml.replace('{{AUTHOR}}', self.escape_xml(author))
-            document_xml = document_xml.replace('{{LANGUAGE}}', lang_names.get(self.source_lang, self.source_lang))
-            document_xml = document_xml.replace('{{LANG_LABEL}}', lang_labels.get(self.source_lang, ''))
-            document_xml = document_xml.replace('{{WORD_COUNT}}', str(len(translations)))
-            document_xml = document_xml.replace('{{CONTENT}}', content_xml)
-
-            # Criar DOCX
+            # Criar DOCX copiando template e modificando
             output_path.parent.mkdir(parents=True, exist_ok=True)
 
-            with zipfile.ZipFile(output_path, 'w', zipfile.ZIP_DEFLATED) as zf:
-                zf.writestr('[Content_Types].xml', TemplateManager.CONTENT_TYPES_XML)
-                zf.writestr('_rels/.rels', TemplateManager.RELS_XML)
-                zf.writestr('word/_rels/document.xml.rels', TemplateManager.DOCUMENT_RELS_XML)
-                zf.writestr('word/document.xml', document_xml)
-                zf.writestr('word/styles.xml', TemplateManager.STYLES_XML)
-                zf.writestr('word/settings.xml', TemplateManager.SETTINGS_XML)
-                zf.writestr('word/footnotes.xml', footnotes_xml)
+            with zipfile.ZipFile(template_path, 'r') as template_zip:
+                with zipfile.ZipFile(output_path, 'w', zipfile.ZIP_DEFLATED) as out_zip:
+
+                    # Track se footnotes.xml já existe no template
+                    has_footnotes = 'word/footnotes.xml' in template_zip.namelist()
+
+                    # Copia todos os arquivos do template
+                    for item in template_zip.namelist():
+                        if item == 'word/document.xml':
+                            # Modifica document.xml para injetar conteúdo
+                            doc_xml = template_zip.read(item).decode('utf-8')
+
+                            # Encontra o parágrafo que contém "Copyright" (início do back matter)
+                            # Este é o marcador para inserir conteúdo ANTES dele
+                            copyright_match = re.search(r'<w:p[^>]*>(?:(?!</w:p>).)*Copyright(?:(?!</w:p>).)*</w:p>', doc_xml, re.DOTALL)
+
+                            if copyright_match:
+                                # Injeta conteúdo ANTES do parágrafo de Copyright
+                                insert_pos = copyright_match.start()
+
+                                # Adiciona page break + conteúdo do livro + page break para o back matter
+                                page_break = '<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n'
+                                doc_xml = doc_xml[:insert_pos] + page_break + content_xml + '\n' + page_break + doc_xml[insert_pos:]
+                            else:
+                                # Fallback: procura sectPr
+                                sectpr_match = re.search(r'(<w:sectPr[^>]*>)', doc_xml)
+                                if sectpr_match:
+                                    insert_pos = sectpr_match.start()
+                                    page_break = '<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n'
+                                    doc_xml = doc_xml[:insert_pos] + page_break + content_xml + '\n' + doc_xml[insert_pos:]
+                                else:
+                                    # Último fallback: antes de </w:body>
+                                    doc_xml = doc_xml.replace('</w:body>', content_xml + '\n</w:body>')
+
+                            out_zip.writestr(item, doc_xml.encode('utf-8'))
+
+                        elif item == 'word/footnotes.xml':
+                            # Substitui footnotes existente pelo nosso
+                            out_zip.writestr(item, footnotes_xml)
+                            has_footnotes = True
+
+                        elif item == '[Content_Types].xml':
+                            # Adiciona footnotes ao content types se necessário
+                            ct_xml = template_zip.read(item).decode('utf-8')
+                            if 'footnotes.xml' not in ct_xml:
+                                ct_xml = ct_xml.replace(
+                                    '</Types>',
+                                    '<Override PartName="/word/footnotes.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"/>\n</Types>'
+                                )
+                            out_zip.writestr(item, ct_xml.encode('utf-8'))
+
+                        elif item == 'word/_rels/document.xml.rels':
+                            # Adiciona relação para footnotes se necessário
+                            rels_xml = template_zip.read(item).decode('utf-8')
+                            if 'footnotes.xml' not in rels_xml:
+                                # Encontra próximo rId disponível
+                                ids = re.findall(r'rId(\d+)', rels_xml)
+                                next_id = max(int(i) for i in ids) + 1 if ids else 10
+                                new_rel = f'<Relationship Id="rId{next_id}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes" Target="footnotes.xml"/>\n'
+                                rels_xml = rels_xml.replace('</Relationships>', new_rel + '</Relationships>')
+                            out_zip.writestr(item, rels_xml.encode('utf-8'))
+
+                        else:
+                            # Copia arquivo sem modificação
+                            out_zip.writestr(item, template_zip.read(item))
+
+                    # Adiciona footnotes.xml se ainda não foi adicionado
+                    if not has_footnotes:
+                        out_zip.writestr('word/footnotes.xml', footnotes_xml)
 
             return True
 
