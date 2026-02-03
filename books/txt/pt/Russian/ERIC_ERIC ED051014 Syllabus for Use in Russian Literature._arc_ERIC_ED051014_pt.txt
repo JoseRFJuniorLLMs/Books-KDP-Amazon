@@ -1,0 +1,845 @@
+"""
+DOCORBBT BESOHB 
+
+
+ED 051 014 
+
+
+SO 001 195 
+
+
+AOTHOE 
+
+TITLE 
+
+INSTITUIÇÃO 
+AGÊNCIA PATROCINadora 
+DATA DE PUBLICAÇÃO 
+NOTA 
+
+
+Cernonok, Jevgenij 
+
+Syllabus para Uso em Literatura Russa. 
+
+Escolas Públicas de Toledo, Ohio. 
+
+Gabinete de Educação (DHEH), Washington, D.C. 
+
+69 
+
+22p. ; Um projeto do Centro Russo-Búlgaro de Estudo 
+das Escolas Públicas de Toledo 
+
+
+EDRS PREÇO 
+DESCRIPTORES 
+
+
+PREÇO EDRS MP-$0,65 HC-$3,29 
+^Autores, Bibliografias, Leitura Crítica, 
+^Guias deCurrículo, Drama, Humanidades, Análise Literária, 
+Gêneros Literários, História Literária, Influências Literárias, 
+Apreciar Literatura, Guias de Literatura, Contos, Poesia, 
+^Literatura Russa, Ensino Fundamental, Estudos Sociais, 
+Abordagem Temática, *Literatura Mundial 
+Título ESEA 3, Projeto Pace, ^História Russa 
+
+
+RESUMO 
+"""
+
+This syllabus outlines a tuo semester course to 
+accompany the basic textbook: THE EPIC OF RUSSIAN LITERATURE by Hare 
+Slonim. An introduction to the guide gives a brief summary of the 
+history of Russian literature and objectives of the course are 
+stated, defining concepts and understandings to be developed. In 
+addition, teaching techniques are described, suggesting activities 
+such as group discussions, reports, comparative studies, and 
+utilizing Russian history, geography, and culture, especially films 
+and music. Course content is divided into chronological periods, 
+emphasizing literary movements, major authors, historical themes, and 
+literary genres. First semester units of study are: 1) The 
+Beginnings: 2) Poets, Playwrights and Satirists of the Eighteenth 
+Century; 3) The New Bra; 4) From Napoleonic Invasion to the 
+Decembrists; 5) The Golden Age (A. S. Pushkin) ; 6) Hinor Poets 
+Beginning 19tb Century; 7) N. Gogol; and, 8) H. Lermontov. Topics foe 
+the second semester are: 1) Dreamers and Philosophers; 2) Westerners 
+and Slavophiles; 3) The Critics and the Nihilists; 4) Literary Trends 
+of the Sixties; 5) I. S. Turgenev; 6) F. Dostoevsky: 7) Russian 
+Playwrites; 8) Leo Tolstoy; 9) Maxim Gorky; 10) N. Sholokhov; and, 
+
+11) B. Pasternak. (Author/JSB) 
+
+
+
+0*1 ifs~ ED051014 
+
+
+
+U S. DEPARTMENT OF HEALTH, 
+education & WELFARE 
+OFFICE OF EDUCATION 
+THIS DOCUMENT HAS BEEN REPRO 
+OUCEO EXACTLY AS RECEIVED FROM 
+THE PERSON OR ORGANIZATION ORIG 
+INATING IT POINTS OF VIEW OR OPIN 
+lONS STATED DO NOT NECESSARILY 
+
+represent official office of edu 
+
+CATION POSITION OR POLICY 
+
+
+
+CHINBSB-RUSSIAM STUDY CENTER 
+Toledo Public Schools 
+Toledo > (^0 
+
+
+
+Syllabus for use in Russian Idteratye 
+as prepared by Jei^enij Cemonok, 196Ur‘'969 
+
+
+
+Frank Dick« Superintendent of Schools 
+Moman ELee, IVoject Director 
+
+
+
+A PAOF RMHGT nistAblishtd under Title III E. S. E. A. 
+^ S. Office of Education 
+
+
+
+O 
+
+ERIC 
+
+MMfflffTlTLiU 
+
+
+
+
+I 
+
+
+
+ED051014 
+
+
+
+L-mtoDUcnow 
+
+
+
+A literatura russa foi descoberta pelo Ocidente apenas no segundo quartil do século XIX, e europeus e americanos continuam a comparar os grandes novelistas e poetas russos a gigantesas árvores que surgiram misteriosamente plenas em um deserto. Infelizmente, esta teoria é totalmente infundada. Os alunos devem ser mostrados que a literatura russa é mais antiga do que mil anos e só se tornou internacional no século XIX em termos de fama e influência. Apenas o estudo das principais tendências do século XIX e XX pode ser proveitoso sem, pelo menos, uma breve revisão dos principais correntes do passado.
+
+A literatura escrita começou na Rússia imediatamente após a introdução do cristianismo de Constantinopla. Este fato foi responsável pela grande influência da igreja bizantina sobre a cultura russa. A teocracia bizantina também foi transplantada para a Rússia, onde a Igreja foi chamada a auxiliar e fortalecer o Estado. Os alunos devem ser capazes de entender o impacto da influência bizantina na vida social, nas artes e na primeira literatura.
+
+O jugo tártaro foi responsável pela atraso cultural russo. A Renascença era desconhecida na Rússia, e apenas o surgimento de Moscou trouxe sinais de uma renovação literária para a Rússia.
+
+Os alunos devem ser informados que os reformas de Estêvão o Grande incluíram todos os aspectos da civilização russa e seu reinado marca o fim do controle da Igreja sobre o ensino e a literatura. Este período é muito importante na criação da literatura moderna (séculos XVI e XIX).
+
+Durante o período do curso, a maior parte das aulas será dedicada ao estudo do século XIX ou da chamada "Idade de Ouro" na literatura e nas artes russas em geral. Ao tratar dos períodos pré e pós-revolucionário, os trabalhos de Aleksandr Pushkin serão enfatizados.
+
+"""
+Após a Revolução, o Partido Comunista Russo assumiu o controle sobre os autores e poetas. Sob censura ditatorial, tornou-se praticamente impossível para os escritores produzir grandes obras. Para Mikhail Sholóhov "O Silente Don", foram necessárias muitas revisões para atender às especificações soviéticas.
+
+A literatura russa abrange uma era extremamente vasta, mais do que pode ser tratada em um ano. É vital selecionar as melhores e mais importantes obras dos escritores russos para leitura.
+
+Durante o segundo semestre, foram escolhidos apenas aqueles autores cujas contribuições são de significado nacional e universal, e apenas um número limitado de títulos cuidadosamente selecionados foi incluído.
+
+
+OBJETIVOS A SEREM ATINGIDOS
+
+1. O fio temporal cronológico do período entre a introdução do Cristianismo na Rússia e o presente.
+
+2. Uma apreciação das realizações literárias da "Idade de Ouro" russa.
+
+3. Apresentar o tema da literatura russa aos estudantes americanos como um natural desenvolvimento e resultado do ambiente russo.
+
+4. A imortalidade dos personagens presentes na literatura russa será enfatizada fortemente.
+
+5. Entender a diferença entre o povo russo e o governo ditatorial atual.
+
+6. Entender a perspectiva de vida do povo russo.
+
+7. Estimular um estudo adicional e interesse pela literatura russa.
+
+
+METODOS DE ALCANCE DOS OBJETIVOS
+
+1. Haverá discussões sobre as obras literárias e personagens na sala de aula.
+
+2. Relatórios escritos serão feitos em diferentes assuntos: personagens, eventos ou críticos das obras literárias. Os relatórios serão feitos em casa.
+
+3. Relatos orais serão dados pelos alunos na sala de aula.
+
+4. A leitura de romances russos será uma tarefa dos alunos em casa para que um período de uma hora da aula possa ser utilizado para discussão das obras.
+"""
+
+"""
+5. Juízos literários serão realizados em classe, onde personagens literários serão defendidos e acusados pelos alunos. Como resultado do julgamento literário, os alunos decidirão a "sentença."
+
+6. Obras literárias russas serão comparadas com as americanas e de outras nações. Por exemplo — O Jardim de Cerejeiras de Chekhov com A Vida se Faz de Margaret Mitchell.
+
+7. Conhecimento da História e Geografia Russa
+
+É difícil que os alunos americanos de literatura russa compreendam completamente alguns dos eventos nas novelas russas sem algum conhecimento da história e geografia da Rússia.
+
+É aconselhável que os alunos façam um curso de história russa antes de estudar literatura russa. Os alunos de literatura russa são fornecidos com informações sobre a história russa dentro do tempo disponível. Eles também serão dadas uma breve introdução à geografia russa.
+
+8. Livro-texto: "A Época da Literatura Russa" por Marc Slonim
+
+9. Leituras em classe:
+
+Além dos livros-texto, os alunos devem ler o máximo possível de contos curtos, novelas, poemas e dramas. Todos os trabalhos devem ser feitos em casa.
+
+10. Filmes - Filmes clássicos russos exibidos localmente nas estações de TV e nos cinemas serão acompanhados de perto.
+
+11. Filmes e desenhos animados serão exibidos em classe.
+
+12. Música russa será tocada na classe, como óperas: "Boris Godunov", "Eugene Onegin".
+
+7
+
+SEMESTRE INICIAL
+
+Os Inícios (Aproximadamente 23 horas)
+
+1. Introdução à Cristandade pelo Príncipe Vladimir.
+
+2. Ortodoxia Bizantina e uma língua escrita.
+
+3. Metodão e Cirilo. Alfabeto cirílico.
+
+4. Teocracia bizantina e Igreja russa.
+
+Influência Bizantina.
+
+6. Tradução dos livros.
+
+7. Igreja — Slavônica e russa coloquial.
+
+8. "Viagem de Daniil ao Território Sagrado."
+
+9. "A Verdade Russa" de Jaroslav o Sabiúdo.
+
+10. Cronica de F. Nestor (1120).
+
+11. Byliny — canções épicas dos homens fortes slavônicos (8-13 séculos).
+"""
+
+12. Ilya of Murom symbol of Russian might. 
+
+13* Dobryna Nikitich. 
+
+ill. The rise of Hoscow. 
+
+15. "The Lay of the Host of Igor" (17th century). 
+
+16. "The Third Rone." 
+
+17. Ivan Fedorov— beginning of printing. 
+
+Id. Domostroy 
+
+19. Old Believers 
+
+ro. Peter the Great "Create a winder into Europe." 
+
+21. Nesr alphabet. 
+
+22. Kantemir-Neo— classical school. 
+
+23. Hikhall Lomonosson (1711-65) 
+
+2li. The Oldes. 
+
+25, Suna'okov (1718-77) Theater. Europeanized intelligentsia. 
+
+O 
+
+ERIC 
+
+
+
+7 
+
+
+
+Poets, n.aywrlghta and Satirists of the Eighteen Century 
+(Approximately 5 hours) 
+
+
+
+8 
+
+
+
+1 . Catherine the Great 
+
+a ) Voltaire 
+
+b) Mouteequleu 
+
+c) Orlov Potemkin 
+
+2. Pugachev Rebellion (1773-75) 
+
+3. french Revolution 
+Ii. Devshavin 
+
+a) "felicia" 
+
+b) Theater 
+
+5. fonvizin (17b5-1792)—"The Hobbledehoy" 
+
+
+
+9 
+
+
+
+The New ESr^ (Approximately 10 hours) 
+
+1. Nicholae Karamzin (1766-I836) 
+
+a) Letter of a Russian Traveler 
+
+b) "Poor Liza" 
+
+c) Court Historian (History of the Russian State 12 volumes) 
+Old and neu styles of the Russian language. 
+
+3. Vassily Zukovsky 
+
+Contemporary European poetry and Zukovsky' s translation. 
+U. Zukovsky and Pushkin 
+5. Ivan Krylov (1769-18UU) 
+
+a) Krylov and La Fontaine 
+
+b) The Symbolism of the animals 
+
+c) Novelist and philosophy and coranon sense. 
+
+d) Polk proverbs 
+
+
+
+O 
+
+
+
+
+9 
+
+
+
+n 
+
+
+
+Prom Napoleonic Invasion to the Decembrists (Approy<n»fttely 10 hours) 
+
+1. Paul's reactionary region. 
+
+2. Liberal era by Aleksander I and effect on literature. 
+
+3. "The Forum of the Lovers of the Russian Word" (right wing of 
+Russian aristocracy and bureaucracy). 
+
+U. "A Diary of Partisan Operations" by D. Davydon. 
+
+5. Arakcheyev- -hangman of freedom. 
+
+6. Griboyedov "Tis Folly to be VJlse," conflict between the two generations. 
+
+7. The Decembrists, December 1625, — Intellectual elite: Alexander 
+
+Pushkin, Griboyedov, poet Ryleyev, H. Turgenev. 
+
+Nikita Muraviev— moderate Decmbrlst. 
+
+Pavel Pestel— radical wing of Decembrists— for a democratic, 
+republic, emancipation of the serfs, distribution of land. 
+
+8. "The Russian Truth" hy Pestel, "The Project of Constitution" 
+by N. Muraviev. 
+
+"Russia and the Russians" by N. Turgenev. 
+
+
+
+
+10 
+
+
+
+The Golden Ace ( Approximately 20 hours) 
+
+
+
+A, S, Pushkin 
+
+1 . Pushkin Is a key figure of Russian nineteenth century literature 
+
+2. Pushkin's poems •-perfect marriage of sound and meaning. 
+
+3. Pushkin and the Russian modern literary style. 
+
+h, Pushkin's first work, "Russian and Lundmila," — beginning of a 
+new way of writing. 
+
+5. "Eugene Onegin" (1823-31 )--realistic novel, 
+
+6. Ryron and Pushkin. 
+
+7. "The Caucasian Captive," "The Qsrpsiea" 
+
+8. Peter the Great and Pushkin. 
+
+9. "Poltava" 
+
+10. "The Captain's Daughter " 
+
+
+
+O 
+
+
+
+
+12 
+
+
+
+Minor Poets Beginning 19th Century (Approxlnately $ hours) 
+
+1. Ivan Koslov ( 1 779-1 8U0)— motional and sentimental poems. 
+
+2. Kond. Ryleyev — Decembrist. Belongs to political more than to 
+literary history. 
+
+3. Baratynsky— romantic poems. 
+
+U. If. Yazykov— was influenced by the Pushkin— young idealist. 
+
+$, Koltsov's folk songs. 
+
+6. ?. I^tchev— Romantic lyric. 
+
+
+
+
+12 
+
+
+
+' 13 
+
+M, Gogol 1j?9-52 (ApTJroxljn^tely 15 hours) 
+
+1 , Gogol— Russian Mark Twalne . 
+
+2, "The Revisor" — national comedy of Russia, 
+
+3, "Evenings of a Oroft near Dilcanka," Sketches of Ukrainian life, 
+li, "Taras Bulba" 
+
+5 . "Dead Souls"— Russia in miniature, 
+
+a) The problem of serfdom, 
+
+b) Russian serfs and American Negroes. 
+
+c) Tchitchlkov, Raskolnikov, and Nekhludov. 
+
+d) Unfinished masterpiece. 
+
+
+
+
+13 
+
+
+
+!I, Lermontov lClU-1 ’Ul (Approxinately 5 hours) 
+
+
+
+1U 
+
+
+
+1 . Lemontov — Representative of Russian Romantlsm. 
+
+2. "The Hero of our Tine"— prose. 
+
+3. Poem on the death of a poet. 
+
+h, Lemontov *s opposition to the institution of serfdom. 
+
+5. Lemontov 's drana, "The Ilasquerade." 
+
+6. Lemontov and Pushkin. 
+
+7. French Revolution and Lemontov. 
+
+
+
+O 
+
+ERIC 
+
+
+
+14 
+
+
+
+15 
+
+
+
+SECOUD SaiSSTfB 
+
+Dreamers and Philosophers (ApproxlJnately 5 hours) 
+
+1, H, Glinka— "Ivan Sussanin" 
+
+2, A, Verstovsty— "Askolds Grave," 
+
+3, Theatrical Activity— Griboyedov 
+U. V, Belinsky — Russian liberalism, 
+
+5 , Polevoy — "History of the Russian People," 
+
+6 , Salvation not in nysticlsmi but in the successes of civilization, 
+
+1-^esterners and Slavophiles 
+
+1, Belinsky— Westerner, 
+
+a) National literature, 
+
+b) Russian's past and present, 
+
+2, Slavophiles and Peter the Great, 
+
+Tlie salvation of Russia in the preservation of her originality, 
+
+3 , Aks alcov- - Slavophile , 
+
+li, Herzen— Westerner, "Hie Polar Star," 
+
+
+
+The Critics and the ilihlllats (Approxlm-~tely $ hours) 
+
+
+
+16 
+
+
+
+1 . Crlme.in Uar 
+
+Tales of Sevastopol" by Tolstoy, 
+
+2, Serfdom— "The Plage of Russian Like" was attacked by 
+
+a) Turgenev's "Hunting Sketches," 
+
+b) Giigorovich's "Tales of peasants Life," 
+
+c) Ivan Aksakov's poems, 
+
+d) Herzen — addressed the open letter to Aleksander I, 
+
+3. Chernyshevsky — 'The Contemporary," 
+
+U, Gorky, Dobrolubova critics, 
+
+5. Nihilism — Pisarev, 
+
+Literary Trends of the "Sixties" 
+
+1, Pomialowsky— "Bursary School Sketches," 
+
+2, Pisemsky — Russian Realist, 
+
+3, Nekrasov — "ITio Finds Life Good in Russia?" 
+
+h, Tiuchev — "Slave Poetry and My Country , , , ," 
+
+
+
+
+16 
+
+
+
+17 
+
+
+
+I. S. Turgenev 1818-G3 ( Approx±mately 1$ hours) 
+
+1 . Biography sketch of Turgenev. 
+
+a) Iladame Viordo 
+
+b) Life abroad (37> ye.''T8). 
+
+T. I-verse, Il-short sketches, Ill-the novel. 
+
+2. "Memoirs of a Sportsman" and "Uncle Tom's Cabin" 
+
+3. Turgenev and serfdom. 
+
+h, "P-udin" and "A Nest of Gentlefolk" if time not permits could 
+be only discussed. 
+
+5. Turgenev's chai'acters: Liza, LavretslQr, Rudin, Helena. 
+
+6. "Fathers and Sons." Persons: Basarov. 
+
+7. Turgenev: an idle aristocrat, a Nihilist, a dreamer, rational 
+
+atheist, or a practical man? 
+
+
+
+O 
+
+ERiC \ 
+
+i 
+
+1 
+
+
+
+17 
+
+
+
+16 
+
+
+
+F, PostoevL!::’' 1.^21- ~1 (ApproxLmr,te.ly 1$ hours) 
+
+1. Dostoevsky life: gloot^y childhood, imprisonments, hard labor, 
+
+military service. 
+
+Three periods of Dostoevsl^'s literary career. 
+
+2. a) "Poor 7olk" his short novel, and "The Double" was p>ublished after 
+
+his arrest. 
+
+b) The second from 1059 the date of his pardon where his 
+lost wife and his brother, 
+
+c) lC6U-l83l Dostoevsky delivered his famous speech of Pushkin 
+and his four major novels: 
+
+"Crime and Punishment" 
+
+"The Idiot" 
+
+"The Possessed" 
+
+"The Brothers Karamazov" 
+
+3. Dostoevslcy the Slavophile. 
+
+U. Dostoevsky deeply religious man. 
+
+5. Heart over the mind, 
+
+6, Outcome of suffering. 
+
+7, Political issue in "Crime and Punishment" 
+
+8. Dostoevsl^'s prophecy that Russia coiild become the savior of 
+Christi-.in civilization. 
+
+9* Dostoevsky democratization of Marxism socialism— baaed on materialism. 
+
+10, Soviet Government and Dostoevsky, 
+
+11. Dostoevsky the patriot. 
+
+
+
+er|c 
+
+
+
+18 
+
+
+
+r.ucclan Plny^’Tites (,.pproxiinr.teIy 10 hours) 
+
+
+
+1 / 
+
+
+
+1 . Ostrovsky 
+
+a) "The Poor Btide" 
+
+b) "In Poverty Is llo Crime" 
+
+c) "The Thunderstorm" 
+
+2. A. P. Chekhov 1060-19:>U 
+"The Three Sisters” 
+
+"The Cherry Orchard" 
+
+r) The clash between sentimentalism on the one hand and materialism 
+on the other. 
+
+b) "Tlie Cherry Orchard" and "Gone with the I'^ind" by M. itltchell, 
+iirs. Kanevskaya and Scarlett. 
+
+3. Russian "Twilight Period" — transition between the dovnifall of 
+the "House of Gentlefolk" and the advent of the peasant. 
+
+
+
+
+1P 
+
+
+
+2J 
+
+
+
+
+Leo Tolsto2>^ 1o2S-1910 ( Approximately 20 hours) 
+
+1, Tolstoy's biography, 
+
+2, Tolstoy's linguist. 
+
+3, Tolstoy's officer, 
+
+U. First manuscript, "Childhood." 
+
+5. Tolstoy in foreign countries, 
+
+6. Educational Journal, "Tasnaya y Polyana," 
+
+7. Tolstcy and theology and ritualism of the Russian Orthodox 
+Church, 
+
+6, Tolstoy leaves his luxurious hone at 32. 
+
+9, Three periods of Tolstoy's literary career, 
+
+a) l8g2-62 
+"Childhood" 
+
+"Boyhood" 
+
+"Youth" 
+
+"The Cossacks" 
+
+b) 1362-79 
+
+■I'ar and Peace" 
+
+"""
+Anna Karenina" 
+
+c) 1679-1910 
+
+A Morte de Ivan Ilyich 
+
+O Sonata do Ereutzer 
+
+Ressurreição 
+
+>Iy P.eliglon 
+
+A Palavra de Deus está em Vós 
+
+Tolstói, o projeta e professor da sua geração, 
+
+Tolstói e a sua missão, 
+
+Tolstói Ocidentalizador e Slavófilo e ensinamento próprio, 
+
+Tolstoísmo, 
+
+
+
+sobre 
+
+
+
+I
+
+
+
+I
+
+Tolstói e as religiões líderes do mundo. 
+
+Deus é a lei moral dentro do homem, 
+
+Tolstói e o mundo ocidental diferenciador, 
+
+
+O
+
+Gorky 1866-1936 (Aproximadamente 21 horas) 
+
+A vida de Gorky, antes e depois da revolução. 
+
+"Os Profundos Abismos" — a peça mais popular. 
+
+Infância 
+
+O futuro da Rússia na industrialização. 
+
+Gorky como intérprete clássico da cultura proletária russa. 
+
+Gorky como talento, mas não como genialidade. 
+
+A Mãe de Gorky — um documento político. 
+
+Sholokhov 1905-2008 
+
+A tradição do romance clássico russo. 
+
+O realismo crasso da linguagem. 
+
+"O Don Silencioso" — o trabalho mais popular produzido na Rússia soviética. 
+
+Robôs literários. 
+
+O autor revisou os manuscritos muitas vezes. 
+
+Pasternak 
+
+A poesia de Pasternak. 
+
+Doctor Zhivago 
+
+Publicação de Doctor Zhivago.
