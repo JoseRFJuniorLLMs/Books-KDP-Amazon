@@ -13,13 +13,13 @@ Uso:
     python -m src.pipeline.generator --input books/txt/pt --output books/docx/pt
 """
 
-import os
 import re
 import json
 import asyncio
 import aiohttp
 import argparse
 import zipfile
+import sys
 from pathlib import Path
 from typing import List, Dict, Optional, Tuple
 from datetime import datetime
@@ -27,10 +27,13 @@ from io import BytesIO
 from lxml import etree
 from concurrent.futures import ThreadPoolExecutor
 
-# Configuração
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-preview:generateContent"
-TEMPLATE_PATH = Path("templates/template.docx")
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import GEMINI_API_KEY, GEMINI_URL, TEMPLATE_DOCX
+
+TEMPLATE_PATH = TEMPLATE_DOCX
 
 # Namespaces DOCX
 NSMAP = {

@@ -12,7 +12,6 @@ Uso:
     python pipeline_kdp.py --processar --limit 5  # Processa livros válidos
 """
 
-import os
 import sys
 import asyncio
 import aiohttp
@@ -30,11 +29,16 @@ from dataclasses import dataclass
 from lxml import etree
 from copy import deepcopy
 
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import VERTEX_PROJECT, VERTEX_REGION
+
 # =============================================================================
 # CONFIGURAÇÕES
 # =============================================================================
 
-VERTEX_API_KEY = os.getenv("VERTEX_API_KEY", "AQ.Ab8RN6I5q1OHyDoU18jD39-8LwCZwPlXHd9SyGsPtLzmzjF_hw")
 VERTEX_ENDPOINT = "https://aiplatform.googleapis.com/v1/publishers/google/models"
 MODEL = "gemini-2.0-flash"
 

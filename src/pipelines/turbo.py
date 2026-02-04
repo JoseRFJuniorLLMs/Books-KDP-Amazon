@@ -9,7 +9,6 @@ Uso:
     python pipeline_turbo.py --workers 20 --run --limit 100
 """
 
-import os
 import sys
 import json
 import multiprocessing as mp
@@ -24,11 +23,16 @@ from datetime import datetime
 from typing import List, Dict, Tuple, Optional
 from dataclasses import dataclass
 
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import VERTEX_PROJECT, VERTEX_REGION
+
 # =============================================================================
 # CONFIGURAÇÕES
 # =============================================================================
 
-VERTEX_API_KEY = os.getenv("VERTEX_API_KEY", "AQ.Ab8RN6I5q1OHyDoU18jD39-8LwCZwPlXHd9SyGsPtLzmzjF_hw")
 VERTEX_ENDPOINT = "https://aiplatform.googleapis.com/v1/publishers/google/models"
 MODEL = "gemini-2.0-flash"
 

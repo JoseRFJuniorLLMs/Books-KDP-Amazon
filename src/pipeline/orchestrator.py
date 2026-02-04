@@ -21,7 +21,6 @@ Uso:
     python -m src.pipeline.orchestrator --step clean
 """
 
-import os
 import sys
 import json
 import asyncio
@@ -29,6 +28,12 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
+
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import GEMINI_API_KEY
 
 # Importar módulos do pipeline
 from .downloader import BookDownloader
@@ -50,7 +55,7 @@ class PipelineOrchestrator:
         generate_workers: int = 4
     ):
         self.base_dir = base_dir
-        self.gemini_api_key = gemini_api_key or os.getenv("GEMINI_API_KEY", "")
+        self.gemini_api_key = gemini_api_key or GEMINI_API_KEY
         self.download_workers = download_workers
         self.translate_workers = translate_workers
         self.generate_workers = generate_workers

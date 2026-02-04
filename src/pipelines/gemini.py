@@ -12,7 +12,6 @@ Uso:
     python pipeline_gemini.py --run --limit 10
 """
 
-import os
 import sys
 import asyncio
 import aiohttp
@@ -29,20 +28,24 @@ import re
 
 from tqdm import tqdm
 
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import (
+    VERTEX_PROJECT, VERTEX_REGION, BUCKET_NAME, PROJECT_ID
+)
+
 # =============================================================================
 # CONFIGURAÇÕES
 # =============================================================================
 
-# Vertex AI API Key
-VERTEX_API_KEY = os.getenv("VERTEX_API_KEY", "AQ.Ab8RN6I5q1OHyDoU18jD39-8LwCZwPlXHd9SyGsPtLzmzjF_hw")
-
 # Endpoint Vertex AI
 VERTEX_ENDPOINT = "https://aiplatform.googleapis.com/v1/publishers/google/models"
-MODEL = "gemini-2.0-flash"  # Rápido e disponível
+MODEL = "gemini-2.0-flash"
 
 # GCS
-GCS_BUCKET = "testmassivo-kdp-2024"
-PROJECT_ID = "aurorav2-484411"
+GCS_BUCKET = BUCKET_NAME or "testmassivo-kdp-2024"
 
 # Diretórios
 BASE_DIR = Path(__file__).parent

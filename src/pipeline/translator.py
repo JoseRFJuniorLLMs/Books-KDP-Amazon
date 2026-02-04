@@ -9,22 +9,26 @@ Uso:
     python -m src.pipeline.translator --input books/txt/en --output books/txt/pt --workers 10
 """
 
-import os
 import asyncio
 import argparse
+import sys
 from pathlib import Path
 from typing import List, Dict, Optional
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 import json
 
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import PROJECT_ID, INPUT_TXT_DIR, TRANSLATED_DIR
+
 # Google Cloud Translation
 from google.cloud import translate_v2 as translate
 
-# Configuração
-PROJECT_ID = os.getenv("PROJECT_ID", "aurorav2-484411")
-INPUT_DIR = Path("books/txt")
-OUTPUT_DIR = Path("books/txt/pt")
+INPUT_DIR = INPUT_TXT_DIR
+OUTPUT_DIR = TRANSLATED_DIR
 MAX_WORKERS = 10
 CHUNK_SIZE = 5000  # Cloud Translation limite ~5000 chars
 

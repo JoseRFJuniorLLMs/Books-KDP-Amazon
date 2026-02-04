@@ -25,11 +25,11 @@ from pathlib import Path
 from datetime import datetime
 from typing import Optional, Dict, List, Tuple
 
-# Configurações
-sys.path.insert(0, str(Path(__file__).parent.parent))
+# Configuracoes - adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 from config.settings import (
     LOG_DIR, OLLAMA_BASE_URL, OLLAMA_MODEL,
-    OPENAI_API_KEY, GEMINI_API_KEY
+    OPENAI_API_KEY, GEMINI_API_KEY, XAI_API_KEY
 )
 
 # ============================================================================

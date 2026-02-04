@@ -23,11 +23,18 @@ import sqlite3
 import argparse
 import zipfile
 import shutil
+import sys
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional
 from datetime import datetime
 from collections import Counter
 from copy import deepcopy
+
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import GEMINI_API_KEY, TEMPLATE_DOCX
 
 # Namespaces OOXML
 NS = {
@@ -308,7 +315,7 @@ class VocabularyEnricher:
         self.source_lang = source_lang
         self.num_words = num_words
         self.use_api = use_api
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY", "")
+        self.api_key = api_key or GEMINI_API_KEY
 
         self.cache = TranslationCache()
         self.stopwords = STOPWORDS.get(source_lang, set())
@@ -398,6 +405,57 @@ class VocabularyEnricher:
                 'mudar': 'change', 'acreditar': 'believe', 'confiar': 'trust',
                 'sempre': 'always', 'nunca': 'never', 'agora': 'now', 'hoje': 'today',
                 'ontem': 'yesterday', 'amanhã': 'tomorrow', 'aqui': 'here', 'ali': 'there',
+                # Palavras comuns em textos literários/filosóficos
+                'estado': 'state', 'governo': 'government', 'pessoas': 'people', 'povo': 'people',
+                'cidadão': 'citizen', 'cidadãos': 'citizens', 'democracia': 'democracy',
+                'liberdade': 'freedom', 'justiça': 'justice', 'direito': 'right', 'direitos': 'rights',
+                'dever': 'duty', 'deveres': 'duties', 'lei': 'law', 'leis': 'laws',
+                'ordem': 'order', 'sociedade': 'society', 'natureza': 'nature', 'natural': 'natural',
+                'todos': 'all', 'outros': 'others', 'outro': 'other', 'mesmo': 'same',
+                'cada': 'each', 'apenas': 'only', 'ainda': 'still', 'muito': 'much',
+                'parte': 'part', 'partes': 'parts', 'todo': 'whole', 'forma': 'form',
+                'modo': 'way', 'maneira': 'manner', 'caso': 'case', 'coisa': 'thing',
+                'coisas': 'things', 'fato': 'fact', 'fatos': 'facts', 'causa': 'cause',
+                'efeito': 'effect', 'princípio': 'principle', 'fim': 'end', 'meio': 'means',
+                'objeto': 'object', 'sujeito': 'subject', 'ação': 'action', 'movimento': 'movement',
+                'lugar': 'place', 'lugares': 'places', 'espaço': 'space', 'tempo': 'time',
+                'vezes': 'times', 'número': 'number', 'quantidade': 'quantity', 'qualidade': 'quality',
+                'sentido': 'sense', 'significado': 'meaning', 'valor': 'value', 'importante': 'important',
+                'necessário': 'necessary', 'possível': 'possible', 'impossível': 'impossible',
+                'verdadeiro': 'true', 'falso': 'false', 'real': 'real', 'aparente': 'apparent',
+                'primeiro': 'first', 'último': 'last', 'segundo': 'second', 'terceiro': 'third',
+                'maior': 'greater', 'menor': 'lesser', 'melhor': 'better', 'pior': 'worse',
+                'igual': 'equal', 'diferente': 'different', 'semelhante': 'similar', 'contrário': 'contrary',
+                'exemplo': 'example', 'questão': 'question', 'problema': 'problem', 'solução': 'solution',
+                'resposta': 'answer', 'pergunta': 'question', 'opinião': 'opinion', 'conhecimento': 'knowledge',
+                'ciência': 'science', 'filosofia': 'philosophy', 'religião': 'religion', 'arte': 'art',
+                'cultura': 'culture', 'educação': 'education', 'experiência': 'experience',
+                'teoria': 'theory', 'prática': 'practice', 'método': 'method', 'sistema': 'system',
+                'relação': 'relation', 'conexão': 'connection', 'união': 'union', 'separação': 'separation',
+                'indivíduo': 'individual', 'grupo': 'group', 'classe': 'class', 'família': 'family',
+                'comunidade': 'community', 'nação': 'nation', 'pátria': 'homeland', 'estrangeiro': 'foreigner',
+                'guerra': 'war', 'paz': 'peace', 'conflito': 'conflict', 'acordo': 'agreement',
+                'contrato': 'contract', 'promessa': 'promise', 'palavra': 'word', 'discurso': 'speech',
+                'linguagem': 'language', 'escrita': 'writing', 'leitura': 'reading', 'texto': 'text',
+                'autor': 'author', 'obra': 'work', 'livro': 'book', 'capítulo': 'chapter',
+                'página': 'page', 'linha': 'line', 'parágrafo': 'paragraph', 'frase': 'sentence',
+                'caráter': 'character', 'personalidade': 'personality', 'comportamento': 'behavior',
+                'atitude': 'attitude', 'intenção': 'intention', 'vontade': 'will', 'desejo': 'desire',
+                'paixão': 'passion', 'emoção': 'emotion', 'sentimento': 'feeling', 'afeto': 'affection',
+                'prazer': 'pleasure', 'dor': 'pain', 'sofrimento': 'suffering', 'alegria': 'joy',
+                'virtude': 'virtue', 'vício': 'vice', 'bem': 'good', 'mal': 'evil',
+                'bondade': 'goodness', 'maldade': 'evil', 'inocência': 'innocence', 'culpa': 'guilt',
+                'pecado': 'sin', 'salvação': 'salvation', 'perdão': 'forgiveness', 'castigo': 'punishment',
+                'recompensa': 'reward', 'mérito': 'merit', 'glória': 'glory', 'honra': 'honor',
+                'vergonha': 'shame', 'orgulho': 'pride', 'humildade': 'humility', 'vaidade': 'vanity',
+                'sabedoria': 'wisdom', 'ignorância': 'ignorance', 'loucura': 'madness', 'sanidade': 'sanity',
+                'consciência': 'consciousness', 'inconsciência': 'unconsciousness', 'memória': 'memory',
+                'imaginação': 'imagination', 'fantasia': 'fantasy', 'realidade': 'reality',
+                'existência': 'existence', 'essência': 'essence', 'substância': 'substance',
+                'acidente': 'accident', 'necessidade': 'necessity', 'contingência': 'contingency',
+                'eternidade': 'eternity', 'infinito': 'infinite', 'finito': 'finite', 'absoluto': 'absolute',
+                'relativo': 'relative', 'universal': 'universal', 'particular': 'particular',
+                'geral': 'general', 'específico': 'specific', 'abstrato': 'abstract', 'concreto': 'concrete',
             },
             'es': {
                 'amor': 'love', 'vida': 'life', 'tiempo': 'time', 'mundo': 'world',

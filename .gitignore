@@ -31,7 +31,9 @@ logs/
 
 # Credentials (NUNCA commitar!)
 .env
-*.env
+.env-local
+.env-gcp
+!.env.example
 credentials*.json
 key*.json
 *_key.json

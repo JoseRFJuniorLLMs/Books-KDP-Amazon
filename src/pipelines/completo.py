@@ -14,7 +14,6 @@ Uso:
 """
 
 import sys
-import os
 import re
 import zipfile
 import argparse
@@ -28,9 +27,13 @@ from copy import deepcopy
 import requests
 from tqdm import tqdm
 
-# Configurações
-OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5:14b")
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# Configuracao centralizada
+from config.settings import OLLAMA_BASE_URL, OLLAMA_MODEL
+
+OLLAMA_URL = f"{OLLAMA_BASE_URL}/api/generate"
 FOOTNOTE_FONT_SIZE = 9
 MAX_FOOTNOTES = 50
 CHUNK_SIZE = 2000  # caracteres por chunk
