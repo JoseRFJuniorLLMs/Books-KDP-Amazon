@@ -247,3 +247,8 @@ python -m src.pipeline.smart_processor \
 
   # 9. Rodar pipeline
   python -m src.pipeline.smart_processor --input books/txt/other --output books --limit 1
+
+    git pull
+  pip install -r requirements.txt
+  copy .env-local .env
+  python scripts/setup_local.py
