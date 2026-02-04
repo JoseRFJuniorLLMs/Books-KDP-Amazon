@@ -79,7 +79,7 @@ class WatchdogStats:
                 self.start_time = data.get('start_time', datetime.now().isoformat())
                 self.last_restart = data.get('last_restart', None)
                 self.daemon_crashes = data.get('daemon_crashes', 0)
-            except:
+            except Exception:
                 self._reset()
         else:
             self._reset()

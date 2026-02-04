@@ -10,22 +10,46 @@ import asyncio
 import aiohttp
 import re
 import zipfile
+import shutil
 from pathlib import Path
 from io import BytesIO
 from lxml import etree
 import subprocess
 import sys
 
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+from config.settings import (
+    VERTEX_PROJECT, VERTEX_REGION, BASE_DIR, TEMPLATE_DOCX,
+    INPUT_TXT_DIR, get_vertex_url
+)
+
 # Configuração
-PROJECT = "aurorav2-484411"
-REGION = "us-central1"
-VERTEX_URL = f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-3-pro-preview:generateContent"
+PROJECT = VERTEX_PROJECT or "aurorav2-484411"
+REGION = VERTEX_REGION or "us-central1"
+VERTEX_URL = get_vertex_url("gemini-2.0-flash") if VERTEX_PROJECT else f"https://{REGION}-aiplatform.googleapis.com/v1/projects/{PROJECT}/locations/{REGION}/publishers/google/models/gemini-2.0-flash:generateContent"
 
 # Pastas
-BASE_DIR = Path("D:/dev/BooksKDP")
-TXT_DIR = BASE_DIR / "txt"
+TXT_DIR = INPUT_TXT_DIR
 OUTPUT_DIR = BASE_DIR / "livros_prontos"
-TEMPLATE_PATH = BASE_DIR / "Estrutura.docx"
+TEMPLATE_PATH = TEMPLATE_DOCX
+
+def find_gcloud():
+    """Encontra gcloud automaticamente."""
+    gcloud = shutil.which("gcloud")
+    if gcloud:
+        return gcloud
+    common_paths = [
+        "C:/Program Files (x86)/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd",
+        "C:/Program Files/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd",
+        "/usr/bin/gcloud",
+        "/usr/local/bin/gcloud",
+        os.path.expanduser("~/google-cloud-sdk/bin/gcloud"),
+    ]
+    for path in common_paths:
+        if os.path.exists(path):
+            return path
+    raise FileNotFoundError("gcloud não encontrado. Instale o Google Cloud SDK.")
 
 # Namespaces DOCX
 NAMESPACES = {
@@ -48,9 +72,9 @@ _token_expiry = 0
 def get_access_token():
     """Obtém token via gcloud."""
     global _token
+    gcloud = find_gcloud()
     r = subprocess.run(
-        ['C:/Program Files (x86)/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd',
-         'auth', 'print-access-token'],
+        [gcloud, 'auth', 'print-access-token'],
         capture_output=True, text=True, shell=True, timeout=30
     )
     _token = r.stdout.strip()
@@ -188,7 +212,7 @@ Texto: {texto[:6000]}"""
                                     explicacao = p[1].strip()
                                     if termo and explicacao and 2 < len(termo) < 50:
                                         notas.append((termo, explicacao))
-        except:
+        except Exception:
             pass
 
         print(f"        {len(notas)} notas", flush=True)
@@ -323,7 +347,7 @@ def criar_docx(template_bytes, texto, titulo, autor, notas):
             if 'footnotes.xml' not in ct:
                 ct = ct.replace('</Types>', '<Override PartName="/word/footnotes.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"/></Types>')
                 docx.writestr('[Content_Types].xml', ct.encode('utf-8'))
-        except:
+        except Exception:
             pass
 
     template_zip.close()

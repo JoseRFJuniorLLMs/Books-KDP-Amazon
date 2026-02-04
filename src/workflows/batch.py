@@ -306,7 +306,7 @@ def processar_resultados(livros_info_path: Path, results_dir: Path):
                     if req_id and 'response' in data:
                         text = data['response'].get('candidates', [{}])[0].get('content', {}).get('parts', [{}])[0].get('text', '')
                         resultados[req_id] = text
-                except:
+                except Exception:
                     pass
 
     print(f"Resultados carregados: {len(resultados)}")

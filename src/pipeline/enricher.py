@@ -549,7 +549,7 @@ class VocabularyEnricher:
             with urllib.request.urlopen(req, timeout=10) as resp:
                 result = json_module.loads(resp.read())
                 return result["candidates"][0]["content"]["parts"][0]["text"].strip().lower()
-        except:
+        except Exception:
             return None
 
     @staticmethod

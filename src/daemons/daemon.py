@@ -84,7 +84,7 @@ class DaemonStats:
                 self.total_errors = data.get('total_errors', 0)
                 self.start_time = data.get('start_time', datetime.now().isoformat())
                 self.last_cycle = data.get('last_cycle', None)
-            except:
+            except Exception:
                 self._reset()
         else:
             self._reset()
@@ -151,7 +151,7 @@ def check_ollama_running():
     try:
         response = requests.get(f"{OLLAMA_BASE_URL}/api/tags", timeout=5)
         return response.status_code == 200
-    except:
+    except Exception:
         return False
 
 def start_ollama():
@@ -199,7 +199,7 @@ def check_model_exists(model_name: str) -> bool:
         if response.status_code == 200:
             models = response.json().get('models', [])
             return any(m['name'] == model_name for m in models)
-    except:
+    except Exception:
         pass
     return False
 

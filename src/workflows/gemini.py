@@ -444,7 +444,7 @@ def escanear_livros() -> List[Livro]:
                 txt_path=main_file,
                 texto=texto
             ))
-        except:
+        except Exception:
             pass
 
     return livros

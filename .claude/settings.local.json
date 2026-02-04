@@ -4,7 +4,25 @@
       "Bash(powershell -Command \"gcloud compute ssh bookskdp-super --zone=us-central1-a --project=aurorav2-484411 --command=''tail -30 /var/log/bookskdp.log'' 2>&1 | Select-Object -Last 35\")",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(powershell -Command \"gcloud compute instances add-metadata bookskdp-super --zone=us-central1-a --project=aurorav2-484411 --metadata-from-file=startup-script=''D:\\\\dev\\\\BooksKDP\\\\gcp\\\\startup_super.sh''; gcloud compute instances reset bookskdp-super --zone=us-central1-a --project=aurorav2-484411\")",
+      "Bash(powershell -Command \"gcloud compute ssh bookskdp-super --zone=us-central1-a --project=aurorav2-484411 --command=''tail -40 /var/log/bookskdp.log'' 2>&1 | Select-Object -Last 45\")",
+      "Bash(powershell -Command \"New-Item -ItemType Directory -Force -Path ''D:\\\\dev\\\\BooksKDP\\\\books\\\\docx\\\\gcp''; gcloud storage cp -r ''gs://bookskdp-aurorav2-484411/docx/*'' ''D:\\\\dev\\\\BooksKDP\\\\books\\\\docx\\\\gcp\\\\''\")",
+      "Bash(powershell -Command \"gcloud compute instances stop bookskdp-super --zone=us-central1-a --project=aurorav2-484411 --quiet\")",
+      "Bash(powershell -Command \"Get-Content ''C:\\\\Users\\\\web2a\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--dev-BooksKDP\\\\tasks\\\\b958248.output'' -Tail 10\")",
+      "Bash(powershell -Command \"New-Item -ItemType Directory -Force -Path ''D:\\\\dev\\\\BooksKDP\\\\books\\\\covers''; gcloud storage cp -r ''gs://bookskdp-aurorav2-484411/covers/*'' ''D:\\\\dev\\\\BooksKDP\\\\books\\\\covers\\\\''\")",
+      "Bash(powershell -Command \"gcloud compute instances stop bookskdp-super bookskdp-processor --zone=us-central1-a --project=aurorav2-484411 --quiet 2>&1\")",
+      "Bash(powershell -Command \"Get-ChildItem ''D:\\\\dev\\\\BooksKDP\\\\books\\\\txt\\\\pt'' -Filter *.txt | Select-Object -First 1 Name, Length\")",
+      "Bash(powershell -Command \"Get-ChildItem ''D:\\\\dev\\\\BooksKDP\\\\books\\\\docx\\\\test'' | Select-Object Name, @{N=''Size\\(KB\\)'';E={[math]::Round\\($_Length/1KB,1\\)}}\")",
+      "Bash(powershell -Command \"\\(Get-Item ''D:\\\\dev\\\\BooksKDP\\\\books\\\\docx\\\\test\\\\*.docx''\\).Length\")",
+      "Bash(powershell:*)",
+      "Bash(ls:*)",
+      "Bash(head:*)",
+      "Bash(set GEMINI_API_KEY=AQ.Ab8RN6JSuBvUJhCroyVUIHAgD2pw6quY8GiBOiF6Yv3f8_Z6_Q)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(where:*)",
+      "Bash(cmd /c \"gcloud auth print-access-token\")"
     ]
   }
 }

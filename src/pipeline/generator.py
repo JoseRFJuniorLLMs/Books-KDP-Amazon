@@ -499,7 +499,7 @@ Texto (primeiros 8000 caracteres):
                 ct = ct.replace('</Types>',
                     '<Override PartName="/word/footnotes.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"/></Types>')
                 docx.writestr('[Content_Types].xml', ct.encode('utf-8'))
-        except:
+        except Exception:
             pass
 
     def _update_relationships(self, docx, template_zip):
@@ -513,7 +513,7 @@ Texto (primeiros 8000 caracteres):
                 new_rel = f'<Relationship Id="rId{next_id}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes" Target="footnotes.xml"/>'
                 rels = rels.replace('</Relationships>', f'{new_rel}</Relationships>')
                 docx.writestr('word/_rels/document.xml.rels', rels.encode('utf-8'))
-        except:
+        except Exception:
             pass
 
     def create_docx_simple(self, content: str, output_path: Path, title: str, author: str) -> bool:

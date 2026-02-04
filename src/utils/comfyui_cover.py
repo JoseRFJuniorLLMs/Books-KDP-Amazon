@@ -106,7 +106,7 @@ class ComfyUICoverGenerator:
         try:
             r = requests.get(f"{self.url}/system_stats", timeout=5)
             return r.status_code == 200
-        except:
+        except Exception:
             return False
 
     def build_prompt(

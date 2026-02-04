@@ -7,11 +7,36 @@ Roda em loop contínuo até o job terminar.
 import subprocess
 import time
 import os
+import shutil
+import sys
 from pathlib import Path
 
-BUCKET = "gs://aurorav2-484411-kdp"
-GCLOUD = "C:/Program Files (x86)/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd"
-LOCAL_DIR = Path("D:/dev/BooksKDP/livros_prontos")
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+from config.settings import BUCKET_NAME, BASE_DIR
+
+def find_gcloud():
+    """Encontra gcloud automaticamente."""
+    # Tenta shutil.which primeiro
+    gcloud = shutil.which("gcloud")
+    if gcloud:
+        return gcloud
+    # Fallback para paths comuns
+    common_paths = [
+        "C:/Program Files (x86)/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd",
+        "C:/Program Files/Google/Cloud SDK/google-cloud-sdk/bin/gcloud.cmd",
+        "/usr/bin/gcloud",
+        "/usr/local/bin/gcloud",
+        os.path.expanduser("~/google-cloud-sdk/bin/gcloud"),
+    ]
+    for path in common_paths:
+        if os.path.exists(path):
+            return path
+    raise FileNotFoundError("gcloud não encontrado. Instale o Google Cloud SDK.")
+
+BUCKET = f"gs://{BUCKET_NAME}" if BUCKET_NAME else "gs://aurorav2-484411-kdp"
+GCLOUD = find_gcloud()
+LOCAL_DIR = BASE_DIR / "livros_prontos"
 LOCAL_DIR.mkdir(exist_ok=True)
 
 def run_gcloud(args):

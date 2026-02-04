@@ -207,3 +207,43 @@ python -m src.pipeline.smart_processor \
     --words 100 \
     --limit 10
 ```
+  No notebook com GPU satanica:                                                                                                                                                                                               
+  # 1. Clonar/atualizar repo                                                                                     git clone https://github.com/JoseRFJuniorLLMs/Books-KDP-Amazon.git
+  cd Books-KDP-Amazon
+  git pull
+
+  # 2. Instalar dependencias
+  pip install -r requirements.txt
+
+  # 3. Configurar ambiente local
+  copy .env-local .env
+
+  # 4. Instalar Ollama + modelo
+  curl -fsSL https://ollama.com/install.sh | sh
+  ollama pull qwen2.5:14b
+  ollama serve &
+
+  # 5. LanguageTool (Docker)
+  docker run -d -p 8010:8010 erikvl87/languagetool
+
+  # 6. ComfyUI + SDXL
+  git clone https://github.com/comfyanonymous/ComfyUI
+  cd ComfyUI
+  pip install -r requirements.txt
+
+  # Baixar SDXL (escolha um):
+  wget -P models/checkpoints/
+  https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors      
+
+  # Iniciar ComfyUI
+  python main.py --listen &
+
+  # 7. Verificar setup
+  cd ..
+  python scripts/setup_local.py
+
+  # 8. Testar geracao de capa
+  python -m src.utils.comfyui_cover -t "A Republica" -a "Platao" -o test.png
+
+  # 9. Rodar pipeline
+  python -m src.pipeline.smart_processor --input books/txt/other --output books --limit 1

@@ -271,7 +271,7 @@ def escanear_livros(limite: int = 0) -> List[Dict]:
                 'idioma': detectar_idioma(texto),
                 'texto': texto
             })
-        except:
+        except Exception:
             pass
 
     return livros

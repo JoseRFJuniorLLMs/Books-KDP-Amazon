@@ -106,7 +106,7 @@ class BookDownloader:
                                     "lang": lang,
                                     "size": len(content)
                                 }
-                    except:
+                    except Exception:
                         continue
 
                 self.failed += 1

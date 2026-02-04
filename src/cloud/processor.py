@@ -375,7 +375,7 @@ def criar_docx_com_template(template_bytes, texto, titulo, autor, notas):
                 ct = ct.replace('</Types>',
                     '<Override PartName="/word/footnotes.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"/></Types>')
                 docx.writestr('[Content_Types].xml', ct.encode('utf-8'))
-        except:
+        except Exception:
             pass
 
     template_zip.close()

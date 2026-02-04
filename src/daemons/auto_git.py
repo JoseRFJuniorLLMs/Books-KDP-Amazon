@@ -80,7 +80,7 @@ class GitStats:
                 self.total_files = data.get('total_files', 0)
                 self.start_time = data.get('start_time', datetime.now().isoformat())
                 self.last_commit = data.get('last_commit', None)
-            except:
+            except Exception:
                 self._reset()
         else:
             self._reset()

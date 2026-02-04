@@ -1,25 +1,43 @@
+# ============================================================================
 # BooksKDP - Dependencias
-# =======================
+# ============================================================================
+#
+# MODO LOCAL:  pip install -r requirements.txt
+# MODO GCP:    pip install -r requirements.txt -r requirements_cloud.txt
+#
+# ============================================================================
 
-# Core
+# -----------------------------------------------------------------------------
+# Core (sempre necessario)
+# -----------------------------------------------------------------------------
 python-dotenv>=1.0.0
 requests>=2.31.0
 tqdm>=4.66.0
 aiohttp>=3.9.0
 
-# Documentos
+# -----------------------------------------------------------------------------
+# Documentos DOCX
+# -----------------------------------------------------------------------------
 python-docx>=0.8.11
 lxml>=4.9.0
 
-# Tokens (opcional mas recomendado)
-tiktoken>=0.5.0
-
-# Web/API
+# -----------------------------------------------------------------------------
+# Web/API (dashboard)
+# -----------------------------------------------------------------------------
 flask>=3.0.0
 
-# ComfyUI Integration (para geracao de capas local)
+# -----------------------------------------------------------------------------
+# Modo Local - Ollama + ComfyUI
+# -----------------------------------------------------------------------------
+# ComfyUI integration (geracao de capas com SDXL)
 websocket-client>=1.6.0
 
-# APIs de IA (opcionais - modo GCP)
-google-generativeai>=0.3.0
-openai>=1.0.0
+# Tokens (para estimar custos)
+tiktoken>=0.5.0
+
+# -----------------------------------------------------------------------------
+# APIs de IA (opcionais - podem ser usadas no modo local tambem)
+# -----------------------------------------------------------------------------
+# Descomente se quiser usar Gemini/OpenAI mesmo no modo local
+# google-generativeai>=0.3.0
+# openai>=1.0.0

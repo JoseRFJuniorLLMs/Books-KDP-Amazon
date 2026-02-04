@@ -205,7 +205,7 @@ try:
         try:
             sample = text[:5000]
             return langdetect_detect(sample)
-        except:
+        except Exception:
             return 'unknown'
 
 except ImportError:

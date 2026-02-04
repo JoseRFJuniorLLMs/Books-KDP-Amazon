@@ -393,7 +393,7 @@ class RussianHunter:
                     try:
                         text = content.decode(enc)
                         break
-                    except:
+                    except Exception:
                         continue
 
                 if not text or len(text) < 500:

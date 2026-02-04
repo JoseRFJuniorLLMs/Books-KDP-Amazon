@@ -47,7 +47,7 @@ def get_project_id():
             capture_output=True, text=True
         )
         return result.stdout.strip()
-    except:
+    except Exception:
         return None
 
 def upload_to_gcs():
@@ -563,7 +563,7 @@ def verificar_status():
             print(f"  Sucesso: {resumo.get('sucesso', '?')}")
             print(f"  Erros: {resumo.get('erro', '?')}")
             print(f"  Inválidos: {resumo.get('invalido', '?')}")
-        except:
+        except Exception:
             pass
 
 def download_docx():

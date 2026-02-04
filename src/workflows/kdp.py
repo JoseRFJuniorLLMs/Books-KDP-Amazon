@@ -210,7 +210,7 @@ async def call_gemini(session: aiohttp.ClientSession, prompt: str,
                         await asyncio.sleep(2 ** attempt)
                     else:
                         await asyncio.sleep(1)
-            except:
+            except Exception:
                 await asyncio.sleep(1)
         return ""
 

@@ -475,7 +475,7 @@ class BookCoverOrchestrator:
         try:
             with open(book_txt_path, 'r', encoding='utf-8') as f:
                 text_sample = f.read(5000)  # Primeiros 5000 chars
-        except:
+        except Exception:
             text_sample = ""
 
         # Analisa o livro

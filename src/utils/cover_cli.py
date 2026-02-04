@@ -194,7 +194,7 @@ def adicionar_texto_capa(imagem_path: Path, titulo: str, autor: str,
             # Fontes comuns no Windows
             font_titulo = ImageFont.truetype("arial.ttf", int(height * 0.06))
             font_autor = ImageFont.truetype("arial.ttf", int(height * 0.03))
-        except:
+        except Exception:
             font_titulo = ImageFont.load_default()
             font_autor = ImageFont.load_default()
 

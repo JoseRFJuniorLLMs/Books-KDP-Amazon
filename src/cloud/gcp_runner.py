@@ -13,21 +13,42 @@ import sys
 import json
 import subprocess
 import time
+import shutil
 from pathlib import Path
 
-BUCKET = "aurorav2-484411-kdp"
-REGION = "us-central1"
+# Adiciona raiz do projeto ao path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+from config.settings import BUCKET_NAME, VERTEX_REGION, OUTPUT_DOCX_DIR, INPUT_TXT_DIR
+
+def find_gcloud():
+    """Encontra gcloud/gsutil automaticamente."""
+    gcloud = shutil.which("gcloud")
+    gsutil = shutil.which("gsutil")
+    if gcloud and gsutil:
+        return gcloud, gsutil
+    # Fallback para paths comuns
+    common_bins = [
+        r"C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin",
+        r"C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin",
+        "/usr/bin",
+        "/usr/local/bin",
+        os.path.expanduser("~/google-cloud-sdk/bin"),
+    ]
+    for bin_dir in common_bins:
+        gcloud_path = os.path.join(bin_dir, "gcloud.cmd" if os.name == "nt" else "gcloud")
+        gsutil_path = os.path.join(bin_dir, "gsutil.cmd" if os.name == "nt" else "gsutil")
+        if os.path.exists(gcloud_path):
+            return gcloud_path, gsutil_path
+    raise FileNotFoundError("gcloud/gsutil não encontrado. Instale o Google Cloud SDK.")
+
+BUCKET = BUCKET_NAME or "aurorav2-484411-kdp"
+REGION = VERTEX_REGION or "us-central1"
 BASE_DIR = Path(__file__).parent
-TXT_DIR = BASE_DIR / "txt"
-DOCX_DIR = BASE_DIR / "docx"
+TXT_DIR = INPUT_TXT_DIR or BASE_DIR / "txt"
+DOCX_DIR = OUTPUT_DOCX_DIR or BASE_DIR / "docx"
 
-# Google Cloud SDK path no Windows
-GCLOUD_BIN = r"C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin"
-GSUTIL = os.path.join(GCLOUD_BIN, "gsutil.cmd")
-GCLOUD = os.path.join(GCLOUD_BIN, "gcloud.cmd")
-
-# Vertex AI API Key (já configurada)
-VERTEX_API_KEY = "AQ.Ab8RN6I5q1OHyDoU18jD39-8LwCZwPlXHd9SyGsPtLzmzjF_hw"
+# Encontra gcloud/gsutil automaticamente
+GCLOUD, GSUTIL = find_gcloud()
 
 def run_cmd(cmd, show=True):
     """Executa comando e retorna output."""
@@ -112,7 +133,7 @@ async def chamar_gemini(session, prompt, sem):
                         d = await r.json()
                         return d.get("candidates", [{{}}])[0].get("content", {{}}).get("parts", [{{}}])[0].get("text", "")
                     await asyncio.sleep(2)
-            except:
+            except Exception:
                 await asyncio.sleep(1)
         return ""
 
