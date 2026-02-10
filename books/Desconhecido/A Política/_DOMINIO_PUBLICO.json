@@ -1,0 +1,17 @@
+{
+  "autor": "A Política",
+  "titulo": "A Política",
+  "verificacoes": [
+    {
+      "status": "INCERTO",
+      "motivo": "Erro na verificação de A Política"
+    },
+    {
+      "status": "INCERTO",
+      "motivo": "Erro na análise"
+    }
+  ],
+  "verificado_em": "2026-02-04T00:37:24.222125",
+  "pode_publicar_comercialmente": true,
+  "aviso": "Verificar manualmente se necessário"
+}

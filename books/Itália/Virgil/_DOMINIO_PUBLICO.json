@@ -1,0 +1,26 @@
+{
+  "autor": "Virgil",
+  "titulo": "The Aeneid",
+  "verificacoes": [
+    {
+      "autor": "Virgil",
+      "ano_nascimento": -70,
+      "ano_morte": -19,
+      "anos_desde_morte": 2043,
+      "pais_origem": "Roma Antiga",
+      "ano_publicacao": null,
+      "status": "DOMÍNIO PÚBLICO",
+      "motivo": "Autor da antiguidade (morto há mais de 70 anos e antes de 1500)."
+    },
+    {
+      "autor_confirmado": "Virgil",
+      "autor_corresponde": true,
+      "ano_morte_encontrado": -19,
+      "anos_desde_morte": 2043,
+      "status": "DOMÍNIO PÚBLICO",
+      "motivo": "Virgílio morreu em 19 a.C., há mais de 70 anos. Portanto, a obra está em domínio público."
+    }
+  ],
+  "verificado_em": "2026-02-04T07:48:29.211666",
+  "pode_publicar_comercialmente": true
+}

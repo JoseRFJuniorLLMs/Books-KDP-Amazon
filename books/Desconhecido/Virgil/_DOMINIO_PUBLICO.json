@@ -1,0 +1,17 @@
+{
+  "autor": "Virgil",
+  "titulo": "The Aeneid",
+  "verificacoes": [
+    {
+      "status": "INCERTO",
+      "motivo": "Erro na verificação de Virgil"
+    },
+    {
+      "status": "INCERTO",
+      "motivo": "Erro na análise"
+    }
+  ],
+  "verificado_em": "2026-02-04T07:04:24.200678",
+  "pode_publicar_comercialmente": true,
+  "aviso": "Verificar manualmente se necessário"
+}
